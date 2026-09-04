@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/003/SubFst057_00378",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_00", "hash": "FADC8C9C396F08FB", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_01", "hash": "54119C1B17F184D9", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_02", "hash": "C37D3983EADAF458", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_03", "hash": "9E8041F1B228B437", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_TODO_00", "hash": "084A5909B2C1D2E3", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_TODO_01", "hash": "61B0F9EF647FE616", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_1", "hash": "7574B2E7A8D7B0A4", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_2", "hash": "B770877AE2CE687F", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_3", "hash": "DD09C9AA5391A8D5", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_11", "hash": "D9D640865286A857", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_12", "hash": "7C9486B0B3AA57FE", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_13", "hash": "02360712DA6E29EB", "target": "" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_POP_MESSAGE", "hash": "5A15183446A74807", "target": "" }
+  ]
+}

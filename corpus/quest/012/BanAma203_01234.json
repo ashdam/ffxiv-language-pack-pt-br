@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/012/BanAma203_01234",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_00", "hash": "59159A2A612BA877", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_01", "hash": "4DF90C97463A85A1", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_02", "hash": "9310A44FCAA042CB", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_03", "hash": "E9047AD236BF44FF", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_00", "hash": "87EB4349977F8626", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_01", "hash": "276527DA8CB83994", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_000", "hash": "6D74D0870144FDBF", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_002", "hash": "041BCB69E9E0DB7A", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_003", "hash": "4322EB872B7B2953", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "" }
+  ]
+}

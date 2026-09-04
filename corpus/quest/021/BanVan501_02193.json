@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/021/BanVan501_02193",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_SEQ_00", "hash": "B7C4C1EC117A9608", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_SEQ_01", "hash": "DF6BD2A55630B770", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_SEQ_02", "hash": "F019CFE51E13DC5E", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_SEQ_03", "hash": "A2D08807CF3E49EB", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_SEQ_04", "hash": "4D3AFE15D7D975FF", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_TODO_00", "hash": "29351E8446F6B2F0", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_TODO_01", "hash": "9696E889E05BBD5F", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_TODO_02", "hash": "531498B1BA3757A3", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_MUNAVANU_000_001", "hash": "A80174EE75E5763E", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_020", "hash": "F47A0E90BEF3B4BD", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_021", "hash": "2E955C0F31F0504A", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_022", "hash": "5E6667FE83803B3F", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_030", "hash": "65D3FD74033CFF59", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_MANDRAGORA02193_000_040", "hash": "E456683C521683E4", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_050", "hash": "3C533D8DC7F52340", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_051", "hash": "36427ADF56C2FF30", "target": "" },
+    { "gameKey": "quest/021/BanVan501_02193#TEXT_BANVAN501_02193_02193_RANUVALI_000_052", "hash": "6EF0875269A341CF", "target": "" }
+  ]
+}

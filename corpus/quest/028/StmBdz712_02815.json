@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/028/StmBdz712_02815",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "" }
+  ]
+}

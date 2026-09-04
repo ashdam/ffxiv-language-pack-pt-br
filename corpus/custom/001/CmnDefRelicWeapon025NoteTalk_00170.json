@@ -1,0 +1,15 @@
+{
+  "conversation": "custom/001/CmnDefRelicWeapon025NoteTalk_00170",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "" }
+  ]
+}

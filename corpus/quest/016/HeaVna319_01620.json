@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/016/HeaVna319_01620",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SEQ_00", "hash": "CFACC2D6023F0308", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SEQ_01", "hash": "1D55B2C1EE8A780A", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SEQ_02", "hash": "9B80BE31C8139CA0", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SEQ_03", "hash": "04B59BA41C32D654", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_TODO_00", "hash": "0CB4263822EBFF7B", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_TODO_01", "hash": "FB98C0BE690F700F", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_000", "hash": "23009D514F0BA885", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_001", "hash": "9E371D1FF3ED0E39", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_002", "hash": "5A5490C486FD1FEF", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_003", "hash": "06B63BB56E175EB0", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_004", "hash": "11F78C12D9C22A7A", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_005", "hash": "11FC9A7253F5B6E3", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_010", "hash": "8751D0D142908BCD", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_011", "hash": "A97A102A5AB1F3F0", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_MOGHAN_000_012", "hash": "0147B19A31EC294C", "target": "" },
+    { "gameKey": "quest/016/HeaVna319_01620#TEXT_HEAVNA319_01620_SYSTEM_000_900", "hash": "AC0998557CD1BB71", "target": "" }
+  ]
+}

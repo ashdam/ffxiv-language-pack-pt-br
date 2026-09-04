@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/035/LucKzg018_03503",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_SEQ_00", "hash": "276E5999197669DC", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_00", "hash": "19CCFDAFF05E4EC6", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_01", "hash": "D4C8D8FD112B728C", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_02", "hash": "E34DE696EDD353ED", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_03", "hash": "5DB11B545E45C52E", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_04", "hash": "6B475E378A424C49", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_000", "hash": "4EBB88E521408D51", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_001", "hash": "1F8B38E95472108D", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_010", "hash": "AD954A8B206295EF", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_EXPERTSCAVENGER03503_000_020", "hash": "2E6890A4C3456C2F", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_EXPERTSCAVENGER03503_000_021", "hash": "D55D23F0CA87D137", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_NOVICESCAVENGER03503_000_040", "hash": "405E6A6ADD875BBB", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_NOVICESCAVENGER03503_000_041", "hash": "57C243EAAD457956", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_NOVICESCAVENGER03503_000_050", "hash": "3EE5A4D692C75642", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_EXPERTSCAVENGER03503_000_060", "hash": "171F20A6692503B6", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_EXPERTSCAVENGER03503_000_061", "hash": "F15964B8A2A9DBFF", "target": "" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_EXPERTSCAVENGER03503_000_062", "hash": "7CCC98596214FE3A", "target": "" }
+  ]
+}

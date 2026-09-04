@@ -1,0 +1,11 @@
+{
+  "conversation": "cut_scene/061/VoiceMan_06101",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000010_NALDTHAL", "hash": "6BEEBD3712FAA84B", "target": "" },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000020_NALDTHAL", "hash": "B6F1B1ADF2EBE483", "target": "" },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000025_NALDTHAL", "hash": "BE45BA9A15594807", "target": "" },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000030_NALDTHAL", "hash": "567C62F042A7E098", "target": "" },
+    { "gameKey": "cut_scene/061/VoiceMan_06101#TEXT_VOICEMAN_06101_000040_ENDSINGER_NONE_VOICE", "hash": "8D025668C632CF8E", "target": "" }
+  ]
+}

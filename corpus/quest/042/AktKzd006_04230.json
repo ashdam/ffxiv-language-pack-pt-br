@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/042/AktKzd006_04230",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_SEQ_00", "hash": "E53D42B171B4ABA5", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_00", "hash": "401E87FFA03705B8", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_01", "hash": "43A2D9596BEF31A9", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_TODO_02", "hash": "2AEEEE72A6B81F64", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_000", "hash": "46BA09BFB38B46E4", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_001", "hash": "97E3EF6BF7B79E39", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_002", "hash": "5E43BFAC31121CF1", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_003", "hash": "5BE3522D24ED43B0", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_005", "hash": "CF493528CE313751", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_INJUREDSOLDIER04230_000_010", "hash": "37A041B619AF467D", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_INJUREDSOLDIER04230_000_011", "hash": "99B24E6DBFE0D8D4", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_INJUREDSOLDIER04230_000_012", "hash": "902D89BF81127926", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_INJUREDSOLDIER04230_000_013", "hash": "0097E6BA67977EC6", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_015", "hash": "D7C7998F7C0403B3", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_016", "hash": "BDFAC4FEA83632F8", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_017", "hash": "732E6E88F94A566A", "target": "" },
+    { "gameKey": "quest/042/AktKzd006_04230#TEXT_AKTKZD006_04230_MOLSOLDIER04230_000_018", "hash": "B10A2A88B170F276", "target": "" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/030/BanAna308_03049",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_002", "hash": "261F8B448498C523", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_010", "hash": "CAA988C6FCC54012", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_011", "hash": "D91DA39261F1682C", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_012", "hash": "FD6243792C7B947F", "target": "" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_013", "hash": "41B8C173FC6F3601", "target": "" }
+  ]
+}

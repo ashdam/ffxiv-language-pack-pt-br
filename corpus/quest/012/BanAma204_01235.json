@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/012/BanAma204_01235",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_00", "hash": "02220C2DB8E27414", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_01", "hash": "78C4EDC0AE65542A", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_02", "hash": "94E404C4842BD07A", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_SEQ_03", "hash": "7D6DD066645F1503", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_TODO_00", "hash": "CD03C168A5B062F6", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_TODO_01", "hash": "6D35A57BF3B586B1", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_000", "hash": "1476D36A1103CABD", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_001", "hash": "FBD34640EEDCD684", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_002", "hash": "6D98845DAC8665A0", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_003", "hash": "E79129244D50D556", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_004", "hash": "3D730384542032A9", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_010", "hash": "6935D97BADD31701", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_020", "hash": "465EA607C54B1C1E", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_NARUJIBOH_000_021", "hash": "12348B3C5CC8787B", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_POP_MESSAGE", "hash": "8D505D7D5506EBD4", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_POP_MESSAGE_000_000", "hash": "CAC3BF4F9B36792D", "target": "" },
+    { "gameKey": "quest/012/BanAma204_01235#TEXT_BANAMA204_01235_POP_BALLOON", "hash": "CB5A70C59393BFF3", "target": "" }
+  ]
+}

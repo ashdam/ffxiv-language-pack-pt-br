@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/033/LucKza026_03368",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_SEQ_00", "hash": "1C4B73105A9C46F6", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_00", "hash": "C9260E782BF86C2F", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_01", "hash": "69A231E1D78B3C6D", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_02", "hash": "5976F5D378B4508C", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_000", "hash": "3815D2BFB1C4FBC2", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_001", "hash": "7EA26EA4BFFE49AC", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_002", "hash": "E773EBFDBAD5A27B", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_003", "hash": "81C1BC4E29BF9CB5", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_004", "hash": "40D779011DEFCB98", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_005", "hash": "5334BEF2C883BA6F", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_100_010", "hash": "08A379F192A1F95A", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_SYSTEM_200_010", "hash": "C9D907FE5F77BEA5", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_020", "hash": "9FD5C797EAA7C5F6", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_021", "hash": "46FF1BB55B98B25D", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_022", "hash": "6E62DA4F95365D57", "target": "" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_024", "hash": "15B26C65C50E4E00", "target": "" }
+  ]
+}

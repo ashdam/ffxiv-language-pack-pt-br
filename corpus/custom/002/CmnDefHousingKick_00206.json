@@ -1,0 +1,27 @@
+{
+  "conversation": "custom/002/CmnDefHousingKick_00206",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_001", "hash": "A114BC35510D19EB", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_002", "hash": "65F503FC34879550", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_000", "hash": "DFFA5288D59D71F0", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_001", "hash": "AE832BBC06AD4454", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_000", "hash": "9606D0DA1425AEC0", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_001", "hash": "8DA33E64B4B7948D", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_003_000", "hash": "40D5CE57DD711CF4", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_003_001", "hash": "B13EA3E18DD570A9", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_000", "hash": "B00F233762963FC3", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_Q1_000_000", "hash": "65F64856215980F4", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A1_000_001", "hash": "EC2A2AAF9DEA216D", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A1_000_002", "hash": "48E83AA5BB01D20F", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A1_000_003", "hash": "D67A08914BDFCFB5", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A1_000_004", "hash": "F5AD0210D69F8984", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_Q2_000_000", "hash": "D9022A62C012182F", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_001", "hash": "FDA064F8D1A869DF", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_002", "hash": "4EF23B7248E7D4C7", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_003", "hash": "87C2EB569B6B90B8", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_Q3_000_000", "hash": "DE4176B541DBE8DE", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A3_000_001", "hash": "34EFF579F6435ECC", "target": "" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A3_000_002", "hash": "C593EF111F487136", "target": "" }
+  ]
+}

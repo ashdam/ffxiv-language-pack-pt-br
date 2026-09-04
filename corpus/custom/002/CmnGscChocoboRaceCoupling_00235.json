@@ -1,0 +1,18 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceCoupling_00235",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR", "hash": "912D8BA6D63BAE57", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01", "hash": "FDA0BBA278FF824C", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_02", "hash": "1DB02A44BB11A292", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_01", "hash": "5F1DD9DAA5301147", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_02", "hash": "115DD9AC57DFA6E7", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_01", "hash": "AF1CCEB1F206DD40", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_02", "hash": "5B46AFFD0940FE06", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_01", "hash": "A2F8978053BFB8C6", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_02", "hash": "38C2A194249985DB", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_01", "hash": "3A06AC42E1F5CB09", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_02", "hash": "12F23800B85C705D", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_03", "hash": "01A2E219D5D50C85", "target": "" }
+  ]
+}

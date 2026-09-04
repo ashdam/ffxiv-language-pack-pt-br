@@ -1,0 +1,9 @@
+{
+  "conversation": "custom/002/CmnGscDailyLotDescription_00226",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_01", "hash": "DFD7DE14286E3E8F", "target": "" },
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_02", "hash": "3AFF6D18D7E2531D", "target": "" },
+    { "gameKey": "custom/002/CmnGscDailyLotDescription_00226#TEXT_CMNGSCDAILYLOTDESCRIPTION_00226_TALK_03", "hash": "2FA85630F9B3A739", "target": "" }
+  ]
+}

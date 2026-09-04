@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/015/BanIxa403_01500",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_00", "hash": "B647E661A17C8250", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_01", "hash": "37AE06CDA3DD5AC9", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_02", "hash": "FDA37E7E18583A30", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_03", "hash": "FA49E11FAA8E5928", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SEQ_04", "hash": "52F98CC0876D5CFA", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TODO_00", "hash": "DAC705281C24F599", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TODO_01", "hash": "98CDD094F0EA1545", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TODO_02", "hash": "9276972F31AA5963", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_000", "hash": "2AD05880B8AE99CD", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_010", "hash": "88320B5948BF1C8B", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_020", "hash": "1B1DFB6A3DBEF3AF", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_030", "hash": "45F1E9B9B81B741A", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_040", "hash": "9066C041E9D4F0F3", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_041", "hash": "FEA9CA3DA3BC65E4", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_050", "hash": "5F3FD0A29E98E942", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_HILDEYERD_000_060", "hash": "38CF66C837FE200D", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_HILDEYERD_000_061", "hash": "A143712734BA8BDC", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_HILDEYERD_000_100", "hash": "2B3A37521469241E", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_HILDEYERD_100_100", "hash": "4FBFF953D7C25338", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_130", "hash": "4406910F1F084F83", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_TAZELMEYEAN_000_131", "hash": "D8E7F67BAFF6648E", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_POPMESSAGE_000_200", "hash": "F73A2083781732D7", "target": "" },
+    { "gameKey": "quest/015/BanIxa403_01500#TEXT_BANIXA403_01500_SYSTEM_200_200", "hash": "21E80920C2389A74", "target": "" }
+  ]
+}

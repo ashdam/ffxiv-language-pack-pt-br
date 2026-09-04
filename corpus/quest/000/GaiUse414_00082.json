@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/000/GaiUse414_00082",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_SEQ_00", "hash": "EBA943EFF65CC946", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_SEQ_01", "hash": "6410973304000D2E", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_SEQ_02", "hash": "122606C5DB4C4C8D", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_SEQ_03", "hash": "26298EB9D7B95355", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_SEQ_04", "hash": "539F600C3D38327E", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_TODO_00", "hash": "AC7EA856B22468E7", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_TODO_01", "hash": "2AAF02E7281A9E45", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_TODO_02", "hash": "64960F1775EEB50A", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_000", "hash": "E452761809BF934E", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_100_000", "hash": "2B38E6AFA28606A4", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_001", "hash": "4DE6866BC3ABD663", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_002", "hash": "DCBB077D16FBC0FA", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_003", "hash": "140CB45D0B9F0F27", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_004", "hash": "9FACF1B6A9DC96FC", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_005", "hash": "4558A626DA197841", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_006", "hash": "62029AEBFF3D5A11", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_050", "hash": "336F9A29E8FB7312", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_YDA_000_070", "hash": "64CDD2FB49F37C41", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_PAPALYMO_000_080", "hash": "C91EE697BC1A1EF0", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_THANCRED_000_090", "hash": "C62A8FF6D072D17C", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_YSHTOLA_000_100", "hash": "4700234834C36EA0", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MOENBRYDA_000_110", "hash": "F91E193600130AED", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MINFILIA_000_060", "hash": "8C2572667D756709", "target": "" },
+    { "gameKey": "quest/000/GaiUse414_00082#TEXT_GAIUSE414_00082_MOENBRYDA_000_120", "hash": "901AC438F0BF2EE6", "target": "" }
+  ]
+}

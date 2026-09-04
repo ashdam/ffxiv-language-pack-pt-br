@@ -1,0 +1,23 @@
+{
+  "conversation": "custom/008/CmnDefSdsAddNpc01_00806",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_025", "hash": "8122F36E4A4FABDE", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_HAURCHEFANT_000_026", "hash": "FED4441F6A823F2D", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_HAURCHEFANT_000_027", "hash": "66DEF9D5E8084653", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_YSHTOLA_000_030", "hash": "D550A64A8D904FA0", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_031", "hash": "865B323A964781A7", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_PEROROGGO_000_032", "hash": "D531FACD3885A566", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_ALPHINAUD_000_040", "hash": "C1E34407232A7D4C", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_CAVALRYC02342_000_050", "hash": "560D1439EB0A812D", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_CAVALRYC02342_000_052", "hash": "5AC83F2CBD619A46", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_HIEN_000_055", "hash": "4943AAF6B49ACD66", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_GOSETSU_000_057", "hash": "D1F9B7E98A4ED599", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_ARENVALD_000_060", "hash": "36D521A4155847C9", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_LYSE_000_063", "hash": "9C03ECDF39B76C94", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_JMOLDVA_000_070", "hash": "4DE4A3AAD86EFF7C", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_ALISAIE_000_080", "hash": "87DF89475BB4C532", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_HIEN_000_080", "hash": "65F54149EF15DBB8", "target": "" },
+    { "gameKey": "custom/008/CmnDefSdsAddNpc01_00806#TEXT_CMNDEFSDSADDNPC01_00806_YUGIRI_000_080", "hash": "6C7290DAEFC70271", "target": "" }
+  ]
+}

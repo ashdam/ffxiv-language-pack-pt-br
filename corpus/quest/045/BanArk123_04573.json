@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/045/BanArk123_04573",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_SEQ_00", "hash": "6EC2B44028FD3997", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_00", "hash": "C92957F0789A9C88", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_01", "hash": "48547D3E9E96F238", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_000", "hash": "0976CEA641911054", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_001", "hash": "D69126049D4871EE", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_002", "hash": "66A0E0595501A6CE", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_003", "hash": "64694560A0A8BA63", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_010", "hash": "318A63E2EE30114F", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_011", "hash": "3C218143214D794A", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_012", "hash": "73370C35AC40568C", "target": "" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_013", "hash": "C1A7DCA5FBF97570", "target": "" }
+  ]
+}

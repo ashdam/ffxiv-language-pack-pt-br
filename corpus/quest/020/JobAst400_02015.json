@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/020/JobAst400_02015",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_00", "hash": "7A4C0AB6C339C157", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_01", "hash": "26DA4B43E036B828", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_02", "hash": "02990527DBC28572", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_TODO_00", "hash": "5EA0377E85E94520", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_000", "hash": "D7330400D12D5E9A", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_001", "hash": "0BC6657830406EBB", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_002", "hash": "8BAE946278BFF087", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_009", "hash": "76DC5D959C8D5DC6", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_010", "hash": "BC7D83D500ABB79F", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_011", "hash": "B21C7BFC01A0FFD7", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_012", "hash": "8774363A9797C8D3", "target": "" },
+    { "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_LEVEVA_000_013", "hash": "583EA4FFA30E0F8B", "target": "" }
+  ]
+}

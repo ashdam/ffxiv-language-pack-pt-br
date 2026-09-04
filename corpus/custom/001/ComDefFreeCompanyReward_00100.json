@@ -1,0 +1,19 @@
+{
+  "conversation": "custom/001/ComDefFreeCompanyReward_00100",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001", "hash": "80790A05C767764D", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q", "hash": "2000414CEBD8AEC1", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1", "hash": "9A07B568B5173709", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP", "hash": "C3F286382031E577", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2", "hash": "C55D0CD13FE8EA14", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3", "hash": "A63CBD1BF49DC430", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010", "hash": "9AB54D9105F5D2B3", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011", "hash": "674A720CC33626BC", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012", "hash": "D002BA92B4EDE766", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013", "hash": "603604ECB452C5E9", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014", "hash": "B0D6DE6A695D626E", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1", "hash": "209E1B8F03A861C6", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3", "hash": "97FAA409B7E7B939", "target": "" }
+  ]
+}

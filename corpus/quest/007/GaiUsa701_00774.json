@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/007/GaiUsa701_00774",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_00", "hash": "5AC2F8CD8C912C69", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_01", "hash": "E4C7B9706F884B04", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_02", "hash": "73CA3054CA207A1D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_03", "hash": "DAC76FCEF701C77C", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_04", "hash": "1C12C773B1C6FAD2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_SEQ_05", "hash": "FE08F24C9FF2C723", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_00", "hash": "31B16C5E9327DA27", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_01", "hash": "9B6F923A64B8DB21", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_02", "hash": "5F9C0C58F27F33FA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_TODO_03", "hash": "3E71FE790A2DA244", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_000", "hash": "459390DBF21D1329", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_001", "hash": "F0488D569A2C2D72", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_002", "hash": "9F99AFA5F391F4F0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_010", "hash": "F18C371176F8546E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_020", "hash": "C4AC9034A06EAA0F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_021", "hash": "41CD64B95520B71F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_MEFFRID_000_022", "hash": "54BB66CCDD0D6045", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_BUSCARRON_000_030", "hash": "44BD4E024355614C", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_BUSCARRON_000_040", "hash": "409D49DE05433D60", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_BUSCARRON_000_041", "hash": "8EC466C4638C4CDF", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_BUSCARRON_000_042", "hash": "D8026B596B10F66A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_FARAMUND_000_050", "hash": "B3D128D8C055D36F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_FARAMUND_000_060", "hash": "23E4843FA70C89DB", "target": "" },
+    { "gameKey": "quest/007/GaiUsa701_00774#TEXT_GAIUSA701_00774_FARAMUND_000_061", "hash": "3A73316E1875818C", "target": "" }
+  ]
+}

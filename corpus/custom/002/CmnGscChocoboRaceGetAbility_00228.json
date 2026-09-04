@@ -1,0 +1,18 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceGetAbility_00228",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02", "hash": "D2D4EA3A08853C01", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE", "hash": "7529447DC7620227", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR", "hash": "73EA9EEA626AAC58", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_01", "hash": "3870FE44790172FB", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_02", "hash": "EBC5EE3004F1E7F1", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_01", "hash": "87F40BCF4BA24365", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_02", "hash": "0C57F1F9EE71FCE2", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_01", "hash": "FDB2CFA5B96DB88A", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_02", "hash": "CA92394D6D26118B", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_01", "hash": "930FE0E48A44B03B", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_02", "hash": "E0FE17181D546471", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_03", "hash": "99D1F6609BAAF2D5", "target": "" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/000/SubFst004_00027",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_SEQ_00", "hash": "2986747CB7ED423B", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_SEQ_01", "hash": "B40822A16222A7E7", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_SEQ_02", "hash": "5803784EED418745", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_SEQ_03", "hash": "ACA2FBAB41E14133", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_TODO_00", "hash": "7DF23D32F9161240", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_TODO_01", "hash": "C1CF526D7AAFE91C", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_IDELE_000_1", "hash": "2D9EE406679B2758", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_IDELE_000_2", "hash": "E56E67735081E80B", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_IDELE_000_3", "hash": "38CC15D2C3E9CBBA", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_IDELE_000_4", "hash": "1DD0083BBA3AB32D", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_LOUHELIC_000_10", "hash": "71552E9BDB752C30", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_LOUHELIC_000_11", "hash": "C1F98614AB0F9BB4", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_20", "hash": "53598FE713D7D563", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_21", "hash": "DD80EAED9A865B9E", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_22", "hash": "0ACA7FEBE383729A", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_23", "hash": "F155082ACFB92F99", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_24", "hash": "842FF12AE6CDD8A6", "target": "" },
+    { "gameKey": "quest/000/SubFst004_00027#TEXT_SUBFST004_00027_ARTOR_000_25", "hash": "00268291D8EEA23E", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/000/SubRoc902_00017",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_00", "hash": "63215B3DD3EEE768", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_01", "hash": "F95AD3690FE70BCB", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_02", "hash": "E76BC57DA6EAAA89", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_SEQ_03", "hash": "A578213863D2054B", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_TODO_00", "hash": "32D4006EC614A2D5", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_TODO_01", "hash": "F672575A4FC82FAD", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_000", "hash": "829C176C3C3DBF8D", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_001", "hash": "16F55FD9FDFBC115", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_002", "hash": "3F2C9C30BEF02B72", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_003", "hash": "C20E228C0DCB7E39", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_004", "hash": "3E7CFB0D2F7EA60A", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_005", "hash": "9A9FA65C0F606C41", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_006", "hash": "1F108215FD37F342", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_010", "hash": "A2FAB02DA428ECD8", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_011", "hash": "E2FBA77F72F3B409", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_012", "hash": "9DB5BB953342CCDA", "target": "" },
+    { "gameKey": "quest/000/SubRoc902_00017#TEXT_SUBROC902_00017_VOILINAUT_000_020", "hash": "32D04FBF386BE665", "target": "" }
+  ]
+}

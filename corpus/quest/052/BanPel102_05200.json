@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/052/BanPel102_05200",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_SEQ_00", "hash": "DF718407C8796762", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_TODO_00", "hash": "690E962B1C744DE6", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_TODO_01", "hash": "F66DC4FA5D82F0A7", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_100_001", "hash": "4E65F9337307315C", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_002", "hash": "6279B5005E12042B", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_001", "hash": "37DCF3E8D0A89E1A", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_003", "hash": "57C1C6DE80637946", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_004", "hash": "FD03626A7F2EE85D", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_CITIZENA05200_000_005", "hash": "472FB6E1F4DF9DF9", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_CITIZENA05200_000_006", "hash": "E7A4A74767D5D005", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_CITIZENA05200_000_007", "hash": "BC554A27693A91C3", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_010", "hash": "94B58E36A5CEAC85", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_011", "hash": "7ABB33BE201E80EA", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_012", "hash": "A7C2B2B0BA226ADA", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_013", "hash": "748323D574FAB709", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_014", "hash": "F215A2B701165ED0", "target": "" },
+    { "gameKey": "quest/052/BanPel102_05200#TEXT_BANPEL102_05200_YUBLI_000_015", "hash": "B7468FE8BA8255EC", "target": "" }
+  ]
+}

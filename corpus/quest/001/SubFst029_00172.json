@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/001/SubFst029_00172",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "" }
+  ]
+}

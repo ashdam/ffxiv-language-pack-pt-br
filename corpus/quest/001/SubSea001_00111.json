@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/001/SubSea001_00111",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_00", "hash": "6A8AF65A13AD3147", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_01", "hash": "01F763CC31C7E243", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_02", "hash": "6F5BD2361AE0C0C0", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_03", "hash": "DB6D519E6BE6ADDB", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SEQ_04", "hash": "F8AA1E657B817868", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_TODO_00", "hash": "E0D442D24FF3ECDE", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_TODO_01", "hash": "284E3FAFB49A66B9", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_TODO_02", "hash": "BE1E50964B567930", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_NINIYA_000_0", "hash": "AAE9C64AAD117F48", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_NINIYA_000_1", "hash": "84A48AD630C5D6F0", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_NINIYA_000_2", "hash": "0FD6F34C444D393D", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_NINIYA_000_3", "hash": "7BB99BE148490C8F", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SKAENRAEL_000_20", "hash": "A5D6C2FC18071F50", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_Q1_000_1", "hash": "27291CEA5ED23E81", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_A1_000_1", "hash": "A815A34E39DB0F17", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_A1_000_2", "hash": "8236F1FE5FABEBF8", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SKAENRAEL_000_21", "hash": "B2FF29275901CFD3", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SKAENRAEL_000_22", "hash": "679497E74490F6BC", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_SYSTEM_000_23", "hash": "99791D70E75E7F1A", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_AHLDSKYF_000_10", "hash": "4398367FB579BA6A", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_AHLDSKYF_000_11", "hash": "4E68568DCD170231", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_AHLDSKYF_000_12", "hash": "2688DACC978DE622", "target": "" },
+    { "gameKey": "quest/001/SubSea001_00111#TEXT_SUBSEA001_00111_AHLDSKYF_000_13", "hash": "A1B9A900D4CEB318", "target": "" }
+  ]
+}

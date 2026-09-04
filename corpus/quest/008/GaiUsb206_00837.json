@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb206_00837",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "" }
+  ]
+}

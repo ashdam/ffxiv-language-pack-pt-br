@@ -1,0 +1,33 @@
+{
+  "conversation": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_000", "hash": "B37739A1FDE55FD3", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_TITLE", "hash": "20AFCB72CE1F481C", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES", "hash": "53FC50C5D7FE5EA5", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CANCEL", "hash": "35940D189D732A25", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_MESSAGE", "hash": "34BD91FDBEF3A2CC", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_YES", "hash": "14C6DD5F65FEB9F5", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_NO", "hash": "380936CCC4238F21", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_120", "hash": "0B9CC6FCD4AB2FFA", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_121", "hash": "125087A749E6E3E6", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_130", "hash": "76F29AC8FBB58949", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_131", "hash": "1F0A259CAB66B7D7", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_132", "hash": "50980F5864997A74", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_300", "hash": "3CA9BFD422B73064", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_310", "hash": "B7CE075A773CA28A", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_030", "hash": "D9754A371E2920C0", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_040", "hash": "2E842A7F7733FB85", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_050", "hash": "15ED6D3B8AD2E3A3", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_060", "hash": "2293A09EE0F56203", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_070", "hash": "77E9B9AA2DB25D17", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_071", "hash": "74159B21227D957D", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_072", "hash": "D4BCF3BE0F1D3BD5", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_MENU_TITLE", "hash": "FABDEC603ACB7BAE", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_DONE", "hash": "5A94DD9BF21359DA", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_NEXT", "hash": "579226022CB84E79", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_FUTURE", "hash": "6652961734DDE990", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_070", "hash": "69BDA9BD14D5E002", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon060MagiciteShop_00251#TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_071", "hash": "10B7B3727C9063CB", "target": "" }
+  ]
+}

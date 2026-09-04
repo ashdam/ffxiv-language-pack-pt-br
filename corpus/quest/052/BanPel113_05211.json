@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/052/BanPel113_05211",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "" }
+  ]
+}

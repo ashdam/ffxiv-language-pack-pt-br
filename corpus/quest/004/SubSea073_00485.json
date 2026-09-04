@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/004/SubSea073_00485",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_00", "hash": "F729B9B8DD759680", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_01", "hash": "716F9B4F2E2465F5", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_02", "hash": "BF464E1C78C96FEA", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_03", "hash": "E63C6E9348418ED0", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_00", "hash": "06247BB94DD1F287", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_01", "hash": "3C9A8565A9F08B95", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_0", "hash": "AC19D05AE4332C71", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_1", "hash": "5B3791D2372CBC91", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_2", "hash": "4E300101B9A52F74", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_3", "hash": "46605935D2FDE5B4", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_10", "hash": "1E9C34C489BB76DA", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_11", "hash": "8E8C1E96350B6788", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_12", "hash": "BEE5B9F899A5C387", "target": "" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_POP_MESSAGE", "hash": "607C5507F39A0077", "target": "" }
+  ]
+}

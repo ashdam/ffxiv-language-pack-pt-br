@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/007/GaiUsa209_00732",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "" }
+  ]
+}

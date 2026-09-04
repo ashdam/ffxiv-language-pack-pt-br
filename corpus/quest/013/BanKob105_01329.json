@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/013/BanKob105_01329",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_SEQ_00", "hash": "C03091C4724ADBCD", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_SEQ_01", "hash": "0728E817C80BD91E", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_SEQ_02", "hash": "7A9EFA2213B98AFD", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_SEQ_03", "hash": "A00C4639BCBE9969", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_TODO_00", "hash": "791CE77850F7BB7B", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_TODO_01", "hash": "CF90AC4718EF6934", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_000", "hash": "B05D9C6320944857", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_001", "hash": "78771E6BA6B4DDAF", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_002", "hash": "B486A32E9CEF1B96", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_003", "hash": "20092D15BC2C506E", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_100_020", "hash": "9BD10F53567D16F5", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_020", "hash": "7858257B0E26C0D9", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BOZU_000_021", "hash": "E3C50CEE8D9C09C9", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_POPMESSAGE_000_000", "hash": "ECD4DCC4276454E0", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BALLOON_000_030", "hash": "81D8A4AE05EC030F", "target": "" },
+    { "gameKey": "quest/013/BanKob105_01329#TEXT_BANKOB105_01329_BALLOON_000_031", "hash": "8D9C731177F6689D", "target": "" }
+  ]
+}

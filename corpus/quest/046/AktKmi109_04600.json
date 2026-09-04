@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/046/AktKmi109_04600",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SEQ_00", "hash": "9613CDCB40FB8664", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SEQ_01", "hash": "AC402E288B803D85", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SEQ_02", "hash": "6A71525E3B753D16", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SEQ_03", "hash": "0CC3124D062E74BA", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_TODO_00", "hash": "113A1FAA1DAC712D", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_TODO_01", "hash": "E98FBD09D2872285", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_YSHTOLA_000_001", "hash": "524570BF2019F027", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_ESTINIEN_000_005", "hash": "EFA890AB1C317CE6", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_MYSTERIOUSPERSON_000_010", "hash": "8E9BE571B44726E3", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_015", "hash": "59A7933708BD5850", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SYSTEM_000_020", "hash": "CBD3503E9FD6E3D6", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_030", "hash": "A760CE3184C1495F", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_032", "hash": "E454C90662B2D3AA", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_MEGHADUTAEMPLOYEE_000_100", "hash": "47F6D9BDA86CB83D", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_SYSTEM_000_101", "hash": "026C41072AC77846", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_200", "hash": "11C497BC3E6171CB", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_201", "hash": "DBCB8110310B1FB3", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_209", "hash": "B13131A27E46AA26", "target": "" },
+    { "gameKey": "quest/046/AktKmi109_04600#TEXT_AKTKMI109_04600_VARSHAHN_000_210", "hash": "3F38032284719293", "target": "" }
+  ]
+}

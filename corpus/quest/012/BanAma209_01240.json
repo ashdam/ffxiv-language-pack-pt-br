@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/012/BanAma209_01240",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_00", "hash": "DF4768716414DE08", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_01", "hash": "D6C292587A03BD09", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_02", "hash": "97230F49B00BC8B3", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_03", "hash": "B578F1536815068A", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_04", "hash": "68DDF0A9AAFD6E70", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_SEQ_05", "hash": "98411609BA8CDD1A", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_TODO_00", "hash": "6DA5E985919FA55F", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_TODO_01", "hash": "B3061296A56036DC", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_TODO_02", "hash": "271867A3106BE670", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_TODO_03", "hash": "795D813B99372609", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_TODO_04", "hash": "2987F09B23B1AF26", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_000", "hash": "A35265CFB8016AA4", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_001", "hash": "FD6C4D3B8B596DF6", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_002", "hash": "96966F8772556264", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_MERCHANT_001_005", "hash": "21814EC4138C984E", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_MERCHANT_001_006", "hash": "EF539FE31A985465", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_MERCHANT_000_010", "hash": "ADBDA238A2B9DC11", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_MERCHANT_000_011", "hash": "B205237B0BEBC240", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_MERCHANT_001_012", "hash": "79FF198D37B738F6", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_020", "hash": "3838CDB7F5E1A658", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_030", "hash": "C4068974CF3F12ED", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_NARUJIBOH_000_031", "hash": "CDF273EFD2CAAC34", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_POP_MESSAGE", "hash": "684820EFBCB1286E", "target": "" },
+    { "gameKey": "quest/012/BanAma209_01240#TEXT_BANAMA209_01240_ACCESS_MESSAGE", "hash": "F32666C34F232927", "target": "" }
+  ]
+}

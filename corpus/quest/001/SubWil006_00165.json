@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/001/SubWil006_00165",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_00", "hash": "C6BEF00ED64B5FB1", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_01", "hash": "81246E0547D8B54A", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_02", "hash": "9E0993289A59D865", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_03", "hash": "2EA75E76DA712619", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TODO_00", "hash": "F6E905B82857DFFF", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TODO_01", "hash": "CFDFAE45B575C355", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_000", "hash": "585190A13AC9C98C", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_001", "hash": "1A375BA36E855422", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_002", "hash": "AA242701AE6541A8", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_003", "hash": "6CF4950EB57C1D66", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_000", "hash": "748864C31135A240", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_001", "hash": "F4EA2AF0DBE60BEB", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_002", "hash": "8829A4232F49D834", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_003", "hash": "78ADC3ED0B64DCA3", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_000", "hash": "455539ED94191ED9", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_001", "hash": "EA904FA4C8E7E792", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_002", "hash": "390DC1F304FF6ED6", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_003", "hash": "5B0FF145A12E1CEE", "target": "" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_004", "hash": "9623E95B1507178F", "target": "" }
+  ]
+}

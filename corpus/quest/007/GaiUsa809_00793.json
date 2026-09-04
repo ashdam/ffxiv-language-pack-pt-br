@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/007/GaiUsa809_00793",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_SEQ_00", "hash": "37D9D401A5158420", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_SEQ_01", "hash": "7A696C2B7947788E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_SEQ_02", "hash": "03C1DCA94AE43258", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_SEQ_03", "hash": "E08CB53D0B5330E6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_SEQ_04", "hash": "26474CB748D58F8B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_TODO_00", "hash": "47783D70808E305B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_TODO_01", "hash": "B58D3F4AA082168C", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_TODO_02", "hash": "2DE7DCE5C14F1D56", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_AELUUIN_000_000", "hash": "26759DEA81A7D410", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_AELUUIN_000_001", "hash": "4C444E5D59FA45B3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_ADVENTURE_000_013", "hash": "A756133EA401D2AE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_ADVENTURE_000_015", "hash": "A8B26BE9B2AF280B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_ADVENTURE_000_016", "hash": "5E589EF132CB9AB8", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_ADVENTURE_000_017", "hash": "BC3D979640538DB4", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_ADVENTURE_000_018", "hash": "A62B72BBBB5032FA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_AELUUIN_000_020", "hash": "EE04B96B4E896B23", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_AELUUIN_000_021", "hash": "BCDF7140972EE364", "target": "" },
+    { "gameKey": "quest/007/GaiUsa809_00793#TEXT_GAIUSA809_00793_POP_MESSAGE_000", "hash": "B987449BA7E01B0F", "target": "" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/001/SubSea009_00119",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "" }
+  ]
+}

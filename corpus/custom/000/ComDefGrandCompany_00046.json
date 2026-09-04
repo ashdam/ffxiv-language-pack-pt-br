@@ -1,0 +1,22 @@
+{
+  "conversation": "custom/000/ComDefGrandCompany_00046",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_01", "hash": "068285B08C4E152A", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_05", "hash": "1E182807837B9F17", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_06", "hash": "F7C5652ED800520A", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_07", "hash": "4E73F123A98F9866", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_SYSTEM_000_08", "hash": "16A726D4C1ADAC58", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_10", "hash": "CFE5B1E1024411B8", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_15", "hash": "6C862B093CE78FD5", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_SYSTEM_000_16", "hash": "EF8E4133D3C5F78B", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_Q1_01", "hash": "3D377C8436708AA6", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_A1_01", "hash": "DAE852828FE80DF5", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_A1_02", "hash": "0B76526F00847EB6", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_20", "hash": "736F869121684838", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_21", "hash": "397FD4B39D07FE6C", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_FULKE_000_22", "hash": "6F19A9ED99AED79C", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_TALK_YESNO_NO", "hash": "A784A744983AF541", "target": "" },
+    { "gameKey": "custom/000/ComDefGrandCompany_00046#TEXT_COMDEFGRANDCOMPANY_00046_TALK_YESNO_NO2", "hash": "2D35160B86206F8A", "target": "" }
+  ]
+}

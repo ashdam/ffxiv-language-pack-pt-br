@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/003/SubFst060_00381",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_00", "hash": "028AF9FD1475E021", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_01", "hash": "AABF888931CBB065", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_02", "hash": "C324D8DB94D61B52", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_03", "hash": "E320896E508371DF", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_TODO_00", "hash": "8172B9D13AC396CF", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_TODO_01", "hash": "ED9BFEE3E39102E4", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SYSTEM_100_000", "hash": "AA8D54DD2EADA620", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_1", "hash": "A5656DA8259DB548", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_2", "hash": "5D063235E0F4C827", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_3", "hash": "69C6471C5681D06C", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_4", "hash": "A603CF06CC74BF94", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_11", "hash": "491C34BAFC86A429", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_12", "hash": "1A34B309AFED0366", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_13", "hash": "0C91885941C6DA7C", "target": "" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_POP_MESSAGE", "hash": "7609B415390F3B09", "target": "" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb011_00818",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_00", "hash": "997491F35B52AD01", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_01", "hash": "5215CFF2827FDD95", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_02", "hash": "84580DBB9905B604", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_SEQ_03", "hash": "CD69B8435E9831F7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_TODO_00", "hash": "66F5C30E6C351756", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_TODO_01", "hash": "B076EDE9D9C25DD5", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_000", "hash": "B3F7FEFE635C8053", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_001", "hash": "E77B4627AC34E9AF", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_002", "hash": "75949D21A0CE5B52", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_020", "hash": "43D9E002E5F1A1E1", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_025", "hash": "949DB890D1683E88", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_FLORENT_000_026", "hash": "B90FFBC0BEBF9726", "target": "" },
+    { "gameKey": "quest/008/GaiUsb011_00818#TEXT_GAIUSB011_00818_POP_MESSAGE_000", "hash": "9FC9ED9653A2CDFB", "target": "" }
+  ]
+}

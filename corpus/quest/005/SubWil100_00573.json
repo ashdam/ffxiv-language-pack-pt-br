@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/005/SubWil100_00573",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_00", "hash": "41474ABD189DB1B9", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_01", "hash": "FE63C30ED5DF700E", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_02", "hash": "0F229E7624F74943", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_SEQ_03", "hash": "65ED0A728BE8E2B5", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_00", "hash": "CEFA0EE702FE9B70", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_TODO_01", "hash": "E0A085528056A63E", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_000", "hash": "ABBDF88E954D9231", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_001", "hash": "32E5ECDD5416B5AA", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_002", "hash": "6A9FBC560203BC81", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_003", "hash": "71F653CED0DA7C2D", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_010", "hash": "78A52CF46D96CF26", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_011", "hash": "580A47564FC246EE", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_012", "hash": "62AD6AB4DCBCDD38", "target": "" },
+    { "gameKey": "quest/005/SubWil100_00573#TEXT_SUBWIL100_00573_AMALBERGA_013", "hash": "A6BDB2FE9361DD10", "target": "" }
+  ]
+}

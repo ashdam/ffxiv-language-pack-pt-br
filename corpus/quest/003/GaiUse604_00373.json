@@ -1,0 +1,13 @@
+{
+  "conversation": "quest/003/GaiUse604_00373",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_00", "hash": "CE3C648234D58A1A", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_01", "hash": "A7EA2A571245C0DD", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_02", "hash": "342C71094BA21E9A", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_TODO_00", "hash": "298D70D9C22E63E4", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_000", "hash": "6B2DFADA8BE9A24F", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_001", "hash": "FD069134F90708C9", "target": "" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_002", "hash": "622771D4BCABDC80", "target": "" }
+  ]
+}

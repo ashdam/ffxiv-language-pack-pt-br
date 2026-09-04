@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/010/GaiUsc705_01017",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_00", "hash": "16C3B0D2074B6BF9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_01", "hash": "56F0FF19107E1F4C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_02", "hash": "255F258CAD967C2D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_SEQ_03", "hash": "628F065B77C536A2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_TODO_00", "hash": "2A5852F57DE36323", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_TODO_01", "hash": "A8FD809D5ADAD534", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_000", "hash": "7E3DC4D24FB4834E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_001", "hash": "C94ABB9BF04F6FE6", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_002", "hash": "4D5902D38122F4B1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_003", "hash": "CF511C861E254CB0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_004", "hash": "F9FB4F958041C2E1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC1_000_010", "hash": "84245D09FD0E1A74", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC2_000_020", "hash": "0582B1DD91764544", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC3_000_030", "hash": "A545B01A8225BD3C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_ENPC4_000_040", "hash": "A747BCB316C95D59", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_050", "hash": "FAA5F7915584BF86", "target": "" },
+    { "gameKey": "quest/010/GaiUsc705_01017#TEXT_GAIUSC705_01017_BLOEIDIN_000_051", "hash": "B9D2152B26AAA0AC", "target": "" }
+  ]
+}

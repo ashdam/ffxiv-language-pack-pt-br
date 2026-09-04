@@ -1,0 +1,30 @@
+{
+  "conversation": "raid/BahamutGuideTravelWild",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q1_000_010", "hash": "6865D2B10939D1B8", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_011", "hash": "A7ED7407070BD740", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_012", "hash": "D4620ECD2B0AF826", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_013", "hash": "E730212D07F6FB13", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_050", "hash": "4AF6D36246ADC12A", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_051", "hash": "FC3FDE632EF3E49D", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_052", "hash": "77DDAB1154C47556", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_053", "hash": "258E60D732D03646", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_054", "hash": "D35C38E9237D3E01", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_055", "hash": "DCF44ED03E36AF78", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_056", "hash": "C3F9207B5F904890", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_0561", "hash": "B377EE5A8AB8ABEB", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_057", "hash": "A97CCAEE9D0EFF08", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_058", "hash": "9AA614876CEE939E", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_059", "hash": "FBF01443AE8FA0E6", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_060", "hash": "A9B61617C296FCC9", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q2_000_100", "hash": "F449DA5901A72C0D", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A2_000_101", "hash": "B04CCAD28E37CC98", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A2_000_102", "hash": "B7C231B6FD56A0D2", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_110", "hash": "60F5B2D3E1E6ED10", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_210", "hash": "B256AC507B150A13", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_211", "hash": "412A8054E8405A49", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q3_000_300", "hash": "AC6C08BAD08B3F8F", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A3_000_301", "hash": "E85D0FACC3CD6AAE", "target": "" }
+  ]
+}

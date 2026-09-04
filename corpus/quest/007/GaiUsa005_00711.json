@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/007/GaiUsa005_00711",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_00", "hash": "BE56336ED6AFFDC0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_01", "hash": "C70A9EAA0596FC13", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_02", "hash": "D07027CDC605D0CA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_03", "hash": "046DA05608C4D1A9", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_04", "hash": "0287A482EA9CE853", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SEQ_05", "hash": "D294CD6DE73CC872", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_TODO_00", "hash": "2F0975A784C4AED7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_TODO_01", "hash": "A2FC473FD5F97274", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_TODO_02", "hash": "86F1A700EE4AEDF5", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_TODO_03", "hash": "B96B49D20A62B3CF", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_FLORIMOND_000_000", "hash": "835CDB7E525D80AE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_FLORIMOND_000_001", "hash": "11D159E996F508BF", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_ANIUD_000_010", "hash": "2E73767FC898BE70", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_ANIUD_000_011", "hash": "4959581BE9D10387", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_SYSTEM_000_000", "hash": "8B3975A5F02301C0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_ANIUD_000_020", "hash": "BA7A25E289DC3673", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_ANIUD_000_021", "hash": "2B4283005F0F4CC8", "target": "" },
+    { "gameKey": "quest/007/GaiUsa005_00711#TEXT_GAIUSA005_00711_FLORIMOND_000_030", "hash": "4B2F0D084B895F62", "target": "" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/004/SubSea105_00402",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_00", "hash": "CDF9D48B2A1E9D1D", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_01", "hash": "8A185A38910291F0", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_02", "hash": "69250F7BF50049A9", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_03", "hash": "6F2A70F76BB358E0", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_TODO_00", "hash": "5854C50DCD5A8348", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_TODO_01", "hash": "53B59DF68660DD5D", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SYSTEM_100_000", "hash": "D16031DDEE2F1CA3", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_1", "hash": "1C300DB0E8A7A53E", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_2", "hash": "DE05DF36F6BD78DE", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_3", "hash": "BEBD34F451A69340", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_4", "hash": "02C72890F934467B", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_11", "hash": "ABFBE9B3C5EE1BA2", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_12", "hash": "51DE7422511B2F2A", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_13", "hash": "DF05EBBE229D051D", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_14", "hash": "F720CBEE82E973A9", "target": "" },
+    { "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_POP_MESSAGE", "hash": "A625C25C5B1F4771", "target": "" }
+  ]
+}

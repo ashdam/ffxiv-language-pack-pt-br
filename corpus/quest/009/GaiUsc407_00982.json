@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/009/GaiUsc407_00982",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_00", "hash": "DC76C34DE969DC18", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_01", "hash": "6FB66CA23E92DFF1", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_02", "hash": "FE7B86927179CDA9", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_03", "hash": "FEC3779B15A6F600", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_SEQ_04", "hash": "75EBD1C21552959E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_TODO_00", "hash": "9843F0BB1F49A7BF", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_TODO_01", "hash": "2F85C66C28D00E6E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_TODO_02", "hash": "45793D38AD59EE7E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_WEDGE_000_000", "hash": "1126AE0FBE186BF6", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_WEDGE_000_001", "hash": "A776D9FE302F9411", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_WEDGE_000_002", "hash": "3B23CC2CA606F0B0", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_ABELIE_000_010", "hash": "129F981B5ECEAE18", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_ABELIE_000_011", "hash": "8A42E33F48167589", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_ABELIE_000_012", "hash": "7A1D4C33883FD006", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_WEDGE_000_030", "hash": "7F5E52888819CA8D", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_WEDGE_000_031", "hash": "7A489B7AEC6C205C", "target": "" },
+    { "gameKey": "quest/009/GaiUsc407_00982#TEXT_GAIUSC407_00982_POP_MESSAGE_000", "hash": "90C19550E05EF4B7", "target": "" }
+  ]
+}

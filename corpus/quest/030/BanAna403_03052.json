@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/030/BanAna403_03052",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SEQ_00", "hash": "4993B7E74082F004", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_00", "hash": "A20DE39600ED192F", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_01", "hash": "1DE1C7773AC33193", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_02", "hash": "445039A869EFB410", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_000", "hash": "163B7341853090ED", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_001", "hash": "004106BE4B548376", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_002", "hash": "8DB2A5D0552DDD41", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_003", "hash": "2E50F0FDB5B981AA", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_010", "hash": "93A0F90816AC30F1", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_011", "hash": "DA4D3F1558544280", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_012", "hash": "559C9AB5768E1054", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_013", "hash": "0064D905D43C46B2", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_014", "hash": "724EAF45341C5EDB", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SYSTEM_000_015", "hash": "2D08A042F217621C", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_020", "hash": "79FA071AAB46CAF2", "target": "" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_021", "hash": "EFC681AD085AFEAE", "target": "" }
+  ]
+}

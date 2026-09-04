@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/009/GaiUsb806_00915",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_SEQ_00", "hash": "5B5BBFB97FAD6E00", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_SEQ_01", "hash": "6184E2A6934F2C89", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_SEQ_02", "hash": "57247FC83DA1ADD8", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_SEQ_03", "hash": "6BEF600B712956A4", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_TODO_00", "hash": "1082FF5A9FCE3DD3", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_TODO_01", "hash": "E8C14C488F81E9B8", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_000", "hash": "D6E822DE2E8FFA3B", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_001", "hash": "FB0491960A7D51D6", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_002", "hash": "1118C9A10BF99691", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_010", "hash": "19A3850FBCDF373E", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_020", "hash": "20433A963740287D", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_021", "hash": "92A8B932022FA4CB", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_022", "hash": "3F72CF7B365117D3", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_MEDUIL_000_023", "hash": "46D4CE1E5AD6444B", "target": "" },
+    { "gameKey": "quest/009/GaiUsb806_00915#TEXT_GAIUSB806_00915_POP_MESSAGE_000", "hash": "B3343A91FA636997", "target": "" }
+  ]
+}

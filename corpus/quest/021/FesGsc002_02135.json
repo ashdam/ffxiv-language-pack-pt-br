@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/021/FesGsc002_02135",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_00", "hash": "8DEF048D67F1E22B", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_01", "hash": "370A56C646BABF6C", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_02", "hash": "3F0965179EC3C191", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_TODO_00", "hash": "D738EE9104C0F349", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_000", "hash": "E22D0BE03F149D2B", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_001", "hash": "9AAE4DFD5553EFCA", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_002", "hash": "8F7F6826DA8CEA66", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GREGE_000_010", "hash": "3383074B55B067ED", "target": "" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SYSTEM_000_011", "hash": "1C1BF47F65782AEC", "target": "" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/003/SubFst072_00386",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_SEQ_00", "hash": "86EC9C9B817AE72A", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_SEQ_01", "hash": "8D0667CC10DC19CE", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_SEQ_02", "hash": "B5F28DBDCE01103E", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_SEQ_03", "hash": "3D6F5F957509639B", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_SEQ_04", "hash": "4B7719B409191F0D", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_TODO_00", "hash": "6648E3369DF62FB5", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_TODO_01", "hash": "1B328D4606AB6751", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_TODO_02", "hash": "D17A34D8D5758BC2", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_WALTHEOF_000_1", "hash": "93AEE6C6453237D5", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_WALTHEOF_000_2", "hash": "CEBEB74A707011E4", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_WALTHEOF_000_3", "hash": "F8F2A3B10485FD38", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_WALTHEOF_000_71", "hash": "178DB4D1B268DF43", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_WALTHEOF_000_72", "hash": "8FD89055C750559F", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_BERTHE_000_11", "hash": "59D6F14AFFF970ED", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_BERTHE_000_12", "hash": "A05832F8683B58F5", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_KEILEIGH_000_21", "hash": "B2051D02ABC320A2", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_KEILEIGH_000_22", "hash": "2FAA7B62397C66D1", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_KEILEIGH_000_23", "hash": "AB5374432044FD64", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_DARANMERT_000_31", "hash": "53E1173A9DC10234", "target": "" },
+    { "gameKey": "quest/003/SubFst072_00386#TEXT_SUBFST072_00386_DARANMERT_000_32", "hash": "22F0153A920B7516", "target": "" }
+  ]
+}

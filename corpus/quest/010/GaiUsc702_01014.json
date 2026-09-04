@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/010/GaiUsc702_01014",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_02", "hash": "6D97BDC0E1A6EE3C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_TODO_00", "hash": "8E22D06DF2B27721", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_000", "hash": "22C5D97E7D4DFF52", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_001", "hash": "FD7C39910D22E4AB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_020", "hash": "08E6E765FA36FAF2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_021", "hash": "BDDD32A37AC1B6FD", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_022", "hash": "A8D4664AE574176D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_023", "hash": "F1D4CD1F7DC04298", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030", "hash": "C313CE7C8BB696A0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031", "hash": "3DE48FF93F83F9C8", "target": "" }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "conversation": "custom/002/FesPdyPlayerAltar_00254",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "" }
+  ]
+}

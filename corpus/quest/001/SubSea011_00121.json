@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/001/SubSea011_00121",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/003/SubFst073_00387",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_00", "hash": "D8939C12D6F8916B", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_01", "hash": "920F3C4D32071BB0", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_02", "hash": "1E9A0420B2E84EB2", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_03", "hash": "0CB222B3712D0C56", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_TODO_00", "hash": "B8496638331C15F7", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_TODO_01", "hash": "91DA0A8D05EBB13F", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SYSTEM_100_000", "hash": "212B8174F410B49E", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_01", "hash": "7671ED1AE07F5193", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_02", "hash": "FF1C41277FFF89F5", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_03", "hash": "6B2C37F62A6A710E", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_11", "hash": "6FB2C35048A3D8C0", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_12", "hash": "E1B08375618D6A3A", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_13", "hash": "593A0D2A8FB0D618", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_14", "hash": "5B6CB156466F31F1", "target": "" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_POP_MESSAGE", "hash": "D2BD1558261B50AD", "target": "" }
+  ]
+}

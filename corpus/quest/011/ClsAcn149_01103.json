@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/011/ClsAcn149_01103",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_00", "hash": "A9FFFF46AEA9EC64", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_01", "hash": "D76806A9706D4B7A", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_02", "hash": "2E61BF8C90E0883D", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_03", "hash": "2A53F2ECAC94193E", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_00", "hash": "7948E66D9DA6D814", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_01", "hash": "6B9C3A3E4E9C9C9E", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_001", "hash": "C8DAF118393D7705", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_002", "hash": "88B7170E1BC58CCD", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_003", "hash": "6627D83709F29046", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_020", "hash": "4F876F1AF9D3A6D1", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_021", "hash": "6D147A0099CEB535", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_022", "hash": "D743FA77C12D3DC4", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_023", "hash": "947BB18492E1EE90", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_Q1_000_000", "hash": "F37478DC7A224E6F", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_A1_000_000", "hash": "56177A55F802D1E9", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_A2_000_002", "hash": "49DDEE79281361A9", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_025", "hash": "945EBE60163BCF8D", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_030", "hash": "9AAED5DF1018FE20", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_031", "hash": "A1656B4562357B68", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_032", "hash": "C5DAF8CA5AD64996", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_035", "hash": "E7CE773BC8A9F2FD", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_040", "hash": "C61257DFA73B8FEB", "target": "" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_041", "hash": "FB7EB36E660BC6DB", "target": "" }
+  ]
+}

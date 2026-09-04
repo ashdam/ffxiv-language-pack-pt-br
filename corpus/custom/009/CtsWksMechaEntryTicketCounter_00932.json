@@ -1,0 +1,30 @@
+{
+  "conversation": "custom/009/CtsWksMechaEntryTicketCounter_00932",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_EXCHANGE_CONFIRM", "hash": "E71BAE2BA75C5BA1", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_NOT_ENOUGH_POINT", "hash": "842E912C6516CA47", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_FIRST_TALK", "hash": "963EC5CF60E1DBE5", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GET", "hash": "BD3DE1234B08FA22", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_GETED", "hash": "0C27154A15993620", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_QUESTION", "hash": "06C61868253C658A", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_QUESTION", "hash": "99B90035D872FAB5", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES1", "hash": "5A1EF3F1EA7819C6", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES2", "hash": "AD52D9BDCB308A2D", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES3", "hash": "92203A06781B08D8", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES4", "hash": "E9961F956C2B050D", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER1", "hash": "6BA87F4F3DF3360F", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER2", "hash": "369A147E8A2B392B", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK1", "hash": "932963049F352F2A", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_QUESTION", "hash": "F0D5946EB158B51D", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_WARP_TALK2", "hash": "D62EE7B5EA120778", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK", "hash": "D6A758482389E481", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_CHOICES5", "hash": "91EDAE3970F76608", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK1", "hash": "A63A4D7229416A24", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TICKET_KINDS_TALK2", "hash": "3BCBFB1FA57E14C1", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W2", "hash": "8D3E0E28ADE6B1C5", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W3", "hash": "8886492C70D54658", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_BEFORE_QUEST_TALK_C1W4", "hash": "60816EA3C65DA981", "target": "" },
+    { "gameKey": "custom/009/CtsWksMechaEntryTicketCounter_00932#TEXT_CTSWKSMECHAENTRYTICKETCOUNTER_00932_TALK_SUPPORTER3", "hash": "BE5DE1B573E5E3E7", "target": "" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "conversation": "content/DeepDungeonGacha",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "018EC227A041AD05", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_TITLE", "hash": "8A6D619A2283B27E", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_GACHA", "hash": "92F5ECDCF7AC1294", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_ABOUT", "hash": "BA6040D17EE90A20", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_EXIT", "hash": "E13B0B9328BF2727", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "" }
+  ]
+}

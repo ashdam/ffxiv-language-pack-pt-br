@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/009/GaiUsc005_00942",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_SEQ_00", "hash": "EACB65DA099D0A36", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_SEQ_01", "hash": "0939D2D20076923E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_SEQ_02", "hash": "6481A46007D907AE", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_SEQ_03", "hash": "86E6F0E8419682F2", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_SEQ_04", "hash": "C52712432D14AC01", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TODO_00", "hash": "89015B2B2D638DAA", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TODO_01", "hash": "E8E3A51EBC781E02", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TODO_02", "hash": "72F20FEBA6554F89", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_000", "hash": "48734846B1B4CC0C", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_001", "hash": "5924C8EF37E4E498", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_002", "hash": "9E579409FEC829DB", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_BENEDICT_000_010", "hash": "8AC846EF0614C592", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_IGNEMORTEL_000_020", "hash": "E820322B1FCB3810", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TUATKK_000_030", "hash": "13CB36860C566328", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TUATKK_000_040", "hash": "BEA8BDDB243D8104", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_TUATKK_000_041", "hash": "B315BCA9E15C19DF", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_050", "hash": "736D600BBB561C8F", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_051", "hash": "94E5AAE7C71FEE14", "target": "" },
+    { "gameKey": "quest/009/GaiUsc005_00942#TEXT_GAIUSC005_00942_LIAUTROIX_000_052", "hash": "0B8AA7CB6E4FA5E2", "target": "" }
+  ]
+}

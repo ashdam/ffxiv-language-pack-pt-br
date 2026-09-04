@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/012/SubSea158_01291",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SEQ_00", "hash": "D17F63FEC2EB5475", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SEQ_01", "hash": "CFD18B328634CE1B", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SEQ_02", "hash": "326E25817536BE1D", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SEQ_03", "hash": "04B203EB76897805", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SEQ_04", "hash": "E04B33B5940E3F5E", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_TODO_00", "hash": "6AC9A32F8EDE2696", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_TODO_01", "hash": "BCEB98128952246F", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_TODO_02", "hash": "D5130968CC2BA05C", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_000", "hash": "F157AB8AFC923514", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_001", "hash": "B8AA95F06ADC565E", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_002", "hash": "107A91F6F9BAA559", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_003", "hash": "9ACE1DBF7824FF27", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_004", "hash": "0DCC8605434CC9AE", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_COEURLCHILD_000_020", "hash": "82D0C3AB3C2E6273", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_COEURLCHILD_000_022", "hash": "AB5F04853F2EE658", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SYSTEM_000_021", "hash": "C835BF845DEF8A91", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_030", "hash": "6F7AB021BAFCE90F", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_031", "hash": "B984F539609642E1", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_032", "hash": "C4A91D30FEEB7AB7", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_033", "hash": "C3CBB867E77F7E1B", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_034", "hash": "8AD8C068BFBFB9B7", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_035", "hash": "2BFBF2AA55E59A32", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_036", "hash": "368F6D66AA44218A", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_SKRIBYLD_000_037", "hash": "FCA857FD45C4786D", "target": "" },
+    { "gameKey": "quest/012/SubSea158_01291#TEXT_SUBSEA158_01291_POP_MESSAGE", "hash": "618691AA7032EFEB", "target": "" }
+  ]
+}

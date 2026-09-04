@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/013/BanSah108_01386",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_SEQ_00", "hash": "F7DE316236D18517", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_SEQ_01", "hash": "384F014126ADB709", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_SEQ_02", "hash": "3C1406DFF70F6172", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_SEQ_03", "hash": "EA36C5B0A10D8EC7", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_TODO_00", "hash": "97B2F875B3B0A3E6", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_TODO_01", "hash": "9ECDCF01D1A38981", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_000", "hash": "048BCB0FB5262C9A", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_001", "hash": "57430D6AE30F71DB", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_002", "hash": "AD7DC60A48DDDD88", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_003", "hash": "F2F88A7B0C77C813", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_004", "hash": "ADBE583840AC582B", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_005", "hash": "A508A0EB58F3516C", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_TAMER01376_000_010", "hash": "66AB112DAA19B1ED", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_01376_Q1_000_000", "hash": "7E11EEC9B5867FA6", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_01376_A1_000_001", "hash": "6E8F32507F4061DE", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_01376_A1_000_002", "hash": "9F6E480C0DE391C1", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_020", "hash": "F001D17C8C046127", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_021", "hash": "091701D8CE7C9948", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_022", "hash": "657EBE383324E133", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_FYUU_000_023", "hash": "627C07C96A4F668A", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_POPMESSAGE_000_000", "hash": "02F7875D2DD14601", "target": "" },
+    { "gameKey": "quest/013/BanSah108_01386#TEXT_BANSAH108_01386_BALLOON_000_030", "hash": "818E49B9FE936E60", "target": "" }
+  ]
+}

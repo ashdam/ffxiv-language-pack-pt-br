@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/007/GaiUsa611_00773",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_00", "hash": "F5685D9F679481DD", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_01", "hash": "BAACFD2EBAEE7A4A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_02", "hash": "F23505943125B265", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_03", "hash": "780B51E0FA89DF67", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_04", "hash": "3C8C2B483D4C4D11", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_SEQ_05", "hash": "397F3D22919C6F77", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_00", "hash": "9485F7F0096A914A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_01", "hash": "EEDA7A90CF5CA86D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_02", "hash": "598C18ED30FB2CE2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_03", "hash": "3B2265B3196785F2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_04", "hash": "115EE50F0060373E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_TODO_05", "hash": "D8599254A19A7A47", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_ERIMMONT_000_000", "hash": "10AAC4BB55D6CDCD", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_ERIMMONT_000_001", "hash": "AC271B04B14B7615", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_ERIMMONT_000_002", "hash": "1B4700D27E034877", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_NPC1_000_010", "hash": "1334BAEBC1404A67", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_AEDOC_000_010", "hash": "BAF75DCE3361531A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa611_00773#TEXT_GAIUSA611_00773_AEDOC_000_020", "hash": "3D692E72341A6E08", "target": "" }
+  ]
+}

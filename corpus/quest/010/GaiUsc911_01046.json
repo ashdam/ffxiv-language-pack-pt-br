@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/010/GaiUsc911_01046",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "" }
+  ]
+}

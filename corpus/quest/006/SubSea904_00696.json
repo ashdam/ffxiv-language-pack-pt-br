@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/006/SubSea904_00696",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_SEQ_00", "hash": "969F8C15FD40D18B", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_SEQ_01", "hash": "39EFDC8A6699D711", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_SEQ_02", "hash": "31DB02AB4254FBA8", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_SEQ_03", "hash": "796C6742EE39543B", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_TODO_00", "hash": "5B573E0BB0C9B93D", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_TODO_01", "hash": "0D1B7480BEFB569C", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_1", "hash": "63A0008F6F79DAB6", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_2", "hash": "FDB39C0A1FDAD4C2", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_3", "hash": "ECE1B05ADBFB4E34", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_4", "hash": "F77BFBE579312BEB", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_5", "hash": "C27E691CEF89F311", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_10", "hash": "99C8F7CF985A7F0B", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_15", "hash": "272367E2DF755EE4", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_20", "hash": "E1802EE999259E50", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_25", "hash": "6018FC291415C0C7", "target": "" },
+    { "gameKey": "quest/006/SubSea904_00696#TEXT_SUBSEA904_00696_NAHCTAHR_000_26", "hash": "3F7D4F6908FD3C77", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/012/SubCts101_01215",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_SEQ_00", "hash": "30F58698A383D9D8", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_SEQ_01", "hash": "A94065EF02AAF03B", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_SEQ_02", "hash": "11ADD0724E1429F6", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_SEQ_03", "hash": "6329B375DD71C896", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_TODO_00", "hash": "175889341E83A482", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_TODO_01", "hash": "1AE988E682107862", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_LAURIANE_000_000", "hash": "3EC136632C422918", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_LAURIANE_000_001", "hash": "C65618F90582B770", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_LAURIANE_000_002", "hash": "09E1A097C4571C4F", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_LAURIANE_000_003", "hash": "DEE15F6764D626E2", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_010", "hash": "728C745DE79E88EE", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_011", "hash": "F9CE1D99BFB7D80A", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_012", "hash": "93579146A3E826C3", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_013", "hash": "C692B79888E12579", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_014", "hash": "C7FE171B922A2B42", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_015", "hash": "87CC811A9EE7A8E6", "target": "" },
+    { "gameKey": "quest/012/SubCts101_01215#TEXT_SUBCTS101_01215_URSANDEL_000_016", "hash": "7D9EB7C7A2AF4820", "target": "" }
+  ]
+}

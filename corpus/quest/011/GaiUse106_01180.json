@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/011/GaiUse106_01180",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_00", "hash": "8069D322F212F65F", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_01", "hash": "5739CDDB54C9147C", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_02", "hash": "83716521AED67DB5", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_TODO_00", "hash": "D1DCD383ED621D66", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_000", "hash": "348E57A8179247BE", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_001", "hash": "5228B34F15D45F9A", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_MINFILIA_000_002", "hash": "C1BE01F1854EB198", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_010", "hash": "BDADCDF30982B347", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_011", "hash": "77320513635F3CFB", "target": "" },
+    { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SLAFBORN_000_012", "hash": "84744D082B8F2205", "target": "" }
+  ]
+}

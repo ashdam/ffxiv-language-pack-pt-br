@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/011/SubSea162_01148",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_SEQ_00", "hash": "A339F9098971BA05", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_SEQ_01", "hash": "FDFD2B49E045E230", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_SEQ_02", "hash": "423B1422B4757BC0", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_SEQ_03", "hash": "52F6508F299EC7C4", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_TODO_00", "hash": "0206F6D3BBEC0D98", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_TODO_01", "hash": "33E018849607DD5F", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_000", "hash": "044D0C0AC1DCA376", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_001", "hash": "E1E7FCCCA32EB198", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_002", "hash": "63AA4762F17FF43D", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_020", "hash": "1C11D375B64732CA", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_030", "hash": "F965004A0D39DB41", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_031", "hash": "FA7BDC2DD7499F15", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_032", "hash": "7BC2639BA37E7A65", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_033", "hash": "CFEA80B8B3F9A7E4", "target": "" },
+    { "gameKey": "quest/011/SubSea162_01148#TEXT_SUBSEA162_01148_WILTSWYS_000_034", "hash": "9727C6FB4ED40EB9", "target": "" }
+  ]
+}

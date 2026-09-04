@@ -1,0 +1,17 @@
+{
+  "conversation": "opening/OpeningUldah",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/043/AktKzh016_04311",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SEQ_00", "hash": "AB2D1519A856638C", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_TODO_00", "hash": "EE19E46FD2D8A5F2", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_TODO_01", "hash": "C95E0FD84B52CD81", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_001", "hash": "29F7E6A9F31C6FCA", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_002", "hash": "A84F127BAFFEE025", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_003", "hash": "9519453E4A27D573", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_004", "hash": "E200A05AEBA1F702", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_005", "hash": "3C1E15D4B5E8135B", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_006", "hash": "1F32C4FF1851F27C", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SYSTEM_000_010", "hash": "695B65BD4CEC7A45", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SYSTEM_000_011", "hash": "D77CF3F2C1A3F997", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_SYSTEM_000_012", "hash": "B20D5782BE0FDDBD", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_020", "hash": "64BBE671446B25A2", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_021", "hash": "EA8F760DE28A32BE", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_022", "hash": "8E8F193A93D56B1E", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_023", "hash": "E47592D6AF15C736", "target": "" },
+    { "gameKey": "quest/043/AktKzh016_04311#TEXT_AKTKZH016_04311_HURRYOBSERVER04311_000_024", "hash": "DE6DA4D8505575B4", "target": "" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/029/BanKjn603_02999",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "" }
+  ]
+}

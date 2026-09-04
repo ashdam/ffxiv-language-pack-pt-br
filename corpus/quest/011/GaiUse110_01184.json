@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/011/GaiUse110_01184",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SEQ_00", "hash": "EF59CEDAC50A2F72", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SEQ_01", "hash": "D7CBB5AF56609875", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SEQ_02", "hash": "BD4A12AE881DB80E", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SEQ_03", "hash": "27FA9447FF4187F8", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_TODO_00", "hash": "1E0A09ED2A744737", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_TODO_01", "hash": "B8A6EA485B25AFFC", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_000", "hash": "4A0B410D4BBAB96A", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_001", "hash": "CD75DF4D2B67A326", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_002", "hash": "850BAAC59242C851", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_003", "hash": "8FD204B1A39742C2", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_004", "hash": "C3149DFBC6A4F3B2", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_005", "hash": "EC28601C67BF5B3C", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_006", "hash": "9562C3AF428D9F41", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_007", "hash": "882D0C7ED008F04F", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_008", "hash": "362F497F77ED0E47", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_009", "hash": "3C194875740207C1", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_020", "hash": "E7914EA33CA22604", "target": "" },
+    { "gameKey": "quest/011/GaiUse110_01184#TEXT_GAIUSE110_01184_SLAFBORN_000_021", "hash": "45BDEDF4F6203FCE", "target": "" }
+  ]
+}

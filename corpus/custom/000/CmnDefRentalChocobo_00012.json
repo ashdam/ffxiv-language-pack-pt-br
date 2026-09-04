@@ -1,0 +1,25 @@
+{
+  "conversation": "custom/000/CmnDefRentalChocobo_00012",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_Q1_000_1", "hash": "B81659A5AB4D1DAC", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_1", "hash": "2E24990AC155AFD4", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_2", "hash": "FBBC6EC54FC6BCD5", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_3", "hash": "2716187DB8BB33B8", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_1", "hash": "ECE74A51F073C0EE", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_SYSTEM_000_2", "hash": "CB54C38C76F99060", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_10", "hash": "32866F9C22AF20D3", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_Q2_000_1", "hash": "5981C92C47ED13DF", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_1", "hash": "211A9E62AA1B2EB9", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_2", "hash": "5AB82BC85606FA5C", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_20", "hash": "EEA3F422F9DFE116", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_21", "hash": "968B7ED99ECF5FB6", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_30", "hash": "7193A2F31422ADEA", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_31", "hash": "1D4C11B57EC42CD0", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_32", "hash": "086BE4EE52BA6794", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_33", "hash": "D1F74B6B03458BEB", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_34", "hash": "6D034252E5A9F22D", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_35", "hash": "AAB1939ABAEBBB07", "target": "" },
+    { "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_RENTALCHOCOBO_000_40", "hash": "BDD060CB62B03FF8", "target": "" }
+  ]
+}

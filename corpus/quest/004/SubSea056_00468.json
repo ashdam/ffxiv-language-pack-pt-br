@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/004/SubSea056_00468",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_00", "hash": "46532086F0F2201D", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_01", "hash": "BDEF06141EB25BB6", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_02", "hash": "F81277F0666377F6", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_03", "hash": "EFC1514A32C90086", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_SEQ_04", "hash": "4A3F1D44BF842984", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_TODO_00", "hash": "059DE66997CF81B5", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_TODO_01", "hash": "85A4BAEF86839CA6", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_TODO_02", "hash": "753F5FD3110AFDE4", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_1", "hash": "7963F847342BC92B", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_2", "hash": "2DDF9223603E7EA6", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_3", "hash": "3E9EFEA2E81E937C", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_STAELWYRN_000_21", "hash": "FA31747BF253553F", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_STAELWYRN_000_22", "hash": "4FFCFAF9685657B8", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_11", "hash": "595A4E5B8ACFDC99", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_12", "hash": "439579CB3EBC40B8", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_13", "hash": "3DE8C51EC9696582", "target": "" },
+    { "gameKey": "quest/004/SubSea056_00468#TEXT_SUBSEA056_00468_PFREWAHL_000_14", "hash": "2A3DB861CDCAFF1E", "target": "" }
+  ]
+}

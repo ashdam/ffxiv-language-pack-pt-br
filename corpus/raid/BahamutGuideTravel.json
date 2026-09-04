@@ -1,0 +1,28 @@
+{
+  "conversation": "raid/BahamutGuideTravel",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_Q1_000_010", "hash": "79AFE6F7E5ACDCD7", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_011", "hash": "05022092C365E873", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_012", "hash": "E88A30AB2B053594", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_013", "hash": "7CD4ACFF36580A3F", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_050", "hash": "0B34D2DBD947440C", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_051", "hash": "7058C2FFC6C44C2C", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_052", "hash": "D401AA2AE3FF0694", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_053", "hash": "9FE00BCF355627F9", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_054", "hash": "688716937B4841BD", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_055", "hash": "2E68706775DCC93A", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_056", "hash": "9B5818A988DFEAE9", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_0561", "hash": "DD6657A08D367FCA", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_057", "hash": "956FC51EEB5427D6", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_058", "hash": "85C87E3D2AA570BA", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_059", "hash": "476AFC6AF5E6C66C", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_060", "hash": "00F4339951D7EEEB", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_Q2_000_100", "hash": "C62EFD0BF4E98021", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_101", "hash": "083638991315C44C", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_102", "hash": "021F1A148BF82037", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_110", "hash": "23694C0488557047", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_210", "hash": "164C9CE9B4A357D0", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_211", "hash": "9A0B6A8D02D268DD", "target": "" }
+  ]
+}

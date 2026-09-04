@@ -1,0 +1,12 @@
+{
+  "conversation": "custom/001/CmnDefChocoboRename_00134",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_UNQUALIFIED", "hash": "3470033D62E59598", "target": "" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_TITLE", "hash": "B45F25D7F8B35D54", "target": "" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_CAPTION", "hash": "66FECB21722B94B6", "target": "" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_MES0", "hash": "C71AAB326A029DDC", "target": "" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_SUCCESS", "hash": "BA637EA4D528A3C6", "target": "" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_STABLE", "hash": "E9B39DD666D664CC", "target": "" }
+  ]
+}

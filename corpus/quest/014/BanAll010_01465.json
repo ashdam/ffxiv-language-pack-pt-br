@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/014/BanAll010_01465",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_00", "hash": "6C4A1EF5D133E5FC", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_01", "hash": "9F60B982E9A63A4A", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_02", "hash": "459D1C129432C75D", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_TODO_00", "hash": "8B01EEDBA577222F", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_000", "hash": "9B5E7EF5C1BED205", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_001", "hash": "5A3DB561EEE5CA74", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_002", "hash": "736C1E0E71AFC2C2", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_003", "hash": "880F10C5A88AF4E5", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_005", "hash": "214F92899204DF65", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_010", "hash": "94C848FAA6DD2DFB", "target": "" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_011", "hash": "1ACA6B21D547ECDF", "target": "" }
+  ]
+}

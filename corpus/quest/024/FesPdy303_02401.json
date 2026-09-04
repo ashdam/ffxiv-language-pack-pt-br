@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/024/FesPdy303_02401",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_SEQ_00", "hash": "CAC369565065C55E", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_SEQ_01", "hash": "7B9A33CE41E82A0A", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_SEQ_02", "hash": "0EE96C92C28E3185", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_TODO_00", "hash": "C3BF4D6B10ED330A", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_SYSTEM_000_000", "hash": "93DEDEE7728DF854", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_SYSTEM_000_001", "hash": "BB1323A82F595B6F", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_Q1_000_000", "hash": "09E2D46CEC9BDB2B", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_A1_000_001", "hash": "FF042EC587304DB2", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_A1_000_002", "hash": "1670F98A69014C3C", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_002", "hash": "DDCBFC9C2285C417", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_003", "hash": "EEC23F81EFB94D69", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_004", "hash": "FB651E91CC6EDB11", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_005", "hash": "721E1A744F21DEDF", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_006", "hash": "86B19C5127652C16", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_007", "hash": "5566A8FEBF371013", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_ULALA_000_008", "hash": "BB8FA16FDBFFDAD7", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_BUTLER_000_010", "hash": "95BD3B3671E86C71", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_BUTLER_000_011", "hash": "C14EEA9C7C514E23", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_BUTLER_000_012", "hash": "C86B903419300A4C", "target": "" },
+    { "gameKey": "quest/024/FesPdy303_02401#TEXT_FESPDY303_02401_BUTLER_000_013", "hash": "A5D3F17FC0BC6C22", "target": "" }
+  ]
+}

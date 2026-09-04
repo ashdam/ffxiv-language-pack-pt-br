@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/010/JobWhm350_01080",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_00", "hash": "89C3AE4E056C1722", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_01", "hash": "1B8466BCD8F61C9F", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_02", "hash": "158E6C7669ED92F9", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_SEQ_03", "hash": "40A523F447DDAA8D", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_TODO_00", "hash": "9EAFE2951B322377", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_TODO_01", "hash": "C79F9B7DA5058916", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_000", "hash": "C210434D9F2E22F2", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_001", "hash": "D5710B09FA800AC4", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_002", "hash": "BB1B77472F9FB15E", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_003", "hash": "49ED614A2727A498", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_004", "hash": "4F9A42AA8EEE97DE", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_005", "hash": "4FCAE21180916664", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_006", "hash": "FBFFBB0B56B5788E", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_010", "hash": "D181C89F19E53756", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_011", "hash": "6B93BA330C28F0C1", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_012", "hash": "E78CC42E9DE25A32", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_013", "hash": "39E0DAFEFCDE5F1E", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_014", "hash": "7ED476B4D3B34321", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_015", "hash": "90F23F31DBBFC4E1", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_016", "hash": "56EDC42C83746DEF", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_017", "hash": "C677A86868FD4021", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_RAYAOSENNA_000_018", "hash": "8ADAF02C77987191", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_POP_MESSAGE", "hash": "AAB5728CBF1EC906", "target": "" },
+    { "gameKey": "quest/010/JobWhm350_01080#TEXT_JOBWHM350_01080_ACCESS_MESSAGE", "hash": "1BCC3BE04D4CDD9A", "target": "" }
+  ]
+}

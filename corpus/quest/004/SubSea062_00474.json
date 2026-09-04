@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/004/SubSea062_00474",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_00", "hash": "7FCD586B4F162CD9", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_01", "hash": "8ACD2AEDF51A7E31", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_02", "hash": "8D4089332499696A", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_TODO_00", "hash": "998FC768FCB1EFF2", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_1", "hash": "84207429F4F7C0D1", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_2", "hash": "3AECE9153F1D7264", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_3", "hash": "7D526E9AE1E12E08", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_11", "hash": "4DCDE7F34F8E3120", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_12", "hash": "A8ECE6DBA9F7B21D", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_13", "hash": "31FEDB78D4F0CAB0", "target": "" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_14", "hash": "05DA37999E3B06E1", "target": "" }
+  ]
+}

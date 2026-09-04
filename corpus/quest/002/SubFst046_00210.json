@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/002/SubFst046_00210",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_00", "hash": "08811F7EA2E630A2", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_01", "hash": "030D6BEF15937B96", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_02", "hash": "4CDDDA65E4057AB3", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_03", "hash": "7ED659D00C86B319", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TODO_00", "hash": "FE1C98EAB7B60168", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TODO_01", "hash": "B672080B2E18A034", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_1", "hash": "D2E341F988B18293", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_2", "hash": "9AE98E02EF1333C1", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_3", "hash": "39C212DC5BB8A99E", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTA_000_10", "hash": "78E14F358DC2EE03", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTA_000_11", "hash": "28E3BAFDE2B975FA", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTB_000_15", "hash": "CF354AE8A3E54BC9", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTB_000_16", "hash": "2F0B85A5270B8499", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTC_000_20", "hash": "FD3EA7CCA9E16F90", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTC_000_21", "hash": "6C7084253FDE4F4A", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_30", "hash": "FC4DD5DC153E83DB", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_31", "hash": "BEE48FBB86170A91", "target": "" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_32", "hash": "7DDEA10C6E3CE1CC", "target": "" }
+  ]
+}

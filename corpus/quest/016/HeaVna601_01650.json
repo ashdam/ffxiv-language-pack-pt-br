@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/016/HeaVna601_01650",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SEQ_00", "hash": "A38D5984C4D14BD8", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SEQ_01", "hash": "68A991FF810BA2C1", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SEQ_02", "hash": "F43D64447F879882", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SEQ_03", "hash": "37D9F4F6B3AE15D0", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TODO_00", "hash": "A5C80B381A1CCF39", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TODO_01", "hash": "299FC6D14CBA8784", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_000", "hash": "0ECAE4D81A661140", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_001", "hash": "D2D9D3E07AD383AE", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_002", "hash": "3014BF46F33D088D", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_CID_000_003", "hash": "BA3A317CED69A00E", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_LUCIA_000_004", "hash": "32BB3196312749E1", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_WEDGE_000_005", "hash": "6B96B184B52AAD69", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_BIGGS_000_006", "hash": "98A4A9C6D7DAB1A0", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TEMPLEKIGHTGATE_000_010", "hash": "EC601024DBCE5348", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SCENE00008_EVENTAREA_WARP_YESNO_TITLE", "hash": "1405F69B94BD0BB9", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SCENE00008_EVENTAREA_WARP_YESNO_YES", "hash": "D4991AA0B604BAEC", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_SCENE00008_EVENTAREA_WARP_YESNO_NO", "hash": "1F1B4E47173906CF", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_030", "hash": "89FBEA2F7A46FC2A", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_CID_000_031", "hash": "C549F79896887353", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_LUCIA_000_032", "hash": "B491C94BAACA164F", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_EDMONT_000_033", "hash": "1CA3B0872F6C365F", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_AYMERIC_000_034", "hash": "F13CE557C1C096D8", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TATARU_000_020", "hash": "5700F11436510097", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TATARU_000_021", "hash": "B1EB0B9F45EC1797", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_TATARU_000_022", "hash": "52DE8692B72B0F47", "target": "" },
+    { "gameKey": "quest/016/HeaVna601_01650#TEXT_HEAVNA601_01650_ALPHINAUD_000_023", "hash": "DE2FADF207B835FC", "target": "" }
+  ]
+}

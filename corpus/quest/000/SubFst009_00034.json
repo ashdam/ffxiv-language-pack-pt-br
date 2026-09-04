@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/000/SubFst009_00034",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_00", "hash": "E905E709AD4791C1", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_01", "hash": "688C2FC9D0A9DB07", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_02", "hash": "FDDC64E02E1248A0", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TODO_00", "hash": "92942711CB82B84F", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_1", "hash": "8B207C77C0007719", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_2", "hash": "5DF41ECB8BEA2617", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_3", "hash": "789B9EC977C6B209", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_4", "hash": "1898F9E9BB4D6BC8", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_10", "hash": "3F353CA3B9E6A405", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_11", "hash": "72A1E011ED4B1367", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_12", "hash": "1D16E645A3C07440", "target": "" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_13", "hash": "B09DB0074CE02E69", "target": "" }
+  ]
+}

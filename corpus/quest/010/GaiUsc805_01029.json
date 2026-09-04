@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/010/GaiUsc805_01029",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_00", "hash": "D1D3AAC8545CCA38", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_01", "hash": "3009F0DE19733945", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_02", "hash": "58B2731578AB72C7", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_SEQ_03", "hash": "DCB79D98AD52B029", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_00", "hash": "BA4DBFFDBF3E2710", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_TODO_01", "hash": "BFED2867E1DB7203", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_000", "hash": "0E158D88F9B41AAF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_001", "hash": "BEFD2B55D1E7C1EF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc805_01029#TEXT_GAIUSC805_01029_AHTZATRACH_000_020", "hash": "2C19C4076E69F74E", "target": "" }
+  ]
+}

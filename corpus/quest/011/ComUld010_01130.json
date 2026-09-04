@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/011/ComUld010_01130",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_00", "hash": "A64A343918FFE1F0", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_01", "hash": "BD103F34D42E8475", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_02", "hash": "C3B00E9E73185A4D", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_03", "hash": "FF519E9377E0AAA1", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SEQ_04", "hash": "66C8DDEE60CFD49B", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_00", "hash": "1B72C288FA47B88D", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_01", "hash": "F018D5C773D856F7", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_TODO_02", "hash": "C16D025310A6C521", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_000", "hash": "95C1E5EE2A3B59F9", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_001", "hash": "08276F626B8FB6E8", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_002", "hash": "05E2332F72065FCC", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_003", "hash": "B11D4F0CEE8F506D", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_OPHELIE_000_010", "hash": "BBFF00016A42C43F", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_OPHELIE_000_011", "hash": "DC5EED0E78AA0B4A", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_OPHELIE_000_012", "hash": "D091B4B088A134BF", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_DUMMY_000_000", "hash": "12D4F98A3285DDAD", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_020", "hash": "5215B9146F41EE38", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_021", "hash": "DBE7D016FFFFC189", "target": "" },
+    { "gameKey": "quest/011/ComUld010_01130#TEXT_COMULD010_01130_SWIFT_000_022", "hash": "7B1DBE290B74DA5B", "target": "" }
+  ]
+}

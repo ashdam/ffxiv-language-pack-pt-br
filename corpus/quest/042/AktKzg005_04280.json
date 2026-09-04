@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/042/AktKzg005_04280",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_003", "hash": "E830BCD3DB30CBD4", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_004", "hash": "0F8185914BD28FE6", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SYSTEM_000_010", "hash": "C791D139367E4A27", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_020", "hash": "39CED3335D5E88BD", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_021", "hash": "25242C567A2E1630", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_022", "hash": "C75410B937155B1C", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_023", "hash": "8CA8E3CDED9802B3", "target": "" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_024", "hash": "D65833C94FF73247", "target": "" }
+  ]
+}

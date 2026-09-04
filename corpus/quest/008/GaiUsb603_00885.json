@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/008/GaiUsb603_00885",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "" }
+  ]
+}

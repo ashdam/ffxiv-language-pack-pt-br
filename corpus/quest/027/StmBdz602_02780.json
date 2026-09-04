@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/027/StmBdz602_02780",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SEQ_00", "hash": "AC4CA35F77F42F57", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_00", "hash": "0DA8A0BF48F4F56C", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_TODO_01", "hash": "DAA00B389EE4704F", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_000", "hash": "E96267B276B67F5E", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_001", "hash": "5BD7AD92E2FD7700", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_002", "hash": "FAB127B4DFA0EA6C", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_003", "hash": "9B4B4289963E6F6A", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_SYSTEM_000_005", "hash": "2980EC0D04CE5521", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_010", "hash": "6B06DB81274CDC32", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_011", "hash": "14329C7A96AE955A", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_012", "hash": "257B6A0BAB189E54", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_013", "hash": "9FDA39C19F070DB2", "target": "" },
+    { "gameKey": "quest/027/StmBdz602_02780#TEXT_STMBDZ602_02780_YABUQA_000_014", "hash": "1FFCFFEBE289B67A", "target": "" }
+  ]
+}

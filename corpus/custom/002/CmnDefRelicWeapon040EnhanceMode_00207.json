@@ -1,0 +1,27 @@
+{
+  "conversation": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_000", "hash": "0C18C59D49201FC8", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_MENU_TITLE", "hash": "550498162CE5F075", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_MENU_CHOICES", "hash": "A347DE2C747949E7", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_MENU_CANCEL", "hash": "36AC99233E129919", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_YESNO_MESSAGE", "hash": "146FB8399EA733CA", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_YESNO_YES", "hash": "2B565406FF76BB48", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_YESNO_NO", "hash": "E0EE36EAFBA2D6CF", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_030", "hash": "FDF4A75B1E86BD45", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_031", "hash": "79DF4F88028F0680", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_040", "hash": "49838584F1E50B20", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_041", "hash": "2B0B19414C8C8210", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_042", "hash": "C692887E8D63FA03", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_043", "hash": "329DA430B7F14DC0", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_100", "hash": "8139046912F3B5F6", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_101", "hash": "468C591E9182A0D2", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_JALZAHN_000_102", "hash": "33259E245E6E94F4", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_110", "hash": "305A17296D7CCCFE", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_111", "hash": "0871D046A59D9B03", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_112", "hash": "273DD80D99FC1519", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_113", "hash": "D4B742E0FD1A02A5", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040EnhanceMode_00207#TEXT_CMNDEFRELICWEAPON040ENHANCEMODE_00207_SYSTEM_000_114", "hash": "076697B5E2A8E2DE", "target": "" }
+  ]
+}

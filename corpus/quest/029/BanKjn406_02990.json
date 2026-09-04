@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/029/BanKjn406_02990",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_SEQ_00", "hash": "B43741D1FA07DD28", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_TODO_00", "hash": "580971D5CE54512A", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_TODO_01", "hash": "EB5657FC241C3BC3", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_TODO_02", "hash": "D2F17C0C64C43BE3", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_ZUKIN_000_000", "hash": "F7DD9AC1026FC652", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_010", "hash": "0F9574BD5915395C", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_011", "hash": "A3816A72EE715D51", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_012", "hash": "04E293DFF4EBB8AA", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_013", "hash": "6A8D2BAF061E4705", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_SYSTEM_000_020", "hash": "E4156C2762A48CAB", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_025", "hash": "CCB9F02B769CF3DB", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_MAKURA_000_026", "hash": "16FE375CCC0B8FD1", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_SYSTEM_000_027", "hash": "B544829566625F5C", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_ZUKIN_000_030", "hash": "00FC2B90AA56ECF9", "target": "" },
+    { "gameKey": "quest/029/BanKjn406_02990#TEXT_BANKJN406_02990_ZUKIN_000_031", "hash": "5666F3D5C76B2363", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/008/GaiUsb002_00809",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_00", "hash": "313FA7F0540B2859", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_01", "hash": "E2C4FFEC02EB3574", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_02", "hash": "4C99C2AAC1689E76", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_03", "hash": "85594810659FE029", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TODO_00", "hash": "90320B9D15E1CC40", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TODO_01", "hash": "FA54EC3418B47CD3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_000", "hash": "D8679ECF94DC02F0", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_001", "hash": "BE0719728DC52601", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_002", "hash": "19A808B7C6998D10", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_003", "hash": "7AA070EA57C7380F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_004", "hash": "C94C4F0370CEA3F6", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_005", "hash": "62D0A57324CA221B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_006", "hash": "D2E1EF5D0047F460", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_007", "hash": "DEA32A1597A68CC7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_020", "hash": "6898FB7D3FA3292B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_021", "hash": "D8D447217637B33B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_POP_MESSAGE_000", "hash": "B10C61ECF50D3DAC", "target": "" }
+  ]
+}

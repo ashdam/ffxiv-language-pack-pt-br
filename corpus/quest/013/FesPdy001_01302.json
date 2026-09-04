@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/013/FesPdy001_01302",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SEQ_00", "hash": "E45CC2D97127DEC7", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SEQ_01", "hash": "6C5DA1C9A4FACE2D", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SEQ_02", "hash": "75F028C37F26ADAA", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_TODO_00", "hash": "4E52BBE05EF9D51C", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_000", "hash": "211D47844BD362CA", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_001", "hash": "9D1213D2EB8D6423", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_002", "hash": "1EE523AB4F7724AC", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_003", "hash": "4C0B992B46094BD9", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_004", "hash": "80A7BEE5C2D8B4C1", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_005", "hash": "2DFD90CBCCF02823", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_006", "hash": "0EFFE0A56DC828FA", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_007", "hash": "5F1218AD5EB36769", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_008", "hash": "8193252CCB7509DB", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_009", "hash": "7F6E9AED1F299AA4", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_BUTLER_000_010", "hash": "28A7ABA1284DD0E0", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_010", "hash": "4342C40198CF66A5", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_011", "hash": "D561D1778BDFF106", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_100_010", "hash": "4F8E7573C2DAAD9D", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_012", "hash": "4F9D8528721C2F6E", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_013", "hash": "250CA19E22677A74", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_014", "hash": "A319CD4423661B0F", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_015", "hash": "FF0FD62EE643D07B", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_016", "hash": "183DE4961AC0018A", "target": "" },
+    { "gameKey": "quest/013/FesPdy001_01302#TEXT_FESPDY001_01302_SERENDIPITY_000_017", "hash": "5E54BC2949D88B7A", "target": "" }
+  ]
+}

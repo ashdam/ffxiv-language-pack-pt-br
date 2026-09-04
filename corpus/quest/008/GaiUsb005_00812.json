@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/008/GaiUsb005_00812",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_00", "hash": "C541DD920CEDD278", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_01", "hash": "01B5999AA7796B9D", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_02", "hash": "D2BD4835D791E30A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_03", "hash": "3D8913910A3EC401", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_04", "hash": "C2B8CD8B17D029CA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_TODO_00", "hash": "1F7873A272E52F5C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_TODO_01", "hash": "AC666CBB4520B368", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_TODO_02", "hash": "8B1C545FB7AFF9F3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_000", "hash": "E9157C2D90D1CE33", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_001", "hash": "A8395306690E1195", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_002", "hash": "FB2478EABFA239DC", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_003", "hash": "D8E5565A2A02B22E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_020", "hash": "078A26C56BC6274E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_025", "hash": "790DBF931F9FEAB9", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_026", "hash": "184BC5AD8229CB8E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_POP_MESSAGE_000", "hash": "5D1CC4435A0E87C9", "target": "" }
+  ]
+}

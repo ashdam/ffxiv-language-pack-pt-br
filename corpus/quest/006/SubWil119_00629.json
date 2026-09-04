@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/006/SubWil119_00629",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_00", "hash": "E1C951B617A3F83E", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_01", "hash": "A1572F074B592EE9", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_02", "hash": "59B6FF768FF1DFD3", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_03", "hash": "0962EE18550DCCA7", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_04", "hash": "9BDACA24B6D2E52A", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_00", "hash": "FD904DF8A1FABD8D", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_01", "hash": "75E9CFD21A31B5FF", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_02", "hash": "368B0ACD5CA0C791", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_1", "hash": "D44EF9870451E37A", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_2", "hash": "7F349B72430C5B4A", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_3", "hash": "7EF60ED511946D2C", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_10", "hash": "A627D1EF4BDA4F72", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_11", "hash": "08361D33C452DD3D", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_12", "hash": "8FE62BB875CCA32F", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_20", "hash": "6305FE5D62EE50FF", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_21", "hash": "4F3130B53A6B4151", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_22", "hash": "A60E7D5365E7C944", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_POP_MESSAGE", "hash": "B3E7C74C9FA692DD", "target": "" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ACCESS_MESSAGE", "hash": "9050AF0AC9CC7D66", "target": "" }
+  ]
+}

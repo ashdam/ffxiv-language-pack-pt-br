@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/029/BanKjn302_02980",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_SEQ_00", "hash": "2456284188477B3A", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_00", "hash": "7A95173C0E118C4B", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_01", "hash": "9683659A9CEE4ED1", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_TODO_02", "hash": "93A2B5AAA378A6EB", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_000", "hash": "29D1AED0EF2102DF", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_001", "hash": "ACFE4FCFD9B45E05", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_002", "hash": "B76254277FC6B31E", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_010", "hash": "D1CA7A54F8EEF2ED", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_011", "hash": "804EBF7F2AB338FE", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_012", "hash": "71005F9D38D7AF35", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_013", "hash": "86DA65C0BA4CFE2C", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_015", "hash": "2B37EA3BBC88A00C", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_016", "hash": "3C4F23A85E168E33", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_017", "hash": "A010E8CACF6C52B1", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_MERCHANT02980_100_018", "hash": "3D3DBEE8BBC31FD1", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_010", "hash": "5611B7541858D34D", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_012", "hash": "749535BB863597E8", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_013", "hash": "75121F03AD68C2C1", "target": "" },
+    { "gameKey": "quest/029/BanKjn302_02980#TEXT_BANKJN302_02980_ZUKIN_000_014", "hash": "49FE302FCE487E09", "target": "" }
+  ]
+}

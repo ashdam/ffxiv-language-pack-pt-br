@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/039/BanDwa119_03920",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SEQ_00", "hash": "835DBDC8466EF634", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SEQ_01", "hash": "E586C8416DCD04D6", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SEQ_02", "hash": "40A221C46BFE2CAF", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SEQ_03", "hash": "1C42A464ABABC85E", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_TODO_00", "hash": "D9E4086C40B37BDA", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_TODO_01", "hash": "7EDABD72F82247AF", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_TODO_02", "hash": "5F3A21C815914642", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_000", "hash": "07EAEF49794CEDE3", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_001", "hash": "DC6807654F14DA01", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_002", "hash": "3A9A9AFA5100B89E", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SHIGITT_000_010", "hash": "25654E2B60D58CEA", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SHIGITT_000_020", "hash": "947DD04BCD9D2FD3", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SHIGITT_000_030", "hash": "CC79A0D367F67EC2", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SHIGITT_000_040", "hash": "EC93E6A798E4C809", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_SHIGITT_000_050", "hash": "C67BE5A729CBFC74", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_070", "hash": "43804FB3C5AF6FFE", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_071", "hash": "9AD29D8B623F5479", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_072", "hash": "F992E20931A99526", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_080", "hash": "5376BC4C1DE800A9", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_081", "hash": "EC50A057D22C6B6E", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_AUTOMATON_000_082", "hash": "8BA8B7D95EF66F9C", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_DWARF03920_000_090", "hash": "78EB822BC45E0151", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_DWARF03920_000_100", "hash": "7BE3F22D10B7EC81", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_DWARF03920_000_110", "hash": "F9B247AD692DF4A7", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_120", "hash": "5BCFF38519A4DEA1", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_121", "hash": "173AF64DA017134B", "target": "" },
+    { "gameKey": "quest/039/BanDwa119_03920#TEXT_BANDWA119_03920_REGITT_000_122", "hash": "4227FE38F66121DE", "target": "" }
+  ]
+}

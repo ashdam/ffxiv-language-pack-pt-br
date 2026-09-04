@@ -1,0 +1,17 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceTraining_00227",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02", "hash": "E2CC6CF7F165E20D", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE", "hash": "422CA5344CC46C7B", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR", "hash": "8E98F4FDE2C50FB6", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_01", "hash": "3CF4E8EB67ABE059", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_02", "hash": "BB17E4E415DBE552", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_01", "hash": "06564AD980125043", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_02", "hash": "BF6E7AF68A3F96A5", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01", "hash": "DAB924037D110939", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02", "hash": "79F91D34FE8004BA", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01", "hash": "678B1C8CEEBD4A11", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02", "hash": "D597CFA2DD8159D5", "target": "" }
+  ]
+}

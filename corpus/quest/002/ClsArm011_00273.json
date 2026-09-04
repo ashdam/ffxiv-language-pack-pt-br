@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/002/ClsArm011_00273",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_00", "hash": "BBA677C8768EC1B0", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_01", "hash": "3DCB8191DE18731E", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SEQ_02", "hash": "FE75996A6A0229FD", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_TODO_00", "hash": "DD10AAB41E85709A", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_1", "hash": "1B0BF828DCF5A5BD", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_2", "hash": "21973224041BA703", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_3", "hash": "032DB3E891C6B5BA", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_4", "hash": "1E85A8983551365A", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_5", "hash": "8A7B80F207F525DC", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_GWAHNAKO_000_6", "hash": "95BF57BDC51B6CC8", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_11", "hash": "96DB3369DCD88570", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_12", "hash": "5AE6578A79B06B96", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_13", "hash": "B32CF9D90A6FF724", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_14", "hash": "218AEF7DB943A149", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_Q1_000_1", "hash": "5941FC31E1848A08", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_A1_000_1", "hash": "6AAA549551C2C99C", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_A1_000_2", "hash": "9FBD6A1D742E6583", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_21", "hash": "4813C9C9E7B8B9E1", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_25", "hash": "520772DA17EE33BE", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_26", "hash": "1769DEB415D3A807", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_27", "hash": "11483D82D734E7E4", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_28", "hash": "684FE9E28EB3D310", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_29", "hash": "69DB8C7A9191F1B3", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_HNAANZA_000_30", "hash": "6EEFF0F7EC4B3CE0", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SYSTEM_000_40", "hash": "A70D4E54456804F3", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SYSTEM_000_41", "hash": "1ECB06031180EFAF", "target": "" },
+    { "gameKey": "quest/002/ClsArm011_00273#TEXT_CLSARM011_00273_SYSTEM_000_42", "hash": "11F19796CC6287AB", "target": "" }
+  ]
+}

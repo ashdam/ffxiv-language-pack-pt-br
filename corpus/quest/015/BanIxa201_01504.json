@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/015/BanIxa201_01504",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_00", "hash": "78F46AD863DFF212", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_01", "hash": "E4DA2CF2D777F73F", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_02", "hash": "AC424F032540B01B", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_03", "hash": "FFB06E6696EE0658", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_04", "hash": "D01F2E5BA4FBD337", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_TODO_00", "hash": "0ED811BD06F5A86E", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_TODO_01", "hash": "419B02F09F037647", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_TODO_02", "hash": "AD445D89099FDB31", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_000", "hash": "C684FDCF222C2D66", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_001", "hash": "70A3B9C4D15D78F4", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_010", "hash": "93C6BD9276B8437B", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_020", "hash": "25C633F7EB03AF06", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_030", "hash": "4870EFB23B9718E5", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_040", "hash": "CD507D41C95AEEE3", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_050", "hash": "1BC7E7F84F555C47", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_POP_MESSAGE", "hash": "66CCE84B99F23F5E", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_BALOON_000_080", "hash": "2A75229EB6FB6A22", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_BALOON_000_081", "hash": "EE6B1267912B14DE", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_HILDEYERD_000_090", "hash": "F2D8AB80F6AE02E7", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_HILDEYERD_000_091", "hash": "D5DE933F40AFBD81", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_HILDEYERD_000_100", "hash": "E53CA8E93B6A8D3E", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_HILDEYERD_100_100", "hash": "05D12FE325F4CE27", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_130", "hash": "71D0DD48893CE4CC", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_131", "hash": "8DFAFCB4396596E7", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_METHULICATTLAN_000_132", "hash": "8B81D94C2A5C3259", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_POPMESSAGE_000_200", "hash": "C985B120BCC29555", "target": "" },
+    { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SYSTEM_200_200", "hash": "C94D466B545B6750", "target": "" }
+  ]
+}

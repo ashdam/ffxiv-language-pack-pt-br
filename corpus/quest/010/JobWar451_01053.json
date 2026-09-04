@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/010/JobWar451_01053",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_SEQ_00", "hash": "83D7FCF3F28B4A24", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_SEQ_01", "hash": "FEE99843ECD49650", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_SEQ_02", "hash": "C510FC5CA0785D24", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_SEQ_03", "hash": "DA0ED535D48499DE", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_TODO_00", "hash": "704C45FDC3D1B87A", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_TODO_01", "hash": "E9C74F382B167D45", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_000", "hash": "ACEF0473CF60C554", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_001", "hash": "21B925DC6DC8942E", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_002", "hash": "94000D8789C7CE48", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_003", "hash": "66CCE00C8430F72F", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_004", "hash": "C033CB007DF8608B", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_005", "hash": "D428CDBF2F145E6F", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_010", "hash": "B9EC9EE55DD166E7", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_011", "hash": "89DB16C3E8093F97", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_020", "hash": "D965F0863A48F43C", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_021", "hash": "58DC642582625B4C", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_022", "hash": "45B31658A32D7EBA", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_023", "hash": "5B6CABF895635438", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_CURIOUSGORGE_000_024", "hash": "7F0A4A81FB5F2492", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_POP_MESSAGE", "hash": "513FC1AF57C46FDD", "target": "" },
+    { "gameKey": "quest/010/JobWar451_01053#TEXT_JOBWAR451_01053_ACCESS_MESSAGE", "hash": "66C377C0ED87ECED", "target": "" }
+  ]
+}

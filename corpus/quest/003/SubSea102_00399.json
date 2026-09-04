@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/003/SubSea102_00399",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_3", "hash": "EFB7B7E574809F6F", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_11", "hash": "0D40504B6FEF64C7", "target": "" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_12", "hash": "74A0A07AF2E2744F", "target": "" }
+  ]
+}

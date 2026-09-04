@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/029/BanKjn401_02985",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SEQ_00", "hash": "F18E5AFE6CDC15EE", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_00", "hash": "A5CE7D92D60AFFBF", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_01", "hash": "D99552DCA2896CB1", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_TODO_02", "hash": "CBC6D0D7AA6D6045", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_000", "hash": "1707B129269B7A99", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_001", "hash": "C3FE796C3F8D2582", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SAYTODO_000_015", "hash": "1C2739C50201DC42", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SYSTEM_100_009", "hash": "3AC19B0474072FD8", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_010", "hash": "FF78E9C63888D93E", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_SYSTEM_000_011", "hash": "8CCA63F76EF248A5", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_020", "hash": "330C5CF94C3BC7B5", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_021", "hash": "43866B1810670C72", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_022", "hash": "3636995EAC4C509F", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ITOMAKI_000_023", "hash": "95DE147FA49F7504", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_030", "hash": "6D1A8047B49FD0DE", "target": "" },
+    { "gameKey": "quest/029/BanKjn401_02985#TEXT_BANKJN401_02985_ZUKIN_000_031", "hash": "EF792BEC49E87D01", "target": "" }
+  ]
+}

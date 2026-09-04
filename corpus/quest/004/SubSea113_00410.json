@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/004/SubSea113_00410",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "" }
+  ]
+}

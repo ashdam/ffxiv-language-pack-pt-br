@@ -1,0 +1,19 @@
+{
+  "conversation": "custom/001/ComDefFreeCompanyCrest_00101",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01", "hash": "22290697BC0170F9", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1", "hash": "94B7C51D5FBF831C", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1", "hash": "CB6988D1DD30387E", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2", "hash": "84A73EF961D549EA", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A3", "hash": "95DEB3669150887E", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A4", "hash": "4BB03B77E6A6B4D1", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_010", "hash": "D9B470E398DC78A1", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_011", "hash": "F1830AAD0D918CAE", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012", "hash": "16E05F5D600DCE06", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013", "hash": "D98C4BE70698EB48", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1", "hash": "4203285DB3591468", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2", "hash": "EDEDF2ABDAF65FF0", "target": "" },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3", "hash": "B07E29E99BBC40D2", "target": "" }
+  ]
+}

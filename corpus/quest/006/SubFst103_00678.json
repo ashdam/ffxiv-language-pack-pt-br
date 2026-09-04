@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/006/SubFst103_00678",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "" }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "conversation": "custom/002/RegDra2CrafterGathererTradeFront_00274",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_Q1", "hash": "FAA344D10F76CDD7", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A1", "hash": "2191C8085F265D0C", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A2", "hash": "51272C10A700BD40", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A3", "hash": "952C9ABDFD290718", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A4", "hash": "9DEB35AA263C2EE1", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_000", "hash": "F2A1342816D7814B", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_005", "hash": "3B239BF313227FCC", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_010", "hash": "9B2880BC6FC011E0", "target": "" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_010", "hash": "350612E801D6035C", "target": "" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/012/BanSyl304_01280",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_00", "hash": "5A225CA1D867F506", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_01", "hash": "A484CCE044D38CDC", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_02", "hash": "39BEE82DC6E2AAA9", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SEQ_03", "hash": "7E9CCB7ACEEF6452", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_TODO_00", "hash": "00C7D3B46D3D7C94", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_TODO_01", "hash": "FDFA4CF754375D1C", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_000", "hash": "A64FBF6E2A5A297A", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_001", "hash": "E19351ECE3E93E52", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_002", "hash": "36AB7B4C4C4F2308", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_003", "hash": "47E3C52483F1FCCB", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_010", "hash": "9C2623DFA1ABCD75", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHVORSAILE_000_015", "hash": "EC3CA2D9F3633FB7", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHDOORMANLOTUS_000_015", "hash": "9955332BDEB91E8E", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHBEATINE_000_015", "hash": "611E38E0122E024D", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHGEVA_000_015", "hash": "EFAB56AADBE406E5", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHFUFUCHA_000_015", "hash": "B7FBCA4E068B80E9", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHMAISENTA_000_015", "hash": "2F078184859D834D", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHNICOLIAUX_000_015", "hash": "D112DA84477DB572", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHENEMY_000_016", "hash": "64B53B95C66D8AA7", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHENEMY_000_017", "hash": "6AE757986F4EA745", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHENEMY_000_018", "hash": "17B30305E8FED267", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_SYLPHENEMY_000_019", "hash": "F2A6AC8AF5880A66", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_020", "hash": "DEDB621FC3739F62", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_MOXIA_000_021", "hash": "8107AD8CA6780DAF", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_POP_MESSAGE", "hash": "AB9436510ED38CEE", "target": "" },
+    { "gameKey": "quest/012/BanSyl304_01280#TEXT_BANSYL304_01280_RECTERROR_MESSAGE", "hash": "6E5E74919B2A6138", "target": "" }
+  ]
+}

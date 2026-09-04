@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/014/BanSah301_01400",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_00", "hash": "70BCB23A6B407951", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_01", "hash": "C9BF60BBC71ECE92", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_02", "hash": "784B61599D326E4A", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEQ_03", "hash": "5F2F75DE1746DB05", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_TODO_00", "hash": "E36DC28D6BEBD5B2", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_TODO_01", "hash": "99BD5AC688970EF3", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_TODO_02", "hash": "B0640DDD7C07FD67", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_TODO_03", "hash": "A3AC6F1F1F828598", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEWW_000_000", "hash": "24919E845D066634", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEWW_000_001", "hash": "9FE723DF0E367AE4", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEWW_000_002", "hash": "43891C763E8EAEA1", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_BALLOON_000_010", "hash": "F7137C68ED27F2EB", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_BALLOON_000_011", "hash": "7BAB54885D6595FC", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_BALLOON_000_012", "hash": "C2F17202958E9FE2", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_POP_MESSAGE_000_000", "hash": "05F64C7AEB2D5EFA", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_POP_MESSAGE_000_001", "hash": "26059A8B8D658858", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_POP_MESSAGE_000_002", "hash": "5C9342F354C256CA", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEWW_000_020", "hash": "FB2C0FE90058DC4F", "target": "" },
+    { "gameKey": "quest/014/BanSah301_01400#TEXT_BANSAH301_01400_SEWW_000_021", "hash": "0271CF40E598B0F7", "target": "" }
+  ]
+}

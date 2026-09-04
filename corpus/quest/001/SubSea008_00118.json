@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/001/SubSea008_00118",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_SEQ_00", "hash": "BDD930BA9924B078", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_SEQ_01", "hash": "F41271516139B6DE", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_SEQ_02", "hash": "DBF076EF2712E3E9", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_SEQ_03", "hash": "56E976AAE02B15AE", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_SEQ_04", "hash": "F9BEA93BB6752279", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_TODO_00", "hash": "3EE3621EAB928564", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_TODO_01", "hash": "5600FF755352EFEB", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_TODO_02", "hash": "68F5B6E4BC4A8042", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_TODO_03", "hash": "C0BF969F64AEE99A", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_MORDYN_000_0", "hash": "D6323B5B0AB17EE1", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_MORDYN_000_1", "hash": "4A8049BA78164762", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_10", "hash": "D7C18A193C12C650", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_11", "hash": "E7F66430CBF347C2", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_12", "hash": "03F9BAC8CAB2245D", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_13", "hash": "9FD467CA454A8BF3", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_GINNADE_000_20", "hash": "D633F344D130AC89", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_GINNADE_000_21", "hash": "9A179757399B3C50", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_GINNADE_000_22", "hash": "FB5E78C080FBD26C", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_GINNADE_000_23", "hash": "575D7E51643F2474", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_LYNGSATH_000_25", "hash": "D5EA8B6C405A0270", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_LYNGSATH_000_26", "hash": "46799CB720DC0E6E", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_LYNGSATH_000_27", "hash": "7B74124CBD5F1647", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_LYNGSATH_000_28", "hash": "B571D78072578201", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_30", "hash": "BE4A703132E0F826", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_31", "hash": "7C88E6AFEB61A0E8", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_32", "hash": "0D0CABFB55A1799D", "target": "" },
+    { "gameKey": "quest/001/SubSea008_00118#TEXT_SUBSEA008_00118_CARVALLAIN_000_33", "hash": "AB0CAF251E0EDDDC", "target": "" }
+  ]
+}

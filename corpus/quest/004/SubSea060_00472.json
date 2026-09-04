@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/004/SubSea060_00472",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "" }
+  ]
+}

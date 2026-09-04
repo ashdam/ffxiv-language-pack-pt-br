@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/001/SubFst042_00198",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "conversation": "custom/000/CmnDefWarpNpc_00026",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "" }
+  ]
+}

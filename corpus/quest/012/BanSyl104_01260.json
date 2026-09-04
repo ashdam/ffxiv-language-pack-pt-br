@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/012/BanSyl104_01260",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_00", "hash": "F177E1DB5CAE8B39", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_01", "hash": "444C1BE43E441D9A", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_02", "hash": "436836DDFCE8B599", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_03", "hash": "9B54914A558DED44", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SEQ_04", "hash": "B418883C697A2642", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TODO_00", "hash": "949F302175973038", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TODO_01", "hash": "8818633A57268477", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TODO_02", "hash": "BD1D4AB631A46411", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_000", "hash": "28BB4F334F54E3E3", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_001", "hash": "326D5CAE28DB5EFA", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_002", "hash": "6415F62053AF9CE4", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_003", "hash": "F722004416F0AB6A", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_010", "hash": "0288EC6B0E2E340F", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SYLPHA_000_020", "hash": "9EFFF572FB1DF898", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SYLPHA_000_021", "hash": "811520D076FDF493", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_SYLPHA_000_022", "hash": "7FA82D016ED97DAD", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_030", "hash": "84AC718CCF25D53D", "target": "" },
+    { "gameKey": "quest/012/BanSyl104_01260#TEXT_BANSYL104_01260_TONAXIA_000_031", "hash": "9FE8CC2996210845", "target": "" }
+  ]
+}

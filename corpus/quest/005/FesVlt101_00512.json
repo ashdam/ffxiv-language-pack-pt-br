@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/005/FesVlt101_00512",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_SEQ_00", "hash": "E145D1BD196531F1", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_SEQ_01", "hash": "2B3607DEB264E8B9", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_SEQ_02", "hash": "E0A63E5D603B41C7", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_TODO_00", "hash": "F2E2C2B3D4776BB4", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_001", "hash": "DC5389F6AAE100C7", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_002", "hash": "BA34B8CF442C775C", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_003", "hash": "0ED5082C12BC041B", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_004", "hash": "402A74C7447FB0A2", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_005", "hash": "6E37431178E8997E", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_006", "hash": "9C692977BF94DD99", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_100_006", "hash": "D02DE8370B7B6296", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_LISSETE_000_008", "hash": "9F2A89D7C9F3AB6A", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_010", "hash": "01EF04E3F323DF9A", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_011", "hash": "49113790E723FF2E", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_012", "hash": "FAD12AB9FF1CBDD7", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_013", "hash": "03170BFF34FBE9A5", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_014", "hash": "66E01EB943F10CC7", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_015", "hash": "5BFC540E1A898D89", "target": "" },
+    { "gameKey": "quest/005/FesVlt101_00512#TEXT_FESVLT101_00512_HORTEFENSE_000_016", "hash": "5888E95BB913AC86", "target": "" }
+  ]
+}

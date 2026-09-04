@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/010/GaiUsc607_01007",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "" }
+  ]
+}

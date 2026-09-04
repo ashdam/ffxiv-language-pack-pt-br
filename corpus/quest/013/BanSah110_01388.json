@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/013/BanSah110_01388",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_SEQ_00", "hash": "62619F7809601FDD", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_SEQ_01", "hash": "FB8047B91DD0FB22", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_SEQ_02", "hash": "61B8D9476D865BD4", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_SEQ_03", "hash": "000B3B91CBA1D59A", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_TODO_00", "hash": "5D327AF54F5881CE", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_TODO_01", "hash": "51EC4F829321B451", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_000", "hash": "84A71B5126F1C13F", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_001", "hash": "46626D0364C6DDD1", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_002", "hash": "3271F5AB9B51F12B", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_003", "hash": "9488A434CCEF1EE5", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_005", "hash": "87ECF5E345CDA66E", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_POPMESSAGE_000_000", "hash": "D8ED6662B91BC494", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_MOBA01388_000_010", "hash": "242E98135964B137", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_MOBB01388_000_020", "hash": "D0C650CBA0E13A40", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_MOBC01388_000_030", "hash": "62682349E816AAF2", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_MOBD01388_000_040", "hash": "E9F89D2511BBE827", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_060", "hash": "ED9145B09A7B8D19", "target": "" },
+    { "gameKey": "quest/013/BanSah110_01388#TEXT_BANSAH110_01388_FYUU_000_061", "hash": "AFAF5647D7A3116E", "target": "" }
+  ]
+}

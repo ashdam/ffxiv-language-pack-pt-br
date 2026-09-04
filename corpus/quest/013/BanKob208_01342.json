@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/013/BanKob208_01342",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SEQ_00", "hash": "A56A08B9444EC7B6", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SEQ_01", "hash": "47BA41DB0F4D104F", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SEQ_02", "hash": "DEAF2EC491822A13", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SEQ_03", "hash": "1F1EBAE2BA2E79B4", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_TODO_00", "hash": "69D726F81ED36B7B", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_TODO_01", "hash": "BE5904B77D589790", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_000", "hash": "4AB1BEB7A9C47174", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_001", "hash": "633F95F698D147B3", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_002", "hash": "B11FC6CED9FAAC86", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_003", "hash": "4179F1509B5FE93A", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_004", "hash": "94550628CEAF88C6", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_010", "hash": "F5AA8FC2F4022648", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_011", "hash": "02A62712162018BC", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_012", "hash": "A1367B7537F9735A", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BOGU_000_013", "hash": "D5CECA31E4D729AE", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SCENE00021_EVENTAREA_WARP_YESNO_TITLE", "hash": "799131DBE1CEB4B8", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SCENE00021_EVENTAREA_WARP_YESNO_YES", "hash": "F01AFA0639F93541", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_SCENE00021_EVENTAREA_WARP_YESNO_NO", "hash": "0E509551C5CE4374", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_POPMESSAGE_000_000", "hash": "23225F6E87D577AF", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_POPMESSAGE_000_001", "hash": "69FF99A86290EB56", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BALLOON_000_020", "hash": "1752E8A60F3FD8B9", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BALLOON_000_021", "hash": "0F855DC380D38214", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_BALLOON_000_022", "hash": "897B60E923FF93F4", "target": "" },
+    { "gameKey": "quest/013/BanKob208_01342#TEXT_BANKOB208_01342_GAJI_000_030", "hash": "770FC5DCA9D133B7", "target": "" }
+  ]
+}

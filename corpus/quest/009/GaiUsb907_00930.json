@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/009/GaiUsb907_00930",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "" }
+  ]
+}

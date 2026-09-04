@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/001/SubFst038_00175",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_00", "hash": "AB89D4B356E9334D", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_01", "hash": "1D3B9BAEAF387B82", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_02", "hash": "2B6A762CF2EABB2D", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_03", "hash": "C4A3578AF96FFA10", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_00", "hash": "2D1FD79696EB3F9C", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_01", "hash": "34D390518CCB0192", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_02", "hash": "E4C6247A428A0B49", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_03", "hash": "68A3943D10F4E1C7", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_1", "hash": "837709541D346C34", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_2", "hash": "03C1BA4A47764AE6", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_3", "hash": "74553320899E2F31", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_4", "hash": "999D05DF3B2F9131", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_10", "hash": "7201FED6E9014160", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_11", "hash": "1084E8B0DC61B5E0", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_12", "hash": "0EEBD59BF71E8DB0", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_13", "hash": "37BC0A3F96B205D4", "target": "" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_14", "hash": "FE327C08B38C680E", "target": "" }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/011/ComLim010_01128",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_00", "hash": "D17C8583EE25E5A4", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_01", "hash": "8645F4C7A70FA855", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_02", "hash": "8895B496C3F023C2", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_03", "hash": "8C84796ED81E5087", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_SEQ_04", "hash": "9F4BC40D1B7F84AF", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_00", "hash": "65F9172536C823F1", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_01", "hash": "4A19256BBA32EE53", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_TODO_02", "hash": "DA30D4B612DA5848", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_000", "hash": "0E6A000793ABBDD0", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_001", "hash": "114DF8C3A026F80D", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_002", "hash": "3DB65F66858FE81F", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_003", "hash": "0C38B6695E66F055", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_OPHELIE_000_010", "hash": "09FB4B31F67424AA", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_OPHELIE_000_011", "hash": "D2052E39ACEB1CCB", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_OPHELIE_000_012", "hash": "AD35CB205F7BF48D", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_DUMMY_000_000", "hash": "A23C7AA131AAB357", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_020", "hash": "0162796616BF0623", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_021", "hash": "50EB475B15577CC2", "target": "" },
+    { "gameKey": "quest/011/ComLim010_01128#TEXT_COMLIM010_01128_RASHAHT_000_022", "hash": "CAAB206C9AF3E55C", "target": "" }
+  ]
+}

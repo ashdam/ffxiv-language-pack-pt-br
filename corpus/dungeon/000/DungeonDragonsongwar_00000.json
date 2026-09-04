@@ -1,0 +1,11 @@
+{
+  "conversation": "dungeon/000/DungeonDragonsongwar_00000",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000", "hash": "02F41F1C1BFCD918", "target": "" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001", "hash": "299A81544BA17071", "target": "" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001", "hash": "B131B52C852AB2C2", "target": "" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002", "hash": "23D029AFE902B610", "target": "" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002", "hash": "78BA1A119B8A89CA", "target": "" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/009/GaiUsb902_00925",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "" }
+  ]
+}

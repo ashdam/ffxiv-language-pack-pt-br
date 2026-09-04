@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/001/SubFst050_00156",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_02", "hash": "940AFD0A3EE41232", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_03", "hash": "F9B53C6548FCC1C2", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_00", "hash": "B3CD7BF71B8902BE", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_01", "hash": "97D98B84E8C9B1E3", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_1", "hash": "FE36B49C4A7247BF", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_2", "hash": "013C5214C8CB0FD1", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_3", "hash": "97880E056D877CF6", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_4", "hash": "296896403E8A20FA", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_5", "hash": "5568678DC57DCFE4", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_10", "hash": "F84EDB5365081E37", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_11", "hash": "2C3D9B521AF376F4", "target": "" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_12", "hash": "1BAC37A725352B80", "target": "" }
+  ]
+}

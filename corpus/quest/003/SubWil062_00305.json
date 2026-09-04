@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/003/SubWil062_00305",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "" }
+  ]
+}

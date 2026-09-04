@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/027/StmBdz506_02757",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_SEQ_00", "hash": "385E1919E01B9B8C", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_00", "hash": "7435E506A438834E", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_TODO_01", "hash": "57379FA7517EEE76", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_000", "hash": "E85E5D43BA7009E5", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_001", "hash": "8FA193EB07ED07C6", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_002", "hash": "B3BA7B264DFB0480", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_SYSTEM_000_003", "hash": "06AC001B8F0D42BC", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_004", "hash": "A4B7B62106167D98", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_SYSTEM_000_005", "hash": "0B6899AE7EE3F50B", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_SAYTODO_000_000", "hash": "AFCF3F36F917EF84", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTA02757_000_010", "hash": "BE3E9B232C86E2C1", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTB02757_000_011", "hash": "C53DF16759341CED", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_GUESTC02757_000_012", "hash": "E0A7AAFD025B12D0", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_020", "hash": "7B34B3755B367F1A", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_021", "hash": "7C155A195CB58401", "target": "" },
+    { "gameKey": "quest/027/StmBdz506_02757#TEXT_STMBDZ506_02757_UTO_000_022", "hash": "8C158F8F3EBCDE30", "target": "" }
+  ]
+}

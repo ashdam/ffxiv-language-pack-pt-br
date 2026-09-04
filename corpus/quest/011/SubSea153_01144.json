@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/011/SubSea153_01144",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_00", "hash": "804D1D96B9DD48DF", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_01", "hash": "8C99E50C38FFE42E", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SEQ_02", "hash": "B6304E3C6E05802E", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_TODO_00", "hash": "64767BBA6B07ABE8", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_000", "hash": "873678D1E21CD53A", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_001", "hash": "355074F07495C6B8", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_SNAIROH_000_002", "hash": "D6093F16B0CC8CDD", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_010", "hash": "961C7580150DB383", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_011", "hash": "06B434205603AC28", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_012", "hash": "154FB85C79A1745C", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_013", "hash": "762BBC22816080FA", "target": "" },
+    { "gameKey": "quest/011/SubSea153_01144#TEXT_SUBSEA153_01144_FALKBRYDA_000_014", "hash": "550F51733D0C4085", "target": "" }
+  ]
+}

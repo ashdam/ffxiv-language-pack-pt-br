@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/004/SubSea118_00415",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_00", "hash": "E0BEAB947257BEA0", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_01", "hash": "C3065A7CC5AC1224", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_02", "hash": "553123F5294C2DB3", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_03", "hash": "C7736DA216654429", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_04", "hash": "B4C1B29CFE447961", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_05", "hash": "71916B6ACF1BAE4F", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_00", "hash": "68AA02997C47AE86", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_01", "hash": "2E1788D4A653A8B6", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_02", "hash": "765BDFF337A653BC", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_03", "hash": "0E00AEEF8A29C9A7", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_04", "hash": "CD7A03AC2E232AB8", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_05", "hash": "973AA1BF8FBC1D69", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_HALDBRODA_000_1", "hash": "351F65960CC02F11", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_HALDBRODA_000_2", "hash": "1AA348B888AABBFB", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_10", "hash": "FD0862A45F050EAD", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_11", "hash": "0F00924500E16028", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_12", "hash": "04EA0B9CF0601C44", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_13", "hash": "6D43B93A443D10A3", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_AHTBYRM_000_20", "hash": "C8EFDC60D5F0C7F8", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_AHTBYRM_000_21", "hash": "071EFF242514A19A", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_30", "hash": "05676BE8742791B2", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_31", "hash": "6B30D729853CEA8C", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_32", "hash": "EBDB3DB8E15A26C0", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_33", "hash": "4004C44E983148B2", "target": "" },
+    { "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SYSTEM_000_40", "hash": "D1A1CC1965558314", "target": "" }
+  ]
+}

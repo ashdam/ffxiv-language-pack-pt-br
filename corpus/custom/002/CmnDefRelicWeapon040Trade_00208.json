@@ -1,0 +1,26 @@
+{
+  "conversation": "custom/002/CmnDefRelicWeapon040Trade_00208",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_000", "hash": "1758085B4F6F0406", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_TITLE", "hash": "13FD4369D14E3316", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_CHOICES", "hash": "793A60997C2D119C", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_CANCEL", "hash": "2B3AD50B1B3E4033", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_MESSAGE", "hash": "B8BB7F90249DAB45", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_YES", "hash": "23D928D1221A12C2", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_NO", "hash": "BE31ADF5B87202EB", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_030", "hash": "36C4984111E2683D", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_031", "hash": "9DDDCF8968365525", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_040", "hash": "0C51242520AB2D1B", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_041", "hash": "F91794B5751D0E33", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_050", "hash": "7B7AB48A127D8515", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_051", "hash": "D80B1E6E3FFDB4AD", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_052", "hash": "E69EB3C671BF1F04", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_053", "hash": "60143527D9499F49", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_060", "hash": "DD4C8097B9D8116F", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_060", "hash": "021CE6DFC365BD8B", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_100", "hash": "985C8701C42CE881", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_101", "hash": "D73CA7410B77D9FF", "target": "" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_102", "hash": "574B38B968AC891E", "target": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "conversation": "custom/001/ComDefSuspendedMateria_00103",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_000", "hash": "9AD084044D7F9816", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_001", "hash": "1C5DDCDBB7037C26", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_Q", "hash": "24215B8F084C95CA", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A1", "hash": "FD6A3ABE84763138", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A2", "hash": "F845A03774539368", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A3", "hash": "392869CDD578B5F8", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A4", "hash": "BDC61F02ADC70B6C", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A5", "hash": "94810D5EAA3EAE16", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_A6", "hash": "6879496387FDC12B", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_010", "hash": "CBC11FB2587B8D8F", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_011", "hash": "E3004C6A5EC2FDC2", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SYSTEM_000_012", "hash": "411E5071588DC43D", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SYSTEM_000_013", "hash": "1FF1C449A0F78B09", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SYSTEM_000_014", "hash": "3B0810E5EAEDF330", "target": "" },
+    { "gameKey": "custom/001/ComDefSuspendedMateria_00103#TEXT_COMDEFSUSPENDEDMATERIA_00103_SUSPENDEDMATERIA_000_020", "hash": "D7C73FF6E521E988", "target": "" }
+  ]
+}

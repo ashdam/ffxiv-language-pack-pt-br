@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/004/SubSea109_00406",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_SEQ_00", "hash": "9AAE9EA711AE5339", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_SEQ_01", "hash": "197F936714623109", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_SEQ_02", "hash": "6B6EF5F2FBF86CAB", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_TODO_00", "hash": "62D8DF6F3D8BC76A", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_1", "hash": "B11A4AC35F14EEC9", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_2", "hash": "AD40B7DBABD3DE0B", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_3", "hash": "7AA2A23306A79F13", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_4", "hash": "E49461C3A1C0A80D", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_5", "hash": "6E22A7EE5B2B5443", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_6", "hash": "5301F503B3BBDA11", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_11", "hash": "E91D6278D132102D", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_12", "hash": "AEDEF52417105822", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_13", "hash": "75222EAFD27A13DB", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_14", "hash": "116DF967293B5DAF", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_15", "hash": "E5CD4005755CE6A5", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_16", "hash": "308E62B595EDF39B", "target": "" },
+    { "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_AHTBYRM_000_17", "hash": "8F36734A4CC1C323", "target": "" }
+  ]
+}

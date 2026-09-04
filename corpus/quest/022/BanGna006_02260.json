@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/022/BanGna006_02260",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SEQ_00", "hash": "AD73DD5A39E0A297", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SEQ_01", "hash": "7B14A59E149B26C4", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SEQ_02", "hash": "11883B827281A94D", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_TODO_00", "hash": "E47B26C20007488E", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_UDEKIKI_000_000", "hash": "D4193D9E9238D0F2", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_UDEKIKI_000_001", "hash": "82046593FDC1E501", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_UDEKIKI_000_002", "hash": "7819150438276F57", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_UDEKIKI_000_005", "hash": "3BC1B60D8C24A632", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_010", "hash": "6C1A85034AFFC6EB", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_011", "hash": "72900DE1349AAE42", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_012", "hash": "46A3394A09D29659", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_013", "hash": "89A90CD82D42C0EB", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_STORYTELLER_000_014", "hash": "BC15E7AA479B4FDB", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SYSTEM_000_100", "hash": "4238E1762A020F1C", "target": "" },
+    { "gameKey": "quest/022/BanGna006_02260#TEXT_BANGNA006_02260_SYSTEM_000_101", "hash": "C78F598850B45721", "target": "" }
+  ]
+}

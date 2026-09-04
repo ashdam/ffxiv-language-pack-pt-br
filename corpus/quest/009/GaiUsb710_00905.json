@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/009/GaiUsb710_00905",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "" }
+  ]
+}

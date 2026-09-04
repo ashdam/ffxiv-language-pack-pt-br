@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/ClsRog021_00104",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_00", "hash": "E8AC396F902D3CD7", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_01", "hash": "6DA7C96D23EDA6F8", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_02", "hash": "84E0F140214E0576", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_03", "hash": "EB102A2EC90E4685", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_00", "hash": "299C3BCBCBC11784", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_01", "hash": "C45E4D338D1C2AEC", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_02", "hash": "56B252D47BA3075F", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_03", "hash": "9C23AFA97850BAAF", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_000", "hash": "69A63FB40F4488F1", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_001", "hash": "9240BB4CE2A01DC7", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_002", "hash": "34EF06FB4ECD3DEA", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_010", "hash": "4CF3C50DFBC18C45", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_020", "hash": "CF4328B095D8BBB4", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_021", "hash": "46C9F6AB89292598", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_022", "hash": "45449FA41C06334E", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_023", "hash": "F4E1100FA689F622", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_024", "hash": "9700701050996E73", "target": "" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SYSTEM_000_030", "hash": "E8DBC5B838A1CBDF", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/004/SubGsc101_00436",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_SEQ_00", "hash": "552810D9D4D4103C", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_SEQ_01", "hash": "AE49063A4349BC21", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_SEQ_02", "hash": "72AC746C116D0165", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_TODO_00", "hash": "3F08C7D743FBFA06", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_000", "hash": "88B4CABA5DEC61DC", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_001", "hash": "829E27AE12CEEBFB", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_002", "hash": "F5E890E3FDE4E325", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_003", "hash": "7525F2C7D633C925", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_004", "hash": "39CD728F84DCB2FF", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_100_004", "hash": "B22C886CC05E0805", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_005", "hash": "8D7A0DEF04D27F24", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_006", "hash": "BA60024C432AF4FD", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_CHOCOBORACE00436_000_007", "hash": "DF1D94D05EF8E5F9", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_KATERING_000_010", "hash": "0A2991A32FA644A7", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_KATERING_000_011", "hash": "575E5A8DADAECD0A", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_KATERING_000_012", "hash": "37671CFC933D2CEE", "target": "" },
+    { "gameKey": "quest/004/SubGsc101_00436#TEXT_SUBGSC101_00436_SYSTEM_000_020", "hash": "BB841CDE94028392", "target": "" }
+  ]
+}

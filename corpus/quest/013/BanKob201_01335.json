@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/013/BanKob201_01335",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_SEQ_00", "hash": "3B06C0126EC1FB66", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_SEQ_01", "hash": "72BA8DD862C6E0CA", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_SEQ_02", "hash": "6FC7E68B0EF4137A", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_SEQ_03", "hash": "5AE8A21DF29DC05D", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_TODO_00", "hash": "E44B051ECF7610EA", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_TODO_01", "hash": "2FF417C5EF9C322F", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_000", "hash": "99243E7FBEE7B2C7", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_001", "hash": "C45637E6761EF926", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_002", "hash": "7FB0E399DE5AFD76", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_003", "hash": "0F72701CC36D106C", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_004", "hash": "2600F4375BB71F5F", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_020", "hash": "ACDF11A2DD45463D", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BOGU_000_021", "hash": "F90E48E6431E6DD6", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_POPMESSAGE_000_000", "hash": "E9F8D58D11895547", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_POPMESSAGE_000_001", "hash": "95B1675F8FA1C79E", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BALLOON_000_030", "hash": "7BA7109ADF259619", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BALLOON_000_031", "hash": "6EFC659E34DD2F22", "target": "" },
+    { "gameKey": "quest/013/BanKob201_01335#TEXT_BANKOB201_01335_BALLOON_000_032", "hash": "76B969E6050CB89B", "target": "" }
+  ]
+}

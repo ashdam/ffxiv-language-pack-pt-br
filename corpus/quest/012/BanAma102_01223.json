@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/012/BanAma102_01223",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_00", "hash": "07661D46D319E97C", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_01", "hash": "ABF89A97A1101E2E", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_02", "hash": "B9F360CAA4E7699D", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_03", "hash": "F85769C8096B39CC", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_00", "hash": "69177D89E83066F1", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_01", "hash": "F0D8635D1B4044E5", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_02", "hash": "97D0E1C4A9BD7196", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_001", "hash": "7FA588847ECF6469", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_002", "hash": "E32B88C0407043F8", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_003", "hash": "D10164449EA00448", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_004", "hash": "2A5C9BF0C95666A8", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_011", "hash": "478167E2E7AE1DA4", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_021", "hash": "9C5BD7D6CC9983FE", "target": "" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_022", "hash": "CBC4CCCBD1B4711D", "target": "" }
+  ]
+}

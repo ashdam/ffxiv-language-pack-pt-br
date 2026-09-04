@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/014/GaiUse305_01446",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_00", "hash": "23FA0E7BDBA0D7FB", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_01", "hash": "C81B7FB20AB9A3E0", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_02", "hash": "0887338D6A61C81A", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_TODO_00", "hash": "17FA7905B8F23B12", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_000", "hash": "47ED27A744F3FD86", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_001", "hash": "4E2ECD947B679C1C", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_010", "hash": "74119C2C854B44E8", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_ALPHINAUD_000_015", "hash": "32DF2AA72F305F39", "target": "" },
+    { "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_BARTHOLOMEW_000_020", "hash": "211309DEC4A9927A", "target": "" }
+  ]
+}

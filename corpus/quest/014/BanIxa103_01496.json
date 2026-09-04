@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/014/BanIxa103_01496",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_SEQ_00", "hash": "3C19A1293EF1400A", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_SEQ_01", "hash": "90FA2F9703EAEEAE", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_SEQ_02", "hash": "C3A4D6EF84557CCC", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_SEQ_03", "hash": "664349FEE0F4B18D", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_SEQ_04", "hash": "59072EBAF1E6F863", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_TODO_00", "hash": "41191F41F0CB87C5", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_TODO_01", "hash": "94F58E21A8244827", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_TODO_02", "hash": "5E5540CE5AE5A480", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_000", "hash": "3D19BAEF33A3E6BC", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_010", "hash": "3AE226C8BFCC71E7", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_020", "hash": "C061D518635BB407", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_030", "hash": "2E0D780E171B9B20", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_040", "hash": "F43A3DB8FA4F944A", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_041", "hash": "BC603E2ECA444AF6", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_050", "hash": "9C24B18AD8D6EE43", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_POP_MESSAGE", "hash": "C3816A04E94ED6CD", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_BALOON_000_080", "hash": "7913A5D623BB0992", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_BALOON_000_081", "hash": "95495E5A4511A2E9", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_NELLEMOND_000_090", "hash": "330AFC9A302CF51E", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_NELLEMOND_000_091", "hash": "CE50BA7B4E62918E", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_NELLEMOND_000_100", "hash": "C3577688829A5E5A", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_NELLEMOND_100_100", "hash": "BFC7F9FF5BE65B76", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_130", "hash": "CA11862B3EB32497", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_131", "hash": "A94241084B3468F0", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_YAZELAHUATAN_000_132", "hash": "A7656FCD15191FF3", "target": "" },
+    { "gameKey": "quest/014/BanIxa103_01496#TEXT_BANIXA103_01496_POPMESSAGE_000_200", "hash": "370A7E7515BDA616", "target": "" }
+  ]
+}

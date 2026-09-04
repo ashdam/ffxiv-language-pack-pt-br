@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/003/SubWil074_00388",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_00", "hash": "64D440676A723DC1", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_01", "hash": "B3DE0A633E2FA32F", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_02", "hash": "9540144182A8E2F6", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_TODO_00", "hash": "0AFD1D4EFAA55E63", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_01", "hash": "4F8A772E4F206E10", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_02", "hash": "AA30842D272F5FF4", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_03", "hash": "C21B789ABD902A3F", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_04", "hash": "50631AD6A2854509", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_10", "hash": "F4F4BAD68B2B98F7", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_11", "hash": "E5EE27120F8ABC21", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_12", "hash": "1BB029539F822566", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_13", "hash": "B3B7E67465F353AE", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_14", "hash": "7C60DCF5B1215B18", "target": "" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_15", "hash": "F42347A7010131FD", "target": "" }
+  ]
+}

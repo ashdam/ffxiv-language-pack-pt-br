@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/010/GaiUsc704_01016",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_00", "hash": "F439547E804F43C0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_01", "hash": "66A2BFA343FA917F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_SEQ_02", "hash": "B3C57EFF237A55C5", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_TODO_00", "hash": "55CE204C7A2D5872", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_000", "hash": "ED6706A85319C9B6", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_001", "hash": "A1F48343A02B4E5A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_002", "hash": "AAB1487E1B1EBFFB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_003", "hash": "ED556406D2B545A8", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_004", "hash": "F85D3E3FB42A5109", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_ARENVALD_000_005", "hash": "F737ABC92C91B2C2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_020", "hash": "5897F7D482612DB3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_021", "hash": "6AB3A46C64D228F0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc704_01016#TEXT_GAIUSC704_01016_UODHNUN_000_022", "hash": "824C785F7C7F63C3", "target": "" }
+  ]
+}

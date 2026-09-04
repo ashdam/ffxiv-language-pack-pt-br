@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/007/GaiUsa902_00797",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "" }
+  ]
+}

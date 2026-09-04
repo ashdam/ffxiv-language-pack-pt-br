@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/012/BanSyl305_01281",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_SEQ_00", "hash": "E02C331796451B9D", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_SEQ_01", "hash": "DD163C04825008D9", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_SEQ_02", "hash": "90076A64CA2E8F59", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_SEQ_03", "hash": "A3CD6E5D26DA111E", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_SEQ_04", "hash": "A7315501A667F538", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_TODO_00", "hash": "E1B9B9B2D5E2C9E6", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_TODO_01", "hash": "055CA00379677067", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_TODO_02", "hash": "8856191286DC2362", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_000", "hash": "F6F14938DABA5EFB", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_001", "hash": "16A89C020EBBF40F", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_002", "hash": "866E05BAF1F2D9E8", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_004", "hash": "4FA91E8792DDA7F8", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_005", "hash": "34E0C8E2FAC9D97C", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_ZEXIA_000_010", "hash": "F36251C659D02D5C", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_ZEXIA_000_011", "hash": "ED7847090B9A0527", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_020", "hash": "F99D88DB634AF6E8", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_DECRIPT_000_003", "hash": "C066B67874BE28E6", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_RECOVER_000_001", "hash": "9AF2F1072C40D8EA", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_NOTRECOVER_000_001", "hash": "2153C1E25DCA0C16", "target": "" },
+    { "gameKey": "quest/012/BanSyl305_01281#TEXT_BANSYL305_01281_MOXIA_000_030", "hash": "A4F10E9429A30D91", "target": "" }
+  ]
+}

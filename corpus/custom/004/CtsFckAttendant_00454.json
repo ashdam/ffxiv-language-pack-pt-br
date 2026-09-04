@@ -1,0 +1,23 @@
+{
+  "conversation": "custom/004/CtsFckAttendant_00454",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR", "hash": "AA5F23526795E5D4", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE", "hash": "7568DB0521AE3693", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000", "hash": "834D48C75155D576", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000", "hash": "155357501514A0FB", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000", "hash": "A0D144F9ABB8DDC8", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000", "hash": "6092342AD250DC72", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL", "hash": "897D8A159231446A", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000", "hash": "2EE6EAFF85BFB6F1", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001", "hash": "2452976C40D699E9", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002", "hash": "9930153B57AA0F08", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003", "hash": "544A3548FC4679D4", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004", "hash": "919BCADFE225669D", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000", "hash": "0A9DFB55BBF368B9", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001", "hash": "B44F1BAF8F38C5E7", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000", "hash": "0080EED139C3E65D", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001", "hash": "BE7DE78213C715FA", "target": "" },
+    { "gameKey": "custom/004/CtsFckAttendant_00454#TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002", "hash": "DBCD5743E7F258FD", "target": "" }
+  ]
+}

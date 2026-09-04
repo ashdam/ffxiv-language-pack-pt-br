@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/004/SubSea119_00416",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "" }
+  ]
+}

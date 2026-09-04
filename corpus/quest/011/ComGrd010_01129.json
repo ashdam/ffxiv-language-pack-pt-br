@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/011/ComGrd010_01129",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_00", "hash": "D7999024790E1271", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_01", "hash": "E8FBCA049592E643", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_02", "hash": "AA23CB9DFAE05A86", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_03", "hash": "FD29B6F838634EFA", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_SEQ_04", "hash": "7194795BBDFC7F1D", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_00", "hash": "FA58DBB8E4FD60E4", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_01", "hash": "6A0C62F7CD379D70", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_TODO_02", "hash": "C57965514A9530EE", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_000", "hash": "7131B847587FC267", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_001", "hash": "F030231E54CCE6C0", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_002", "hash": "F3DC772261366C4E", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_003", "hash": "2EC8CFA5D2FB0CED", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_OPHELIE_000_010", "hash": "80CECE9583300FD6", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_OPHELIE_000_011", "hash": "6101E5465D6C8BA3", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_OPHELIE_000_012", "hash": "10CC76CDAF34C511", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_DUMMY_000_000", "hash": "A2B1DD80F8AE4CF1", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020", "hash": "6E78E90ABFBE1703", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_021", "hash": "7D2DC1D05251CEF1", "target": "" },
+    { "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_022", "hash": "56DD9294B2C0E2B5", "target": "" }
+  ]
+}

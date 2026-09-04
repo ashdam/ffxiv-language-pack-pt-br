@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/008/GaiUsb009_00816",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/025/StmBda409_02508",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_SEQ_00", "hash": "582DE144D4708CE8", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_SEQ_01", "hash": "52BB1BA4AA1BBAD3", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_SEQ_02", "hash": "479F743A6134FA9A", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_TODO_00", "hash": "6C4181C2AC2BD637", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_LYSE_000_000", "hash": "8BF091CDDCACAA31", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_LYSE_000_010", "hash": "E1634BA9612A7076", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_HIEN_000_015", "hash": "C315645EE30CC76C", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_GOSETSU_000_020", "hash": "1EB04549ACD05F4C", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_BAATU_000_025", "hash": "B69910E174B6B014", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_DAIDUKUL_000_030", "hash": "B5711E700C809842", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_DAIDUKUL_000_031", "hash": "D517F50F2FBAAC6C", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_040", "hash": "16CC61673F382F89", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_041", "hash": "CD82BD0561A4B8FE", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_042", "hash": "46210AF0DFB8ECF3", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_043", "hash": "D60F7BEE66C58207", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_044", "hash": "1202359BB289CEE8", "target": "" },
+    { "gameKey": "quest/025/StmBda409_02508#TEXT_STMBDA409_02508_MAGNAI_000_045", "hash": "93B8A96C4FDF5F56", "target": "" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa409_00751",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_00", "hash": "A884A50C4CF2DA71", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_01", "hash": "643FD533C5F76789", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_02", "hash": "B710AFAAE42CB06D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_03", "hash": "7D1717E21767ACD6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_04", "hash": "18BE98091AFC8D14", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_00", "hash": "9F93B70CF6928004", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_01", "hash": "7F19BA91ED6C9252", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_02", "hash": "03E057CF867FB9AC", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_000", "hash": "8ED6ED6AF8F9D21A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_001", "hash": "A88EC72CDDB16105", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_020", "hash": "1814C12E56466203", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_025", "hash": "F50CB7A5C362FD47", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_026", "hash": "64894260F2CF2754", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_030", "hash": "1E3942F34F2EFE8E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_031", "hash": "D9B33E79D7D5A88A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_032", "hash": "DE62B80EBD936B25", "target": "" }
+  ]
+}

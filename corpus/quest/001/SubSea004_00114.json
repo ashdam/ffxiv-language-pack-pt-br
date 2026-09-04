@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/SubSea004_00114",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_00", "hash": "B9406460CE782CA9", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_01", "hash": "F97801078C604482", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_02", "hash": "71E3EBA64F7F9E70", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SEQ_03", "hash": "7D615A507D664460", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_TODO_00", "hash": "9D6380347EFD1E9D", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_TODO_01", "hash": "4F40A55D4E60F823", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_TODO_02", "hash": "D42E7ED5863E4AB1", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_TODO_03", "hash": "6011D7BEB89E6649", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SWOZBLAET_000_0", "hash": "018A72AB4060F055", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SWOZBLAET_000_1", "hash": "59F7612129E4FA46", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SWOZBLAET_000_2", "hash": "94C5898E14EF55A4", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SWOZBLAET_000_3", "hash": "CE1803511573002D", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_IRONTHUNDER_000_10", "hash": "503CCEB527E88464", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_KYOKYOROON_000_20", "hash": "51A56ACCEB3AF693", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_SYNEYHIL_000_30", "hash": "A0FEA02F76EC9E18", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_40", "hash": "0F93E127ACA3F7D2", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_41", "hash": "A224384CC60EB45D", "target": "" },
+    { "gameKey": "quest/001/SubSea004_00114#TEXT_SUBSEA004_00114_BAENSYNG_000_42", "hash": "C14A05331CFDCACF", "target": "" }
+  ]
+}

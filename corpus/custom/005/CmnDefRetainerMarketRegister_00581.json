@@ -1,0 +1,31 @@
+{
+  "conversation": "custom/005/CmnDefRetainerMarketRegister_00581",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_DISABLE", "hash": "7C4C388B10CF90E6", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_COUNT", "hash": "C61AE1503A944E9B", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_CHARGE", "hash": "421F8277A30A0E38", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_DEFAULT_TALK_01", "hash": "EE18357C63E8CE43", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_TALK_01", "hash": "79F4296F03D04F4E", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ASK", "hash": "629059E16E72C360", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_SUCCESS", "hash": "79180187B574E62A", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ALREADY", "hash": "DFD7703B3A5FD99E", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_FAILED", "hash": "F94AB421AF0F66D1", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_TITLE", "hash": "53C2E8262B00DE38", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_REGISTER", "hash": "845B68706123CD6B", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT", "hash": "6D8EF8A40EE5F661", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CASHBACK", "hash": "226EBA9B32D88137", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CANCEL", "hash": "C79B8A1CF08E33DA", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_01", "hash": "8AF2F83AE71E7730", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_02", "hash": "5BACC88C86417C5A", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_TITLE", "hash": "CC194A3B20F0F36A", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK", "hash": "96AF497036EDB82B", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_NONE", "hash": "2365CFBD0AE49FDA", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_ABOUT", "hash": "E6299C7993BB86F0", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_CANCEL", "hash": "DEE79B154AF5F6AE", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_NO_CASHBACK", "hash": "E8F31C84DFBE5C05", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK", "hash": "19B0EB0C607E6149", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_01", "hash": "F7B17E10BAB9D062", "target": "" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_02", "hash": "2BC92A59BF08C02E", "target": "" }
+  ]
+}

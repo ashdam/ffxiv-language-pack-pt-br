@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/014/SubCts808_01423",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SEQ_00", "hash": "A30B6F8FA30BB3AC", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SEQ_01", "hash": "2A407D076B375ACC", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SEQ_02", "hash": "F6508E018143B7CC", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_TODO_00", "hash": "23B9BE892AAE114A", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_000", "hash": "767E419E7664889F", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_001", "hash": "9521DF9D25D51C60", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_002", "hash": "ADD6683311319DA2", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_003", "hash": "CFDB4E1B405E3F42", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SYSTEM_000_004", "hash": "7A3E1146FBFEB687", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_010", "hash": "9602B340933B945C", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SYSTEM_000_011", "hash": "9E703530D73BE9E3", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_020", "hash": "798B409904646817", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_021", "hash": "2DA4ABB06EC9C9E0", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_022", "hash": "C2D435288E5FF1B4", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_000_023", "hash": "0836EEBA1FB6C86B", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_100_023", "hash": "3C053B606D94BFF5", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_110_023", "hash": "1DFC309E8A25FAAB", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_GUIDINGSTAR_120_023", "hash": "28C1D378709ABEC0", "target": "" },
+    { "gameKey": "quest/014/SubCts808_01423#TEXT_SUBCTS808_01423_SYSTEM_000_024", "hash": "927B6C0D217DB406", "target": "" }
+  ]
+}

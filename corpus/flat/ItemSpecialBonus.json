@@ -1,0 +1,14 @@
+{
+  "sheet": "ItemSpecialBonus",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "ItemSpecialBonus#2.0", "hash": "333CE449FA8D14F4", "target": "" },
+    { "gameKey": "ItemSpecialBonus#4.0", "hash": "A6E7D687F25CA0FF", "target": "" },
+    { "gameKey": "ItemSpecialBonus#6.0", "hash": "03C59E789EDB2DA0", "target": "" },
+    { "gameKey": "ItemSpecialBonus#7.0", "hash": "2179F4B65023B16B", "target": "" },
+    { "gameKey": "ItemSpecialBonus#8.0", "hash": "9CA174E92CF97C17", "target": "" },
+    { "gameKey": "ItemSpecialBonus#9.0", "hash": "D0F9A2D5095C356B", "target": "" },
+    { "gameKey": "ItemSpecialBonus#10.0", "hash": "0CB4D60E10EF51DD", "target": "" },
+    { "gameKey": "ItemSpecialBonus#10.1", "hash": "3389699036C2B153", "target": "" }
+  ]
+}

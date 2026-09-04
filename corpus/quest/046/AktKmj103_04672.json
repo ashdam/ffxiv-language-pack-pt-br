@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/046/AktKmj103_04672",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_SEQ_00", "hash": "D07790DA6979C4CB", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_TODO_00", "hash": "83854DB975AFB1E7", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_TODO_01", "hash": "598DABE7A20663F9", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_TODO_02", "hash": "EF61D5478B338E58", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_MYSTERIOUSPERSON_000_000", "hash": "6B3237FF8B3E22D3", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_005", "hash": "DD5577DB4BA8348A", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_010", "hash": "2BFCFDC5CA70F52C", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_011", "hash": "58C051AD8E77DF66", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_012", "hash": "E02DB1845F9A5B74", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_MYSTERIOUSPERSON_000_013", "hash": "65334D4D149DDB23", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_014", "hash": "87F639B4EC7BB27E", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_015", "hash": "6F4ED4E68B9B42D2", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_020", "hash": "6E881B2DCA5EF353", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_021", "hash": "61E201020810F0D9", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_SYSTEM_000_040", "hash": "08C42F5894ACA404", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_POPMESSAGE_000_041", "hash": "D97A5623FEAF2E23", "target": "" },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_POPMESSAGE_000_042", "hash": "CCB07E0F9A520DF8", "target": "" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/010/GaiUsc512_01000",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_00", "hash": "E3F904D303D52A44", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_01", "hash": "2BFDC49B0A17026E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_02", "hash": "5B7225A9CDD50B9D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_03", "hash": "D1921703523CD6AB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_SEQ_04", "hash": "3BFFE5C120F1753B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_TODO_00", "hash": "93CBE74AC8D31ADE", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_TODO_01", "hash": "CB26C65CB6158ADC", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_TODO_02", "hash": "7B96B76A7DDC6DE2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_000", "hash": "69736CE8AF2D81C6", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_001", "hash": "14FD34A4F5CFC5E7", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_002", "hash": "23868EA2EB58CC25", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_003", "hash": "82E17F342AD54BBA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_WANDERINGBREEZE_000_020", "hash": "786DB200F9856FDB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_WANDERINGBREEZE_000_030", "hash": "2A1ACF6A738036DB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_WANDERINGBREEZE_000_031", "hash": "761BFF5C946E24A4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_WANDERINGBREEZE_000_032", "hash": "A116545230C18D60", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_WANDERINGBREEZE_000_033", "hash": "1191337AB561000B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_040", "hash": "175AD0B36B333A9A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_050", "hash": "C6E4A33B925C959F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_051", "hash": "DB594AD74966ECD4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_052", "hash": "36857BC77FA94EF4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc512_01000#TEXT_GAIUSC512_01000_GUOLGEIM_000_053", "hash": "746D2ED2E1D1284B", "target": "" }
+  ]
+}

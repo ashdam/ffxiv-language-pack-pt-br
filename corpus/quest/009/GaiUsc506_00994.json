@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/009/GaiUsc506_00994",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_SEQ_00", "hash": "E38E8F2A86ECE9B7", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_SEQ_01", "hash": "E6A2CDB13A3B3C86", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_SEQ_02", "hash": "A8F4137D76FEC50A", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_SEQ_03", "hash": "7EF52E31908678AB", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_TODO_00", "hash": "A32965C2E6225915", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_TODO_01", "hash": "EEEFDAF395778B29", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_000", "hash": "05AFAAE3435E65B3", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_001", "hash": "5F65620610579F56", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_002", "hash": "FEDC3FEC06B4D969", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_003", "hash": "E17333CE15DD6615", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_004", "hash": "C53D27E619F04028", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_020", "hash": "4E7020F0C417FFC3", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_030", "hash": "88116EDFB5FBE9CF", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_031", "hash": "19CA35DEC75042A7", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_032", "hash": "73215832BB790BDF", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_KLYNTHOTA_000_033", "hash": "5B250272F77398A9", "target": "" },
+    { "gameKey": "quest/009/GaiUsc506_00994#TEXT_GAIUSC506_00994_POP_MESSAGE_000", "hash": "275B5D08202C7C9B", "target": "" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/009/GaiUsc206_00965",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "" }
+  ]
+}

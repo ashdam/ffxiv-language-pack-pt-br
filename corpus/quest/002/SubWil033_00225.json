@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/002/SubWil033_00225",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "" }
+  ]
+}

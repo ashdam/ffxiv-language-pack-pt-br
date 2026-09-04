@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa901_00796",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_00", "hash": "025B15CCB75986BB", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_01", "hash": "C6D4E0298AF96901", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_02", "hash": "22C695C058056B2C", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_03", "hash": "D396EA4EF8FA75E3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_TODO_00", "hash": "5ECEA81CF539D050", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_TODO_01", "hash": "5E6D1E6422D61905", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_000", "hash": "942298B2627680A2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_001", "hash": "55577D2A1F2CAE5F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_LAUGHINGFURY_000_010", "hash": "69ECEA0260639BE3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_LAUGHINGFURY_000_015", "hash": "71446A6C42F02EB0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_VAVAPU_000_030", "hash": "B6F3826D6B53C9F5", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_VAVAPU_000_035", "hash": "E37CA258D4E31FBA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_ADEMAR_000_050", "hash": "5090E6004CC1F0C6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_ADEMAR_000_055", "hash": "8CD28B1D987A4F9D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_070", "hash": "D12FC0B23DDF702D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_071", "hash": "43A7409EBAFB7FA1", "target": "" }
+  ]
+}

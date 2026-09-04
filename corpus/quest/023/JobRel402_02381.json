@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/023/JobRel402_02381",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_00", "hash": "087551D2E423C0B1", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_01", "hash": "4DC3B482ABC6AB6F", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_02", "hash": "B780BFAFA6079D00", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SEQ_03", "hash": "607B26EEC1F06F5F", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_TODO_00", "hash": "A05BE11FE8515350", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_TODO_01", "hash": "F4CDEFE233CEDC1A", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_001", "hash": "E0F89F60828714C0", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_002", "hash": "0FCD01E37407BAA0", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_003", "hash": "7579686E91EA8759", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_004", "hash": "C7570CC86C288583", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SYSTEM_000_000", "hash": "4C57192233701272", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_010", "hash": "89016A4791B9FA62", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_011", "hash": "F314ED6DD0E4D85C", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_012", "hash": "858CF16F250016B6", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_020", "hash": "E459A6F9E643F3CF", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_SYSTEM_000_010", "hash": "69AC545A91B9B156", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_040", "hash": "9BD067C79C866D13", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_041", "hash": "CEC0AA5C0AA5CB4E", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_042", "hash": "F9AC6FCE31DE9576", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_043", "hash": "F7BCECB48B6208F9", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_044", "hash": "C01B677EE6560143", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_045", "hash": "2980DB08A3483469", "target": "" },
+    { "gameKey": "quest/023/JobRel402_02381#TEXT_JOBREL402_02381_ANGELET_000_046", "hash": "D05B312FF61F6FBC", "target": "" }
+  ]
+}

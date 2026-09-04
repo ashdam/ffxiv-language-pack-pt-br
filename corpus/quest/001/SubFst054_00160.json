@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/SubFst054_00160",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SEQ_00", "hash": "CA7E262EEF9AD8D6", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SEQ_01", "hash": "E504C8C63EC45F7E", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SEQ_02", "hash": "BA8AFF1D5006A3A0", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SEQ_03", "hash": "55088BBE8FA56BCD", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_TODO_00", "hash": "DD007F706E279F41", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_TODO_01", "hash": "B600D6281F3924B5", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_1", "hash": "6E8D24FB02931221", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_2", "hash": "22B686C7E08679DE", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_3", "hash": "E4F833EDF1A504FC", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_4", "hash": "0F2091CFB99AE407", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_10", "hash": "EC8FFA6067AACA07", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_11", "hash": "D1CFEDBD1D96127E", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_12", "hash": "F61A21BB48691144", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_13", "hash": "8BA61C4E25A72F1B", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_FINNEA_000_14", "hash": "EE799AE4215DF8C8", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SYSTEM_000_20", "hash": "41A87B701695CD65", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SYSTEM_000_21", "hash": "6DDD3E065742A7F8", "target": "" },
+    { "gameKey": "quest/001/SubFst054_00160#TEXT_SUBFST054_00160_SYSTEM_000_22", "hash": "7EFD4545EFB670AC", "target": "" }
+  ]
+}

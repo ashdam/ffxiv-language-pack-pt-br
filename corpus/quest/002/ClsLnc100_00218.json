@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/002/ClsLnc100_00218",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_00", "hash": "833395AFB70D2C8A", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_01", "hash": "5FF11D1F5BADFAA0", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_02", "hash": "D1A9C4AC608DF6CD", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_03", "hash": "7F003A61D8B5A51B", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_00", "hash": "92AEA4B02D2E23CA", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_01", "hash": "04EFA4F05DFB98C7", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_02", "hash": "CE5157ECAB26687E", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_03", "hash": "8B74D08F14F4019B", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_1", "hash": "5A98E27ADEBE5B76", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_2", "hash": "D82371AD7F508431", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_3", "hash": "4102C629CB61AE16", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_4", "hash": "C5B8FD4FAA765CF7", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_5", "hash": "FEFA51782D6FC5B4", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_10", "hash": "73D0C8249EEE841C", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_11", "hash": "88F551FC59D917F9", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_12", "hash": "69D7E9ADC69606BB", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_13", "hash": "5D37A5C375A57377", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_14", "hash": "69F8ABF91E3EA21A", "target": "" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SYSTEM_000_20", "hash": "2DB727C9A4290795", "target": "" }
+  ]
+}

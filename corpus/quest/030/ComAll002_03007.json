@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/030/ComAll002_03007",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "" }
+  ]
+}

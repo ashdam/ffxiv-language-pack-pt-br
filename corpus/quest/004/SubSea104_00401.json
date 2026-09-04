@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/004/SubSea104_00401",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "" }
+  ]
+}

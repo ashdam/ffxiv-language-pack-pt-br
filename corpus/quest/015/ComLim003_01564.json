@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/015/ComLim003_01564",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_SEQ_00", "hash": "B1E02E4F8E7E00A1", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_SEQ_01", "hash": "62E184E39DEA9507", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_SEQ_02", "hash": "FF7DDFAFB73137F1", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TODO_00", "hash": "E4E37CB3A8D5D53B", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_000_000", "hash": "04210DF3614AD0A7", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_000_001", "hash": "823B6BCD28E96CD2", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_000_002", "hash": "A42C34328CD82D05", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_100_002", "hash": "DC948AB2BF05E3E9", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_000_003", "hash": "BCF1A50324C67FB8", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_TRACHRAET_000_005", "hash": "464B34570DE2CDE1", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_010", "hash": "C7C135557E9C9819", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_011", "hash": "F165CD0B121012FD", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_012", "hash": "4FAFFCA9F5B16DA3", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_013", "hash": "6C2D3FD447DB54F9", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_014", "hash": "E8B6087FEBA5D04B", "target": "" },
+    { "gameKey": "quest/015/ComLim003_01564#TEXT_COMLIM003_01564_MOBOFFICER_000_015", "hash": "40BF515BFEDE942B", "target": "" }
+  ]
+}

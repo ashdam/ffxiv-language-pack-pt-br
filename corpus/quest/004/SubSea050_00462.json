@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/004/SubSea050_00462",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_00", "hash": "EAFE607D35B84442", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_01", "hash": "81E24B78375FB2CC", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_02", "hash": "17673FECE54ADF00", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_TODO_00", "hash": "5667E944718BB231", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_1", "hash": "B3878928623F5450", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_2", "hash": "6E2F8C37C0FB515C", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_3", "hash": "ADFB0EBC1C97B2E8", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_4", "hash": "1CE445CE49C8CE32", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_11", "hash": "BE412E67CBE641A9", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_12", "hash": "5523EE744CDEC25B", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_13", "hash": "346BF4A99BC7A875", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_14", "hash": "D8BFE1699BEBAF8B", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_15", "hash": "75B8E83472D32FDB", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_16", "hash": "51EA7130A7BAF83E", "target": "" },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_17", "hash": "31C4A4C5A59FC499", "target": "" }
+  ]
+}

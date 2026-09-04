@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/011/FesLgt001_01153",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_SEQ_00", "hash": "7C0E8DF5E89E9EDD", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_SEQ_01", "hash": "E20340C4A450A786", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_SEQ_02", "hash": "302D384947C9FA25", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_TODO_00", "hash": "F2F2E540D0D3A3B5", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_000", "hash": "73829A461D40FAC3", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_001", "hash": "D509663991346DA8", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_002", "hash": "79F4B78AF1E1B2F6", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_020", "hash": "BDC0AAE97A4B5180", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_021", "hash": "731C74C96EADF52D", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_022", "hash": "B6EE89542FF25D6A", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_023", "hash": "D378ABABFD714B0D", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_024", "hash": "E7703F972C86F3C1", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_025", "hash": "0B8E002C2254BFEF", "target": "" },
+    { "gameKey": "quest/011/FesLgt001_01153#TEXT_FESLGT001_01153_PETYRWINSOME_000_026", "hash": "3D0D235D9B395F7B", "target": "" }
+  ]
+}

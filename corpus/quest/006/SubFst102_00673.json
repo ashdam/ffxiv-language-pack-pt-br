@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/006/SubFst102_00673",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_02", "hash": "6472D3F432363886", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_TODO_00", "hash": "BC4513A89D5E70A8", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_1", "hash": "3C1AEB18B21413CF", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_2", "hash": "2B12F45258C72B35", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_3", "hash": "7C573158D72A7235", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_10", "hash": "C515139F5C372667", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_20", "hash": "12DBC6073EB8EF8D", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_21", "hash": "03CC69F102287E94", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_22", "hash": "EAC5A314EA0DE39F", "target": "" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_23", "hash": "C5C5EBDFFA95527E", "target": "" }
+  ]
+}

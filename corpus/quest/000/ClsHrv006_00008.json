@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/000/ClsHrv006_00008",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SEQ_00", "hash": "5C1C38DC6B1FAD2E", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SEQ_01", "hash": "D517051E3E7742A4", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SEQ_02", "hash": "06FD001D20C7E330", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_TODO_00", "hash": "3764D65C2EE42363", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_FUFUCHA_000_1", "hash": "26FBD7FC3209A29E", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_FUFUCHA_000_2", "hash": "BAB8FB263BE3962B", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_FUFUCHA_000_3", "hash": "D032FFB21947DCE2", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_FUFUCHA_000_4", "hash": "40CF009299AA73BB", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_FUFUCHA_000_5", "hash": "9DFCBA8CCFB8423A", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_10", "hash": "6CCC4130FAB8E293", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_11", "hash": "DF9F299ADC623A95", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_12", "hash": "89DB3FE77EB44943", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_13", "hash": "D0A11B57F74C275A", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_14", "hash": "CA1A89BCF40BF7E5", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_15", "hash": "88E61F0670A3DD42", "target": "" },
+    { "gameKey": "quest/000/ClsHrv006_00008#TEXT_CLSHRV006_00008_SANDRE_000_16", "hash": "0861CC64E4F6BD24", "target": "" }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/003/SubFst067_00383",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_00", "hash": "F0FEB53A6BB11F5D", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_01", "hash": "6FD41A3DBFE5525E", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_02", "hash": "5B6B6190BA142B78", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_03", "hash": "F71AF681769FFD84", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_04", "hash": "D925D5A035FBA0A4", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_00", "hash": "035312254F9401FD", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_01", "hash": "DE0C23F8940DFFAA", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_02", "hash": "1361888CC8B163EA", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_1", "hash": "C9EE5E06B6687F25", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_2", "hash": "E7760DB5AA36561C", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_3", "hash": "5B7AF68933043B96", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_11", "hash": "1756232C1455BC38", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_12", "hash": "FDA5F1C126666790", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_13", "hash": "14C9769D40B9318D", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_21", "hash": "72096CE02C0D3CD9", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_22", "hash": "64AD7AAA474BC54E", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_23", "hash": "8F0B41377BB47C22", "target": "" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_POP_MESSAGE", "hash": "CED2B6DE8757198D", "target": "" }
+  ]
+}

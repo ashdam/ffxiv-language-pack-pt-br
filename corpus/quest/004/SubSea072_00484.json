@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/004/SubSea072_00484",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_00", "hash": "A78456261C263032", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_01", "hash": "FC01DC226AF9F37B", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_02", "hash": "978E674E4B5C39A0", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_03", "hash": "A290449371435E9A", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_TODO_00", "hash": "FCB4FCA826347A9C", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_TODO_01", "hash": "A7898C89242EF17D", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_LOETRSWYS_000_0", "hash": "54A333F61BDADF33", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_LOETRSWYS_000_1", "hash": "84B9CA368666DB86", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_LOETRSWYS_000_2", "hash": "DA3B316674438BAD", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_RJUMANI_000_10", "hash": "5B4305629C66BE47", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_RJUMANI_000_11", "hash": "B6B9560ED19C661D", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_ESHUSHU_000_20", "hash": "63EE42531B64B5FB", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_ESHUSHU_000_21", "hash": "337E5F6B276AFBA6", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_ESHUSHU_000_22", "hash": "D36619FF5EBF11EE", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WAENTZIRN_000_30", "hash": "B81A3D531D94C8E8", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WAENTZIRN_000_31", "hash": "F2614BE9DE853E42", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_40", "hash": "01F0E1C501C505A2", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_41", "hash": "FFF4BA51EDC6EF37", "target": "" },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_42", "hash": "CF7C7B313827DDC3", "target": "" }
+  ]
+}

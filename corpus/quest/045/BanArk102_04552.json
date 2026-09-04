@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/045/BanArk102_04552",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_SEQ_00", "hash": "CBAF54E16F916DF5", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_00", "hash": "9A87747B7DE1E32B", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_01", "hash": "B48B2F54D6CBE064", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_TODO_02", "hash": "CC253ED226052DAF", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_001", "hash": "70E36EF0630EDD06", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_002", "hash": "5469A2A3987ACBED", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_003", "hash": "4F6B9B25E0FCA271", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_004", "hash": "44DDD5CDCD35DD28", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_KHANGA_000_010", "hash": "AD3B2C43A4227ECC", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_KHANGA_000_011", "hash": "4068F22CFDC20B9F", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_KHANGA_000_012", "hash": "77CA7ED518EC3113", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_KHANGA_000_013", "hash": "C024E2771585A6FA", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_LIMSAMARINER04552_000_020", "hash": "13BF6A6B98D357E8", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_LIMSAMARINER04552_000_021", "hash": "AB423E1E16AAB9E6", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_LIMSAMARINER04552_000_022", "hash": "C25B936940AA0692", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_LIMSAMARINER04552_000_023", "hash": "1FE642794C29F0DA", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_030", "hash": "E6CCF44924BB8B83", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_031", "hash": "448FB51332935833", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_032", "hash": "049CC19732AF11D7", "target": "" },
+    { "gameKey": "quest/045/BanArk102_04552#TEXT_BANARK102_04552_MARU_000_033", "hash": "2FCA100A4CB1AEC9", "target": "" }
+  ]
+}

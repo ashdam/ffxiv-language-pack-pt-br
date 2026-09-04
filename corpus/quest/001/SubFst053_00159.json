@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/001/SubFst053_00159",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_00", "hash": "67D554928394F7C3", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_01", "hash": "B50173CF0806D67F", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_02", "hash": "45BF4A514540B0A2", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SEQ_03", "hash": "FCEEBA5ACDFA4F05", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_TODO_00", "hash": "D6DEC6C3D3F7DE7E", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_TODO_01", "hash": "8891D6C2656B18B7", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_1", "hash": "285AD4BAC641C500", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_2", "hash": "BC657E6E07B336D0", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_3", "hash": "F2335BCBAC09EF29", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_4", "hash": "8B25BBE378BB2664", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_5", "hash": "654128D5F3052287", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_6", "hash": "2EBE235B37EF6D3C", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_10", "hash": "08E8BF0F44ECB849", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_11", "hash": "D6FEFAE9F008A7AF", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_ARMELLE_000_12", "hash": "6442DD2C7979ADF7", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SYSTEM_000_20", "hash": "EF050EBA818FAD62", "target": "" },
+    { "gameKey": "quest/001/SubFst053_00159#TEXT_SUBFST053_00159_SYSTEM_000_21", "hash": "4D83DB8B6549917F", "target": "" }
+  ]
+}

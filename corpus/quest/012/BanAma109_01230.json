@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/012/BanAma109_01230",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_SEQ_00", "hash": "68FA16A049F87D3D", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_SEQ_01", "hash": "BAC8DD2E1AC71329", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_SEQ_02", "hash": "B73B630DC535EDAF", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_SEQ_03", "hash": "F762F0D837E68A89", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_TODO_00", "hash": "95D2E58BB5689DB4", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_TODO_01", "hash": "96A9EE08F35E1B1A", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_TODO_02", "hash": "C0965CA36EBF70BA", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_TODO_03", "hash": "0D5749CDC09E0EC1", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_001", "hash": "3E1B2551059EE3FE", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_002", "hash": "349F8B5EBD5ADB3F", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_003", "hash": "0BD90BE607CD092C", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_004", "hash": "14AE760B9132AB28", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_011", "hash": "C2F87F0D157A61F3", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_021", "hash": "3BA50BC27D8301FF", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_022", "hash": "AC3959E282255C08", "target": "" },
+    { "gameKey": "quest/012/BanAma109_01230#TEXT_BANAMA109_01230_FIBUBBGAH_000_023", "hash": "C619F08A8C6E8818", "target": "" }
+  ]
+}

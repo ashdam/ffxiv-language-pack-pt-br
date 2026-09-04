@@ -1,0 +1,10 @@
+{
+  "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "" }
+  ]
+}

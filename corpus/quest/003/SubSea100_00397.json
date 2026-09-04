@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/003/SubSea100_00397",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_00", "hash": "535B9834381D0F28", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_01", "hash": "FCBA9DC87150311C", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_02", "hash": "50F106A73E2471F2", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_TODO_00", "hash": "572902E61C44D7C6", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_1", "hash": "E821333B6071D7B2", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_2", "hash": "32F1C2AF8B7E6D6A", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_3", "hash": "515F4314132105BF", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_4", "hash": "4684D548A6D1CD0D", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_5", "hash": "2402018A88907DDA", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_11", "hash": "201D1E4CA56A843C", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_12", "hash": "D24389648FA82B0C", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_13", "hash": "0B4A203D07AE71E7", "target": "" },
+    { "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_14", "hash": "9DBB4517D020CBEE", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/013/BanKob103_01327",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_SEQ_00", "hash": "45504AAA8AFE4448", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_SEQ_01", "hash": "4D4E2F643CC01A71", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_SEQ_02", "hash": "CFF7FACCC505B7FF", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_SEQ_03", "hash": "2023DA8DD59EBEC9", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_SEQ_04", "hash": "3088510064AA768F", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_TODO_00", "hash": "320557F4D345EC3E", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_TODO_01", "hash": "7EB262752F28B847", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_TODO_02", "hash": "C643F8136E710854", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_000", "hash": "BAE0D7539CC6AF9A", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_001", "hash": "6C97D80C87C6574A", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_002", "hash": "F6759241E1C4CAC9", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_003", "hash": "7DBA91B9C35A2468", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BAGO_000_020", "hash": "890F8FB8D3B51DF7", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BAGO_000_021", "hash": "62DEE30B1B4B1026", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BAGO_000_022", "hash": "FF8D6B68377EA8BD", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_030", "hash": "EE4625F4E6E5E3E4", "target": "" },
+    { "gameKey": "quest/013/BanKob103_01327#TEXT_BANKOB103_01327_BOZU_000_031", "hash": "B2A90D183268F904", "target": "" }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/011/JobRel006_01141",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_00", "hash": "59FCCF90A1A73AC4", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_01", "hash": "09EF43E3A4036AEF", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_02", "hash": "33DA7327F9A77343", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_03", "hash": "1823E679CFEB4C34", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_00", "hash": "3B42155EF492D048", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_01", "hash": "BA6B02E3FC00C96C", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_000", "hash": "5DD0F9EE6454B7CB", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_001", "hash": "7FC62BAEBE638295", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_010", "hash": "B0813A6F34031796", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_050", "hash": "F11CF33AD1E0DC95", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_055", "hash": "B39CF3456AB4C195", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_056", "hash": "91893D61742FB8B8", "target": "" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_057", "hash": "42104ED4B04C3958", "target": "" }
+  ]
+}

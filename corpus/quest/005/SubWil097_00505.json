@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/005/SubWil097_00505",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "" }
+  ]
+}

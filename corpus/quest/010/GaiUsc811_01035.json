@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/010/GaiUsc811_01035",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_00", "hash": "325C2F64CB94EE22", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_01", "hash": "5B3767410DFCE30B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_02", "hash": "56AF339160156555", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_03", "hash": "24DC61262B814450", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_SEQ_04", "hash": "3B7A4A5D9B715E37", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_TODO_00", "hash": "AED82BADF40DADCA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_TODO_01", "hash": "5B4DC8F106273855", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_TODO_02", "hash": "4085110BEEE6408A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_000", "hash": "EC1E888CD1C81AE9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_001", "hash": "0E84862CFC3650B6", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_002", "hash": "0921C95FCD7C92F9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_003", "hash": "266DBC9FE26DF75E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_004", "hash": "372748B9494A735E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_005", "hash": "94DA4B28564893D7", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_020", "hash": "0C6283F5AF960889", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_021", "hash": "CB1A92CCBA30DBD8", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_FALKBRYDA_000_022", "hash": "A8C6BD6394E822C3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_RADOLF_000_030", "hash": "4AB29280D5829431", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_RADOLF_000_031", "hash": "49312D309867CDFB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc811_01035#TEXT_GAIUSC811_01035_POP_MESSAGE_000", "hash": "5EB47DC38819D829", "target": "" }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "conversation": "custom/007/FesBkcRecomplete_00716",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "" }
+  ]
+}

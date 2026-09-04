@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/004/SubSea120_00417",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_SEQ_00", "hash": "49B09E591D734AD7", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_SEQ_01", "hash": "2BF4D6250988B0A0", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_SEQ_02", "hash": "F6E43D21BBA322B9", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_SEQ_03", "hash": "EE338A7D6D1CE6AD", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_TODO_00", "hash": "1A87A44F1AF621B7", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_TODO_01", "hash": "7A2196DC1166732A", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_ROSTNZEH_000_1", "hash": "BC958EDDA9A416A1", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_ROSTNZEH_000_2", "hash": "1A76474EEB7958C8", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_ROSTNZEH_000_3", "hash": "55364899A631ECA6", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_ROSTNZEH_000_4", "hash": "7B341932550ACBA4", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_GHIMTHOTA_000_10", "hash": "687F93B5EAFC2B82", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_GHIMTHOTA_000_11", "hash": "032C41A3C7FE3CD7", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_GHIMTHOTA_000_12", "hash": "CCAE7582A70B7A58", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_GHIMTHOTA_000_13", "hash": "E6526399259A46B9", "target": "" },
+    { "gameKey": "quest/004/SubSea120_00417#TEXT_SUBSEA120_00417_SYSTEM_000_20", "hash": "3C3669A1B441D34B", "target": "" }
+  ]
+}

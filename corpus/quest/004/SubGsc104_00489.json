@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/004/SubGsc104_00489",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_010", "hash": "5A2DA491C9544A47", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_Q1_000_000", "hash": "9FBEF14406A24E7C", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_A1_000_001", "hash": "650707FDB8394264", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_A1_000_002", "hash": "E9BDC47952AFD035", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_020", "hash": "4ACAC715913A57C8", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_030", "hash": "FB06EA3612CD2F65", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_031", "hash": "B7624CEAEBD95AAA", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_032", "hash": "49C49EDC72F66BAE", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_033", "hash": "A9666A2AF5222512", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_034", "hash": "B88A35292F086861", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_035", "hash": "1DEC39CE8AFE8D21", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_WEEKLY_000_036", "hash": "E4A7AEE631FE64B8", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_SYSTEM_100_040", "hash": "5BC0C57F859BC104", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_SYSTEM_000_040", "hash": "E6927B41DD6762F0", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_SYSTEM_000_041", "hash": "B2A9752532D54E00", "target": "" },
+    { "gameKey": "quest/004/SubGsc104_00489#TEXT_SUBGSC104_00489_SYSTEM_000_042", "hash": "1F8AF17A44D59EA6", "target": "" }
+  ]
+}

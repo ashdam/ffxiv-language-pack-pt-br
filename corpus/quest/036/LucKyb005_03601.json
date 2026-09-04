@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/036/LucKyb005_03601",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SEQ_00", "hash": "6E9C626D2EB413B3", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SEQ_01", "hash": "E925571025CE715A", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SEQ_02", "hash": "FC66E1D449FC091C", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TODO_00", "hash": "F35C2FC308AFD7E4", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_000", "hash": "1CBF6F60AEE9AA49", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_001", "hash": "EB18403AED47FD99", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_002", "hash": "C4D105ED66AB22BD", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_003", "hash": "E236530D825E8C59", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_004", "hash": "E50E856F78337FC7", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_EULMORRANPEOPLE03601_000_005", "hash": "801EED4705C10997", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_010", "hash": "AA68DFB11B83B2A6", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_011", "hash": "9AEC39AEACB2863D", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_012", "hash": "469AC96B9760EF7C", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_013", "hash": "481C167F744C7FA0", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_015", "hash": "DA4CE7876BEB85FC", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_016", "hash": "3B4C82F881BDE780", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_017", "hash": "0746EFB5B024A771", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_TRAVELLER03601_000_018", "hash": "EADA3FFC0F519157", "target": "" },
+    { "gameKey": "quest/036/LucKyb005_03601#TEXT_LUCKYB005_03601_SYSTEM_000_100", "hash": "7B7B94C0FE64537D", "target": "" }
+  ]
+}

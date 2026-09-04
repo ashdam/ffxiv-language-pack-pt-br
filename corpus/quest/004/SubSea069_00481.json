@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/004/SubSea069_00481",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SEQ_00", "hash": "51935AAA6EAC1C12", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SEQ_01", "hash": "D4F1C468B0A279D1", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SEQ_02", "hash": "0565CED4F9E0AED6", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SEQ_03", "hash": "BD135AE0AA437249", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SEQ_04", "hash": "BD705595DDB3C245", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_TODO_00", "hash": "3E457C6CE242758D", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_TODO_01", "hash": "04DC73089B01BF18", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_TODO_02", "hash": "BF745909329AD606", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_0", "hash": "1E611BC3C5EB584C", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_1", "hash": "98EF703DA0E27AB8", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_2", "hash": "09BD987978FCA480", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_CHARTAIN_000_10", "hash": "070431557B02AB33", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_CHARTAIN_000_11", "hash": "73EEB1964EE73D00", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_CHARTAIN_000_12", "hash": "4982F9339AD1B80C", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_CHARTAIN_000_13", "hash": "BBC8C061596AA333", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SYSTEM_000_20", "hash": "3967C24D9810A67E", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SYSTEM_000_21", "hash": "BC5B3B2956527BC3", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_SYSTEM_000_22", "hash": "2D612868ED8A2236", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_30", "hash": "12B56E084A489FD9", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_31", "hash": "8473DA8FF60E9B55", "target": "" },
+    { "gameKey": "quest/004/SubSea069_00481#TEXT_SUBSEA069_00481_MOEGRAMM_000_32", "hash": "311D71C3D98E806E", "target": "" }
+  ]
+}

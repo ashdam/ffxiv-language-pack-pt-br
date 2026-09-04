@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/021/BanVan106_02176",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_SEQ_00", "hash": "577D4BB4937107D6", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_SEQ_01", "hash": "2D5614B439714F97", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_SEQ_02", "hash": "5E00F21C92FA17E4", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_SEQ_03", "hash": "CD4FD4E78913F194", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_SEQ_04", "hash": "131E13D7B108A68C", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_TODO_00", "hash": "98C2F70D24CC0ADD", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_TODO_01", "hash": "73D59CA380419800", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_TODO_02", "hash": "1A1A73F0F581F19C", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_000", "hash": "D211BA241ACBA9B3", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_001", "hash": "AF3A968B3A6BA178", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_002", "hash": "59FEE61EDB5E9749", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_LANIAITTE_000_010", "hash": "C7BBB192B0094DDA", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_LANIAITTE_000_011", "hash": "4180A13C03FC7444", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_LANIAITTE_000_015", "hash": "841909D835CC0396", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_LANIAITTE_000_030", "hash": "9CA0269B60E194D0", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_040", "hash": "D22A1D4CB6913FCC", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_041", "hash": "8F4BF3BCD0C1F51F", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_042", "hash": "2476FA71FFC19083", "target": "" },
+    { "gameKey": "quest/021/BanVan106_02176#TEXT_BANVAN106_02176_MUNAVANU_000_043", "hash": "7A65FF370313F8A2", "target": "" }
+  ]
+}

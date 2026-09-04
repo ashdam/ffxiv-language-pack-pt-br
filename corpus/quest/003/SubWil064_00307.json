@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/003/SubWil064_00307",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_00", "hash": "625E4602AEAA6169", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_01", "hash": "A9ADB13AD4A07A9D", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_02", "hash": "B0177D0EB7B0B390", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_03", "hash": "D69B4E6ABE296C36", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_00", "hash": "1F3B4647241E21F9", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_01", "hash": "618ECF20B3170F57", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_1", "hash": "FAF1F76CF7F304CB", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_2", "hash": "8F83684AEE4207B8", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_3", "hash": "37E6226278CABFEA", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_4", "hash": "A84CDB4F8F79F32B", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_5", "hash": "E69FC9224CB689D6", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_10", "hash": "8C664853163FE35B", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_11", "hash": "E3917C53CEF53FD1", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_12", "hash": "CD3DEA4720FDBEAB", "target": "" },
+    { "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_POP_MESSAGE", "hash": "48F4BF21BA4ABEAC", "target": "" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/009/GaiUsb810_00919",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_00", "hash": "E0501FFB66CF2AFE", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_01", "hash": "93D53550C8757A24", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_02", "hash": "A24C07363142E2CA", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_TODO_00", "hash": "5CD6292E77AA370F", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_000", "hash": "A2A10743BDB35434", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_001", "hash": "935EABA53662BB8C", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_003", "hash": "F019151A4BE3AF7A", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_004", "hash": "EF29F91CECA537E7", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_010", "hash": "4F5FF1FBF0F57B48", "target": "" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_011", "hash": "CDECC8F3D8966061", "target": "" }
+  ]
+}

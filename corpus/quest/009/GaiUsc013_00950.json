@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/009/GaiUsc013_00950",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "" }
+  ]
+}

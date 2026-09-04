@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/029/StmBdy104_02922",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "" }
+  ]
+}

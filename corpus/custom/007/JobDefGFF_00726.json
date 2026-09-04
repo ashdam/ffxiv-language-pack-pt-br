@@ -1,0 +1,30 @@
+{
+  "conversation": "custom/007/JobDefGFF_00726",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_Q1_000_000", "hash": "D47DFBCA5E15D213", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_010", "hash": "2D8F2B297F05DD7B", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_020", "hash": "8FAF854B84E031A7", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_030", "hash": "5364040EE83B8B0D", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_040", "hash": "880F04EC9DCB87A0", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_050", "hash": "1BCBB8E8D28C8CDA", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_A1_000_060", "hash": "4DEB2C97B124EBF8", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_000", "hash": "F6B5418128A2F1B4", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_001", "hash": "1E34508062A566DD", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_010", "hash": "DF03F905984DB5FD", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_011", "hash": "5F69CD7DCF16C784", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_012", "hash": "2DA188556C2392FF", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_020", "hash": "77489F0179D179DB", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_021", "hash": "454D9597C4431C59", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_022", "hash": "CB9343FA47C178A5", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_023", "hash": "A46B5F5747C9AE4B", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_030", "hash": "738A9286A8C6A95D", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_031", "hash": "41F84B1B3E00F626", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_HATIA_000_032", "hash": "C26C93F54A7E54B5", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_SYSTEM_000_033", "hash": "53CC8F19D1D180C7", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_GUILDIVAIN_000_040", "hash": "56816EC2F3B50D80", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_GUILDIVAIN_000_041", "hash": "22495F37EF7AD9FE", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_GUILDIVAIN_000_042", "hash": "47AAA793325018AB", "target": "" },
+    { "gameKey": "custom/007/JobDefGFF_00726#TEXT_JOBDEFGFF_00726_GUILDIVAIN_000_043", "hash": "3B5421A9171E2BC9", "target": "" }
+  ]
+}

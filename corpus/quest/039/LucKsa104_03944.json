@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/039/LucKsa104_03944",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SEQ_00", "hash": "E1117324CD3F381C", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_TODO_00", "hash": "680E4AADF62CB4EA", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_000", "hash": "2B5A7343C866ABED", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_001", "hash": "7176AFC49ADDFA39", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_000", "hash": "0A05DAFF1ECACAF9", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_001", "hash": "C8BAE122CFBAD6FE", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_002", "hash": "CE6F2F2C48BD46BE", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_003", "hash": "5E3879AA8E56F218", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_004", "hash": "CFA53C53B54DFA26", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_005", "hash": "B113EE8B677AD8EF", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_006", "hash": "467698B89F4272C8", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_007", "hash": "0C13BF09B699310E", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_008", "hash": "43B054454CA12C2E", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_010", "hash": "96B285CD62EBD720", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_020", "hash": "31D9B5A5883AE179", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_021", "hash": "18B93DD8D081FE4C", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_045", "hash": "890EC2532DB2837A", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_050", "hash": "F9E3A274037731BE", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_100_050", "hash": "13940FDEC6450947", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_051", "hash": "7A225D64A58B618B", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_052", "hash": "6015F423CE08C4EA", "target": "" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_061", "hash": "309B5A70113A615B", "target": "" }
+  ]
+}

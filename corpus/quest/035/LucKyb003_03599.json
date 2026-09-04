@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/035/LucKyb003_03599",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "" }
+  ]
+}

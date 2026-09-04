@@ -1,0 +1,13 @@
+{
+  "conversation": "custom/002/CmnGscGATENotice_00242",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "" }
+  ]
+}

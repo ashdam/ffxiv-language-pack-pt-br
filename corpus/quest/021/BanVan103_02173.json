@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/021/BanVan103_02173",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_SEQ_00", "hash": "BF3BABAC93372863", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_SEQ_01", "hash": "9BF6FCB549D75038", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_SEQ_02", "hash": "65045B3910A60E97", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_SEQ_03", "hash": "ED04AFF00AADF6E7", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_SEQ_04", "hash": "C4559E582A624943", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_TODO_00", "hash": "F8B05817097963CA", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_TODO_01", "hash": "39DA782A6AC98E09", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_TODO_02", "hash": "31CC26C944AB844B", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_000", "hash": "47A8A4803E76591D", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_001", "hash": "9C60BC1F22A711E5", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_002", "hash": "4445DA011BE2FDBA", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_LUNAVANU_000_010", "hash": "38D61B2B6336773F", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_LUNAVANU_000_011", "hash": "86F3AC8B3B57447C", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_020", "hash": "F94C83C2E6C56C5D", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_021", "hash": "859CF8C3582A1BA2", "target": "" },
+    { "gameKey": "quest/021/BanVan103_02173#TEXT_BANVAN103_02173_MUNAVANU_000_022", "hash": "21653ADE8B9DADEE", "target": "" }
+  ]
+}

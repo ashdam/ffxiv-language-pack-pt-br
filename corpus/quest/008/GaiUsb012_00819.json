@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/008/GaiUsb012_00819",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_00", "hash": "71399605E9FB8DF7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_01", "hash": "ECEE37A730BA596A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_02", "hash": "29E0C032B16A5563", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_03", "hash": "B2AA996E188C7927", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_04", "hash": "FCA8D7630F03D78D", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_SEQ_05", "hash": "E3F1D7F09C235321", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_00", "hash": "5D15A2C4A24D15A5", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_01", "hash": "C149E18FAA89B73C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_02", "hash": "CEDE382A421CFA36", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_03", "hash": "67F7540FFFFF3B25", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_000", "hash": "51DD0A591ACC5A92", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_001", "hash": "211247158F5EC773", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_002", "hash": "DAA57BA0DB662871", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_020", "hash": "C1FA5D3F193C3ADD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_025", "hash": "83CD0AD9F0913907", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_026", "hash": "A0E4BCADA25C0BBC", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_027", "hash": "2910638C63940793", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_UODHNUN_000_040", "hash": "91438387F30DFBAD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_UODHNUN_000_041", "hash": "64E61CBA576593E7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_POP_MESSAGE_000", "hash": "3AF22D53CE01D26E", "target": "" }
+  ]
+}

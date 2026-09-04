@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/011/FesLgt002_01154",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_SEQ_00", "hash": "1DB36A523C40D2A4", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_SEQ_01", "hash": "8878D06695F3D587", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_SEQ_02", "hash": "61CD887C28A287CE", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_TODO_00", "hash": "44BD0F2C9BDACF60", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_000", "hash": "E551D89A89DB5966", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_001", "hash": "58D9BB9AF9DCBEE4", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_002", "hash": "31598C4914E42256", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_003", "hash": "EAF47AA7BAF606FD", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_004", "hash": "D5CB98707009DC59", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_020", "hash": "10D7F0AB030615F8", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_021", "hash": "763035CB132FD879", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_022", "hash": "1C3883B40CEB1EC1", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_023", "hash": "B3C7A2FE071BE61A", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_024", "hash": "CF8A7FC912B218AB", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_025", "hash": "D7D944263D54C3EB", "target": "" },
+    { "gameKey": "quest/011/FesLgt002_01154#TEXT_FESLGT002_01154_DURALTHARAL_000_026", "hash": "74547EC40BB6A5EB", "target": "" }
+  ]
+}

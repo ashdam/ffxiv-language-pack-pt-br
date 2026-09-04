@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/001/SubFst028_00171",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SEQ_00", "hash": "A489E3011714F2C2", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SEQ_01", "hash": "48CD9F1D5D0BA734", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SEQ_02", "hash": "B367490931A043C1", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SEQ_03", "hash": "16C3668471025981", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SEQ_04", "hash": "7B2A831E9A3E3922", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_TODO_00", "hash": "B54747F8DF180817", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_TODO_01", "hash": "9A814AABCE7D031E", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_TODO_02", "hash": "C6B623DBB2E10F6D", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_BODWINE_000_1", "hash": "806B6169105FB119", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_BODWINE_000_2", "hash": "87084320045A5657", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_BODWINE_000_3", "hash": "3E934CD25669AC5F", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_SYSTEM_000_10", "hash": "A2900B588AF56A80", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_GUITHRIT_000_20", "hash": "A668BEF4E48159F0", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_GUITHRIT_000_21", "hash": "B8322D24C4A44BE8", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_GUITHRIT_000_22", "hash": "C72E2997E2AAF46A", "target": "" },
+    { "gameKey": "quest/001/SubFst028_00171#TEXT_SUBFST028_00171_GUITHRIT_000_23", "hash": "D6B7FC0367F60851", "target": "" }
+  ]
+}

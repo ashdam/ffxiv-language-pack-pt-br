@@ -1,0 +1,12 @@
+{
+  "conversation": "custom/003/CmnDefWeatherForeCastInTerritory_00310",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_000", "hash": "E6720044E1048DDA", "target": "" },
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_010", "hash": "E262B2983D0A0D36", "target": "" },
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_SKYWATCHER_000_020", "hash": "CDC22325FB367732", "target": "" },
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_030", "hash": "E8ACCB57CCB9E956", "target": "" },
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_100_030", "hash": "A7E53834E4D0B240", "target": "" },
+    { "gameKey": "custom/003/CmnDefWeatherForeCastInTerritory_00310#TEXT_CMNDEFWEATHERFORECASTINTERRITORY_00310_EUWATCHER_000_040", "hash": "0C0D1F24FE6D515E", "target": "" }
+  ]
+}

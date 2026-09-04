@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/012/BanAma104_01225",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_SEQ_00", "hash": "1DFA1F49C39F2F70", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_SEQ_01", "hash": "596097163E88B488", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_SEQ_02", "hash": "74BE769592144837", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_SEQ_03", "hash": "4F87C621F9766EE2", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_TODO_00", "hash": "C87BB3DB2390F7BB", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_TODO_01", "hash": "FF61DE7F5D2F402A", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_001", "hash": "CDCA1072F0B1555D", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_002", "hash": "11124BFD122CA330", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_003", "hash": "C551BEAE2E8F022E", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_004", "hash": "35589949EF6D33AC", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_011", "hash": "2BB2F951928D847D", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_021", "hash": "E348DD2E1E901C55", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_FIBUBBGAH_000_022", "hash": "120050A2A2D95C17", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_TORTOISE_BALLOON_001", "hash": "7DA8D232912A0EC0", "target": "" },
+    { "gameKey": "quest/012/BanAma104_01225#TEXT_BANAMA104_01225_POP_MESSAGE", "hash": "81A80313B0A5471F", "target": "" }
+  ]
+}

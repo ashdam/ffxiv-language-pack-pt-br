@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/003/SubFst049_00376",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_00", "hash": "A5CF259DFBA63120", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_01", "hash": "A1E76CCA482A9588", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_02", "hash": "4F4F6A28E3024ADD", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_03", "hash": "40BFAE69FE460214", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SEQ_04", "hash": "7899BCDC54579AE4", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TODO_00", "hash": "1F56148823C216AE", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TODO_01", "hash": "08982AB731BC19DC", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TODO_02", "hash": "70BC039CE487822D", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_SYSTEM_100_000", "hash": "67E93878DD459168", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TALK_KEITHA_000_1", "hash": "A978ABEF904F0597", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TALK_KEITHA_000_2", "hash": "04A49416404F3B2D", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_TALK_KEITHA_000_3", "hash": "A9A199DA17A82021", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_ROSELINE_000_11", "hash": "23EC858663E1A23D", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_ROSELINE_000_12", "hash": "7D85AEE81ED25B2E", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_ROSELINE_000_13", "hash": "7DD35FA5D8E4B039", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_ROSELINE_000_21", "hash": "C8B9EDCD82FF5452", "target": "" },
+    { "gameKey": "quest/003/SubFst049_00376#TEXT_SUBFST049_00376_ROSELINE_000_22", "hash": "A213793679C61C6F", "target": "" }
+  ]
+}

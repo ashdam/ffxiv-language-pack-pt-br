@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/015/BanIxa099_01569",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SEQ_00", "hash": "55DDF6A151A10F4B", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SEQ_01", "hash": "5472A224E220700A", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SEQ_02", "hash": "0D355A012669119C", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SEQ_03", "hash": "68116891E8DB6276", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_TODO_00", "hash": "5B52BE7EC583EEE2", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_TODO_01", "hash": "9C5DE5E350C6A8BE", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_PROCUREMENTIXAL_000_000", "hash": "15E8B2374D63369A", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_000_002", "hash": "F80C4075DA85C6F8", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_100_002", "hash": "4196F5A89D48C96C", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_101_002", "hash": "5EEEAA3E31AA3EFB", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_000_003", "hash": "7308B70728CD2A0D", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_000_004", "hash": "E6B00E238512EBF7", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_PROCUREMENTIXAL_000_001", "hash": "E2C1D8C345979484", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_WAREHOUSEIXAL_000_020", "hash": "6FF1C2FA54611F21", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_100_020", "hash": "7B0AF4E1732D865D", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_SYSTEM_110_020", "hash": "74FF77206D9BE4A8", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_WAREHOUSEIXAL_000_021", "hash": "420BC4B835F897F3", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_WAREHOUSEIXAL_000_030", "hash": "90B4CCA71387C42A", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_WAREHOUSEIXAL_000_040", "hash": "01FF74685017E6E9", "target": "" },
+    { "gameKey": "quest/015/BanIxa099_01569#TEXT_BANIXA099_01569_PROCUREMENTIXAL_000_050", "hash": "9C6CD8F15D297F44", "target": "" }
+  ]
+}

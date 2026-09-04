@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/010/GaiUsc602_01002",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SEQ_00", "hash": "8404794255CD13A5", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SEQ_01", "hash": "87BA6A6CDA3FAE71", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SEQ_02", "hash": "F6007F2BCDFBCB3A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SEQ_03", "hash": "82080B165623BE94", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_TODO_00", "hash": "FE7B97DA2060F802", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_TODO_01", "hash": "68E466BA70450E3E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_000", "hash": "DA0973F596CFD9FC", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_001", "hash": "5AE8168D5D9609C4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_002", "hash": "B705CAA1E30FB7E9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_003", "hash": "9550D02EBA1CB92F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_A_000_010", "hash": "DE823A13D3D9AB52", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_B_000_011", "hash": "CB3F84954482984D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_IMPERIALSOLDIER_B_000_012", "hash": "C328EE5CAF03D0EF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_020", "hash": "DD06EA6FB9A34AB3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_GLAUMUNT_000_021", "hash": "D1677B8B54B56030", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_SYSTEM_000_022", "hash": "0D8DF5CB1251993B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_POP_MESSAGE_000", "hash": "2D5D4914436D4CED", "target": "" },
+    { "gameKey": "quest/010/GaiUsc602_01002#TEXT_GAIUSC602_01002_ACCESS_MESSAGE", "hash": "C88F2057440B381E", "target": "" }
+  ]
+}

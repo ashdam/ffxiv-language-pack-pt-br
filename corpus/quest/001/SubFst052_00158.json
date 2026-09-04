@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/001/SubFst052_00158",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_SEQ_00", "hash": "86D0F50BD5A6D337", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_SEQ_01", "hash": "21EDA3F2F26C8FCA", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_SEQ_02", "hash": "029B22F996EA0882", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_SEQ_03", "hash": "505DFE5E51FBBB85", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_SEQ_04", "hash": "714A02FAFAA10971", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_TODO_00", "hash": "856A0EB82D3170D6", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_TODO_01", "hash": "DC56D965A2F43ECA", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_TODO_02", "hash": "C3E7015BB534D654", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_1", "hash": "9CFB53580EE263FD", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_2", "hash": "7E0BE323A8F6D2EB", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_3", "hash": "9B28C965582D1149", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_10", "hash": "A318934FF77EE2BA", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_11", "hash": "0834A3323197099E", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_12", "hash": "D5803582E630C38A", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_WALTHEOF_000_13", "hash": "6C1D70BC60F11A79", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_MARGAULT_000_20", "hash": "04690336589BDFF8", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_MARGAULT_000_21", "hash": "F6524B60D2DAB201", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_MARGAULT_000_22", "hash": "1F424DA32283D519", "target": "" },
+    { "gameKey": "quest/001/SubFst052_00158#TEXT_SUBFST052_00158_MARGAULT_000_23", "hash": "6197C92605AF276E", "target": "" }
+  ]
+}

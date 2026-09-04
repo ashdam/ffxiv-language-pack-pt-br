@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/006/SubSea150_00676",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_00", "hash": "02330D4AD435ADD4", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_01", "hash": "5E449AE0A18FE510", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_02", "hash": "A52730EB6168A615", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_TODO_00", "hash": "310B7670EFB0AD14", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_1", "hash": "0D249BA2A04FBFBC", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_2", "hash": "2E4973572B1061D0", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_3", "hash": "36EE16B0BA362695", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_10", "hash": "AE728C59A6CB9196", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_11", "hash": "F6249B600934A183", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_12", "hash": "22FB4FE155FD0BBD", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_13", "hash": "2F5144FC21BCD6C7", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_14", "hash": "CB40F3029C8ABB6D", "target": "" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_15", "hash": "9ACBFD77C68435E4", "target": "" }
+  ]
+}

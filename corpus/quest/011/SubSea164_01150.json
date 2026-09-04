@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/011/SubSea164_01150",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_00", "hash": "736A7E88A94CE2AD", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_01", "hash": "492CD590E7532658", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_02", "hash": "872E4273E3354AC6", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_03", "hash": "30F9FC2946577C5F", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_04", "hash": "FFEC7DE681DDD36B", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_TODO_00", "hash": "1FB4C87961B13F29", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_TODO_01", "hash": "9C1AD30C3B622C5D", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_TODO_02", "hash": "28A73892EE385C0E", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ALYRLOE_000_000", "hash": "1ABE78E82AE038AA", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ALYRLOE_000_001", "hash": "3639E309D7DA406C", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ALYRLOE_000_002", "hash": "F27252EB86D501F6", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ROEHANTH_000_010", "hash": "E53AF3C3DD604960", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ROEHANTH_000_011", "hash": "8105C504610AED16", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ROEHANTH_000_030", "hash": "696055C24155BB65", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ROEHANTH_000_031", "hash": "939D59F18D9E1DF4", "target": "" },
+    { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_ROEHANTH_000_032", "hash": "28F5DB613FCF4100", "target": "" }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/000/SubFst002_00025",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_00", "hash": "20A24124C5F8D57F", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_01", "hash": "46F126C09B538895", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_02", "hash": "BD54322677CFAB3F", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_03", "hash": "45C4E95558C9346B", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_TODO_00", "hash": "20075B1F39CA9D1F", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_TODO_01", "hash": "D147D1D85421669A", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_1", "hash": "55366D4D745BBF5F", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_2", "hash": "808E89EFF6D85423", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_3", "hash": "01ABDF3CCE760787", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_4", "hash": "72D4C0594C0A5B17", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_5", "hash": "31109EBFF52E01F9", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_6", "hash": "AFCD2A22F63FC9DE", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_10", "hash": "9C0193C3057F4620", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_11", "hash": "B9A6826AC5F1A5E4", "target": "" },
+    { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_BOISELONT_000_12", "hash": "A4EE87068044F29D", "target": "" }
+  ]
+}

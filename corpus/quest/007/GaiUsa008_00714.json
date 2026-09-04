@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/007/GaiUsa008_00714",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "" }
+  ]
+}

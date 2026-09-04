@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/007/GaiUsa306_00738",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_00", "hash": "02FBF05BB307E6EE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_01", "hash": "08274F15CA5100FE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_02", "hash": "84DBD095A03B9FC2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_SEQ_03", "hash": "9EAF9E61AD572296", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_00", "hash": "BD18AC53C6673DB9", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_TODO_01", "hash": "CEEE3E3168D8761E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_000", "hash": "4C67A6870750167D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_001", "hash": "57F1EBF4EAB22FC6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_020", "hash": "537E1454413F0B1E", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_021", "hash": "D3306AF6EA337EA3", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_022", "hash": "C67E6F8BA977EDA4", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_BUSCARRON_000_023", "hash": "CAEA5817CA632068", "target": "" },
+    { "gameKey": "quest/007/GaiUsa306_00738#TEXT_GAIUSA306_00738_POP_MESSAGE_000", "hash": "6B489686A1538CCF", "target": "" }
+  ]
+}

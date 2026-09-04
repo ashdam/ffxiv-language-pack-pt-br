@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/001/SubFst030_00173",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_00", "hash": "14D6E5FABBF04A12", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_01", "hash": "79317A2AA0A153EF", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_02", "hash": "1CDE8AD12D05FB17", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_03", "hash": "DC092BAC70F6DB1C", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_04", "hash": "66A7C51B299F9BBF", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_05", "hash": "4A7E0AA171FCF3A4", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_00", "hash": "5DB67BE70F7E4129", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_01", "hash": "1082503E68918038", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_02", "hash": "9928533BE80AB9A4", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_03", "hash": "F923918F6DDC3CDF", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_1", "hash": "B89879E6700BCEEB", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_2", "hash": "FAAF98582E6956C7", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_3", "hash": "769C9A8DD1AA8408", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_10", "hash": "20A941F230712A7E", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_11", "hash": "F07CAB02CF7532B8", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_12", "hash": "741E47AD306AF0FE", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_20", "hash": "C8AE7E324082BD9A", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_21", "hash": "17F2CCCE6AE95796", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_22", "hash": "9B8BE4F02BCEA78C", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_23", "hash": "1074DFB83ED59692", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_30", "hash": "B68E85E52E8F450E", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_31", "hash": "662523317FB5BDD0", "target": "" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_32", "hash": "FB0F6B61D4362F00", "target": "" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/011/FesHlw001_01163",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_SEQ_00", "hash": "4DEB6692F5FBE97F", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_SEQ_01", "hash": "4E14807AD58536C5", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_SEQ_02", "hash": "5D68C9E7D9FFEFE9", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_TODO_00", "hash": "C77EAD74FD58EC81", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_SYSTEM_000_000", "hash": "3BCB868EC35223E0", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_SYSTEM_000_001", "hash": "3229E5ACC0D54C98", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPA_000_010", "hash": "0B29C7976E75BF39", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPA_000_011", "hash": "445B0D3FE7197C46", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPA_000_012", "hash": "57F1B7AA58C37D92", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPA_000_013", "hash": "DD11C6D8CDD9C6B6", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_020", "hash": "3E7487D826936AE7", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_021", "hash": "BBA71B0B55CF2EB6", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_022", "hash": "C25E1D7CF5EE9BB9", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_023", "hash": "C08C5834AEB30CBB", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_024", "hash": "351821EA6D050892", "target": "" },
+    { "gameKey": "quest/011/FesHlw001_01163#TEXT_FESHLW001_01163_IMPHEAD_000_025", "hash": "5704776937EE5A00", "target": "" }
+  ]
+}

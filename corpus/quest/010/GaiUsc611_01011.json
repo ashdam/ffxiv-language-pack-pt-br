@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/010/GaiUsc611_01011",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_SEQ_00", "hash": "66BBDC60E97FBFE3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_SEQ_01", "hash": "495201F471FCBF1E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_SEQ_02", "hash": "61D02AEE1DA2AD3E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_SEQ_03", "hash": "E5080EED85CBD958", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_SEQ_04", "hash": "B8FBCCF227AA538F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_TODO_00", "hash": "6328122A98CD63B8", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_TODO_01", "hash": "972CE74A79DD6E61", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_TODO_02", "hash": "4049A5297D70A0A4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_000", "hash": "69EA6D5F17D47259", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_010", "hash": "7776729FE51855F0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_015", "hash": "2358DB1977637BBA", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_016", "hash": "59D54E46C87EEE92", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_017", "hash": "00F5BD68F5880BB3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_020", "hash": "00638E022BA41C5B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_030", "hash": "3E8D6D266D6579D6", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_040", "hash": "5D170D05602D2AF2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_041", "hash": "70A4BE5482E3500F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc611_01011#TEXT_GAIUSC611_01011_KERRICH_000_042", "hash": "5788F128482F3C36", "target": "" }
+  ]
+}

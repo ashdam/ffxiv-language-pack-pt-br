@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/013/BanKob108_01332",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "" }
+  ]
+}

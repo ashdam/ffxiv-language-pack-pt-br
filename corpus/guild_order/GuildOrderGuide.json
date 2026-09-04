@@ -1,0 +1,21 @@
+{
+  "conversation": "guild_order/GuildOrderGuide",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_TITLE", "hash": "012CE32C104E897C", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_00", "hash": "F5E2704C09D21B2F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_01", "hash": "9E0E895A667A537F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_02", "hash": "DD157D045060BB90", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_STAGE_MENU_TITLE", "hash": "AA81D1747CBF84A1", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_STAGE_MENU_CANCEL", "hash": "78E005FBF58BA15F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_TITLE", "hash": "B5AC8B3DD49F01CD", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_YES", "hash": "CF1467880C8B9046", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_NO", "hash": "BE6AF37340994896", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_00", "hash": "8B61FC6657494273", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_01", "hash": "B05AFFBA88415412", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_02", "hash": "1185AFE72F573802", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_03", "hash": "EE149A8CFE8AEF5F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_04", "hash": "9F8C4D6BDD56D9E8", "target": "" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_ERROR_TALK", "hash": "21ECD85496B5887A", "target": "" }
+  ]
+}

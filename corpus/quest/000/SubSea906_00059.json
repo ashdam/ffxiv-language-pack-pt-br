@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/000/SubSea906_00059",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_00", "hash": "93D283E50CE6FA63", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_01", "hash": "6A5BBFBE27459545", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_02", "hash": "77AA15F0F4B11AA8", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TODO_00", "hash": "92C88EFBE4BAC283", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_01", "hash": "E10798DEF7D95A5C", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_02", "hash": "126CA84EC24392CA", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_01", "hash": "2DC86BE6911289F2", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_02", "hash": "1F52CDB15698CC6C", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_03", "hash": "2C460DC47F8BC0E1", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_04", "hash": "065A21061848088C", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_05", "hash": "0806CE446A3DC021", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_006", "hash": "13AAF1AAFA721BAE", "target": "" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_007", "hash": "ED30EE0ECF1C222E", "target": "" }
+  ]
+}

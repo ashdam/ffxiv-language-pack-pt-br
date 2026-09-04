@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/013/BanSah205_01394",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_SEQ_00", "hash": "5A889EF493C8E522", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_SEQ_01", "hash": "9071C0115C3C7473", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_SEQ_02", "hash": "AA81A09489CB1FAA", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_SEQ_03", "hash": "D2F62F862E59AD61", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_TODO_00", "hash": "14092FDD553658D9", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_TODO_01", "hash": "335728690F01317D", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_000", "hash": "7603ACA519DD7670", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_001", "hash": "2B6F033E0270C895", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_002", "hash": "248429A904165840", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_010", "hash": "B4D07E70A8DC149B", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_020", "hash": "40D4CCA8522937FA", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_021", "hash": "34E2EB68D6E71854", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_HOUU_000_022", "hash": "220BF1B6E6AA1A67", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_POPMESSAGE_000_000", "hash": "26DFBCDFBF201F60", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_BALLOON_000_030", "hash": "BC26FD1CAE550431", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_BALLOON_000_031", "hash": "05B8269C19C03C2D", "target": "" },
+    { "gameKey": "quest/013/BanSah205_01394#TEXT_BANSAH205_01394_BALLOON_000_032", "hash": "B6385531FF774D0E", "target": "" }
+  ]
+}

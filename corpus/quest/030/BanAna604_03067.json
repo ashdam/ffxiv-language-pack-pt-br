@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/030/BanAna604_03067",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SEQ_00", "hash": "67EA5CB57A8D8C29", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_00", "hash": "2D87AF83882601D2", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_TODO_01", "hash": "B61211AD6C5D1670", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_000", "hash": "AEEE13D302F2E384", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_001", "hash": "D01085E2BCF234FD", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_002", "hash": "51B61A15CDA67EAE", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERA03067_000_010", "hash": "B4623F6E9733723E", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERA03067_000_011", "hash": "12836BE542A49B70", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERA03067_000_012", "hash": "EEEC7A96F3132345", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERB03067_000_013", "hash": "994055A55CCFAEEE", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERB03067_000_014", "hash": "02DA457D1882BD61", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERC03067_000_015", "hash": "23214D1249419E33", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERC03067_000_016", "hash": "3BB773C116325E88", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_SOLDIERC03067_000_017", "hash": "869540482D47001F", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_020", "hash": "83E35D78F9158FD5", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_021", "hash": "13E3831F7C8E15EA", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_022", "hash": "37E5AD66456F3B57", "target": "" },
+    { "gameKey": "quest/030/BanAna604_03067#TEXT_BANANA604_03067_ESHANA_000_023", "hash": "B4A6F77F426F2316", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "custom/002/RegLakGuidingStar_00246",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_Q1", "hash": "847137BAD3B470E1", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1", "hash": "691C12915EAFC961", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2", "hash": "BC69730B7CCACC05", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3", "hash": "CB0EAB118E49629C", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4", "hash": "A4B32839030DC7A7", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A5", "hash": "CD2D37009A2D0E92", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_1", "hash": "729244FC9DA7D288", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A1_2", "hash": "984C8DC277C49B8A", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_1", "hash": "F4C3B2125B24B29B", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_2", "hash": "556345C1772C149E", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A2_3", "hash": "E400B4F83942D637", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_1", "hash": "0649A15BD21EB95D", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_2", "hash": "FB0575F63E3962A3", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A3_3", "hash": "1D9F42FAD1D45518", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_1", "hash": "75FBBB3383FADCD1", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_2", "hash": "9F4C2CC7B5C1AA54", "target": "" },
+    { "gameKey": "custom/002/RegLakGuidingStar_00246#TEXT_REGLAKGUIDINGSTAR_00246_TALK_A4_3", "hash": "7B3CC6919A458F73", "target": "" }
+  ]
+}

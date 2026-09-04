@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb505_00874",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_00", "hash": "1D2D6B1C045E7370", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_01", "hash": "0349A80F5038C32E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_02", "hash": "8234DC379986C3E3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_SEQ_03", "hash": "F55A344AB4EAC32A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_00", "hash": "FFCE48321F2CCE81", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_TODO_01", "hash": "012D8E459D76DEDD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_000", "hash": "14FEEF1A379A9838", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_001", "hash": "1D111E1DA06D8B2B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_020", "hash": "08BBE7F187562FF9", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_021", "hash": "0CCF999A6F57E89A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_022", "hash": "032EAC994E5B6FCD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_BARRYN_000_023", "hash": "21B05A754F05954C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb505_00874#TEXT_GAIUSB505_00874_POP_MESSAGE_000", "hash": "54F4C6F84CAD95ED", "target": "" }
+  ]
+}

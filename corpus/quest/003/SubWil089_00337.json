@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/003/SubWil089_00337",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_SEQ_00", "hash": "8BE69E74D4B1692E", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_SEQ_01", "hash": "142B933FBB5034F9", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_SEQ_02", "hash": "5491A81533087B32", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_SEQ_03", "hash": "7A4DE3A8BB0BBA11", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TODO_00", "hash": "F4B0CA064E5C707D", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TODO_01", "hash": "0427A8741F1CE156", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_FUFULUPA_000", "hash": "9C79F3F561DF5630", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_FUFULUPA_001", "hash": "61E04195F0813B32", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_FUFULUPA_002", "hash": "01595994C1897825", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_CHECHEZAN_010", "hash": "1C096D8D187DB668", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_CHECHEZAN_011", "hash": "D0F3819BDABBFDC2", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_CHECHEZAN_012", "hash": "A7B98E31CAA0015E", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TALK_SCENE00001_000", "hash": "E31DB7A94B19BF4A", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TALK_SCENE00004_000", "hash": "FCAE15A2E16C51B5", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TALK_SCENE00007_000", "hash": "5938A27EF1016EE6", "target": "" },
+    { "gameKey": "quest/003/SubWil089_00337#TEXT_SUBWIL089_00337_TALK_SCENE00010_000", "hash": "C9A9C1283C52E0B3", "target": "" }
+  ]
+}

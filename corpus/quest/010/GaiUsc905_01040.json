@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/010/GaiUsc905_01040",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_00", "hash": "71D0C2C5CB5EE34F", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_01", "hash": "7EEC1F29BB3A2AB4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_02", "hash": "8EF5BDA49C4D6AA3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_03", "hash": "7F2F521B26CB5F1A", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_00", "hash": "83A0E4C26617171C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_01", "hash": "A9D81757CAAE90D1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_000", "hash": "A6528D36AFCE6C4E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_001", "hash": "4043281B07CF3C7C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_002", "hash": "4861AEE107845D7E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_010", "hash": "E17344432A001EE3", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_020", "hash": "2251750042E92156", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_021", "hash": "E1A2A75C18AFE833", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_030", "hash": "50DD36AB6B60DE0C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_031", "hash": "43D669E1DBA69CC5", "target": "" }
+  ]
+}

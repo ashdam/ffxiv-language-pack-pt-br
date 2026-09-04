@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/035/LucKzg023_03508",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SEQ_00", "hash": "A9DDC45FDC1375C5", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_TODO_00", "hash": "7A0BCC6F439EA6AE", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_TODO_01", "hash": "ACABCFEEAD3300A5", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_000", "hash": "7F7C90274C681E30", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_001", "hash": "828337D9C065C812", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_002", "hash": "F2B5943CB7F0E027", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_010", "hash": "DFB87893C63FA266", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_011", "hash": "DE1A5A5313EE6309", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_SYSTEM_000_012", "hash": "AA2EC47EAF651FA1", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MERCHANT03508_000_020", "hash": "13605B86CD2269A0", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_030", "hash": "C626A0B3AE809043", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_031", "hash": "1C722BAA54C16996", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MERCHANT03508_000_032", "hash": "BC1E18A2AC1B8AAE", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_033", "hash": "E18462CE43979050", "target": "" },
+    { "gameKey": "quest/035/LucKzg023_03508#TEXT_LUCKZG023_03508_MINER03508_000_034", "hash": "1C1BCFF490CB92B7", "target": "" }
+  ]
+}

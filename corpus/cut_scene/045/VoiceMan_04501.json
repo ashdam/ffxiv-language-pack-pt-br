@@ -1,0 +1,11 @@
+{
+  "conversation": "cut_scene/045/VoiceMan_04501",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000000_ULTIMA", "hash": "01520A5A3EE1BFA7", "target": "" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000010_ULTIMA", "hash": "634C6FEABCEAB033", "target": "" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000020_ULTIMA", "hash": "89FB650A65D2727E", "target": "" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000100_ULTIMA", "hash": "683934996DE348CD", "target": "" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000200_SEIRYU", "hash": "62D23BD0013595EE", "target": "" }
+  ]
+}

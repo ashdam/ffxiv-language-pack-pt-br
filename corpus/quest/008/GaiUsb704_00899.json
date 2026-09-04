@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb704_00899",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_00", "hash": "1BDDF9940C590122", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_01", "hash": "F9FE2A9A3FF5FB2B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_02", "hash": "6D48C8DFBDD37D47", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_SEQ_03", "hash": "516C557264D67D78", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_00", "hash": "18201ECAC2A13834", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_TODO_01", "hash": "76B16B36790E2ABA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_000", "hash": "C3EC5062EFB3FC45", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_001", "hash": "6EDB993FD82EECFD", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_020", "hash": "D3B04ED4168B4501", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_100_020", "hash": "A9FC04EDEF6C0AC6", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_021", "hash": "088F30008E4736B3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_022", "hash": "D0B34648C91BDE1E", "target": "" },
+    { "gameKey": "quest/008/GaiUsb704_00899#TEXT_GAIUSB704_00899_CORENTIAUX_000_023", "hash": "FF294751023C7F4B", "target": "" }
+  ]
+}

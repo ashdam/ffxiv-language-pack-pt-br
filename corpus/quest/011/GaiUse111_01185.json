@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/011/GaiUse111_01185",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_00", "hash": "3881D4B9F53C0870", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_01", "hash": "C15505581B260BB2", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_02", "hash": "30DE711AF587CA8C", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_03", "hash": "99DBE2422EDC0A0C", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_TODO_00", "hash": "3AACC3A7E1FFAE80", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_TODO_01", "hash": "4A0F54B02E840410", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_000", "hash": "E37A07D36FA6C8F4", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_001", "hash": "FDF2B0E6076F1CB4", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_002", "hash": "1CD0E4E41F975E5E", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_003", "hash": "303FD517BCA5D91A", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_004", "hash": "4A7332DBB026A5E2", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_005", "hash": "2249E5FAE45358D7", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_020", "hash": "6CDCB6BFFD136864", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_021", "hash": "BC063F1538C8C521", "target": "" },
+    { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SLAFBORN_000_022", "hash": "13CDCD56DFCAAD79", "target": "" }
+  ]
+}

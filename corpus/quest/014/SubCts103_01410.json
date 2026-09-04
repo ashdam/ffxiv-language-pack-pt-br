@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/014/SubCts103_01410",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_00", "hash": "52D279CF60D1225C", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_01", "hash": "674CF29BD0FF3FC2", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_SEQ_02", "hash": "741F1688B4FE2FD6", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_TODO_00", "hash": "47FF4E3F7B5A63F8", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_000", "hash": "6DFC66163F59F392", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_001", "hash": "E16D95661CBAADC3", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_002", "hash": "EA47730B88B1073D", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_HUGUBERT_000_003", "hash": "8AFE005AAC98EBF5", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_000", "hash": "01A4C84F581C424A", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_001", "hash": "24F8138C7507CBFB", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_002", "hash": "8A15C6C9364021F6", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_003", "hash": "FC6852C748C8DE81", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_004", "hash": "220764A4210A76BD", "target": "" },
+    { "gameKey": "quest/014/SubCts103_01410#TEXT_SUBCTS103_01410_ARLH_000_005", "hash": "AE81CE40BA453696", "target": "" }
+  ]
+}

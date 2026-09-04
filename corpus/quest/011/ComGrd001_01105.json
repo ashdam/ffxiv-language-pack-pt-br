@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/011/ComGrd001_01105",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_SEQ_00", "hash": "52F5E0921C06D646", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_SEQ_01", "hash": "4A9DCBEB78082DA2", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_SEQ_02", "hash": "2BD659CDD68254E6", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_TODO_00", "hash": "A47DA6B9876FBB7E", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_000", "hash": "969A2C8575C08D01", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_001", "hash": "C1840859BBD27F6F", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_002", "hash": "9F362581C3C0A8B7", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_003", "hash": "D5771E9D86F1A182", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_004", "hash": "20D5A5D3B5E9A010", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_005", "hash": "3479BF1004E0A3FC", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_VORSAILE_000_006", "hash": "19EF909CE1E0D491", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_BERKOEYA_000_010", "hash": "772BD807F95A2C14", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_BERKOEYA_000_011", "hash": "77652AD1036CB753", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_BERKOEYA_000_012", "hash": "6023F34DABEBF5DD", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_BERKOEYA_000_013", "hash": "0746D48F806618FC", "target": "" },
+    { "gameKey": "quest/011/ComGrd001_01105#TEXT_COMGRD001_01105_BERKOEYA_000_014", "hash": "0EB60BB267FE0649", "target": "" }
+  ]
+}

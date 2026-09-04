@@ -1,0 +1,27 @@
+{
+  "conversation": "content/DeepDungeonEntrance",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_000", "hash": "D014ACE05AE92DA2", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_020", "hash": "94081C319CE22A63", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_ENTER", "hash": "0E9F6E2B592A8D03", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_RESET", "hash": "448C64F2712A52D2", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_BREAKUP", "hash": "CF823ACE0A0CC271", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_SCORE", "hash": "BB71ECEE909B7E1D", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_START_MENU_ABOUT", "hash": "7B524585C854C82B", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_TITLE", "hash": "4B0DD8A4E31B11FD", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_FIXED", "hash": "D48DFFF1560E554B", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_MATCHING", "hash": "8F7FC8BF122E3C4E", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MENU_BACK", "hash": "F8FF78A89E5500D5", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_FIXED_Q", "hash": "9717EDA02CF9E543", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_MATCHING_Q", "hash": "D82C38775795779F", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_WOODWAILERCAPTAIN01556_000_050", "hash": "3B6A6705C2A6BF06", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_TEST_ENTER_SOLO", "hash": "961F8DEAF4AE1813", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_WHICH_Q", "hash": "6AD3098BC292E991", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_A1", "hash": "86871B8987CFF941", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_ENTER_A2", "hash": "EF898B0134E39FDA", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_NEXT", "hash": "C1961FE4F8B23484", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_MIDDLE_TOP_MENU_EXPLAIN", "hash": "7CF79FB1F47EEFE7", "target": "" },
+    { "gameKey": "content/DeepDungeonEntrance#TEXT_DEEPDUNGEONENTRANCE_MIDDLE_Q", "hash": "583A07DCC20FA683", "target": "" }
+  ]
+}

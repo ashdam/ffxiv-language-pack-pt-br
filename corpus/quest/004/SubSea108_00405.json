@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/004/SubSea108_00405",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_SEQ_00", "hash": "186CC0F725DF8D37", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_SEQ_01", "hash": "D92FF7B0D626F1E1", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_SEQ_02", "hash": "DC6246F74A7D7413", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_SEQ_03", "hash": "F26428DCCD0F3FC1", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_TODO_00", "hash": "58F785190D2D819C", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_TODO_01", "hash": "D0982C8B8E7AD402", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_1", "hash": "5FAC4E576ADEE331", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_2", "hash": "A6D741BFF09C454F", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_3", "hash": "432E0525CB0D3567", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_4", "hash": "C48B89405478EED9", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_TALK_SCENE00005_000", "hash": "494AA3D0E169E141", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_11", "hash": "3AA881252515BA1C", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_12", "hash": "9B210B6EFA21C38F", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_13", "hash": "AFC1207BA5726A42", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_LYULF_000_14", "hash": "17E8ED4C2D775876", "target": "" },
+    { "gameKey": "quest/004/SubSea108_00405#TEXT_SUBSEA108_00405_POP_MESSAGE", "hash": "D0611F01B8A5FD94", "target": "" }
+  ]
+}

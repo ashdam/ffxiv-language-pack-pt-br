@@ -1,0 +1,9 @@
+{
+  "conversation": "cut_scene/041/VoiceMan_04101",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000010_ALGUS", "hash": "0159AB53432A4FF1", "target": "" },
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000011_ALGUS", "hash": "D8706DD2FF2D68BC", "target": "" },
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000020_ALGUS", "hash": "A7B7EF2BA1A6E9E2", "target": "" }
+  ]
+}

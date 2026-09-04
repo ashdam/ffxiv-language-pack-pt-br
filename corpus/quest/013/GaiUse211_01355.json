@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/013/GaiUse211_01355",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_SEQ_00", "hash": "C981050D8AFB8E8A", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_SEQ_01", "hash": "D4B1ECE0717DCEEC", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_SEQ_02", "hash": "22F88BDA2332B67A", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_SEQ_03", "hash": "AE0784DEC174B967", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_SEQ_04", "hash": "52696606FA5F80B4", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_TODO_00", "hash": "5B573FFFBB0D397A", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_TODO_01", "hash": "C60CC11D2CCE5A4A", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_TODO_02", "hash": "885F5000B6507047", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_000", "hash": "D61D1A03B26ACA21", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_001", "hash": "20B13F3ED4B7F0F0", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_002", "hash": "21DABCFED7F088E5", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_003", "hash": "20120B959518A5C8", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_005", "hash": "D164F5BFD295C839", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_010", "hash": "B6665BA07517C0FA", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_011", "hash": "428451F77442E23E", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_HONBUBOUKENSHA01354_000_012", "hash": "966D3261F5410609", "target": "" },
+    { "gameKey": "quest/013/GaiUse211_01355#TEXT_GAIUSE211_01355_POP_MESSAGE", "hash": "8EFBB7338D6693A4", "target": "" }
+  ]
+}

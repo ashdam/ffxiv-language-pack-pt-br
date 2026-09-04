@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/011/GaiUsd011_01194",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_SEQ_00", "hash": "7B584CC06A3C13FF", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_SEQ_01", "hash": "33F43EF5409F44F0", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_SEQ_02", "hash": "A26CD6CD7B2E5994", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_TODO_00", "hash": "05B5154C7875DAE8", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_000", "hash": "93D3AFF64AC2E2B0", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_001", "hash": "E505C5867292D7CC", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_002", "hash": "DC174D48D02C0403", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_100_000", "hash": "0C06B662CB8F92E7", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_100_001", "hash": "B85691B0A52A78E6", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_100_002", "hash": "739A2CF664E1B3B2", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_003", "hash": "D56FC3CB4BC2BCBF", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_004", "hash": "C51BA4F04AA1B1F6", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_005", "hash": "ABEB78C6DB4D8D32", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_006", "hash": "1D11578C6B2B3FFB", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_URIANGER_000_007", "hash": "EBA2006358E1074A", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_VORSAILE_000_010", "hash": "F904D9EB7D49193E", "target": "" },
+    { "gameKey": "quest/011/GaiUsd011_01194#TEXT_GAIUSD011_01194_VORSAILE_000_011", "hash": "2DC722C3306938A9", "target": "" }
+  ]
+}

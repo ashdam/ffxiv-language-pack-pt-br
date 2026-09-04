@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/007/GaiUsa806_00790",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "" }
+  ]
+}

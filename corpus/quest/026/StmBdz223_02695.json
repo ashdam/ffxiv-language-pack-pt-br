@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/026/StmBdz223_02695",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SEQ_00", "hash": "C369D2E16FD32F66", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_00", "hash": "D902686237559D0B", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_TODO_01", "hash": "5C17A09BBDE9E7A2", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_000", "hash": "11E06442AA0757FA", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_001", "hash": "957C88B10319C006", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_002", "hash": "F745CDF02630C285", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_003", "hash": "F8A9F89509D095B8", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SYSTEM_000_004", "hash": "3AEE3A43716E3501", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_005", "hash": "0C9B7F20B4BF331C", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SYSTEM_000_006", "hash": "FAD6D991724DB9D0", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SAYTODO_000_000", "hash": "1E350CD83CAAA615", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SYSTEM_000_010", "hash": "46E727E39F4379A4", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_010", "hash": "021A8FACD18AA9BF", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_SYSTEM_000_011", "hash": "CFB22B053EE2C49C", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_012", "hash": "3AA5DCDEB487BD77", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_RIDDLEMAN02695_000_013", "hash": "89AA67EE131B7596", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_020", "hash": "8660C616F34DA296", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_021", "hash": "F9A635263501B384", "target": "" },
+    { "gameKey": "quest/026/StmBdz223_02695#TEXT_STMBDZ223_02695_KEFUSAN_000_022", "hash": "4EC850E1EA011865", "target": "" }
+  ]
+}

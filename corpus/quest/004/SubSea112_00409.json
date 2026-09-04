@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/004/SubSea112_00409",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_00", "hash": "A17F541A700FC827", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_01", "hash": "81678C94CBFECBAF", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_02", "hash": "42B1A0EC2C49735B", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_03", "hash": "2225293F390208A4", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_TODO_00", "hash": "DC5BB09D354FC74C", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_TODO_01", "hash": "4281BB6FFFBD43C0", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_1", "hash": "97D339AC4B79137A", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_2", "hash": "F018044E7AF09F6A", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_3", "hash": "921164B927A958D5", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_10", "hash": "F474C4CF29349F6C", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_11", "hash": "79BFCA35E9ACB2E2", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_12", "hash": "DDDFABF979B61322", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_20", "hash": "58C97ABA038D418A", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_21", "hash": "46E8DADC2A1AF650", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_22", "hash": "5E12B3999CBE5BB4", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_30", "hash": "039D8EB248A7FFB2", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_31", "hash": "8291C3250CABDC12", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_32", "hash": "D1E0EF3BF72D2DB7", "target": "" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_33", "hash": "0FA14181999E7FB0", "target": "" }
+  ]
+}

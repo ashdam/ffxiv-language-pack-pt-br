@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/010/JobDrg350_01068",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_SEQ_00", "hash": "5BE5E675C1960FB3", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_SEQ_01", "hash": "840C5E286F48876B", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_SEQ_02", "hash": "47263361B805351F", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_SEQ_03", "hash": "B34E402A99C56F8A", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_SEQ_04", "hash": "7DF57A20489F3C5D", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_TODO_00", "hash": "C0736FB2774CAE54", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_TODO_01", "hash": "E5129E02C375EA1C", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_TODO_02", "hash": "ED65FC8788510AAC", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_000", "hash": "428DAF0A7B183007", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_001", "hash": "129958A675DDF126", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_002", "hash": "42225564D432BFE8", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_003", "hash": "ED5C3FEF95639960", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_004", "hash": "362C1E8FBDD19758", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_005", "hash": "83A397BE8376C6F8", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_006", "hash": "B5882F1CA5F1BA3D", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_007", "hash": "54AF50201DE3172F", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_008", "hash": "53166D6173DE2CFB", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_009", "hash": "81B7DA145822ADF6", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_010", "hash": "E877C088D010EE17", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_011", "hash": "CBA7AAC11414C0C3", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_012", "hash": "60E4AAE8BB7CF4BD", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_BRUCEMONT_000_020", "hash": "783187E20A2EBAAB", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_BRUCEMONT_000_030", "hash": "EF7B64DBE5B27345", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_040", "hash": "9A57A3003A06D1CE", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_ALBERIC_000_041", "hash": "E90B28C77CBA2FAF", "target": "" },
+    { "gameKey": "quest/010/JobDrg350_01068#TEXT_JOBDRG350_01068_POP_MESSAGE", "hash": "AC0D3FC309B67D01", "target": "" }
+  ]
+}

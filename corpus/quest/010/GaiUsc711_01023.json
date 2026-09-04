@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/010/GaiUsc711_01023",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_00", "hash": "F4516EC2899FE9F4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_01", "hash": "963D05DDBE210216", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_02", "hash": "D4EFF612A2CCAF6E", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_03", "hash": "080FAA0931AB4762", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_00", "hash": "23E9039DB8021160", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_01", "hash": "F6092DC74FAA72C0", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_000", "hash": "ED21CDD87BB20EF7", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_001", "hash": "5C00C5AC97210FA4", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_002", "hash": "BACBF62EDED07D44", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_003", "hash": "09595D8BB0B7E581", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUA_000_010", "hash": "0F7856FC28A801A2", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUA_000_015", "hash": "BEA67B322CF4E35B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUB_000_020", "hash": "5116841D9B25B18C", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUB_000_025", "hash": "D5A7A98198221665", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_030", "hash": "6AA94AE3E757E625", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_035", "hash": "07453F9C384288DB", "target": "" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_040", "hash": "30C89ED13647CCFA", "target": "" }
+  ]
+}

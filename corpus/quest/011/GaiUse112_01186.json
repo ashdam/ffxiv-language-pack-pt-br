@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/011/GaiUse112_01186",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SEQ_00", "hash": "47DF96475C473A43", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SEQ_01", "hash": "6E6D28F5E7705E1A", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SEQ_02", "hash": "91AB97877A0F45BD", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SEQ_03", "hash": "DEAEDB9C592E5F73", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SEQ_04", "hash": "8B994DC8C92F161C", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TODO_00", "hash": "E690A7D96A42A941", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TODO_01", "hash": "C8BA5F12060818D5", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TODO_02", "hash": "FEC62B37929822FA", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SLAFBORN_000_000", "hash": "8B1ADBBA9699F955", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SLAFBORN_000_001", "hash": "C309A786F7A3C4B9", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SLAFBORN_000_002", "hash": "E18F33F90E8AB925", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_SLAFBORN_000_003", "hash": "D71807D45A82BF37", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_ALPHINAUD_000_010", "hash": "F942782604C884B7", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_ALPHINAUD_000_011", "hash": "BC4CE2E11E390F51", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_ALPHINAUD_000_012", "hash": "2A4EAC80DE46DF64", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_ALPHINAUD_000_013", "hash": "6B5CADA819270B13", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_ALPHINAUD_000_014", "hash": "7B4DC0D310643EDA", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TATARU_000_020", "hash": "8B3F1CF83634A8F0", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TATARU_000_030", "hash": "AAF31A0F84888BFE", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TATARU_000_031", "hash": "04F81FD584447E16", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TATARU_000_032", "hash": "48EB854B100FC138", "target": "" },
+    { "gameKey": "quest/011/GaiUse112_01186#TEXT_GAIUSE112_01186_TATARU_000_033", "hash": "D077A283AEA3F46E", "target": "" }
+  ]
+}

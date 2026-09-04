@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/009/GaiUsc001_00938",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_00", "hash": "7E7D3AD4E124DDDC", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_01", "hash": "B81919A846BEF5F5", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_02", "hash": "85034C7DCFC41EAF", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_SEQ_03", "hash": "E2F37E2A4B96F991", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_TODO_00", "hash": "9A6D721823296692", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_TODO_01", "hash": "E3F69FEB7B5EB554", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_000", "hash": "214072FDB01E488D", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_001", "hash": "48626C8D9EC6B9E3", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_CID_000_002", "hash": "4B9FEAB4C01B927A", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_JOELLAUT_000_010", "hash": "70A6D500CC6B8C47", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_JOELLAUT_000_011", "hash": "0B526C6AECD9E763", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_JOELLAUT_000_012", "hash": "0C089E341EEDABA5", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_JOELLAUT_000_013", "hash": "CA0DEC1AB1FAADC1", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALBOISE_000_020", "hash": "19BBC09A32CF8BCC", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_HAUSTEFORT_000_030", "hash": "DB589EDBF6B7DEDB", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_PATRICK_000_040", "hash": "DA69699B2454F183", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_PATRICK_000_041", "hash": "32FCB954CF5A5839", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_050", "hash": "A5A7656F7329455C", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_051", "hash": "C091FB8B61226944", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_052", "hash": "DB27ECF1CC118393", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_053", "hash": "398CCB4008DBC5A3", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_054", "hash": "768A929629474363", "target": "" },
+    { "gameKey": "quest/009/GaiUsc001_00938#TEXT_GAIUSC001_00938_ALPHINAUD_000_055", "hash": "614C963F02C3188E", "target": "" }
+  ]
+}

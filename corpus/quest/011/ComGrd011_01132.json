@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/011/ComGrd011_01132",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_00", "hash": "73A0B08AD1C6FE06", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_01", "hash": "2FBF615FCD98764C", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_02", "hash": "634037BA823DCCFB", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_03", "hash": "B6FF45C05324183E", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_SEQ_04", "hash": "F86A8DE0942B69C5", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_00", "hash": "78C147FB8323E06E", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_01", "hash": "55C1ACE7C039C8C4", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_TODO_02", "hash": "D184C258B34DF629", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_000", "hash": "672BFFA1E2EA6CA9", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_001", "hash": "E2D5A250886FCC34", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_002", "hash": "A1D271435E5A5D82", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_WILLIELMUS_000_010", "hash": "825514F542CB12A3", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_WILLIELMUS_000_011", "hash": "F66644FFDC71730A", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_WILLIELMUS_000_012", "hash": "91B8AA86C38E6868", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_020", "hash": "75B6683AA5561F00", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_021", "hash": "04287748731F2935", "target": "" },
+    { "gameKey": "quest/011/ComGrd011_01132#TEXT_COMGRD011_01132_VORSAILE_000_022", "hash": "4B6AF51057FDD509", "target": "" }
+  ]
+}

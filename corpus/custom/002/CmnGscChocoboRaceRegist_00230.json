@@ -1,0 +1,21 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceRegist_00230",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR", "hash": "B822FD145578D946", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_02", "hash": "1B3CD640C8D83DB3", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_03", "hash": "89C134C04547EA99", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_04", "hash": "FBFF7D58B14D9510", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE", "hash": "DE6DDCD3DA2101EC", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_GUIDE", "hash": "DEBBA7CD7315C682", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_02", "hash": "375875EFDBEC30EB", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_03", "hash": "777FFB6B47DE713F", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_01", "hash": "C1207EECDEF3AF38", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_02", "hash": "3F535BC5B17FC794", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_03", "hash": "FB2FADF74CD7E1FA", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_01", "hash": "CDAA848DA15ABA83", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_02", "hash": "CDB0B172847D9E9D", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_01", "hash": "9E45817482649F0E", "target": "" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_02", "hash": "0A355D8834CA016A", "target": "" }
+  ]
+}

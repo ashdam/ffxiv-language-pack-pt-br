@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/001/SubSea005_00115",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SEQ_00", "hash": "6C9A3A99993845A5", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SEQ_01", "hash": "116A0EC1F243D922", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SEQ_02", "hash": "799651BB2E1432D5", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SEQ_03", "hash": "8BE9AE80F16B911D", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_TODO_00", "hash": "EA469A64E394CB6D", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_TODO_01", "hash": "FD8239959BA8CE53", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_PTAHJHA_000_0", "hash": "F80125C608179834", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_PTAHJHA_000_1", "hash": "E2554F43C24D8D3D", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_PTAHJHA_000_2", "hash": "F6F37D7B55327616", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SUNDHIMAL_000_10", "hash": "DDFA97FDDAD2496E", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SUNDHIMAL_000_11", "hash": "B39B375828DD56AD", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_SUNDHIMAL_000_12", "hash": "7D3509F213EACD69", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_LATISHA_000_20", "hash": "83A8CEF7FBC1F42D", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_LATISHA_000_21", "hash": "FCAFB652466B9F57", "target": "" },
+    { "gameKey": "quest/001/SubSea005_00115#TEXT_SUBSEA005_00115_LATISHA_000_22", "hash": "3F01CEA0C145EB8D", "target": "" }
+  ]
+}

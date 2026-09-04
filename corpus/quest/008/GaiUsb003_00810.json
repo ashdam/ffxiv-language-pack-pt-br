@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/008/GaiUsb003_00810",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_00", "hash": "30F6B9F5161FD3F9", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_01", "hash": "B72E99EAEC7740C9", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_02", "hash": "FD7BE4EF197B697B", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_03", "hash": "C646343902A70183", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_00", "hash": "29B390C8767940A3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_01", "hash": "7E11C50DFA7D7DC7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_000", "hash": "D8A63B58C7FA573F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_001", "hash": "AD1C6A6AF5A07A73", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_002", "hash": "46853AE2E571C05A", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_003", "hash": "E2F657BEFA39492C", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_004", "hash": "811BDD3BB774FFDA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_005", "hash": "094D7178545076E6", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_020", "hash": "165747E43BF50202", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_021", "hash": "40644A19879CC44F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_POP_MESSAGE_000", "hash": "1C3ACC5D82EF3C7E", "target": "" }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa506_00758",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_00", "hash": "9BEF3F6538B7478D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_01", "hash": "0F76FD0EDC0E9667", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_02", "hash": "B044768559569805", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_03", "hash": "00FFAE747865C0F0", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_TODO_00", "hash": "7DA44D5F30E9ADF8", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_TODO_01", "hash": "27DFEDF6208FF000", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_000", "hash": "769D8A2C0B99EE08", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_001", "hash": "C5EAE3FD805A9B54", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_002", "hash": "B32A324906A6F1E7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_BEROLD_000_010", "hash": "B5E981A9DA131330", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_BEROLD_000_011", "hash": "7B9A74A8DB52C065", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_OTELIN_000_020", "hash": "C635044120706673", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_OTELIN_000_021", "hash": "8D07EDAF3DC70AFF", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_ARCAVIUS_000_030", "hash": "408DD4AACA190052", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_ARCAVIUS_000_031", "hash": "17D6BF8ADAA6DDAE", "target": "" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_040", "hash": "C9911A794092311A", "target": "" }
+  ]
+}

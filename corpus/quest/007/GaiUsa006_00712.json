@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/007/GaiUsa006_00712",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SEQ_00", "hash": "DCBBC93B43ED13C2", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SEQ_01", "hash": "9F23D689A32F4E84", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SEQ_02", "hash": "2E4551D5B29E5163", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SEQ_03", "hash": "16048BD874A063C6", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_TODO_00", "hash": "3DC2A3ABD5EB976A", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_TODO_01", "hash": "79B8BFAB6DF51214", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_000", "hash": "FF692B01ED8D9F5B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_001", "hash": "1FC280110CFD47BF", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_002", "hash": "0D7DC22C46E8DCB7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SYSTEM_000_001", "hash": "A0018DF599E4EED7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SYSTEM_000_002", "hash": "E69BE274E1F1EA39", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_SYSTEM_000_003", "hash": "15BD21E761E0CB6B", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_010", "hash": "9C7EAC640DDAC5F5", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_011", "hash": "1B3D092852D14BD1", "target": "" },
+    { "gameKey": "quest/007/GaiUsa006_00712#TEXT_GAIUSA006_00712_YSABEL_000_012", "hash": "CFDE204821F24A86", "target": "" }
+  ]
+}

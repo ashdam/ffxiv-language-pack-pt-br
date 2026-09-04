@@ -1,0 +1,15 @@
+{
+  "conversation": "custom/009/CtsMkdWeatherForeCast_00925",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_000", "hash": "EA8E9D5CA25385D4", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_010", "hash": "2A1CB0242C16B886", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_020", "hash": "F4C8B0D97847D524", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_030", "hash": "B3B3AFC5015AD2DD", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_035", "hash": "1A11429E454A8268", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_040", "hash": "1CB2FB055E93F00A", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_045", "hash": "0F688BFA9DA02ADF", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_050", "hash": "29619FE04143BAC5", "target": "" },
+    { "gameKey": "custom/009/CtsMkdWeatherForeCast_00925#TEXT_CTSMKDWEATHERFORECAST_00925_WEATHERFORECAST_000_060", "hash": "EAA6D1393A5CFF12", "target": "" }
+  ]
+}

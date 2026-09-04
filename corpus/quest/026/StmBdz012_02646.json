@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/026/StmBdz012_02646",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_SEQ_00", "hash": "99CCA5AFBE3609C7", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_00", "hash": "BF64CE35BAA5079E", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_01", "hash": "7DE087B0870B7800", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_02", "hash": "3AD7E1786C2DF138", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_TODO_03", "hash": "9CEE42F3D77A330F", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_000", "hash": "A0468CE8154494D2", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_001", "hash": "2DF85F017A150859", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_002", "hash": "BB6E2D94309DB998", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_010", "hash": "3E3D3C7CCED07E8E", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_011", "hash": "5647589245F45909", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_012", "hash": "0281B22185E36A70", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_013", "hash": "6699495F32B82389", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_HIDDENHEARTH_000_020", "hash": "7DA4BF957FE8E0AD", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_014", "hash": "5BC1C9B7D29CFE69", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_031", "hash": "C0776D36C6F560BF", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_032", "hash": "3913E077B72BBB5B", "target": "" },
+    { "gameKey": "quest/026/StmBdz012_02646#TEXT_STMBDZ012_02646_BENTFROND_000_033", "hash": "4E2D194173D11FFB", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/028/StmBdz801_02829",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_SEQ_00", "hash": "8CBC0F40FB201668", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_00", "hash": "3AE56C858F3F6B1F", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_TODO_01", "hash": "5FF379D75B7D133C", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_000", "hash": "DA8206276CC37EA1", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_001", "hash": "30E427BE68623E62", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_002", "hash": "080E9B004588C6B1", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_003", "hash": "4C01C2E48557E8F1", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_004", "hash": "4CB61EE1AB1CE57C", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_005", "hash": "5F739CEC7F20428A", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_SYSTEM_000_010", "hash": "CB6B561CCFE2CCD5", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_SYSTEM_000_011", "hash": "9612A8104C556A07", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_SYSTEM_000_013", "hash": "9C2122CB705CD5E1", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_020", "hash": "480D031496B16FA7", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_021", "hash": "FF37A5DBEB70B0A2", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_022", "hash": "6432E9971B77C57F", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_023", "hash": "5E6ABAAC9FDFE3C5", "target": "" },
+    { "gameKey": "quest/028/StmBdz801_02829#TEXT_STMBDZ801_02829_GERBOD_000_024", "hash": "149022B3BFB62335", "target": "" }
+  ]
+}

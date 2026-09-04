@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/050/KinGyr103_05005",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_SEQ_00", "hash": "1C245D2980BA6494", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_TODO_00", "hash": "D4F83619BB6252B6", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_000", "hash": "28CEFCDC67AEF26C", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_001", "hash": "52C05778967299CB", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_002", "hash": "002339A5911FC8A7", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_003", "hash": "828CC8123493B1ED", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_010", "hash": "9EB92744603F0F1E", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_100_010", "hash": "C7E0F8FD85CC022C", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_011", "hash": "1E2DD50A614517C2", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_012", "hash": "FE84CDE27649A6B4", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_013", "hash": "4754E71E8A0D02D1", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_014", "hash": "9333DF7D4B235481", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_015", "hash": "CAD32FAD1D5099C1", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_ENGINEERA05005_000_016", "hash": "972570EDDBA4AEF9", "target": "" },
+    { "gameKey": "quest/050/KinGyr103_05005#TEXT_KINGYR103_05005_SYSTEM05005_000_020", "hash": "B6256F1BD676307B", "target": "" }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/046/BanOmi108_04614",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_SEQ_00", "hash": "8238F3734187DABE", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_SEQ_01", "hash": "560D8F2BBCE5D44E", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_SEQ_02", "hash": "ABE9601E10022AD6", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_TODO_00", "hash": "53FA522710990181", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_TODO_01", "hash": "840AD5C5AAB8BA38", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_001", "hash": "138868F148424F71", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_002", "hash": "071219166ED483EE", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_003", "hash": "9540CAD20EE4AC9D", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_004", "hash": "C4AB2A9B9557B0D3", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_005", "hash": "5AEE915965CF8D2D", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_006", "hash": "AB7FC9DE063146A7", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_OMICRON04614_000_010", "hash": "1C63BBE20FDE837C", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_OMICRON04614_000_011", "hash": "943F7FA7E0268B5A", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_OMICRON04614_000_012", "hash": "6894AB434F301D85", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_OMICRON04614_000_013", "hash": "5D500FDBB6F731A0", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_OMICRON04614_000_014", "hash": "86C6E5CAE069ED48", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_015", "hash": "234676F79EB94129", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_016", "hash": "A096EBD8A2F9D0B3", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_017", "hash": "A143C63028C06CED", "target": "" },
+    { "gameKey": "quest/046/BanOmi108_04614#TEXT_BANOMI108_04614_STIGMA4_000_018", "hash": "7DE0E4DD3CF0AA6F", "target": "" }
+  ]
+}

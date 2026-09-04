@@ -1,0 +1,27 @@
+{
+  "conversation": "guild_order/GuildOrderOfficer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_00", "hash": "0CDA8E91FEE4C12F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_01", "hash": "279C841744E6F822", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_02", "hash": "339D983CB2DA9BF4", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_TITLE", "hash": "4DB4E674B7DFA529", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_YES", "hash": "8C0CE5C7F0F5801A", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_NO", "hash": "CA17FD3CAA7B411C", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_TITLE", "hash": "CBD0C20B96369806", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_YES", "hash": "FC209D191FD7244F", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_NO", "hash": "2D04B023FF8DDE40", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_TITLE", "hash": "9E7CF4AA2C652AFB", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_YES", "hash": "0F1F868FFC1944FE", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_NO", "hash": "7A9A55909F9B12C2", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RET_SUCCESS_SYSTEM_TALK_00", "hash": "B1CD000F6154A54A", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_TITLE", "hash": "73F7688897896B1E", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_YES", "hash": "A5294DE2ADE6B9E8", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_NO", "hash": "696F2A6B980A62E4", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_TITLE", "hash": "FBA5C8DB431ABAF1", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_YES", "hash": "8145736891D746F3", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_NO", "hash": "C4D94D4BE3CD216B", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_00", "hash": "74593C64CFD084B1", "target": "" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_01", "hash": "2CFB8D11B5F6DDD2", "target": "" }
+  ]
+}

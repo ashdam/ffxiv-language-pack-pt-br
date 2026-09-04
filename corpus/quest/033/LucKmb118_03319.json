@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/033/LucKmb118_03319",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SEQ_00", "hash": "10EBADE389708ED4", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_00", "hash": "CDF12CCFFD1F90C3", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_TODO_01", "hash": "6993769B391A5CEA", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_THANCRED_000_000", "hash": "1D1C25E8C8D106F8", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_RYNE_000_005", "hash": "AA48629AA9069146", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_URIANGER_000_010", "hash": "69B5D8A945C122AB", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_020", "hash": "6CBEA434A68DB7D4", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_021", "hash": "B32BE96DC49D177A", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_022", "hash": "7CA6B74D49012274", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_023", "hash": "A4DC4CD72F76F59E", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_024", "hash": "165B25DE74751D4E", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_030", "hash": "F8DB2DCEE6212227", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SYSTEM_000_040", "hash": "926E95D7DB865A13", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_050", "hash": "C14A770EF6A52252", "target": "" },
+    { "gameKey": "quest/033/LucKmb118_03319#TEXT_LUCKMB118_03319_SETO_000_051", "hash": "847452CBDEDF6ECA", "target": "" }
+  ]
+}

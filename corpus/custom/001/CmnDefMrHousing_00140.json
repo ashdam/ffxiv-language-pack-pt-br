@@ -1,0 +1,20 @@
+{
+  "conversation": "custom/001/CmnDefMrHousing_00140",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1Q1_100_000", "hash": "548E0FCE4D0A6C17", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A1_101_000", "hash": "187079E3B79B6D68", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A2_102_000", "hash": "A1FD088CFC7FEFE6", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A3_103_000", "hash": "55A63793B16CCA76", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_001", "hash": "A70E30EB00792D54", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_100_001", "hash": "1C582922CE55A47F", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_002", "hash": "C68907755977A171", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_003", "hash": "422476C75803B357", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_004", "hash": "CDA68E048B6A83D9", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_005", "hash": "A985A7F21F73E091", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_006", "hash": "19289420247851EC", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_000", "hash": "68443DF7AF65DF3A", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_001", "hash": "A40EF36C0E18B029", "target": "" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_002", "hash": "25467DE5C1476165", "target": "" }
+  ]
+}

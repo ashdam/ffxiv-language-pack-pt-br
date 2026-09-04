@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/004/SubSea107_00404",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_00", "hash": "79FD56CDFB15B591", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_01", "hash": "5692C940F94BE7B1", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_02", "hash": "E7F7370C227833CC", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_SEQ_03", "hash": "5BC509464409C044", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_TODO_00", "hash": "9B77F68165E5F55F", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_TODO_01", "hash": "2B21DBEA3BB6AE6E", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_1", "hash": "E66878A79CBF525F", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_2", "hash": "37FDA6BD0967D990", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_3", "hash": "43E377E79E01BAB0", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_4", "hash": "02906DC7DAD93F3A", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_TALK_SCENE00002_000", "hash": "D1DB7900A8E97A94", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_11", "hash": "E50B25FAC4FE7116", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_12", "hash": "3DD46DAE8B47BB96", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_13", "hash": "E15E860DF1C3D467", "target": "" },
+    { "gameKey": "quest/004/SubSea107_00404#TEXT_SUBSEA107_00404_LYULF_000_14", "hash": "25CB6910C8F6FCD8", "target": "" }
+  ]
+}

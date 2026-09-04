@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/009/GaiUsc308_00975",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_00", "hash": "DFA9A69AB6E07092", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_01", "hash": "C087FB72C384FB38", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_02", "hash": "EFCD86A80D52E0AD", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_TODO_00", "hash": "A72A8F7988F3246E", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_000", "hash": "4A2498058E60EF51", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_001", "hash": "8500E22D29D647B1", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_002", "hash": "3D2F48B5FCF1F5E5", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_003", "hash": "5A64F01648DB5D87", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_010", "hash": "325C317F1DD7D5F2", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_020", "hash": "7115461A179BDBD9", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_021", "hash": "AA79BB7B9477C4EE", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_022", "hash": "42E0FB81695F8E39", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_023", "hash": "6E912956182E2778", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_LIONNELLAIS_000_030", "hash": "26951B9F7B209181", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_Q1_000_040", "hash": "2CA3DBBCBEF8E40F", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_A1_000_041", "hash": "53C9C85F1AA4721A", "target": "" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_A1_000_042", "hash": "937BF4DAF524A9E3", "target": "" }
+  ]
+}

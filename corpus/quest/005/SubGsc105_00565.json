@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/005/SubGsc105_00565",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_00", "hash": "E580641586785318", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_01", "hash": "EC6D4B0A97451E65", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_02", "hash": "3B05F5F9535ADBB5", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_TODO_00", "hash": "346AD43178CFE548", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_000", "hash": "E6EB4C958CE9CA7D", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_001", "hash": "7D4F4A6EB68A148F", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_003", "hash": "92B92420B92C1822", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_020", "hash": "3B75A0F6FAB3E3FF", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_021", "hash": "560A0C1332078E63", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_022", "hash": "D75A4D336233914E", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_023", "hash": "7BD175F57E59DEAA", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_030", "hash": "D8F0B7D6AF95120E", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_040", "hash": "184821490446CB1A", "target": "" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_041", "hash": "690E5BECD734BE19", "target": "" }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/027/StmBdz408_02731",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SEQ_00", "hash": "0985EE61D8662103", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_TODO_00", "hash": "47A31BC0FF1BB4DE", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_TODO_01", "hash": "F7E160DABCBC9B48", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_TODO_02", "hash": "AA43E4966B0F49FB", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_000", "hash": "AF900286D6ABF967", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_001", "hash": "08F258446A785A09", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_002", "hash": "3FA222F47FAE685A", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_003", "hash": "F967E30A40AF75B3", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_VILLAGERT02731_000_004", "hash": "DBF7B62D924B7925", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_POP_MESSAGE_000_010", "hash": "50035CDEC04E7298", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_VILLAGERT02731_000_020", "hash": "BD8713D0C8E987DC", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_VILLAGERT02731_000_021", "hash": "4B7AD57E566C3B27", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_VILLAGERT02731_000_022", "hash": "EA03BF51B479B9B4", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_030", "hash": "0669E1457947D899", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_031", "hash": "E141ADDC298985AD", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_032", "hash": "ED3527F7EF098640", "target": "" },
+    { "gameKey": "quest/027/StmBdz408_02731#TEXT_STMBDZ408_02731_SHINDEN_000_033", "hash": "68175F2F66619B3F", "target": "" }
+  ]
+}

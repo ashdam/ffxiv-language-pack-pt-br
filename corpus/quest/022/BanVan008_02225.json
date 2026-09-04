@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/022/BanVan008_02225",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SEQ_00", "hash": "66919FB4CAF704C5", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SEQ_01", "hash": "CB49D3676D3EEC12", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SEQ_02", "hash": "3F2F3CD5500C2C18", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_TODO_00", "hash": "1475CC1AAB35A576", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVALI_000_000", "hash": "9D5401EB17A1807F", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVALI_000_001", "hash": "1C3B6D3799F1FA58", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVALI_000_002", "hash": "799375CB1E446BDC", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVALI_000_005", "hash": "6D5C0C4A815F4FBF", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_010", "hash": "8145ECE9C803A67E", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_011", "hash": "5CA3A822F72C6AE5", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_012", "hash": "9F4EFA4A1DC6584D", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_013", "hash": "24714C7BEDD1BB2C", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_LINUVANU_000_014", "hash": "1C18D1E2C1B91337", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SYSTEM_000_100", "hash": "427020424D8B4C31", "target": "" },
+    { "gameKey": "quest/022/BanVan008_02225#TEXT_BANVAN008_02225_SYSTEM_100_100", "hash": "61D6C0A8C47669AF", "target": "" }
+  ]
+}

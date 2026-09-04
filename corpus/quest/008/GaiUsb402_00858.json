@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb402_00858",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "" }
+  ]
+}

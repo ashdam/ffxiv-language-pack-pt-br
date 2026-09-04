@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/003/ClsThm021_00346",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_00", "hash": "ECBFACEE111EBF28", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_01", "hash": "59DB3378045ABD65", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_02", "hash": "B475B058733BB144", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_03", "hash": "221CA82B2429D9F4", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_00", "hash": "3D66A2C2DD4D68A8", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_01", "hash": "A7798E5D3996046C", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_02", "hash": "EEDD085875E39791", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_03", "hash": "11991E44D834E775", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_1", "hash": "484A931DA761D45F", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_2", "hash": "8F2C65B8AF6BE43A", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_3", "hash": "A2EC68CAE880AF90", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_60", "hash": "6B80BA8FE0631A8B", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_62", "hash": "8CCA8C9427FA637C", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_63", "hash": "E5AB26CBAEC5558C", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_64", "hash": "4AEA8DE08F070EA8", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_65", "hash": "7A088EBAD8EF36FD", "target": "" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SYSTEM_000_100", "hash": "F68FE51B63C62742", "target": "" }
+  ]
+}

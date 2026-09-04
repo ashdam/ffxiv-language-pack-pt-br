@@ -1,0 +1,11 @@
+{
+  "conversation": "custom/002/CmnGscGilToCoin_00240",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "" }
+  ]
+}

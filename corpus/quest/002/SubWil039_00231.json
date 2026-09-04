@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/002/SubWil039_00231",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_SEQ_00", "hash": "966DFE360A3F4D4C", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_SEQ_01", "hash": "02A0D4FC0A12CAA7", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_SEQ_02", "hash": "B39DB86F93E6D3F0", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_SEQ_03", "hash": "FED4E517912CA997", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_SEQ_04", "hash": "294878158D781056", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_TODO_00", "hash": "F7451BDDC3405CA9", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_TODO_01", "hash": "E8462558485B2160", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_TODO_02", "hash": "6316CC9C10D3EE10", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_001", "hash": "D6D80B9193F5ED40", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_002", "hash": "5F66F6DB879A6C8E", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_003", "hash": "EF288AAC25661621", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_004", "hash": "6A6BC0A1B97164E4", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_CHOBO_007", "hash": "DAF848C524EB050D", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_POP_MESSAGE", "hash": "3DB7EF04DC0DCF19", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_TALK_SCENE00003_000", "hash": "42A8B1C818777B23", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_011", "hash": "14BC80EAB1D50CC1", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_012", "hash": "62F057C401809037", "target": "" },
+    { "gameKey": "quest/002/SubWil039_00231#TEXT_SUBWIL039_00231_IMME_013", "hash": "A939244104781AE9", "target": "" }
+  ]
+}

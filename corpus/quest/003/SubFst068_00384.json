@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/003/SubFst068_00384",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_00", "hash": "ECB415BDBE01C3D0", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_01", "hash": "D886F615276F3D16", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_02", "hash": "312C7C367CA8CEBD", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_03", "hash": "CD44DD03C2C736E5", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_00", "hash": "0EE8B7BE953C4055", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_01", "hash": "556A58E1A13B128D", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SYSTEM_100_000", "hash": "B1B05BA685D1FC2E", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_1", "hash": "6851ABAB1F1924DE", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_2", "hash": "2E717C42397D9CD4", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_3", "hash": "2B4915D7FFC61E66", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_11", "hash": "B3EF80DBE46C938C", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_12", "hash": "5C292D9B639DE9FE", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_13", "hash": "4F0C47EFB3678F84", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_31", "hash": "5E9DBF4BEC58C1B3", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_32", "hash": "3E9A164C062AB4EF", "target": "" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_21", "hash": "D59ABD83344ED5E8", "target": "" }
+  ]
+}

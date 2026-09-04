@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/000/SubFst001_00024",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_00", "hash": "2FD8BFB5A0C3BF1D", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_01", "hash": "A06E7A76F78A0E9D", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_02", "hash": "DB5455B624CC2C09", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_TODO_00", "hash": "B2EE3DAA35BC5BEA", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_1", "hash": "FA8CC52747EB48BD", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_2", "hash": "9C52FF8E4F3E495B", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_3", "hash": "E89851A7A0320665", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_4", "hash": "85B2B1786CD5DE26", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_5", "hash": "A78691F5A5414391", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_10", "hash": "2DA78489614DA698", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_11", "hash": "490B727BA4AC8BF1", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_12", "hash": "3775C49A209B087D", "target": "" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_13", "hash": "9AE97BC0BF50A9FA", "target": "" }
+  ]
+}

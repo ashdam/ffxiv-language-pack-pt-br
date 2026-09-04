@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/004/SubSea115_00412",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_00", "hash": "A56D0C8F3B1619BB", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_01", "hash": "4AADFB16E333BFD0", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_SEQ_02", "hash": "8B251AB402F4174F", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_TODO_00", "hash": "49BAD11244E137F5", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_1", "hash": "6025CC186D43D564", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_2", "hash": "09432B8CF4FAA8F5", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_3", "hash": "4898378E35A524B2", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_AHTBYRM_000_4", "hash": "E082327D81D90B5D", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_10", "hash": "5DB03D7C7C972F6A", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_11", "hash": "CB370CFF42B806FF", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_12", "hash": "75A9B671C839CFB8", "target": "" },
+    { "gameKey": "quest/004/SubSea115_00412#TEXT_SUBSEA115_00412_HALDBRODA_000_13", "hash": "421438C0EB886AEF", "target": "" }
+  ]
+}

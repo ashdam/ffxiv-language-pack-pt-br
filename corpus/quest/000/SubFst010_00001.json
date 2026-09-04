@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/000/SubFst010_00001",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "" }
+  ]
+}

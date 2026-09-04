@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/005/SubWil099_00531",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_00", "hash": "AB79F6CB75CF8875", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_01", "hash": "0B565334B8D7D139", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_02", "hash": "3F4DD5C2A7017A38", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_TODO_00", "hash": "6C8D1FC249A607DE", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_000", "hash": "B002767D03C1A3B2", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_001", "hash": "B754062FA769F364", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_002", "hash": "ACAAD4343381F7E3", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_010", "hash": "D08BBC5CDC0E20B6", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_011", "hash": "C555D7571A201BC2", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_012", "hash": "83419B7DBB7CEFA7", "target": "" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_013", "hash": "4C6925C4D460B9F4", "target": "" }
+  ]
+}

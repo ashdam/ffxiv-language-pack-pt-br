@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/022/BanGna301_02261",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "" }
+  ]
+}

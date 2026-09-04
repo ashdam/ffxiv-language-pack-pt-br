@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/009/GaiUsb903_00926",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_SEQ_00", "hash": "B28066D03FA14FED", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_SEQ_01", "hash": "C6DF40591DFC7D65", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_SEQ_02", "hash": "B954EB995D9B407E", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_SEQ_03", "hash": "9288FC108CA48255", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_SEQ_04", "hash": "7695A0E386CB0D3A", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_TODO_00", "hash": "B59E94CE93B852E4", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_TODO_01", "hash": "6D0E8C19C2241A5B", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_TODO_02", "hash": "09189C7112486DCA", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_000", "hash": "D044F7C20535E002", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_001", "hash": "6568F5500B8511AD", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_002", "hash": "445D31AA318E1CEB", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_DRILLEMONT_000_020", "hash": "E9E785640F685576", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_DRILLEMONT_000_021", "hash": "2325B2C8821F0236", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_DRILLEMONT_000_022", "hash": "43B9478B916910B1", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_DRILLEMONT_000_023", "hash": "E081117F7D61510D", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_030", "hash": "F893A285F324C468", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_031", "hash": "D8882A500015629A", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_032", "hash": "340BCADE829885B3", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_NIVIE_000_033", "hash": "E59141C9A0D5C69F", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_POP_MESSAGE_000", "hash": "BA793EC558572ACA", "target": "" },
+    { "gameKey": "quest/009/GaiUsb903_00926#TEXT_GAIUSB903_00926_ACCESS_MESSAGE", "hash": "BA4998E307CD8905", "target": "" }
+  ]
+}

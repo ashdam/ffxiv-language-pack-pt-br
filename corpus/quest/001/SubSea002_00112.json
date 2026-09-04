@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/001/SubSea002_00112",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SEQ_00", "hash": "06983473131E971B", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SEQ_01", "hash": "245B63E7FB679DEF", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SEQ_02", "hash": "5C9C8BB1A88C38AC", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SEQ_03", "hash": "89949A05D82FF560", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_TODO_00", "hash": "33011BE05E9E5168", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_TODO_01", "hash": "8D347E3CFE97C018", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_AHLDSKYF_000_0", "hash": "40E14691EC1E6692", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_AHLDSKYF_000_1", "hash": "E0212F3821C298C6", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_AHLDSKYF_000_2", "hash": "8E62107BAB455E15", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_GLAZRAEL_000_10", "hash": "6D8D212BF85AB4A6", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_GLAZRAEL_000_11", "hash": "E1DE20B1BD741DB5", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_GLAZRAEL_000_12", "hash": "A2FE9EC97E7FD473", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_SKAENRAEL_000_20", "hash": "10B957CCD9E15431", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_FRYDWYB_000_30", "hash": "08FDE4EE784F66BD", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_FRYDWYB_000_31", "hash": "D79A0A466DEB2519", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_FRYDWYB_000_32", "hash": "78FEE45F686927E4", "target": "" },
+    { "gameKey": "quest/001/SubSea002_00112#TEXT_SUBSEA002_00112_FRYDWYB_000_33", "hash": "7015EF7CB5005017", "target": "" }
+  ]
+}

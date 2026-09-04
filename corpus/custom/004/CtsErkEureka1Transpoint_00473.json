@@ -1,0 +1,11 @@
+{
+  "conversation": "custom/004/CtsErkEureka1Transpoint_00473",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUTITLE", "hash": "460BCB32AD51BFE2", "target": "" },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_DESTINATION", "hash": "D98E719E29FB0D4A", "target": "" },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUCANCEL", "hash": "D0C8C40FA42B2037", "target": "" },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_000", "hash": "5C9DD3299DA16A09", "target": "" },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_001", "hash": "DAF1256204DBC1B6", "target": "" }
+  ]
+}

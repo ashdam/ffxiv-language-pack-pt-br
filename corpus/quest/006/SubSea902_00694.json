@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/006/SubSea902_00694",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_00", "hash": "58B6955697B22B20", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_01", "hash": "AD10650EB7CD3642", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_02", "hash": "44E108462660F902", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_03", "hash": "756214CAB39CCF8C", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_00", "hash": "83C666F33D015CA6", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_01", "hash": "E6BE1C3BBE961CCE", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_1", "hash": "8202653A0A9E6D81", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_2", "hash": "CC8311856EB1B282", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_3", "hash": "592F0E7DAF64591C", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_4", "hash": "1E49FE8B3989FCA9", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_5", "hash": "958821C0BFF0B53F", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SYS_000_6", "hash": "AE535A2A84C9145D", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_10", "hash": "5F039B165CD670C0", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_15", "hash": "0FC61E9F4BEA3664", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_20", "hash": "A89E79DB186ACA24", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_25", "hash": "9DC35BAA408FC765", "target": "" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_26", "hash": "D5A35C8B87BD9B12", "target": "" }
+  ]
+}

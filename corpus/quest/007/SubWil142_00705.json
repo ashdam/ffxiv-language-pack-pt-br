@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/007/SubWil142_00705",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SEQ_00", "hash": "7570AF87A85B3A57", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SEQ_01", "hash": "4BFAA4937579355F", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SEQ_02", "hash": "FD27BC4A9B68935F", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SEQ_03", "hash": "16DD7037A1D52604", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_TODO_00", "hash": "59602700F9568CA7", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_TODO_01", "hash": "D6B20999B8257425", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_NEDRICK_050_000", "hash": "FC0D63C5F55693F6", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_NEDRICK_051_000", "hash": "0407E509155E09D0", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_NEDRICK_052_000", "hash": "03FF195D1EEDAAE8", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_060_000", "hash": "0BC947F0E142C71A", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_000_000", "hash": "ACBEF0D36BE6076E", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_000_001", "hash": "DBA9244C7A1DE7E8", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_000_002", "hash": "EE75F7505C1E9F41", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_000_003", "hash": "845485ACB98231F8", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_ROWENA_000_004", "hash": "546FAF91E0CBB356", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_GEROLT_000_010", "hash": "D1D05A3B33E8EED3", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_GEROLT_000_011", "hash": "AAB6C45F4F5289BB", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_GEROLT_000_012", "hash": "FBF88DEFEA3D3EB4", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_GEROLT_000_013", "hash": "E96D8AD023208F66", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_GEROLT_000_014", "hash": "18A79E289C30AF6C", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SYSTEM_000_020", "hash": "6460FEEC99401498", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SYSTEM_000_021", "hash": "765ED50D4BEA255D", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SYSTEM_000_022", "hash": "BD354B1278977A68", "target": "" },
+    { "gameKey": "quest/007/SubWil142_00705#TEXT_SUBWIL142_00705_SYSTEM_000_023", "hash": "EA804F2B43C16F01", "target": "" }
+  ]
+}

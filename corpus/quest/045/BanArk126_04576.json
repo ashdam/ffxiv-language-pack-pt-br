@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/045/BanArk126_04576",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_SEQ_00", "hash": "98F99806E05C3C54", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_TODO_00", "hash": "FA44B116F3B770AC", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_TODO_01", "hash": "B2173AFBE54AB0E5", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_TODO_02", "hash": "67F4853C6E159761", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_TODO_03", "hash": "F0AC5ED917C0B58B", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_001", "hash": "CAEA42C011EFC000", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_002", "hash": "0169E525B07A1A6D", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_003", "hash": "D37B8854CD352BFE", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_010", "hash": "0E49F766727D74B0", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_011", "hash": "6689B00AC9424C46", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_012", "hash": "F960853496D07DCE", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_020", "hash": "9EE4A85008AF1142", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_030", "hash": "34A740A7C06DB711", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_031", "hash": "BA01D0B500A14274", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_032", "hash": "E8BDB9EA3D16425D", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_DELIVERER04576_000_033", "hash": "F804348518B1A2A9", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_040", "hash": "8085CB88F4F540D0", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_041", "hash": "9D4C85E5658E00AE", "target": "" },
+    { "gameKey": "quest/045/BanArk126_04576#TEXT_BANARK126_04576_MARU_000_042", "hash": "21A46A661C881044", "target": "" }
+  ]
+}

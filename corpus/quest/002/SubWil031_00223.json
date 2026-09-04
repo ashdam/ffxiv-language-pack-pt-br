@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/002/SubWil031_00223",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_00", "hash": "D6854D2131DD57DB", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_01", "hash": "42BCF7999A9ADE55", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_02", "hash": "F9E38CF0BA8BB562", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_03", "hash": "01AC7A28583A1F98", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_00", "hash": "60665BC668971BA6", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_01", "hash": "0096C180BE3D13BC", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_001", "hash": "87D484EF4A59D1AB", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_002", "hash": "09563F582FB2846A", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_003", "hash": "F187C76F13994F8A", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_011", "hash": "4DB45EDA6728AE89", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_012", "hash": "EE1311C57236E33B", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_013", "hash": "6B7B52112576D3CA", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_014", "hash": "6B69EC9D1B5D7705", "target": "" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_015", "hash": "A4BEC4C79F9A55A3", "target": "" }
+  ]
+}

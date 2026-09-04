@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/006/SubWil110_00618",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_SEQ_00", "hash": "A468E436BEA5482D", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_SEQ_01", "hash": "5E142597D44BB466", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_SEQ_02", "hash": "E0077DE25839921C", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_SEQ_03", "hash": "FBCA13E06560909B", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_TODO_00", "hash": "ECB8742DE6406E7B", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_TODO_01", "hash": "915A9D3E9B981598", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_1", "hash": "CD911601118A9240", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_2", "hash": "3CB77EFB84BF08D3", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_3", "hash": "3DE8F33B9B65F5E7", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_4", "hash": "05F52FCA8CFA74D5", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_5", "hash": "B504107466CFEEC8", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_6", "hash": "9A09C343B5FFC314", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_010", "hash": "EAAD8B06C6B8E218", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_011", "hash": "E46EB3E48E49543A", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_012", "hash": "327FA3EBD7FC7F6F", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_013", "hash": "FA672C2EE4A28830", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_014", "hash": "1507F7CBE7619C1B", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_ISEMBARD_000_015", "hash": "BFB2A940EC40D0B9", "target": "" },
+    { "gameKey": "quest/006/SubWil110_00618#TEXT_SUBWIL110_00618_POP_MESSAGE", "hash": "FA2B91C204DC7D25", "target": "" }
+  ]
+}

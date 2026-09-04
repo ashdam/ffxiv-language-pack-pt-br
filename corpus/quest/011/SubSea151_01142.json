@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/011/SubSea151_01142",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "" }
+  ]
+}

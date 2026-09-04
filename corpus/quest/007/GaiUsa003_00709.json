@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/007/GaiUsa003_00709",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_SEQ_00", "hash": "F6C98DFA57FFFA97", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_SEQ_01", "hash": "6EDBF672628738ED", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_SEQ_02", "hash": "4F4F3A20F584C421", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_SEQ_03", "hash": "B906EC65A760F7B9", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_TODO_00", "hash": "A43751D2FFAFD5FC", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_TODO_01", "hash": "CDC63F044DA4B750", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_TODO_02", "hash": "C023DAE69383CE8F", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_TODO_03", "hash": "D637CAF28DDB0100", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_ROLFE_000_000", "hash": "2C0783CE7253F554", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_ROLFE_000_001", "hash": "A436706A85B65417", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_YSABEL_000_010", "hash": "8E99968930FF9A68", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_YSABEL_000_011", "hash": "18D6A856E5DD837D", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_BLAISETTE_000_015", "hash": "72591F9C0BB68B65", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_MONNE_000_020", "hash": "BE395B0CEE6F6ED5", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_MONNE_000_021", "hash": "6554A91F2E8F7B16", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_ROLFE_000_030", "hash": "7F1E55D3D5FFE5F1", "target": "" },
+    { "gameKey": "quest/007/GaiUsa003_00709#TEXT_GAIUSA003_00709_ROLFE_000_031", "hash": "304D80E68CB78418", "target": "" }
+  ]
+}

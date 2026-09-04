@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/039/BanDwa122_03923",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_SEQ_00", "hash": "5EBAE173F1485B73", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_TODO_00", "hash": "5228C1A7C9CBA4DF", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_TODO_01", "hash": "7A945F5238490CF1", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_TODO_02", "hash": "219D65DEFEAECD25", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_TODO_03", "hash": "BA5A3B79873E40D5", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_REGITT_000_000", "hash": "F097C1BAED080BAA", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_REGITT_000_001", "hash": "A56D6637670DAE40", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_REGITT_000_002", "hash": "F8A0B75679084DDE", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_WAMUTT_000_010", "hash": "04BD78F435F52F3C", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_WAMUTT_000_011", "hash": "C2D75E2DAA2CA023", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_WAMUTT_000_020", "hash": "9F0F47D315B86A44", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_SYSTEM_000_021", "hash": "8B0DCBE780CF625B", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_AUDIENCE03923_000_030", "hash": "E6AD16C229B96086", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_AUDIENCE03923_000_040", "hash": "995B44BA9B815739", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_DWARF03923_000_041", "hash": "7FA0806ADED7D27E", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_REGITT_000_050", "hash": "57B49FD856BDB06F", "target": "" },
+    { "gameKey": "quest/039/BanDwa122_03923#TEXT_BANDWA122_03923_REGITT_000_051", "hash": "86DCDEE8F25C6A46", "target": "" }
+  ]
+}

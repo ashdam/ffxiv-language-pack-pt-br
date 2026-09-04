@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/010/GaiUsc906_01041",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_002", "hash": "DCE7269278EDA131", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_003", "hash": "23B38C2806B2344D", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_010", "hash": "11E685DF134A29DF", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_011", "hash": "9E462B2D39BCC655", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_012", "hash": "BE32420C9B845134", "target": "" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_POP_MESSAGE_000", "hash": "105EACBA779B22E2", "target": "" }
+  ]
+}

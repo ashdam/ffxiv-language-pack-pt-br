@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/001/SubFst034_00128",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_SEQ_00", "hash": "10DC338F87CFF8C1", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_SEQ_01", "hash": "E55EAF7B5762E130", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_SEQ_02", "hash": "D6E7583F0FEBB2D2", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_SEQ_03", "hash": "F4BB5297CF1BB662", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_TODO_00", "hash": "A92218FD7CF9E946", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_TODO_01", "hash": "706C1A6A477E305F", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_GALFRID_000_1", "hash": "4129713F084634B8", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_GALFRID_000_2", "hash": "DA6C30A0474AC83F", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_GALFRID_000_3", "hash": "11BA27F3C165CB1F", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_10", "hash": "9AB37F07E36F4C22", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_11", "hash": "E1D132C197610270", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_12", "hash": "DA6D94A38B51E845", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_13", "hash": "18B52EDAF94CE44F", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_14", "hash": "8B1BD2C07ED85F1A", "target": "" },
+    { "gameKey": "quest/001/SubFst034_00128#TEXT_SUBFST034_00128_MONRANGUIN_000_15", "hash": "4301CBC20E187157", "target": "" }
+  ]
+}

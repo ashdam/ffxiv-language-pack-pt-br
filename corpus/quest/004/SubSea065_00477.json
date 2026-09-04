@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/004/SubSea065_00477",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_00", "hash": "E9FF6DDA873437C0", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_01", "hash": "E28BC3D0207B6C54", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_0", "hash": "B6E4752D90262878", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_1", "hash": "806FC0263D960C87", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_2", "hash": "93F23CA79F6B7F37", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_3", "hash": "F73148D130E2E7E5", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_10", "hash": "BB881B4C3B0DBC82", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_11", "hash": "67CB9A9078832D06", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_12", "hash": "59CC555CB306C85A", "target": "" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_13", "hash": "57C21E594BE95EE3", "target": "" }
+  ]
+}

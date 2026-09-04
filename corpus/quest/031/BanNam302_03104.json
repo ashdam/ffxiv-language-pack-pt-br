@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/031/BanNam302_03104",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_SEQ_00", "hash": "6DC3E69BDEB31E9E", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_TODO_00", "hash": "715114300EA576B4", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_TODO_01", "hash": "2FA2872F1366A0DA", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_TODO_02", "hash": "1E8DE1CB5011A326", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_000", "hash": "78A567BCA13B1A12", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_001", "hash": "4144F632306AC27E", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_002", "hash": "CDB2867E5E45BB9A", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_GUARD03104_005", "hash": "90D75CA656DA4BE0", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_WORSHIPNAMAZUO03104_006", "hash": "0775EAAF24FA7CFC", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_SYSTEM_000_010", "hash": "AD2EBE7BA2A0A58F", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_GUARD03104_011", "hash": "F48E385FFB3ABDC0", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_GUARD03104_012", "hash": "997FB42A0D862116", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_SYSTEM_000_020", "hash": "E5D0BDF38D4EEDBF", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_WORSHIPNAMAZUO03104_000_021", "hash": "E1EBAA005947A72A", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_WORSHIPNAMAZUO03104_000_022", "hash": "F0F15A5C3BDD772A", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_GUARD03104_030", "hash": "C03391410D20752B", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_WORSHIPNAMAZUO03104_031", "hash": "4CBDEEC052EC9989", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_040", "hash": "BC0014E11D501C9E", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_100_040", "hash": "AAD285C585BACFB0", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_041", "hash": "BB8A843732D80767", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_KOFUINSEIGETSU_000_042", "hash": "7C76A16C141472A5", "target": "" },
+    { "gameKey": "quest/031/BanNam302_03104#TEXT_BANNAM302_03104_SAYTODO_000_050", "hash": "6A4A61A4B41C4AD2", "target": "" }
+  ]
+}

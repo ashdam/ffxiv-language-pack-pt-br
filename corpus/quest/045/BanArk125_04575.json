@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/045/BanArk125_04575",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_SEQ_00", "hash": "3F0B018AF38388AB", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_TODO_00", "hash": "A003F3F1A2E8AAEA", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_TODO_01", "hash": "2DC0391DBF9EDEC2", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_TODO_02", "hash": "758027870ABA9851", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_TODO_03", "hash": "CB9411127C5D9662", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_MARU_000_001", "hash": "F5386BFC6C21E144", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_MARU_000_002", "hash": "2BDC12612F7A8B6E", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_MARU_000_003", "hash": "769111212386008F", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_DELIVERER04575_000_010", "hash": "81BC890F554AD20E", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_DELIVERER04575_000_011", "hash": "797B191A9533EAE1", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_DELIVERER04575_000_014", "hash": "A8F11AE958841AE7", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_RADIANTSOLDIER04575_000_030", "hash": "9E8D1B162198C5E8", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_RADIANTSOLDIER04575_000_031", "hash": "08FFCBEB30EB349A", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_RADIANTSOLDIER04575_000_032", "hash": "6379E607EC4815D9", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_DELIVERER04575_000_035", "hash": "AB78DA6FB4D147B1", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_RADIANTSOLDIER04575_000_034", "hash": "6020C797A07F2658", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_MARU_000_040", "hash": "68CEC54E88E7EAD7", "target": "" },
+    { "gameKey": "quest/045/BanArk125_04575#TEXT_BANARK125_04575_MARU_000_041", "hash": "CFB6FC546E4E8B9E", "target": "" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/001/SubFst043_00199",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "" }
+  ]
+}
