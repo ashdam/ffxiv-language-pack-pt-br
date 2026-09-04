@@ -1,0 +1,43 @@
+{
+  // How each speaker addresses the player, and other characters where it matters. See docs/glossary.md.
+  //
+  // KEYS are the normalised speaker token: letters and digits only, upper-cased, exactly as
+  // NpcResolver.Normalise produces it and exactly as in gender-overrides.json.
+  //
+  // player      the address form this language uses for the player. Name the forms this language
+  //             distinguishes and decide them from the English first; the French and the Japanese
+  //             inform, they do not decide.
+  // others      { "TOKEN": form } for another character, where it matters.
+  // confidence  high and medium are measured against the corpus, with the reason in why and the
+  //             rows in examples; low has no rows cited and is followed until the scenes contradict it.
+  // why         the evidence.
+  // voice       the speaker's tic: an accent, a catchphrase, a way of naming themselves.
+  // examples    gameKeys of the rows the decision rests on.
+  //
+  // The interface has no speaker and inherits nobody's register.
+  // player for this language is «você» or «o senhor / a senhora». Never «tu»; «vós» only where the
+  // entry's voice says so (Urianger).
+  "register": {
+    "ALPHINAUD": { "player": "você", "others": { "ALISAIE": "você", "HAURCHEFANT": "o senhor" }, "confidence": "low", "why": "Calco do espanhol (tú). Fala formal e polida, mas trata o jogador como igual.", "voice": "Culto, frases longas, nunca gíria.", "examples": [] },
+    "ALISAIE": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Direta, impaciente com o irmão.", "examples": [] },
+    "MINFILIA": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú). A Antecedente fala ao jogador como a um companheiro.", "voice": "Calma, solene quando fala do Eco.", "examples": [] },
+    "THANCRED": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Galanteador, irônico.", "examples": [] },
+    "YSHTOLA": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Seca, precisa, ligeiramente sarcástica.", "examples": [] },
+    "YDA": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Entusiasta, informal.", "examples": [] },
+    "PAPALYMO": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Pedante, repreende Yda.", "examples": [] },
+    "URIANGER": { "player": "vós", "confidence": "medium", "why": "O inglês lhe dá thee/thou; o único registro brasileiro que lê igual é «vós» com a segunda do plural. Só ele.", "voice": "Arcaico em léxico, sintaxe e pronome: «vós sois», «tende», «vosso regresso».", "examples": [] },
+    "TATARU": { "player": "o senhor / a senhora", "confidence": "low", "why": "Calco do espanhol (usted, alta). Recepcionista dos Herdeiros, deferente com todos.", "voice": "Solícita, diminutivos.", "examples": [] },
+    "CID": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú, alta).", "voice": "Engenheiro prático, sem cerimônia.", "examples": [] },
+    "KANESENNA": { "player": "o senhor / a senhora", "confidence": "low", "why": "Calco do espanhol (usted, alta). A Vidente-Mor fala com solenidade.", "voice": "Litúrgica, serena.", "examples": [] },
+    "MOMODI": { "player": "o senhor / a senhora", "confidence": "low", "why": "Calco do espanhol (usted). Dona da taverna, trata o cliente com cortesia comercial.", "voice": "Falante, calorosa.", "examples": [] },
+    "BADERON": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Taverneiro marítimo, gíria de porto.", "examples": [] },
+    "MIOUNNE": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Maternal.", "examples": [] },
+    "MERLWYB": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Almirante: seca, autoritária.", "examples": [] },
+    "HAURCHEFANT": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Efusivo, cavalheiresco.", "examples": [] },
+    "AYMERIC": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú, alta).", "voice": "Cortês, formal no léxico, próximo no pronome.", "examples": [] },
+    "WEDGE": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Tímido, gaguejo ocasional.", "examples": [] },
+    "BIGGS": { "player": "você", "confidence": "low", "why": "Calco do espanhol.", "voice": "Bonachão.", "examples": [] },
+    "RAUBAHN": { "player": "", "confidence": "undecided", "why": "O espanhol não o decidiu. Medir nas cenas: general a um aventureiro que respeita.", "voice": "Militar, direto.", "examples": [] },
+    "NANAMO": { "player": "", "confidence": "undecided", "why": "Sultana; é tratada por «Vossa Majestade». Como ela trata o jogador, medir nas cenas.", "voice": "Régia, terna em privado.", "examples": [] }
+  }
+}

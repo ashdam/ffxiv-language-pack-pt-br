@@ -1,0 +1,1173 @@
+{
+  "_comment": [
+    "Hand-decided terms, on top of the generated corpus-en/glossary.json. See docs/glossary.md.",
+    "",
+    "protect true  = reproduce verbatim, leave the English",
+    "protect false = translate it, and the column named by the language code of pack.json is the agreed rendering used everywhere",
+    "",
+    "Seeded from the Spanish repository with its protect: true decisions only: what stays English is a fact about the game (Duty Finder instances, item names, jobs, interface labels, map names), not about any one language. Renderings, notes and protect: false terms are this language's own to decide."
+  ],
+  "terms": [
+    {
+      "en": "Featherfall",
+      "fr": "Tombeplume",
+      "ja": "フェザーフォール商業区",
+      "protect": true
+    },
+    {
+      "en": "The New Nest",
+      "fr": "Le Nichoir",
+      "ja": "ニューネスト居住区",
+      "protect": true
+    },
+    {
+      "en": "Risensong Quarter",
+      "fr": "Est du Nouveau Refrain",
+      "ja": "リズンソング文化区東",
+      "protect": true
+    },
+    {
+      "en": "Carline Canopy",
+      "fr": "Aux Feuilles de carline",
+      "ja": "カーラインカフェ",
+      "protect": true
+    },
+    {
+      "en": "spongoi",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "the Firmament",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "the Abacus",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Odin",
+      "fr": "Odin",
+      "ja": "オーディン",
+      "protect": true
+    },
+    {
+      "en": "MGP",
+      "fr": "PGS",
+      "ja": "MGP",
+      "protect": true
+    },
+    {
+      "en": "Cactpot",
+      "fr": "Cactpot",
+      "ja": "カクポ",
+      "protect": true
+    },
+    {
+      "en": "GATE",
+      "fr": "GATE",
+      "ja": "GATE",
+      "protect": true
+    },
+    {
+      "en": "brightash",
+      "fr": "boule puante",
+      "ja": "特製煙玉",
+      "protect": true
+    },
+    {
+      "en": "linkshell",
+      "fr": "linkshell",
+      "ja": "リンクシェル",
+      "protect": true
+    },
+    {
+      "en": "Megaflare",
+      "fr": "Megabrasier",
+      "ja": "メガフレア",
+      "protect": true
+    },
+    {
+      "en": "Earthenshire",
+      "fr": "La Fournée",
+      "ja": "アースンシャイア",
+      "protect": true
+    },
+    {
+      "en": "Ilyon Asoh",
+      "fr": "Ilyon Asoh",
+      "ja": "イヨンアソの家々",
+      "protect": true
+    },
+    {
+      "en": "achiote",
+      "fr": "roucou",
+      "ja": "ベニノキの種",
+      "protect": true
+    },
+    {
+      "en": "Maya",
+      "fr": "Maya",
+      "ja": "マイア",
+      "protect": true
+    },
+    {
+      "en": "Meso Terminal",
+      "fr": "Mésoterminal",
+      "ja": "メインターミナル",
+      "protect": true
+    },
+    {
+      "en": "Everkeep",
+      "fr": "Gardienne de l'Éternité",
+      "ja": "エバーキープ",
+      "protect": true
+    },
+    {
+      "en": "electrope",
+      "fr": "électrope",
+      "ja": "エレクトロープ",
+      "protect": true
+    },
+    {
+      "en": "Elene'shpya",
+      "fr": "Elene'shpya",
+      "ja": "エレネッシパ",
+      "protect": true
+    },
+    {
+      "en": "Alexandria",
+      "fr": "Néo-Alexandrie",
+      "ja": "新生アレクサンドリア連王国",
+      "protect": true
+    },
+    {
+      "en": "Sphene",
+      "fr": "Sphene",
+      "ja": "スフェーン",
+      "protect": true
+    },
+    {
+      "en": "Lakeland",
+      "fr": "Grand-Lac",
+      "ja": "レイクランド",
+      "protect": true
+    },
+    {
+      "en": "Skydeep Cenote",
+      "fr": "cénote des Cieux infinis",
+      "ja": "天深きセノーテ",
+      "protect": true
+    },
+    {
+      "en": "Shaaloani",
+      "fr": "Shaaloani",
+      "ja": "シャーローニ荒野",
+      "protect": true
+    },
+    {
+      "en": "Yyasulani",
+      "fr": "Yyasulani",
+      "ja": "ヤースラニ荒野",
+      "protect": true
+    },
+    {
+      "en": "ceruleum",
+      "fr": "céruleum",
+      "ja": "青燐水",
+      "protect": true
+    },
+    {
+      "en": "sabotender",
+      "fr": "pampa",
+      "ja": "サボテンダー",
+      "protect": true
+    },
+    {
+      "en": "cactuar",
+      "fr": "pampa",
+      "ja": "サボテンダー",
+      "protect": true
+    },
+    {
+      "en": "tural vidraal",
+      "fr": "Tural vidraal",
+      "ja": "トラルヴィドラール",
+      "protect": true
+    },
+    {
+      "en": "Ihih'hana",
+      "fr": "Ihih'hana",
+      "ja": "イヒーハナ祭",
+      "protect": true
+    },
+    {
+      "en": "linkpearl",
+      "fr": "linkperle",
+      "ja": "リンクパール",
+      "protect": true
+    },
+    {
+      "en": "Bakool Ja Ja the Mighty",
+      "fr": "Bakool Ja Ja, tête guerrière",
+      "ja": "戦のバクージャジャ",
+      "protect": true
+    },
+    {
+      "en": "the Studium",
+      "fr": "académie de magie de Sharlayan",
+      "ja": "シャーレアン魔法大学",
+      "protect": true
+    },
+    {
+      "en": "Lamaty'i",
+      "fr": "Lamaty'i",
+      "ja": "ラマチ",
+      "protect": true
+    },
+    {
+      "en": "Vollok Shoonsa",
+      "fr": "Palais de Vollok Shoonsa",
+      "ja": "ヴォロク連王宮",
+      "protect": true
+    },
+    {
+      "en": "Bowl of Embers",
+      "fr": "Cratère des tisons",
+      "ja": "炎帝祭跡",
+      "protect": true
+    },
+    {
+      "en": "Yok Huy",
+      "fr": "Yok Huy",
+      "ja": "ヨカフイ族",
+      "protect": true
+    },
+    {
+      "en": "Worqor Zormor",
+      "fr": "Worqor Zormor",
+      "ja": "ウォーコー・ゾーモー",
+      "protect": true
+    },
+    {
+      "en": "Xak Tural",
+      "fr": "Xak Tural",
+      "ja": "サカ・トラル",
+      "protect": true
+    },
+    {
+      "en": "rroneek",
+      "fr": "rroneek",
+      "ja": "ロネーク",
+      "protect": true
+    },
+    {
+      "en": "punutiy",
+      "fr": "punutiy",
+      "ja": "プヌティー",
+      "protect": true
+    },
+    {
+      "en": "Pelu",
+      "fr": "pelupelu",
+      "ja": "ペルペル族",
+      "protect": true
+    },
+    {
+      "en": "Boonewa",
+      "fr": "Boonewa",
+      "ja": "ブネワ",
+      "protect": true
+    },
+    {
+      "en": "Gurfurlur",
+      "fr": "Gurfurlur",
+      "ja": "グーフールー",
+      "protect": true
+    },
+    {
+      "en": "Vorporlor",
+      "fr": "Vorporlor",
+      "ja": "ヴォーポーロー",
+      "protect": true
+    },
+    {
+      "en": "Zereel Ja",
+      "fr": "Zereel Ja",
+      "ja": "ゼレージャ",
+      "protect": true
+    },
+    {
+      "en": "Mamook",
+      "fr": "Mamook",
+      "ja": "マムーク",
+      "protect": true
+    },
+    {
+      "en": "Ja Tiika",
+      "fr": "Ja Tiika",
+      "ja": "ジャティーカ",
+      "protect": true
+    },
+    {
+      "en": "ibruq",
+      "fr": "ibruq",
+      "ja": "イブルク",
+      "protect": true
+    },
+    {
+      "en": "najool",
+      "fr": "najool",
+      "ja": "ナジョール",
+      "protect": true
+    },
+    {
+      "en": "Xbr'aal",
+      "fr": "Xbr'aal",
+      "ja": "シュバラール族",
+      "protect": true
+    },
+    {
+      "en": "Xbr'aax Rax",
+      "fr": "chef du village des Xbr'aal",
+      "ja": "族長",
+      "protect": true
+    },
+    {
+      "en": "xibruq pibil",
+      "fr": "xibruq pibil",
+      "ja": "シャブルク・ピビル",
+      "protect": true
+    },
+    {
+      "en": "Valigarmanda",
+      "fr": "Valigarmanda",
+      "ja": "ヴァリガルマンダ",
+      "protect": true
+    },
+    {
+      "en": "Zurmurwur",
+      "fr": "Zurmurwur",
+      "ja": "ズームーウー",
+      "protect": true
+    },
+    {
+      "en": "Ketenramm",
+      "fr": "Ketenramm",
+      "ja": "ケテンラム",
+      "protect": true
+    },
+    {
+      "en": "Cahciua",
+      "fr": "Cahciua",
+      "ja": "カフキワ",
+      "protect": true
+    },
+    {
+      "en": "Urqopacha",
+      "fr": "Urqopacha",
+      "ja": "オルコ・パチャ",
+      "protect": true
+    },
+    {
+      "en": "Worqor Lar Dor",
+      "fr": "Worqor Lar Dor",
+      "ja": "ウォーコー・ラァ・ドー",
+      "protect": true
+    },
+    {
+      "en": "Yak T'el",
+      "fr": "Yak T'el",
+      "ja": "ヤクテル樹海",
+      "protect": true
+    },
+    {
+      "en": "Wuk Evu",
+      "fr": "Wuk Evu",
+      "ja": "ウケブ",
+      "protect": true
+    },
+    {
+      "en": "Oblivion",
+      "fr": "(generated glossary is WRONG here)",
+      "ja": "オブリビオン",
+      "protect": true
+    },
+    {
+      "en": "Ethos",
+      "fr": "éthos",
+      "ja": "エートス",
+      "protect": true
+    },
+    {
+      "en": "Enuo",
+      "fr": "Énuo",
+      "ja": "エヌオー",
+      "protect": true
+    },
+    {
+      "en": "Zodiark",
+      "fr": "Zordiarche",
+      "ja": "ゾディアーク",
+      "protect": true
+    },
+    {
+      "en": "Amaurot",
+      "fr": "Amaurote",
+      "ja": "アーモロート",
+      "protect": true
+    },
+    {
+      "en": "Etheirys",
+      "fr": "Ætherys",
+      "ja": "アーテリス",
+      "protect": true
+    },
+    {
+      "en": "Origenics",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Free Company",
+      "fr": "compagnie libre",
+      "ja": "フリーカンパニー",
+      "protect": true
+    },
+    {
+      "en": "Triple Triad",
+      "fr": "Triple Triade",
+      "ja": "トリプルトライアド",
+      "protect": true
+    },
+    {
+      "en": "guildleve",
+      "fr": "mandat de guilde",
+      "ja": "ギルドリーヴ",
+      "protect": true
+    },
+    {
+      "en": "Temple of the Fist",
+      "fr": "Temple du Poing",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Gobroller",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "khatun",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "the Drowning Wench",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Bardam's Mettle",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Athenaeum",
+      "fr": "Saint-Guenriol",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Centurio Seals",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Elysion",
+      "fr": "Élysée",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Propylaion",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Mount Rokkon",
+      "fr": "Mont Rokkon",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Gajasura",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "akasa",
+      "fr": "akasha",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Alzadaal's Legacy",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "tonberry",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "ovoo",
+      "fr": "terre immaculée",
+      "ja": "オボー",
+      "protect": true
+    },
+    {
+      "en": "chuluu",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Karash",
+      "fr": "",
+      "ja": "原初の魂",
+      "protect": true
+    },
+    {
+      "en": "bakufu",
+      "fr": "bakufu",
+      "ja": "幕府",
+      "protect": true
+    },
+    {
+      "en": "ijin",
+      "fr": "",
+      "ja": "異人",
+      "protect": true
+    },
+    {
+      "en": "Irminsul",
+      "fr": "Irminsul",
+      "ja": "イルミンスール",
+      "protect": true
+    },
+    {
+      "en": "the Ravel",
+      "fr": "le sanctuaire",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "eikon",
+      "fr": "Primordial",
+      "ja": "蛮神",
+      "protect": true
+    },
+    {
+      "en": "magitek",
+      "fr": "magitek",
+      "ja": "魔導",
+      "protect": true
+    },
+    {
+      "en": "Viis",
+      "fr": "Viis",
+      "ja": "ヴィース",
+      "protect": true
+    },
+    {
+      "en": "the Copied Factory",
+      "fr": "La réplique de l'usine désaffectée",
+      "ja": "複製サレタ工場廃墟",
+      "protect": true
+    },
+    {
+      "en": "the Puppets' Bunker",
+      "fr": "La base militaire des Pantins",
+      "ja": "人形タチノ軍事基地",
+      "protect": true
+    },
+    {
+      "en": "YoRHa",
+      "fr": "YoRHa",
+      "ja": "ヨルハ",
+      "protect": true
+    },
+    {
+      "en": "pod",
+      "fr": "pod",
+      "ja": "ポッド",
+      "protect": true
+    },
+    {
+      "en": "Abyssos",
+      "fr": "le Purgatoire",
+      "ja": "煉獄",
+      "protect": true
+    },
+    {
+      "en": "Athena",
+      "fr": "Athéna",
+      "ja": "アテナ",
+      "protect": true
+    },
+    {
+      "en": "Dimensional Blade",
+      "fr": "lame dimensionnelle",
+      "ja": "次元断",
+      "protect": true
+    },
+    {
+      "en": "mammet",
+      "fr": "automate",
+      "ja": "魔法人形",
+      "protect": true
+    },
+    {
+      "en": "silkie",
+      "fr": "Silkie",
+      "ja": "シルキー",
+      "protect": true
+    },
+    {
+      "en": "Kugane",
+      "fr": "Kugane",
+      "ja": "クガネ",
+      "protect": true
+    },
+    {
+      "en": "biwa",
+      "fr": "biwa",
+      "ja": "琵琶",
+      "protect": true
+    },
+    {
+      "en": "bushido",
+      "fr": "bushido",
+      "ja": "武士道",
+      "protect": true
+    },
+    {
+      "en": "ninjutsu",
+      "fr": "ninjutsu",
+      "ja": "忍術",
+      "protect": true
+    },
+    {
+      "en": "dogu",
+      "fr": "dogu",
+      "ja": "土偶",
+      "protect": true
+    },
+    {
+      "en": "chochin",
+      "fr": "chochin",
+      "ja": "提灯",
+      "protect": true
+    },
+    {
+      "en": "nue",
+      "fr": "nue",
+      "ja": "鵺",
+      "protect": true
+    },
+    {
+      "en": "Manusya",
+      "fr": "Manusya",
+      "ja": "マヌシャ",
+      "protect": true
+    },
+    {
+      "en": "Pandæmonium",
+      "fr": "Pandæmonium",
+      "ja": "パンデモニウム",
+      "protect": true
+    },
+    {
+      "en": "Shojo Temple",
+      "fr": "Shôjôin",
+      "ja": "聖浄院",
+      "protect": true
+    },
+    {
+      "en": "Demonsgate",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Crumbling Bridge",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Palace Square",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Garamsythe Waterway",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Sil'dihn Subterrane",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Deltascape",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Furnace",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Genesis Engine",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Serenity",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Spire Ravel",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Kingsloam",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Boyahda Tree",
+      "fr": "l'Arbre de Boyahda",
+      "ja": "ボヤーダ樹",
+      "protect": true
+    },
+    {
+      "en": "the Master of Trials",
+      "fr": "le maître des épreuves",
+      "ja": "指導教官",
+      "protect": true
+    },
+    {
+      "en": "Esuna",
+      "fr": "Esuna",
+      "ja": "エスナ",
+      "protect": true
+    },
+    {
+      "en": "Fenrir",
+      "fr": "Fenrir",
+      "ja": "フェンリル",
+      "protect": true
+    },
+    {
+      "en": "Altana",
+      "fr": "Déesse",
+      "ja": "女神様",
+      "protect": true
+    },
+    {
+      "en": "Hraesvelgr",
+      "fr": "dragon sacré",
+      "ja": "フレースヴェルグ",
+      "protect": true
+    },
+    {
+      "en": "Loghrif",
+      "fr": "Loghrif",
+      "ja": "ログリフ",
+      "protect": true
+    },
+    {
+      "en": "viper",
+      "fr": "rôdeur vipère",
+      "ja": "ヴァイパー",
+      "protect": true
+    },
+    {
+      "en": "the Quicksand",
+      "fr": "Les Sables mouvants",
+      "ja": "クイックサンド",
+      "protect": true
+    },
+    {
+      "en": "Witchdrop",
+      "fr": "Gouffre des hérétiques",
+      "ja": "ウィッチドロップ",
+      "protect": true
+    },
+    {
+      "en": "Silvertear",
+      "fr": "Pleurargent",
+      "ja": "銀泪",
+      "protect": true
+    },
+    {
+      "en": "the Enterprise",
+      "fr": "l'Enterprise",
+      "ja": "エンタープライズ",
+      "protect": true
+    },
+    {
+      "en": "Tailfeather",
+      "fr": "La Penne",
+      "ja": "テイルフェザー",
+      "protect": true
+    },
+    {
+      "en": "Illuminati",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Aethernet",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "the Diadem",
+      "fr": "Le Diadème",
+      "ja": "ディアデム諸島",
+      "protect": true
+    },
+    {
+      "en": "Construct 6",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Eureka",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Talos",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Fashion Report",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "glamour prism",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Gold Saucer",
+      "fr": "Gold Saucer",
+      "ja": "Gold Saucer",
+      "protect": true
+    },
+    {
+      "en": "gunbreaker",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Lucavi",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "mission ceruleum voucher",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "The Ridorana Lighthouse",
+      "fr": "Le Phare de Ridorana",
+      "ja": "封じられた聖塔 リドルアナ",
+      "protect": true
+    },
+    {
+      "en": "usuginu octopus",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Pool of Tribute",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Kojin",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "Lupin",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "sekibune",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "unkiu",
+      "fr": "",
+      "ja": "",
+      "protect": true
+    },
+    {
+      "en": "kirkahryar",
+      "protect": true
+    },
+    {
+      "en": "Rorrlo Teh",
+      "fr": "rorrlo teh",
+      "ja": "ローロ・テー",
+      "protect": true
+    },
+    {
+      "en": "Palaka's Stand",
+      "fr": "Écoute des Palaka",
+      "ja": "パーラカの里",
+      "protect": true
+    },
+    {
+      "en": "Matanga",
+      "protect": true
+    },
+    {
+      "en": "PvP",
+      "fr": "JcJ",
+      "ja": "PvP",
+      "protect": true
+    },
+    {
+      "en": "Torgal",
+      "fr": "Talgor",
+      "ja": "トルガル",
+      "protect": true
+    },
+    {
+      "en": "Eikon",
+      "fr": "Primordial",
+      "ja": "召喚獣",
+      "protect": true
+    },
+    {
+      "en": "Doma",
+      "protect": true
+    },
+    {
+      "en": "Ala Mhigo",
+      "protect": true
+    },
+    {
+      "en": "Garlemald",
+      "protect": true
+    },
+    {
+      "en": "Yanxia",
+      "protect": true
+    },
+    {
+      "en": "Rhalgr",
+      "protect": true
+    },
+    {
+      "en": "Ivalice",
+      "protect": true
+    },
+    {
+      "en": "koban",
+      "protect": true
+    },
+    {
+      "en": "okiya",
+      "protect": true
+    },
+    {
+      "en": "emakimono",
+      "protect": true
+    },
+    {
+      "en": "taikomochi",
+      "protect": true
+    },
+    {
+      "en": "the Great Work",
+      "fr": "le Grand Œuvre",
+      "ja": "デミールの遺烈郷",
+      "protect": true
+    },
+    {
+      "_divider": "A SAGA E O MUNDO. Precedência: o Final Fantasy oficial em pt-BR (XV, VII Remake e Rebirth, XVI), depois o MMO brasileiro (World of Warcraft), depois o corpus entregue, depois o francês. Confiança: alta = precedente oficial ou forma única; média = segue o francês ou o espanhol entregue; baixa = cunhado, sem precedente."
+    },
+    { "en": "moogle", "fr": "mog", "ja": "モーグリ", "pt-BR": "moogle", "protect": true, "note": "Como a saga imprime em pt-BR. Nunca «moguri», que é a forma espanhola." },
+    { "en": "chocobo", "fr": "chocobo", "ja": "チョコボ", "pt-BR": "chocobo", "protect": true },
+    { "en": "kupo", "fr": "kupo", "ja": "クポ", "pt-BR": "kupo", "protect": true, "note": "Alongamentos seguem o inglês: «Kupopo»." },
+    { "en": "aether", "fr": "éther", "ja": "エーテル", "pt-BR": "éter", "protect": false, "note": "Final Fantasy XVI em pt-BR. Adjetivo «etéreo»." },
+    { "en": "Mothercrystal", "fr": "Cristal-mère", "ja": "マザークリスタル", "pt-BR": "Cristal-Máter", "protect": false, "note": "Final Fantasy XVI em pt-BR imprime exatamente isto para a mesma palavra inglesa." },
+    { "en": "aetheryte", "fr": "éthérite", "ja": "エーテライト", "pt-BR": "eterita", "protect": false, "note": "Feminino, como o francês. O nome do destino no menu de teleporte fica em inglês; a palavra comum em prosa é esta." },
+    { "en": "aethernet", "fr": "réseau éthéré", "ja": "エーテルネット", "pt-BR": "rede etérea", "protect": false },
+    { "en": "primal", "fr": "Primordial", "ja": "蛮神", "pt-BR": "primordial", "protect": false, "note": "Substantivo «os primordiais». Nunca «eikon», que é a palavra de Final Fantasy XVI para outra coisa, nem o inglês." },
+    { "en": "the Echo", "fr": "l'Écho", "ja": "超える力", "pt-BR": "o Eco", "protect": false },
+    { "en": "Ascian", "fr": "Ascien", "ja": "アシエン", "pt-BR": "asciano", "protect": false, "note": "Minúscula, como qualquer gentílico; plural «ascianos»." },
+    { "en": "Garlean", "fr": "garlemaldais", "ja": "ガレマール", "pt-BR": "garleano", "protect": false, "note": "«o Império Garleano»; Garlemald fica." },
+    { "en": "Eorzean", "fr": "éorzéen", "ja": "エオルゼア", "pt-BR": "eorzeano", "protect": false, "note": "Eorzea fica; «a Aliança Eorzeana»." },
+    { "en": "Hydaelyn", "fr": "Hydaelyn", "ja": "ハイデリン", "pt-BR": "Hydaelyn", "protect": true },
+    { "en": "Midgardsormr", "fr": "Midgardsormr", "ja": "ミドガルズオルム", "pt-BR": "Midgardsormr", "protect": true },
+    { "en": "the Scions of the Seventh Dawn", "fr": "les Héritiers de la Septième Aube", "ja": "暁の血盟", "pt-BR": "os Herdeiros do Sétimo Amanhecer", "protect": false, "note": "Forma curta «os Herdeiros»; um membro é «um Herdeiro». Segue o francês e o espanhol entregue. Nunca o inglês em prosa." },
+    { "en": "the Calamity", "fr": "le Fléau", "ja": "災厄", "pt-BR": "a Calamidade", "protect": false, "note": "«a Sétima Calamidade Umbral»; «a Sétima Era Umbral», «a Sétima Era Astral», ordinal por extenso." },
+    { "en": "Warrior of Light", "fr": "Guerrier de la Lumière", "ja": "光の戦士", "pt-BR": "<if(gnum4,Guerreira,Guerreiro)> da Luz", "protect": false, "note": "Com a macro quando nomeia o jogador; masculino plano no plural e no uso histórico. Warrior of Darkness igual, «das Trevas»." },
+    { "en": "the Twelve", "fr": "les Douze", "ja": "十二神", "pt-BR": "os Doze", "protect": false, "note": "Os nomes dos deuses ficam." },
+    { "en": "the Ultima Weapon", "fr": "l'Ultima Arma", "ja": "アルテマウェポン", "pt-BR": "a Arma Ultima", "protect": false, "note": "«Ultima» sem acento, como a saga imprime a magia." },
+    { "en": "beast tribe", "fr": "tribu barbare", "ja": "蛮族", "pt-BR": "tribo bestial", "protect": false, "note": "BAIXA. Plural «tribos bestiais»." },
+    { "en": "sylph", "fr": "sylphe", "ja": "シルフ", "pt-BR": "silfo", "protect": false, "note": "A criatura em minúscula. O povo, «os Sylph», fica com maiúscula e invariável como os outros povos." },
+    { "en": "Amalj'aa", "pt-BR": "Amalj'aa", "protect": true, "note": "Os povos ficam como o inglês, com maiúscula e invariáveis: os Amalj'aa, os Ixal, os Sahagin, os Kobold, os Qiqirn, os Padjal." },
+    { "en": "Ixal", "pt-BR": "Ixal", "protect": true },
+    { "en": "Sahagin", "pt-BR": "Sahagin", "protect": true },
+    { "en": "Kobold", "pt-BR": "Kobold", "protect": true },
+    { "en": "Qiqirn", "pt-BR": "Qiqirn", "protect": true },
+    { "en": "Padjal", "pt-BR": "Padjal", "protect": true },
+    { "en": "Good King Moggle Mog", "fr": "Moggle Mog", "ja": "グッドキング・モグル・モグ", "pt-BR": "o Bom Rei Moggle Mog", "protect": false },
+    { "en": "Iceheart", "fr": "Cœur-de-glace", "ja": "アイスハート", "pt-BR": "Coração de Gelo", "protect": false, "note": "Sem artigo; «Lady Iceheart» é «a senhora Coração de Gelo»." },
+    {
+      "_divider": "INSTITUIÇÕES E TÍTULOS. Traduzidos e com as maiúsculas do inglês."
+    },
+    { "en": "Grand Company", "fr": "grande compagnie", "ja": "グランドカンパニー", "pt-BR": "Grande Companhia", "protect": false, "note": "Plural «Grandes Companhias»." },
+    { "en": "the Immortal Flames", "fr": "les Immortels", "ja": "不滅隊", "pt-BR": "as Chamas Imortais", "protect": false, "note": "«o Salão das Chamas» (the Hall of Flames); «o General das Chamas» (the Flame General)." },
+    { "en": "the Maelstrom", "fr": "le Maelstrom", "ja": "黒渦団", "pt-BR": "o Maelstrom", "protect": false, "note": "«o Comando do Maelstrom» (Maelstrom Command); «a Almirante» (the Admiral)." },
+    { "en": "the Order of the Twin Adder", "fr": "l'ordre des Deux Vipères", "ja": "双蛇党", "pt-BR": "a Ordem das Duas Víboras", "protect": false, "note": "«o Ninho das Víboras» (the Adders' Nest). MÉDIA." },
+    { "en": "the Eorzean Alliance", "fr": "l'Alliance éorzéenne", "ja": "エオルゼア同盟", "pt-BR": "a Aliança Eorzeana", "protect": false, "note": "Forma curta «a Aliança»." },
+    { "en": "the Elder Seedseer", "fr": "notre oracle", "ja": "幻術皇", "pt-BR": "a Vidente-Mor", "protect": false, "note": "BAIXA, cunhado: «-mor» é a forma brasileira de «chefe de». «os Videntes» (the Seedseers)." },
+    { "en": "the Antecedent", "fr": "l'Antécédente", "ja": "アンテシデント", "pt-BR": "a Antecedente", "protect": false },
+    { "en": "the Sultana", "fr": "la sultane", "ja": "女王", "pt-BR": "a Sultana", "protect": false, "note": "Tratamento «Vossa Majestade», verbo na terceira pessoa." },
+    { "en": "the Archbishop", "fr": "l'archevêque", "ja": "教皇", "pt-BR": "o Arcebispo", "protect": false, "note": "Tratamento «Vossa Graça»." },
+    { "en": "the Black Wolf", "fr": "le Loup noir", "ja": "黒狼", "pt-BR": "o Lobo Negro", "protect": false },
+    { "en": "Ser", "fr": "sire", "ja": "卿", "pt-BR": "Sor", "protect": false, "note": "O honorífico de Ishgard, sempre com maiúscula: «Sor Aymeric». A forma da tradução brasileira oficial de As Crônicas de Gelo e Fogo; «Ser» colide com o verbo. MÉDIA." },
+    { "en": "Lord", "fr": "sire", "ja": "卿", "pt-BR": "Lorde", "protect": false, "note": "Diante de nome, «Lorde Haurchefant»; como substantivo comum, «o senhor». Lady diante de nome fica «Lady Yugiri»." },
+    { "en": "the Crystal Braves", "fr": "les Braves du Cristal", "ja": "クリスタルブレイブ", "pt-BR": "os Bravos do Cristal", "protect": false },
+    { "en": "the Brass Blades", "fr": "les Lames d'airain", "ja": "銅刃団", "pt-BR": "as Lâminas de Latão", "protect": false },
+    { "en": "the Company of Heroes", "fr": "la Fratrie des gabiers", "ja": "英雄団", "pt-BR": "a Companhia dos Heróis", "protect": false },
+    { "en": "the Syndicate", "fr": "le Syndicat", "ja": "砂蠍衆", "pt-BR": "o Sindicato", "protect": false },
+    { "en": "the Temple Knights", "fr": "les templiers", "ja": "神殿騎士団", "pt-BR": "os Cavaleiros do Templo", "protect": false },
+    { "en": "the Yellowjackets", "fr": "les Gilets jaunes", "ja": "イエロージャケット", "pt-BR": "os Jaquetas Amarelas", "protect": false, "note": "BAIXA." },
+    { "en": "the Wood Wailers", "fr": "les Pleureurs des bois", "ja": "鬼哭隊", "pt-BR": "os Lamentadores da Mata", "protect": false, "note": "BAIXA." },
+    { "en": "the Gods' Quiver", "fr": "le Carquois des dieux", "ja": "神勇隊", "pt-BR": "a Aljava dos Deuses", "protect": false, "note": "BAIXA." },
+    { "en": "the Holy See", "fr": "le Saint-Siège", "ja": "教皇庁", "pt-BR": "a Santa Sé", "protect": false },
+    {
+      "_divider": "LUGARES EM PROSA. O que o jogador lê numa interface (regiões, zonas, cidades e bairros, masmorras, destinos de teleporte) fica em inglês; o resto se traduz. Regra 7.4 do perfil espanhol."
+    },
+    { "en": "the Waking Sands", "fr": "les Sables éveillés", "ja": "砂の家", "pt-BR": "as Areias Despertas", "protect": false },
+    { "en": "the Rising Stones", "fr": "les Pierres de l'éveil", "ja": "石の家", "pt-BR": "as Pedras Nascentes", "protect": false, "note": "BAIXA." },
+    { "en": "Revenant's Toll", "fr": "le Tribut du Revenant", "ja": "レヴナンツトール", "pt-BR": "o Pedágio do Espectro", "protect": false },
+    { "en": "Little Solace", "fr": "le Petit Réconfort", "ja": "リトルソラス", "pt-BR": "o Pequeno Consolo", "protect": false },
+    { "en": "the Lotus Stand", "fr": "la Chaire du Lotus", "ja": "蓮の間", "pt-BR": "o Estrado do Lótus", "protect": false },
+    { "en": "Camp Dragonhead", "fr": "le camp de la Tête-de-dragon", "ja": "キャンプ・ドラゴンヘッド", "pt-BR": "o Acampamento Cabeça de Dragão", "protect": false },
+    { "en": "Vesper Bay", "fr": "la baie des Vêpres", "ja": "ベスパーベイ", "pt-BR": "a Baía das Vésperas", "protect": false },
+    { "en": "the Twelveswood", "fr": "la forêt des Douze", "ja": "十二神大聖堂の森", "pt-BR": "a Mata dos Doze", "protect": false },
+    { "en": "the Black Shroud", "fr": "la Forêt de Sombrelinceul", "ja": "黒衣森", "pt-BR": "a Mortalha Negra", "protect": false, "note": "Em prosa. O nome da região no mapa fica em inglês." },
+    {
+      "_divider": "OS NOMES DE CLASSE E DE JOB, OS 42. A regra está no 7.9 do perfil espanhol e na seção 6 do perfil pt-BR: em prosa o ofício vai em português, e assim que a frase se refere ao job em si vai em inglês. «viper» e «gunbreaker» ficam em inglês em todo contexto."
+    },
+    { "en": "Gladiator", "pt-BR": "gladiador", "protect": false },
+    { "en": "Paladin", "pt-BR": "paladino", "protect": false },
+    { "en": "Marauder", "pt-BR": "saqueador", "protect": false },
+    { "en": "Warrior", "pt-BR": "guerreiro", "protect": false },
+    { "en": "Dark Knight", "pt-BR": "cavaleiro negro", "protect": false },
+    { "en": "Gunbreaker", "pt-BR": "gunbreaker", "protect": true },
+    { "en": "Conjurer", "pt-BR": "conjurador", "protect": false },
+    { "en": "White Mage", "pt-BR": "mago branco", "protect": false },
+    { "en": "Scholar", "pt-BR": "erudito", "protect": false },
+    { "en": "Astrologian", "pt-BR": "astrólogo", "protect": false },
+    { "en": "Sage", "pt-BR": "sábio", "protect": false },
+    { "en": "Pugilist", "pt-BR": "pugilista", "protect": false },
+    { "en": "Monk", "pt-BR": "monge", "protect": false },
+    { "en": "Lancer", "pt-BR": "lanceiro", "protect": false },
+    { "en": "Dragoon", "pt-BR": "cavaleiro dragão", "protect": false },
+    { "en": "Rogue", "pt-BR": "ladino", "protect": false },
+    { "en": "Ninja", "pt-BR": "ninja", "protect": false },
+    { "en": "Samurai", "pt-BR": "samurai", "protect": false },
+    { "en": "Reaper", "pt-BR": "ceifador", "protect": false },
+    { "en": "Viper", "pt-BR": "viper", "protect": true },
+    { "en": "Archer", "pt-BR": "arqueiro", "protect": false },
+    { "en": "Bard", "pt-BR": "bardo", "protect": false },
+    { "en": "Machinist", "pt-BR": "maquinista", "protect": false },
+    { "en": "Dancer", "pt-BR": "dançarino", "protect": false },
+    { "en": "Thaumaturge", "pt-BR": "taumaturgo", "protect": false },
+    { "en": "Black Mage", "pt-BR": "mago negro", "protect": false },
+    { "en": "Arcanist", "pt-BR": "arcanista", "protect": false },
+    { "en": "Summoner", "pt-BR": "invocador", "protect": false },
+    { "en": "Red Mage", "pt-BR": "mago vermelho", "protect": false },
+    { "en": "Blue Mage", "pt-BR": "mago azul", "protect": false },
+    { "en": "Pictomancer", "pt-BR": "pictomante", "protect": false },
+    { "en": "Carpenter", "pt-BR": "carpinteiro", "protect": false },
+    { "en": "Blacksmith", "pt-BR": "ferreiro", "protect": false },
+    { "en": "Armorer", "pt-BR": "armeiro", "protect": false },
+    { "en": "Goldsmith", "pt-BR": "ourives", "protect": false },
+    { "en": "Leatherworker", "pt-BR": "coureiro", "protect": false },
+    { "en": "Weaver", "pt-BR": "tecelão", "protect": false },
+    { "en": "Alchemist", "pt-BR": "alquimista", "protect": false },
+    { "en": "Culinarian", "pt-BR": "cozinheiro", "protect": false },
+    { "en": "Miner", "pt-BR": "minerador", "protect": false },
+    { "en": "Botanist", "pt-BR": "botânico", "protect": false },
+    { "en": "Fisher", "pt-BR": "pescador", "protect": false }
+  ],
+  "_emotes_comment": [
+    "Stage directions FFXIV writes as literal on-screen text, \\<sigh>, not as macros. The backslash is the game's escape and must survive; the word inside is translated."
+  ],
+  "emotes": []
+}
