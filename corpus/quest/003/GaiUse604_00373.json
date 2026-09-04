@@ -2,12 +2,12 @@
   "conversation": "quest/003/GaiUse604_00373",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_00", "hash": "CE3C648234D58A1A", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_01", "hash": "A7EA2A571245C0DD", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_02", "hash": "342C71094BA21E9A", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_TODO_00", "hash": "298D70D9C22E63E4", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_000", "hash": "6B2DFADA8BE9A24F", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_001", "hash": "FD069134F90708C9", "target": "" },
-    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_002", "hash": "622771D4BCABDC80", "target": "" }
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_00", "hash": "CE3C648234D58A1A", "target": "Alphinaud está pronto para começar os preparativos de guerra." },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_01", "hash": "A7EA2A571245C0DD", "target": "Embora decidido a ajudar Ishgard em sua hora de necessidade, Alphinaud julga prudente relatar tudo à Antecedente antes de se preparar para a guerra. Volte às Pedras Nascentes e fale com Minfilia." },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_SEQ_02", "hash": "342C71094BA21E9A", "target": "Junto com os Bravos do Cristal, os Herdeiros do Sétimo Amanhecer se comprometeram com a defesa de Ishgard. Enquanto seus companheiros deixam a sala movidos por um só propósito, porém, Riol parece mais preocupado com as palavras trocadas em particular entre Ilberd e Yuyuhase..." },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_TODO_00", "hash": "298D70D9C22E63E4", "target": "Falar com Minfilia nas Pedras Nascentes" },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_000", "hash": "6B2DFADA8BE9A24F", "target": "Se vamos ajudar os ishgardeses nessa guerra deles, será preciso fazer preparativos, e depressa." },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_001", "hash": "FD069134F90708C9", "target": "Antes de prosseguir, porém, precisamos voltar às Pedras Nascentes e apresentar nosso relatório à Antecedente." },
+    { "gameKey": "quest/003/GaiUse604_00373#TEXT_GAIUSE604_00373_ALPHINAUD_000_002", "hash": "622771D4BCABDC80", "target": "Antes de partirmos em defesa de Ishgard, precisamos consultar a Antecedente. Venha, voltemos às Pedras Nascentes." }
   ]
 }
