@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc902_01037",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "" }
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_00", "hash": "7D9A6A130E70514F", "target": "O oficial de ligação da Aliança tem uma tarefa que só <if(gnum4,uma heroína,um herói)> da Aliança pode cumprir." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_01", "hash": "9160445FEB1D8A4C", "target": "O oficial de ligação da Aliança informa que a guarnição do Acampamento Bluefog está com o moral baixo e se beneficiaria da visita de <if(gnum4,uma heroína,um herói)>. Siga até o acampamento, no norte de Thanalan, e ponha-se à disposição do Sargento Cracked Fist." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_SEQ_02", "hash": "4A46BDA3831D3499", "target": "Ao chegar ao Acampamento Bluefog, você se apresenta ao Sargento Cracked Fist, que não perde tempo em implorar a sua ajuda para levantar o moral da guarnição. Os deveres de um herói são mesmo variados." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_TODO_00", "hash": "B73B97F87ABD7704", "target": "Reportar-se a Cracked Fist no Acampamento Bluefog" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_000", "hash": "5614FBF5CD8C978A", "target": "A segunda fase da operação está em curso neste momento. Nossos irmãos e irmãs do Maelstrom estão se saindo bem contra as forças garleanas em Vylbrand e no Mar de Rhotano. Em breve começará a terceira fase, e você terá de ir a campo mais uma vez." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_001", "hash": "38B8C1D725587083", "target": "As Chamas Imortais atacarão Castrum Meridianum como manobra de diversão. Enquanto os garleanos estiverem presos ao combate, cabe a você se infiltrar na fortaleza e derrubar o campo magitek que cerca o Praetorium." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_002", "hash": "91274E0599F75EC3", "target": "O ponto de reunião fica à sombra de Castrum Meridianum, no norte de Thanalan, e é para lá que você deve ir. No caminho, porém, peço que faça uma parada rápida no Acampamento Bluefog, um dos nossos principais postos avançados na região." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_003", "hash": "E992ED20F6488C7E", "target": "Dizem-me que a guarnição está com o moral baixo, e faria bem às nossas tropas ver <if(gnum4,a heroína,o herói)> do Cape Westwind aparecer diante delas. Pelo bem da nossa causa, peço que atice o fogo no coração deles." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_KANRIKAN_000_005", "hash": "DB2E8D13316AF414", "target": "A caminho de Castrum Meridianum, peço que faça uma parada rápida no Acampamento Bluefog. As nossas tropas de lá estão com o moral baixo, e lhes daria ânimo ver <if(gnum4,a heroína,o herói)> do Cape Westwind aparecer diante delas." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_010", "hash": "E4444B3CB9FCCE1A", "target": "Ah, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! A sua presença é muito bem-vinda aqui no Acampamento Bluefog!" },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_011", "hash": "0DE3B0AB6125392A", "target": "Do ponto de vista logístico, estamos prontos para marchar sobre Castrum Meridianum a qualquer momento. Infelizmente, embora as nossas tropas estejam aqui de corpo, as mentes estão em qualquer outro lugar." },
+    { "gameKey": "quest/010/GaiUsc902_01037#TEXT_GAIUSC902_01037_CRACKEDFIST_000_012", "hash": "1D37FAE833C67A9D", "target": "O ânimo da guarnição está sombrio, tão intimidante é a perspectiva de entrar no que pode vir a ser a batalha mais sangrenta da história. Mas, com <if(gnum4,uma heroína,um herói)> como você caminhando entre eles, talvez ainda reacendamos as brasas que se apagam nas almas deles." }
   ]
 }

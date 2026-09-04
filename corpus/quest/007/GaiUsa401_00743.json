@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa401_00743",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_00", "hash": "7DDD49E75D70F56D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_01", "hash": "83CFF9342609BCD4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_02", "hash": "6171A23F83ED7867", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_TODO_00", "hash": "1E6E108F7592A6B9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_000", "hash": "46530AF260631BFA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_001", "hash": "6E7D3009107638C3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_002", "hash": "9F18786C62A79C46", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_003", "hash": "7B5E14AB8AF97F16", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_020", "hash": "F2F2E38F74B118DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_021", "hash": "3F5AFC065D8058D4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_023", "hash": "CB4930C868FAF961", "target": "" }
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_00", "hash": "7DDD49E75D70F56D", "target": "Buscarron tem uma coisa que quer entregue aos Sylph." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_01", "hash": "83CFF9342609BCD4", "target": "Buscarron quer mandar uma oferta de paz aos Sylph do Pequeno Consolo, na esperança de reforçar o espírito de cooperação atual. Com isso em mente, leve o Azeyma rose oil de Buscarron a Knolexia, no Pequeno Consolo." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_SEQ_02", "hash": "6171A23F83ED7867", "target": "O presente atencioso de Buscarron comoveu Knolexia. Com alguma sorte, este gesto e outros parecidos ajudarão a fortalecer ainda mais as relações entre gridanianos e Sylph." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_TODO_00", "hash": "1E6E108F7592A6B9", "target": "Entregar o Azeyma rose oil a Knolexia, no Pequeno Consolo" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_000", "hash": "46530AF260631BFA", "target": "Ô, escuta aqui, tem uma coisa que eu queria pedir que você entregasse aos Sylph do Pequeno Consolo─este Azeyma rose oil." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_001", "hash": "6E7D3009107638C3", "target": "É um presente para celebrar o retorno em segurança do ancião da tribo deles─e um sinal do desejo de união de Gridania." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_002", "hash": "9F18786C62A79C46", "target": "A mata não é mais o que era. A Calamidade mudou os elementais─enfraqueceu-os. Até que a força deles volte, precisamos emprestar a nossa para manter a mata segura. Mas só a nossa não basta. Precisamos também da força dos Sylph." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_BUSCARRON_000_003", "hash": "7B5E14AB8AF97F16", "target": "Só trabalhando juntos e lutando juntos vamos sobreviver juntos─e a Mata dos Doze conosco. O presente que peço que leve é símbolo da esperança de que gridanianos e Sylph vivam para ver a luz além desta escuridão." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_020", "hash": "F2F2E38F74B118DA", "target": "Um presente do andante Buscarron? Um presente para estes aqui?" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_021", "hash": "3F5AFC065D8058D4", "target": "Que cheiro gostoso! Este aqui nunca cheirou nada assim antes!" },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_022", "hash": "92263693791C6BCC", "target": "Buscarron, o que anda, e o que se aventura são muito bondosos. Saibam que este aqui está profundamente agradecido." },
+    { "gameKey": "quest/007/GaiUsa401_00743#TEXT_GAIUSA401_00743_KNOLEXIA_000_023", "hash": "CB4930C868FAF961", "target": "Muitos dos que andam dão medo. Muitos dos que andam dizem muitas mentiras e muitos enganos. Mas este aqui está comovido. Que todos estes aqui sejam amigos para sempre!" }
   ]
 }
