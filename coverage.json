@@ -1,0 +1,426 @@
+{
+  "gameVersion": "2026.08.11.0000.0000",
+  "translated": 14417,
+  "total": 433501,
+  "percent": 3.3,
+  "chars": 52698688,
+  "unresolved": 4405,
+  "groups": [
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Main scenario",
+      "translated": 14417,
+      "total": 14417
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 8940
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 4426
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 14940
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 6303
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 1746
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 791
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Seasonal events",
+      "translated": 0,
+      "total": 21717
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 1795
+    },
+    {
+      "expansion": "A Realm Reborn",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 4443
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Main scenario",
+      "translated": 0,
+      "total": 8350
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 7646
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 3223
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 10290
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 4175
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 2031
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 1115
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 820
+    },
+    {
+      "expansion": "Heavensward",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 206
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Main scenario",
+      "translated": 0,
+      "total": 10967
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 5192
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 4113
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 12307
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 4371
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 3361
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 59
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 742
+    },
+    {
+      "expansion": "Stormblood",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 52
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Main scenario",
+      "translated": 0,
+      "total": 14807
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 5609
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 2735
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 6891
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 3967
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 4249
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 2527
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 727
+    },
+    {
+      "expansion": "Shadowbringers",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 325
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Main scenario",
+      "translated": 0,
+      "total": 19946
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 8462
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 6346
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 7339
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 4538
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 3501
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 577
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 685
+    },
+    {
+      "expansion": "Endwalker",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 86
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Main scenario",
+      "translated": 0,
+      "total": 17579
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Side quests — yellow",
+      "translated": 0,
+      "total": 4917
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Side quests — blue",
+      "translated": 0,
+      "total": 3447
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Class and job quests",
+      "translated": 0,
+      "total": 7057
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Allied societies",
+      "translated": 0,
+      "total": 3729
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Normal Raids, Alliance Raids & Trials",
+      "translated": 0,
+      "total": 2493
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Relic Weapons",
+      "translated": 0,
+      "total": 911
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Quest names",
+      "translated": 0,
+      "total": 587
+    },
+    {
+      "expansion": "Dawntrail",
+      "content": "Retired quests and other",
+      "translated": 0,
+      "total": 110
+    },
+    {
+      "expansion": null,
+      "content": "Collaboration Quests",
+      "translated": 0,
+      "total": 1407
+    },
+    {
+      "expansion": null,
+      "content": "Battle and system messages",
+      "translated": 0,
+      "total": 8400
+    },
+    {
+      "expansion": null,
+      "content": "How-to tutorials",
+      "translated": 0,
+      "total": 1063
+    },
+    {
+      "expansion": null,
+      "content": "Duty Finder",
+      "translated": 0,
+      "total": 695
+    },
+    {
+      "expansion": null,
+      "content": "The Unending Journey — the rest is levequest names",
+      "translated": 0,
+      "total": 7562
+    },
+    {
+      "expansion": null,
+      "content": "Service NPC menus",
+      "translated": 0,
+      "total": 29204
+    },
+    {
+      "expansion": null,
+      "content": "Buttons, tabs, headers (`Addon`)",
+      "translated": 0,
+      "total": 13390
+    },
+    {
+      "expansion": null,
+      "content": "Title screen, character creation (`Lobby`)",
+      "translated": 0,
+      "total": 1003
+    },
+    {
+      "expansion": null,
+      "content": "Main menu (`MainCommand`)",
+      "translated": 0,
+      "total": 199
+    },
+    {
+      "expansion": null,
+      "content": "Shop category dropdowns (`InclusionShopCategory`)",
+      "translated": 0,
+      "total": 83
+    },
+    {
+      "expansion": null,
+      "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
+      "translated": 0,
+      "total": 77810
+    }
+  ],
+  "excludedFromLocalization": [
+    {
+      "expansion": null,
+      "content": "Item names (`Item`)",
+      "translated": 0,
+      "total": 173127
+    },
+    {
+      "expansion": null,
+      "content": "Duty names (`ContentFinderCondition`)",
+      "translated": 0,
+      "total": 889
+    },
+    {
+      "expansion": null,
+      "content": "No English to translate",
+      "translated": 5,
+      "total": 586
+    }
+  ]
+}
