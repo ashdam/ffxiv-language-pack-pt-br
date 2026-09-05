@@ -1,22 +1,8 @@
 {
-  // How each speaker addresses the player, and other characters where it matters. See docs/glossary.md.
-  //
-  // KEYS are the normalised speaker token: letters and digits only, upper-cased, exactly as
-  // NpcResolver.Normalise produces it and exactly as in gender-overrides.json.
-  //
-  // player      the address form this language uses for the player. Name the forms this language
-  //             distinguishes and decide them from the English first; the French and the Japanese
-  //             inform, they do not decide.
-  // others      { "TOKEN": form } for another character, where it matters.
-  // confidence  high and medium are measured against the corpus, with the reason in why and the
-  //             rows in examples; low has no rows cited and is followed until the scenes contradict it.
-  // why         the evidence.
-  // voice       the speaker's tic: an accent, a catchphrase, a way of naming themselves.
-  // examples    gameKeys of the rows the decision rests on.
-  //
-  // The interface has no speaker and inherits nobody's register.
-  // player for this language is «você» or «o senhor / a senhora». Never «tu»; «vós» only where the
-  // entry's voice says so (Urianger).
+  // How each speaker addresses the player and, where it matters, other characters. Format in docs/glossary.md of ffxiv-corpus-en.
+  // Key: the speaker token normalised to letters and digits, upper case, the same as in gender-overrides.json.
+  // confidence: high and medium are measured against the corpus (why, examples); low is followed until the scenes contradict it.
+  // voice: the speaker's tic. This file is the only place for it.
   "register": {
     "ALPHINAUD": { "player": "você", "others": { "ALISAIE": "você", "HAURCHEFANT": "o senhor", "RAUBAHN": "o senhor", "AYMERIC": "o senhor", "LUCIA": "a senhora", "LOUISOIX": "o senhor", "ILBERD": "você", "YUGIRI": "a senhora" }, "confidence": "medium", "why": "Ao jogador e à irmã, você; aos lordes, generais e oficiais, o senhor / a senhora, como nas cinemáticas 2.2-2.4 entregues; ao avô, «o senhor» afetuoso e «Vovô».", "voice": "Culto, frases longas, nunca gíria.", "examples": ["cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_300020_AYMERIC"] },
     "ALISAIE": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Direta, impaciente com o irmão.", "examples": [] },

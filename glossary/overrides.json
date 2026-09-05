@@ -1,11 +1,8 @@
 {
   "_comment": [
-    "Hand-decided terms, on top of the generated corpus-en/glossary.json. See docs/glossary.md.",
-    "",
-    "protect true  = reproduce verbatim, leave the English",
-    "protect false = translate it, and the column named by the language code of pack.json is the agreed rendering used everywhere",
-    "",
-    "Seeded from the Spanish repository with its protect: true decisions only: what stays English is a fact about the game (Duty Finder instances, item names, jobs, interface labels, map names), not about any one language. Renderings, notes and protect: false terms are this language's own to decide."
+    "Hand-decided terms. Format in docs/glossary.md of ffxiv-corpus-en.",
+    "protect true: the English stays. protect false: translate it, and the `pt-BR` column is the agreed rendering.",
+    "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
     {
