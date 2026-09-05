@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubFst102_00673",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_02", "hash": "6472D3F432363886", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_TODO_00", "hash": "BC4513A89D5E70A8", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_1", "hash": "3C1AEB18B21413CF", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_2", "hash": "2B12F45258C72B35", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_3", "hash": "7C573158D72A7235", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_10", "hash": "C515139F5C372667", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_20", "hash": "12DBC6073EB8EF8D", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_21", "hash": "03CC69F102287E94", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_22", "hash": "EAC5A314EA0DE39F", "target": "" },
-    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_23", "hash": "C5C5EBDFFA95527E", "target": "" }
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_00", "hash": "9DB1B151050ECBDD", "target": "O oficial da Serpente tem uma informação que pode lhe interessar." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_01", "hash": "3439AE909446AD7D", "target": "Baderon, dono de Drowning Wench, em Limsa Lominsa, precisa de um aventureiro capaz. Fale com ele se quiser saber mais." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SEQ_02", "hash": "6472D3F432363886", "target": "Baderon avisa que o trabalho envolve perigo considerável. Se a sua decisão estiver tomada, fale de novo com ele para receber as instruções." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_TODO_00", "hash": "BC4513A89D5E70A8", "target": "Falar com Baderon em Drowning Wench, em Limsa Lominsa" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_1", "hash": "3C1AEB18B21413CF", "target": "Espero que o encontro com a Vidente-Mor tenha corrido bem, <if(gnum4,senhora emissária,senhor emissário)>. Corrija-me se eu estiver enganado, mas não levou também uma mensagem à Almirante Merlwyb Bloefhiswyn, de Limsa Lominsa?" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_2", "hash": "2B12F45258C72B35", "target": "Enquanto esteve lá, chegou a conhecer Baderon, o dono de Drowning Wench? Um sujeito sociável, sempre disposto a ajudar o próximo." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_3", "hash": "7C573158D72A7235", "target": "Pois me disseram que ele tem uma tarefa para um aventureiro capaz. Não sei em que consiste, mas ouso dizer que <if(gnum4,a emissária pessoal,o emissário pessoal)> do General das Chamas seria uma excelente escolha. Se tiver interesse em saber mais, peço que fale com Baderon no estabelecimento dele." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_SERPENT_000_10", "hash": "C515139F5C372667", "target": "Se decidir visitar Limsa Lominsa, peço que fale com Baderon em Drowning Wench. O homem tem uma tarefa para um aventureiro capaz, e ouso dizer que <if(gnum4,a emissária pessoal,o emissário pessoal)> do General das Chamas seria uma excelente escolha." },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_20", "hash": "12DBC6073EB8EF8D", "target": "Bem-vind<if(gnum4,a,o)> a Drownin' Wench! Sente onde quiser, <if(gnum4,menina,rapaz)>. Num instante eu─" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_21", "hash": "03CC69F102287E94", "target": "Hã? Sim, sou eu o Baderon mesmo. Quem quer saber?" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_22", "hash": "EAC5A314EA0DE39F", "target": "Ah, ouviu dizer que eu tenho um trabalho pra um aventureiro capaz? Pois ouviu certíssimo!" },
+    { "gameKey": "quest/006/SubFst102_00673#TEXT_SUBFST102_00673_BADERON_000_23", "hash": "C5C5EBDFFA95527E", "target": "Só pra deixar avisado: não é trabalho pra quem tem coração fraco. A coisa pode ficar feia pra danar. Mas, se ainda assim tiver interesse, é só falar que eu conto os detalhes." }
   ]
 }

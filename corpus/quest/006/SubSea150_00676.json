@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubSea150_00676",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_00", "hash": "02330D4AD435ADD4", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_01", "hash": "5E449AE0A18FE510", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_02", "hash": "A52730EB6168A615", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_TODO_00", "hash": "310B7670EFB0AD14", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_1", "hash": "0D249BA2A04FBFBC", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_2", "hash": "2E4973572B1061D0", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_3", "hash": "36EE16B0BA362695", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_10", "hash": "AE728C59A6CB9196", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_11", "hash": "F6249B600934A183", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_12", "hash": "22FB4FE155FD0BBD", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_13", "hash": "2F5144FC21BCD6C7", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_14", "hash": "CB40F3029C8ABB6D", "target": "" },
-    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_15", "hash": "9ACBFD77C68435E4", "target": "" }
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_00", "hash": "02330D4AD435ADD4", "target": "Baderon tem informações sobre uma nova tarefa." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_01", "hash": "5E449AE0A18FE510", "target": "Segundo Baderon, a Guilda dos Aventureiros de Gridania está recrutando gente para uma tarefa ainda não revelada. Você pode saber mais falando com Miounne, a proprietária do Carline Canopy." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_SEQ_02", "hash": "A52730EB6168A615", "target": "Você manifestou a Miounne o seu interesse na tarefa. Avise-a quando estiver <if(gnum4,pronta,pronto)> para ouvir os detalhes." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_TODO_00", "hash": "310B7670EFB0AD14", "target": "Falar com Miounne no Carline Canopy, em Gridania" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_1", "hash": "0D249BA2A04FBFBC", "target": "Então, pront<if(gnum4,a,o)> pra ouvir sobre aquele trabalho? Como eu disse, o pedido vem da nossa guilda irmã em Gridania." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_2", "hash": "2E4973572B1061D0", "target": "...E é só isso que eu sei. Mas, seja lá o que pedirem, duvido muito que dê trabalho pra quem sobreviveu àquela confusão em Sastasha." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_BADERON_000_3", "hash": "36EE16B0BA362695", "target": "Se achar que pode se interessar, vá conversar com a Mãe Miounne, a minha equivalente em Gridania. Boa sorte, <if(gnum4,menina,rapaz)>!" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_10", "hash": "AE728C59A6CB9196", "target": "Sente-se onde quiser. A nossa garçonete já vem anotar o seu─" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_11", "hash": "F6249B600934A183", "target": "Ah, é você, <split(<string(gstr1)>, ,1)>! Que bom ver você de novo!<br>...Como? Veio por sugestão do Baderon?" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_12", "hash": "22FB4FE155FD0BBD", "target": "Aquele bandido boca-suja me avisou que talvez aparecesse um aventureiro para o trabalho, e vem a ser você! Bom, isso facilita bastante as coisas, não é?" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_13", "hash": "2F5144FC21BCD6C7", "target": "Ah? Não veio comer? Será que ouso esperar que você seja <if(gnum4,a aventureira,o aventureiro)> de quem Baderon me falou?<br>...É mesmo!? Louvada seja a Matriarca!" },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_14", "hash": "CB40F3029C8ABB6D", "target": "Permita-me apresentar. Meu nome é Miounne, e o Carline Canopy é a minha casa." },
+    { "gameKey": "quest/006/SubSea150_00676#TEXT_SUBSEA150_00676_MIOUNNE_000_15", "hash": "9ACBFD77C68435E4", "target": "Quanto à tarefa em questão, há bastante coisa a contar. Avise quando estiver <if(gnum4,pronta,pronto)> para ouvir os detalhes e eu passo as instruções." }
   ]
 }

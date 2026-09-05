@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa305_00737",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_00", "hash": "1EC2209311A5500D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_01", "hash": "E0BDD7C0E332DAF0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_02", "hash": "F38E60FC32496CD2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TODO_00", "hash": "6BD93835AC4E7A2B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_000", "hash": "46C6E22B7F60C66E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_001", "hash": "2B97CCF81278F889", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_002", "hash": "8985D919114302CE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_003", "hash": "C9C68A19D3F48DFB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_010", "hash": "50E8F129F20390B4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_011", "hash": "E3C51C525A3970E6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_012", "hash": "D6EE852A2E50FF95", "target": "" },
-    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_013", "hash": "F8CE37E46EC95EB7", "target": "" }
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_00", "hash": "1EC2209311A5500D", "target": "Teteroon parece ter terminado o presente para Buscarron." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_01", "hash": "E0BDD7C0E332DAF0", "target": "Teteroon enfim terminou o presente para Buscarron. Leve a bebida especial dos Qiqirn ao proprietário homônimo de Buscarron's Druthers, na South Shroud." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_SEQ_02", "hash": "F38E60FC32496CD2", "target": "Buscarron fica encantado ao receber a aguardente destilada pelo velho amigo. Menos encantado fica ao perceber que é melhor deixá-la envelhecer um ano antes de abrir." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TODO_00", "hash": "6BD93835AC4E7A2B", "target": "Entregar a aguardente dos Qiqirn a Buscarron em Buscarron's Druthers" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_000", "hash": "46C6E22B7F60C66E", "target": "Teteroon fez aguardente! Boa, boa aguardente! Você leva pro Buscaroon. Aguardente boa pro Buscaroon bom." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_001", "hash": "2B97CCF81278F889", "target": "Fala pro Buscaroon não beber agora. Fala guardar um ano. Um ano faz gosto melhor." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_002", "hash": "8985D919114302CE", "target": "\\<suspiro> Teteroon espera Buscaroon feliz. Teteroon dá pro Buscaroon obrigadinhos. Muitos, muitos obrigadinhos. Você fala pro Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_TETEROON_000_003", "hash": "C9C68A19D3F48DFB", "target": "Teteroon faz loja grande um dia. Loja mais grande de Eorzea. Ganha muitos, muitos brilhantes. Tudo graças ao bom Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_010", "hash": "50E8F129F20390B4", "target": "Ah, você voltou. Obrigado por levar os pertences do Teteroon até ele.<br>...O que é isto? Para mim?" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_011", "hash": "E3C51C525A3970E6", "target": "Aguardente dos Qiqirn! Então ele se lembra do meu gosto pela bebida, é? Ora, esse velho... Ele... Eu... Ah, malditos infernos! Quem é que está cortando cebola aí atrás!?" },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_012", "hash": "D6EE852A2E50FF95", "target": "Ele mandou guardar por um ano, é? Sim, parece certo. Odeio ter de esperar, mas acho que vai valer a pena. Essa bebida tem um aroma e um corpo que nenhuma outra que eu conheço tem." },
+    { "gameKey": "quest/007/GaiUsa305_00737#TEXT_GAIUSA305_00737_BUSCARRON_000_013", "hash": "F8CE37E46EC95EB7", "target": "Vai ser um aaano bem longo. Que tal você voltar quando ele passar, <if(gnum4,amiga,amigo)>? A gente vê se dá conta desta garrafa junto." }
   ]
 }

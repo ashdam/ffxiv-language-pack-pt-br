@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubFst056_00377",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_00", "hash": "EFA7F009EC3CF010", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_01", "hash": "E6A7DB2577EA91E3", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_02", "hash": "CAF8F5DFA3F2BCF5", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_03", "hash": "63A376ACFD0E6A77", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_00", "hash": "869613CA90C07D5E", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_01", "hash": "15EB371A9BD522CE", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_1", "hash": "E49138B6F1855CE0", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_2", "hash": "B5F295C26B28F33E", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_3", "hash": "02AC12B4F456D787", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_4", "hash": "5AB5EFCAD26D3EF3", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_11", "hash": "A4B0C9F421B5B482", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_12", "hash": "24A5CF788BDB2F65", "target": "" },
-    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_13", "hash": "CA59E0E30CBE288A", "target": "" }
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_00", "hash": "EFA7F009EC3CF010", "target": "Osha Jaab, Lamentadora da Mata no Esquecimento da Matriarca, procura um aventureiro de passo firme para colher blue trumpets da raiz do pilar celeste ali perto." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_01", "hash": "E6A7DB2577EA91E3", "target": "A sua tarefa é remover os cogumelos blue trumpet da raiz de pilar celeste que fica no Esquecimento da Matriarca. Elimine a ameaça fúngica antes que ela tenha chance de se espalhar e apodrecer a madeira." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_02", "hash": "CAF8F5DFA3F2BCF5", "target": "Você colheu todos os blue trumpets da raiz do pilar celeste. Reporte-se a Theodore, no patamar superior do Esquecimento da Matriarca." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_SEQ_03", "hash": "63A376ACFD0E6A77", "target": "O seu simples ato de colher cogumelos salvou a raiz do pilar celeste de um destino apodrecido. Embora não seja uma passarela ideal, Theodore insiste que a raiz é essencial para atravessar a geografia drasticamente alterada da Central Shroud." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_00", "hash": "869613CA90C07D5E", "target": "Remover blue trumpets" },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_TODO_01", "hash": "15EB371A9BD522CE", "target": "Reportar-se a Theodore, no Esquecimento da Matriarca" },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_1", "hash": "E49138B6F1855CE0", "target": "Opa, aventureiro. Você parece leve de pés. Que tal um pulinho rápido pela raiz do pilar celeste aqui? Preciso de alguém para arrrancar um blue trumpet ou dois." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_2", "hash": "B5F295C26B28F33E", "target": "Sei o que você está pensando: não passa de um cogumelo, então por que tanto alvoroço? Vou dizer por quê. Deixe essa ameaça fúngica se multiplicar e, dentro de uma lua, ela cobre a maldita raiz inteira e apodrece a madeira até o cerne." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_3", "hash": "02AC12B4F456D787", "target": "Mas cuidado onde pisa lá em cima─se escorrregar, os diremites lá embaixo não perdem tempo em somar ofensa à queda." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_OSHAJAAB_000_4", "hash": "5AB5EFCAD26D3EF3", "target": "Quando terminar, suba até a ponta de cima da raiz e reporte-se a Theodore. Ele vai adorar saber que alguém cuidou de uma das tarefas que mais o aborrrecem." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_11", "hash": "A4B0C9F421B5B482", "target": "Ah, você limpou a raiz dos blue trumpets? Maravilhoso! Para ser bem sincero, eu tenho um probleminha <italic(1)>minúsculo<italic(0)> com altura. \\<suspiro> Não, este não é o meu posto ideal, mas todos fazemos o que é preciso." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_12", "hash": "24A5CF788BDB2F65", "target": "Manter a raiz transitável é um trabalho importante, sabe. É um dos poucos caminhos por onde se atravessa a Central Shroud desde que a Calamidade praticamente partiu a área em duas." },
+    { "gameKey": "quest/003/SubFst056_00377#TEXT_SUBFST056_00377_THEODORE_000_13", "hash": "CA59E0E30CBE288A", "target": "Talvez não seja o caminho mais fácil de percorrer, mas há quem acredite que foi a vontade da própria Matriarca que manteve esta gavinha de pilar celeste assim suspensa, para servir ao povo da floresta. Eu, particularmente, gosto bastante da ideia." }
   ]
 }

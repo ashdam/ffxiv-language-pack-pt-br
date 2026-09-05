@@ -18,7 +18,7 @@
   // player for this language is «você» or «o senhor / a senhora». Never «tu»; «vós» only where the
   // entry's voice says so (Urianger).
   "register": {
-    "ALPHINAUD": { "player": "você", "others": { "ALISAIE": "você", "HAURCHEFANT": "o senhor" }, "confidence": "low", "why": "Calco do espanhol (tú). Fala formal e polida, mas trata o jogador como igual.", "voice": "Culto, frases longas, nunca gíria.", "examples": [] },
+    "ALPHINAUD": { "player": "você", "others": { "ALISAIE": "você", "HAURCHEFANT": "o senhor", "RAUBAHN": "o senhor", "AYMERIC": "o senhor", "LUCIA": "a senhora", "LOUISOIX": "o senhor", "ILBERD": "você", "YUGIRI": "a senhora" }, "confidence": "medium", "why": "Ao jogador e à irmã, você; aos lordes, generais e oficiais, o senhor / a senhora, como nas cinemáticas 2.2-2.4 entregues; ao avô, «o senhor» afetuoso e «Vovô».", "voice": "Culto, frases longas, nunca gíria.", "examples": ["cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_300020_AYMERIC"] },
     "ALISAIE": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Direta, impaciente com o irmão.", "examples": [] },
     "MINFILIA": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú). A Antecedente fala ao jogador como a um companheiro.", "voice": "Calma, solene quando fala do Eco.", "examples": [] },
     "THANCRED": { "player": "você", "confidence": "low", "why": "Calco do espanhol (tú).", "voice": "Galanteador, irônico.", "examples": [] },
@@ -57,6 +57,12 @@
     "BARTHOLOMEW": { "player": "o senhor / a senhora", "confidence": "high", "why": "Ujier do palácio: o próprio inglês traz <if(gnum4,milady,milord)>; francês Monseigneur, japonês くださいませ.", "voice": "Cerimonioso.", "examples": [] },
     "PAPASHAN": { "player": "o senhor / a senhora", "confidence": "high", "why": "O inglês lhe dá <if(gnum4,milady,good sir)>; francês vous com «je vous en conjure»; japonês 何卒、引き受けてくださらぬか. Suplicante que corteja quem pode ajudá-lo.", "voice": "Velho servidor da Sultana, afável.", "examples": [] },
     "OWYNE": { "player": "você", "confidence": "medium", "why": "Francês vous, japonês たまえ e お前: Juramentado superior falando a um aventureiro.", "voice": "Militar.", "examples": [] },
+    "TITAN": { "player": "vós", "confidence": "high", "why": "Inglês escritural inteiro («art thou deaf», «Thou didst bring Ifrit low»); regra 3 do perfil.", "voice": "O Senhor dos Rochedos; chama os mortais de «sobremoradores».", "examples": [] },
+    "GARUDA": { "player": "vocês", "confidence": "high", "why": "Nenhum thou/thy em 32 falas: o desdém vai no léxico. Chama os mortais de «rastejantes».", "voice": "A Senhora do Vórtice, cruel e zombeteira.", "examples": [] },
+    "GAIUS": { "player": "você", "others": { "CID": "você" }, "confidence": "medium", "why": "Japonês うぬ/わし; inglês não escritural. Desprezo no léxico.", "voice": "O Lobo Negro: frio, doutrinário.", "examples": [] },
+    "PRUNILLA": { "player": "o senhor / a senhora", "confidence": "high", "why": "O inglês traz <if(gnum4,madam,sir)>; japonês です/ます.", "voice": "Cavaleira de Ishgard, cortês.", "examples": [] },
+    "ELUNED": { "player": "o senhor / a senhora", "confidence": "medium", "why": "Clero: でございます/くださいませ, 冒険者様. Só verbo na terceira pessoa, sem pronome explícito.", "voice": "Sacerdotisa de Santo Adama Landama, solene.", "examples": [] },
+    "YUYUHASE": { "player": "você", "confidence": "medium", "why": "Cortesia mercantil (ですます) sem deferência: regra dos balconistas.", "voice": "Léxico cortês, comercial.", "examples": [] },
     "LAHABREA": { "player": "você", "confidence": "low", "why": "Desprezo, não deferência.", "voice": "Grandiloquente, ri do jogador.", "examples": [] },
     "RAMUH": { "player": "vós", "confidence": "medium", "why": "Divindade falando a um mortal, inglês escritural inteiro (thou/thy/doth/hath), japonês 貴様/お主 com じゃ. Regra 3 do perfil pt-BR: vós para deuses e primordiais.", "voice": "Solene, sentencioso; chama o jogador de «Portador(a) da Luz».", "examples": ["cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_800010_RAMUH"] }
   }
