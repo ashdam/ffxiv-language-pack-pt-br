@@ -2,15 +2,15 @@
   "conversation": "quest/003/SubWil086_00334",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_00", "hash": "38544DB0A46BE483", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_01", "hash": "30DFF4BBD8242AC9", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_02", "hash": "11565142BAAE3485", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_TODO_00", "hash": "34F3A832240A0181", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_000", "hash": "70E8841FBEAD8C7A", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_001", "hash": "3516F9C2ABAC77E6", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_002", "hash": "740186E941C3E93B", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_010", "hash": "1545209B3765452D", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_011", "hash": "2646FEF1629161BC", "target": "" },
-    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_012", "hash": "32E3B452E29C15BC", "target": "" }
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_00", "hash": "38544DB0A46BE483", "target": "Nunuzofu quer que você leve um recado a Crescent Cove." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_01", "hash": "30DFF4BBD8242AC9", "target": "O capitão Baldewyn quer oferecer um banquete a um grupo de taumaturgos de passagem. Para o prato principal, precisa de peixe fresco de Crescent Cove. Nunuzofu pede que você transmita o pedido do capitão a Raffe, o pescador." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_02", "hash": "11565142BAAE3485", "target": "Embora os pescadores de Crescent Cove venham tendo pouca sorte nos últimos dias, Raffe jura que o capitão terá o seu peixe. Concluído o seu assunto na aldeia, a reação nervosa de Raffe ao pedido do capitão Baldewyn continua a incomodar você. Talvez convenha falar com outros moradores de Crescent Cove e ver se há algo errado." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_TODO_00", "hash": "34F3A832240A0181", "target": "Falar com Raffe em Crescent Cove" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_000", "hash": "70E8841FBEAD8C7A", "target": "Ei, <if(gnum4,aventureira,aventureiro)>! Faz um favor e leva um recado até Crescent Cove pra nós?" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_001", "hash": "3516F9C2ABAC77E6", "target": "É o seguinte: o capitão Baldewyn tá organizando uma festa para os taumaturgos, e quer que sirvam a eles a melhor comida e a melhor bebida. Só o melhor para os nossos ilustres convidados, né?" },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_002", "hash": "740186E941C3E93B", "target": "Segue para oeste e depois para o sul, até a aldeia, e diz ao Raffe que ele tem de entregar uma boa remessa de peixe fresco em Horizon para o banquete." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_010", "hash": "1545209B3765452D", "target": "P-Peixe fresco para o capitão Baldewyn? Claro, <italic(1)>claro<italic(0)>! Faremos o possível, <if(gnum4,senhora,senhor)>." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_011", "hash": "2646FEF1629161BC", "target": "I-Infelizmente, a pesca tem sido fraca nos últimos dias por causa do mar agitado. Mais barcos devem voltar em breve, mas não posso prometer que a pescaria agrade." },
+    { "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_012", "hash": "32E3B452E29C15BC", "target": "Mas não se preocupe, <if(gnum4,minha senhora,senhor)>! O capitão vai ter o peixe dele! Eu juro!" }
   ]
 }

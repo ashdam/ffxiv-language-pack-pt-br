@@ -2,15 +2,15 @@
   "conversation": "quest/013/GaiUse219_01363",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "" },
-    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "" }
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "Yugiri tem o ar de quem transborda de gratidão." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "Antes de se separar de você para estudar as técnicas de combate da irmandade secreta, a sempre cortês Yugiri pede que transmita a gratidão dela a Minfilia. Sem nada melhor a fazer, volte às Pedras Nascentes, no Pedágio do Espectro, e leve o recado à Antecedente." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "Você chega às Pedras Nascentes com a intenção de transmitir os agradecimentos de Yugiri, mas, antes que consiga, Minfilia começa a pôr em palavras o que pensa dos acontecimentos recentes. Pelo fenômeno que observou nos instantes anteriores à invocação de Leviathan, a Antecedente está convencida de que a verdadeira natureza do Eco e o segredo para derrotar os ascianos estão agora ao alcance. Mal ela resolve agir, porém, Urianger irrompe na Sala do Amanhecer com notícias sombrias: a Ilha de Val, lar dos Estudantes de Baldesion, foi destruída por uma magia de poder semelhante ao de Ultima..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "Falar com Minfilia nas Pedras Nascentes" },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "Muito e mais aconteceu desde que avistei Eorzea pela primeira vez do convés do galeão. Basta dizer que eu não imaginava ser convidada a tomar parte na nobre luta de vocês." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "Mas perdoe-me, eu <if(gnum4,a retive,o retive)> tempo demais. Sem dúvida tem assuntos urgentes a tratar. Pode ficar em paz: já não preciso de escolta nesta terra." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "Quando encontrar Lady Minfilia, transmita a ela os meus mais humildes agradecimentos. Quem me dera pudesse fazê-lo em pessoa, mas preciso cumprir a promessa que fiz à Almirante. Até nos vermos de novo, <if(gnum4,Guerreira,Guerreiro)> da Luz." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "Quando encontrar Lady Minfilia, transmita a ela os meus mais humildes agradecimentos. Até nos vermos de novo, <if(gnum4,Guerreira,Guerreiro)> da Luz." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "Puxa, faz <italic(1)>séculos<italic(0)> que Thancred largou a irmandade. Eu daria tudo para trabalhar de novo com o velho patife, como nos velhos tempos..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "Arte de combate do Extremo Oriente, é? Confesso que estou morrrendo de curiosidade!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil084_00332",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "" },
-    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "" }
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_00", "hash": "5EC2ED141651DEB3", "target": "Leofric quer que você faça uma entrega em Horizon." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_01", "hash": "1112F8B2768C2BCE", "target": "Leofric quer dar uma adaga antiga a Fufulupa, mas não está em condições de viajar por causa dos ferimentos. Vá até Horizon e entregue a adaga a Fufulupa no lugar dele." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_SEQ_02", "hash": "F7D6EF8E1442CE81", "target": "Fufulupa fica chocado ao ver a adaga em seu poder e explica que só os capitães das Lâminas de Latão da Rosa têm permissão para portá-la. Ainda assim, ele a guarda até que Leofric volte para reavê-la." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_TODO_00", "hash": "3A7DE249BB09E062", "target": "Entregar a adaga antiga a Fufulupa em Horizon" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_000", "hash": "2D4994E9B2328B55", "target": "Como deve ter notado, não estou em condições de sair de Esperança Perdida agora. Então, no meu lugar, queria que você voltasse a Horizon e entregasse esta adaga a Fufulupa." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_001", "hash": "AA74E1AAB3EBFC4F", "target": "Embora seja só uma adaga velha e ornamental, o lugar dela é com as Lâminas de Latão da Rosa." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_LEOFRIC_002", "hash": "B59C6E52D031F7F2", "target": "É, eu devia ter dado ao rapaz antes de vir para cá..." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_010", "hash": "4655B09A64FCFB2E", "target": "Ah, <split(<string(gstr1)>, ,1)>! Recebi notícia do capitão Leofric outro dia. Obrigado por ter entregado a carta por mim!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_011", "hash": "98C86889AF3E59F0", "target": "P-Por que está com essa adaga!? Só um capitão das Lâminas de Latão da Rosa tem permissão para portá-la!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_012", "hash": "922B708619494FC0", "target": "O capitão Leofric diz que ela deve ser minha? Só pode haver engano!" },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_013", "hash": "7D11B36F1D2911A7", "target": "Ele não poderia estar querendo dizer que─ Não, não, claro que não. Não sou digno de empunhá-la." },
+    { "gameKey": "quest/003/SubWil084_00332#TEXT_SUBWIL084_00332_FUFULUPA_014", "hash": "EF2A96C005B8414D", "target": "Ainda assim, vou respeitar a vontade do capitão e guardar a adaga até que ele venha reavê-la." }
   ]
 }

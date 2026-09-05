@@ -95,7 +95,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_86", "hash": "58B6F3F0D28A3DB1", "target": "Avise-me se precisar de alguma coisa." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_90", "hash": "6165EA74245A1301", "target": "É o emissário de Ul'dah? <if(gnum4,Seja bem-vinda,Seja bem-vindo)> a Limsa Lominsa." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_91", "hash": "BCB292A19B53EA7F", "target": "A Almirante aguardava a sua chegada com expectativa." },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_92", "hash": "18EB8DE31E5CFE75", "target": "Siga para o Crow's Lift assim que puder. Ele leva até Bulwark Hall." },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_92", "hash": "18EB8DE31E5CFE75", "target": "Siga para o Crow's Lift assim que puder. Ele leva até o Salão do Baluarte." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_93", "hash": "0EB97EDFAFEACF96", "target": "Lá, fale com Zanthael. Ele terá prazer em levar você à sala de comando da Almirante, na Ponte." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_95", "hash": "A3D91C8EBBB65288", "target": "Fale com Zanthael no Salão do Baluarte. Ele terá prazer em levar você à sala de comando da Almirante, na Ponte." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_100", "hash": "8D61F81AEAFCF286", "target": "Saudações, <if(gnum4,senhora,senhor)>, e <if(gnum4,bem-vinda,bem-vindo)> à nossa bela cidade. Se me permite examinar o selo da missiva que traz..." },

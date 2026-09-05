@@ -10,7 +10,7 @@
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_00", "hash": "9EB78856EF0112FD", "target": "Falar com Tataru" },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_01", "hash": "D63E6017A3AA9EC2", "target": "Falar com Minfilia" },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_TODO_02", "hash": "A43AAE3F6D4FFD13", "target": "Falar com Vorsaile Heuloix no Ninho das Víboras" },
-    { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SYSTEM_100_000", "hash": "3982F6A2479D032F", "target": "Para aceitar esta missão, é preciso abandonar a missão do cenário principal em andamento. Abra a entrada correspondente no diário ou na lista de missões e selecione “Abandon”." },
+    { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SYSTEM_100_000", "hash": "3982F6A2479D032F", "target": "Para aceitar esta missão, você precisa abandonar a missão principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SLAFBORN_000_000", "hash": "6E6FEC2680C9343E", "target": "Voltou para fazer o trabalho de uma dúzia de homens, pelo visto? Hah! Mas é brincadeira..." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SLAFBORN_000_001", "hash": "BF05EF267D06D3C5", "target": "Até eu entendo que <if(gnum4,uma mulher importante,um homem importante)> como você tem pouco tempo para tarefas subalternas." },
     { "gameKey": "quest/038/XxaUse114_03877#TEXT_XXAUSE114_03877_SLAFBORN_000_002", "hash": "88728B17F2808B98", "target": "Mas, já que está aqui, talvez queira dar uma olhada na nova casa dos Herdeiros. Está vendo aquela construção imponente ali? É aquilo." },

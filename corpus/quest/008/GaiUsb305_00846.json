@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb305_00846",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_00", "hash": "97E0061B20826FAE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_01", "hash": "44EA56659513435E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_02", "hash": "06F4C11383FCCEA5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_03", "hash": "4BB8E14B15412476", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_00", "hash": "7958F8BA7A2A5EBB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_01", "hash": "0F700C0B8FB3D23C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_000", "hash": "078294AD5B9737CB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_001", "hash": "75957CEB15C5BAB4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_002", "hash": "4F0FFD422B3E0ED6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_020", "hash": "EE2D5332F92F13E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_021", "hash": "36AD7D5AE985CFF2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_022", "hash": "F6780077DB95C220", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_023", "hash": "D24C4195F4DAD412", "target": "" },
-    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_024", "hash": "A517BF7E0BC4D076", "target": "" }
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_00", "hash": "97E0061B20826FAE", "target": "Drest está em profundo sofrimento." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_01", "hash": "44EA56659513435E", "target": "Drest não consegue dormir por causa do zumbido incessante dos enxames de mosquitos. Procure os insetos barulhentos e extermine-os pelo eremita atormentado." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_02", "hash": "06F4C11383FCCEA5", "target": "A selva está bem mais silenciosa agora que você abateu vários enxames. Volte ao Cordão Cortado e fale com Drest." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_SEQ_03", "hash": "4BB8E14B15412476", "target": "No meio dos agradecimentos, Drest confessa que é um desertor imperial, embora não seja garleano. O Império conquistou a terra natal dele, e ele não guarda rancor algum do povo de Eorzea. Ainda assim, não teve escolha senão vir para Vylbrand, onde hoje labuta às escondidas na esperança de um dia voltar para casa." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_00", "hash": "7958F8BA7A2A5EBB", "target": "Abater dung midge swarms" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_TODO_01", "hash": "0F700C0B8FB3D23C", "target": "Falar com Drest" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_000", "hash": "078294AD5B9737CB", "target": "Não consigo... não consigo dormir... Eles não me deixam dormir...os mosquitos... O zumbido...não me deixa dormir..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_001", "hash": "75957CEB15C5BAB4", "target": "Eu não sou... Eu...eu nunca quis machucar ninguém. Eu não vou lutar. Eu não quero lutar!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_002", "hash": "4F0FFD422B3E0ED6", "target": "Por favor, faça o zumbido parar! Faça os mosquitos irem embora!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_020", "hash": "EE2D5332F92F13E3", "target": "Não está mais tão alto. Foi...foi você que fez isso? Obrigado. Você...você me ajudou. Mesmo depois do que eu e os meus camaradas fizemos ao seu país..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_021", "hash": "36AD7D5AE985CFF2", "target": "Estávamos numa missão de reconhecimento quando o Maelstrom nos pegou de surpresa. Tentamos escapar, mas os outros... N-Ninguém mais sobreviveu." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_022", "hash": "F6780077DB95C220", "target": "Eu não pedi por isso, droga! Eu nem sou garleano! Eles conquistaram a minha terra do mesmo jeito que tentaram conquistar a sua!" },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_023", "hash": "D24C4195F4DAD412", "target": "Eu...eu não quero morrer numa selva maldita do outro lado do mundo..." },
+    { "gameKey": "quest/008/GaiUsb305_00846#TEXT_GAIUSB305_00846_DREST_000_024", "hash": "A517BF7E0BC4D076", "target": "Eu só...eu só quero voltar para casa..." }
   ]
 }

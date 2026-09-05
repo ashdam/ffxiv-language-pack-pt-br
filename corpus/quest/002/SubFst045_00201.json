@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubFst045_00201",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "" },
-    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "" }
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "Galfrid, instrutor-chefe no Bannock, quer inspecionar o seu equipamento e assim avaliar se você está pront<if(gnum4,a,o)> para as missões que virão." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "Para receber tarefas de Galfrid, você primeiro precisa reunir um conjunto de equipamento respeitável. Equipe cabeça, corpo, mãos, pernas e pés com peças de item level 5 ou superior e apresente-se ao instrutor-chefe para inspeção." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "Galfrid concluiu que o seu equipamento passa na inspeção. Agora você pode aceitar missões do instrutor-chefe." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "Apresentar-se a Galfrid para inspeção" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "Vejo que está ansios<if(gnum4,a,o)> para ajudar, <split(<string(gstr1)>, ,1)>. Isso é bom. Mas não posso, em sã consciência, mandar você para a floresta antes de confirmar que o seu equipamento está à altura da tarefa." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "Vale repetir: nos cinco anos desde o início da Sétima Era Umbral, muitas criaturas da Mata dos Doze se transformaram em monstros ferozes e sedentos de sangue. Entrar na floresta sem o equipamento adequado é o mesmo que suicídio." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "Sugiro que reserve um tempo para avaliar o seu equipamento. Quando julgar que a sua armadura tem qualidade suficiente, apresente-se a mim para inspeção." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "Equipe cabeça, corpo, mãos, pernas e pés com peças de item level 5 ou superior antes de voltar a falar com Galfrid." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "Pront<if(gnum4,a,o)> para a inspeção? Certo, então! Olhos à frente! Coluna ereta!" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "Hmmm... Sim, acho que você passa." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "Você ficaria surpres<if(gnum4,a,o)> com a quantidade de soldados jovens e promissores que morrem por correr para o mato sem antes vestir uma armadura decente." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "O seu equipamento, porém, deve dar a proteção necessária. Considere-se pront<if(gnum4,a,o)> para o serviço, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "\\<suspiro> Do jeito que está, é como se andasse com a roupa do dia em que nasceu. Volte quando tiver conseguido equipamento mais resistente." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "Equipe cabeça, corpo, mãos, pernas e pés com peças de item level 5 ou superior antes de voltar a falar com Galfrid." }
   ]
 }

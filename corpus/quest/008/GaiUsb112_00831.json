@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb112_00831",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "" }
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_00", "hash": "50671B97EFCD20ED", "target": "U'odh Nunh quer que você entregue um presente a Wheiskaet." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_01", "hash": "A58BD1A51D1F5D3A", "target": "Concluídos os seus assuntos em Forgotten Springs, você precisa voltar a Costa del Sol para descobrir onde encontrar o terceiro ingrediente. Como vai se encontrar com Wheiskaet outra vez em breve, U'odh Nunh pediu que entregue por ele uma garrafa de aguardente de ônix. Volte a Wheiskaet e apresente a ele o presente de U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_SEQ_02", "hash": "79411E751F0A1E17", "target": "Wheiskaet fica surpreso com o presente e decide agradecer ao velho companheiro no próximo encontro. Resolvido isso, você já pode falar com ele sobre o último ingrediente." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_TODO_00", "hash": "0545B0C7C0EE4FAB", "target": "Entregar a aguardente de ônix a Wheiskaet" },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_000", "hash": "E59DB4DEA20EA6A9", "target": "O capitão sempre teve um fraco por esta garrrafa. Eu agradeceria se você a entregasse por mim." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_001", "hash": "2B17EE442F7E12E8", "target": "Eu era um jovem irrresponsável e cheio de raiva quando entrei na Companhia, e ele tinha todo o direito de me expulsar. Devo tudo o que tenho à sabedoria e à generosidade dele." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_002", "hash": "840E683B0C701A0A", "target": "É, Wheiskaet era um mestre ferrrenho, mas justo, um moldador de homens de primeira. E desconfio que ainda seja." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_UODHNUN_000_003", "hash": "15EE6524580343A4", "target": "Leve a ele as minhas lembranças, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_020", "hash": "C3C67C892C202538", "target": "Que bom ver você, <split(<string(gstr1)>, ,1)>. Landenel e U'odh Nunh falaram muito bem de você. O que traz você aqui hoje?" },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_025", "hash": "DE692059E31DB6FE", "target": "Ahhh, a minha preferida. Vou ter de agradecer ao nunh pessoalmente." },
+    { "gameKey": "quest/008/GaiUsb112_00831#TEXT_GAIUSB112_00831_WHEISKAET_000_026", "hash": "1B4BBCF544E04CE3", "target": "Pois bem, falta só um ingrediente. Por sorte, desta vez você não vai precisar viajar até Aldenard para consegui-lo." }
   ]
 }
