@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc104_00955",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "" }
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "O professor Lamberteint está prestes a lhe mostrar algo que você nunca vai esquecer." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "O professor Lamberteint fica encantado por encontrar uma das poucas pessoas interessadas em cristais corrompidos, embora duvide da sua capacidade de manusear materiais tão perigosos. Por sorte, ele tem em mãos um recipiente com proteção especial para essas ocasiões, que está disposto a lhe emprestar apesar das suas aparentes limitações. Devidamente equipad<if(gnum4,a,o)>, siga para a Ponte Alta e apresente-se a Hahasako, um dos discípulos dedicados do professor Lamberteint." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_02", "hash": "8F25FA6CA46B76AE", "target": "A irritação de Hahasako vira contentamento quando ele percebe que foi o professor quem mandou procurá-lo. Interpretando a decisão do mentor como um reconhecimento tácito da sua perícia, Hahasako se esforça para recuperar a compostura e poder ajudar você." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_TODO_00", "hash": "C409C8BD504BE38C", "target": "Entregar o pote protegido a Hahasako" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SYSTEM_100_000", "hash": "0658F18159BB4DDF", "target": "Para aceitar esta missão, você precisa abandonar a missão da história principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_000", "hash": "7746E596F9D16466", "target": "Ahhh, como é raro encontrar outros intelectuais nesta região. Mais raro ainda é encontrar alguém capaz de compreender a natureza dos cristais corrompidos." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_001", "hash": "1D8882C8D982314A", "target": "Agora que penso nisso, houve outro─um eremita a quem a igreja dera abrigo. Sujeito curioso. Insociável, de aparência meio abobalhada à primeira impressão, mas dotado de uma afinidade espantosa com as buscas científicas..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_002", "hash": "D231B6E7D0B328B8", "target": "Mas ao que interessa─você disse que não quer fazer observações de campo, e sim <italic(1)>colher<italic(0)> um cristal corrompido?" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_003", "hash": "DF7A86D07FF91C0C", "target": "Pelos céus, <if(gnum4,mulher,homem)>! Tome ao menos as precauções necessárias para não sofrer com a exposição às energias nocivas dele! Começo a duvidar de que tenha qualificação suficiente para manusear materiais tão arriscados..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_004", "hash": "C50014E8D0F07ED7", "target": "Ainda assim, a sua ignorância tem certo charme. Por sorte sua, tenho exatamente o meio de evitar esses perigos inerentes. Basta guardar o cristal que procura dentro deste pote protegido para se resguardar dos efeitos nocivos. Embora eu suponha que ficará bombardead<if(gnum4,a,o)> pelas energias dele até pôr o cristal no recipiente..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_LAMBERTEINT_000_005", "hash": "2CA7F9E41BA029E2", "target": "Bem, talvez isso sirva de incentivo para trabalhar depressa. De todo modo, leve o pote a Hahasako, um aluno meu que monitora o fluxo de éter na Ponte Alta. Explique a ele o que procura, e ele instruirá você nas sutilezas da colheita de cristais." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_010", "hash": "36C8024DD7CF1E29", "target": "Quantas vezes vou ter de me explicar!? Não estou pensando em me matar, seu imbecil─escolhi exatamente esta posição para fazer medições científicas!" },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_020", "hash": "61CDB56FF4D1234E", "target": "O que temos aqui... um recipiente de contenção!? Ora, isto é obra do professor Lamberteint! Seu canalha ladrão, vou chamar a─ Ah, você diz que o próprio homem emprestou..." },
+    { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_HAHASAKO_000_021", "hash": "146DEC67ED7CB57D", "target": "Então você me procurou por instrução dele... o que significa que ele me julga experiente o bastante para desenvolver as explicações dele! Enfim, o reconhecimento que por direito mereço!" }
   ]
 }

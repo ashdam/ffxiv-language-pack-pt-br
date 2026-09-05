@@ -2,17 +2,17 @@
   "conversation": "quest/038/XxaUsa801_03864",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_00", "hash": "1379F1B04DF15B90", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_01", "hash": "B77D5DBFD3E6ED73", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_02", "hash": "E1C659048BF4F08F", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_03", "hash": "F1D7DBD35A1B6F34", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_00", "hash": "CA058B0AE0D4455E", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_01", "hash": "80732AF0716B4DCE", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SYSTEM_100_000", "hash": "43E201CE95BFD9D9", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_000", "hash": "DECD5779E1C7A746", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_001", "hash": "D2390A0BBA237BF7", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_002", "hash": "1B99434A420C5E2A", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_020", "hash": "01E2F7DA0E02173D", "target": "" },
-    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_021", "hash": "AFC0A8E3855CD8AF", "target": "" }
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_00", "hash": "1379F1B04DF15B90", "target": "Aideen tem uma proposta a fazer sobre a sua investigação." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_01", "hash": "B77D5DBFD3E6ED73", "target": "Corre a crença de que os ziz da região possam ser os responsáveis pelas mortes. Aideen sugere que você abata três desses escamosos para ver se encontra alguma pista." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_02", "hash": "E1C659048BF4F08F", "target": "Você abateu três ziz como sugerido e não tem muito a mostrar além de uma boa safra de mordidas e talhos. Volte à Balsa de Fallgourd e informe Aideen." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SEQ_03", "hash": "F1D7DBD35A1B6F34", "target": "Aideen risca os ziz da lista de suspeitos e volta a atenção mais uma vez para o homem mascarado e o globo ocular alado dele." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_00", "hash": "CA058B0AE0D4455E", "target": "Abater ziz" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_TODO_01", "hash": "80732AF0716B4DCE", "target": "Reportar-se a Aideen" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_SYSTEM_100_000", "hash": "43E201CE95BFD9D9", "target": "Para aceitar esta missão, é preciso abandonar a missão da história principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_000", "hash": "DECD5779E1C7A746", "target": "Então, o que eu sei sobre as mortes é o seguinte: todas as vítimas foram encontradas com o rosto feito em tiras." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_001", "hash": "D2390A0BBA237BF7", "target": "Entre os bichos daqui, só os escamosos conhecidos como ziz poderiam causar ferimentos assim. É por isso que tem gente apontando o dedo para eles." },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_002", "hash": "1B99434A420C5E2A", "target": "Sei lá, duvido que a resposta seja tão simples, mas, por escrúpulo, é bom checar. Que tal você abater umas três dessas criaturas e ver se aparece alguma prova ligando elas às mortes?" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_020", "hash": "01E2F7DA0E02173D", "target": "Já deu conta dos ziz? Bom trabalho, aventureir<if(gnum4,a,o)>! E então, achou alguma coisa que sugira que os bichos são os culpados?" },
+    { "gameKey": "quest/038/XxaUsa801_03864#TEXT_XXAUSA801_03864_AIDEEN_000_021", "hash": "AFC0A8E3855CD8AF", "target": "...Nada? Pra ser sincera, mesmo que houvesse prova, eu não saberia como ela é. Enfiiim, acho que dá para riscar os ziz da lista de suspeitos com tranquilidade. O que nos deixa com... o homem mascarado e o globo ocular alado dele!" }
   ]
 }

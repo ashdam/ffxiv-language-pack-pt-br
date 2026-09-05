@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa802_00786",
   "gameVersion": "2026.08.11.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_00", "hash": "A35213D961604CFA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_01", "hash": "A56D99F4F0651514", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_02", "hash": "CD147C7478356F5B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_03", "hash": "48F71D15A1030C2D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_00", "hash": "E7489DFD907EA6AE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_01", "hash": "B3EE94C69FB2C536", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_000", "hash": "0466F9041F264049", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_001", "hash": "F1CD71173FC1FF07", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_002", "hash": "8D00C74EA4D0D6BB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_020", "hash": "018BCD0E9CEBCD82", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_021", "hash": "A1E27E279B31186A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_022", "hash": "21079A4DFF61F98E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_POP_MESSAGE_000", "hash": "792F575E74592A58", "target": "" }
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_00", "hash": "A35213D961604CFA", "target": "Ivaurault tem informações a compartilhar sobre a sua investigação." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_01", "hash": "A56D99F4F0651514", "target": "Ivaurault revela que também viu o olho alado. O avistamento se deu na área rochosa a oeste. Vá até lá e investigue." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_02", "hash": "CD147C7478356F5B", "target": "Em vez do olho alado, aparece um banemite monstruoso, e você é forçad<if(gnum4,a,o)> a se defender. Volte à Balsa de Fallgourd e apresente-se a Ivaurault." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_03", "hash": "48F71D15A1030C2D", "target": "Você fica sabendo que o banemite que abateu era havia muito um flagelo para os moradores. Ivaurault fica devidamente impressionado com a sua perícia nas armas, mas se pergunta se não terá apenas imaginado o olho alado." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_00", "hash": "E7489DFD907EA6AE", "target": "Investigar o local indicado" },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_01", "hash": "B3EE94C69FB2C536", "target": "Apresentar-se a Ivaurault" },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_000", "hash": "0466F9041F264049", "target": "Tem uma coisa que você precisa saber. Guardei isso comigo para não piorar a paranoia de Medrod, mas eu também vi o olho alado." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_001", "hash": "F1CD71173FC1FF07", "target": "Não sei dizer se foi coincidência, mas o meu avistamento se deu exatamente na mesma hora que o de Medrod. Eu voltava para casa depois de um dia de escavação quando uma sombra caiu sobre mim." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_002", "hash": "8D00C74EA4D0D6BB", "target": "Ao olhar para cima, me vi encarando um globo ocular gigante. Soltei um grito com toda a força dos pulmões e corri sem olhar para trás nem uma vez. Foi na área rochosa a oeste daqui, caso queira investigar." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_020", "hash": "018BCD0E9CEBCD82", "target": "Apareceu um banemite monstruoso... e você o abateu!? Aquela criatura era havia muito um flagelo para o povo de Fallgourd!" },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_021", "hash": "A1E27E279B31186A", "target": "Intencional ou não, você nos prestou um grande serviço. Tem a minha gratidão!" },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_IVAURAULT_000_022", "hash": "21079A4DFF61F98E", "target": "...Mas isso me faz duvidar: será que era mesmo um olho alado o que vi? Ou só um truque de luz somado a puro pânico?" },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_POP_MESSAGE_000", "hash": "792F575E74592A58", "target": "Você sente uma presença hostil!" }
   ]
 }
