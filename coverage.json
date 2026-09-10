@@ -1,10 +1,10 @@
 {
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "translated": 14417,
-  "total": 433501,
+  "total": 439927,
   "percent": 3.3,
-  "chars": 52698688,
-  "unresolved": 4405,
+  "chars": 53409892,
+  "unresolved": 4527,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -64,7 +64,7 @@
       "expansion": "A Realm Reborn",
       "content": "Retired quests and other",
       "translated": 0,
-      "total": 4443
+      "total": 4787
     },
     {
       "expansion": "Heavensward",
@@ -286,7 +286,7 @@
       "expansion": "Dawntrail",
       "content": "Main scenario",
       "translated": 0,
-      "total": 17579
+      "total": 18009
     },
     {
       "expansion": "Dawntrail",
@@ -304,7 +304,7 @@
       "expansion": "Dawntrail",
       "content": "Class and job quests",
       "translated": 0,
-      "total": 7057
+      "total": 7958
     },
     {
       "expansion": "Dawntrail",
@@ -328,13 +328,13 @@
       "expansion": "Dawntrail",
       "content": "Quest names",
       "translated": 0,
-      "total": 587
+      "total": 604
     },
     {
       "expansion": "Dawntrail",
       "content": "Retired quests and other",
       "translated": 0,
-      "total": 110
+      "total": 140
     },
     {
       "expansion": null,
@@ -346,37 +346,37 @@
       "expansion": null,
       "content": "Battle and system messages",
       "translated": 0,
-      "total": 8400
+      "total": 8509
     },
     {
       "expansion": null,
       "content": "How-to tutorials",
       "translated": 0,
-      "total": 1063
+      "total": 1106
     },
     {
       "expansion": null,
       "content": "Duty Finder",
       "translated": 0,
-      "total": 695
+      "total": 700
     },
     {
       "expansion": null,
       "content": "The Unending Journey — the rest is levequest names",
       "translated": 0,
-      "total": 7562
+      "total": 7584
     },
     {
       "expansion": null,
       "content": "Service NPC menus",
       "translated": 0,
-      "total": 29204
+      "total": 29340
     },
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 0,
-      "total": 13390
+      "total": 13643
     },
     {
       "expansion": null,
@@ -388,7 +388,7 @@
       "expansion": null,
       "content": "Main menu (`MainCommand`)",
       "translated": 0,
-      "total": 199
+      "total": 201
     },
     {
       "expansion": null,
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 0,
-      "total": 77810
+      "total": 81944
     }
   ],
   "excludedFromLocalization": [
@@ -408,19 +408,19 @@
       "expansion": null,
       "content": "Item names (`Item`)",
       "translated": 0,
-      "total": 173127
+      "total": 173452
     },
     {
       "expansion": null,
       "content": "Duty names (`ContentFinderCondition`)",
       "translated": 0,
-      "total": 889
+      "total": 895
     },
     {
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 586
+      "total": 607
     }
   ]
 }
