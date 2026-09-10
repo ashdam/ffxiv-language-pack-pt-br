@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/XxaWil063_03852",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_00", "hash": "0B2E4CC49E79AA94", "target": "Roger ouve todo tipo de informação no ramo dele, e parte disso pode ser útil a você." },
     { "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_01", "hash": "4AFE563B3066E88E", "target": "Roger desconfia que você foi feit<if(gnum4,a,o)> para feitos maiores do que entregar abóboras. Ele sugere que fale com Warin, das Tochas de Pedra, que precisa de ajuda com alguma coisa." },

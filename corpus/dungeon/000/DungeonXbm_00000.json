@@ -1,0 +1,9 @@
+{
+  "conversation": "dungeon/000/DungeonXbm_00000",
+  "gameVersion": "2026.09.01.0000.0000",
+  "entries": [
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000", "hash": "2DC3F6DA958678C4", "target": "" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100", "hash": "B605F0626B52C988", "target": "" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200", "hash": "CE0046E1F588A1EB", "target": "" }
+  ]
+}

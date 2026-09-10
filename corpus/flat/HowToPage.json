@@ -1,6 +1,6 @@
 {
   "sheet": "HowToPage",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "HowToPage#5.4", "hash": "F879ED6A2E8248C4", "target": "" },
     { "gameKey": "HowToPage#5.5", "hash": "62B4E94AF9E78A4B", "target": "" },
@@ -693,6 +693,12 @@
     { "gameKey": "HowToPage#2589.4", "hash": "61112A83BE610AB3", "target": "" },
     { "gameKey": "HowToPage#2590.4", "hash": "9FFAE8C62F0AA9B1", "target": "" },
     { "gameKey": "HowToPage#2591.4", "hash": "A407E49331376048", "target": "" },
-    { "gameKey": "HowToPage#2592.4", "hash": "CAF490AE8DA7822F", "target": "" }
+    { "gameKey": "HowToPage#2592.4", "hash": "CAF490AE8DA7822F", "target": "" },
+    { "gameKey": "HowToPage#2593.4", "hash": "2F543D0CB271BFC7", "target": "" },
+    { "gameKey": "HowToPage#2594.4", "hash": "30A955443AE9F0D6", "target": "" },
+    { "gameKey": "HowToPage#2595.4", "hash": "940AEDCBE78DEA4E", "target": "" },
+    { "gameKey": "HowToPage#2596.4", "hash": "20578B696D447143", "target": "" },
+    { "gameKey": "HowToPage#2597.4", "hash": "ADD266A1701EBF58", "target": "" },
+    { "gameKey": "HowToPage#2598.4", "hash": "F3D95BDA06EFB689", "target": "" }
   ]
 }

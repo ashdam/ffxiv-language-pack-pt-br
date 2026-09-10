@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc104_00955",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_00", "hash": "058D71686C546C96", "target": "O professor Lamberteint está prestes a lhe mostrar algo que você nunca vai esquecer." },
     { "gameKey": "quest/009/GaiUsc104_00955#TEXT_GAIUSC104_00955_SEQ_01", "hash": "4638CF536B976810", "target": "O professor Lamberteint fica encantado por encontrar uma das poucas pessoas interessadas em cristais corrompidos, embora duvide da sua capacidade de manusear materiais tão perigosos. Por sorte, ele tem em mãos um recipiente com proteção especial para essas ocasiões, que está disposto a lhe emprestar apesar das suas aparentes limitações. Devidamente equipad<if(gnum4,a,o)>, siga para a Ponte Alta e apresente-se a Hahasako, um dos discípulos dedicados do professor Lamberteint." },

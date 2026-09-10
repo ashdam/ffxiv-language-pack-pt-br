@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc203_00962",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_00", "hash": "45FE352EF3D7FD52", "target": "Ceana não tem o menor desejo de viajar até as Ilhas de Umbra." },
     { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_01", "hash": "C2673B0C6E3F441C", "target": "Diante da sua insistência, Ceana concorda em acompanhá-l<if(gnum4,a,o)> às Ilhas de Umbra para ajudar a obter um cristal corrompido. Fale com o barqueiro para começar a viagem." },

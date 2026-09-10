@@ -1,0 +1,30 @@
+{
+  "sheet": "ChocoboRaceItem",
+  "gameVersion": "2026.09.01.0000.0000",
+  "entries": [
+    { "gameKey": "ChocoboRaceItem#0.0", "hash": "A28C7CD016076D3B", "target": "" },
+    { "gameKey": "ChocoboRaceItem#0.1", "hash": "7574D2CF4A8CECC2", "target": "" },
+    { "gameKey": "ChocoboRaceItem#1.0", "hash": "9DEBAAD85F6D162B", "target": "" },
+    { "gameKey": "ChocoboRaceItem#1.1", "hash": "EDB205ACA182101F", "target": "" },
+    { "gameKey": "ChocoboRaceItem#2.0", "hash": "32E6B1F3D4CC4EA0", "target": "" },
+    { "gameKey": "ChocoboRaceItem#2.1", "hash": "5661B9FB9BCE831D", "target": "" },
+    { "gameKey": "ChocoboRaceItem#3.0", "hash": "51836A90513AF566", "target": "" },
+    { "gameKey": "ChocoboRaceItem#3.1", "hash": "69C719105E97E6B0", "target": "" },
+    { "gameKey": "ChocoboRaceItem#4.0", "hash": "5D17885469B4C429", "target": "" },
+    { "gameKey": "ChocoboRaceItem#4.1", "hash": "E57EBCAAB7433A4C", "target": "" },
+    { "gameKey": "ChocoboRaceItem#5.0", "hash": "1756F4D0347DF6D6", "target": "" },
+    { "gameKey": "ChocoboRaceItem#5.1", "hash": "0DCD78E54D053515", "target": "" },
+    { "gameKey": "ChocoboRaceItem#6.0", "hash": "CF92434FFC953723", "target": "" },
+    { "gameKey": "ChocoboRaceItem#6.1", "hash": "7D6957E43A88E456", "target": "" },
+    { "gameKey": "ChocoboRaceItem#7.0", "hash": "3090EF99F81E69D6", "target": "" },
+    { "gameKey": "ChocoboRaceItem#7.1", "hash": "D006B826B0B44F8C", "target": "" },
+    { "gameKey": "ChocoboRaceItem#8.0", "hash": "B17249E2990F3BFA", "target": "" },
+    { "gameKey": "ChocoboRaceItem#8.1", "hash": "BD3BE50D7FE1ACC7", "target": "" },
+    { "gameKey": "ChocoboRaceItem#9.0", "hash": "5FB6FAA92A12E001", "target": "" },
+    { "gameKey": "ChocoboRaceItem#9.1", "hash": "467D26FF5F9EBAA5", "target": "" },
+    { "gameKey": "ChocoboRaceItem#10.0", "hash": "A77FC9A8B3D32442", "target": "" },
+    { "gameKey": "ChocoboRaceItem#10.1", "hash": "84EA2B2FABCEF392", "target": "" },
+    { "gameKey": "ChocoboRaceItem#11.0", "hash": "C2897805993BE2DC", "target": "" },
+    { "gameKey": "ChocoboRaceItem#11.1", "hash": "E958360FCC0DF29A", "target": "" }
+  ]
+}
