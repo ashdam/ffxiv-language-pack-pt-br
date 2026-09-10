@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubWil060_00303",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_00", "hash": "C6F47A5A92516F85", "target": "Cicidoa precisa de <if(gnum4,uma aventureira de confiança,um aventureiro de confiança)> para entregar um presente no Cofre e o Caixão." },
     { "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_01", "hash": "576838E69C705AE6", "target": "Para saldar uma dívida de gratidão, Cicidoa quer dar a Roger uma abóbora, comprada nas Hortas Reais." },

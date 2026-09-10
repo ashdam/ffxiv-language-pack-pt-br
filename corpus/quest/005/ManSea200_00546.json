@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManSea200_00546",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_00", "hash": "8DAD740A3170140C", "target": "Merlwyb quer confiar a você uma tarefa importante." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_01", "hash": "F3D59DB9E6D49C60", "target": "Merlwyb nomeou você <if(gnum4,sua emissária pessoal,seu emissário pessoal)> e pediu que entregue uma missiva aos outros dois líderes da Aliança Eorzeana. Para facilitar a jornada, concedeu-lhe um passe de aeronave, que permite viajar pelos ares entre as três nações aliadas. Antes de seguir para o ancoradouro de aeronaves, não deixe de perguntar a Baderon o que espera por você além do Estreito de Merlthor." },

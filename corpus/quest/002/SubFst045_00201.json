@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubFst045_00201",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "Galfrid, instrutor-chefe no Bannock, quer inspecionar o seu equipamento e assim avaliar se você está pront<if(gnum4,a,o)> para as missões que virão." },
     { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "Para receber tarefas de Galfrid, você primeiro precisa reunir um conjunto de equipamento respeitável. Equipe cabeça, corpo, mãos, pernas e pés com peças de item level 5 ou superior e apresente-se ao instrutor-chefe para inspeção." },

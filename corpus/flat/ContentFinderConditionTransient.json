@@ -1,6 +1,6 @@
 {
   "sheet": "ContentFinderConditionTransient",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "ContentFinderConditionTransient#1", "hash": "B6A1F90BDE15B241", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#2", "hash": "1930A24986B3D8AC", "target": "" },
@@ -578,6 +578,11 @@
     { "gameKey": "ContentFinderConditionTransient#1079", "hash": "8442F52DB6C40098", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#1080", "hash": "292771AB039E0C2E", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#1084", "hash": "AAD3C4916A2EC3DA", "target": "" },
+    { "gameKey": "ContentFinderConditionTransient#1088", "hash": "A02C900768AC9EE7", "target": "" },
+    { "gameKey": "ContentFinderConditionTransient#1089", "hash": "28FA2291941D88B8", "target": "" },
+    { "gameKey": "ContentFinderConditionTransient#1090", "hash": "6466C34DC1034239", "target": "" },
+    { "gameKey": "ContentFinderConditionTransient#1091", "hash": "15C68A0CB3399099", "target": "" },
+    { "gameKey": "ContentFinderConditionTransient#1092", "hash": "14D74DFDB1E82F47", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#1093", "hash": "EC9B2717650F621B", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#1094", "hash": "597019BE0E713D37", "target": "" },
     { "gameKey": "ContentFinderConditionTransient#1102", "hash": "238B9BB348036445", "target": "" },
