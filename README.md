@@ -4,9 +4,9 @@ Tradução para o português do Brasil dos textos de Final Fantasy XIV para o pl
 **Gubal Library**. Não modifica os arquivos originais do jogo.
 
 Instalação e estado da tradução:
-**[eorzea-localized.ashdam.workers.dev/pt-br/](https://eorzea-localized.ashdam.workers.dev/pt-br/)**
+**[eorzealocalized.com/pt-br/](https://eorzealocalized.com/pt-br/)**
 
 Como colaborar com a tradução, passo a passo:
-**[eorzea-localized.ashdam.workers.dev/localize/pt-br.html](https://eorzea-localized.ashdam.workers.dev/localize/pt-br.html)**
+**[eorzealocalized.com/localize/pt-br.html](https://eorzealocalized.com/localize/pt-br.html)**
 
 Uma linha mal traduzida: https://github.com/ashdam/ffxiv-language-pack-pt-br/issues
