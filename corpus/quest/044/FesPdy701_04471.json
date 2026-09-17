@@ -1,6 +1,6 @@
 {
   "conversation": "quest/044/FesPdy701_04471",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_SEQ_00", "hash": "BC182669AB8C0035", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_SEQ_01", "hash": "759E2B85E3F947AF", "target": "" },
@@ -49,6 +49,7 @@
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_050", "hash": "AC41E6E3CDA076C5", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_051", "hash": "77BDB27CAF69A667", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_052", "hash": "ECEC5AAD2ABD0C22", "target": "" },
+    { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_053", "hash": "8871E8929337B1ED", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_054", "hash": "8D895EB2F211B502", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_055", "hash": "A2F520747B7B096E", "target": "" },
     { "gameKey": "quest/044/FesPdy701_04471#TEXT_FESPDY701_04471_MARABEL_000_060", "hash": "985A320FA8C9203D", "target": "" },

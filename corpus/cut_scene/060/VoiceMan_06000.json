@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/060/VoiceMan_06000",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000010_THANCRED", "hash": "9E756174EDEF5046", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000020_YSHTOLA", "hash": "357859170BD0A767", "target": "" },
@@ -207,7 +207,6 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001950_ALPHINAUD", "hash": "1D07D86224D5BCFC", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001960_ALPHINAUD", "hash": "B723A13F858D1785", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001970_ALISAIE", "hash": "85AABD9CE7FCE193", "target": "" },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001980_KRILE", "hash": "F545EE2EBC47CC74", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_001990_KRILE", "hash": "41736778E058401C", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002000_KRILE", "hash": "0D6C1022408B4A26", "target": "" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_002010_KRILE", "hash": "00EB0B13EC89B027", "target": "" },

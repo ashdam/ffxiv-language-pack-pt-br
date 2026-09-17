@@ -1,7 +1,12 @@
 {
   "sheet": "ContentTalk",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
+    { "gameKey": "ContentTalk#1", "hash": "EEED4B72EB8FAD16", "target": "" },
+    { "gameKey": "ContentTalk#2", "hash": "ED962B9BCE663C5E", "target": "" },
+    { "gameKey": "ContentTalk#3", "hash": "E6BB63735FDCC6B1", "target": "" },
+    { "gameKey": "ContentTalk#4", "hash": "71924A9C9277C3CF", "target": "" },
+    { "gameKey": "ContentTalk#5", "hash": "B806644AB5FD4F68", "target": "" },
     { "gameKey": "ContentTalk#20", "hash": "27BF133DB41DB605", "target": "" },
     { "gameKey": "ContentTalk#21", "hash": "D5FF3B4BBBCB5B8E", "target": "" },
     { "gameKey": "ContentTalk#22", "hash": "641FAEF79542136D", "target": "" },

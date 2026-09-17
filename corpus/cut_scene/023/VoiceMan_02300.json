@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/023/VoiceMan_02300",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_000010_ALPHINAUD", "hash": "0863EF936C156A15", "target": "Ora, você já deve ter percebido que Tataru gosta de exagerar. Como pode ver, estou muito bem." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_000020_ALPHINAUD", "hash": "9725CDB8BE7C434E", "target": "Ul'dah, por outro lado, não está. Esse tumulto foi tudo menos um incidente isolado." },
@@ -196,7 +196,6 @@
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00150_RAUBAHN", "hash": "8302B85ABEB643B1", "target": "Explorei todos os caminhos ao nosso alcance, Vossa Majestade, mas, como está a lei uldahna hoje, faltam-nos provas para condená-lo por qualquer crime. Prendê-lo sob pretexto duvidoso só faria o jogo dele..." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00160_NANAMOULNAMO", "hash": "AD4B78D96DCE7BFB", "target": "Ele praticamente cometeu traição, e ainda assim nada podemos fazer!?" },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00170_NANAMOULNAMO", "hash": "36551CD52C9B3E43", "target": "De que serve então o nosso governo!? De que vale a casa real!? Que arremedo deplorável de justiça!" },
-    { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00180_NANAMOULNAMO", "hash": "3E4E415A202673EE", "target": "(chorando)" },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_C00190_RAUBAHN", "hash": "12381C19BFA5998B", "target": "Tenha fé, Vossa Majestade. Ainda não acabou..." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_D00010_ALPHINAUD", "hash": "F071D890E4BCA8C1", "target": "Camaradas! A presença de vocês aqui hoje assinala a escolha decisiva que cada um de vocês fez." },
     { "gameKey": "cut_scene/023/VoiceMan_02300#TEXT_VOICEMAN_02300_D00020_ALPHINAUD", "hash": "C4CBFE18D9EC7C1A", "target": "Com a força de vocês agora empenhada aos Herdeiros do Sétimo Amanhecer, vocês não devem lealdade a nação alguma. Vocês são a vanguarda de uma Eorzea unida!" },
