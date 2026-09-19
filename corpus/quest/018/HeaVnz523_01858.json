@@ -1,6 +1,6 @@
 {
   "conversation": "quest/018/HeaVnz523_01858",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_SEQ_00", "hash": "B9CD4755D6094FEF", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_SEQ_01", "hash": "1ADB8ECB29D60F87", "target": "" },
@@ -8,10 +8,6 @@
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_SEQ_03", "hash": "5FD0F62B185C1F24", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_00", "hash": "1FC968815A8384EE", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_01", "hash": "6C056E9BD567F326", "target": "" },
-    { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_02", "hash": "7131A168C2326ACC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_03", "hash": "679A55FB27F9A091", "target": "" },
-    { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_04", "hash": "D2CA77B263648147", "target": "" },
-    { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_TODO_05", "hash": "91F10963DD8F1912", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_FIELDTRIPMOGA01856_000_000", "hash": "92358A8EB2C58122", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_FIELDTRIPMOGB01857_000_001", "hash": "3FFC23CDE2B7EAF2", "target": "" },
     { "gameKey": "quest/018/HeaVnz523_01858#TEXT_HEAVNZ523_01858_GUIDEMOG01855_000_010", "hash": "1E848640C98A411F", "target": "" },

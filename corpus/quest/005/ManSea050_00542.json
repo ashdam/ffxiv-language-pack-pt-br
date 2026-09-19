@@ -1,8 +1,7 @@
 {
   "conversation": "quest/005/ManSea050_00542",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_SEQ_02", "hash": "6DE10080CDFA0F70", "target": "" },
     { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200010_NARRATION", "hash": "4EF906361B36C965", "target": "" },
     { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200020_NARRATION", "hash": "66F38655A7513164", "target": "" },
     { "gameKey": "quest/005/ManSea050_00542#TEXT_MANSEA050_00542_200030_NARRATION", "hash": "964CAEFD93683684", "target": "" },

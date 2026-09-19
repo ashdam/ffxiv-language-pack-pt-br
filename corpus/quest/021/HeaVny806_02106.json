@@ -1,9 +1,7 @@
 {
   "conversation": "quest/021/HeaVny806_02106",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_00", "hash": "5C9266D4D9CFA336", "target": "" },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_01", "hash": "638779503AE0873E", "target": "" },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "" },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "" },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "" },

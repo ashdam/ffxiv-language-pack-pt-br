@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/024/VoiceMan_02400",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_000010_ILBERD", "hash": "810123AEF57F6DF7", "target": "Salve, Herdeir<if(gnum4,a,o)>. Em que podemos lhe ser úteis?" },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_000020_ILBERD", "hash": "11AB9471AF808563", "target": "...O Comandante Leveilleur mandou você nos ajudar?" },
@@ -176,7 +176,7 @@
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_D00050_ICEHEART", "hash": "B502D8C04024D65B", "target": "Tomai a minha carne─enchei este receptáculo com a vossa luz! Caminhai outra vez entre vossos irmãos e irmãs!" },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_D00060_ICEHEART", "hash": "C7B9CBF90D5C15BD", "target": "Ó Santa Shiva, acalmai o ódio dos nossos corações e abençoai-nos com a vossa graça eterna!" },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_D00070_SHIVA", "hash": "D0E001639A8BACAD", "target": "Hmpf..." },
-    { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_E00010_ICEHEART", "hash": "F8C37E55F2AFD25E", "target": "<if(gnum4,Tola... Cega, maldita tola,Tolo... Cego, maldito tolo)>." },
+    { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_E00010_ICEHEART", "hash": "F8C37E55F2AFD25E", "target": "<if(gnum4,Tola... Cega\\, maldita tola,Tolo... Cego\\, maldito tolo)>." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_E00020_ICEHEART", "hash": "A1A656A7942A7717", "target": "Você, mais do que ninguém, deveria compreender o sofrimento que a guerra gera─que nenhum sacrifício é grande demais se põe fim à violência." },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_E00021_ICEHEART", "hash": "03C8B6D461091F31", "target": "A causa justa é a <italic(1)>minha<italic(0)>!" },
     { "gameKey": "cut_scene/024/VoiceMan_02400#TEXT_VOICEMAN_02400_E00030_ICEHEART", "hash": "0144FB1B70228EE0", "target": "Você luta numa guerra que não entende─peão de mentirosos e conspiradores." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManFst313_00517",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_SEQ_00", "hash": "07E4D9ACB0598D6A", "target": "Y'shtola quer tratar da sua próxima tarefa." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_SEQ_01", "hash": "71B6752391CB3ABC", "target": "Embora a notícia da sua vitória sobre o Senhor dos Rochedos quase certamente já tenha chegado a Limsa Lominsa, Y'shtola quer que você volte ao Comando do Maelstrom e informe formalmente à Comandante Suprema Rhiki que Titan não é mais uma ameaça." },
@@ -23,7 +23,6 @@
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_MINFILIA_000_018", "hash": "C8A3D423045BD187", "target": "Pode esperar uma recepção de <if(gnum4,heroína,herói)>!<br>Aguardamos o seu retorno nas Areias Despertas. Há muito a conversar. Vá com os deuses." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCA_000_020", "hash": "92E380F2BAFFA609", "target": "Ouviu aquela zoeira agora há pouco? Que diabos estavam fazendo lá dentro? Lutando com um peiste!? Você tem cara de quem gosta de aventura. Se importa de dar uma olhada?" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NPCB_000_021", "hash": "03D23F6C096B6BDD", "target": "...Aquilo era <italic(1)>gritaria<italic(0)> que eu ouvi? Não sei se quero saber..." },
-    { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_030", "hash": "54CCC43429215735", "target": "Investigar o que aconteceu (tocar o corpo do silfo)" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_100", "hash": "DD95757F61683A05", "target": "Este aqui está contente... o que anda está a salvo..." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100010_MINFILIA", "hash": "BAF87117850A012B", "target": "Aguardamos o seu retorno nas Areias Despertas. Há muito a conversar. Vá com os deuses." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100020_MINFILIA", "hash": "CE404FDF4367AB80", "target": "Graças aos céus <if(gnum4,ela,ele)> está bem." },
