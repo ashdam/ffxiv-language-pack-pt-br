@@ -1,16 +1,16 @@
 {
-  "gameVersion": "2026.09.01.0000.0000",
-  "translated": 14417,
-  "total": 439927,
-  "percent": 3.3,
-  "chars": 53409892,
-  "unresolved": 4527,
+  "gameVersion": "2026.09.15.0000.0000",
+  "translated": 14415,
+  "total": 722039,
+  "percent": 2,
+  "chars": 57752135,
+  "unresolved": 5404,
   "groups": [
     {
       "expansion": "A Realm Reborn",
       "content": "Main scenario",
-      "translated": 14417,
-      "total": 14417
+      "translated": 14415,
+      "total": 14415
     },
     {
       "expansion": "A Realm Reborn",
@@ -28,7 +28,7 @@
       "expansion": "A Realm Reborn",
       "content": "Class and job quests",
       "translated": 0,
-      "total": 14940
+      "total": 14939
     },
     {
       "expansion": "A Realm Reborn",
@@ -52,7 +52,7 @@
       "expansion": "A Realm Reborn",
       "content": "Seasonal events",
       "translated": 0,
-      "total": 21717
+      "total": 21718
     },
     {
       "expansion": "A Realm Reborn",
@@ -64,7 +64,7 @@
       "expansion": "A Realm Reborn",
       "content": "Retired quests and other",
       "translated": 0,
-      "total": 4787
+      "total": 4785
     },
     {
       "expansion": "Heavensward",
@@ -76,7 +76,7 @@
       "expansion": "Heavensward",
       "content": "Side quests — yellow",
       "translated": 0,
-      "total": 7646
+      "total": 7642
     },
     {
       "expansion": "Heavensward",
@@ -118,7 +118,7 @@
       "expansion": "Heavensward",
       "content": "Retired quests and other",
       "translated": 0,
-      "total": 206
+      "total": 204
     },
     {
       "expansion": "Stormblood",
@@ -130,7 +130,7 @@
       "expansion": "Stormblood",
       "content": "Side quests — yellow",
       "translated": 0,
-      "total": 5192
+      "total": 5187
     },
     {
       "expansion": "Stormblood",
@@ -232,7 +232,7 @@
       "expansion": "Endwalker",
       "content": "Main scenario",
       "translated": 0,
-      "total": 19946
+      "total": 19912
     },
     {
       "expansion": "Endwalker",
@@ -346,7 +346,7 @@
       "expansion": null,
       "content": "Battle and system messages",
       "translated": 0,
-      "total": 8509
+      "total": 8526
     },
     {
       "expansion": null,
@@ -370,19 +370,19 @@
       "expansion": null,
       "content": "Service NPC menus",
       "translated": 0,
-      "total": 29340
+      "total": 29352
     },
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 0,
-      "total": 13643
+      "total": 14877
     },
     {
       "expansion": null,
       "content": "Title screen, character creation (`Lobby`)",
       "translated": 0,
-      "total": 1003
+      "total": 1034
     },
     {
       "expansion": null,
@@ -400,16 +400,10 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 0,
-      "total": 81944
+      "total": 362811
     }
   ],
   "excludedFromLocalization": [
-    {
-      "expansion": null,
-      "content": "Item names (`Item`)",
-      "translated": 0,
-      "total": 173452
-    },
     {
       "expansion": null,
       "content": "Duty names (`ContentFinderCondition`)",
@@ -420,7 +414,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 607
+      "total": 1904
     }
   ]
 }
