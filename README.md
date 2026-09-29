@@ -1,3 +1,5 @@
+> We currently have no Brazilian Portuguese language reviewer on the team. If you are a native Brazilian Portuguese speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+
 # Language pack em português do Brasil para FFXIV (não oficial)
 
 Tradução para o português do Brasil dos textos de Final Fantasy XIV para o plugin do Dalamud
