@@ -1,16 +1,16 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
   "translated": 14415,
-  "total": 722039,
-  "percent": 2,
-  "chars": 57752135,
-  "unresolved": 5404,
+  "total": 461835,
+  "percent": 3.1,
+  "chars": 48125955,
+  "unresolved": 5455,
   "groups": [
     {
       "expansion": "A Realm Reborn",
       "content": "Main scenario",
-      "translated": 14415,
-      "total": 14415
+      "translated": 14284,
+      "total": 14284
     },
     {
       "expansion": "A Realm Reborn",
@@ -39,8 +39,8 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Normal Raids, Alliance Raids & Trials",
-      "translated": 0,
-      "total": 1746
+      "translated": 131,
+      "total": 1906
     },
     {
       "expansion": "A Realm Reborn",
@@ -70,7 +70,7 @@
       "expansion": "Heavensward",
       "content": "Main scenario",
       "translated": 0,
-      "total": 8350
+      "total": 8318
     },
     {
       "expansion": "Heavensward",
@@ -100,7 +100,7 @@
       "expansion": "Heavensward",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 2031
+      "total": 2034
     },
     {
       "expansion": "Heavensward",
@@ -124,7 +124,7 @@
       "expansion": "Stormblood",
       "content": "Main scenario",
       "translated": 0,
-      "total": 10967
+      "total": 10954
     },
     {
       "expansion": "Stormblood",
@@ -154,7 +154,7 @@
       "expansion": "Stormblood",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 3361
+      "total": 3374
     },
     {
       "expansion": "Stormblood",
@@ -178,7 +178,7 @@
       "expansion": "Shadowbringers",
       "content": "Main scenario",
       "translated": 0,
-      "total": 14807
+      "total": 15222
     },
     {
       "expansion": "Shadowbringers",
@@ -208,7 +208,7 @@
       "expansion": "Shadowbringers",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 4249
+      "total": 4271
     },
     {
       "expansion": "Shadowbringers",
@@ -232,7 +232,7 @@
       "expansion": "Endwalker",
       "content": "Main scenario",
       "translated": 0,
-      "total": 19912
+      "total": 20102
     },
     {
       "expansion": "Endwalker",
@@ -262,7 +262,7 @@
       "expansion": "Endwalker",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 3501
+      "total": 3555
     },
     {
       "expansion": "Endwalker",
@@ -286,7 +286,7 @@
       "expansion": "Dawntrail",
       "content": "Main scenario",
       "translated": 0,
-      "total": 18009
+      "total": 17283
     },
     {
       "expansion": "Dawntrail",
@@ -316,7 +316,7 @@
       "expansion": "Dawntrail",
       "content": "Normal Raids, Alliance Raids & Trials",
       "translated": 0,
-      "total": 2493
+      "total": 2538
     },
     {
       "expansion": "Dawntrail",
@@ -376,13 +376,13 @@
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 0,
-      "total": 14877
+      "total": 14849
     },
     {
       "expansion": null,
       "content": "Title screen, character creation (`Lobby`)",
       "translated": 0,
-      "total": 1034
+      "total": 1022
     },
     {
       "expansion": null,
@@ -400,7 +400,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 0,
-      "total": 362811
+      "total": 102647
     }
   ],
   "excludedFromLocalization": [
@@ -414,7 +414,97 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 1904
+      "total": 828
+    }
+  ],
+  "futureLocalization": [
+    {
+      "sheet": "Action",
+      "content": "Actions",
+      "total": 44412,
+      "translated": 0,
+      "pending": 44412,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ActionTransient",
+      "content": "Action descriptions",
+      "total": 3397,
+      "translated": 0,
+      "pending": 3397,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BNpcName",
+      "content": "Enemy names",
+      "total": 29475,
+      "translated": 0,
+      "pending": 29475,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ClassJob",
+      "content": "Classes and jobs",
+      "total": 87,
+      "translated": 0,
+      "pending": 87,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EventItem",
+      "content": "Quest items",
+      "total": 10593,
+      "translated": 0,
+      "pending": 10593,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EventItemHelp",
+      "content": "Quest item descriptions",
+      "total": 3530,
+      "translated": 0,
+      "pending": 3530,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Item",
+      "content": "Items",
+      "total": 173452,
+      "translated": 0,
+      "pending": 173452,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Pet",
+      "content": "Pet names",
+      "total": 90,
+      "translated": 0,
+      "pending": 90,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Status",
+      "content": "Statuses",
+      "total": 9343,
+      "translated": 0,
+      "pending": 9343,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Trait",
+      "content": "Traits",
+      "total": 682,
+      "translated": 0,
+      "pending": 682,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TraitTransient",
+      "content": "Trait descriptions",
+      "total": 682,
+      "translated": 0,
+      "pending": 682,
+      "pendingPercent": 100
     }
   ]
 }
