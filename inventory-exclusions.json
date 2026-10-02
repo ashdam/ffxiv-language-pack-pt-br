@@ -1,0 +1,17 @@
+{
+  "_comment": ["Format: https://github.com/ashdam/ffxiv-corpus-en/blob/main/docs/inventory-exclusions.md"],
+  "excludedSheets": [
+    "Action",
+    "ActionTransient",
+    "BNpcName",
+    "ClassJob",
+    "Pet",
+    "Status",
+    "Trait",
+    "TraitTransient",
+    "Item",
+    "EventItem",
+    "EventItemHelp"
+  ],
+  "exclusion_groups": []
+}
