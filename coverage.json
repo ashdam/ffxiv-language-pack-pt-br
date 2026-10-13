@@ -1,10 +1,10 @@
 {
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "translated": 14415,
-  "total": 524543,
+  "total": 533035,
   "percent": 2.7,
-  "chars": 48800290,
-  "unresolved": 5455,
+  "chars": 49326980,
+  "unresolved": 5585,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -398,9 +398,15 @@
     },
     {
       "expansion": null,
+      "content": "Crafting log categories (`CraftType`)",
+      "translated": 0,
+      "total": 8
+    },
+    {
+      "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 0,
-      "total": 165355
+      "total": 173839
     }
   ],
   "excludedFromLocalization": [
@@ -414,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 1012
+      "total": 1025
     }
   ],
   "futureLocalization": [
