@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
-  "translated": 14415,
-  "total": 533517,
+  "translated": 14433,
+  "total": 533535,
   "percent": 2.7,
-  "chars": 49477187,
+  "chars": 49478217,
   "unresolved": 5594,
   "groups": [
     {
@@ -404,9 +404,15 @@
     },
     {
       "expansion": null,
-      "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
+      "content": "Chat commands (`TextCommand`)",
       "translated": 0,
-      "total": 174321
+      "total": 49
+    },
+    {
+      "expansion": null,
+      "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
+      "translated": 18,
+      "total": 174290
     }
   ],
   "excludedFromLocalization": [
