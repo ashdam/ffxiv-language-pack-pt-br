@@ -1,0 +1,24 @@
+{
+  "sheet": "FGSAddon",
+  "gameVersion": "2026.10.06.0000.0000",
+  "entries": [
+    { "gameKey": "FGSAddon#1", "hash": "45B2564D87FEF4C0", "target": "■Objetivo■<br>Desvie dos obstáculos e chegue à linha de chegada!<br><br>■Informações do Round■<br>O Round termina quando um número suficiente de participantes se classificar." },
+    { "gameKey": "FGSAddon#2", "hash": "8D9E1688D2A69F06", "target": "■Objetivo■<br>Desvie dos obstáculos e chegue à linha de chegada!<br><br>■Informações do Round■<br>O Round termina quando um número suficiente de participantes se classificar." },
+    { "gameKey": "FGSAddon#3", "hash": "26AD99A0C985E09E", "target": "■Objetivo■<br>Desvie dos sopros de Typhon e permaneça na plataforma!<br><br>■Informações do Round■<br>O Round termina quando um número suficiente de participantes se classificar." },
+    { "gameKey": "FGSAddon#4", "hash": "3333C02E33E27750", "target": "■Objetivo■<br>Leve os cristais aos locais corretos!<br><br>■Informações do Round■<br>O Round termina quando um número suficiente de participantes se classificar." },
+    { "gameKey": "FGSAddon#5", "hash": "BAC2C397AB97604F", "target": "■Objetivo■<br>Chegue ao topo da montanha e pegue a coroa!<br><br>■Informações do Round■<br>O Round termina quando alguém pegar a coroa." },
+    { "gameKey": "FGSAddon#6", "hash": "5CA0DFEAA7891895", "target": "Desvie dos obstáculos e chegue à linha de chegada!" },
+    { "gameKey": "FGSAddon#7", "hash": "F0EEB57562F8D48B", "target": "Desvie dos obstáculos e chegue à linha de chegada!" },
+    { "gameKey": "FGSAddon#8", "hash": "A9B044863DDE43B3", "target": "Desvie dos sopros de Typhon e permaneça na plataforma!" },
+    { "gameKey": "FGSAddon#9", "hash": "E15DA9CEE49AF0B5", "target": "Leve os cristais aos locais corretos!" },
+    { "gameKey": "FGSAddon#10", "hash": "DD52D0B79F43C4B6", "target": "Chegue ao topo da montanha e pegue a coroa!" },
+    { "gameKey": "FGSAddon#11", "hash": "C0C3B5EFC0DF1CE7", "target": "Corra até a linha de chegada!" },
+    { "gameKey": "FGSAddon#12", "hash": "99C963ADFF4BBF5C", "target": "Corra até a linha de chegada!" },
+    { "gameKey": "FGSAddon#13", "hash": "7EC6D5E032B12B06", "target": "Não caia!" },
+    { "gameKey": "FGSAddon#14", "hash": "91C1ED77A9BD9C80", "target": "Leve os cristais!" },
+    { "gameKey": "FGSAddon#15", "hash": "559780E6C8D873E3", "target": "Alcance a coroa!" },
+    { "gameKey": "FGSAddon#16", "hash": "262663E69C72042D", "target": "Aguardando jogadores..." },
+    { "gameKey": "FGSAddon#17", "hash": "42FA49ED80CF0180", "target": "<if(gnum4,CLASSIFICADA,CLASSIFICADO)>!" },
+    { "gameKey": "FGSAddon#18", "hash": "CF4BB5DC75E99640", "target": "<if(gnum4,ELIMINADA,ELIMINADO)>!" }
+  ]
+}
