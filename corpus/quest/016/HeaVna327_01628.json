@@ -2,17 +2,17 @@
   "conversation": "quest/016/HeaVna327_01628",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "" },
-    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "" }
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_00", "hash": "ACCCDA5EFF8504F3", "target": "Alphinaud considera o próximo passo do grupo." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_01", "hash": "DB911B71AE2DD020", "target": "Com seus esforços pela paz em ruínas, Estinien está convencido de que Nidhogg precisa morrer para poupar Ishgard. Vocês deixam Ysayle e sua fé despedaçada para trás e continuam a leste, na direção provável da Aery. Derrote os inimigos que encontrar na busca pelo covil do dragão." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_02", "hash": "8266C3712ECD27BB", "target": "Você derrotou os dragões hostis. Continue eliminando os inimigos que tentarem impedir sua busca pela Aery." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_03", "hash": "012BF734D62E9132", "target": "Mais uma vez, você se viu na obrigação de matar os dravanianos que atacaram. Mantenha a guarda ao avançar a leste, rumo ao covil de Nidhogg." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_04", "hash": "7457EFA16A90B765", "target": "Você repeliu mais um ataque dos inimigos de presas afiadas. Fale com Estinien, que contempla os céus ao lado de um Alphinaud preocupado." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_SEQ_05", "hash": "DB68A55211269739", "target": "Você enfim descobriu a Aery, mas Nidhogg cercou seu covil com ventos impenetráveis. Felizmente, você conhece um engenheiro talentoso que talvez resolva esse problema tempestuoso..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_00", "hash": "27668E69F48AA456", "target": "Derrotar inimigos enquanto procura a Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_01", "hash": "DFFAFDFE09807AC1", "target": "Derrotar inimigos enquanto continua procurando a Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_02", "hash": "C7301A30D9953F77", "target": "Derrotar inimigos enquanto continua procurando a Aery" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_TODO_03", "hash": "75D8CC651508717D", "target": "Falar com Estinien" },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ESTINIEN_000_000", "hash": "AB5EDB9A79663E91", "target": "A fé de Coração de Gelo no dragão era infundada. Isso nos deixa um único caminho..." },
+    { "gameKey": "quest/016/HeaVna327_01628#TEXT_HEAVNA327_01628_ALPHINAUD_000_010", "hash": "04B06DEA8C331ED6", "target": "Estinien... Por favor, diga que estou errado..." }
   ]
 }

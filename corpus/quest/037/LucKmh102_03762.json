@@ -2,13 +2,13 @@
   "conversation": "quest/037/LucKmh102_03762",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_SEQ_00", "hash": "6C3FBDBB6C632061", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_000", "hash": "213CBF0265FDFC99", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_001", "hash": "281703C828C2B646", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_002", "hash": "73FA468BD786045C", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_010", "hash": "755DBA0EB8510EC4", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_011", "hash": "DB12EF5B88E8953D", "target": "" },
-    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_012", "hash": "F87072C97447B6F3", "target": "" }
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_SEQ_00", "hash": "6C3FBDBB6C632061", "target": "Krile vê a firme determinação em seus olhos e suspeita saber aonde o dever chama você." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_TODO_00", "hash": "00CECD5F0E087C27", "target": "Falar com o Exarca de Cristal no Ocular" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_000", "hash": "213CBF0265FDFC99", "target": "Imagino que você já queira voltar ao Primeiro." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_001", "hash": "281703C828C2B646", "target": "Então peço que informe os outros sobre os acontecimentos recentes aqui na Origem. Em particular, o retorno de Zenos e o desenvolvimento de uma nova Arma Ultima. Quanto aos corpos deles, pode garantir que a Mestra Matoya e eu continuaremos fazendo o possível para manter seu éter corpóreo estável." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_KRILE_000_002", "hash": "73FA468BD786045C", "target": "Boa viagem, <split(<string(gstr1)>, ,1)>. Espero ver você e os outros Herdeiros em breve." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_010", "hash": "755DBA0EB8510EC4", "target": "Você chegou num momento muito oportuno, <if(gnum4,minha amiga,meu amigo)>. Fiz um avanço na pesquisa sobre a alma e um meio de levar os Herdeiros de volta para casa. Imagino que também tenha aproveitado bem seu tempo." },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_011", "hash": "DB12EF5B88E8953D", "target": "Más notícias da Origem, você disse?" },
+    { "gameKey": "quest/037/LucKmh102_03762#TEXT_LUCKMH102_03762_MYSTERYVOICE_000_012", "hash": "F87072C97447B6F3", "target": "Então chamarei os outros para que todos saibamos da situação." }
   ]
 }

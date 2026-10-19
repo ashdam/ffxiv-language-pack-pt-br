@@ -10,7 +10,7 @@
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_TODO_00", "hash": "C7A683D958B6D587", "target": "Falar com Rhotwyda" },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_TODO_01", "hash": "2FAB8DDFDA350D33", "target": "Obter o húmus negro no Cookpot" },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_TODO_02", "hash": "761FD061A36E5DB3", "target": "Levar o húmus negro a Pfrewahl no Descanso do Lavrador" },
-    { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_SYSTEM_100_000", "hash": "52CC47AEC72DF7F8", "target": "Para aceitar esta missão, é preciso abandonar a missão da história principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
+    { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_SYSTEM_100_000", "hash": "52CC47AEC72DF7F8", "target": "Para aceitar esta missão, você precisa abandonar a missão principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_GURCANT_000_1", "hash": "61D965C1E3121365", "target": "Diacho! Nesse passo, a lavoura nunca fica pronta pra colheita." },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_GURCANT_000_2", "hash": "503A5DCF7616044C", "target": "Che a gente ao menos tivesse húmuch negro... Um punhado já faria as hastes dispararem!" },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_GURCANT_000_3", "hash": "DBDB61C26AA7E712", "target": "Aposto que Rhotwyda chabe onde achar um pouco. Que tal fazer uma visita a ela no pomar?" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_21", "hash": "4030EA1B3DA9380C", "target": "Argh, nesta terra desolada até o mato murcha e morre." },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_22", "hash": "A4AFC381F2C7198A", "target": "Mas um pouco deste húmus negro deve mudar tudo isso! Faz tempo que não vejo nenhum. Recolher húmus negro não é para os fracos de vontade... nem para os fracos de estômago, hein? Hahaha!" },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_23", "hash": "4CC665A1357C62DA", "target": "...Ah, não me diga que Gurcant e Rhotwyda esqueceram de mencionar de onde vem o húmus negro." },
-    { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_24", "hash": "137B11D8B165AEF0", "target": "Bom, com aquele fedor enjoativo você deve ter descoberto sozinho! Vem do <italic(1)>covil<italic(0)> dos aurochs, nada menos!" },
+    { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_24", "hash": "137B11D8B165AEF0", "target": "Bom, com aquele fedor enjoativo você deve ter descoberto <if(gnum4,sozinha,sozinho)>! Vem do <italic(1)>covil<italic(0)> dos aurochs, nada menos!" },
     { "gameKey": "quest/004/SubSea055_00467#TEXT_SUBSEA055_00467_PFREWAHL_000_25", "hash": "5E938B1516A3A146", "target": "Ahem, bem, para que ficar remoendo quem enganou quem sobre o quê? O que importa é que o seu esforço nos trouxe o húmus negro, e podemos esperar uma colheita farta por causa disso. Obrigado!" }
   ]
 }

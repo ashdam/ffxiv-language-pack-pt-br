@@ -19,6 +19,6 @@
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_21", "hash": "983E1FFFE7A06251", "target": "Hmmm? Encontrou alguma coisa?" },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_22", "hash": "911EF487C68F7F33", "target": "Restos de uma fogueira e uma bolsa esquecida... isso poderia ser de qualquer aventureiro ou viajante. E dentro temos... uma escova de chocobo e óleo de roseling?" },
     { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_23", "hash": "5935A332F8D81FB1", "target": "Mas espere─por que um viajante acamparia aqui, quando seria bem mais seguro pedir a hospitalidade dos Prados de Bentbranch?" },
-    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_24", "hash": "406234EFEE51DA7B", "target": "Ora bolas, acho que isto é daquele desconhecido que, dizem, anda mexendo com os chocobos! Eu lhe agradeço, aventureiro. Fomos relapsos no nosso dever, mas isso acabou─juro que vamos encontrar esse vulto." }
+    { "gameKey": "quest/003/SubFst058_00379#TEXT_SUBFST058_00379_ROSELINE_000_24", "hash": "406234EFEE51DA7B", "target": "Ora bolas, acho que isto é daquele desconhecido que, dizem, anda mexendo com os chocobos! Eu lhe agradeço, <if(gnum4,aventureira,aventureiro)>. Fomos relapsos no nosso dever, mas isso acabou─juro que vamos encontrar esse vulto." }
   ]
 }

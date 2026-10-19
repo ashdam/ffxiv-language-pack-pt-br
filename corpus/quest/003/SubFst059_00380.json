@@ -17,12 +17,12 @@
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_11", "hash": "BD9D20EB505B97FB", "target": "Você não tem cara de quem veio treinar..." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_12", "hash": "015A6D0BEB3312E2", "target": "Uma figura à espreita... Entendido. Vou avisar tanto os recrutas quanto os sentinelas." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_13", "hash": "9E44B69C4E5AB8EF", "target": "Deixe eu só assinar aqui... pronto, deve bastar." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_14", "hash": "DB92859ED17EBFC2", "target": "Se seguir a estrada para o sul, vai achar Bernard perto da ponte para Bentbranch. Que os deuses acelerem os seus passos, aventureiro." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_21", "hash": "7E370AD4BAFD65AC", "target": "Tem algum assunto comigo, aventureiro?" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_14", "hash": "DB92859ED17EBFC2", "target": "Se seguir a estrada para o sul, vai achar Bernard perto da ponte para Bentbranch. Que os deuses acelerem os seus passos, <if(gnum4,aventureira,aventureiro)>." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_21", "hash": "7E370AD4BAFD65AC", "target": "Tem algum assunto comigo, <if(gnum4,aventureira,aventureiro)>?" },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_22", "hash": "3B34138C8478D756", "target": "Roseline faz bem em ser cautelosa. Esse desconhecido chegar tão perto e ainda assim se dar a tanto trabalho para não ser visto é muito suspeito. Está claro que ele tem planos para Bentbranch." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_23", "hash": "8F4E1D3713C54AAF", "target": "Agradecemos a ajuda. Devo assinar aqui, certo?" },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_24", "hash": "00AED6FDA3D3FFC6", "target": "E... pronto, pode levar. Vai encontrar Eylgar nos estábulos, passando da eterita." },
-    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_31", "hash": "FDA17F1B9DE67DCA", "target": "Cuidado com as aves, aventureiro. Elas ficam nervosas perto de estranhos." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_31", "hash": "FDA17F1B9DE67DCA", "target": "Cuidado com as aves, <if(gnum4,aventureira,aventureiro)>. Elas ficam nervosas perto de estranhos." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_32", "hash": "E30C8C7AB1E7DDEC", "target": "O que é isto? Um desconhecido rondando o Esquecimento da Matriarca... Já mostrou isto a Bernard e a Elmar, pelo visto. Ótimo, ótimo." },
     { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_33", "hash": "70B1211400DD8FDD", "target": "Então só falta avisar o pessoal daqui. Nem todo mundo aqui é Lamentador da Mata, é verdade, mas até os nossos cavalariços não hesitariam em pegar em armas para defender estes chocobos." }
   ]

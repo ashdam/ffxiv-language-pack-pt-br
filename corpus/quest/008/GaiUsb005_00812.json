@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_00", "hash": "C541DD920CEDD278", "target": "Wheiskaet quer primeiro confirmar que você não é uma fraude completa." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_01", "hash": "01B5999AA7796B9D", "target": "Antes de se dar ao trabalho de lhe passar uma tarefa de verdade, Wheiskaet quer que você cuide de uma bem simples. Ponha o arenque que ele lhe deu num cabo a leste de Costa del Sol para atrair o nix que anda sendo visto por lá." },
-    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_02", "hash": "D2BD4835D791E30A", "target": "Com a armadilha iscada pelo seu arenque, resta esperar o nix que virá reclamá-la e abatê-lo." },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_02", "hash": "D2BD4835D791E30A", "target": "Com a armadilha iscada pelo seu arenque, resta esperar o nix que virá pegar o arenque e abatê-lo." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_03", "hash": "3D8913910A3EC401", "target": "Você despacha a criatura viscosa com grande estardalhaço e corta uma das pernas dela como prova. Mostre a Wheiskaet que o serviço está feito." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_SEQ_04", "hash": "C2B8CD8B17D029CA", "target": "Wheiskaet explica que um incidente recente com um ex-empregado o obrigou a tratar estranhos com mais cautela. Como você provou não ter nada a ver com aquela pobre alma infeliz, ele agora está disposto a lhe dar um desafio à altura dos seus talentos." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_TODO_00", "hash": "1F7873A272E52F5C", "target": "Usar o arenque para atrair o nix" },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_003", "hash": "D8E5565A2A02B22E", "target": "Abata o nix e volte aqui. Ah, e não esqueça de me trazer uma perna como prova da caçada." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_020", "hash": "078A26C56BC6274E", "target": "E então? Deu conta do nix?" },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_025", "hash": "790DBF931F9FEAB9", "target": "Para que não me ache cauteloso demais por testar você assim, saiba que tivemos um incidente não faz muito. Um empregado jovem e tolo foi demitido por mentir sobre o passado. Alegava ter servido na Companhia dos Heróis, e eu sabia muito bem que não." },
-    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_026", "hash": "184BC5AD8229CB8E", "target": "Enfim, agora que a burocracia inútil acabou, vou lhe dar um desafio à altura dos seus talentos." },
+    { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_WHEISKAET_000_026", "hash": "184BC5AD8229CB8E", "target": "Enfim, agora que o trabalho inútil acabou, vou lhe dar um desafio à altura dos seus talentos." },
     { "gameKey": "quest/008/GaiUsb005_00812#TEXT_GAIUSB005_00812_POP_MESSAGE_000", "hash": "5D1CC4435A0E87C9", "target": "Ondulações na água chamam a sua atenção..." }
   ]
 }

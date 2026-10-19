@@ -14,7 +14,7 @@
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_TODO_02", "hash": "293255608D2A928D", "target": "Encontrar Gallien" },
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_TODO_03", "hash": "1F73407FAAED2BC2", "target": "Falar com Gallien" },
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_TODO_04", "hash": "3161B374E2C311CC", "target": "Falar com Meffrid" },
-    { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_MEFFRID_000_000", "hash": "AB6CC2EECDF77FBD", "target": "A-Aventureiro! Gallien sumiu! Não está em lugar nenhum!" },
+    { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_MEFFRID_000_000", "hash": "AB6CC2EECDF77FBD", "target": "<if(gnum4,A-Aventureira,A-Aventureiro)>! Gallien sumiu! Não está em lugar nenhum!" },
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_MEFFRID_000_001", "hash": "5B5336F5B98F0E61", "target": "Ele não devia estar andando por aí, não com aqueles ferimentos! Se não tomar o remédio certo e não descansar, o estado dele vai voltar a piorar... ou pior ainda." },
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_MEFFRID_000_002", "hash": "49AD462C19E28636", "target": "Precisamos que você nos ajude a achá-lo, e rápido. Comece perguntando a Albreda─pode ser que a mulher tenha visto alguma coisa!" },
     { "gameKey": "quest/007/GaiUsa702_00775#TEXT_GAIUSA702_00775_ALBREDA_000_010", "hash": "E9B92B46D2B47193", "target": "Ah, <italic(1)>até que enfim<italic(0)>. Já era hora de alguém vir perguntar por Gallien. Vi quando ele deixou o Moinho da Pedreira faz um tempo, e antes de ir me entregou esta carta lacrada. Me fez jurar que não abriria até alguém vir perguntar..." },

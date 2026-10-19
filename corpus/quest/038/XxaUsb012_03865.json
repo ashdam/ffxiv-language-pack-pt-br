@@ -13,9 +13,9 @@
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_TODO_02", "hash": "CB1438B190BE77DF", "target": "Entregar o ovo a Landenel" },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_TODO_03", "hash": "08B6BF26D54D88A3", "target": "Falar com U'odh Nunh em Forgotten Springs" },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_SYSTEM_100_000", "hash": "6DFFB243FD96B224", "target": "Para aceitar esta missão, você precisa abandonar a missão principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
-    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_000", "hash": "31526A269751779C", "target": "Vou ser claro: este assunto entre você, eu e o capitão tem de ficar em segredo." },
+    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_000", "hash": "31526A269751779C", "target": "Vou ser claro: este assunto entre você, mim e o capitão tem de ficar em segredo." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_001", "hash": "D66E4C78B5A105A1", "target": "Olha, eu não me arrependo nem um pouco do tempo que passei na Companhia. Viajar o mundo, conhecer gente interessante, matar essa gente─foi tudo uma diversão e tanto." },
-    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_002", "hash": "72C205E904C15458", "target": "Infelizmente, os gridanianos são, em geral, um povo pouco indulgente─o Detoh aqui é uma rara exceção." },
+    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_002", "hash": "72C205E904C15458", "target": "Infelizmente, os gridanianos são, em geral, um povo pouco indulgente─a Detoh aqui é uma rara exceção." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_003", "hash": "FEB729E349EDDD75", "target": "Tive de me esforçar muito para que me vejam como cidadão modelo, sem gosto por bebida, mulherada, jogatina e todas aquelas outras atividades de que sinto tanta falta." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_004", "hash": "83F2D73EDF8C1496", "target": "Então entenda: se estragar a minha encenação abrindo a boca, faço uma forca com as suas tripas e penduro você no pilar-do-céu mais próximo." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_005", "hash": "60008F7E4D27333C", "target": "E então, o que está esperando? Há um ovo de adamantoise em perfeito estado num ninho a leste daqui, maduro para ser colhido." },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_025", "hash": "71761FA10CD527C6", "target": "Ahahaha! Que bravura, que temeridade! Isso vai lhe servir bem contra Titan." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_026", "hash": "CF5601414C3CEE7C", "target": "Deixe o ovo comigo─eu cuido de fazê-lo chegar ao capitão. É melhor você correr para o sul de Thanalan." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_LANDENEL_000_027", "hash": "12F1D11BDF0583BA", "target": "Em Forgotten Springs você vai encontrar um homem chamado U'odh Nunh. Ele será o seu próximo guia. Boa viagem, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_UODHNUN_000_040", "hash": "9EC7E8651E3D13E1", "target": "Diga a que veio, aventureiro.<br>\\<bufo> Ha ha ha! Então é este que Wheiskaet me arrranja." },
+    { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_UODHNUN_000_040", "hash": "9EC7E8651E3D13E1", "target": "Diga a que veio, <if(gnum4,aventureira,aventureiro)>.<br>\\<bufo> Ha ha ha! Então é <if(gnum4,esta,este)> que Wheiskaet me arrranja." },
     { "gameKey": "quest/038/XxaUsb012_03865#TEXT_XXAUSB012_03865_UODHNUN_000_041", "hash": "FBC931FF728172F3", "target": "Não faço a mínima ideia do que ele vê em você─e, até fazer, não mexo uma garrra por você." }
   ]
 }

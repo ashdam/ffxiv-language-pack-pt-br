@@ -27,13 +27,13 @@
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_AYMERIC_200_010", "hash": "38F13B871F0A1A28", "target": "Mandar as tropas ao Posto Avançado de Whitebrim antes de ele próprio chegar...? O seu comandante é decidido, sem dúvida." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_LUCIA_300_010", "hash": "81D36A8B21DA18CF", "target": "Veja como o céu escurece... Até o tempo está contra nós." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_SYSTEM_000_020", "hash": "9FC80E14B254B83A", "target": "O herege suspeito sai pelo portão sudoeste..." },
-    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_030", "hash": "1EE37A330A338F1C", "target": "...Algum problema, aventureiro?" },
+    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_030", "hash": "1EE37A330A338F1C", "target": "...Algum problema, <if(gnum4,aventureira,aventureiro)>?" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_JEANTREMONT_100_030", "hash": "A616A2A0B35FAB41", "target": "Precisamos descansar quando as circunstâncias permitem, se quisermos dar o nosso melhor na hora de lutar." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_SYSTEM_000_040", "hash": "AAD802F5CACFD6D9", "target": "O herege suspeito segue a estrada para leste..." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_050", "hash": "E40E0B330DCE1D23", "target": "Melhor tomar cuidado ao viajar por estas estradas. Feras selvagens e coisa pior costumam espreitar à beira do caminho." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_JEANTREMONT_100_050", "hash": "0A3952A85E3B5BEE", "target": "Corre um sussurro de que os hereges tramam algo terrível. Foi isso que trouxe até nós os Cavaleiros do Templo e os Bravos do Cristal?" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_SYSTEM_000_060", "hash": "74F01186DD10DADD", "target": "O herege suspeito segue para o sul..." },
-    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_070", "hash": "01336DF7CD5FF0C9", "target": "Procura uma lareira quente, amigo? O Posto Avançado de Whitebrim não fica longe daqui. Se eu fosse você, eu... eu... Desculpe─a gente já se viu antes? Você me parece familiar. Não? Hum. Engano meu." },
+    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_070", "hash": "01336DF7CD5FF0C9", "target": "Procura uma lareira quente, <if(gnum4,amiga,amigo)>? O Posto Avançado de Whitebrim não fica longe daqui. Se eu fosse você, eu... eu... Desculpe─a gente já se viu antes? Você me parece familiar. Não? Hum. Engano meu." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_080", "hash": "96CF35ADBD2D939F", "target": "Ei! <italic(1)>EI<italic(0)>! Onde diabos você se meteu!? Estou congelando os culhões aqui!" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETIC00069_000_081", "hash": "DBC9EB6E71EBF6DE", "target": "Estou <italic(1)>aqui<italic(0)>, seu tapado desastrado. Por que o atraso?" },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_HERETICLANCER00069_000_082", "hash": "8F64D4084D75B940", "target": "De pé na muralha, por que mais? Eu tenho obrigações a cumprir, sabia!" },
@@ -44,6 +44,6 @@
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_091", "hash": "C96425B36E7B564B", "target": "Entendo. Mandarei detê-lo imediatamente. A culpa dele é evidente." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_092", "hash": "A1F193FB981E4916", "target": "\\<suspiro> Quem dera você tivesse ouvido as palavras deles com mais clareza..." },
     { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_093", "hash": "3E65CF57CBBF7F67", "target": "Ainda assim... os poucos trechos que conseguiu captar são reveladores. Parece que os hereges sabem da nossa operação─e estão confiantes de que podem frustrá-la." },
-    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_094", "hash": "0896C3BDC21C8696", "target": "Os companheiros deles nas Colinas Rochosas são a chave do plano que têm─o que faz da chave do <italic(1)>nosso<italic(0)> plano desentocá-los e passá-los pela espada." }
+    { "gameKey": "quest/000/GaiUse406_00069#TEXT_GAIUSE406_00069_DRILLEMONT_000_094", "hash": "0896C3BDC21C8696", "target": "Os companheiros deles nas Colinas Rochosas são a chave do plano que têm─o que faz de desentocá-los e passá-los pela espada a chave do <italic(1)>nosso<italic(0)> plano." }
   ]
 }

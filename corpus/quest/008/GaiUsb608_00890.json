@@ -34,6 +34,6 @@
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_HAURCHEFANT_000_063", "hash": "DCB9BB3469A6409C", "target": "É mais do que inconcebível... Ah, sim. A carta mencionava um assunto urgente para o qual você precisa de ajuda. Do que se trata?" },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_HAURCHEFANT_000_064", "hash": "564EB8527258C97C", "target": "Então essa <italic(1)>Enterprise<italic(0)> de que você fala foi vista pela última vez sobre Coerthas antes da Calamidade, há cinco anos. Receio que seja difícil encontrar testemunhas: embora Ishgard não tenha participado da Batalha de Carteneau, estávamos enredados em nossos próprios conflitos internos na época." },
     { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_HAURCHEFANT_000_065", "hash": "89ADB4E4DE9BD097", "target": "Ainda assim, farei averiguações em seu nome e compartilharei com você o que descobrir." },
-    { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_HAURCHEFANT_000_066", "hash": "FB2D68AA9CB97B49", "target": "Enquanto isso, aproveite a hospitalidade do Acampamento Cabeça de Dragão. Cuidarei para que receba todas as cortesias devidas a um hóspede da Casa Fortemps." }
+    { "gameKey": "quest/008/GaiUsb608_00890#TEXT_GAIUSB608_00890_HAURCHEFANT_000_066", "hash": "FB2D68AA9CB97B49", "target": "Enquanto isso, aproveite a hospitalidade do Acampamento Cabeça de Dragão. Cuidarei para que receba todas as cortesias devidas a <if(gnum4,uma hóspede,um hóspede)> da Casa Fortemps." }
   ]
 }

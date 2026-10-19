@@ -10,7 +10,7 @@
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_TODO_01", "hash": "AE8DB628C78CE415", "target": "Falar com Isembard no Acampamento Osso Seco" },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_MINFILIA_000_1", "hash": "7805BDC39A864098", "target": "Nós, Herdeiros, temos um único objetivo: salvaguardar o futuro de Eorzea. Entre as nossas maiores preocupações estão os seres divinos conhecidos como primordiais. Há muito nos esforçamos para achar uma solução duradoura para a ameaça que representam." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_MINFILIA_000_2", "hash": "AA29E5356F33ECF4", "target": "Não sei o que você deseja para si, nem o que trouxe você a Eorzea, mas acredito firmemente que o poder que temos nos foi dado com um propósito. Pense nisso ao me dar a sua resposta, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_Q1_000_1", "hash": "40F0BC7432C33693", "target": "O que vai dizer?" },
+    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_Q1_000_1", "hash": "40F0BC7432C33693", "target": "O que você vai dizer?" },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_1", "hash": "B9DF003D215B945E", "target": "Irei aonde floresce a <italic(1)>rosa selvagem<italic(0)>." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_2", "hash": "FD45B284C310A8A1", "target": "O empreendimento de vocês não é pequeno..." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_A1_000_3", "hash": "E361A223646B4FA3", "target": "Os perigos são grandes..." },
@@ -77,7 +77,7 @@
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_THANCRED_000_15", "hash": "BC797E073C77F3D2", "target": "Segundo os nossos achados preliminares, a maioria dos desaparecidos foi vista pela última vez nas cercanias do Acampamento Osso Seco, o que parece um bom lugar para começar." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_THANCRED_000_16", "hash": "460C192C1E4FFEC9", "target": "Um sujeito chamado Isembard funciona como líder de fato do acampamento. Faça uma visita a ele e trate de conseguir toda a colaboração dele." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_ISEMBARD_000_20", "hash": "54675A4035454FB7", "target": "Sim, sou Isembard. Veio procurar a gente desaparecida, imagino?" },
-    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_ISEMBARD_000_21", "hash": "E5A3402BA1930235", "target": "Minfilia mandou avisar que viria um aventureiro com a sua descrição." },
+    { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_ISEMBARD_000_21", "hash": "E5A3402BA1930235", "target": "Minfilia mandou avisar que viria <if(gnum4,uma aventureira,um aventureiro)> com a sua descrição." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_ISEMBARD_000_22", "hash": "21B345153A14E53D", "target": "Ela também nos avisou para desconfiar dos Amalj'aa. Parece que ao menos sabemos quem são os culpados." },
     { "gameKey": "quest/005/ManFst207_00510#TEXT_MANFST207_00510_ISEMBARD_000_23", "hash": "2EA1E87CBFF3F2F3", "target": "Não tenho título oficial neste acampamento, mas o pessoal daqui acabou me tomando por líder. Tem a minha palavra de que farei tudo o que puder para que as vítimas voltem em segurança." }
   ]
