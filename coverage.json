@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
-  "translated": 14433,
-  "total": 533535,
-  "percent": 2.7,
-  "chars": 49478217,
+  "translated": 86300,
+  "total": 533523,
+  "percent": 16.2,
+  "chars": 49477717,
   "unresolved": 5594,
   "groups": [
     {
@@ -69,8 +69,8 @@
     {
       "expansion": "Heavensward",
       "content": "Main scenario",
-      "translated": 0,
-      "total": 8318
+      "translated": 8306,
+      "total": 8306
     },
     {
       "expansion": "Heavensward",
@@ -123,7 +123,7 @@
     {
       "expansion": "Stormblood",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 10954,
       "total": 10954
     },
     {
@@ -177,7 +177,7 @@
     {
       "expansion": "Shadowbringers",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 15222,
       "total": 15222
     },
     {
@@ -231,7 +231,7 @@
     {
       "expansion": "Endwalker",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 20102,
       "total": 20102
     },
     {
@@ -285,7 +285,7 @@
     {
       "expansion": "Dawntrail",
       "content": "Main scenario",
-      "translated": 0,
+      "translated": 17283,
       "total": 17283
     },
     {
@@ -517,6 +517,14 @@
       "translated": 0,
       "pending": 682,
       "pendingPercent": 100
+    },
+    {
+      "sheet": "cut_scene/031/VoiceMan_03100",
+      "content": "cut_scene/031/VoiceMan_03100",
+      "total": 203,
+      "translated": 191,
+      "pending": 12,
+      "pendingPercent": 5.9
     }
   ]
 }
