@@ -12,7 +12,7 @@
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_01", "hash": "51D22D7AB74F58B2", "target": "Colocar a carcaça no território dos Wellwick worms" },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_02", "hash": "F3E78360EF319274", "target": "Ficar de tocaia à espera de um Wellwick worm" },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_03", "hash": "157139F4A2BA5DC0", "target": "Apresentar o prêmio a U'odh Nunh" },
-    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_000", "hash": "AEE84565D7E64D2B", "target": "Pena que não nos conhecemos quando eu ainda estava na Companhia dos Heróis. Com essa garrra, você teria dado um belo recruta." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_000", "hash": "AEE84565D7E64D2B", "target": "Pena que não nos conhecemos quando eu ainda estava na Companhia dos Heróis. Com essa garrra, você teria dado <if(gnum4,uma bela recruta,um belo recruta)>." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_001", "hash": "082370854931F37B", "target": "Mas não adianta remoer o que não pode ser. Você tem um Wellwick worm para caçar." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_002", "hash": "004DE1705A17C0F4", "target": "Os sandworms atravessam as dunas do deserto com a maior desfaçatez, mas os Wellwick worms são bem menos numerosos. Coisa rara é coisa cara, e por isso a carne deles é cobiçada como iguaria." },
     { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_003", "hash": "11F1252BBE60A068", "target": "O único jeito de pegar a sua presa é fazer com que ela queira agarrrar a isca." },

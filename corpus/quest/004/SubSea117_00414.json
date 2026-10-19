@@ -24,8 +24,8 @@
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_7", "hash": "C19728AB6DB72371", "target": "Qualquer suspeito de sabotagem que encontrar durante a investigação deve ser interrogado. Relate tudo o que descobrir diretamente a mim." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_10", "hash": "E0228A335450C31C", "target": "Ghimthota mandou você atrás do meu relato?" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_11", "hash": "572A7A22F8E03FFF", "target": "Pois faz pouco tempo que vi um sujeito de má catadura se esgueirando pelo alto da falésia perto do Coração Vazio, ali adiante." },
-    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_12", "hash": "B8D90CDFE252F4C8", "target": "Pode ser que ele ainda esteja por lá. Se tiver tempo, aventureiro, eu agradeceria muito se subisse até lá para dar uma olhada." },
-    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_20", "hash": "7BA4794B9091A2A3", "target": "Salve, aventureiro. Que bom ter mais um par de braços para segurar essa barrra da segurança." },
+    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_12", "hash": "B8D90CDFE252F4C8", "target": "Pode ser que ele ainda esteja por lá. Se tiver tempo, <if(gnum4,aventureira,aventureiro)>, eu agradeceria muito se subisse até lá para dar uma olhada." },
+    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_20", "hash": "7BA4794B9091A2A3", "target": "Salve, <if(gnum4,aventureira,aventureiro)>. Que bom ter mais um par de braços para segurar essa barrra da segurança." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_21", "hash": "36F86C7EF027F58E", "target": "Os deuses sabem que os nossos relatórios ficariam juntando poeira na mesa de Ghimthota se não fosse o socorrro de gente como você." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_22", "hash": "356B4ED9B093B29F", "target": "Por falar em relatórios, vi um daqueles piratas esfarrrapados rondando o penhasco perto do Coração Vazio. Eu daria uma olhada de perto antes que ele apague os rastros." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CORSAIRFOLLOWA_000_30", "hash": "51A20FB4CEE0057E", "target": "Bah, me achou, foi? Pois chegou tarde─o que tem de acontecer já tá acontecendo." },
@@ -56,7 +56,7 @@
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_69", "hash": "4DD1DD35A2304F1A", "target": "Ah! Eu me perguntava por que Ahtbyrm nunca falava do pai. Jamais teria imaginado..." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_70", "hash": "0D94198269F703FD", "target": "Esse navio é símbolo, sim─de tudo o que deu errado no mundo. E eu pretendo estilhaçar ele em cem mil pedaços!" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414AHTBYRM_000_71", "hash": "9B7B4B10D4F56BAB", "target": "Ghimthota! <split(<string(gstr1)>, ,1)>! Deem uma surra nessa lesma-do-mar inchada e garantam que nada aconteça ao <italic(1)>Victory<italic(0)>!" },
-    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_80", "hash": "A2495CDB28A0C95B", "target": "Eu... devo estar ficando velho mesmo, para deixar um aventureiro verde levar a melhor sobre mim." },
+    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_80", "hash": "A2495CDB28A0C95B", "target": "Eu... devo estar ficando velho mesmo, para deixar <if(gnum4,uma aventureira verde,um aventureiro verde)> levar a melhor sobre mim." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_81", "hash": "A9183D6FB3C3FA4C", "target": "Pai..." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_82", "hash": "F35EFF59538AA14D", "target": "\\<tosse> É um navio grande dos diabos. Grande... e feio de doer. Foi você que fez isso, foi...?" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_90", "hash": "B7745D4A56785114", "target": "Obrigado, <split(<string(gstr1)>, ,1)>. Só de pensar no que teria sido do <italic(1)>Victory<italic(0)> sem a sua intervenção eu me arrepio." },
@@ -81,7 +81,7 @@
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_21", "hash": "AF4398E30D766E71", "target": "Você não faz ideia de com quem está lidando!" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_22", "hash": "461E56447F18F2B2", "target": "Agora sai da minha frente, droga!" },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_23", "hash": "D079FE7C9993BA11", "target": "Por favor! Não deixem ele vencer!" },
-    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_31", "hash": "6C0AC8ADCE7DB8BF", "target": "Cuidado, aventureiro!<br>Ahtzapfyn está com um brilho aterrrador no olhar..." },
+    { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_31", "hash": "6C0AC8ADCE7DB8BF", "target": "Cuidado, <if(gnum4,aventureira,aventureiro)>!<br>Ahtzapfyn está com um brilho aterrrador no olhar..." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_41", "hash": "CCD796C2450F1C3C", "target": "Protejam o navio..." },
     { "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_42", "hash": "3C6DEECF15753AA5", "target": "Capitã, eu... ugh..." }
   ]

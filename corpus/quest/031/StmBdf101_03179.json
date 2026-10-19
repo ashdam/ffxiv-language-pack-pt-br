@@ -2,18 +2,18 @@
   "conversation": "quest/031/StmBdf101_03179",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "" },
-    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "" }
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_00", "hash": "00C3C87DEBEEEBAE", "target": "Alisaie está sem saber o que fazer." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_01", "hash": "A30D162ABC47CBE7", "target": "Você visita as Pedras Nascentes e encontra Alisaie sem saber o que fazer. Enquanto pondera qual dos problemas crescentes dos Herdeiros enfrentar primeiro, Krile chega para acalmar os ânimos. Após examinar os afetados na enfermaria, chega à mesma conclusão da Vidente-Mor: é como se as almas tivessem deixado os corpos. Ela se oferece para seguir o rastro de seu éter, mas precisará do Olho de Cristal da Mestra Matoya. Parece que uma viagem a Dravanian Hinterlands será necessária." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_02", "hash": "0D73F2F845AC79B4", "target": "Vocês se reúnem em Matoya's Cave, onde Krile tenta localizar as almas dos companheiros. Apesar de seus esforços, os fios de éter parecem terminar abruptamente. Confusos e consternados, decidem focar no presente. Alisaie soube por Lyse que membros dos Populares desertaram do Império e está desesperada por notícias de Alphinaud." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_SEQ_03", "hash": "67F0461443440845", "target": "Você se junta a Alisaie fora de Matoya's Cave. Apesar da rispidez da anciã, suas palavras parecem ter animado muito Alisaie." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_00", "hash": "650119CE63BA48AF", "target": "Falar com Alisaie diante de Matoya's Cave" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_TODO_01", "hash": "9BA0B13D3AFA31E8", "target": "Falar com Alisaie" },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_000", "hash": "4705B6C548187499", "target": "Por favor, guarde o discursinho de Alphinaud para si. Ele pode ser muito sensível às vezes..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALIANNE_100_001", "hash": "7E1B9C44F2BAEF70", "target": "As almas deixaram os corpos, mas eles ainda vivem? Nem sabia que isso era possível..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_010", "hash": "9E55E51AAD9ABE2B", "target": "Ouvi dizer que a Mestra Matoya era meio reclusa, mas isto parece... extremo. Ainda assim, relevo suas excentricidades se aceitar nos ajudar." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_KRILE_000_015", "hash": "2D299D67DE948036", "target": "Sinto não ter feito mais. Nunca vi o fio de uma alma terminar tão de repente..." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_MATOYA_000_016", "hash": "C011CD5294D3F8DD", "target": "Não façam essa cara. Shtola sobreviveu à deriva na Corrente Vital, não? Se há algo que sua alma tem, é resistência, assim como a de todos os alunos de Louisoix. Parem de se preocupar se vão revê-los e foquem no que podem fazer aqui e agora." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_020", "hash": "F1001911A74931D6", "target": "Então essa foi a mulher que domou Y'shtola... Tive a sensação de ser pega pela nuca e sacudida até perder as bobagens." },
+    { "gameKey": "quest/031/StmBdf101_03179#TEXT_STMBDF101_03179_ALISAIE_000_021", "hash": "FD9E9CCC9E5BB602", "target": "Quando Alphinaud voltar, quero visitar de novo e perguntar o que ela tem para contar do vovô." }
   ]
 }

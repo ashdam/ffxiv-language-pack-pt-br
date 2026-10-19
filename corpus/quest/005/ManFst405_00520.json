@@ -39,7 +39,7 @@
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_YDA_000_125", "hash": "160A3082A64D547B", "target": "O quê? Ah, sim─sim, claro! O que precisar!" },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_ALPHINAUD_000_126", "hash": "F73341F14C6127CA", "target": "Podemos discutir o próximo passo quando a Y'shtola voltar." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_ALPHINAUD_000_127", "hash": "B9B5F489A2326462", "target": "Por ora, proponho que descansemos." },
-    { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_100010_HYDAELYN", "hash": "2F3F9299B4D49046", "target": "Ouvi... Senti... Pensai..." },
+    { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_100010_HYDAELYN", "hash": "2F3F9299B4D49046", "target": "Ouça... Sinta... Pense..." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200020_HYDAELYN", "hash": "31C43EC08DA53D3A", "target": "<if(gnum4,Portadora,Portador)> da Luz..." },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200030_HYDAELYN", "hash": "8CD5F4B60A1FBBFF", "target": "Ó vós, que com bravura reunistes os Cristais... a vossa alma arde intensa!" },
     { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_200040_HYDAELYN", "hash": "44ECEAB6F8BE63A4", "target": "Eu sou Hydaelyn. Tudo feito um." },

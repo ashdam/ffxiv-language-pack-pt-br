@@ -2,18 +2,18 @@
   "conversation": "quest/016/HeaVna706_01668",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_00", "hash": "19C3B47F697D0461", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_01", "hash": "1C8D45E1A17B8346", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_02", "hash": "981FB10D1973F056", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_TODO_00", "hash": "F9FA84C589D94374", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_000", "hash": "3F260363477C2790", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_001", "hash": "41FC5DFAFE9D3A73", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_002", "hash": "1753DAF9B0710D69", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_003", "hash": "CE678F17136A441C", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_004", "hash": "F8AD7DC6B1280669", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_005", "hash": "A854458F087A875D", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_006", "hash": "F20E1B96C880D9A1", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SYSTEM_100_010", "hash": "647CD485ED54C23E", "target": "" },
-    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SYSTEM_100_050", "hash": "73F1DD247C5D9501", "target": "" }
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_00", "hash": "19C3B47F697D0461", "target": "O nó de orientação tem más notícias para você." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_01", "hash": "1C8D45E1A17B8346", "target": "Para sua consternação, o conduto de matéria que leva à Flagship foi destruído há muito tempo. Enquanto você pensa em outro caminho até o destino, Midgardsormr se manifesta e pede que procure uma de suas filhas, que sofre por perto." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SEQ_02", "hash": "981FB10D1973F056", "target": "Você chega diante da grande dragonesa Tiamat, presa em Azys Lla desde antes da queda do Império Alagano. Escuta atentamente enquanto ela conta a morte trágica de Bahamut e o papel dos ascianos em seu retorno malfadado.<br><br>Ao fim do encontro, seu Cristal de Fogo recupera o brilho, e você volta a ouvir a voz de Hydaelyn. Impressionado com sua força e enfim convencido de que merece portar a Luz, Midgardsormr se oferece para levar você à Flagship, para expulsar as Trevas que se escondem lá." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_TODO_00", "hash": "F9FA84C589D94374", "target": "Procurar a filha de Midgardsormr" },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_000", "hash": "3F260363477C2790", "target": "\\<bip> Lamento informar que o conduto de matéria que leva à Flagship não funciona mais." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_001", "hash": "41FC5DFAFE9D3A73", "target": "Segundo meus registros, foi destruído por um dragão que se libertou após uma falha nas amarras há aproximadamente dois mil trezentos e sessenta e nove anos, um mês, vinte e quatro dias, sete horas e quatro minutos." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_GUIDANCESYSTEM_000_002", "hash": "1753DAF9B0710D69", "target": "Encontre outra rota para a Aetherochemical Research Facility. O Conselho de Pesquisa Alagano pede desculpas pelo inconveniente." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_003", "hash": "CE678F17136A441C", "target": "Então vossa jornada vos trouxe a este lugar maldito. Conseguis ouvir, mortal? O lamento incessante de minha prole, mergulhada em cinco mil anos de sofrimento..." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_004", "hash": "F8AD7DC6B1280669", "target": "Muito antes dos ishgardeses e de sua traição vil, viveram homens ainda mais perversos, cujas ambições não tinham limites." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_005", "hash": "A854458F087A875D", "target": "Temendo nossa força e cobiçando nosso poder, criaram um meio de escravizar os dragões... Seus atos vis puseram em marcha acontecimentos cujas repercussões ainda hoje se fazem sentir." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_MIDGARDSORMR_000_006", "hash": "F20E1B96C880D9A1", "target": "Adiante encontrareis uma de minha primeira ninhada. Atentai às suas palavras. Partilhai de sua dor. Refleti sobre o sofrimento que o conflito entre nossas espécies gerou." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SYSTEM_100_010", "hash": "647CD485ED54C23E", "target": "Uma grande dragonesa está presa em algum tipo de grilhão." },
+    { "gameKey": "quest/016/HeaVna706_01668#TEXT_HEAVNA706_01668_SYSTEM_100_050", "hash": "73F1DD247C5D9501", "target": "Agora você pode montar em Midgardsormr!" }
   ]
 }

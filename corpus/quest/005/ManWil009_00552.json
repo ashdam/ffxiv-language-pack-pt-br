@@ -10,7 +10,7 @@
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_TODO_01", "hash": "46F0C959F47F7401", "target": "Falar com Raubahn no Salão das Chamas" },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_1", "hash": "7613451018921EED", "target": "É agora, <split(<string(gstr1)>, ,1)>─a sua grande estreia na alta sociedade de Ul'dah!" },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_2", "hash": "1F294E9617D53F1D", "target": "O banquete é na Câmara do Incenso. Vá até o Passeio Real que Bartholomew leva você para dentro. Ah, mas trate de pôr os brincos antes, senão ele manda você de volta." },
-    { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_3", "hash": "4AB3AFC8ACB9BCD1", "target": "Pois é, acho que é isso. Não deixe a pompa e a cerimônia subirem à cabeça. Seja como você é e vai dar tudo certo!" },
+    { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_3", "hash": "4AB3AFC8ACB9BCD1", "target": "Pois é, acho que é isso. Não se deixe intimidar pela pompa e pela cerimônia. Seja como você é e vai dar tudo certo!" },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_10", "hash": "DFF57DF7583394FE", "target": "Um banquete oferecido por Sua Majestade a Sultana começa em breve. A entrada é somente por convite. Faça o favor de abrir caminho para os convidados que chegam." },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_11", "hash": "4F4D29CDDF39DD1E", "target": "É uma honra receber <if(gnum4,a senhora,o senhor)> em nossa casa. Queira entrar." },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_12", "hash": "B215DA2C89D7DFCB", "target": "Ahem. Devo pedir que se afaste das portas, <if(gnum4,senhora,senhor)>. Se recebeu um convite, queira observar as condições de entrada." },
@@ -55,6 +55,6 @@
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_RAUBAHN_000_60", "hash": "D9D34436F668A83F", "target": "Estava esperando por você, <split(<string(gstr1)>, ,1)>. Já se recuperou por completo?" },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_RAUBAHN_000_61", "hash": "163E8A8198AA38F8", "target": "Ótimo, porque há muito trabalho a fazer─e quero que seja você a fazê-lo..." },
     { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SERENDIPITY_070", "hash": "A7835382421CD758", "target": "Você quer <italic(1)>o quê<italic(0)>!? Não pode estar falando sério! <italic(1)>Deuses<italic(0)>..." },
-    { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SERENDIPITY_071", "hash": "53A18B6346E57187", "target": "Só desta vez, mas lembre-se─a vida não é canção de menestrel, e você não é herói escolhido de ninguém. Então não saia por aí esperando que perdoem tudo, por mais imprudente e irresponsável que seja o que faz." }
+    { "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SERENDIPITY_071", "hash": "53A18B6346E57187", "target": "Só desta vez, mas lembre-se─a vida não é canção de menestrel, e você não é <if(gnum4,heroína escolhida,herói escolhido)> de ninguém. Então não saia por aí esperando que perdoem tudo, por mais imprudente e irresponsável que seja o que faz." }
   ]
 }

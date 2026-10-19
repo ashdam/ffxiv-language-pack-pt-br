@@ -19,6 +19,6 @@
     { "gameKey": "quest/009/GaiUsc002_00939#TEXT_GAIUSC002_00939_ALPHINAUD_000_033", "hash": "B1A13EF4CE716633", "target": "Ainda assim, embora isto seja prova incontestável de que o inquisidor é um impostor, falta descobrir a verdadeira identidade dele e por que resolveu se opor a nós." },
     { "gameKey": "quest/009/GaiUsc002_00939#TEXT_GAIUSC002_00939_ALPHINAUD_000_034", "hash": "51BFB2EF268444BB", "target": "Precisamos agir depressa, <split(<string(gstr1)>, ,1)>, antes que ele descubra que o disfarce caiu!" },
     { "gameKey": "quest/009/GaiUsc002_00939#TEXT_GAIUSC002_00939_POP_MESSAGE_000", "hash": "DA0F71C082D6C148", "target": "O ar começa a crepitar com energias etéreas..." },
-    { "gameKey": "quest/009/GaiUsc002_00939#TEXT_GAIUSC002_00939_ACCESS_MESSAGE", "hash": "0BD105B27044C798", "target": "Os inimigos ainda estão por perto!" }
+    { "gameKey": "quest/009/GaiUsc002_00939#TEXT_GAIUSC002_00939_ACCESS_MESSAGE", "hash": "0BD105B27044C798", "target": "O inimigo ainda está por perto!" }
   ]
 }

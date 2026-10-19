@@ -43,7 +43,7 @@
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_41", "hash": "9867BF7FA052BA91", "target": "É em horas assim que eu queria que os Guerreiros da Luz ainda andassem entre nós. Mas desejar não adianta nada. <split(<string(gstr1)>, ,2)>, <italic(1)>você<italic(0)> terá de servir na ausência deles. Corra até Swiftperch e empreste a sua força aos esquadrões que consigo destacar para a defesa do povoado." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_45", "hash": "260FDCA3A0C78C77", "target": "O comodoro Reyner avisou que viriam reforços, mas eu não esperava que mandasse você! Bem que dá para ver que já viu bastante combate─não lembra em nada aquela criatura de olhos arregalados que desceu da balsa." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_46", "hash": "AA6C55B3BB297F20", "target": "De todo jeito, você sabe pelo que está lutando aqui? Este lugar─Swiftperch─foi reconstruído por gente que se manteve firme diante de tudo o que a Calamidade jogou em cima dela." },
-    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_47", "hash": "9A73A6354A6E3D10", "target": "E não vamos deixar que uns bandidos amigos de peixe fiquem com a honra de ser quem finalmente quebrou o espírito dessa gente. Não cedam um ilm sequer a esses piratas desgraçados, está me ouvindo?" },
+    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_47", "hash": "9A73A6354A6E3D10", "target": "E não vamos deixar que uns bandidos amigos de peixe fiquem com a honra de ser quem finalmente quebrou o espírito dessa gente. Não ceda um ilm sequer a esses piratas desgraçados, está me ouvindo?" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_Q1_000_1", "hash": "AF86C11A4A47B2D8", "target": "O dever chama. Deseja prosseguir com<br>“Feint and Strike”?" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_1", "hash": "81D115B820DC67AB", "target": "Sim" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_2", "hash": "D596AD2A3B9203C7", "target": "Não" },
@@ -64,7 +64,7 @@
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_73", "hash": "D2908CCA3FB26D6F", "target": "Você pode ter vencido o golem, mas hoje não vai se sair tão bem." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_74", "hash": "16D38F764A1A8691", "target": "<colortype(547)>Ó voz lamentosa da criação! Envia-me uma criatura do abismo, serva do meu comando, para que eu fulmine os meus inimigos!<colortype(0)>" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_75", "hash": "0A2FBD92F0E802AC", "target": "A sua simples existência põe o plano em risco. Não se pode permitir que viva." },
-    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_80", "hash": "325B5BA2658C7D9B", "target": "Unnngh... Que a sabedoria dos Paragões seja rebaixada... por meros mortais..." },
+    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_80", "hash": "325B5BA2658C7D9B", "target": "Unnngh... A sabedoria dos Paragões... derrotada por meros mortais..." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_81", "hash": "7260D684240CDC6F", "target": "“Paragões”, foi o que ele disse? Então é como eu temia." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_82", "hash": "D85E4BCE07EE837F", "target": "São conhecidos como os Portadores do Caos... ou <italic(1)>ascianos<italic(0)>, para lhes dar o nome próprio." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_83", "hash": "A08317B14AA51E67", "target": "Ao que parece, as nossas suspeitas estavam certas─são eles que vêm manipulando as tribos bestiais." },
@@ -93,7 +93,7 @@
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_112", "hash": "C91B3803459AE587", "target": "Nem preciso dizer que, depois do seu papel em frustrar a sabotagem do <italic(1)>Victory<italic(0)> e do pequeno detalhe dos seus feitos em Swiftperch, você também provou ser <if(gnum4,uma amiga estimada,um amigo estimado)> da talassocracia." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKET_000_113", "hash": "C418691A9239C5E0", "target": "Almirante!" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_204", "hash": "1FDB2D10262F3168", "target": "Permita-me apresentar a almirante Bloefhiswyn." },
-    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400010_MERLWYB", "hash": "3D07B7CB0760403F", "target": "Então esta é <if(gnum4,a aventureira,o aventureiro)> sobre quem venho lendo nos relatórios de campo." },
+    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400010_MERLWYB", "hash": "3D07B7CB0760403F", "target": "Então <if(gnum4,esta,este)> é <if(gnum4,a aventureira,o aventureiro)> sobre quem venho lendo nos relatórios de campo." },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400020_MERLWYB", "hash": "A91290BA1C987825", "target": "Você me parece familiar. Já nos encontramos antes? Talvez numa entrega de medalhas ou coisa assim?" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400030_MERLWYB", "hash": "964C26B93B66D745", "target": "Não? Tem parentes no Maelstrom?" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400040_MERLWYB", "hash": "7CAFEE2D46A483ED", "target": "Eu juraria que─ Mas isso pouco importa. Ao que interessa." },
@@ -126,6 +126,6 @@
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP60", "hash": "9FBB2024D5411DA3", "target": "De onde brota esse poder sobrenatural?!" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YSHTOLA_ENTER", "hash": "C6B9F05F96A68908", "target": "Um adversário temível... e você não vai enfrentá-lo sem ajuda!" },
     { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP40", "hash": "4B30D01708FAC64D", "target": "Nenhum mortal deveria ter tamanha força!" },
-    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YSHTOLA_MASKEDMAGUS_HP20", "hash": "F3FAB99C702945E6", "target": "O poder dele está minguando! Não deem chance de ele se recuperar!" }
+    { "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YSHTOLA_MASKEDMAGUS_HP20", "hash": "F3FAB99C702945E6", "target": "O poder dele está minguando! Não dê chance de ele se recuperar!" }
   ]
 }
