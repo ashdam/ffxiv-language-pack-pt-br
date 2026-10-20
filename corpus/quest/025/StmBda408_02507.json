@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/StmBda408_02507",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda408_02507#TEXT_STMBDA408_02507_SEQ_00", "hash": "EC7CE93ADB2B420D", "target": "Hien está pronto para encarar o desafio de Bardam's Mettle." },
     { "gameKey": "quest/025/StmBda408_02507#TEXT_STMBDA408_02507_SEQ_01", "hash": "CB96E464C35F9930", "target": "Para participar do Naadam e lutar ao lado dos Mol, primeiro você precisa obter o reconhecimento como <if(gnum4,guerreira,guerreiro)> da Estepe. Para merecer essa honra, deverá completar um rito de passagem seguindo os passos do lendário Bardam e domando um yol. Você e seus companheiros se preparam e partem pelo caminho perigoso que leva o nome do herói.<br><br>※Encare Bardam's Mettle com outros jogadores pelo Duty Finder ou com um grupo de NPCs pelo Duty Support. Ambos os sistemas estão disponíveis no menu principal e no ponto de entrada da masmorra." },

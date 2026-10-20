@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/075/VoiceMan_07500",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/075/VoiceMan_07500#TEXT_VOICEMAN_07500_010010_SHALE", "hash": "471D1A5CFC9BD136", "target": "Ah, chegaram bem a tempo de ouvir o que descobri." },
     { "gameKey": "cut_scene/075/VoiceMan_07500#TEXT_VOICEMAN_07500_010020_SHALE", "hash": "60AE18AC3C8A122C", "target": "A descriptografia finalmente terminou. Como suspeitávamos, os dados são um registro parcial dos documentos de pesquisa da Preservação." },
