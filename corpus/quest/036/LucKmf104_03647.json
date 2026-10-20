@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKmf104_03647",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKmf104_03647#TEXT_LUCKMF104_03647_SEQ_00", "hash": "511029AC651F8D40", "target": "Urianger aguarda pacientemente que você diga que está <if(gnum4,pronta,pronto)> para partir." },
     { "gameKey": "quest/036/LucKmf104_03647#TEXT_LUCKMF104_03647_SEQ_01", "hash": "D0D5B550348F30C6", "target": "Você informa a Urianger que está <if(gnum4,pronta,pronto)> para partir, e ele pede que considere um meio de transporte que também facilite respirar e se mover sob as ondas. Mas, em vez de gastar palavras explicando a proposta, seu sempre enigmático colega pede que o siga até Sullen para ver a solução com seus próprios olhos." },

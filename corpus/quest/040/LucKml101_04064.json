@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKml101_04064",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKml101_04064#TEXT_LUCKML101_04064_SEQ_00", "hash": "437558A0CF3CA658", "target": "Alisaie percebe que você está ansios<if(gnum4,a,o)> para levar a luta aos Telophoroi." },
     { "gameKey": "quest/040/LucKml101_04064#TEXT_LUCKML101_04064_SEQ_01", "hash": "1D889D823334B3D6", "target": "Sentindo que já se recuperou dos esforços da batalha de Paglth'an, você volta às Pedras Nascentes para se reunir aos companheiros. Mal acabam de se cumprimentar quando chega um enviado com uma mensagem da Aliança. Ao que parece, uma assembleia histórica será realizada em breve em Ala Mhigo, e a presença dos Herdeiros foi solicitada. Além dos representantes habituais da Aliança, delegados das várias tribos bestiais foram convidados, na esperança de que todos os povos de Eorzea possam se unir sob uma só bandeira." },

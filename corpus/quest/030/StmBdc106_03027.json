@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/StmBdc106_03027",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdc106_03027#TEXT_STMBDC106_03027_SEQ_00", "hash": "2E6FD0BE2AE91357", "target": "Alisaie pensa em como aproveitar a folga do tédio das negociações." },
     { "gameKey": "quest/030/StmBdc106_03027#TEXT_STMBDC106_03027_SEQ_01", "hash": "865AC05E0DB05BB0", "target": "Alisaie sugere que vocês conheçam o povo de Doma quando Yugiri se aproxima com Asahi. Enquanto Lorde Hien avalia a troca de prisioneiros, Asahi deseja passear por Yanxia. E quem melhor para acompanhá-lo que <if(gnum4,a célebre Guerreira,o célebre Guerreiro)> da Luz? Embora Yugiri possa protegê-lo, ambos apreciariam sua presença. Você aceita, assim como Alisaie, e os quatro partem para Monzen." },

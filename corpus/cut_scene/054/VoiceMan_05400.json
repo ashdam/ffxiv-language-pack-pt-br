@@ -1,6 +1,6 @@
 {
   "conversation": "cut_scene/054/VoiceMan_05400",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/054/VoiceMan_05400#TEXT_VOICEMAN_05400_000010_ALPHINAUD", "hash": "0C7D04F4486D05F2", "target": "Bem, meus amigos, agora que todos nos acostumamos novamente aos nossos corpos, é hora de retomarmos nossos deveres a sério. Vamos falar dos nossos planos." },
     { "gameKey": "cut_scene/054/VoiceMan_05400#TEXT_VOICEMAN_05400_000020_THANCRED", "hash": "BDE74F7C42CC029D", "target": "Desde a morte do imperador, é um rumor preocupante atrás do outro. Estou pensando em visitar Garlemald para descobrir o que está acontecendo de verdade." },
