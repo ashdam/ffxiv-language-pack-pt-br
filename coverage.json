@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
   "translated": 86300,
-  "total": 533523,
-  "percent": 16.2,
-  "chars": 49477717,
+  "total": 535892,
+  "percent": 16.1,
+  "chars": 49533677,
   "unresolved": 5594,
   "groups": [
     {
@@ -362,6 +362,12 @@
     },
     {
       "expansion": null,
+      "content": "Deep Dungeon names",
+      "translated": 0,
+      "total": 4
+    },
+    {
+      "expansion": null,
       "content": "The Unending Journey — the rest is levequest names",
       "translated": 0,
       "total": 7584
@@ -412,7 +418,7 @@
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
       "translated": 18,
-      "total": 174290
+      "total": 176655
     }
   ],
   "excludedFromLocalization": [
@@ -426,7 +432,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 5,
-      "total": 1025
+      "total": 1070
     }
   ],
   "futureLocalization": [
