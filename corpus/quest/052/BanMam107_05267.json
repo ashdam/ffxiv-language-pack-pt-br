@@ -2,19 +2,19 @@
   "conversation": "quest/052/BanMam107_05267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_00", "hash": "DE39DB7AD2D8ED73", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_01", "hash": "129EBDBF4C18B0F7", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_TODO_00", "hash": "EE858830B2A21B7C", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_001", "hash": "EB7C833A7DD7A47E", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_002", "hash": "596C36871CFA2AF1", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_003", "hash": "F36A14CED2BEA4F6", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_004", "hash": "9636D7CA201E7F36", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_005", "hash": "2D65AB6F30776FA2", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_006", "hash": "8ACE0C0F64800F56", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_007", "hash": "26E24564F50C46AB", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_008", "hash": "60CEC012EDB1EFFA", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_009", "hash": "47AFE3B23A5D19C4", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_010", "hash": "3510EC6D40D4637E", "target": "" },
-    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_011", "hash": "B9C77266CD14B133", "target": "" }
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_00", "hash": "DE39DB7AD2D8ED73", "target": "Kageel Ja observa os campos com preocupação.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_SEQ_01", "hash": "129EBDBF4C18B0F7", "target": "Entregue os materiais solicitados a Kageel Ja." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_TODO_00", "hash": "EE858830B2A21B7C", "target": "<if([lnum4==16],<if([lnum1<lnum2],Minerar <ennoun(Item,3,lnum5,2,1)> em Xobr'it Cinderfield,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==17],<if([lnum1<lnum2],Coletar <ennoun(Item,3,lnum5,2,1)> em Xobr'it Cinderfield,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar <ennoun(Item,1,lnum5,1,1)> em Iq Rrax Tsoly,Entregar <ennoun(Item,2,lnum5,1,1)> a Kageel Ja)>,)>)>)>" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_001", "hash": "EB7C833A7DD7A47E", "target": "Manter a qualidade do solo dos campos é uma tarefa difícil, mas necessária. E gostaria da sua ajuda, se não se importar." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_002", "hash": "596C36871CFA2AF1", "target": "Lembra dos materiais que usamos como adubo antes de plantar a primeira cultura? O estoque está acabando. Precisamos repor logo com materiais de qualidade semelhante." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_003", "hash": "F36A14CED2BEA4F6", "target": "Considerando o estado atual do solo, acho que um pouco de arenito de Xobr'it Cinderfield seria muito útil. Sei que a viagem é longa, mas tenho certeza de que os resultados valerão a pena." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_004", "hash": "9636D7CA201E7F36", "target": "Considerando o estado atual do solo, acho que um pouco de madeira morta de Xobr'it Cinderfield seria muito útil. Sei que a viagem é longa, mas tenho certeza de que os resultados valerão a pena." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_005", "hash": "2D65AB6F30776FA2", "target": "Considerando o estado atual do solo, um Iq Rrax whelk seria muito útil. Não terá dificuldade para pescá-lo, desde que use uma golden stonefly nymph no anzol." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_006", "hash": "8ACE0C0F64800F56", "target": "Quando chegar a Xobr'it Cinderfield, fique de olho no arenito. Ele deve fornecer a quantidade certa de nutrientes para nosso solo prosperar." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_007", "hash": "26E24564F50C46AB", "target": "Quando chegar a Xobr'it Cinderfield, fique de olho nos troncos de madeira morta. Eles devem fornecer a quantidade certa de nutrientes para nosso solo prosperar." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_008", "hash": "60CEC012EDB1EFFA", "target": "Um Iq Rrax whelk deve fornecer a quantidade certa de nutrientes para nosso solo prosperar. Prenda uma golden stonefly nymph no anzol e vai pescar um antes de conseguir dizer “najool!”" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_009", "hash": "47AFE3B23A5D19C4", "target": "Que bom ver você de volta, <split(<string(gstr1)>, ,1)>. Imagino que tenha encontrado nossos materiais sem problemas?" },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_010", "hash": "3510EC6D40D4637E", "target": "Ah, amostras de qualidade, como sempre. Isso nos ajuda muito." },
+    { "gameKey": "quest/052/BanMam107_05267#TEXT_BANMAM107_05267_KAGEELJA_000_011", "hash": "B9C77266CD14B133", "target": "O solo precisa de nutrientes depois da colheita, e os campos novos que ararmos também exigirão adubo extra. Sua contribuição ajudará muito a obter uma colheita mais farta. Espero poder contar com você de novo quando o estoque baixar." }
   ]
 }

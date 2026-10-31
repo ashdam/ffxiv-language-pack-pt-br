@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil116_00625",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "" },
-    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "" }
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_00", "hash": "2C11A56E74D89575", "target": "Caitlyn procura alguém que possa abater alguns vira-latas." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_01", "hash": "6D107DE0BD5BB83A", "target": "Caitlyn gostaria de encomendar uma caçada a vira-latas selvagens. Vá para sudeste e abata sete dessas feras." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_02", "hash": "BE7683252EC69382", "target": "Você abateu sete vira-latas. Volte ao Acampamento Osso Seco e fale com Caitlyn." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_SEQ_03", "hash": "A8E3A3BEFA32BE51", "target": "Caitlyn confessa que seu noivo foi despedaçado por uma matilha de vira-latas há alguns anos. Ela parece decidida a fazer com que os aventureiros de passagem exterminem essas feras da face de Eorzea. Nem os infernos conhecem a fúria de uma mulher desprezada." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_00", "hash": "BF01693285CA2EFD", "target": "Abater dusty mongrels" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_TODO_01", "hash": "1E4A764F498A0A17", "target": "Relatar a Caitlyn" },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_1", "hash": "A494065042EF1C9B", "target": "Está procurando trabalho, é? Pois estou justamente procurando alguém para abater alguns vira-latas. Sete dessas feras." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_2", "hash": "B0B970A45F780F4B", "target": "Aquelas malditas criaturas quase tomaram conta da área a sudeste daqui. Atacam moradores, animais de criação, qualquer coisa que se mova. Não precisa ter piedade dessas coisas imundas." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_10", "hash": "8B91E9115964597E", "target": "Então agora são sete vira-latas a menos atormentando Thanalan, é? Excelente." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_11", "hash": "90A704AAA1F193D5", "target": "Perdi meu amor para uma matilha de vira-latas há três anos. Nós... Nós íamos nos casar. Eles o despedaçaram. Quando finalmente conseguimos afugentá-los, meu amor estava em sete pedaços. Desde então, peço a cada aventureiro que vejo passar por aqui que abata sete dessas feras." },
+    { "gameKey": "quest/006/SubWil116_00625#TEXT_SUBWIL116_00625_CAITLYN_000_12", "hash": "07536B6D80B52F6E", "target": "Minha vingança é <italic(1)>incessante<italic(0)>. Mas, se eu puder poupar uma única noiva do sofrimento que conheci, tudo terá valido a pena." }
   ]
 }

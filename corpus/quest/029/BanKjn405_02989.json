@@ -2,15 +2,15 @@
   "conversation": "quest/029/BanKjn405_02989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "" },
-    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "" }
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_SEQ_00", "hash": "E8BD7F97F7142832", "target": "Analas enfurecidos ameaçam a vida dos coletores de mariscos na Hells' Lid.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_00", "hash": "E5356445C3E36F75", "target": "Abater os kaen analas e o goen anala" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_TODO_01", "hash": "7E15AB9EC3CB95EC", "target": "Relatar o ocorrido a Zukin" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_000", "hash": "DE8F6D5DF2856C6C", "target": "A Hells' Lid é um dos lugares mais inóspitos que você vai encontrar. Se não fosse pela abundância de mariscos, nós a evitaríamos por completo." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_001", "hash": "09E55E4106EA2AE8", "target": "A maioria das criaturas de lá só ataca se chegarmos perto demais. Mas os analas fazem de tudo para nos caçar. Sua ferocidade é conhecida em toda Ruby Sea." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_002", "hash": "9F5DC68DE7E60BC9", "target": "É a você que precisamos recorrer. Entre no território deles e abata os que enfrentarem você. Uma demonstração de força deve fazer os outros voltarem de mansinho para seus covis." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_019", "hash": "E357535C5C650701", "target": "Você parece ter levado umas chamuscadas! Os analas deram trabalho?" },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_020", "hash": "86A2197780AAF541", "target": "Excelentes notícias. Pelo que conta, as praias da Hells' Lid voltaram a ser só nossas. A região está segura para colher mariscos, pelo menos por enquanto." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_021", "hash": "305C7B85544256C9", "target": "Além de serem bons de comer, eles também são usados na produção de potes com incrustações de madrepérola. Os Namazu pagam grandes quantias por eles de bom grado, só para pular lá dentro e passar horas a fio." },
+    { "gameKey": "quest/029/BanKjn405_02989#TEXT_BANKJN405_02989_ZUKIN_000_022", "hash": "AF163F4B190FFDC1", "target": "Por quê? Talvez os kami saibam, mas eu não. Sei, porém, que os analas não vão se contentar em ficar nos covis como os Namazu nos potes. Se saírem de novo, talvez precisemos da sua ajuda." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/021/BanVan101_02171",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_00", "hash": "3DDD6BE4B474AB8F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_01", "hash": "485D18E23154DA74", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_02", "hash": "3252C050198D2E59", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_03", "hash": "B3EEC8E0D6311E74", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_00", "hash": "F23BB87CAF81565C", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_01", "hash": "F105EAA999FF8F25", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_000", "hash": "DFE8678280AABAEC", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_001", "hash": "D3394EC1F4F07F25", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_002", "hash": "955F6342B1B5889F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_010", "hash": "AC807BED9FAD4090", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_011", "hash": "906375B566A1221F", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_020", "hash": "6838CCB0DF99812C", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_021", "hash": "B46FC072F02D7C89", "target": "" },
-    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_022", "hash": "2AD93D853EF5EF5D", "target": "" }
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_00", "hash": "3DDD6BE4B474AB8F", "target": "Muna Vanu está preocupado com as agressões cada vez maiores dos Vundu.<br>※A dificuldade desta missão será sincronizada com seu nível atual." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_01", "hash": "485D18E23154DA74", "target": "Muna Vanu ouviu relatos preocupantes de atividades Vundu na fronteira do território Zundu. Infelizmente, sua tribo não tem gente suficiente para responder a essas ameaças. Ele pede que você patrulhe a fronteira em seu lugar e proteja os Gundu de qualquer invasor que encontrar. Vá à fronteira a nordeste e procure batedores Vundu.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, você só pode avançar nela com a mesma classe ou job com que a aceitou." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_02", "hash": "3252C050198D2E59", "target": "Você derrotou vários batedores Vundu à espreita logo após a fronteira do território Zundu. Volte a Muna Vanu e diga que essa ameaça à soberania de sua tribo foi contida." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_SEQ_03", "hash": "B3EEC8E0D6311E74", "target": "Muna Vanu agradece sinceramente por seus esforços. Sua tribo ainda tem uma grande dívida de gratidão com os Zundu, e seu trabalho ajudou muito a retribuir a bondade deles. Da mesma forma, suas contribuições aos Gundu fazem Muna Vanu perceber que eles também têm uma dívida com você." },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_00", "hash": "F23BB87CAF81565C", "target": "Procurar batedores Vundu a nordeste de Ok' Zundu" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_TODO_01", "hash": "F105EAA999FF8F25", "target": "Relatar o ocorrido a Muna Vanu" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_000", "hash": "DFE8678280AABAEC", "target": "Se posicionarmos batedores aqui...e aqui... Oh, <split(<string(gstr1)>, ,1)>! Muna Vanu não ouviu sua chegada! Talvez <if(gnum4,a de baixo possa,o de baixo possa)> emprestar sua força aos Gundu?" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_001", "hash": "D3394EC1F4F07F25", "target": "Zundu dizem que veem batedores Vundu por perto. Nossa tribo precisa patrulhar território, mas não tem guerreiros suficientes. Por favor, ajude a encontrar malvados batedores Vundu e expulsá-los!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_002", "hash": "955F6342B1B5889F", "target": "Terra dos Vundu faz fronteira com terra dos Zundu a nordeste daqui. Por favor, procure nessa área. Encontre batedores e mostre aos Vundu toda a fúria dos Gundu!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_010", "hash": "AC807BED9FAD4090", "target": "Por que os de baixo estão aqui!?" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_BALLOON_000_011", "hash": "906375B566A1221F", "target": "Você não pode nos deter, <if(gnum4,a de baixo,o de baixo)>!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_020", "hash": "6838CCB0DF99812C", "target": "<split(<string(gstr1)>, ,1)>! Notícias de seus feitos chegam a Muna Vanu! Gundu caem sobre miseráveis Vundu com força de ventania violenta!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_021", "hash": "B46FC072F02D7C89", "target": "Batedores Vundu ficam mais ousados a cada dia. Ouvimos que caçam em território Zundu, comendo comida dos Zundu!" },
+    { "gameKey": "quest/021/BanVan101_02171#TEXT_BANVAN101_02171_MUNAVANU_000_022", "hash": "2AD93D853EF5EF5D", "target": "Trabalho <if(gnum4,da de baixo,do de baixo)> ajuda a pagar dívida com Zundu. Mas agora devemos a <italic(1)>você<italic(0)>, <split(<string(gstr1)>, ,1)>. Não tema. Gundu não esquecem sua ajuda." }
   ]
 }

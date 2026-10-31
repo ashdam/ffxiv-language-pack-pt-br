@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa804_00788",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "" }
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_00", "hash": "1640B2EC80BB2B4B", "target": "Somerhild, da Balsa de Fallgourd, pede sua ajuda por um amigo esquecido." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_01", "hash": "EE71B216333EBB2F", "target": "Um companheiro de bebedeira de Somerhild perdeu a chave do quarto na Rolha Flutuante. Recupere-a para poupar o pobre coitado de uma noite difícil dormindo na rua." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_02", "hash": "C1A38B5319E28205", "target": "Você recuperou a chave perdida. Entregue-a a Aeluuin, da Rolha Flutuante." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SEQ_03", "hash": "7DC8B6EF829D7F1F", "target": "Aeluuin agradece por recuperar a chave que um de seus clientes bêbados perdeu. Uma figura misteriosa e mascarada tem rondado os arredores ultimamente, e ele teme pela segurança dos hóspedes." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_00", "hash": "88FCED88F0B0DD05", "target": "Procurar a chave perdida" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_TODO_01", "hash": "953A1A8C1A28FBC4", "target": "Devolver a chave a Aeluuin" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_000", "hash": "CA9657B896C3C53D", "target": "O que acha da Balsa de Fallgourd? Bom chá, camas quentinhas, boa cerveja e boa companhia na Rolha Flutuante. Não é à toa que tantos viajantes adoram parar aqui no caminho para Coerthas." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_001", "hash": "91005B3F0DD58ACE", "target": "Falando na Rolha Flutuante, eu estava bebendo e contando histórias com um viajante há poucas badaladas. Parece que o pobre homem bebeu um pouco demais e, quando deu por si, não achava a chave do quarto em lugar nenhum." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_SOMERHILD_000_002", "hash": "0A883FA30C1CFEEB", "target": "Com todos esses rumores recentes, tanto meu amigo quanto o estalajadeiro estão mortos de preocupação. Se encontrar a chave por acaso, pode fazer a gentileza de devolver à Rolha? Vai poupar mais de um homem de uma noite em claro." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_015", "hash": "7D28E897D34F64BD", "target": "Maldito cachaceiro! Por isso eu sempre digo: se não aguenta álcool, fique no chá! Desculpe, trouxe alguma coisa para mim?" },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_020", "hash": "34B9164CCC62ED88", "target": "Ora, eu estava procurando essa chave por toda parte! Você é uma bênção dos deuses." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_021", "hash": "3E778088B7395D9A", "target": "Precisa me perdoar. Ultimamente, correm rumores de um homem mascarado suspeito por estas bandas, e isso deixou tanto a mim quanto meus clientes apreensivos." },
+    { "gameKey": "quest/007/GaiUsa804_00788#TEXT_GAIUSA804_00788_AELUUIN_000_022", "hash": "2C9A77E09201C235", "target": "Enfim, graças a você, aquele tolo beberrão pode dormir tranquilo na cama esta noite. Seria bom você também encontrar um lugar seguro para ficar." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz532_01867",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_00", "hash": "C20759CEE4E06DD7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_01", "hash": "B6DC758AB8E0F2D3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_00", "hash": "4D573125F73A3B5C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_01", "hash": "30C7B7E6E520D1C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_000", "hash": "810AF19920867747", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_001", "hash": "552840FDC3AA9DDC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_002", "hash": "273EC577714D7DB8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_010", "hash": "7B24F2DE8114A74E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_021", "hash": "4D541E0BBB0FBFBA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_00", "hash": "C20759CEE4E06DD7", "target": "Mogok observa o horizonte com desconfiança." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_01", "hash": "B6DC758AB8E0F2D3", "target": "Mogok, empenhado em sua patrulha, viu algo suspeito ao longe. Como não ousa tirar os olhos desta área, ele pede que você atravesse a ponte e garanta que nenhum servo de Nidhogg tenha entrado em Zenith sem ser notado." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_02", "hash": "ADAFC36327CCA1AD", "target": "As suspeitas de Mogok se confirmam, e os servos de Nidhogg atacam assim que veem você. Você os derruba facilmente, mas a simples presença deles em Zenith é preocupante. Mogok vai querer saber que Zenith foi invadido." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_SEQ_03", "hash": "9630FA2D03C53674", "target": "Surpreso por os dragões terem chegado tão fundo em Zenith, Mogok retoma sua patrulha com atenção redobrada. Continue ajudando a Guarda do Pompom a defender esta área sagrada das garras mal-educadas desses dragões invasores." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_00", "hash": "4D573125F73A3B5C", "target": "Procurar dragões nas áreas indicadas" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_TODO_01", "hash": "30C7B7E6E520D1C3", "target": "Apresentar-se a Mogok" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_000", "hash": "810AF19920867747", "target": "Ah, é <if(gnum4,a aventureira,o aventureiro)>! Nada de errado por aqui, kupo!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_001", "hash": "552840FDC3AA9DDC", "target": "O quê!? Os servos de Nidhogg foram vistos? E Mogleo está ferido!? Que horror! Hmm... Pensando bem, eu <italic(1)>vi<italic(0)> algo grande se mexendo do outro lado desta ponte..." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_002", "hash": "273EC577714D7DB8", "target": "Ah, sei o que fazer! Vou ficar de guarda diante desta ponte e garantir que nenhum dragão passe escondido enquanto <italic(1)>você<italic(0)> investiga a área, kupo. Não tenha medo, pois sou um defensor capaz!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_010", "hash": "7B24F2DE8114A74E", "target": "Vou garantir que nenhum dragão se aproxime de surpresa. Atravesse a ponte e veja se algum servo de Nidhogg está rondando a área!" },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_020", "hash": "F24EDECB4DB6E28A", "target": "Pensar que os servos de Nidhogg têm o atrevimento de vir até aqui! Obrigado, <if(gnum4,aventureira,aventureiro)>, por livrar Zenith da presença deles." },
+    { "gameKey": "quest/018/HeaVnz532_01867#TEXT_HEAVNZ532_01867_MOGOK_000_021", "hash": "4D541E0BBB0FBFBA", "target": "Bem, vou retomar minha patrulha. Nenhum dragão escapará do meu olhar atento, kupo!" }
   ]
 }

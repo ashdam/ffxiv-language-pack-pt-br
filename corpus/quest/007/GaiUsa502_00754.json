@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa502_00754",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "" }
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_00", "hash": "03800586CFC041FB", "target": "A Irmã Kyokyozo, da Ordem de Nald'thal, procura <if(gnum4,uma aventureira,um aventureiro)> para matar as criaturas que espantam possíveis peregrinos do Repouso de Thal." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_01", "hash": "8B742BD4E93A694D", "target": "Os peregrinos que visitam o Repouso de Thal têm ficado escassos ultimamente, e a culpa é dos axe beaks ferozes que infestam as estradas de acesso. Mate quatro dessas aves temíveis." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_02", "hash": "C3AA40DD7F26E447", "target": "Você matou quatro axe beaks para que os futuros peregrinos possam entrar nos salões sagrados do Repouso de Thal sem temer por sua segurança. Informe a Irmã Kyokyozo do que fez." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_SEQ_03", "hash": "40AD6AA7C3B4815F", "target": "A Irmã Kyokyozo informa que, graças à sua ajuda, já recebeu uma comerciante viajante e sua família no Repouso. Ela aguarda com entusiasmo os muitos encontros com que os Mercadores agora a abençoarão." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_00", "hash": "32ECD4CDACF9868D", "target": "Abater axe beaks" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_TODO_01", "hash": "3173529BE947126B", "target": "Relatar a Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_000", "hash": "8F44D62BEF6ACB52", "target": "Aventureiros, comerciantes, viajantes: o Repouso de Thal está sempre aberto a quem busca um breve alívio das dificuldades da estrada." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_001", "hash": "73F6DA7F4B2510D5", "target": "No passado, recebíamos incontáveis multidões por estas portas. Infelizmente, a presença crescente de tribos bestiais hostis e criaturas selvagens agora afasta muitos da peregrinação. Uma pena, não é?" },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYIKYOZO_000_002", "hash": "D9BBE848430E606B", "target": "Talvez você possa nos ajudar. O mais temível representante da fauna local é o axe beak. Se reduzisse o bando em umas quatro aves, creio que seria muito mais fácil chegar a estes salões." },
+    { "gameKey": "quest/007/GaiUsa502_00754#TEXT_GAIUSA502_00754_KYOKYOZO_000_020", "hash": "C7F7B9BC334C9EA9", "target": "<if(gnum4,Minha amiga aventureira,Meu amigo aventureiro)>, um comerciante viajante e sua família acabaram de passar por nossas portas. Cada encontro é uma bênção, uma bênção que não teria acontecido se aquelas aves temíveis continuassem infestando os arredores dos nossos salões. Por isso, agradeço a você." }
   ]
 }

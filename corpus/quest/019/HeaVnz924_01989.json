@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz924_01989",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_00", "hash": "4909B4DB851B495D", "target": "O módulo de montagem alagano treme de impaciência." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_01", "hash": "FD24D6C623D641B9", "target": "O módulo de montagem alagano ficou sem matéria-prima para continuar seu trabalho. Devido à falta de recursos, pediu que você destruísse três gigantes de aço para que fossem reciclados e suas peças usadas no processo de fabricação do sistema." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_02", "hash": "7A2BFD06A7B7B88E", "target": "Você destrói os gigantes de aço conforme solicitado. Informe assembly node que eles estão prontos para reaproveitamento." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_SEQ_03", "hash": "72AE4E5CB640A249", "target": "O módulo de montagem confirma a desativação dos gigantes de aço, mas não consegue identificar peças adequadas para reaproveitamento e logo volta a repetir as mesmas declarações que anunciava quando você se aproximou." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_00", "hash": "D99710D41EDCD796", "target": "Eliminar Mark III magitek colossi" },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_TODO_01", "hash": "1FD84BA13B7E430C", "target": "Relatar a assembly node" },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_000", "hash": "9D5B9E623AC64EF0", "target": "\\<bip> \\<bip> Materiais insuficientes para continuar a fabricação. Forneça materiais adicionais.<br>\\<bip> \\<bip> Materiais insuficientes para continuar a fabricação. Forneça materiais adicionais." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_001", "hash": "980D7C0517FFF722", "target": "Se não houver matérias-primas disponíveis, elas podem ser recuperadas de equipamentos desnecessários. Destrua três gigantes de aço para permitir o reaproveitamento de suas peças." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_010", "hash": "FBDDF420735B6C5D", "target": "Destrua três gigantes de aço para que suas peças possam ser reaproveitadas e a fabricação continue." },
+    { "gameKey": "quest/019/HeaVnz924_01989#TEXT_HEAVNZ924_01989_MANUFACTURINGSYSTEM_000_020", "hash": "EC9F7CB29D3A091D", "target": "Confirmando destruição de equipamentos desnecessários... \\<bip> \\<bip> Confirmada.<br>Verificando integridade das peças reaproveitáveis... \\<bip> Não foi possível confirmar a qualidade dos materiais. Não foi possível continuar a fabricação." }
   ]
 }

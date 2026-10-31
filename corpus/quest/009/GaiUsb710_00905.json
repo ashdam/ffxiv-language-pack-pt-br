@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb710_00905",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "" }
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_00", "hash": "B589EA5ECB4C313B", "target": "Belmont precisa dos seus serviços, e é difícil resistir ao seu ar de comando." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_01", "hash": "0E335252411C3442", "target": "Belmont deseja entrar em contato com um antigo companheiro da Aljava dos Deuses para iniciar rapidamente uma campanha contra os Ixal em Coerthas. Vá a North Shroud e leve a carta de Belmont a Isaudorel, na Rolha Flutuante, na Balsa de Fallgourd." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_SEQ_02", "hash": "F930E99969D8AB31", "target": "Os Carneiros Brancos parecem ter um interesse especial nos Ixal, e Isaudorel logo promete o apoio da tropa à campanha de Belmont. Isaudorel também deixa escapar que Belmont trocou, inexplicavelmente, um posto de honra nos Carneiros Brancos pela vida de mercenário..." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_TODO_00", "hash": "A1FBBE0CAD0BA403", "target": "Entregar a carta a Isaudorel na Balsa de Fallgourd" },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_000", "hash": "76DB107C524D6AEC", "target": "Os Ixal estão vindo para Coerthas para ficar. Não é pouca coisa trazer aquelas toras da Mata dos Doze até tão longe a oeste." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_001", "hash": "B915BDB909B0ADBF", "target": "Devem estar usando os malditos balões, aquelas aves de merda. Até os suprimentos deles têm asas, e tudo que sai dos balões vai parar no solo de Coerthas. Precisamos atacar agora, antes que o assentamento cresça." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_002", "hash": "610491936F1504BC", "target": "Os ishgardeses não vão dar a mínima até ser tarde demais. Preciso do meu próprio pessoal. Leve esta carta a um patife chamado Isaudorel. Já lutamos juntos na Aljava. A tropa dele está aquartelada na Balsa de Fallgourd." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_BELMONT_000_003", "hash": "3EF3709688079D8F", "target": "Não luto por Ishgard nessa história, mas, se quiserem considerar uma dívida, por mim tudo bem. Me irrita ver os Ixal entrando em Coerthas na maior tranquilidade, bem debaixo do meu nariz." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_020", "hash": "35B9B881F8BC96A6", "target": "Maldição, como dói! Odeio ficar ferido mais do que ficar morto! Me chamam de “Carneiro que dá pancada”, não de “ovelha que apanha”!<br>...<split(<string(gstr1)>, ,1)>, é? Bem, diga o que quer." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_030", "hash": "8D67E9355CB3C744", "target": "Uma carta para mim? De Belmont, ora vejam! Nunca vou entender como o melhor oficial de táticas que os Carneiros Brancos já tiveram aguenta ralar como mercenário." },
+    { "gameKey": "quest/009/GaiUsb710_00905#TEXT_GAIUSB710_00905_ISAUDOREL_000_031", "hash": "F17F5CA64627889E", "target": "Hm, a vida na estrada não enferrujou a cabeça dele. Se diz que aquelas aves de merda estão se instalando em Coerthas, basta para mim. Nós, Carneiros Brancos, temos umas dores para cobrar dos Ixal. Diga a ele que basta pedir o que precisar da gente." }
   ]
 }

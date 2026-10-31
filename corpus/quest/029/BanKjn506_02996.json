@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn506_02996",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_SEQ_00", "hash": "331076C39B04CF12", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_00", "hash": "053A57D89D05DE27", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_01", "hash": "1BC212E1BD41BA28", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_000", "hash": "CFC0116CFF4CCFEC", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_001", "hash": "E2A2FF02715DED2B", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_020", "hash": "2420D06139140838", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_021", "hash": "EC23AE8C190B3356", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_022", "hash": "408CC6D953CA052D", "target": "" },
-    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_023", "hash": "88304E3DF0B5A8D5", "target": "" }
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_SEQ_00", "hash": "331076C39B04CF12", "target": "Destroços comuns ou um tesouro ainda não descoberto? Zukin quer que você investigue.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_00", "hash": "053A57D89D05DE27", "target": "Recolher os destroços de Ruby Sea" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_TODO_01", "hash": "1BC212E1BD41BA28", "target": "Entregar os destroços de Ruby Sea a Zukin" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_000", "hash": "CFC0116CFF4CCFEC", "target": "Todo tipo de coisa vem boiando nas ondas. Na maioria das vezes, é só lixo sem valor, mas às vezes encontramos um tesouro ou outro. Se os kami forem bondosos, hoje pode ser um desses dias." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_001", "hash": "E2A2FF02715DED2B", "target": "Avistamos restos de um acidente no mar, <split(<string(gstr1)>, ,1)>, boiando na superfície a cerca de um malm da aldeia. Não custa nada dar uma olhada, e talvez até tenham valor!" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_020", "hash": "2420D06139140838", "target": "Ah, <split(<string(gstr1)>, ,1)>, você voltou. Encontrou algo interessante?" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_021", "hash": "EC23AE8C190B3356", "target": "Deixe-me ver. Destroços incrustados de cracas, madeira podre coberta de limo acinzentado... e um tesouro precioso, belamente envelhecido, digno de um kami!" },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_022", "hash": "408CC6D953CA052D", "target": "O quê? Parece tudo lixo? Sim, é o que a maioria dos sem-carapaça diz. Muitos não nos entendem e acham que só gostamos de juntar tralha. Mas sabemos enxergar além das aparências." },
+    { "gameKey": "quest/029/BanKjn506_02996#TEXT_BANKJN506_02996_ZUKIN_000_023", "hash": "88304E3DF0B5A8D5", "target": "É claro que a forma e a cor são importantes, mas também há o modo como um objeto envelhece com o tempo e adquire propriedades divinas. Pode acreditar, ninguém entende mais de tesouros que eu!" }
   ]
 }

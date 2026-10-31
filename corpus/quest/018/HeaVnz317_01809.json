@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz317_01809",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_00", "hash": "71D3DC53B6C999FC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_01", "hash": "8C9862CBD98D2D9F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_02", "hash": "24338A3CFCD46F87", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_03", "hash": "B5BDBFB954810A19", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_00", "hash": "62725FE18C39AB37", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_01", "hash": "91F85A4204E00279", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_000", "hash": "14C1A59D4C6B1FAB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_001", "hash": "0E61C10BF3548404", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_010", "hash": "D343E19F4C27DC30", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHA01809_100_020", "hash": "82C59666E1F29106", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHB01809_100_021", "hash": "63C1820748A593B3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHC01809_100_022", "hash": "0FC01C3E335793EA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_020", "hash": "BE80F3C141CA842D", "target": "" }
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_00", "hash": "71D3DC53B6C999FC", "target": "Gullinkambi tamborila as garras no chão, com a fúria estampada no rosto." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_01", "hash": "8C9862CBD98D2D9F", "target": "Após a derrota do primordial Ravana, os Gnath ficaram imprudentes, e Gullinkambi sente que estão se aproximando da torre. Temendo pela segurança dos filhos, ela pede que você os afaste por quaisquer meios necessários." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_02", "hash": "24338A3CFCD46F87", "target": "Você derrotou os invasores Gnath. Volte a Gullinkambi e conte que a torre está segura." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_SEQ_03", "hash": "B5BDBFB954810A19", "target": "Você volta a Gullinkambi, que fica aliviada ao saber que você deu cabo dos Gnath. A trégua pode ser breve, mas ela agradece sua ajuda mesmo assim." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_00", "hash": "62725FE18C39AB37", "target": "Matar os agressores Gnath" },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_TODO_01", "hash": "91F85A4204E00279", "target": "Apresentar um relatório a Gullinkambi" },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_000", "hash": "14C1A59D4C6B1FAB", "target": "O primordial Ravana caiu, e os Gnath estão inquietos. Eles querem atacar Kal Myhk, atacar meus filhos que ainda nem nasceram." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_001", "hash": "0E61C10BF3548404", "target": "Sinto a presença de Gnath se aproximando da torre. Três ao todo. Você precisa matar aqueles que querem ferir meus filhos." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_010", "hash": "D343E19F4C27DC30", "target": "Os Gnath precisam morrer. Você encontrará esses vermes ao pé da torre." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHA01809_100_020", "hash": "82C59666E1F29106", "target": "\\<clique> \\<clique> Morte aos dragões!" },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHB01809_100_021", "hash": "63C1820748A593B3", "target": "Onde estão os dragões? \\<clique> \\<clique> Precisamos matar os dragões." },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GOODGNATHC01809_100_022", "hash": "0FC01C3E335793EA", "target": "Você não pode nos impedir de chegar aos dragões. \\<clique> \\<clique>" },
+    { "gameKey": "quest/018/HeaVnz317_01809#TEXT_HEAVNZ317_01809_GULLINKAMBI_000_020", "hash": "BE80F3C141CA842D", "target": "Não sinto mais a presença deles. Ravana e seus servos são um incômodo do qual fico feliz em me livrar, mesmo que por pouco tempo. Obrigada." }
   ]
 }

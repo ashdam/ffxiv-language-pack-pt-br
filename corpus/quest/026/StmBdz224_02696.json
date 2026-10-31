@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz224_02696",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "" },
-    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "" }
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_SEQ_00", "hash": "73FF4614AA8E404F", "target": "Urokuzu procura por toda parte alguém com experiência de combate." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_00", "hash": "C09C99D08410B01F", "target": "Vasculhar a área e matar as feras que aparecerem" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_TODO_01", "hash": "DA51035DB4B3DDA1", "target": "Relatar a Urokuzu" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_000", "hash": "22B3F880E6547868", "target": "Ah, você é <if(gnum4,uma senhora da superfície e parece ser uma guerreira calejada,um homem da superfície e parece ser um guerreiro calejado)>! Não é coincidência que tenha escolhido justamente este momento para nos visitar!" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_001", "hash": "F50D088F10BD37CB", "target": "Outro dia, um dos nossos jovens Kojin estava pescando quando foi atacado e gravemente ferido. Ele não conseguiu identificar o agressor, mas muitos suspeitam que tenha sido um coralshell. Nessa época, eles começam a pôr ovos e podem ser muito agressivos." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_002", "hash": "896EBC460122348C", "target": "Eu, porém, acredito que seja algo muito mais sinistro. A pessoa de quem falo é o melhor lutador de Tamamizu. Um mero coralshell não conseguiria pegá-lo desprevenido." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_003", "hash": "4BB528783C01183D", "target": "O incidente aconteceu na costa norte da Ilha de Bekko. Por favor, você poderia ir até lá e investigar o que pode ter causado isso?" },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_004", "hash": "6FF52742726983D9", "target": "Tome cuidado. Não quero ter sua morte na consciência." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_010", "hash": "9504F19D39794659", "target": "...Então os culpados eram os Kojin Vermelhos? Isso é um absurdo! Embora não sejamos nada amigáveis uns com os outros, eles nunca tinham tentado matar um dos nossos até agora." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_011", "hash": "7CDE6BBB63022CA5", "target": "...Pensando bem, talvez não quisessem tirar a vida dele, mas apenas roubar a vara de pesca antiga que ele usava na ocasião. Afinal, é um dos nossos tesouros mais valiosos." },
+    { "gameKey": "quest/026/StmBdz224_02696#TEXT_STMBDZ224_02696_UROKUZU_000_012", "hash": "3E034F2B7A5DEC83", "target": "Preciso avisar os outros para redobrar o cuidado ao sair da aldeia com qualquer coisa de grande valor. Agradeço, <if(gnum4,senhora,senhor)>, pela ajuda para esclarecer este caso tão preocupante." }
   ]
 }

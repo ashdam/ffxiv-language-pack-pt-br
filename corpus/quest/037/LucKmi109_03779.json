@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_SEQ_00", "hash": "DAFEC2DA8447AEA6", "target": "Os olhos de Y'shtola parecem olhar diretamente para sua alma." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_00", "hash": "79979264766919DB", "target": "Falar com Alisaie" },
-    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_01", "hash": "8FA33DEF0847B091", "target": "Falar com Alisaie em Inn at Journey's Head" },
+    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_01", "hash": "8FA33DEF0847B091", "target": "Falar com Alisaie na Hospedaria da Partida" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_02", "hash": "5483D5AFF90E4E91", "target": "Procurar Halric" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_03", "hash": "06FF0F3398052339", "target": "Falar com Alisaie" },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_TODO_04", "hash": "F44347332C8E0CE0", "target": "Viajar para Eulmore" },
@@ -70,7 +70,7 @@
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALPHINAUD_000_081", "hash": "56207A898F376BBD", "target": "Bem, vou voltar a Eulmore. Entre outras coisas, devo ao prefeito um pedido de desculpas pela aeronave." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALPHINAUD_000_082", "hash": "29E69BFCB34B8DB5", "target": "Imagino que você também tenha lugares aonde ir, Alisaie. Até mais." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_BEQLUGG_000_090", "hash": "004D5D335B0AA427", "target": "Aproveitarei para fazer uma última inspeção dos receptáculos espirituais. Com o que está em jogo, todo cuidado é pouco." },
-    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_100", "hash": "1B895AE49D2CCEF8", "target": "Como deve ter adivinhado, vou visitar Inn at Journey's Head. Mas quero que você venha também." },
+    { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_100", "hash": "1B895AE49D2CCEF8", "target": "Como deve ter adivinhado, vou visitar a Hospedaria da Partida. Mas quero que você venha também." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_101", "hash": "CB83A057AFF6F808", "target": "Sei que você não precisa se despedir." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_102", "hash": "97175865E9F7D13C", "target": "Mas o Exarca precisa, nem que seja em espírito. Então pensei que poderia trazê-lo, por assim dizer." },
     { "gameKey": "quest/037/LucKmi109_03779#TEXT_LUCKMI109_03779_ALISAIE_000_103", "hash": "6FB225AB459F2CDB", "target": "Tenho certeza de que ele adoraria a ideia de ser carregado nas costas <if(gnum4,de sua heroína,de seu herói)>." },

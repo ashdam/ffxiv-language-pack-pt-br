@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma210_01241",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_00", "hash": "DF4B8BCF042BC413", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_01", "hash": "3F1ACCBAE40BF14E", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_02", "hash": "2C13D072C3676C51", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_03", "hash": "E5F75C7AC0178409", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_00", "hash": "BE5C6A07E5DC98F5", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_01", "hash": "A46B5E03A015D656", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_000", "hash": "0B3365738B998BA5", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_001", "hash": "D3D015E687518964", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_002", "hash": "7A08B2174043662D", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_004", "hash": "7F5DC0362CD4946F", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_010", "hash": "2FDC9C66AA15AEEC", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_020", "hash": "01852005240B03B2", "target": "" },
-    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_021", "hash": "FFA04B0DE3ACBD47", "target": "" }
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_00", "hash": "DF4B8BCF042BC413", "target": "Narujj Boh está exausto com a obstinação de seus irmãos teimosos." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_01", "hash": "3F1ACCBAE40BF14E", "target": "Narujj Boh explica, cansado, que os Amalj'aa de Zanr'ak construíram ainda mais torres sinistras coroadas de chamas. Encontre os infernal beacons e destrua-os." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_02", "hash": "2C13D072C3676C51", "target": "Você destruiu os infernal beacons. Volte ao Círculo das Cinzas e relate o ocorrido a Narujj Boh." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_SEQ_03", "hash": "E5F75C7AC0178409", "target": "Pelo cheiro de destruição, Narujj Boh deduz que você cumpriu sua tarefa. Ele exulta com o fracasso dos planos inimigos e agradece suas contribuições à causa da Irmandade." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_00", "hash": "BE5C6A07E5DC98F5", "target": "Destruir infernal beacons" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_TODO_01", "hash": "A46B5E03A015D656", "target": "Relatar o ocorrido a Narujj Boh" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_000", "hash": "0B3365738B998BA5", "target": "Nossos irmãos fanáticos são persistentes, isso não se pode negar. Mais uma vez buscam concentrar e intensificar as bênçãos de sua divindade." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_001", "hash": "D3D015E687518964", "target": "Construíram braseiros resistentes em Zanr'ak e consagraram esses talismãs imponentes com o fogo de Ifrit." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_002", "hash": "7A08B2174043662D", "target": "Vai precisar de mais que um punhado de cinzas para abafar chamas tão vorazes, nobre companheir<if(gnum4,a,o)>. A hora da sutileza passou! Use quaisquer armas que tenha à disposição, mas ponha essas estruturas abaixo!" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_004", "hash": "7F5DC0362CD4946F", "target": "Como sempre, os Presas de Fogo tentarão impedir você a cada passo. Enfrente-os se for preciso, mas não perca de vista sua verdadeira tarefa." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_010", "hash": "2FDC9C66AA15AEEC", "target": "Encontre os infernal beacons em Zanr'ak e não deixe nada além de ruínas fumegantes!" },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_020", "hash": "01852005240B03B2", "target": "Pelo cheiro de fumaça e sangue, julgo que sua tarefa foi um sucesso. Até meus irmãos teimosos devem sentir agora uma centelha de dúvida sobre a força que suas tão celebradas bênçãos lhes concedem." },
+    { "gameKey": "quest/012/BanAma210_01241#TEXT_BANAMA210_01241_NARUJIBOH_000_021", "hash": "FFA04B0DE3ACBD47", "target": "Você, que veio de fora, fez muito pela Irmandade. É uma grande sorte ter você como nobre companheir<if(gnum4,a,o)>." }
   ]
 }

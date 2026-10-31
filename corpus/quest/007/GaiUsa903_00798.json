@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa903_00798",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "Ademar precisa de uma mão para alcançar mais alto." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "Ademar quer procurar novos veios de minério e pede sua ajuda para montar escadas que lhe permitam chegar a lugares de difícil acesso." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "Você posicionou as três escadas conforme as instruções. Informe Ademar de que o serviço está feito." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "Os veios de minério se esgotam depressa, e os garimpeiros precisam estar sempre em busca da próxima descoberta. Ademar continua a cavar, na esperança de que o dia de fazer fortuna não esteja longe." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "Posicionar as escadas conforme as instruções de Ademar" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "Informar Ademar" },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "Talvez você possa me ajudar de novo. Estou de olho em novos veios de minério, mas estas minhas pernas não são longas o bastante para chegar até lá." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "Você poderia montar estas escadas para mim? Eu mesmo faria isso, mas este lugar anda perigoso demais ultimamente." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "Você me fez um grande favor de novo, de verdade. Com todos aqueles bichos terríveis à espreita, eu nunca teria conseguido fazer o serviço sozinho." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "Não sei que tipo de minério me espera, mas pode escrever: um dia vou fazer fortuna e deixar este lugar para trás de uma vez por todas!" }
   ]
 }

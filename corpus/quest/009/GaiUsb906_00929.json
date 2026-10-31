@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb906_00929",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_00", "hash": "B2DB3D4C079DC9DC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_01", "hash": "46478300E86BA32D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_02", "hash": "CE85475E0DE11A64", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_TODO_00", "hash": "2BF65CFC6979077F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_000", "hash": "AA109841E0F5CE9A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_001", "hash": "C13BCDAABE3B7CE1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_010", "hash": "54D7475A346FEBFF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_011", "hash": "82F5B7625B6F0D23", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_012", "hash": "B53BD255B216D7BD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_050", "hash": "5F615F1633F57EC4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_051", "hash": "804EE0259C46973B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_052", "hash": "73A28C0E43902FB0", "target": "" }
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_00", "hash": "B2DB3D4C079DC9DC", "target": "Um bom comandante olha por seus homens em vez de seus superiores, e Sor Jeantremont, um desses cavaleiros, pede sua ajuda." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_01", "hash": "46478300E86BA32D", "target": "Os combates incessantes esgotaram a força dos cavaleiros dragões e do povo no Posto Avançado de Whitebrim. Mortificado, mas decidido, Sor Jeantremont pede que você implore a Sor Marcelain, guardião dos Portões do Julgamento, que envie mais homens." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_SEQ_02", "hash": "CE85475E0DE11A64", "target": "Você faz o pedido de reforços com toda a eloquência que consegue reunir, mas, longe de ser receptivo, Sor Marcelain ameaça cortar suprimentos e gargantas. Este não foi seu melhor momento..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_TODO_00", "hash": "2BF65CFC6979077F", "target": "Falar com Marcelain" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_000", "hash": "AA109841E0F5CE9A", "target": "Uma palavra, por favor. Por mais que me doa dizer isto, preciso. Vá aos Portões do Julgamento e leve um pedido a Sor Marcelain. Diga a ele... diga que precisamos de reforços." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_JEANTREMONT_000_001", "hash": "C13BCDAABE3B7CE1", "target": "O povo está exausto das escaramuças constantes com os dragões, e o ânimo no Posto se torna sombrio. Estamos no fio da navalha, e certamente vamos cair..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_010", "hash": "54D7475A346FEBFF", "target": "O que você quer aqui? Fale depressa. Um pedido de <italic(1)>quê<italic(0)> do Posto Avançado de Whitebrim? Cansados? Estão cansados, é?" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_011", "hash": "82F5B7625B6F0D23", "target": "Covardes e tolos! Diga a Jeantremont que pegue essa <italic(1)>navalha<italic(0)> e corte a garganta de cada cavaleiro que se diga <italic(1)>cansado<italic(0)> demais para cumprir seu dever sagrado. Enforque qualquer camponês que ouse reclamar dos porcos chamuscados." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_012", "hash": "B53BD255B216D7BD", "target": "Fora daqui, <if(gnum4,mensageira maldita,mensageiro maldito)>! O Posto Avançado de Whitebrim terá sorte se eu não reduzir sua cota de suprimentos por esse ultraje..." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_050", "hash": "5F615F1633F57EC4", "target": "Saudações <if(gnum4,à salvadora,ao salvador)> dos Steps of Faith. O que você deseja hoje? Um pedido de <italic(1)>quê<italic(0)> do Posto Avançado de Whitebrim? Cansados? Estão cansados, é?" },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_051", "hash": "804EE0259C46973B", "target": "Covardes e tolos! Diga a Jeantremont que pegue essa <italic(1)>navalha<italic(0)> e corte a garganta de cada cavaleiro que se diga <italic(1)>cansado<italic(0)> demais para cumprir seu dever sagrado. Enforque qualquer camponês que ouse reclamar dos porcos chamuscados." },
+    { "gameKey": "quest/009/GaiUsb906_00929#TEXT_GAIUSB906_00929_MARCELAIN_000_052", "hash": "73A28C0E43902FB0", "target": "Devo lhe pedir desculpas. Você jamais deveria ter sido <if(gnum4,incomodada,incomodado)> com a vergonhosa demonstração de fraqueza dos meus companheiros. O Posto Avançado de Whitebrim terá sorte se eu não reduzir sua cota de suprimentos por esse ultraje..." }
   ]
 }

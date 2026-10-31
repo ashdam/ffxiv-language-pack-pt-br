@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz917_01982",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_00", "hash": "87A98A9449C2E7FD", "target": "O módulo de supressão alagano está tentando iniciar um teste do sistema." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_01", "hash": "1061D312250D8755", "target": "O módulo de supressão alagano precisa confirmar a eficácia de seu subsistema de garantia de obediência dos cidadãos. Ponha o subsistema à prova tentando destruir três clockwork engineers e três clockwork paladins." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_02", "hash": "A79BB036F94A452F", "target": "O teste foi concluído. Volte até suppression node para confirmar os resultados." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_SEQ_03", "hash": "5D6E12BA69A4024F", "target": "O módulo de supressão parece considerar sua sobrevivência uma falha do subsistema e recomenda uma atualização da infraestrutura." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_00", "hash": "42FF43A1B36D1051", "target": "Eliminar clockwork paladins" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_01", "hash": "C740293D9BEDC381", "target": "Eliminar clockwork engineers" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_TODO_02", "hash": "CE430087C0106701", "target": "Relatar a suppression node" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_000", "hash": "10A3EAF7DE280EA9", "target": "Iniciando teste do sistema. \\<bip> \\<bip> Indivíduo de teste não encontrado. Abortando... Iniciando teste do sistema. \\<bip> \\<bip> Indivíduo de teste não encontrado. Abortando... Iniciando teste do sistema." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_001", "hash": "C8E3E9E8CCA88157", "target": "Parabéns por sua seleção para o teste do sistema. Verifique a eficácia do subsistema de garantia de obediência dos cidadãos aproximando-se de clockwork engineers e clockwork paladins e demonstrando comportamento desobediente.<br>Verifique...\\<bzzzzzzz>...subsistema de garantia aproximando-se de clockwork... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_010", "hash": "127E5548A1C3F737", "target": "\\<bzzzzzzz> ...comportamento desobediente. Verifique a eficácia do subsistema de garantia de obediência dos cidadãos aproximando-se de clockwork engineers e clockwork paladins e demonstrando comportamento desobediente. Verifique... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_020", "hash": "B027EB3AE0EC192A", "target": "Obrigado por participar do programa de teste do subsistema de garantia de obediência dos cidadãos.<br>Indivíduos de teste neutralizados... <italic(1)>ZERO<italic(0)>.<br>Desempenho do subsistema... <italic(1)>INSATISFATÓRIO<italic(0)>." },
+    { "gameKey": "quest/019/HeaVnz917_01982#TEXT_HEAVNZ917_01982_REPRESSSYSTEM_000_021", "hash": "CB65B3C148BFA8BC", "target": "Atualização da infraestrutura de supressão recomendada para garantir a obediência ideal dos cidadãos." }
   ]
 }

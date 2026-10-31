@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea104_00401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "" },
-    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "" }
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_00", "hash": "712A068EE209841D", "target": "Kazai Buoyzai, um transportador de cargas do Skylift, quer que você mate os abutres que têm atacado carroças na estrada." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_01", "hash": "557AA43BAE6AC50F", "target": "Atraídos pelo cheiro de carne, abutres famintos têm mergulhado sobre carroças carregadas de alimentos a caminho do Posto de Controle de De Nevelle. Use o gosto das aves por carne morta a seu favor: leve um saco de carne de rato podre até o ninho delas e atraia as carniceiras para uma emboscada mortal." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_02", "hash": "40C7E0DA63B4D003", "target": "Você matou os abutres. Volte ao Skylift e relate a Kazai Buoyzai." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_SEQ_03", "hash": "BCA4B5328A6FE910", "target": "A influência persistente da Calamidade afeta mais que a vida dos cidadãos de Eorzea. Até os animais carniceiros dessas terras são forçados a comportamentos desesperados e fora do comum. Embora muito já tenha sido feito para reparar a devastação, as cicatrizes vão demorar a desaparecer." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_00", "hash": "F8711E4297F11FB8", "target": "Esvaziar o saco de carne de rato no ninho dos abutres e matar os que aparecerem" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_TODO_01", "hash": "EA2F73B876A605AE", "target": "Relatar a Kazai Buoyzai no Skylift" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_1", "hash": "92AADAE488D4340B", "target": "Você mostrou que é <if(gnum4,uma moça útil,um sujeito útil)>. Que tal me fazer outro favor? Temos tido um probleminha com abutres que mergulham para roubar carga das carroças na estrada para o Posto de Controle de De Nevelle." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_2", "hash": "938BB9B6269B2462", "target": "Na maioria dos dias, aqueles diabinhos de penas ficam bem longe, mas parece que não resistem a uma carroça carregada de carne. Pois eu digo que devemos usar essa fraqueza para atrair os malditos gananciosos a uma armadilha." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_3", "hash": "EE3D2F70C1E7AE9E", "target": "Leve este saco de carne de rato podre e deixe em vulture territory, onde os abutres fazem seus ninhos. Quando os desgraçados aparecerem para o banquete, você começa a quebrar os bicos deles sem dó. Fácil." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_11", "hash": "6990CF73BD569406", "target": "Não teve os olhos arrancados a bicadas, teve? Aqueles abutres são uns malditos. Mas a última carroça passou sem perder um bocado sequer, então eu diria que você depenou ladrões suficientes para deixar a rota segura." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_12", "hash": "D5C9151F44318DA9", "target": "Tem minha gratidão, <if(gnum4,moça,rapaz)>. Ganho a maior parte do meu dinheiro transportando alimentos e, sem sua ajuda, estaria dormindo na sarjeta antes do fim da semana." },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_KAZAIBUOYZAI_000_13", "hash": "BAEBEED8B3D5AC03", "target": "Parece que até os carniceiros estão achando pouca comida desde a Calamidade, senão nunca seriam tão ousados. Mas a sorte não valeu nada para eles desta vez, hein?" },
+    { "gameKey": "quest/004/SubSea104_00401#TEXT_SUBSEA104_00401_POP_MESSAGE", "hash": "FEF6D0A9A26C9146", "target": "Você sente uma presença hostil!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa811_00795",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "" },
-    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_00", "hash": "38DE0A5E41FDF6ED", "target": "Gogolata tem uma confissão a fazer." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_01", "hash": "3CA53F2436E15763", "target": "Gogolata confessa o verdadeiro motivo de sua relutância em voltar a Ul'dah: bandidos Qiqirn roubaram suas mercadorias, e ele terá que suportar toda a fúria da esposa se voltar sem elas. Ele suspeita que os ladrões levaram o saque para o esconderijo ao sul da Balsa de Fallgourd. Recupere tudo para poupar o mercador de um destino terrível." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_02", "hash": "C86D5CA49EBA494A", "target": "Você recuperou as mercadorias roubadas. Devolva-as a Gogolata na Rolha Flutuante." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_SEQ_03", "hash": "DCDB23B46D4A3565", "target": "Embora aliviado por recuperar seus bens, Gogolata continua sem muito entusiasmo pela ideia de voltar a Ul'dah. Com os rumores ruins que circulam, decide estender a estadia por mais um tempo." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_00", "hash": "E0706D681F5F12CA", "target": "Recuperar as mercadorias de Gogolata" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_TODO_01", "hash": "EECA8C5530E4D1A5", "target": "Devolver as mercadorias a Gogolata" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_000", "hash": "8EE6747DE079C2A2", "target": "Na verdade, nada me agradaria mais que voltar para casa em Ul'dah, onde minha amorosa esposa me espera. Isto é, se não fosse um pequeno contratempo..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_001", "hash": "874D8FEC5314830F", "target": "Minhas mercadorias, veja bem, foram roubadas por um bando realmente assustador de ladrões Qiqirn acampados ao sul. Se eu voltasse para casa de mãos vazias, a fúria da minha esposa faria a Calamidade parecer um pequeno incêndio no mato. Não, receio não ter escolha além de prolongar minha estadia..." },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_020", "hash": "6623AA586738F950", "target": "Ai de mim, pobre de mim! Um mercador sem mercadorias não vale um torrão de esterco de opo<-->opo! Como vou mostrar a cara para minha querida esposa outra vez?" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_025", "hash": "3CAE73CEC6EC5207", "target": "M-Minhas mercadorias! Mas onde foi que encontrou? No acampamento Qiqirn... exatamente como eu disse? Absurdo! Não pensei que você fosse <italic(1)>mesmo<italic(0)>─ ah, hum!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_026", "hash": "182F3931CA45D907", "target": "Aham! Quero dizer, mais uma vez estou em dívida com você! Graças à sua ajuda, finalmente posso voltar a Ul'dah, onde minha amorosa esposa me espera!" },
+    { "gameKey": "quest/007/GaiUsa811_00795#TEXT_GAIUSA811_00795_GOGOLATA_000_027", "hash": "526F4DAC57CC677B", "target": "...Por outro lado, têm corrido aqueles rumores desagradáveis ultimamente. Um homem mascarado, era isso? De fato, talvez as estradas ainda não sejam seguras. Por mais que me doa, receio que não tenha alternativa além de ficar aqui mais um pouco..." }
   ]
 }

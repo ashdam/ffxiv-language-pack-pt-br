@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz927_02883",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "" },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "" }
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "J'zula Tia tem uma tarefa complicada para alguém que se aventure." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usar sacos resistentes de cânhamo para capturar yabbies enfraquecidos" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Entregar os sacos de cânhamo que se remexem a J'zula Tia" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "Você é <split(<string(gstr1)>, ,1)>, não é? <if(gnum4,A famosa soldada e aventureira,O famoso soldado e aventureiro)>? Talvez eu esteja pedindo demais para alguém na minha posição, mas preciso de ajuda com um problema." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "Me encarregaram de capturar uns aquáticos bem ferozes, e tenho que admitir que não dou conta deles. Mas, para <if(gnum4,uma heroína como você,um herói como você)>, imagino que não passem de um exercício leve antes do <if([gnum11<12],<if([gnum11<4],jantar,café da manhã)>,<if([gnum11<17],almoço,jantar)>)>." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_002", "hash": "4CB250F383112953", "target": "Viu aqueles yabbies monstruosos rastejando ao sul da Passagem Branca? Tenho uns sacos grandes de cânhamo que você pode usar para arrastá-los até aqui. Só se lembre de cansar bem os bichos antes. Se ainda tiverem força para lutar, vão rasgar os sacos com aquelas caudas pontudas." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_003", "hash": "32540C07BEA85EB0", "target": "Como eu disse, não deixe nenhum ânimo pra briga nesses yabbies antes de enfiar eles nos sacos. E cuidado com as caudas!" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_010", "hash": "E54EBEA0E4DFF6D2", "target": "Conseguiu capturar aqueles yabbies para mim?" },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_011", "hash": "E0FB2B7219855D80", "target": "Oho, estes pinçudos estão bem animados! Melhor colocar eles num cercado antes que rasguem os sacos e fujam. Mas é bom que sejam mal-humorados." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_012", "hash": "F7934DBB0EADF1C5", "target": "Por quê? Bem, só entre nós, planejamos usar os yabbies como arma secreta para causar confusão nos acampamentos imperiais. Adoraria ver a cara de um oficial garleano ao encontrar uma dessas belezinhas correndo solta na sua tenda de comando." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_013", "hash": "4B10DCFFCE3CE749", "target": "Por quê? Bem, planejamos usar os yabbies para ajudar a treinar novos recrutas. Nunca se sabe quando o Império tentará recuperar o território perdido, e um pouco de experiência de combate é melhor do que nada." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_014", "hash": "23C8517013B49215", "target": "Obrigado, <split(<string(gstr1)>, ,1)>. Eu já estava cansado de costurar os buracos daqueles sacos gigantes..." }
   ]
 }

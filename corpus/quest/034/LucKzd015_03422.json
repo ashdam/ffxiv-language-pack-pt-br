@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzd015_03422",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_SEQ_00", "hash": "3FE4B57671432BB1", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_TODO_00", "hash": "B3C60CA28064E60B", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_TODO_01", "hash": "D727FAA760D59834", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_000", "hash": "BC923E3740E847DD", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_001", "hash": "9D8E61FDACF6FBFD", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_002", "hash": "E7932384768B807B", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_003", "hash": "A3E25ED1995B99EF", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_010", "hash": "EB3F7FB6C1A1B19A", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_011", "hash": "D09251FFA9509A5E", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_012", "hash": "0A459FBDDE2DDFE0", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_013", "hash": "6D5C1F246F16492C", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_014", "hash": "E1FE6FDEB180BEFE", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_015", "hash": "BA87F1788505B5DB", "target": "" },
-    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_016", "hash": "6CC1919655CA9163", "target": "" }
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_SEQ_00", "hash": "3FE4B57671432BB1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kenn Beq sente o peso de cada ano vivido." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_TODO_00", "hash": "B3C60CA28064E60B", "target": "Abater um green glider para obter sua cauda" },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_TODO_01", "hash": "D727FAA760D59834", "target": "Entregar a cauda de planador-verde a Kenn Beq" },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_000", "hash": "BC923E3740E847DD", "target": "Ah, vejam só, <if(gnum4,uma jovem,um jovem)> transbordando vigor. Não ouviria o apelo deste velho amaro cansado?" },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_001", "hash": "9D8E61FDACF6FBFD", "target": "Ao sul de Wolekdorf vivem lagartos alados conhecidos como green gliders. Ficaria grato se você caçasse um e trouxesse sua cauda." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_002", "hash": "E7932384768B807B", "target": "Depois de tantos invernos, já não tenho agilidade para persegui-los. Pode ter certeza de que seu trabalho será recompensado." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_003", "hash": "A3E25ED1995B99EF", "target": "Os green gliders vivem na região ao sul daqui. Ficaria grato se você me trouxesse uma cauda." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_010", "hash": "EB3F7FB6C1A1B19A", "target": "Ah, <if(gnum4,a jovem retorna,o jovem retorna)> da caçada." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_011", "hash": "D09251FFA9509A5E", "target": "Oho, que cauda carnuda e suculenta! Obrigado, obrigado. É uma das minhas comidas favoritas." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_012", "hash": "0A459FBDDE2DDFE0", "target": "Antes de vir para cá, eu vivia em Lakeland. Passei muitos anos entre os humanos." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_013", "hash": "6D5C1F246F16492C", "target": "Antes do Dilúvio de Luz, houve uma grande batalha em Source. Com meu dono nas costas, avancei para o combate contra as forças do Guardião das Sombras." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_014", "hash": "E1FE6FDEB180BEFE", "target": "Incontáveis vidas se perderam naquele dia. Embora eu tenha tido a sorte de escapar com vida, não saí ileso: sofri ferimentos graves nas mãos de soldados inimigos que tinham assumido formas de lobo." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_015", "hash": "BA87F1788505B5DB", "target": "Meus ferimentos eram tão graves que acreditavam que eu nunca mais voltaria a andar, muito menos a voar. Mesmo assim, meu dono nunca me abandonou. Cuidou de mim, me alimentou com nutritivas caudas de planador-verde e, com o tempo, me recuperei por completo." },
+    { "gameKey": "quest/034/LucKzd015_03422#TEXT_LUCKZD015_03422_KENNBEQ_000_016", "hash": "6CC1919655CA9163", "target": "Ao ver essa cauda, não consigo deixar de recordar aqueles dias dourados. Os dias que passei com os elfos. Agradeço por me dar a chance de revivê-los, <if(gnum4,jovem amiga,jovem amigo)>." }
   ]
 }

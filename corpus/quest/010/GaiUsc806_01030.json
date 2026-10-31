@@ -2,15 +2,15 @@
   "conversation": "quest/010/GaiUsc806_01030",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_00", "hash": "0400F7C11FDA1A75", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_01", "hash": "F8A92CA9F9954ADF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_02", "hash": "A3896E28E0A3050D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_03", "hash": "C3D4F2B24401B7B2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_00", "hash": "A8A8EF2A75305538", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_01", "hash": "B298C8BC084654FF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_000", "hash": "7481E8660F3E118A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_001", "hash": "D7F781D1BCCD73D2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_020", "hash": "9DEAF0BFA70B9F80", "target": "" },
-    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_021", "hash": "D9C5C405B2141D8A", "target": "" }
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_00", "hash": "0400F7C11FDA1A75", "target": "Eilis tem um trabalho sombrio para <if(gnum4,uma aventureira experiente,um aventureiro experiente)>." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_01", "hash": "F8A92CA9F9954ADF", "target": "Eilis informa que os Sahagin pretendem lançar um ataque ao Tidegate. Mate quatro das criaturas que rondam as proximidades para desestimulá-los." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_02", "hash": "A3896E28E0A3050D", "target": "Informe Eilis de que você atrasou o avanço da linha de frente dos Sahagin." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_03", "hash": "C3D4F2B24401B7B2", "target": "Eilis descansará mais tranquila sabendo que você manteve seu pesadelo à distância." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_00", "hash": "A8A8EF2A75305538", "target": "Matar invasores Sahagin" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_TODO_01", "hash": "B298C8BC084654FF", "target": "Informar Eilis" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_000", "hash": "7481E8660F3E118A", "target": "Além do Tidegate fica a Sahagin Landbase, de onde os peixudos pretendem lançar um ataque." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_001", "hash": "D7F781D1BCCD73D2", "target": "Embora não possamos impedir o avanço deles, talvez consigamos fazê-los hesitar com um ataque repentino. Preciso que faça quatro Sahagin servirem de exemplo para os demais." },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_020", "hash": "9DEAF0BFA70B9F80", "target": "Muito bem! Vamos ver o que os peixudos acham disso!" },
+    { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_EILIS_000_021", "hash": "D9C5C405B2141D8A", "target": "A cada dia, as hordas de soldados Sahagin viscosos ameaçam tomar nossos queridos portões. Rezo para que esse dia nunca chegue, mas só rezar não basta. Graças a você, esse dia não será hoje." }
   ]
 }

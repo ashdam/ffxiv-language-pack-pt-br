@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma203_01234",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_00", "hash": "59159A2A612BA877", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_01", "hash": "4DF90C97463A85A1", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_02", "hash": "9310A44FCAA042CB", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_03", "hash": "E9047AD236BF44FF", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_00", "hash": "87EB4349977F8626", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_01", "hash": "276527DA8CB83994", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_000", "hash": "6D74D0870144FDBF", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_002", "hash": "041BCB69E9E0DB7A", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_003", "hash": "4322EB872B7B2953", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "" },
-    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "" }
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_00", "hash": "59159A2A612BA877", "target": "Narujj Boh está preocupado com relatos de rituais noturnos frenéticos." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_01", "hash": "4DF90C97463A85A1", "target": "Narujj Boh conta a você sobre um novo tipo de ritual realizado no altar de Zanr'ak. Ele pede que vasculhe os arredores do acampamento e do altar de Zanr'ak em busca de depósitos de armas e tome os armamentos que, segundo os batedores, foram encantados com chamas profanas." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_02", "hash": "9310A44FCAA042CB", "target": "Você obteve as armas consagradas pelo fogo. Volte ao Círculo das Cinzas e entregue os armamentos a Narujj Boh." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_SEQ_03", "hash": "E9047AD236BF44FF", "target": "Você levou as armas encantadas ao Círculo das Cinzas. Narujj Boh parece se divertir com o tempo e o esforço que os inimigos investiram, só para perderem seus novos brinquedos. Satisfeito com seus feitos, o orgulhoso guerreiro sugere que descanse até que sua próxima tarefa seja decidida." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_00", "hash": "87EB4349977F8626", "target": "Obter armas consagradas pelo fogo nas caixas de armamento pesado nos arredores do acampamento e do altar de Zanr'ak" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_TODO_01", "hash": "276527DA8CB83994", "target": "Entregar as armas consagradas pelo fogo a Narujj Boh" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_000", "hash": "6D74D0870144FDBF", "target": "Todas as noites, após o sol se pôr no horizonte, há uma atividade frenética no altar principal de Zanr'ak. Nossos batedores relatam algum tipo de ritual envolvendo um número crescente de armas bem forjadas." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_002", "hash": "041BCB69E9E0DB7A", "target": "Considerando a obstinação de nossos inimigos, suponho que tentem imbuir esses armamentos com as bênçãos de seu deus. Não podemos permitir que tais armas sejam usadas contra nós." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_003", "hash": "4322EB872B7B2953", "target": "Embora eu preferisse despedaçar seu altar profano, me contentarei em tomar os frutos de suas preces insensatas. Nobre companheir<if(gnum4,a,o)>, você aceitaria essa tarefa e tomaria as armas consagradas pelo fogo dos depósitos de nossos irmãos corrompidos?" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_004", "hash": "73C8B78B38EED027", "target": "Quando os armamentos abençoados estiverem em nossas mãos, nossos místicos desvendarão os segredos de seu poder e aprenderão a desfazer os encantamentos. Essa nova ameaça não nos afligirá por muito tempo." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_010", "hash": "7650F30E46B9F086", "target": "Vasculhe os terrenos do acampamento e do altar de Zanr'ak e retire as armas consagradas pelo fogo dos depósitos de nossos irmãos perversos." },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_020", "hash": "86B7FB69D93D229F", "target": "Nobre companheir<if(gnum4,a,o)>. Presumo que tenha voltado com os armamentos de nossos inimigos?" },
+    { "gameKey": "quest/012/BanAma203_01234#TEXT_BANAMA203_01234_NARUJIBOH_000_021", "hash": "9A36741C66699986", "target": "Sim, o calor de seus encantamentos ardentes é palpável até para um simples guerreiro como eu. Hah! Os longos rituais noturnos dos Amalj'aa de Zahar'ak foram em vão! Agora descanse, <if(gnum4,guerreira,guerreiro)>. Você se saiu bem." }
   ]
 }

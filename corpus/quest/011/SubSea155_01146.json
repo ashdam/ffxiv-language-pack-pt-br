@@ -2,16 +2,16 @@
   "conversation": "quest/011/SubSea155_01146",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_00", "hash": "1EBBAA97ACAAB4C2", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_01", "hash": "9A38AB52E4E427A7", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_02", "hash": "955F3546E011D8E7", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_TODO_00", "hash": "0E7AE6E5FCA83B80", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_000", "hash": "30A3572BDA2EFA54", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_001", "hash": "3927BBDDE1193D23", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_002", "hash": "F2542874EC356D69", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_010", "hash": "779334D3A11CEDD9", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_011", "hash": "8929DDC5BC6E5359", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_012", "hash": "735219D3ABC5B973", "target": "" },
-    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_013", "hash": "DD9A5719B01A3C78", "target": "" }
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_00", "hash": "1EBBAA97ACAAB4C2", "target": "O ar acanhado não combina com um Roegadyn, mas Ahldfoet o exibe assim mesmo, vestindo o constrangimento como uma camiseta desconfortável." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_01", "hash": "9A38AB52E4E427A7", "target": "Ahldfoet prometeu um favor a uma mãe que conheceu num porto de escala, cujas súplicas parecem despertar o poeta dentro dele. Leve a carta dela a Wiltswys no Acampamento de Skull Valley." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_SEQ_02", "hash": "955F3546E011D8E7", "target": "Esperando uma cena comovente, você entrega a Wiltswys a carta da mãe dela. Infelizmente, em vez disso, recebe uma boa bronca e vai embora. Ah, questões de família." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_TODO_00", "hash": "0E7AE6E5FCA83B80", "target": "Entregar a carta a Wiltswys" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_000", "hash": "30A3572BDA2EFA54", "target": "Olá, <split(<string(gstr1)>, ,1)>. Esqueci completamente da última vez, mas tenho outro pedido. Sei me orientar nas águas, mas em terra... bem, sou o que vocês, ratos de terra, chamam de <italic(1)>à deriva<italic(0)>. Tenho uma carta pra entregar, e você é a pessoa certa." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_001", "hash": "3927BBDDE1193D23", "target": "Desembarquei num rochedo qualquer na viagem de volta, e veio falar comigo uma mulher já sem o viço de antes, dizendo que tinha uma filha no Acampamento de Skull Valley que não via havia anos. Estava com lágrimas nos olhos, olhos bonitos até, pra uma mulher que já passou da idade de ter filhos. Deve ter sido uma bela mulher no seu tempo." },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_AHLDFOET_000_002", "hash": "F2542874EC356D69", "target": "Sempre tive uma queda por olhos castanho-dourados... talvez porque o mar seja uma megera de olhos verdes, e os céus, suas irmãs, tenham olhos azuis e vermelhos, cinzentos e negros... Bem, a filha dela se chama Wiltswys. Vai levar a carta pra ela?" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_010", "hash": "779334D3A11CEDD9", "target": "Olá, <if(gnum4,aventureira,aventureiro)>. Disseram que você estava me procurando?" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_011", "hash": "8929DDC5BC6E5359", "target": "Uma carta da mamãe! Faz tanto tempo que não tenho notícias dela... Nunca respondeu às minhas cartas. Não, espere, vou mandar uma resposta!" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_012", "hash": "735219D3ABC5B973", "target": "Mas que...! Ah, a velha gananciosa de coração de pedra! Não me deixou levar nem um pedaço de peixe seco quando saí da ilha, e agora quer Gil? Aquele... aquele <italic(1)>súcubo<italic(0)>!" },
+    { "gameKey": "quest/011/SubSea155_01146#TEXT_SUBSEA155_01146_WILTSWYS_000_013", "hash": "DD9A5719B01A3C78", "target": "Me acha fria? Pois que se dane o que você acha! Eu queria algo melhor que cultivar campos salgados e tirar peixinhos das redes e, de vez em quando, levar um marinheiro de passagem pra minha cama pra ter mais do mesmo! Ela não vai receber resposta nenhuma. Obrigada pelos seus serviços, e <if([gnum11<12],<if([gnum11<4],boa noite,bom dia)>,<if([gnum11<17],bom dia,boa noite)>)> pra você!" }
   ]
 }

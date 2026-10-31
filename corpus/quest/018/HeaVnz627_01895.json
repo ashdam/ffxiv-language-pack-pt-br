@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz627_01895",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_00", "hash": "F0959DC81993DAD0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_01", "hash": "B2918F0FB58C3160", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_02", "hash": "33E3312DCB7A6D1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_03", "hash": "A482B821378E6E8B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_00", "hash": "6DBF6705352388EF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_01", "hash": "2302BECAC90FD206", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_000", "hash": "6D9A16EBEF6F35DA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_001", "hash": "6984C8DE6A0AC538", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_010", "hash": "611071482F7E1B11", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_020", "hash": "B2475F7A4D1060FF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_021", "hash": "5427C148CE148C44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_022", "hash": "025F11E12BDEAB05", "target": "" }
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_00", "hash": "F0959DC81993DAD0", "target": "Jantellot parece estar tramando alguma coisa." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_01", "hash": "B2918F0FB58C3160", "target": "Jantellot teve uma ideia incrível, mas precisa da sua ajuda para executá-la. Quer que você vá a Slate Mountains e mate quatro vindthurs, mas ainda não explicou por quê." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_02", "hash": "33E3312DCB7A6D1B", "target": "Você mata os vindthurs sem fazer perguntas. Jantellot ficará feliz em saber disso..." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_SEQ_03", "hash": "A482B821378E6E8B", "target": "Você volta a Jantellot e informa sua vitória sobre os vindthurs. Ele revela que pretende recuperar os corpos congelados de dragões da montanha e alegar que foram suas próprias conquistas. Você começa a questionar a sensatez do plano... e dele." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_00", "hash": "6DBF6705352388EF", "target": "Matar vindthurs" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_TODO_01", "hash": "2302BECAC90FD206", "target": "Apresentar um relatório a Jantellot" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_000", "hash": "6D9A16EBEF6F35DA", "target": "Ah, que bom ver você! Sabe, <if([gnum11<12],<if([gnum11<4],hoje de manhã,ontem à noite)>,<if([gnum11<17],hoje de manhã,hoje de manhã)>)>, tive uma ideia maravilhosa... e você é <italic(1)>exatamente<italic(0)> <if(gnum4,a mulher,o homem)> para me ajudar a realizá-la." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_001", "hash": "6984C8DE6A0AC538", "target": "Vá a Slate Mountains e mate alguns vindthurs para mim. Quatro devem bastar." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_010", "hash": "611071482F7E1B11", "target": "Lembre-se: Slate Mountains, quatro vindthurs. Tudo será revelado na hora certa." },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_020", "hash": "B2475F7A4D1060FF", "target": "Já matou todos? Eu sabia que podia contar com você! Com aquelas criaturas fora do caminho, posso passar à próxima etapa do plano!" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_021", "hash": "5427C148CE148C44", "target": "As montanhas estão cheias de cadáveres congelados de dragões, perfeitamente preservados! Quando eu descongelá-los, será fácil convencer todos de que eu mesmo os matei. Serei celebrado como o maior matador de dragões da região!" },
+    { "gameKey": "quest/018/HeaVnz627_01895#TEXT_HEAVNZ627_01895_JANTELLOT_000_022", "hash": "025F11E12BDEAB05", "target": "Esperem só, seus nobres pomposos! Vou mostrar a vocês! A todos vocês! Muahahahaha!" }
   ]
 }

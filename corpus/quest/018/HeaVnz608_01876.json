@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz608_01876",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_00", "hash": "0A4EC678E1D0BCE6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_01", "hash": "60505BEBDDA4356F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_02", "hash": "902F0C3D547F7B2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_03", "hash": "5A1493D6566AD014", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_00", "hash": "12A43D9B0E4BAAC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_01", "hash": "3EA5730453507485", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_000", "hash": "D465375B28BC4E1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_001", "hash": "D7596312742F69F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_010", "hash": "5B27CA2D44063E2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_020", "hash": "5BEF00A80FDFF916", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_021", "hash": "CBF84EB088530451", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_030", "hash": "BA78F029DD996CFA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_031", "hash": "3A12B217762ABD29", "target": "" }
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_00", "hash": "0A4EC678E1D0BCE6", "target": "Mogoon está preocupado com as águas a leste." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_01", "hash": "60505BEBDDA4356F", "target": "Mogoon conta sobre um bando de anzu migratórios que se instalou nas águas sagradas perto da estátua de Mother of the Sheave. Não se pode tolerar sua agressividade. Espante-os ou abata-os, se for preciso." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_02", "hash": "902F0C3D547F7B2C", "target": "Você expulsa ou abate todos os anzu invasores. Volte a Mogoon com a notícia do seu sucesso." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SEQ_03", "hash": "5A1493D6566AD014", "target": "Embora Mogoon reconheça a importância da água para as aves migratórias, ele insiste que não se pode deixar criaturas selvagens profanarem águas sagradas." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_00", "hash": "12A43D9B0E4BAAC2", "target": "Espantar os anzu ou abatê-los se atacarem" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_TODO_01", "hash": "3EA5730453507485", "target": "Apresentar-se a Mogoon" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_000", "hash": "D465375B28BC4E1B", "target": "Um bando de anzu migratórios está profanando as águas sagradas perto da estátua, kupo! Por favor, <if(gnum4,aventureira,aventureiro)>, livre-se deles!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_001", "hash": "D7596312742F69F4", "target": "Mas não profane o lugar sagrado matando perto da estátua. Faça o possível para apenas espantá-los. Porém, se os anzu quiserem briga, bem... acho que não há escolha a não ser mostrar sua fúria, kupo!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_010", "hash": "5B27CA2D44063E2C", "target": "Os anzu apareceram uma manhã sem aviso e estão profanando as águas sagradas perto da estátua de Mother of the Sheave. Por favor, faça com que vão embora, kupo!" },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_020", "hash": "5BEF00A80FDFF916", "target": "Você espantou o anzu." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_SYSTEM_000_021", "hash": "CBF84EB088530451", "target": "Você espantou o anzu." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_030", "hash": "BA78F029DD996CFA", "target": "Não ouço mais os guinchos dos anzu! Obrigado, <if(gnum4,aventureira,aventureiro)>, a tranquilidade voltou à área." },
+    { "gameKey": "quest/018/HeaVnz608_01876#TEXT_HEAVNZ608_01876_MOGOON_000_031", "hash": "3A12B217762ABD29", "target": "As águas perto da estátua são sagradas, e, se as feras selvagens se instalarem ali, só vão profaná-las. Por isso precisamos nos livrar delas, de um jeito ou de outro, kupo!" }
   ]
 }

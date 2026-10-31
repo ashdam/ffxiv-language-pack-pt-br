@@ -2,14 +2,14 @@
   "conversation": "quest/007/GaiUsa303_00735",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "" },
-    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "" }
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_00", "hash": "2C1E51B8B9874EBA", "target": "Gegeroon, do Memeroon's Trading Post, tem entregas a fazer." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_01", "hash": "0B3F1C4BD9506455", "target": "Gegeroon, do Memeroon's Trading Post, tem uma entrega a fazer, mas não dispõe de tempo para fazê-la pessoalmente. Ajude-o levando uma marmita quente a Tanga Tonga em sua cabana em Thalaos." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_SEQ_02", "hash": "B008DF09F90AA434", "target": "Tanga Tonga fica imensamente satisfeito ao receber seu saquinho cheio de torradas e derivados de ovos. Bem alimentado, agora pode se concentrar na pesquisa." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TODO_00", "hash": "C9FCC4DA1E6D83FF", "target": "Entregar a marmita quente a Tanga Tonga" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_000", "hash": "C5142ECC7E1F5346", "target": "Gegeroon ter boas mercadorias. Boas mercadorias precisar de entrega. Mas Gegeroon ocupado. Muito, muito ocupado." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_GEGEROON_000_001", "hash": "731FCBBC9A7DA17A", "target": "Ter marmita quente. Marmita quente Qiqirn. Marmita para Tanga Tonga. Tanga Tonga em Thalaos. Você levar para Gegeroon!" },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_010", "hash": "3CA53EDE5855C5EE", "target": "Deixe-me em paz. Estou com fome demais para continuar minha pesquisa, quanto mais receber visitas." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_011", "hash": "BFAA20AFE307E426", "target": "Isto... Isto é uma marmita quente Qiqirn do Memeroon's Trading Post! C-Como conseguiu...? Obrigado, <if(gnum4,amiga,amigo)>! Finalmente vou conseguir ouvir meus pensamentos em vez dos roncos do estômago." },
+    { "gameKey": "quest/007/GaiUsa303_00735#TEXT_GAIUSA303_00735_TANGATOTUNGA_000_012", "hash": "76FCD076016CED70", "target": "Eu estava tão ansioso para vir estudar os fósseis que nem pensei em como faria minhas refeições. Não tenho tempo nem ingredientes para cozinhar sozinho, então o entreposto tem sido uma dádiva dos deuses. Fico sempre feliz de receber uma bela marmita quentinha!" }
   ]
 }

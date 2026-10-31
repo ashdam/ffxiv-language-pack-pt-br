@@ -2,18 +2,18 @@
   "conversation": "quest/036/BanPix104_03692",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "" },
-    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "" }
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SEQ_00", "hash": "D7CC8BF1495D42F0", "target": "Os leafmen favoritos de Uin Nee precisam de uma boa poda.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_00", "hash": "C299944D6D28F292", "target": "Examinar os overgrown leafmen e obter folhas" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_TODO_01", "hash": "B720342B59E620B9", "target": "Entregar as folhas de leafman a Uin Nee" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_001", "hash": "6440027EFD63A108", "target": "Ah, mas qual deles era o meu favorito? Aquele que tentou chegar de fininho e arrancar minhas asas? Ou aquele que ficou <italic(1)>tão<italic(0)> fofo ao confessar seu amor por mim que eu simplesmente <italic(1)>tive<italic(0)> que mantê-lo ao meu lado para todo o sempre!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_002", "hash": "EF827A8B174B9297", "target": "Você já viu minha coleção de adoráveis leafmen, não viu? Sempre tomando sol sem preocupação, brotando folhas aqui, ali e por toda parte!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_003", "hash": "F4C6F79D8C0A3268", "target": "Eu queria aparar os galhos de vez em quando, mas objetos pontudos são afiados e perigosos demais para o meu gosto, sabe? Mas <italic(1)>você<italic(0)>, <if(gnum4,minha mortal favorita,meu mortal favorito)>, não parece se incomodar com lâminas e tesouras, não é?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_004", "hash": "CD70AA4329E63365", "target": "Então, que tal ir dar uma aparadinha nos meus amigos folhudos? E não esqueça de trazer algumas daquelas folhinhas lindas! As crianças do Jardim dos Sonhos adoram fazer montes de folhas e pular dentro!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_010", "hash": "D6BB0DE8999FB7AB", "target": "Uma farta folhagem verde brota de cada canto do corpo do leafman, deixando muitas folhas e galhos emaranhados." },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_SYSTEM_000_011", "hash": "185DDA7859CCED87", "target": "Com alguns cortes, você remove o excesso de folhagem do corpo do leafman, deixando-o tão bem-arrumado quanto no dia em que nasceu!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_020", "hash": "2F9E0F676E64B4CF", "target": "Você precisava de alguma coisa? Ah, claro! Ia podar meus preciosos leafmen. E então, podou?" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_021", "hash": "A5B3E2DBFB5ADF22", "target": "Agradeço muito, muito mesmo! Eu sabia que tinha um motivo para gostar tanto de você. Oooh, e veja que folhas lindas trouxe para mim! Ora, talvez eu teça um leafman pequenino para as crianças!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_022", "hash": "1AEF950A5D1D61E4", "target": "Algumas delas não têm muitos amigos, sabia? É de partir o coração. Então vou fazer um montão de leafmen para brincar com elas! Vão se dar muito bem, afinal, os leafmen também já foram mortais!" },
+    { "gameKey": "quest/036/BanPix104_03692#TEXT_BANPIX104_03692_UINNEE_000_023", "hash": "900681F7CF988B6D", "target": "Às vezes eu imagino como é ser um leafman. Você já imaginou também? Se já, ora, dá para resolver isso! É só dizer─espere, por que está se afastando de mim desse jeito?" }
   ]
 }

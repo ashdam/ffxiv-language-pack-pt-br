@@ -2,19 +2,19 @@
   "conversation": "quest/041/AktKyr104_04173",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SEQ_00", "hash": "FE5DB4F1C6C94A54", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_000", "hash": "084A93000271B9E0", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_001", "hash": "8FA9EA08A7BCDBCB", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_002", "hash": "0FB695E5B5135670", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_010", "hash": "4ECF5959F54E272A", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_020", "hash": "865E19ADCABEA3D5", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_021", "hash": "A69EAB87E651F9C4", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_022", "hash": "D84CDFC35352ADE3", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_023", "hash": "F4401171690C6E9C", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_024", "hash": "71B645776D409690", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_025", "hash": "AA58E65CC061C12B", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_026", "hash": "2082F56F02F6CC51", "target": "" },
-    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "" }
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SEQ_00", "hash": "FE5DB4F1C6C94A54", "target": "Um hardy-looking Radiant espera por você com notícias sobre uma nova instalação." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_TODO_00", "hash": "45C3EB45A346D718", "target": "Falar com o sharp-eyed Radiant no Palaka's Stand" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_000", "hash": "084A93000271B9E0", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>! Eu tinha muita esperança de que um dia você voltasse à nossa bela cidade." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_001", "hash": "8FA9EA08A7BCDBCB", "target": "Afinal, é graças a você e aos Herdeiros que estou aqui agora! E, como sinal de gratidão, quero compartilhar algo útil com você." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_002", "hash": "0FB695E5B5135670", "target": "Embora não seja eu quem vá compartilhar os detalhes: procure meu companheiro de olhar atento no Palaka's Stand para saber mais, <if(gnum4,aventureira,aventureiro)>. Que os deuses acompanhem você!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORA04171_000_010", "hash": "4ECF5959F54E272A", "target": "Não vou estragar a surpresa, mas prometo que valerá a pena!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_020", "hash": "865E19ADCABEA3D5", "target": "Ahá! Você deve ser <if(gnum4,a aventureira,o aventureiro)> de quem tanto ouvi falar. Sim... Esse brilho nos seus olhos indica que talvez você mereça conhecer o Campo Ardente, afinal." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_021", "hash": "A69EAB87E651F9C4", "target": "Ah... Perdoe-me. Acho que devo demonstrar mais respeito <if(gnum4,à heroína,ao herói)> de Radz<-->at<-->Han. Você certamente tem muito a fazer, então não vou tomar seu tempo." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_022", "hash": "D84CDFC35352ADE3", "target": "Permita-me apresentar o Campo Ardente, nossa estimada arena de treinamento, onde nós, Radiantes, aperfeiçoamos nossas habilidades para derrubar nossos inimigos em combate." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_023", "hash": "F4401171690C6E9C", "target": "Lá não há distrações, apenas você e um boneco de madeira. Imagine um inimigo temível à sua frente e ataque com toda a sua força. Tanto o modelo do boneco quanto a prática de golpeá-lo repetidamente para dominar as artes marciais vêm do Extremo Oriente.<br>Como se diz: “<if(gnum4,Aquela,Aquele)> que luta com a força da pedra inabalável, respira a fundo a vastidão do céu e abraça a serenidade do mar ondulante, contra <if(gnum4,ela,ele)> ninguém pode resistir.”" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_024", "hash": "71B645776D409690", "target": "Heh... Vejo que você mal pode esperar para começar a treinar. Sim, não tenho dúvidas de que <if(gnum4,você é digna de um lugar assim,você é digno de um lugar assim)>." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_025", "hash": "AA58E65CC061C12B", "target": "Nesse caso, fique à vontade para treinar lá como achar melhor. Basta falar comigo quando quiser começar, e eu servirei de guia." },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_STARWARRIORB04171_000_026", "hash": "2082F56F02F6CC51", "target": "Creio falar em nome da Hoste Radiante ao dizer que é uma honra ajudar <if(gnum4,uma aventureira,um aventureiro)> como você. E, com isso, que comecem os golpes!" },
+    { "gameKey": "quest/041/AktKyr104_04173#TEXT_AKTKYR104_04173_SYSTEM_000_100", "hash": "312180553BEBE9D8", "target": "Você agora tem acesso ao Campo Ardente, uma expansão de Stone, Sky, Sea. Para acessar essa área de treinamento, fale com o sharp-eyed Radiant no Palaka's Stand." }
   ]
 }

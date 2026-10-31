@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz103_01752",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_00", "hash": "B9DD29BEA8A60527", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_01", "hash": "3FA648A78611715F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_02", "hash": "82E2ABC4088E0363", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_03", "hash": "5A9016F1A0B67B88", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_00", "hash": "64EF91E98103259D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_01", "hash": "B777879E761563F8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_000", "hash": "6089A526CA686461", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_001", "hash": "96C9EE23C2EED081", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_010", "hash": "435F25E74C670839", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_020", "hash": "531A069EC1191835", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_021", "hash": "3ABDFCFC790D0818", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_022", "hash": "87B117522FB48DD7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_033", "hash": "05461DBE37EE73F4", "target": "" }
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_00", "hash": "B9DD29BEA8A60527", "target": "A viúva contempla com tristeza o ramo de flores que carrega." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_01", "hash": "3FA648A78611715F", "target": "Uma viúva de modos refinados deseja prestar homenagem ao marido em seu túmulo, mas não consegue fazer a longa viagem até os Moinhos de Gorgagne. Leve as flores dela à fazenda e coloque-as no túmulo de seu marido em seu lugar." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_02", "hash": "82E2ABC4088E0363", "target": "Você coloca as flores no túmulo. Volte à viúva e diga que a homenagem foi prestada." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_SEQ_03", "hash": "5A9016F1A0B67B88", "target": "A viúva conta que seu marido foi preceptor do herdeiro da Casa Durendaire. O menino brilhante era um verdadeiro prodígio, mas um dia desapareceu durante uma viagem e nunca mais foi visto. O homem nunca se recuperou dessa perda e deixou o serviço da casa para se tornar agricultor, fundando a fazenda dos Moinhos de Gorgagne." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_00", "hash": "64EF91E98103259D", "target": "Colocar as flores no túmulo nos Moinhos de Gorgagne" },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_TODO_01", "hash": "B777879E761563F8", "target": "Apresentar-se à viúva" },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_000", "hash": "6089A526CA686461", "target": "Ah, como vai, meu bem? Poucas pessoas têm tempo para conversar com alguém como eu. Queria visitar o túmulo de meu marido, mas minhas costas estão me incomodando terrivelmente." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_001", "hash": "96C9EE23C2EED081", "target": "Tem tempo para fazer uma gentileza a uma velha cansada? Seria muito importante para mim se pudesse levar estas flores aos Moinhos de Gorgagne e colocá-las no túmulo de meu marido." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_010", "hash": "435F25E74C670839", "target": "Se tiver tempo para fazer uma gentileza a uma velha cansada, coloque aquelas flores no túmulo de meu marido, nos Moinhos de Gorgagne." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_020", "hash": "531A069EC1191835", "target": "Muito obrigada por isso, meu bem. Tenho certeza de que meu marido gostou. ...Ou então está se revirando no túmulo, gritando: “Faça você mesma, sua velha preguiçosa!” He, he..." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_021", "hash": "3ABDFCFC790D0818", "target": "Ele era um grande cavaleiro a serviço da Casa Durendaire, sabe? Era preceptor do herdeiro da casa e o ensinava a lutar. Eu tinha tanto orgulho de ele ocupar um cargo assim." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_022", "hash": "87B117522FB48DD7", "target": "E o próprio herdeiro era um menino tão inteligente. Um verdadeiro gênio... Mas um dia o pobre rapaz saiu para conhecer estas terras... e não voltou. Nunca mais o vimos..." },
+    { "gameKey": "quest/017/HeaVnz103_01752#TEXT_HEAVNZ103_01752_OLDWOMAN01752_000_033", "hash": "05461DBE37EE73F4", "target": "Depois disso, meu marido nunca mais foi o mesmo... Acabou deixando o cargo e rompendo os laços com a nobreza. Tornou-se agricultor e fundou a fazenda dos Moinhos de Gorgagne. Acho que não suportava se lembrar daquele menino todos os dias na Casa Durendaire." }
   ]
 }

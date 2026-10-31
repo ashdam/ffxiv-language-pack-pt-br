@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz502_01837",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_00", "hash": "616D730887C5D131", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_01", "hash": "1EFDB7998681057E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_02", "hash": "40036F4E43F8E52F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_03", "hash": "943C960EB59AEC2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_TODO_00", "hash": "3DC9E4EE48EF6CFE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_TODO_01", "hash": "A55ABCF1017B5CF9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_000", "hash": "D876638ACD1D0CD8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_001", "hash": "C36353B910A9820A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_010", "hash": "E772F7C226B3AFD0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_020", "hash": "E372EDBBA645BBE4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_021", "hash": "E2B08AED6440007E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_031", "hash": "8F3CA5195DDACA4B", "target": "" }
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_00", "hash": "616D730887C5D131", "target": "Mogret olha para as flores murchas com uma expressão preocupada." },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_01", "hash": "1EFDB7998681057E", "target": "Parece que Mogret está aflita com flores que ameaçam murchar diante de seus olhos, mas não pode regá-las por causa do hropken que se instalou em sua nascente favorita. Vá a Eil Tohm e mate o hropken sem consideração. Depois, encha a jarra vazia que Mogret lhe deu com água para as flores." },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_02", "hash": "40036F4E43F8E52F", "target": "O hropken não será mais um problema para os moogles de Moghome, e a jarra antes vazia agora está cheia de água cristalina da nascente. Leve-a a Mogret antes que suas flores murchem por completo." },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_SEQ_03", "hash": "943C960EB59AEC2C", "target": "Mogret fica radiante por suas flores poderem desabrochar ainda mais. Parece que o aumento no número de dragões é um fenômeno recente, e Mogret está convencida de que vieram apenas para atormentar os moogles." },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_TODO_00", "hash": "3DC9E4EE48EF6CFE", "target": "Matar o dragonfoot hropken e pegar água na clear spring" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_TODO_01", "hash": "A55ABCF1017B5CF9", "target": "Entregar a jarra cheia a Mogret" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_000", "hash": "D876638ACD1D0CD8", "target": "Ah, não, assim não dá, não dá de jeito nenhum, kupo! Se não regarmos estas flores logo, só vão sobrar talos secos! Mas, graças a um velho hropken malvado fazendo sabe-se lá o quê na nascente, não conseguimos chegar perto da preciosa água!" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_001", "hash": "C36353B910A9820A", "target": "Diga, você parece já ter matado sua boa cota de dragões. Que tal se livrar daquele enorme hropken para nós e encher esta jarra com água para as flores, kupo? Nosso jardinzinho depende de você!" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_010", "hash": "E772F7C226B3AFD0", "target": "Mostre àquele velho hropken malvado que não pode simplesmente se instalar onde quiser! Ah, e não se esqueça de trazer a água, kupo!" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_020", "hash": "E372EDBBA645BBE4", "target": "Ah... Estou vendo as flores murcharem diante dos meus olhos, kupo! Conseguiu trazer a água?" },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_021", "hash": "E2B08AED6440007E", "target": "Finalmente, as flores estão salvas! Antes não havia tantos dragões pisoteando aquelas nascentes, mas ultimamente temos visto cada vez mais." },
+    { "gameKey": "quest/018/HeaVnz502_01837#TEXT_HEAVNZ502_01837_MOGRET_000_031", "hash": "8F3CA5195DDACA4B", "target": "Não sei de onde vieram, mas tenho certeza de que só estão aqui para tornar nossa vida uma dor no pompom, kupo!" }
   ]
 }

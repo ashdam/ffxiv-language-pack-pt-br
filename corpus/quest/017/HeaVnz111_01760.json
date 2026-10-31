@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz111_01760",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "" }
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_00", "hash": "0B00FCF21B7660AC", "target": "Jantellot quer que você conheça de perto a vida no Convictory." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_01", "hash": "AD48DFE2AC1F8EA8", "target": "Jantellot quer mostrar como é a vida no Convictory e sugere uma pequena caçada como exemplo. Embora os Convictors abatam dragões, Jantellot recomenda um aquecimento antes de enfrentar a própria Horda Dravaniana. Ele sugere caçar rheums. Encontre e abata três deles." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_02", "hash": "7D40C35FA4446999", "target": "Você se aventura pelas terras altas e abate os rheums conforme instruído. Volte a Jantellot no Convictory e diga que pode enfrentar algo um pouco mais dracônico." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_SEQ_03", "hash": "10A9DD0EAD861C2C", "target": "Jantellot parabeniza você pelas presas abatidas. Parece que os rheums não foram páreo para você. Mas dragões são outra história. Ele sugere que volte a falar com ele se quiser tentar uma caçada de verdade." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_00", "hash": "59749B46F99F8CB1", "target": "Abater rheums" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_TODO_01", "hash": "CC616458FFF6E312", "target": "Apresentar-se a Jantellot" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_000", "hash": "18C1FBA2D9BFBE07", "target": "Lembro de você, como poderia esquecer? É <if(gnum4,a moça,o rapaz)> que estava na companhia do Cavaleiro Dragão Azul! Já que está aqui, talvez queira experimentar uma caçada antes de partir. Veja como é a vida de nós, Convictors." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_001", "hash": "C7ACA450DAA614D1", "target": "A Horda Dravaniana é mais forte do que você imagina. A menos que tenha anos de experiência, como eu, acho prudente começar com algo simples e progredir até os dragões. Sugiro rheums. Abata três deles e volte aqui. Considere um aquecimento!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_010", "hash": "2D52E3D414D7E89F", "target": "A Horda já tirou a vida de muitos jovens soldados confiantes demais. Melhor começar com algo um pouco mais seguro: mate três rheums e volte a falar comigo." },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_020", "hash": "5289D64061DB04B6", "target": "Já abateu aqueles rheums? O que achou? Deram muito trabalho?" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_021", "hash": "B02B23B5032A64B9", "target": "Bom trabalho, <if(gnum4,moça,rapaz)>! Está claro que o Cavaleiro Dragão Azul não anda com meros amadores. Pelo jeito, aqueles rheums mal deram luta para servir de aquecimento!" },
+    { "gameKey": "quest/017/HeaVnz111_01760#TEXT_HEAVNZ111_01760_JANTELLOT_000_022", "hash": "DBD2BD04EB099BF0", "target": "Você claramente sabe o que está fazendo. Se quiser tentar caçar uns dragões, volte a falar comigo qualquer hora." }
   ]
 }

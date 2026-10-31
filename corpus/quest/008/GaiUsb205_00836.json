@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb205_00836",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_00", "hash": "2890E94E45194672", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_01", "hash": "73CC26059C3F3296", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_02", "hash": "5414A6A7A04027FF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_03", "hash": "BA24B6CD1DA83135", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_00", "hash": "653B6FDE5FA02952", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_01", "hash": "64A8B36B790200FB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_000", "hash": "CE63712ABDC29DF3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_001", "hash": "D3641314E5D42005", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_002", "hash": "B48E0C258678BAB1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_020", "hash": "5D04DCA8D644F6D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_021", "hash": "560F26BB8DF5DE57", "target": "" },
-    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_022", "hash": "6A88CEAD3F10E2B2", "target": "" }
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_00", "hash": "2890E94E45194672", "target": "P'ebaloh é uma criada digna em uma missão pouco gloriosa." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_01", "hash": "73CC26059C3F3296", "target": "P'ebaloh está contrariada com a crença do Mestre Gegeruju de que os búfalos próximos são culpados pelos recentes terremotos. Embora tenha tentado convencê-lo do contrário, ele está certo de que é preciso dar um jeito nas grandes feras. Para satisfazê-lo, P'ebaloh pede que você elimine seis delas." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_02", "hash": "5414A6A7A04027FF", "target": "Você matou seis large buffaloes sob um pretexto frágil. Relate o massacre a P'ebaloh." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_SEQ_03", "hash": "BA24B6CD1DA83135", "target": "P'ebaloh agradece por satisfazer os caprichos de seu senhor. Porém, acredita que, no fundo, Gegeruju sabe que a verdadeira causa dos tremores é o primordial Titan." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_00", "hash": "653B6FDE5FA02952", "target": "Matar large buffaloes" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_TODO_01", "hash": "64A8B36B790200FB", "target": "Apresentar-se a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_000", "hash": "CE63712ABDC29DF3", "target": "É claro que o Mestre Gegeruju não tem igual em negócios e em apreciar coisas refinadas. Porém, pode ser um tanto ingênuo em outros assuntos." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_001", "hash": "D3641314E5D42005", "target": "Por exemplo, ele se convenceu de que a recente onda de terremotos é culpa dos large buffaloes que vagam por perto. Eu até compreenderia <italic(1)>certa<italic(0)> exasperação por nossas crianças serem atacadas após os tremores, mas, francamente." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_002", "hash": "B48E0C258678BAB1", "target": "Uma coisa é ver os búfalos agitados; outra é pensar que têm qualquer relação com os terremotos. Tentei argumentar com ele, mas foi em vão. Poderia simplesmente satisfazer meu senhor e matar meia dúzia dessas criaturas?" },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_020", "hash": "5D04DCA8D644F6D9", "target": "Estou em dívida com você, <if(gnum4,gentil aventureira,gentil aventureiro)>. Tenho certeza de que aquelas feras eram inocentes de qualquer crime sísmico, mas é bom que tenham sido eliminadas de qualquer forma." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_021", "hash": "560F26BB8DF5DE57", "target": "Na verdade, acredito que o Mestre Gegeruju sabe, no fundo, que a causa não são os búfalos, mas sim o primordial Titan. Porém, ele também percebe que sua riqueza não serviria de nada contra tal ameaça." },
+    { "gameKey": "quest/008/GaiUsb205_00836#TEXT_GAIUSB205_00836_PEBALOH_000_022", "hash": "6A88CEAD3F10E2B2", "target": "Embora seja louvável que se esforce para fazer o bem ao povo de Costa del Sol, ele precisa admitir que certos problemas estão além de seus meios." }
   ]
 }

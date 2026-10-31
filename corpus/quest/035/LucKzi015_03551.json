@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzi015_03551",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_SEQ_00", "hash": "711D840C18712F42", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_01", "hash": "73134F3E5585936E", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_000", "hash": "010C2D41120C94EF", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_001", "hash": "829D54A4B277B60A", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_002", "hash": "A41239F3217D9C03", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_010", "hash": "73DB0B22D9BC983A", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_011", "hash": "D0B3F771A2A7E90B", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_012", "hash": "A130698B1C038A78", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_013", "hash": "BD0EE3EA9EE04AEA", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_014", "hash": "1231070A99479BF7", "target": "" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_015", "hash": "660B5DB49B4DF103", "target": "" }
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_SEQ_00", "hash": "711D840C18712F42", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bomott olha ao redor, acanhado." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "Recolher seixos lisos no curso superior do Rio Watts" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_01", "hash": "73134F3E5585936E", "target": "Entregar os seixos lisos a Bomott" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_000", "hash": "010C2D41120C94EF", "target": "Lali-ho! Eu estava esperando para falar com você! Poderia me ajudar com uma tarefa simples? É algo que eu... Não posso pedir a ninguém de Tomra." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_001", "hash": "829D54A4B277B60A", "target": "Vai ajudar!? Ah, obrigado! Só preciso de três seixinhos do curso superior do Rio Watts. Bem lisinhos. Só isso." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_002", "hash": "A41239F3217D9C03", "target": "Traga três seixinhos do rio e serei eternamente grato! Não tenho a quem mais recorrer..." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_010", "hash": "73DB0B22D9BC983A", "target": "Por favor, diga que trouxe os seixos..." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_011", "hash": "D0B3F771A2A7E90B", "target": "Sim, é exatamente disso que eu precisava! Obrigado!" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_012", "hash": "A130698B1C038A78", "target": "Acho que devo uma explicação, desde que possa guardar segredo. É que vou esmagar estas pedras e misturá-las com óleos vegetais para fazer uma loção calmante. Os minerais ajudam com a coceira..." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_013", "hash": "BD0EE3EA9EE04AEA", "target": "Talvez tenha notado, mas nós, anões, nunca mostramos o rosto descoberto a ninguém que não seja da família. Por isso usamos nossos elmos o dia inteiro, todos os dias." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_014", "hash": "1231070A99479BF7", "target": "Mas, para quem tem a pele sensível como eu, isso significa irritações. Manchas vermelhas que me fariam arrancar o próprio nariz de tanto coçar, se não fosse minha loção. Costumam fazê-la para os barbudinhos que ainda não se acostumaram com seus elmos..." },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_015", "hash": "660B5DB49B4DF103", "target": "Por isso agradeço que nenhum vizinho tenha precisado me ver entrando no rio atrás de ingredientes. Você salvou minha honra e merece toda a gratidão em dinheiro que eu puder oferecer!" }
   ]
 }

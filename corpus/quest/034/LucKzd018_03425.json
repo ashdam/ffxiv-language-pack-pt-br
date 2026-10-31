@@ -2,19 +2,19 @@
   "conversation": "quest/034/LucKzd018_03425",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_SEQ_00", "hash": "BE39685710802F5E", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_TODO_00", "hash": "E5E7A75AA67AE065", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_TODO_01", "hash": "070C3C07CB88BFD6", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_001", "hash": "4BF09CC61D6BA490", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_002", "hash": "09450DB09A9E9FD3", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_003", "hash": "551881FA768FA571", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_004", "hash": "B43386B494B8A783", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_010", "hash": "002D461AF08C955B", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_011", "hash": "21DDE57D18038B37", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_012", "hash": "39AC94BC77526501", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_013", "hash": "4CCD44B7D5A1E74A", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_014", "hash": "3DDBF77AA7583C44", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_020", "hash": "FCE50C42E718A160", "target": "" },
-    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_021", "hash": "249F98D9589649D3", "target": "" }
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_SEQ_00", "hash": "BE39685710802F5E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Oul Sigun mal pode esperar para mostrar algo a você." },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_TODO_00", "hash": "E5E7A75AA67AE065", "target": "Entregar o medalhão de prata a Nimbus" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_TODO_01", "hash": "070C3C07CB88BFD6", "target": "Falar com Oul Sigun" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_001", "hash": "4BF09CC61D6BA490", "target": "Olha o que encontrei! Um medalhão de prata! Estava perto de um leafman, do outro lado de Il Mheg." },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_002", "hash": "09450DB09A9E9FD3", "target": "Tem um nome gravado nele: Nimbus. Não parece nome de mortal. Um amaro, talvez? Você conhece alguma criatura com esse nome?" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_003", "hash": "551881FA768FA571", "target": "Conhece!? Então precisa entregar isto a ele em Wolekdorf. Tome!" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_004", "hash": "B43386B494B8A783", "target": "Que coincidência você conhecer esse Nimbus. Não deixe de entregar o medalhão a ele!" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_010", "hash": "002D461AF08C955B", "target": "Hm? Você diz que tem algo para mim?" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_011", "hash": "21DDE57D18038B37", "target": "\\<arquejo> E-Este medalhão pertencia à minha dona! Embora esteja apagado, o nome dela também está gravado aqui, ao lado do meu. Onde você encontrou isto!? Será que... será que você encontrou ela!?" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_012", "hash": "39AC94BC77526501", "target": "...Entendo. No fundo, eu sabia que era bobagem, mas por um momento não consegui deixar de ter esperança." },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_013", "hash": "4CCD44B7D5A1E74A", "target": "Mesmo assim, ter este medalhão me conforta muito. É como se meus sentimentos tivessem chegado até minha dona, e ela me desse isto de presente." },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_NIMBUS_000_014", "hash": "3DDBF77AA7583C44", "target": "Juro que vou guardar em segurança. Por favor, transmita meus sinceros agradecimentos à pixie que encontrou ele." },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_020", "hash": "FCE50C42E718A160", "target": "Nimbus recebeu o medalhão? Maravilha! Minha amiga vai ficar tão feliz de saber!" },
+    { "gameKey": "quest/034/LucKzd018_03425#TEXT_LUCKZD018_03425_OULSIGUN_000_021", "hash": "249F98D9589649D3", "target": "Quem é minha amiga? Ora, o leafman perto de quem encontrei o medalhão. Se ela era mesmo a dona de Nimbus, ia querer que ele ficasse com o medalhão. Aqui está uma coisinha por ajudar a reunir os dois!" }
   ]
 }

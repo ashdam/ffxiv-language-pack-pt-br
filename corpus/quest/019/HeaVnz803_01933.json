@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz803_01933",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_00", "hash": "DC52C97B906DF44D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_01", "hash": "75C3C2888B18CFDC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_02", "hash": "615971078D8D70A8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_03", "hash": "5934C0443C30147E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_00", "hash": "386C95937CD5C946", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_01", "hash": "5CAC119C58235CC8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_000", "hash": "3DEDC58D0FF5FF97", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_001", "hash": "58641F58A43DFE29", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_002", "hash": "85A8E73868EC5E47", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_010", "hash": "FB09A607762EDC39", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_020", "hash": "C204CE89869B88CF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_100_020", "hash": "B136B6ED2E3D82FE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_021", "hash": "038923C7BA9AB0D3", "target": "" }
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_00", "hash": "DC52C97B906DF44D", "target": "Feltsmox parece profundamente insatisfeita." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_01", "hash": "75C3C2888B18CFDC", "target": "Feltsmox não tem conseguido pescar nada ultimamente. Ela acha que os olhos dos wildebeests das redondezas podem resolver o problema. Ajude essa goblin desanimada e abatida a conseguir três olhos dos wildebeests." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_02", "hash": "615971078D8D70A8", "target": "Você recolheu as misteriosas esferas vermelhas dos wildebeests que matou. Entregue-as a Feltsmox e descubra o que ela pretende fazer com elas." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_SEQ_03", "hash": "5934C0443C30147E", "target": "Pelas lentes escuras da máscara de Feltsmox, você vê os olhos dela brilharem quando apresenta os olhos de gnu. Ela explica que são uma isca excepcional para pesca e sai correndo, ansiosa para usá-los." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_00", "hash": "386C95937CD5C946", "target": "Matar wildebeests e obter seus olhos" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_TODO_01", "hash": "5CAC119C58235CC8", "target": "Entregar os olhos de gnu a Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_000", "hash": "3DEDC58D0FF5FF97", "target": "Pshhh... Shkohhh...<br>Nada dar certo para Feltsmox, então sair para passear, mas Feltsmox continuar triste." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_001", "hash": "58641F58A43DFE29", "target": "Feltsmox amar pescar, mas ter sorte <italic(1)>terrível<italic(0)> na pesca nos últimos dias. Feltsmox não conseguir pescar <italic(1)>nada<italic(0)>!" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_002", "hash": "85A8E73868EC5E47", "target": "Feltsmox ter ideia. Altogente, por favor, ajudar! Matar wildebeests e juntar três olhos deles." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_010", "hash": "FB09A607762EDC39", "target": "Por favor, ajudar, altogente. Por favor, juntar três olhos de gnu dos wildebeests por perto." },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_020", "hash": "C204CE89869B88CF", "target": "Altogente ter olhos de gnu?" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_100_020", "hash": "B136B6ED2E3D82FE", "target": "Pshhh... Shkohhh...<br>Excelente! Talvez desta vez Feltsmox finalmente pescar alguma coisa!" },
+    { "gameKey": "quest/019/HeaVnz803_01933#TEXT_HEAVNZ803_01933_FELTSMOX_000_021", "hash": "038923C7BA9AB0D3", "target": "Estas esferas brilhantes, reluzentes ser melhor iscapeixe. Feltsmox pegar peixes grandes e deliciosos com isto... Feltsmox experimentar agora mesmo!" }
   ]
 }

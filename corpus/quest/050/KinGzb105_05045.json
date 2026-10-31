@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzb105_05045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_SEQ_00", "hash": "E9304CE038F050E2", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_00", "hash": "4D287304CA4F7E84", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_01", "hash": "CE3E23142D161692", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_02", "hash": "D354BD51567701D2", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_03", "hash": "0119F33730D1CFDE", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_000", "hash": "DA15B5E42E1F7240", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_002", "hash": "F42D985EA59B523E", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_004", "hash": "83915C88498902C8", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_005", "hash": "13985495BDC9A456", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_010", "hash": "0CAF4C3E8840A974", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_011", "hash": "5A8E397B0EDBEFA4", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_012", "hash": "15A275DBBE1881EC", "target": "" },
-    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_013", "hash": "18D38AD631CBF13D", "target": "" }
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_SEQ_00", "hash": "E9304CE038F050E2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bhurborlor está ficando perigosamente sem remédios para os feridos." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_00", "hash": "4D287304CA4F7E84", "target": "Recolher um monte de sementes alpinas" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_01", "hash": "CE3E23142D161692", "target": "Recolher uma larva de urqobombyx" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_02", "hash": "D354BD51567701D2", "target": "Recolher um tufo de musgo medicinal da montanha" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_TODO_03", "hash": "0119F33730D1CFDE", "target": "Entregar as sementes alpinas, a larva de urqobombyx e o musgo medicinal da montanha a Bhurborlor" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_000", "hash": "DA15B5E42E1F7240", "target": "Você aí, <if(gnum4,forasteira,forasteiro)>! Meu estoque de ingredientes para preparar remédios essenciais está perigosamente baixo. Posso pedir que vá buscar mais?" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_002", "hash": "F42D985EA59B523E", "target": "Embora nosso tamanho e nossa força sejam muito maiores que os de qualquer visitante, não são poucos os que ainda temem ferimentos e doenças." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_004", "hash": "83915C88498902C8", "target": "Gostaria que buscasse três coisas: sementes alpinas, uma larva de urqobombyx e um bom punhado de musgo medicinal da montanha. Felizmente, acredito que tudo isso possa ser encontrado no alto da colina ao norte daqui." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_005", "hash": "13985495BDC9A456", "target": "Suba a colina ao norte e deve encontrar sementes alpinas, musgo medicinal da montanha e pelo menos uma larva de urqobombyx sem muita dificuldade." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_010", "hash": "0CAF4C3E8840A974", "target": "Teve alguma dificuldade para encontrar tudo?" },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_011", "hash": "5A8E397B0EDBEFA4", "target": "Estou mesmo em dívida com você, <if(gnum4,forasteira,forasteiro)>. Meus conterrâneos certamente também ficarão mais tranquilos sabendo que o estoque de remédios foi reabastecido." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_012", "hash": "15A275DBBE1881EC", "target": "Quando Valigarmanda escapou da prisão de gelo, confesso que temi que nosso fim estivesse próximo. Mas você e seus companheiros não só detiveram rapidamente sua fúria, como as poderosas magias de cura do seu companheiro vestido de azul salvaram muitas vidas." },
+    { "gameKey": "quest/050/KinGzb105_05045#TEXT_KINGZB105_05045_BHURBORLOR_000_013", "hash": "18D38AD631CBF13D", "target": "Pode ter certeza de que os ingredientes que trouxe hoje serão bem aproveitados para preparar remédios para os que ainda estão se recuperando. Nosso povo nunca conseguirá agradecer o suficiente!" }
   ]
 }

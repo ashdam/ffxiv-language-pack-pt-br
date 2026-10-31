@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb910_00933",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_00", "hash": "5F3EAA68DEB7E364", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_01", "hash": "C93695B07DD15291", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_02", "hash": "D72313C86DB4CD0D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_03", "hash": "6BE56FC00A00DB84", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_00", "hash": "B8F62ADCDC340C09", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_01", "hash": "CD89899A08D965C6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_000", "hash": "BD1AD2C210B2AA75", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_001", "hash": "313ABD03432EAD9D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_020", "hash": "AB4A3BC7080DCD73", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_021", "hash": "858EFBBAA17E735A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_POP_MESSAGE_000", "hash": "2DCCE95EA9C5C2F7", "target": "" }
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_00", "hash": "5F3EAA68DEB7E364", "target": "Ao contrário de outras tarefas inferiores, Sor Faucillien deseja confiar a você uma missão de certa importância." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_01", "hash": "C93695B07DD15291", "target": "Há grandes movimentos de tropas em torno do Posto Avançado de Whitebrim, e Faucillien pede que você mate os Dravanian outwatches que atrasam a coluna. Ele manda você entrar na floresta a noroeste do Posto e atrair esses servos dos dragões com escamas de dragão." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_02", "hash": "D72313C86DB4CD0D", "target": "Os Dravanian outwatches estão mortos. Movidos pelo instinto, em vez da crença, morrem sem exibições grotescas, palavras pomposas ou... que os Doze ajudem, pois você já viu e não pode desver... poesia. Volte a Sor Faucillien e relate seu sucesso." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_SEQ_03", "hash": "6BE56FC00A00DB84", "target": "Sor Faucillien elogia você e revela que Ishgard marcha para Stone Vigil, a fortaleza perdida para os dravanianos. Um ataque ousado e glorioso, mas você não consegue conter os receios..." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_00", "hash": "B8F62ADCDC340C09", "target": "Usar a escama de dragão no destino e matar Dravanian outwatches" },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_TODO_01", "hash": "CD89899A08D965C6", "target": "Relatar a Faucillien" },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_000", "hash": "BD1AD2C210B2AA75", "target": "<if(gnum4,Aventureira,Aventureiro)>. Ouvi que alguns dos meus irmãos de armas transformaram você numa besta de carga. Que vergonha! Pela Fúria, mire mais alto! Tenho uma missão galante: mate os Dravanian outwatches que impedem nosso avanço." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_001", "hash": "313ABD03432EAD9D", "target": "São como cães, que adoram os dravanianos nas florestas sem palavras de suas mentes. Cada pensamento é um círculo de fadas que desaparece ao anoitecer. Agite estas escamas de dragão quando as sentinelas estiverem por perto, e elas virão." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_020", "hash": "AB4A3BC7080DCD73", "target": "Os servos dos dragões estão mortos? Agora não se sente <if(gnum4,uma mulher feita,um homem feito)>, com a honra intacta? Saiba que removeu um dos obstáculos à retomada de Stone Vigil." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_FAUCILLIEN_000_021", "hash": "858EFBBAA17E735A", "target": "É bem coisa dos dravanianos mandar seus servos irracionais fazer o trabalho sujo! Temos vantagem sobre eles, pois todos que servem Ishgard o fazem livres, orgulhosos e de mente clara." },
+    { "gameKey": "quest/009/GaiUsb910_00933#TEXT_GAIUSB910_00933_POP_MESSAGE_000", "hash": "2DCCE95EA9C5C2F7", "target": "Você ouve um ganido de adoração por perto!" }
   ]
 }

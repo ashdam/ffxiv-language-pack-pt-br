@@ -2,14 +2,14 @@
   "conversation": "quest/008/GaiUsb210_00841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_00", "hash": "4FBD520D6C79517F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_01", "hash": "CB2AAE409AF09A52", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_02", "hash": "FFFA86597C06A381", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_03", "hash": "F25C5836F5691F1B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_TODO_00", "hash": "6299409A2EA0CB1E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_TODO_01", "hash": "F3BE72DCA179C401", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_000", "hash": "B6ED5AA7AEFF3783", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_001", "hash": "EE63367FFDDCE352", "target": "" },
-    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_020", "hash": "9B98F5B6FFC654BE", "target": "" }
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_00", "hash": "4FBD520D6C79517F", "target": "Etgar precisa de sua ajuda com um problema envolvendo raptores." },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_01", "hash": "CB2AAE409AF09A52", "target": "Etgar, um dos tratadores dos vinhedos de Wineport, pediu sua ajuda com um problema de grass raptors. Os répteis estão devorando as preciosas videiras do povoado, e é preciso detê-los. Encontre quatro dessas feras e ensine-lhes uma lição." },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_02", "hash": "FFFA86597C06A381", "target": "Você deu uma lição em quatro raptores e deixou os vinhedos seguros por mais um dia. Informe Etgar de seu sucesso." },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_SEQ_03", "hash": "F25C5836F5691F1B", "target": "Etgar parece muito satisfeito com suas notícias e promete lembrar de você caso precise de seus serviços no futuro." },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_TODO_00", "hash": "6299409A2EA0CB1E", "target": "Matar grass raptors" },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_TODO_01", "hash": "F3BE72DCA179C401", "target": "Apresentar-se a Etgar" },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_000", "hash": "B6ED5AA7AEFF3783", "target": "Olá, <if(gnum4,aventureira,aventureiro)>! Escute-me, ou o Mestre Byrglaent vai querer saber o motivo! Quero dizer que ele mesmo vai contar se você se recusar a ouvir de <italic(1)>mim<italic(0)>." },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_001", "hash": "EE63367FFDDCE352", "target": "Sem dúvida já viu aqueles horrendos grass raptors espreitando fora dos nossos portões. Pois tomaram gosto pelas videiras em que cultivamos nossas cerejas para aguardente, e não podemos tolerar isso. Você <italic(1)>precisa<italic(0)> matar as criaturas horríveis!" },
+    { "gameKey": "quest/008/GaiUsb210_00841#TEXT_GAIUSB210_00841_ETGAR_000_020", "hash": "9B98F5B6FFC654BE", "target": "Ah, <if(gnum4,a heroína conquistadora voltou,o herói conquistador voltou)>! E tão depressa. Você tem tanta força quanto bondade e <if(gnum4,ombros agradavelmente bem-feitos,uma cintura maravilhosamente esbelta)>. Vou me lembrar de você se surgirem problemas no futuro." }
   ]
 }

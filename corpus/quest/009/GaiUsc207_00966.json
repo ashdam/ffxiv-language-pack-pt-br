@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc207_00966",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "" },
-    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_00", "hash": "7AD5F6340F26C5B8", "target": "Os destroços assombrados contêm todo tipo de carga preciosa, e Erapi Taropi acredita que pode encontrar o tempero certo para transformar sua sopa de sem graça em sensacional." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_01", "hash": "B35E018DDF9964FD", "target": "Obrigado a esperar que as assombrações de Isles of Umbra acabem, o relutante saqueador Erapi Taropi se ocupa com o jantar. Embora a sopa de peixe tenha um cheiro bom para você, ele quer sua ajuda para melhorá-la mesmo assim. Aventure-se pelo Cemitério de Navios e traga um punhado de especiarias do Extremo Oriente de uma caixa de temperos abandonada." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_02", "hash": "014A8842CACBCD5A", "target": "Você encontrou a caixa e pegou um punhado do conteúdo. Especiarias costumam ser tão moles? Eles certamente fazem as coisas de outro jeito no Extremo Oriente. Entregue as especiarias às mãos mais habilidosas de Erapi Taropi." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_SEQ_03", "hash": "2AE2F4FE2C21DB22", "target": "Você entrega as especiarias a Erapi Taropi, que descobre que estão uma bagunça mofada... <italic(1)>depois<italic(0)> de misturá-las na sopa. Seu apetite desaparece de repente com o cheiro, e o pobre Erapi Taropi começa a contar seu Gil, desanimado, para comprar novos suprimentos." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_00", "hash": "953309D48875139C", "target": "Coletar especiarias do Extremo Oriente na spice box" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_TODO_01", "hash": "CD9D0E8B6461CEC8", "target": "Dar as especiarias a Erapi Taropi" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_000", "hash": "620E0DDC7DCD9557", "target": "É, tô mesmo num mato sem cachorro. Dinheiro <italic(1)>fácil<italic(0)>, disseram. Era só entrar, pegar as coisas que a maré trouxe e ir embora. “Todo mundo vai achar que você é um fantasma!” Bah! Podia ter dado certo se não fossem os espíritos dos mortos andando por aí <italic(1)>de verdade<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_001", "hash": "53762E3675D6FB45", "target": "É uma maldita pena, mas nada vale despertar a ira daqueles esqueletos. Todo aquele saque dando sopa, e eu não tenho nada pra pegar além de uma concha." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_002", "hash": "169FB8FED28D7069", "target": "...O quê? A gente precisa comer enquanto espera os espíritos inquietos irem vagar em outro lugar. Você também parece estar com fome. Quer um pouco desta sopa? Eu mesmo fiz!" },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_003", "hash": "9D8CE1A98F24E6C9", "target": "Só não tinha nada pra temperar além de sal, então tá meio sem graça. Enquanto cuido dela, por que não vai rapidinho ao Cemitério buscar especiarias? Vi umas coisas boas do Extremo Oriente antes de ter que dar no pé por causa de um fantasma." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_010", "hash": "5897430E9CBABCE9", "target": "Conseguiu? A sopa tá ficando boa, viu. Sempre soube fazer uma boa sopa..." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_020", "hash": "DB17454A371A7810", "target": "Ahá! Viu, o que eu disse? Sabia que estavam lá. É só jogar tudo dentro, e vai ser uma refeição digna de uma Almi..." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_021", "hash": "F3082DCE5046DE28", "target": "\\<fungada> Ugggh, isso tem cheiro de <italic(1)>pé<italic(0)>! Afinal, há quanto tempo esse tempero tá largado no Cemitério? \\<suspiro> Agora também fiquei sem jantar." },
+    { "gameKey": "quest/009/GaiUsc207_00966#TEXT_GAIUSC207_00966_ERAPITAROPI_000_022", "hash": "1A7207C50B9B2C36", "target": "Eu disse que era uma má ideia. Dinheiro fácil, disseram. Vai ser mesmo... pro pessoal desta ilha. Vou ter que pagar pra eles por mais popotos e creme de leite." }
   ]
 }

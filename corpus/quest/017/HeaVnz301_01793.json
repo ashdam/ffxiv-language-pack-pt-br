@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz301_01793",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_00", "hash": "37ABA7E7302EFC76", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_01", "hash": "E0C41808F4083625", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_02", "hash": "651167D3BB23FA54", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_03", "hash": "092CA4D7F1BD4802", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_TODO_00", "hash": "53A1A2FAAC7E6481", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_TODO_01", "hash": "64B19951DE233EC4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_000", "hash": "3C766BCA045A4573", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_001", "hash": "59B0A7237FB08EF0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_010", "hash": "53EEC17916762BA7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_020", "hash": "4F62B3ADD9E8D88F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_021", "hash": "CC4EBCB9CAC1E771", "target": "" },
-    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_022", "hash": "6E69763768CE3D52", "target": "" }
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_00", "hash": "37ABA7E7302EFC76", "target": "O voracious Vath olha fixamente para o céu ao sul." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_01", "hash": "E0C41808F4083625", "target": "O voracious Vath pediu que você colete quatro pedrinhas amarelas. Elas podem ser encontradas nas crateras ao sul de Anyx Trine." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_02", "hash": "651167D3BB23FA54", "target": "Você obtém as pedras solicitadas. Leve-as ao voracious Vath em Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_SEQ_03", "hash": "092CA4D7F1BD4802", "target": "O voracious Vath fica impressionado com a rapidez com que você trouxe as pedrinhas amarelas. Ele conta que são um dos principais ingredientes da pólvora Gnath, mas não parece disposto a explicar o que mais é necessário." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_TODO_00", "hash": "53A1A2FAAC7E6481", "target": "Obter pedrinhas amarelas" },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_TODO_01", "hash": "64B19951DE233EC4", "target": "Entregar as pedrinhas ao voracious Vath" },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_000", "hash": "3C766BCA045A4573", "target": "Procura trabalho, <if(gnum4,caçadora,caçador)>? Veio em boa hora. Temos trabalho para você. Gostaríamos que trouxesse alguns materiais." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_001", "hash": "59B0A7237FB08EF0", "target": "Ao sul do lugar que os homens chamam de Anyx Trine, há crateras. Nessas crateras há pedrinhas amarelas. Por favor, colete quatro pedrinhas amarelas nessas crateras. Colete essas pedrinhas e traga para mim." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_010", "hash": "53EEC17916762BA7", "target": "As pedrinhas amarelas devem estar nas crateras. As crateras ficam ao sul de Anyx Trine." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_020", "hash": "4F62B3ADD9E8D88F", "target": "Trouxe as pedrinhas, <if(gnum4,caçadora,caçador)>?" },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_021", "hash": "CC4EBCB9CAC1E771", "target": "Obrigado, <if(gnum4,generosa caçadora,generoso caçador)>. Você não perde tempo." },
+    { "gameKey": "quest/017/HeaVnz301_01793#TEXT_HEAVNZ301_01793_NANKAEATER_000_022", "hash": "6E69763768CE3D52", "target": "Essas pedras são usadas para fazer pólvora Gnath. Moemos as pedras e misturamos com nossa... ahn... \\<clique> \\<clique> \\<clique> \\<clique> Na verdade, preferimos não entrar em detalhes." }
   ]
 }

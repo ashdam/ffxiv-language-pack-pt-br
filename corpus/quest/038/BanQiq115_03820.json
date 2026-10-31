@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq115_03820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_00", "hash": "F4DB20006E3C2444", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_01", "hash": "FBB8E94A384A51D4", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_TODO_00", "hash": "CE4BCA6EE7447576", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_000", "hash": "51C82DE4328A9A87", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_001", "hash": "D5A7C26126017CE3", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_002", "hash": "37E947A2301591DF", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_003", "hash": "3B4257508F4E604A", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_004", "hash": "1FE812BB9D189BDC", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_005", "hash": "920436D6AD9AF32B", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_006", "hash": "4CCE58C5EAF65A12", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_007", "hash": "F9CB5C2AE6BF5EF9", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_010", "hash": "2A97C0DC3938C011", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_011", "hash": "D90A9893FC0B33E6", "target": "" },
-    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_012", "hash": "3067F96FF1891789", "target": "" }
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_00", "hash": "F4DB20006E3C2444", "target": "Os registros incansáveis de Qhoterl Pasol quase esgotaram seu estoque de materiais de escrita.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_SEQ_01", "hash": "FBB8E94A384A51D4", "target": "Entregue os objetos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_TODO_00", "hash": "CE4BCA6EE7447576", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extrair splendid graphite em Blind Forest of Yx'Maja,Entregar o splendid graphite a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Coletar splendid tarichuk feathers em Blind Forest of Yx'Maja,Entregar as splendid tarichuk feathers a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar um splendid silver kitten perto de Red Chalice,Entregar o splendid silver kitten a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_000", "hash": "51C82DE4328A9A87", "target": "Minha nossa! Pode não parecer, mas estou ocupadíssima. Só acompanhar as descobertas recentes já basta para me deixar tonta! Sem falar em todos os mapas e diagramas que desenhamos..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_001", "hash": "D5A7C26126017CE3", "target": "É por isso que preciso manter registros detalhados de tudo, e só usamos métodos tradicionais transmitidos pelos ronkanos." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_002", "hash": "37E947A2301591DF", "target": "Vou precisar de vários pedaços de grafite, que vamos moer e usar para produzir tinta. Não se preocupe, a recompensa vai compensar o trabalho, garanto!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_003", "hash": "3B4257508F4E604A", "target": "Vou precisar de várias penas de tarichuk, que usaremos como penas de escrita. Não se preocupe, a recompensa vai compensar o trabalho, garanto!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_004", "hash": "1FE812BB9D189BDC", "target": "Vou precisar de um silver kitten, cuja pele é usada no processo de fabricação de tinta. Não se preocupe, é um tipo de peixe, não um gatinho de verdade! Devo dizer que foi muita sorte eu ter lembrado de mencionar isso..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_005", "hash": "920436D6AD9AF32B", "target": "Costumamos ir a Blind Forest para coletar esse tipo de coisa, mas nenhum dos outros tem tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_006", "hash": "4CCE58C5EAF65A12", "target": "Costumamos ir a Blind Forest para coletar esse tipo de coisa, mas nenhum dos outros tem tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_007", "hash": "F9CB5C2AE6BF5EF9", "target": "Nossos pescadores costumam ir a Red Chalice com um balde de fruit worms para pescá-los, mas temo que só você tenha tempo..." },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_010", "hash": "2A97C0DC3938C011", "target": "Ah, fico <italic(1)>mesmo<italic(0)> feliz em ver que você voltou bem. Espero que não tenha passado por nenhum problema por minha causa!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_011", "hash": "D90A9893FC0B33E6", "target": "Esplêndido! Era exatamente o que eu procurava! Logo terei um conjunto novo de materiais de escrita, com os quais vou poder rabiscar à vontade!" },
+    { "gameKey": "quest/038/BanQiq115_03820#TEXT_BANQIQ115_03820_QHOTERLPASOL_000_012", "hash": "3067F96FF1891789", "target": "Além de desenterrar tesouros perdidos, nós, Qitari, não gostamos de nada mais do que registrar nossas realizações. Mesmo os que ainda são novos demais para escrever costumam desenhar mapas dos lugares que visitaram. Uma graça, não é?" }
   ]
 }

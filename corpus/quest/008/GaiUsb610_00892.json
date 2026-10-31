@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb610_00892",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_00", "hash": "F3E65D3039A5392A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_01", "hash": "3A2D15B4A954F560", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_02", "hash": "C9DFBDD72A5E4148", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_03", "hash": "E1396207C628E7F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_00", "hash": "01A65175CBD7659A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_01", "hash": "5C265CE408DFD5AD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_000", "hash": "C7B059835C4C8C11", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_001", "hash": "263E0E616D20DD04", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_002", "hash": "CFCA93B9974F3BC0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_020", "hash": "E5A3B8B8C57F3BB8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_021", "hash": "92F35C3218F998F2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_022", "hash": "CD313728285F4175", "target": "" }
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_00", "hash": "F3E65D3039A5392A", "target": "Prairillot precisa de um favor seu, e o desgosto que isso lhe causa é quase pagamento suficiente pelo trabalho." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_01", "hash": "3A2D15B4A954F560", "target": "Enquanto o frio implacável castiga os Fortins de Skyfire, Prairillot se irrita ao descobrir que não há homens disponíveis para buscar lenha e que terá de recorrer à ajuda de um aventureiro. Sua tarefa é reunir oito feixes de lenha nos arredores dos Fortins de Skyfire." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_02", "hash": "C9DFBDD72A5E4148", "target": "Você tem oito feixes de lenha, secos e prontos para o fogão. Eles devem ser entregues a Stephannot na colina oeste antes que ele e seus homens morram de frio." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_SEQ_03", "hash": "E1396207C628E7F7", "target": "O agradecimento de Stephannot soa forçado, apesar de seu evidente alívio por ter mais combustível à mão para o frio mortal da noite. Muitos por aqui desconfiam de estrangeiros e não gostam de aventureiros, o que torna sua estadia em Coerthas desconfortável." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_00", "hash": "01A65175CBD7659A", "target": "Reunir feixes de lenha nos arredores dos Fortins de Skyfire" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_TODO_01", "hash": "5C265CE408DFD5AD", "target": "Entregar a lenha a Stephannot" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_000", "hash": "C7B059835C4C8C11", "target": "Me irrita pedir a ajuda de um aventureiro, mas não posso deixar o forte, não agora... droga!" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_001", "hash": "263E0E616D20DD04", "target": "Você está <if(gnum4,ansiosa,ansioso)> para nos prestar serviço, não é, <if(gnum4,aventureira,aventureiro)>? Precisamos de lenha com urgência, e você teria muito a ganhar nos ajudando." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_PRAIRILLOT_000_002", "hash": "CFCA93B9974F3BC0", "target": "Nunca falta lenha nos arredores dos Fortins de Skyfire. Reúna oito feixes e os entregue a Stephannot na colina oeste." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_020", "hash": "E5A3B8B8C57F3BB8", "target": "Demorou, <if(gnum4,sua chorona pálida,seu chorão pálido)>! ...Lenha? Quem mandou trazer lenha, <if(gnum4,moleca,moleque)>!? O que houve com os novos suprimentos do Acampamento Cabeça de Dragão? E fique de pé direito quando eu falar com você!" },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_021", "hash": "92F35C3218F998F2", "target": "Ora, confundi você com outra pessoa. Mandei um recruta há algum tempo buscar suprimentos de auxílio. Veio até aqui para trazer mais combustível? Meus agradecimentos." },
+    { "gameKey": "quest/008/GaiUsb610_00892#TEXT_GAIUSB610_00892_STEPHANNOT_000_022", "hash": "CD313728285F4175", "target": "Não buscamos conforto, entenda, mas sobrevivência. O frio é implacável demais para ficarmos muito tempo sem fogo. Agradeço seu serviço, mas Coerthas não é lugar para quem não tem disciplina e fé. Você morrerá e, com isso, talvez ponha a cruzada em risco." }
   ]
 }

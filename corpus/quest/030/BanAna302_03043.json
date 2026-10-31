@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna302_03043",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_00", "hash": "09FB2409DC4C4FFA", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_01", "hash": "204CEA3381DCCD35", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_021", "hash": "3124088151A2AA40", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "" },
-    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "" }
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_SEQ_00", "hash": "21BDC3486BA334AB", "target": "Eshana acredita que Castellum Velodyna precisa urgentemente de reparos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_00", "hash": "09FB2409DC4C4FFA", "target": "Coletar placas de cermet nas Pike Falls" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_TODO_01", "hash": "204CEA3381DCCD35", "target": "Entregar as placas de cermet a Eshana" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_000", "hash": "4222B0E9407CE90D", "target": "Como você deve se lembrar, a batalha para retomar Castellum Velodyna foi bastante feroz. Naturalmente, a ponte não saiu ilesa, e é nossa responsabilidade cuidar dos reparos e da manutenção. O problema é que faltam os materiaisss adequados." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_001", "hash": "039CDBE1CD77E198", "target": "Os garleanos ergueram esta ponte com materiais raros na região, mas as placas de cermet de suas máquinas de guerra têm servido bem aos nossos reparos. Se pudesse recuperar, digamos, três placas, seríamos muito gratas por sua ajuda. Sss..." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_020", "hash": "E71B6FCD55EF0CAF", "target": "Conseguiu encontrar alguma máquina de que pudessse aproveitar as peças?" },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_021", "hash": "3124088151A2AA40", "target": "Sssim, isso será suficiente." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_022", "hash": "ECE8CBCA01397DAA", "target": "Para dizer a verdade, acho a arquitetura deste lugar bastante grosseira, mas, felizmente, ele é feito principalmente de metal. Serve para praticar nossa magia de moldar metaisss." },
+    { "gameKey": "quest/030/BanAna302_03043#TEXT_BANANA302_03043_ESHANA_000_023", "hash": "F286361E46ABD175", "target": "Ainda assim, precisaremos de muitas placas para concluir os reparos. Suspeito que logo voltaremos a precisar da sua ajuda. Sss..." }
   ]
 }

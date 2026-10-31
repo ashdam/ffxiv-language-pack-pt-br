@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb612_00894",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_00", "hash": "B9C09920371C3689", "target": "Stephannot não gosta de aventureiros, mas quem precisa não pode escolher, e sua ajuda é urgente." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_01", "hash": "3C968CBC8F9A204E", "target": "Um dos jovens recrutas de Stephannot desapareceu depois de partir para o Acampamento Cabeça de Dragão. Ele provavelmente se perdeu na estrada norte, onde criaturas selvagens às vezes espreitam presas fáceis. Siga o rastro do recruta enquanto ainda está fresco." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_02", "hash": "0572E0CC993C52C3", "target": "Após uma batalha brutal em que você quase perdeu <if(gnum4,a fonte de seu charme maroto,seu apêndice mais precioso)>, o crocodilo está morto. Como <if(gnum4,boa detetive,bom detetive)>, você examina o corpo e encontra um anel de prata marcado, o menos indizível dos conteúdos das entranhas da criatura. Leve-o a Stephannot." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_SEQ_03", "hash": "FBFC2EB1EDBEE3FC", "target": "Stephannot confirma que o anel pertencia ao jovem recruta. A princípio, você se surpreende com sua resistência à verdade óbvia, pois ele parecia um homem pragmático. Ao que parece, em Ishgard, ser devorado por uma fera traz vergonha a quem foi comido..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_00", "hash": "9637CA16A844B48D", "target": "Seguir o rastro do recruta" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_TODO_01", "hash": "016A3E76C34EC073", "target": "Entregar o anel a Stephannot" },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_000", "hash": "8CEB95B1C297DDC6", "target": "Ele já devia ter voltado, mesmo que precisasse esperar o pior desta tempestade passar. Será que foi parar na estrada norte? Há feral crocs vagando por lá..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_001", "hash": "CE54285683194993", "target": "Ahem... <if(gnum4,aventureira,aventureiro)>. Mandei um mensageiro ao Acampamento Cabeça de Dragão, mas ele está muitas horas atrasado. Temo que tenha se perdido, recruta inexperiente que é. Gostaria de pedir que fosse buscá-lo." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_020", "hash": "60763145ADA3B10C", "target": "Ah, <if(gnum4,aventureira,aventureiro)>. Onde está aquele imbecil? Se perdeu alguma parte do corpo por congelamento, só pode culpar a si mesmo." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_030", "hash": "47DADFDFEDE6C099", "target": "Este é o anel do garoto. O que significa isso? Um feral croc... Tem certeza? Ele pode simplesmente ter deixado cair! Não vou aceitar suposições quando a honra do garoto... o quê? Sim. Ele era ruivo. Ah, pela misericórdia de Halone..." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_STEPHANNOT_000_031", "hash": "402D09C5337BA9EF", "target": "Era um bom rapaz, ardendo de vontade de ocupar seu lugar na guerra contra os dragões. Morrer de forma tão ignóbil... não consigo contar ao pai dele, mas mentir a um companheiro cavaleiro sobre o próprio filho... é mais do que consigo resolver agora." },
+    { "gameKey": "quest/008/GaiUsb612_00894#TEXT_GAIUSB612_00894_POP_MESSAGE_000", "hash": "C21AA3F5837CC4E8", "target": "Você sente uma criatura veloz e enorme!" }
   ]
 }

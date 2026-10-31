@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz714_02817",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_SEQ_00", "hash": "4259E17881E0FC52", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_TODO_00", "hash": "78A769BF22DEDA8E", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_TODO_01", "hash": "75E941ABA973C421", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_000", "hash": "9D37AECB847C3F0D", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_001", "hash": "1E72ECE919C2C6C3", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_002", "hash": "772E2E971E60A75C", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_003", "hash": "4EAC1CA17A35EAEB", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_004", "hash": "CCB9D307E411CC4C", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_010", "hash": "368D9081B4CB4623", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_020", "hash": "DBFCD09B91F75CCB", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_030", "hash": "3869886E3D2663CD", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_031", "hash": "3AC2DD1902E1A53A", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_032", "hash": "598C3A58C2A47EDF", "target": "" },
-    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_033", "hash": "4FEF572231B01839", "target": "" }
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_SEQ_00", "hash": "4259E17881E0FC52", "target": "Garima precisa de alguém que não fique enrolando." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_TODO_00", "hash": "78A769BF22DEDA8E", "target": "Obter íris-dos-sonhos" },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_TODO_01", "hash": "75E941ABA973C421", "target": "Entregar os íris-dos-sonhos a Garima" },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_000", "hash": "9D37AECB847C3F0D", "target": "Era justamente você que eu esperava ver. Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_001", "hash": "1E72ECE919C2C6C3", "target": "Precisamos muito de uma flor especial, o íris-dos-sonhos, mas as Qalyana andam colhendo todos nos campos próximos, sem nenhum cuidado ou limite. Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_002", "hash": "772E2E971E60A75C", "target": "Eles crescem intocados a oeste, ao longo do rio Velodyna, mas não ousamos ir até lá. Se as Qalyana nos seguirem, isso pode causar problemas aos bípedes de Castrum Oriens. Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_003", "hash": "4EAC1CA17A35EAEB", "target": "Quem dera pudéssemos esperar que florescessem de novo, mas receio que não tenhamos todo essse tempo." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_004", "hash": "CCB9D307E411CC4C", "target": "Se conseguir encontrar cinco íris, é tudo de que precisamos. Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_010", "hash": "368D9081B4CB4623", "target": "Se procurar ao longo do rio Velodyna, com certeza vai encontrá-los. Lembre-se: não precisamos de mais de cinco. Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_020", "hash": "DBFCD09B91F75CCB", "target": "Você encontrou algum íris ao longo do rio? Sss..." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_030", "hash": "3869886E3D2663CD", "target": "Excelente! Minhas irmãs ficarão felizes em ver issso quando começarem a trocar de pele." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_031", "hash": "3AC2DD1902E1A53A", "target": "Trocamos de pele de tempos em tempos, mas isso nos deixa bastante vulneráveis por um período. Com essas flores, fazemos um elixir poderoso que protege nossas escamasss até endurecerem por completo." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_032", "hash": "598C3A58C2A47EDF", "target": "São um presente carinhoso de nossa mãe, Lakshmi, para que possamos permanecer sempre belasss." },
+    { "gameKey": "quest/028/StmBdz714_02817#TEXT_STMBDZ714_02817_GARIMA_000_033", "hash": "4FEF572231B01839", "target": "As Qalyana seriam capazes de destruí-los só para nos provocar. Mas, quando começarem a trocar de pele, com certeza vão se arrepender da decisão. Sss..." }
   ]
 }

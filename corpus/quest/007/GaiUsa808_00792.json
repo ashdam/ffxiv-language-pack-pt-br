@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa808_00792",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "" },
-    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "" }
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_00", "hash": "9514481D98B8A5CF", "target": "Aeluuin, da Rolha Flutuante, pede sua ajuda com a limpeza." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_01", "hash": "FB4870BF11AAF844", "target": "Os funcionários de Aeluuin andam fugindo do trabalho, e os quadros que enfeitam a estalagem acumulam poeira. Pegue emprestado o espanador de chocobo do estalajadeiro e deixe as obras-primas impecáveis." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_02", "hash": "012E9E5299B8C7FB", "target": "Há poucos minutos, os quadros estavam cobertos de poeira. Agora, suas cores vivas voltam a brilhar. Diga a Aeluuin que o trabalho terminou." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_SEQ_03", "hash": "558E131A81F57342", "target": "Aeluuin fica satisfeito ao ver seus quadros limpos outra vez. Embora goste especialmente de um deles, ainda não conseguiu descobrir a identidade de quem o pintou." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_00", "hash": "4C4873A3B88E8E65", "target": "Usar o espanador de chocobo nos quadros" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_TODO_01", "hash": "9BB9ED6B6004BDE7", "target": "Informar Aeluuin" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_000", "hash": "043F322E22FB05DD", "target": "Está vendo aquele quadro ali? Claro que não. Está coberto de duas semanas de poeira, graças aos meus funcionários que não fazem nada!" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_001", "hash": "E4F6312F86F52819", "target": "Eu mesmo tiraria a poeira, mas acho que aqueles preguiçosos aprenderiam melhor a lição se vissem um cliente fazendo o serviço. O que acha? Algumas passadas deste espanador de chocobo devem resolver, e vou recompensar seu esforço." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_020", "hash": "9F5B41F40490D114", "target": "Obrigado. \\<suspiro> Se ao menos meus funcionários compartilhassem nosso amor pelas belas-artes, hein?" },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_021", "hash": "B160634FB8D5B055", "target": "Especialmente o quadro lá de cima. Não me pergunte por quê, mas aquela figura solitária, parada ali, olhando para a distância... Não costumo ser sentimental, mas isso mexe comigo." },
+    { "gameKey": "quest/007/GaiUsa808_00792#TEXT_GAIUSA808_00792_AELUUIN_000_022", "hash": "71C1BFC6087F6D5F", "target": "Será que ele relembra com saudade aventuras de muito tempo atrás? Ou reúne coragem para uma batalha que está por vir? Infelizmente, como a identidade de quem pintou é um mistério, talvez nunca saibamos." }
   ]
 }

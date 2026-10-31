@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz918_01983",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "" }
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_00", "hash": "456AC2D1D97AC66D", "target": "O módulo de pesquisa alagano aguarda silenciosamente a interação do usuário." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_01", "hash": "B14DB2BD5D78DC49", "target": "Você descobre que várias quimeras monstruosas que se reproduzem rapidamente escaparam de uma instalação de pesquisa alagana. O módulo de pesquisa explica que elas representam uma grave ameaça ao ambiente local e precisam ser exterminadas imediatamente. Elimine duas Allagan chimeras." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_02", "hash": "44787C3516ECA82E", "target": "Você eliminou as abominações horripilantes. Informe research node que o risco imediato ao ambiente foi reduzido." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_SEQ_03", "hash": "5840F0586E29487E", "target": "O módulo de pesquisa reconhece seu trabalho e confirma que a ameaça ao ambiente foi reduzida. Você descobre que todas as tentativas de criar formas de vida compostas resultaram em criaturas perigosas e psicologicamente instáveis, mas o módulo de pesquisa alagano não parece ter a menor intenção de limitar suas pesquisas." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_00", "hash": "585D6DE2461ECF9A", "target": "Eliminar Allagan chimeras" },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_TODO_01", "hash": "C0EAAAA96334E28C", "target": "Relatar a research node" },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_000", "hash": "980DC8287FF60751", "target": "\\<bip> \\<bip> Transmissão recebida da instalação de pesquisa de formas de vida compostas... \\<bzzzzzzz> ...Parabéns. Você foi <if(gnum4,selecionada,selecionado)> para auxiliar em um experimento." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_001", "hash": "04A39183743F8055", "target": "Os sensores indicam a fuga de indivíduos da câmara de testes 167-B, programa de reprodução acelerada de quimeras. Os indivíduos representam um risco extremo ao ambiente ao redor. Extermínio imediato das Allagan chimeras envolvidas recomendado." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_010", "hash": "DB5BBDC73EE01041", "target": "Para minimizar danos irreparáveis ao ambiente local, extermine duas Allagan chimeras imediatamente." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_020", "hash": "F1AE94A8EF0D86D8", "target": "\\<bip> \\<bip> Extermínio das quimeras confirmado. Obrigado por seu serviço ao programa de pesquisa alagano. Seu desempenho satisfatório foi registrado." },
+    { "gameKey": "quest/019/HeaVnz918_01983#TEXT_HEAVNZ918_01983_RESEARCHSYSTEM_000_021", "hash": "32115D20F2994D4B", "target": "Tenha a certeza de que, embora todas as formas de vida compostas criadas até hoje tenham sido invariavelmente psicologicamente instáveis e...\\<bzzzzzzz>...programa de pesquisa não hesitará em perseguir o nobre objetivo de... \\<bzzzzzzz>" }
   ]
 }

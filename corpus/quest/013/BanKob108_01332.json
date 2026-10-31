@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob108_01332",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "" },
-    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "" }
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_00", "hash": "DAB914A6ED8CBE8C", "target": "789th Order Dustman Bo Zu tem um brilho de entusiasmo incomum nos olhos." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_01", "hash": "CC2CEBCA6FA0E109", "target": "Em um dos acontecimentos mais surpreendentes da Sétima Era Astral, o lendário preguiçoso Bo Zu manifesta o desejo de virar a página e trabalhar um pouco para variar, mas pede sua ajuda para reunir a determinação necessária. Para isso, vá ao Kobold Dig e busque um punhado de electrum da 639ª Ordem, para que o lixeiro veja com os próprios olhos os frutos do trabalho honesto." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_02", "hash": "E0D7AF6188069CED", "target": "Você conseguiu “pegar emprestada” uma quantidade de electrum impecável do estoque da 639ª Ordem. Entregue-a a Bo Zu para animar o lixeiro." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_SEQ_03", "hash": "C2E0FBA441259352", "target": "Para surpresa de absolutamente ninguém, Bo Zu decide se apropriar do electrum emprestado em nome da 789ª Ordem. Embora os métodos do lixeiro sejam questionáveis, sem dúvida foram os abusos e a opressão que ele e seus companheiros sofrem nas mãos de Zo Ga que os levaram a medidas tão desesperadas..." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_00", "hash": "A8FD8C06FCF1FDAC", "target": "Procurar minério de electrum de alta qualidade nos 639th Order pots" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_TODO_01", "hash": "A6791648998D6187", "target": "Entregar o minério de electrum de alta qualidade a 789th Order Dustman Bo Zu" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_000", "hash": "11070C09341BB195", "target": "Bo Zu tem sido um preguiçoso─um vadio, um folgado, um preguiçoso. Mas Bo Zu não quer mais ser preguiçoso─não, não, nunca mais!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_001", "hash": "38A0EBDD0CA16740", "target": "Gi Gu diz que a 639ª encontra metais brilhantes─sim, sim, os mais brilhantes. Será verdade? A 639ª já foi tão maltrapilha quanto nós─esfarrapada, desleixada, maltrapilha." },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_002", "hash": "F81564234B3CF322", "target": "Se a 639ª pode encontrar brilhos, por que eu não posso? Sim, sim, por que eu não posso? Bo Zu também pode ficar rico!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_003", "hash": "AE010427598A77B5", "target": "Mas quero saber com certeza─sem dúvida, com segurança, com certeza. Você vai à escavação, sim? Vai trazer provas das conquistas da 639ª para Bo Zu? Sim, sim, você tem que fazer isso!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_004", "hash": "213A99470A0A0F99", "target": "Quero saber com certeza─sem dúvida, com segurança, com certeza. Você vai à escavação, sim? Vai trazer provas das conquistas da 639ª para Bo Zu? Sim, sim, você tem que fazer isso!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_010", "hash": "1B688501B3DA1908", "target": "Trouxe brilhos, sim? Da 639ª para Bo Zu?" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_011", "hash": "4502A6E91674A8C2", "target": "Veja como cintila─brilha, reluz, cintila! A 639ª escavou uma fortuna. Sim, sim, acertaram o veio!" },
+    { "gameKey": "quest/013/BanKob108_01332#TEXT_BANKOB108_01332_BOZU_000_012", "hash": "D974CB9086D5685B", "target": "Com certeza... não vão sentir falta de um brilho─não, não, de um brilho ou dois. Obrigado─sim, obrigado pela ajuda! Pois hoje a riqueza também chegou a Bo Zu!" }
   ]
 }

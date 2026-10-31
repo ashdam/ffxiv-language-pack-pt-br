@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz018_01743",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "" },
-    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "" }
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_00", "hash": "C0A7553AE1D63742", "target": "Torsefers parece doente de preocupação." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_01", "hash": "5406F70AAB1D0F09", "target": "Lorde Emmanellain encarregou Torsefers de entregar uma carta a Lady Laniaitte na Casa das Rosas, em Sea of Clouds. Com medo de que algo dê errado e provoque a ira de Lorde Emmanellain, Torsefers pede que você faça a entrega em seu lugar." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_SEQ_02", "hash": "70CF1EDB89B863BE", "target": "Você entrega a carta a Lady Laniaitte, e o forte perfume de rosas revela imediatamente quem a enviou. Segundo ela, os dois se conhecem desde a infância. Embora Lorde Emmanellain já seja um homem feito, às vezes seu comportamento ainda é infantil." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TODO_00", "hash": "5F983D26E217A95A", "target": "Entregar a carta com perfume de rosas a Lady Laniaitte na Casa das Rosas" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_000", "hash": "FB37C4E9E5F97D9E", "target": "Eu pareço preocupado? Que bobagem. Por que teria algum motivo de preocupação?<br>\\<suspiro> Está bem... Acho que não faz mal contar a você." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_001", "hash": "A3F70733CD745E9F", "target": "Lorde Emmanellain pediu que eu entregasse uma carta a Lady Laniaitte na Casa das Rosas. Lembro que disse especificamente que falhas <italic(1)>não<italic(0)> seriam toleradas. É uma tarefa simples, mas pensar que algo possa dar errado me deixa com um nó no estômago." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_002", "hash": "881A493DC0599958", "target": "Não gosto de jogar meus deveres nas costas dos outros, mas... Você poderia entregar esta carta?" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_003", "hash": "BCDD94E5B3BE179D", "target": "Não posso correr riscos. Com suas habilidades, certamente conseguirá cumprir a tarefa sem falhar. Por favor, você é minha única esperança!" },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_TORSEFERS_000_010", "hash": "A91FC775D1B183F1", "target": "Quando chegar à Casa das Rosas, leve a carta diretamente a Lady Laniaitte. Sem desvios. Não pode haver erros nesta entrega." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_020", "hash": "840C37196FCADA28", "target": "Ah, <split(<string(gstr1)>, ,1)>. Você parece bem, mas o que traz você a Cloudtop? Se precisar de algo, é só pedir." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_021", "hash": "17C2050A066A8CAB", "target": "\\<cheirada> Óleo de rosas? Argh, uma carta de Lorde Emmanellain. Sinto muito por isso. Nunca imaginei que ele tentaria algo tão descarado." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_022", "hash": "C61D17E17D9B4B05", "target": "Receio que ele sempre tenha sido assim. A Casa Haillenarte e a Casa Fortemps sempre mantiveram boas relações. Por isso, os que têm idades próximas costumam conviver desde pequenos." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_023", "hash": "BB43BD5FD05C7065", "target": "Passei boa parte da infância brincando com Lorde Emmanellain, mas agora... Receio que ele ainda se apegue demais àquelas lembranças. Embora admita que às vezes isso me favoreça." },
+    { "gameKey": "quest/017/HeaVnz018_01743#TEXT_HEAVNZ018_01743_LANIAITTE_000_024", "hash": "D35580924F64F492", "target": "Infelizmente, não posso dizer o mesmo de Torsefers. Sem dúvida pediu que você viesse no lugar dele. Entendo o medo de desagradar Lorde Emmanellain, mas não se trata assim <if(gnum4,uma convidada,um convidado)>. Por favor, aceite isto como um pedido de desculpas. Sei que é pouco, mas é tudo que posso oferecer no momento." }
   ]
 }

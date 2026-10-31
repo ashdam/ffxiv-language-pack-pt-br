@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz512_01847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_00", "hash": "0D34E354B6934A0E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_01", "hash": "2AA55094D7EE5E6C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_02", "hash": "0AA28E4667EB5C1D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_03", "hash": "4A6F9E8139F4E523", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_00", "hash": "028EBCDC60A591C7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_01", "hash": "29A8F3A7CAE76DEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_000", "hash": "762B221C37BE7B89", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_001", "hash": "50025D68CAE6751C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_010", "hash": "0541525B8E13FCA8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_020", "hash": "6E27C1E07D175512", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_021", "hash": "EE1E9CB9F73B55C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_032", "hash": "AA5AA8D6E630DF3E", "target": "" }
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_00", "hash": "0D34E354B6934A0E", "target": "Mogson parece ter esquecido alguma coisa de novo." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_01", "hash": "2AA55094D7EE5E6C", "target": "Parece que o distraído Mogson deixou seus cestos para trás de novo, desta vez em Tharl Oom Khash. Recupere-os para o pobre moogle, para que pare de voar aflito de um lado para o outro." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_02", "hash": "0AA28E4667EB5C1D", "target": "Você encontra os cestos espalhados por Tharl Oom Khash, e é um mistério como o pequeno moogle esperava carregá-los de volta. Volte a Mogson e devolva seus preciosos cestos." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_SEQ_03", "hash": "4A6F9E8139F4E523", "target": "Mogson fica encantado em receber os cestos de volta e agradece por poder retomar seu artesanato com os cristais guardados neles. Parece que o rugido distante de um dragão o assustou enquanto coletava os cristais. Agora, graças a você, o moogle nervoso pode voltar a fabricar seja lá o que ele faz." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_00", "hash": "028EBCDC60A591C7", "target": "Recuperar os cestos de Mogson" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_TODO_01", "hash": "29A8F3A7CAE76DEA", "target": "Entregar os cestos a Mogson" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_000", "hash": "762B221C37BE7B89", "target": "Ah, não, fiz isso de novo, kupo. Esqueci meus cestos! Por favor, <if(gnum4,aventureira,aventureiro)>, encontre-os para mim!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_001", "hash": "50025D68CAE6751C", "target": "Esqueci três cestos em Tharl Oom Khash. Encontre-os antes que os monstros mexam neles!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_010", "hash": "0541525B8E13FCA8", "target": "Esses cestos são preciosos para mim. Procure por eles em Tharl Oom Khash, kupo." },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_020", "hash": "6E27C1E07D175512", "target": "Se não recuperar aqueles cestos, o dia inteiro terá sido um desperdício, kupo! Você conseguiu encontrá-los?" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_021", "hash": "EE1E9CB9F73B55C3", "target": "Meus cestos! Graças aos céus você os encontrou, kupo!" },
+    { "gameKey": "quest/018/HeaVnz512_01847#TEXT_HEAVNZ512_01847_MOGSON_000_032", "hash": "AA5AA8D6E630DF3E", "target": "Fui a Tharl Oom Khash coletar cristais para meu artesanato, mas então ouvi um dragão rugir ao longe e fugi, deixando meus cestos para trás, kupo!" }
   ]
 }

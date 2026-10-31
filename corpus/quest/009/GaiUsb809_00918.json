@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb809_00918",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_00", "hash": "D22CE01D85453811", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_01", "hash": "5C577FE1736C8DF1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_02", "hash": "C97C2CF5FCF66322", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_TODO_00", "hash": "AF19C694954A1617", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_000", "hash": "A9C73720F115E61D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_001", "hash": "42FCCA4960F719FC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_002", "hash": "51E9A9913654E847", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_003", "hash": "65615B7AF9B387E5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_010", "hash": "C3839D4060285D7B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_020", "hash": "53950C31E93DD93E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_030", "hash": "330F6BC54A059885", "target": "" }
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_00", "hash": "D22CE01D85453811", "target": "Quando um mercador se enfurece, geralmente há dinheiro a ganhar resolvendo um problema. E Edwyn parece realmente furioso." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_01", "hash": "5C577FE1736C8DF1", "target": "Uma encomenda de ceruleum ainda não chegou de Ul'dah, e Edwyn está furioso com o fornecedor. Vá aos mercados do Mercado da Avenida Safira, encontre Syntgoht e use /doubt para questionar suas palavras. Talvez ele revele a verdade." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_02", "hash": "C97C2CF5FCF66322", "target": "Sob o peso do seu ceticismo, Syntgoht admite que há um problema com a remessa de ceruleum e insinua que é tão vítima quanto Edwyn. Você teme que sua enrolação pouco faça para aliviar a desconfiança de Edwyn em relação aos uldahnos." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_TODO_00", "hash": "AF19C694954A1617", "target": "Questionar Syntgoht usando /doubt" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_000", "hash": "A9C73720F115E61D", "target": "Ei, você! Sem tempo para gentilezas, estou esperando ceruleum. Aquele batedor de carteiras uldahno que se diz comerciante está com a remessa atrasada!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_001", "hash": "42FCCA4960F719FC", "target": "Ceruleum arde como uma taverneira no inverno, e não dá para fazer a pólvora das balistas sem ele. Maldito Syntgoht... Acha que estamos enfrentando o quê aqui, joaninhas?" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_002", "hash": "51E9A9913654E847", "target": "Você parece gostar de um pouco de calor! Descubra onde está minha encomenda de ceruleum. Vá até Syntgoht e, sabe como é, dê uma pressionada nele. Questione, entende?" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_003", "hash": "65615B7AF9B387E5", "target": "Vou te contar, esses uldahnos... <switch(gnum70,adoram receber\\, mas não gostam de trabalhar!,adoram receber\\, mas não gostam de trabalhar!,adoram receber\\, mas não gostam de trabalhar... com exceção de você\\, é claro!)> Não dá para confiar neles, principalmente no pessoal do Mercado da Avenida Safira!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_010", "hash": "C3839D4060285D7B", "target": "Que bom receber você, <italic(1)>que bom<italic(0)>! O que uma pessoa exigente... Ah, não veio comprar? Então sugiro que olhe em silêncio. Estou muito ocupado." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_020", "hash": "53950C31E93DD93E", "target": "Veio da parte de Edwyn, em Coerthas? Ah, não. Podemos nos considerar amigos? Ah, bem, então, <split(<string(gstr1)>, ,1)>, há um problema com o ceruleum. E, se acha que Edwyn está contrariado, não faz ideia de como isso é difícil para <italic(1)>mim<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_030", "hash": "330F6BC54A059885", "target": "Escute, só há duas ofertas para você aqui: um <italic(1)>negócio<italic(0)> ou a <italic(1)>saída<italic(0)>! Estou no meio do inventário e não tenho tempo para suas palhaçadas!" }
   ]
 }

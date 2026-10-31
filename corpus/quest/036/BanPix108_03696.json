@@ -2,14 +2,14 @@
   "conversation": "quest/036/BanPix108_03696",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "" },
-    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "" }
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_SEQ_00", "hash": "1ABC9FC53416F7CF", "target": "Uin Nee nunca se cansa de inventar novas tarefas para <if(gnum4,sua mortal favorita,seu mortal favorito)>.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_00", "hash": "5803D4C40E2834CB", "target": "Obter tufos de malva em miniatura perto de Lyhe Ghiah" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_TODO_01", "hash": "61103325148AAB04", "target": "Entregar os tufos de malva em miniatura a Uin Nee" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_000", "hash": "4C689D6925CFE9FE", "target": "Ah, olá, <split(<string(gstr1)>, ,1)>! Mudando completamente de assunto, já foi a Lyhe Ghiah? É um lugar maravilhoso, com um castelo magnífico e lindas bolas de malva fofinha, que flutuam para cima e para baixo, para lá e para cá, na brisa suave." },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_001", "hash": "8569E56D00241737", "target": "Bem, eu estava pensando no que fazer para deixar os sonhos das crianças ainda mais doces, quando a ideia me atingiu com toda a força de uma bola gigante de fofura! Eu poderia enchê-los de malva fofa e felpuda! Não seria o sonho mais encantador de todos? Claro que seria!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_002", "hash": "BD8B4F61F9DCF448", "target": "Mas, para isso, vou precisar de tufos de malva, e não posso abandonar minhas tarefas de tecer sonhos para voar até Lyhe Ghiah! Afinal, o que as crianças fariam sem mim? Ainda bem que você veio oferecer ajuda! <italic(1)>Foi<italic(0)> para isso que veio, não foi?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_010", "hash": "E057326D73696C70", "target": "Você voltou! São tufos de malva saindo do seu bolso ou só ficou feliz de me ver? Ou as duas coisas? Com certeza as duas, não é?" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_011", "hash": "CD3CEE57B9AEAF43", "target": "Eu sabia que podia contar com você. E veja só estes tufinhos fofos! Podem não parecer grande coisa agora, mas, depois de um toque da minha magia, vão virar bolas de uma fofura fantástica, mais macias que a lã da ovelha mais lanuda!" },
+    { "gameKey": "quest/036/BanPix108_03696#TEXT_BANPIX108_03696_UINNEE_000_012", "hash": "D91A68B1F1C5B6DA", "target": "Sim, meus sonhadores vão adorar flutuar pelo céu em nuvens enormes de malva! Ora, até eu gostaria de experimentar! Não que haja algo de errado em voar com as boas e velhas asas, é claro. É só que bater asas sem parar cansa de vez em quando. \\<bocejo> Acho que mereço descansar!" }
   ]
 }

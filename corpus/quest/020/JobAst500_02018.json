@@ -2,16 +2,16 @@
   "conversation": "quest/020/JobAst500_02018",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_00", "hash": "D0E8F5ACD5ACD799", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_01", "hash": "7D8BE535B8AC92C0", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_02", "hash": "C6694188FE6984B9", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_TODO_00", "hash": "FC8A7ABC21F43FA6", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_000", "hash": "DAC54069BE028A08", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_001", "hash": "9EC36920A7211B2B", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_009", "hash": "C42C19B152019485", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_010", "hash": "4C443AB80470316C", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_011", "hash": "F3B4E99F6E02B9B6", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_012", "hash": "D87086394068B802", "target": "" },
-    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_013", "hash": "9B590D774CF80D6C", "target": "" }
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_00", "hash": "D0E8F5ACD5ACD799", "target": "Jannequinard está prestes a explodir de empolgação. Se fizer o visconde esperar mais, certamente haverá uma falha de vestuário." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_01", "hash": "7D8BE535B8AC92C0", "target": "Jannequinard acredita que você pode abrir o portal do sexto céu. Porém, essa decisão não cabe a ele. Fale com Leveva no segundo andar do Athenaeum Astrologicum e descubra o que ela pensa." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_SEQ_02", "hash": "C6694188FE6984B9", "target": "Leveva também acredita que você pode abrir o sexto portal, mas, antes de prosseguir, explica o conceito de Synastry e os benefícios que pode trazer aos seus aliados em combate." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_TODO_00", "hash": "FC8A7ABC21F43FA6", "target": "Falar com Leveva no segundo andar" },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_000", "hash": "DAC54069BE028A08", "target": "Lady Leveva me diz que você está quase no ponto de abrir o sexto e último portal. Sim, eu disse último. Todos sabemos que há sete céus, mas é impossível abrir o sétimo... bem, exceto ao morrer, é claro. Tentar entrar em sintonia com a estrela polar seria pura loucura e certamente significaria sua ruína. Ah, mas olhe só para mim. Ainda tentando ensinar <if(gnum4,a grande,o grande)> <split(<string(gstr1)>, ,1)>, quando é óbvio que seu talento supera muito o meu. Perdoe-me." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_001", "hash": "9EC36920A7211B2B", "target": "Lady Leveva ainda não partiu para o local do último portal. Sem dúvida teme outro ataque de bandidos, mas, seja qual for o motivo, continua no segundo andar e pediu que você a visite assim que puder." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_009", "hash": "C42C19B152019485", "target": "Lady Leveva só está no segundo andar porque se recusa a aceitar o quarto que ofereci na Mansão Durendaire. Como se eu fosse tentar alguma indecência contra sua honra. Ela viveu metade dos meus verões, é jovem demais para meu gosto." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_010", "hash": "4C443AB80470316C", "target": "Você progrediu muito desde aquele dia fatídico em que nossos caminhos se cruzaram na Mortalha Negra. E agora estamos prestes a fazer você entrar em sintonia com o sexto céu. O tempo realmente não espera por ninguém, não é?" },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_011", "hash": "F3B4E99F6E02B9B6", "target": "Antes de partirmos para essa tarefa, quero ensinar uma técnica chamada “Synastry”." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_012", "hash": "D87086394068B802", "target": "Ao unir temporariamente seu destino ao de um companheiro, ele receberá os benefícios das estrelas assim como você." },
+    { "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_LEVEVA_000_013", "hash": "9B590D774CF80D6C", "target": "Como <if(gnum4,uma astróloga,um astrólogo)> de competência razoável, você já tem controle suficiente sobre o éter. Basta concentrá-lo em estabelecer um vínculo com o aliado escolhido para realizar Synastry." }
   ]
 }

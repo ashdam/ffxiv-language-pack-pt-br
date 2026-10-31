@@ -2,16 +2,16 @@
   "conversation": "quest/003/SubSea102_00399",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_3", "hash": "EFB7B7E574809F6F", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_11", "hash": "0D40504B6FEF64C7", "target": "" },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_12", "hash": "74A0A07AF2E2744F", "target": "" }
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "W'dhovaka, operadora do Skylift, procura alguém para ajudar com seus problemas com os megalocrabs." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "Cada envelope de balão danificado reduz a quantidade de carga que o Skylift pode transportar. Abata cinco megalocrabs e ajude a manter as caixas em movimento." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "Você abateu os megalocrabs. Volte ao Skylift e apresente-se a W'dhovaka." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "Graças aos seus esforços para quebrar carapaças, os envelopes dos balões estão a salvo dos megalocrabs saqueadores por algum tempo. No entanto, com a demanda por transporte de cargas sempre aumentando, parece necessária uma solução mais permanente." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "Abater megalocrabs" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "Apresentar-se a W'dhovaka no Skylift" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "Ah, pelo amor de Llymlaen, de novo não! O couro tá todo esfarrrapado! Hm? Não, minha calça não tem nada de errado, <if(gnum4,sua descarada,seu descarado)>." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "São os megalocrabs. Eles atacaram os envelopes de balão que deixei secando nas pedras. Aqueles malditos alicates acham que encontraram uma lula ou sei lá o quê e começam a mordiscar." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_3", "hash": "EFB7B7E574809F6F", "target": "Menos balões no ar significa menos carga subindo, e isso não me agrada nem um pouco. Tá procurando um trabalho rápido? Que tal quebrar umas carapaças antes de seguir viagem? Se der cabo de uns cinco desses desgraçados, deve bastar por enquanto." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_11", "hash": "0D40504B6FEF64C7", "target": "Deu um jeito naqueles alicates? Já foram tarde, malditos! Bom trabalho, <if(gnum4,moça,rapaz)>." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_12", "hash": "74A0A07AF2E2744F", "target": "Mesmo assim, não vai demorar pra outro bando de caranguejos chegar de lado e tomar aquele território. E nossas cargas só ficam mais pesadas com toda essa reconstrução. Se não quiser acabar soterrada numa montanha de caixas, é melhor pensar numa solução mais duradoura pra esse problema dos alicates." }
   ]
 }

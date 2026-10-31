@@ -2,19 +2,19 @@
   "conversation": "opening/OpeningLimsaLominsa",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02", "hash": "D29A2A57780A9627", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07", "hash": "031C152B34D88CF9", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09", "hash": "CD2DE8147D121910", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11", "hash": "15E2E2F66D262735", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13", "hash": "654C77E28B1FF222", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20", "hash": "7301DB1059B8F22E", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21", "hash": "330583F2A2C7F574", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22", "hash": "8B3396812D33CB6F", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23", "hash": "A924D73486A86F92", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01", "hash": "FB166CC1B9AD9A73", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01", "hash": "8AB8A11F0EDC951B", "target": "" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02", "hash": "78B11AB514B42682", "target": "" }
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02", "hash": "D29A2A57780A9627", "target": "Ei, aonde diabos você pensa que vai!? Eu mandei você vir aqui!" },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "Pare aí, <if(gnum4,aventureira,aventureiro)>. Se está procurando Baderon e Drowning Wench, é melhor falar com Grehfarr." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "Já foi longe demais, <if(gnum4,moça,rapaz)>. Se quer se aventurar em Limsa Lominsa, e sobreviver ao primeiro dia, recomendo que vá a Wench e fale primeiro com Baderon." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07", "hash": "031C152B34D88CF9", "target": "Já se inscreveu na Guilda dos Aventureiros? Imaginei que não. Dê meia-volta e vá até o Elevador do Corvo. Baderon vai querer falar com você." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09", "hash": "CD2DE8147D121910", "target": "Não quero ser grosseira, <if(gnum4,moça,moço)>, mas reconheço quem está começando a se aventurar. Pode acreditar, é melhor conversar com o pessoal daqui antes de sair pela cidade feito cria de fazendeiro deslumbrada." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11", "hash": "15E2E2F66D262735", "target": "Espera aí, <if(gnum4,moça,rapaz)>. Antes de sair por essa porta e cair na emboscada de algum pilantra, procure ouvir a sabedoria de Wench, tanto do dono quanto dos fregueses." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13", "hash": "654C77E28B1FF222", "target": "Não acha um pouco cedo para ir embora? Ou já ouviu tudo o que aquele sujeito suspeito atrás do balcão tinha a dizer? Nesse caso, deve saber que é de bom-tom dedicar um momento a quem precisa, como a moça Lalafell naquela mesa que está olhando para você." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20", "hash": "7301DB1059B8F22E", "target": "Boas-vindas a Limsa Lominsa, uma cidade<-->estado movimentada, cheia de patifes e bandidos, o diamante bruto do Mar de Rhotano." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21", "hash": "330583F2A2C7F574", "target": "Siga as instruções para mover seu personagem e ajustar a posição da câmera." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22", "hash": "8B3396812D33CB6F", "target": "Quando quiser prosseguir, fale com Ryssfloh." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23", "hash": "A924D73486A86F92", "target": "Selecione o esquema de controle que deseja usar." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01", "hash": "FB166CC1B9AD9A73", "target": "Selecione um esquema de controle." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01", "hash": "8AB8A11F0EDC951B", "target": "Mouse/teclado." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02", "hash": "78B11AB514B42682", "target": "<if([gnum75>1],Controle,Gamepad)>." }
   ]
 }

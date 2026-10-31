@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea065_00477",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_00", "hash": "E9FF6DDA873437C0", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_01", "hash": "E28BC3D0207B6C54", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_0", "hash": "B6E4752D90262878", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_1", "hash": "806FC0263D960C87", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_2", "hash": "93F23CA79F6B7F37", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_3", "hash": "F73148D130E2E7E5", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_10", "hash": "BB881B4C3B0DBC82", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_11", "hash": "67CB9A9078832D06", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_12", "hash": "59CC555CB306C85A", "target": "" },
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_13", "hash": "57C21E594BE95EE3", "target": "" }
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "Weitzaren, moleiro-chefe de Grey Fleet, precisa da ajuda de <if(gnum4,uma aventureira capaz,um aventureiro capaz)>." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "Weitzaren pede que você se vingue dos galagos que roubaram seus grãos moídos e recupere os sacos de farinha que levaram." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "Você puniu prontamente os galagos ladrões. Leve a farinha recuperada a Skarnmhar na Fazenda do Galo Vermelho." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "Skarnmhar agradece sua ajuda, mas lamenta que a fazenda não contrate guardas e que ele precise contar com a bondade de aventureiros quando as coisas dão errado." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_00", "hash": "E9FF6DDA873437C0", "target": "Derrotar os galagos e recuperar os sacos de farinha" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_TODO_01", "hash": "E28BC3D0207B6C54", "target": "Entregar os sacos de farinha a Skarnmhar" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_0", "hash": "B6E4752D90262878", "target": "Fazer feltro é muito bom para um moleiro qualquer, mas sabe o que faz minha mó girar? Grãos!" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_1", "hash": "806FC0263D960C87", "target": "Quanto vale o trigo? Nada! Mas, depois de moído em farinha fabulosa, nem os malditos galagos conseguem ficar longe dele." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_2", "hash": "93F23CA79F6B7F37", "target": "E é precisamente por isso que preciso que você os abata e recupere os quatro sacos que furtaram!" },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_WEITZAREN_000_3", "hash": "F73148D130E2E7E5", "target": "Depois disso, leve os sacos de farinha à Fazenda, e Skarnmhar cuidará do resto." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_10", "hash": "BB881B4C3B0DBC82", "target": "Todos os ovos e todo o leite do mundo não valem nada sem farinha." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_11", "hash": "67CB9A9078832D06", "target": "Não que a farinha seja grande coisa sozinha, veja bem. Os galagos só acumulam tudo o que conseguem pegar com aquelas patas imundas." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_12", "hash": "59CC555CB306C85A", "target": "Mas agora temos o conjunto completo, graças a você." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SKARNMHAR_000_13", "hash": "57C21E594BE95EE3", "target": "É um alívio você estar por perto, mas, no fim das contas, continuamos totalmente despreparados caso isso aconteça de novo." }
   ]
 }

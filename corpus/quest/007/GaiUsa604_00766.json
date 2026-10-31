@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa604_00766",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "" }
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_00", "hash": "340384AF0EF37431", "target": "Balan, dos Lamentadores da Mata no Moinho da Pedreira, procura alguém que se aventure a ajudá-lo a acertar as contas com alguns caçadores ilegais." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_01", "hash": "4AC556C350331945", "target": "As armadilhas de caça espalhadas pelos caçadores ilegais nas matas próximas representam um grande perigo para a fauna local e os viajantes desprevenidos. Desarme as iron leg traps e enfrente os caçadores ilegais que encontrar." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_02", "hash": "355CD78AED85D11B", "target": "Você cuidou tanto das armadilhas quanto dos caçadores ilegais. Conte seus feitos a Balan." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_SEQ_03", "hash": "B1D4C53A45F81BE3", "target": "As armadilhas dos caçadores ilegais estão cada vez mais numerosas e mortais. Balan está convencido de que o líder do bando, o autoproclamado Rei das Garras de Coeurl, é o responsável." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_00", "hash": "D778694AED930386", "target": "Desarmar iron leg traps" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GAIUSA604_00766_TODO_01", "hash": "C6AED7A94947FA80", "target": "Apresentar-se a Balan" },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_000", "hash": "CA03ECB6FA59298F", "target": "Saudações. Talvez você já tenha ouvido falar, mas estas florestas são vítimas de um bando de caçadores ilegais. Eles cobrem o chão de armadilhas traiçoeiras, sem se importar nem um pouco com os inocentes, tanto pequenos animais quanto viajantes, presos em suas garras cruéis." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_001", "hash": "3ABD86EDD0E9AAE7", "target": "Sou proibido de abandonar meu posto, mas talvez você possa vasculhar a área e dar um jeito nas horrendas mandíbulas de aço que encontrar. Tome cuidado, os próprios caçadores ilegais podem estar de tocaia, esperando a presa." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_BALAN_000_010", "hash": "24077CDF74643CE2", "target": "Você fez um bom trabalho hoje, <if(gnum4,amiga,amigo)>. Ainda assim, com aquele autoproclamado “Rei das Garras de Coeurl” comandando a operação, os caçadores ilegais não devem ceder facilmente. Não, precisamos ficar mais vigilantes do que nunca." },
+    { "gameKey": "quest/007/GaiUsa604_00766#TEXT_GaiUsa604_00766_POP_MESSAGE_000", "hash": "12160843DF567417", "target": "Uma figura furtiva salta das sombras!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz520_01855",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "" }
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_00", "hash": "251352CFEB9FDE5C", "target": "Este malingering moogle parece completamente exausto." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_01", "hash": "A35E6EE613A819A2", "target": "Este moogle aflito foi cercado por uma multidão de dragonets curiosos. Abata quatro deles para dar um pouco de sossego ao moogle." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_02", "hash": "68A5242E10705D80", "target": "Você abateu os dragonets, garantindo que não vão mais morder os calcanhares do moogle. Informe o malingering moogle do que fez." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_SEQ_03", "hash": "11EC7B183E7BACD2", "target": "O malingering moogle fica aliviado por finalmente poder parar de correr. Por mais que goste da atenção, não se deve subestimar os animais selvagens, especialmente em grandes números." },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_00", "hash": "056A558E1724B264", "target": "Abater dragonets" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_TODO_01", "hash": "010E2D1324184619", "target": "Apresentar-se ao malingering moogle" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_000", "hash": "073A7ECAD3304357", "target": "Não aguento muito mais, kupo... Passei o dia batendo as asas sem parar para escapar desses dragonets irritantes. Eles parecem fascinados pelos moogles e não param de me seguir!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_001", "hash": "210D58ECD6FAB607", "target": "Eles só aumentam em número. Agora não há escolha a não ser diminuir um pouco a multidão. Se você desse uma boa surra nos filhotes de dragão, eles aprenderiam a não importunar um pobre moogle, kupo!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_010", "hash": "411CE259782EAED6", "target": "Não vou conseguir voar mais depressa que eles por muito tempo. Espante-os por mim!" },
+    { "gameKey": "quest/018/HeaVnz520_01855#TEXT_HEAVNZ520_01855_GUIDEMOG01855_000_020", "hash": "7814BB960B0250AE", "target": "Finalmente as pestes pararam de me incomodar! Talvez os dragonets não sejam tão atrevidos da próxima vez. Por mais fofos que os moogles sejam, e nós <italic(1)>somos<italic(0)> fofos, isso não dá aos animais selvagens o direito de nos cercar como um pedaço de carne, kupo!" }
   ]
 }

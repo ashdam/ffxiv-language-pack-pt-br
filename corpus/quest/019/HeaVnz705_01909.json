@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz705_01909",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "" },
-    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "" }
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_00", "hash": "E8C152F7482DE691", "target": "Ganu Vali olha ao redor com nervosismo e olhos vermelhos." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_01", "hash": "955A698C1E9AEA1A", "target": "Ganu Vali não consegue pregar o olho por causa dos insetos que zumbem por Ok' Zundu. Pede que você colete três tufos de erva-papa-insetos para controlar a população de insetos e, com sorte, lhe proporcionar o descanso de que tanto precisa." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_02", "hash": "78000C5B323AF697", "target": "Você coleta a erva-papa-insetos, que parece ansiosa para engolir o máximo de insetos que puder. Entregue a planta a Ganu Vali antes que desabe de exaustão." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_SEQ_03", "hash": "8A2357FA77AC8087", "target": "Você entrega as plantas carnívoras a Ganu Vali, que parece recobrar o juízo. A tribo Zundu preza a harmonia com a natureza em tudo, e alimentar a erva-papa-insetos resolve dois problemas de uma vez." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_00", "hash": "D00C9728EBC912F7", "target": "Coletar erva-papa-insetos nos locais indicados" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_TODO_01", "hash": "087CD2E59ED380CB", "target": "Entregar a erva-papa-insetos a Ganu Vali" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_000", "hash": "CD30C5F2B0D7E0C1", "target": "Ganu Vali não escapa de tempestade sem fim de insetos zumbindo, e deseja sono mais que chuva na seca de verão. Ganu Vali tem ideia para calar zumbido, mas exaustão faz delirar. <if(gnum4,A de baixo,O de baixo)> vai no lugar de Ganu Vali?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_001", "hash": "C1988A27DC49557A", "target": "A leste cresce erva-papa-insetos, que devora insetos como filhotes Vanu devoram carne de wamouracampa. <if(gnum4,A de baixo,O de baixo)> traz três para Ganu Vali, e tempestade nos ouvidos vira garoa fraca." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_010", "hash": "C025D7C9F7285185", "target": "Ganu Vali busca silêncio como o de noite de céu limpo. <if(gnum4,A de baixo,O de baixo)> traz erva-papa-insetos para acalmar tempestade de insetos zumbindo." },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_020", "hash": "FB9104113447AA29", "target": "Noites sem sono fazem mente de Ganu Vali virar redemoinho de névoa. <if(gnum4,A de baixo,O de baixo)> traz plantas que Ganu Vali procura?" },
+    { "gameKey": "quest/019/HeaVnz705_01909#TEXT_HEAVNZ705_01909_GANUVALI_000_021", "hash": "E27FD584CADD74FE", "target": "<if(gnum4,A de baixo,O de baixo)> traz descanso enfim. Problemas de Ganu Vali viram alimento para erva-papa-insetos, e grande roda da natureza gira sem obstáculos." }
   ]
 }

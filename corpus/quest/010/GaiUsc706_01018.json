@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc706_01018",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "" },
-    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "" }
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_00", "hash": "E6F02D2ACC16CEB7", "target": "F'majha está com uma expressão triste." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_01", "hash": "9483E133DA1B7F30", "target": "F'majha lamenta a perda dos companheiros das Andorinhas Vermelhas que não voltaram da missão. Vá ao campo de batalha e recupere as plaquetas dos corpos para que ela possa lhes prestar uma pequena homenagem." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_02", "hash": "8BC796661C62F6A2", "target": "Você recuperou as plaquetas dos corpos das Andorinhas caídas. Leve-as a F'majha." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_SEQ_03", "hash": "778D0A14556A5CCA", "target": "As lágrimas de F'majha correm livremente quando ela pega as lembranças dos companheiros mortos. Secando os olhos, ela jura lutar para que o sacrifício deles não seja em vão." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_00", "hash": "54629CCCF1A41EC0", "target": "Recuperar as plaquetas dos mortos" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_TODO_01", "hash": "6840C8721CE85497", "target": "Entregar as plaquetas a F'majha" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_000", "hash": "653FEB96D6E37243", "target": "É... Enfrentamos o perigo juntos incontáveis vezes, desde os tempos de pirataria. Isso até a última missão, quando nós cinco saímos juntos e só eu voltei..." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_001", "hash": "1A6FA32DE9B322B7", "target": "Não sou tola a ponto de ter esperança de que meus companheiros ainda vivam, mas não ter nem um fiapo de pano pra lembrar deles dói como um sabre na barriga. Pode ir ao campo de batalha e trazer uma lembrança dos meus irmãos caídos?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_010", "hash": "6DF107ECB5070CBA", "target": "Voltou, foi? Encontrou alguma coisa dos meus companheiros mortos?" },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_020", "hash": "4460E394EF291729", "target": "\\<fungada> \\<soluço> Eu... Sei que não teria feito diferença, mas só queria ter estado com eles no fim." },
+    { "gameKey": "quest/010/GaiUsc706_01018#TEXT_GAIUSC706_01018_FMAJHA_000_021", "hash": "3293BDC2F57F0108", "target": "...Mas qualquer lágrima que eu derrame é pouco mais que uma gota no oceano. Preciso continuar a luta deles e garantir que seu sacrifício não tenha sido em vão." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi006_03542",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_SEQ_00", "hash": "2B6B1EE0DB2EE9C8", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_00", "hash": "2343C3A6CC1EF813", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_01", "hash": "BB065ECC49BBAE34", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_000", "hash": "E57B59FC5C7ADE61", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_001", "hash": "9B81313A37B9322E", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_002", "hash": "108732307384AE32", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_005", "hash": "42E6904B2D36FF56", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_010", "hash": "338C227E9B7D8860", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_011", "hash": "0192E5442DBBE032", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_012", "hash": "5808C8ABA0F37637", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_013", "hash": "B824F0BA3C5A358F", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_014", "hash": "C4125ECFDB06DB12", "target": "" },
-    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_015", "hash": "962A3A25B5B07B21", "target": "" }
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_SEQ_00", "hash": "2B6B1EE0DB2EE9C8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bie-Zumm observa você com um olhar avaliador." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_00", "hash": "2343C3A6CC1EF813", "target": "Obter asas de cliffkite abatendo cliffkites" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_TODO_01", "hash": "BB065ECC49BBAE34", "target": "Entregar as asas de cliffkite a Bie-Zumm" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_000", "hash": "E57B59FC5C7ADE61", "target": "...Dizem que Ladder voltou a funcionar graças a você, que é <if(gnum4,uma mulher,um homem)> que faz as coisas acontecerem." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_001", "hash": "9B81313A37B9322E", "target": "Bem, tenho um serviço que ninguém mais por aqui parece capaz de fazer. Só quero alguns espigões de cristal das asas daqueles cliffkites, e não aqueles velhos e quebrados que alguém catou do chão!" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_002", "hash": "108732307384AE32", "target": "Se conseguir me trazer algumas asas com os espigões intactos, vou pagar o que valem." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_005", "hash": "42E6904B2D36FF56", "target": "Quer ganhar umas moedas? É só trazer algumas asas de cliffkite com os cristais ainda presos." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_010", "hash": "338C227E9B7D8860", "target": "Certo, o que trouxe para mim?" },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_011", "hash": "0192E5442DBBE032", "target": "Hmmm. Bom comprimento... Sem rachaduras nem lascas... Sim, vão dar pontas de lança perfeitas." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_012", "hash": "5808C8ABA0F37637", "target": "Como já deve ter ouvido, Amity foi construída originalmente como um lugar neutro para negociar com os clãs de anões. As casas não eram para morar, só um lugar para dormir enquanto se cuidava dos negócios." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_013", "hash": "B824F0BA3C5A358F", "target": "Mas, depois que essas relações azedaram, a povoação logo se esvaziou... e exilados como nós vieram morar aqui." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_014", "hash": "C4125ECFDB06DB12", "target": "Pelo que dizem, Amity prosperava até poucos anos atrás. Mas agora, em vez de gente pelas estradas, temos hobgoblins e coisa pior. Foi por isso que quis fazer lanças, sabe? Para proteção." },
+    { "gameKey": "quest/035/LucKzi006_03542#TEXT_LUCKZI006_03542_BIEZUMM_000_015", "hash": "962A3A25B5B07B21", "target": "Bem, falei um pouco mais do que pretendia, mas um pouco de história nunca fez mal a ninguém, hein? Está bem, está bem, pegue seu pagamento e pode ir." }
   ]
 }

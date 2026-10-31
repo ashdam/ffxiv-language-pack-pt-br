@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz103_02653",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "" },
-    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "" }
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_SEQ_00", "hash": "54176F8CEF55D786", "target": "Gerbert tem um problema com roedores." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_00", "hash": "F73320C144696967", "target": "Usar o líquido marrom nos locais indicados e eliminar os robber rats que atacarem" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_TODO_01", "hash": "1ADA495AC0E1167B", "target": "Relatar o ocorrido a Gerbert" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_000", "hash": "C7E2111FA6F58A8C", "target": "Bem, você não <italic(1)>parece<italic(0)> <if(gnum4,garleana,garleano)>... Se eu estiver certo, pode me ajudar a resolver um probleminha com pragas?" },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_001", "hash": "8CADE606F7B2DBDA", "target": "Desde que o Império proibiu a prática de todas as religiões, não posso mais rezar na Lágrima Oculta. Por isso, decidi criar um lugar a sudoeste onde pudesse prantear os mortos em segredo." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_002", "hash": "9A42EE74A6574268", "target": "O problema é que, sempre que deixo oferendas de comida para os falecidos, aqueles malditos robber rats devoram tudo. Foi por isso que criei isto." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_003", "hash": "75504D7F66C38BEC", "target": "Basta uma cheirada e essas pragas vão embora. Mas fique de olho─alguns dos ratos mais agressivos podem atacar você em vez de fugir." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_010", "hash": "FCAB368487588081", "target": "Basta uma cheirada nesse líquido e essas pragas vão embora. Mas fique de olho─alguns dos ratos mais agressivos podem atacar você em vez de fugir." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_020", "hash": "B087E3CF690E666F", "target": "Os ratos foram todos embora? Ótima notícia. Agora posso voltar a falar com meu filho." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_021", "hash": "240291A068180EBE", "target": "Perdi meu menino num acidente na pedreira há algum tempo. Ele me tirou do caminho quando um monte de pedras caiu de repente sobre nós. Ficou soterrado tão fundo que nunca encontramos o corpo..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_022", "hash": "C7FFCFE9C63A8344", "target": "Não suportava a ideia de que ele fosse esquecido, então construí um túmulo para ele. Fica perto do lugar onde aconteceu o acidente." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_023", "hash": "B04091958E07C965", "target": "Não passa um dia sem que eu deseje que ele tivesse salvado a si mesmo. Ainda tinha a vida toda pela frente..." },
+    { "gameKey": "quest/026/StmBdz103_02653#TEXT_STMBDZ103_02653_GERBERT_000_024", "hash": "E9F5E9F66C67ED26", "target": "Obrigado por toda a ajuda. É um consolo saber que ainda posso falar com meu filho de vez em quando." }
   ]
 }

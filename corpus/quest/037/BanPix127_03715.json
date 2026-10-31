@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix127_03715",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "" },
-    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "" }
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_SEQ_00", "hash": "57D25982D65FB4A0", "target": "Uin Nee tenta compreender o conceito de balanço.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_00", "hash": "CF8FD3E599C7DD27", "target": "Abater fibrous psammeads no local indicado e obter seda de psammead" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_TODO_01", "hash": "F05207A298F3C64A", "target": "Entregar a seda de psammead a Uin Nee" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_000", "hash": "7DB3035785D3CC21", "target": "Nada me faz sentir tanta pena de vocês quanto os balanços. Afinal, quem precisa de uma geringonça boba daquelas quando pode voar?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_001", "hash": "090C147F4EBBD071", "target": "Mas vocês... vocês precisam amarrar um pedaço de madeira num galho e torcer para ele não quebrar, derrubando vocês no chão e matando na hora! Tudo para subir cada vez mais e sentir que estão prestes a voar. Mas não vão! É deprimente, isso sim." },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_002", "hash": "2D7C234B00E4E15B", "target": "Mas as crianças parecem gostar. E, se querem uma triste imitação de voo, quem sou eu para recusar? Enfim, tenho uma árvore e este pedaço de madeira que peguei do chão. Então praticamente já construí tudo!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_003", "hash": "7E0F75CCDDCEB4C1", "target": "Só falta corda! Corda forte, de preferência. Morrer numa queda não tem graça nenhuma, mesmo que <italic(1)>seja<italic(0)> num sonho. Pode me trazer aquela seda resistente de psammead que todo mundo elogia? Por favorzinho?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_004", "hash": "1E95D06A5640C839", "target": "As mães psammead, grandes e malvadas, têm a seda mais forte. Elas relutam em sair do esconderijo, mas, por sorte, vêm correndo se você atacar as menores!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_010", "hash": "1165231627F9D52F", "target": "Como estão as psammeads? Ainda rastejantes e perturbadoras?" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_011", "hash": "57CC22F4D033D411", "target": "Ah, sim! Deve ser mais do que resistente o bastante. Claro, vou ter que enganar uns mortais adultos para testar primeiro. Não quero pôr as crianças em risco! Depois de tecer o balanço direitinho no sonho, talvez eu mesma experimente!" },
+    { "gameKey": "quest/037/BanPix127_03715#TEXT_BANPIX127_03715_UINNEE_000_012", "hash": "8CEF6CE501D055A5", "target": "Admito que a ideia de balançar suavemente é reconfortante. Para lá e para cá, para lá e para cá... Se fechar os olhos, quase consigo me lembrar..." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz316_01808",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "" }
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_00", "hash": "475558EF450F8972", "target": "O Vath fleetfoot olha para o chão, com uma expressão de clara preocupação." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_01", "hash": "8E3B5B1BBAC81548", "target": "Batedores Vath informaram ao Vath fleetfoot que os Gnath estão reunindo suprimentos em Smoldering Wastes para criar uma base de onde atacar Loth ast Vath. Na tentativa de impedir esses ataques, ele lhe entrega uma pedra de pederneira e pede que você encontre e destrua os suprimentos." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_02", "hash": "BEB74491B22A5E3F", "target": "Você encontra o equipamento de guerra e ateia fogo nele. Informe o fleetfoot do seu sucesso." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_SEQ_03", "hash": "CE87E60469F2BC35", "target": "A destruição do equipamento de guerra da colmeia Gnath traz alívio ao fleetfoot. Os Gnath levarão algum tempo para se recuperar, dando aos Vath a chance de reforçar suas defesas." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_00", "hash": "15582327E887367F", "target": "Usar a pedra de pederneira para queimar os suprimentos Gnath" },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_TODO_01", "hash": "62FE08E22A4AC2E6", "target": "Apresentar um relatório ao Vath fleetfoot" },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_000", "hash": "B6C050B3B6B976C7", "target": "Recebemos notícias de um dos nossos batedores há pouco. Os Gnath estão reunindo suprimentos em Smoldering Wastes. Pretendem lançar incursões contra nós a partir de lá. Isso nos coloca em perigo. Precisamos da sua ajuda, <if(gnum4,caçadora,caçador)>." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_001", "hash": "0FF0F30DF01E3C60", "target": "Pegue esta pedra de pederneira e encontre as carroças de suprimentos deles, em algum lugar entre aqui e a colmeia Gnath. Ateie fogo nelas. Reduza os suprimentos a cinzas. Não é uma tarefa fácil, mas você já demonstrou ser capaz." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_010", "hash": "1CC8A43C94C9E547", "target": "Encontre as carroças de suprimentos Gnath em Smoldering Wastes e reduza-as a cinzas." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_030", "hash": "DBA1DE7D57824D0C", "target": "Você não decepciona, <if(gnum4,caçadora,caçador)>. Ficamos felizes de ver que voltou sem se ferir." },
+    { "gameKey": "quest/018/HeaVnz316_01808#TEXT_HEAVNZ316_01808_IDATEN_000_031", "hash": "134620B0DEAEB3A5", "target": "Não temos como agradecer o suficiente. Com essa base destruída, devemos ficar a salvo de ataques por algum tempo. Devemos aproveitar a oportunidade para reforçar nossas defesas." }
   ]
 }

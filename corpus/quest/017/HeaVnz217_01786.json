@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz217_01786",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "" },
-    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "" }
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_00", "hash": "B045EF81CE8CDB48", "target": "Cibleroit olha para você com fome." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_01", "hash": "88BDEFA0B11C537E", "target": "Cibleroit está com vontade de comer ovos de nanka, e você precisa ajudá-lo a saciar essa fome. Recolha cinco ovos de um ninki nanka no rio próximo e leve-os a ele." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_02", "hash": "C8E1960D053A8020", "target": "Você reuniu a desova pegajosa e gosmenta de nanka. Livre-se dela o mais rápido possível, entregando-a a Cibleroit." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_SEQ_03", "hash": "EBFA790005584E7D", "target": "Cibleroit fica radiante ao receber os ovos. Hungerer, porém, os acha nojentos. Ao contrário dos Gnath da Mente Una, as diferenças de opinião, e tudo o que elas acarretam, parecem ser uma característica exclusiva dos Sem-Mente." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_00", "hash": "E23E2F8ABD39DE58", "target": "Eliminar um ninki nanka e obter seus ovos" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_TODO_01", "hash": "1EB582BEF3620C64", "target": "Entregar os ovos a Cibleroit" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_000", "hash": "ACA4B5741533D9DB", "target": "<if(gnum4,Caçadora generosa,Caçador generoso)>, gostaríamos de lhe pedir uma coisa. Não é um trabalho difícil." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_001", "hash": "6B51DBB6A1C90EBA", "target": "Precisamos de ovos de nanka. Cinco deliciosos ovos de nanka. \\<clique> \\<clique> Elimine um ninki nanka e recolha seus deliciosos ovos para nós." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_010", "hash": "54E9DCC2F27BAF32", "target": "Trouxe os ovos? Cinco suculentos ovos de nanka?" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_002", "hash": "A3EC5057E2ED0C4B", "target": "Ficamos pensando: você nunca se cansa de ovos de nanka, Cibleroit?" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_030", "hash": "45723DD436E7BAC1", "target": "Trouxe os ovos de nanka? \\<clique> \\<clique> Ovos de nanka saborosos e suculentos... \\<clique> \\<clique> \\<clique>" },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_031", "hash": "B04297EF655D1B4A", "target": "\\<clique> \\<clique> Sssim. Agradecemos por estes ovos. A textura é irresistível. Poderíamos comer mil deles... mas cinco bastam por enquanto." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_UMASOU_000_032", "hash": "C32006BB75373365", "target": "Não entendemos seu gosto por ovos de nanka. São nojentos. \\<clique> \\<clique> Você tem mau gosto." },
+    { "gameKey": "quest/017/HeaVnz217_01786#TEXT_HEAVNZ217_01786_CIBLEROIT_000_033", "hash": "BB0439A76EC39D02", "target": "Não entendemos sua aversão aos ovos de nanka. Mas é isso que significa fazer parte dos Sem-Mente." }
   ]
 }

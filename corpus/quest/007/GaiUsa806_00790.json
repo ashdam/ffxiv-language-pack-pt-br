@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa806_00790",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "" }
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_00", "hash": "215983BADCCBBECD", "target": "Oriane, da Torre de Florentel, está preocupada com as árvores." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_01", "hash": "F508A08B3EB55A3A", "target": "Oriane e seus companheiros Lamentadores da Mata precisam concentrar seus recursos em conter os ataques dos Ixal e não podem cuidar das pragas que devastam a flora da Mata dos Doze. Despeje cerveja sem gás sobre as scarred trees para atrair as criaturas e mate-as." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_02", "hash": "57D94E851F0B0108", "target": "Essas devoradoras de folhas e cascas de árvore não voltarão a se fartar com a flora local. Informe seu sucesso a Oriane." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_SEQ_03", "hash": "AB2BB4967959CC70", "target": "Oriane agradece por seus esforços. Ela está decidida a proteger a Mata dos Doze em honra à memória de Florentel, o herói lendário que dá nome à torre." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_00", "hash": "53F64E05CE83C090", "target": "Despejar cerveja sem gás sobre as scarred trees e matar Shroud hares" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_TODO_01", "hash": "CDA777191FF45E3D", "target": "Informar Oriane" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_000", "hash": "19F2F6F9BA3D10A4", "target": "Como Lamentadora da Mata, jurei proteger minha nação dos Ixal. Mas, como gridaniana, me dói ver as árvores ao meu redor definharem e morrerem enquanto estamos lutando." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_001", "hash": "4E9B6AEDF4552193", "target": "As Shroud hares estão cada vez mais destrutivas, roendo árvores e arrancando arbustos do chão. Mas não podemos pedir que os homens-pássaro abaixem as lanças enquanto caçamos lesmas gigantes, não é?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_002", "hash": "40ECBE7DAA075200", "target": "...Por isso recorro a você. Despeje esta cerveja de uma semana sobre as scarred trees, e as culpadas devem aparecer logo. Você dará um grande alívio à floresta se puder eliminá-las." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_020", "hash": "29BF16B9D81BE98D", "target": "Obrigada. Agora posso combater os Ixal de consciência tranquila, sabendo que há pessoas como você do lado da floresta." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_021", "hash": "2B8351ED2984A3C5", "target": "Florentel, que dá nome a esta torre, foi um dos maiores heróis da época da fundação de Gridania. Só seu amor pela floresta superava seus feitos de guerra." },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_ORIANE_000_022", "hash": "DF3C9767404CBFF7", "target": "...E seu amor por Eugenia, que dá nome à nossa torre irmã. Ah... essas histórias de antigamente não fazem seu coração disparar?" },
+    { "gameKey": "quest/007/GaiUsa806_00790#TEXT_GAIUSA806_00790_POP_MESSAGE_000", "hash": "315BFA7E7596770C", "target": "Você sente uma presença hostil!" }
   ]
 }

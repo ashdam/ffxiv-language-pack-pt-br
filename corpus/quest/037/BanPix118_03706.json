@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix118_03706",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "" },
-    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "" }
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_SEQ_00", "hash": "3B308CEA3C8E44A0", "target": "Uin Nee espera agitar as águas de Lyhe Mheg.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_00", "hash": "968691807718E570", "target": "Observar o local indicado a nordeste de Phisor Lran e obter um coração de ondina glacial de uma icewater undine" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_TODO_01", "hash": "A2CC0FD325DCFE0C", "target": "Entregar o coração de ondina glacial a Uin Nee" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_000", "hash": "F75F1777E4268C86", "target": "Sabe de quem eu tenho pena? Das crianças de Amh Araeng. Por quê? Porque a água é tão preciosa por lá que mal dá para tomar banho, quanto mais brincar de “Afunde a Bruxa” ou “O Blefe de Bismarck”!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_001", "hash": "1D3A6FF6DA837FA4", "target": "Por sorte, tive mais um dos meus planos geniais! Vamos encher Lyhe Mheg de água!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_002", "hash": "E9E4D93FB673985B", "target": "Assim, as crianças vão se divertir como nunca, e nós, pixies, vamos poder brincar na água à vontade, sem aqueles Fuath irritantes nos perturbando." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_003", "hash": "113F70E5CC3F3D83", "target": "Só precisamos de um coração de ondina glacial. Depois que eu fizer minha magia nele, teremos rios e cachoeiras de sobra! Claro, você vai buscar o coração. Duvido que a dona dele aceite perdê-lo de bom grado. Não se preocupe, você <italic(1)>provavelmente<italic(0)> não vai sofrer uma morte horrível!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_010", "hash": "6B4B53A884F02DEB", "target": "Conseguiu roubar o coração de uma icewater undine? Literalmente, quero dizer." },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_011", "hash": "78DF78C7BDFBE536", "target": "Ooh, que belo exemplar! Com isto, podemos criar toda a água de que precisamos!" },
+    { "gameKey": "quest/037/BanPix118_03706#TEXT_BANPIX118_03706_UINNEE_000_012", "hash": "A1EDB33647744B4E", "target": "Logo Lyhe Mheg vai se encher das risadas das crianças nadando, espirrando água e arrastando umas às outras para o fundo, como os Fuath! É só um sonho, então não há perigo. A menos que seja verdade aquele boato de que morrer num sonho mata na vida real...<br>Aliás, preciso conferir isso qualquer hora." }
   ]
 }

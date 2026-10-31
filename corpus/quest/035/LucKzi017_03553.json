@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi017_03553",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_SEQ_00", "hash": "1E80962691EBA0C7", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_TODO_00", "hash": "A2BE6169143EA3FB", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_TODO_01", "hash": "69980CDB2BB3BF29", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_000", "hash": "8CA0290D8D98AD56", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_001", "hash": "1E8A4F5B4B0E97C4", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_002", "hash": "1B80877D8F4329CE", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_003", "hash": "3094744BE3E325C0", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_004", "hash": "CB43E02D68226C40", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_005", "hash": "1B09677CA3738CC5", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_010", "hash": "43163CD8980A4B3E", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_011", "hash": "E3AABBC215B65BEF", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_012", "hash": "FB80E54DE0FAECD2", "target": "" },
-    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_013", "hash": "C0B3224B1921F948", "target": "" }
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_SEQ_00", "hash": "1E80962691EBA0C7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Gratt está fervendo de raiva." },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_TODO_00", "hash": "A2BE6169143EA3FB", "target": "Enfraquecer Gulg knockers e capturá-los com rolos de arame" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_TODO_01", "hash": "69980CDB2BB3BF29", "target": "Entregar os knockers capturados a Gratt" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_000", "hash": "8CA0290D8D98AD56", "target": "Já estou de saco cheio, droga! Chega! Não vou ficar parado vendo mais um roubo sem resposta!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_001", "hash": "1E8A4F5B4B0E97C4", "target": "Hein? Por que estou com raiva!? Por causa daqueles malditos knockers, ora!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_002", "hash": "1B80877D8F4329CE", "target": "Aqueles desgraçados agarram qualquer coisa: minério, martelos, minha maldita picareta favorita, e arrastam tudo para os ninhos! E para quê, me diga!? Os diabinhos nem sabem o que é valor!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_003", "hash": "3094744BE3E325C0", "target": "Juro que isso não vai acabar enquanto eu não lhes ensinar uma lição. O acordo é o seguinte: ajude-me a capturar algumas daquelas pragas ladras e pago pelo trabalho. Topa?" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_004", "hash": "CB43E02D68226C40", "target": "Ótimo. Vou para o sul, então siga para leste até encontrar uns knockers para dar umas boas pancadas. Quando estiverem atordoados, use este arame para prender aqueles membros irrequietos e traga-os de volta à aldeia." },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_005", "hash": "1B09677CA3738CC5", "target": "Pegue esse arame e capture uns knockers para mim! Há um ninho daqueles danadinhos sorrateiros a leste!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_010", "hash": "43163CD8980A4B3E", "target": "Já voltou, hein? Eu também consegui pegar alguns, mas vamos ver sua captura." },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_011", "hash": "E3AABBC215B65BEF", "target": "Sim, foi um trabalho rápido!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_012", "hash": "FB80E54DE0FAECD2", "target": "Para ser sincero, estava preocupado que <switch(gnum71,alguém de fora,alguém de fora,<if(gnum4,uma anã,um anão)>,alguém de fora,alguém de fora,alguém de fora,alguém de fora,alguém de fora)> que não conhece a região fosse acabar no meio de um bando de iguanas famintas. Que bom que me provou o contrário!" },
+    { "gameKey": "quest/035/LucKzi017_03553#TEXT_LUCKZI017_03553_GRATT_000_013", "hash": "C0B3224B1921F948", "target": "...Agora, minhas belezinhas que agarram tudo! O Tio Gratt vai ensinar vocês a parar de roubar minério dos Tholl... e começar a surrupiar dos Gogg! Mwahahaha!" }
   ]
 }

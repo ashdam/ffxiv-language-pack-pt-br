@@ -2,14 +2,14 @@
   "conversation": "quest/018/HeaVnz401_01819",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "" }
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_00", "hash": "595C68D9D0A7B1BF", "target": "Mogret precisa desesperadamente de um banho." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_01", "hash": "88C405ED661BB40C", "target": "Um lugar onde os moogles costumam tomar banho foi tomado por monstruosidades metade peixe, metade dragão chamadas hropkens. Mate três delas para dispersar as criaturas e permitir que Mogret finalmente lave debaixo das asas." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_02", "hash": "F084F242EDA0CCAD", "target": "Você matou os hropkens, embora o cheiro deles ainda permaneça nas suas narinas. Volte a Mogret e informe que as águas estão seguras de novo." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_SEQ_03", "hash": "6BC06143ACA32DDF", "target": "Mogret fica radiante com a notícia e explica que não suporta o cheiro de peixe cru. Ela sugere que talvez <italic(1)>você<italic(0)> também devesse considerar um mergulho." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_00", "hash": "D95AE6DC18C39046", "target": "Matar hropkens" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_TODO_01", "hash": "FAA883B0F7D504C1", "target": "Apresentar um relatório a Mogret" },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_000", "hash": "0A3221D4AC58AB04", "target": "Você já tomou banho nas águas a nordeste? Claro que não, porque um bando de hropkens parrudos anda atacando qualquer um que se aproxime, kupo! Se você tivesse a bondade de matar alguns, talvez os outros fugissem e eu tivesse tempo para um mergulho." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_010", "hash": "D637B83CD5B49C3B", "target": "Esses bichos metade dragão, metade peixe com certeza não precisam daquelas águas como <italic(1)>eu<italic(0)> preciso. Espante-os para que eu finalmente possa me lavar." },
+    { "gameKey": "quest/018/HeaVnz401_01819#TEXT_HEAVNZ401_01819_MOGRET_000_030", "hash": "EEC06573A9053789", "target": "Muito obrigada, <if(gnum4,valente aventureira,valente aventureiro)>! Finalmente posso tomar banho sem o cheiro de peixe-dragão cru atacando meus sentidos. \\<fareja> ...Diga, um mergulho talvez ajude você a, ah... <italic(1)>se refrescar<italic(0)> também, kupo!" }
   ]
 }

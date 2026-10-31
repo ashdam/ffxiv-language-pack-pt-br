@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubFst036_00130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "" },
-    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "" }
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "Gabineaux, famoso por seu Gabineaux's Bower, precisa de <if(gnum4,uma aventureira de confiança,um aventureiro de confiança)> para reduzir a população cada vez maior de microchus." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "Gabineaux está fora de si de raiva enquanto explica os males dos microchus. Abata oito dessas pragas que sugam nutrientes e traga alívio à terra e à mente perturbada de Gabineaux." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_02", "hash": "3BAEEAB5C7C8C649", "target": "Você abateu oito microchus. Apresente-se a Ealdfrith do lado de fora do Gabineaux's Bower." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_03", "hash": "FE2EDDC01004F5D0", "target": "Com menos microchus retirando nutrientes do solo, as árvores devem voltar a crescer normalmente. Só resta esperar que isso livre Gabineaux de sua fúria avassaladora." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_00", "hash": "3FD309FEEED9CA93", "target": "Abater oito microchus" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_TODO_01", "hash": "5CFA4F8DD612A1E5", "target": "Apresentar-se a Ealdfrith no Gabineaux's Bower" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_1", "hash": "363ACCB3B3F2F4BF", "target": "Ah, é você, <split(<string(gstr1)>, ,1)>! Depois da <italic(1)>surra<italic(0)> que deu naqueles funguars infernais, acredito que seja a pessoa certa para resolver outro problema meu: microchus!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_2", "hash": "81F3D0A88F1D8780", "target": "Essas bestinhas repugnantes tiram seu sustento direto do solo. Normalmente, a floresta ficaria mais que feliz em oferecer, mas agora há bichos demais, maldição!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_3", "hash": "F1E354F2668A1C59", "target": "São tantos que estão sugando até o último nutriente da terra! Acham que este solo foi posto aqui só para vocês e seus amigos microchus!? Gah! Eu devia ir até lá e... e... bem, não sei direito o que devia fazer, mas alguém precisa fazer alguma coisa! E logo! A<-->Antes que eu..." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_4", "hash": "3C3A03AC34CB65B2", "target": "Eu... peço desculpas. A raiva toma conta, entende? E só consigo bufar e me engasgar. Se pudesse exterminar uns oito desses devastadores do solo, teria minha gratidão eterna." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_GABINEAUX_000_5", "hash": "9F9D0538CA9979B1", "target": "Depois de cuidar dos microchus, agradeceria se fosse falar com Ealdfrith. Ele está logo do lado de fora. Ouvi dizer que a degradação do solo o preocupa tanto quanto a mim, e tenho certeza de que gostaria de saber que o problema foi resolvido." },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_10", "hash": "EE9834637D1C1F8C", "target": "Diz que abateu um bom número daqueles microchus? Bem, essa é uma ótima notícia!" },
+    { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_EALDFRITH_000_11", "hash": "21E60F3442127C89", "target": "Eu temia que o velho Gabineaux pegasse um machado e tentasse retalhar as pragas sozinho! Talvez agora sua mente perturbada encontre um pouco de paz. Muito obrigado." }
   ]
 }

@@ -2,12 +2,12 @@
   "conversation": "quest/007/GaiUsa610_00772",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "" },
-    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_00", "hash": "5D8FCC2044BD5E5A", "target": "Aedoc, do Moinho da Pedreira, enfrenta uma crise culinária." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_01", "hash": "B92D069366D06414", "target": "Aedoc esgotou seu estoque de molho de Mun<-->Tuy e teme uma queda alarmante no ânimo dos soldados se suas criações culinárias ficarem sem o saboroso condimento. Vá às Adegas de Mun<-->Tuy e obtenha uma garrafa com o Macerador Erimmont." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_SEQ_02", "hash": "1CE2D5507C985434", "target": "Erimmont informa que a fermentação do próximo lote de molho de Mun<-->Tuy logo terminará. Resta saber se ficará pronto a tempo de salvar Aedoc de ser devorada por soldados famintos e loucos por feijões..." },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_TODO_00", "hash": "78EF1DFB41BC7539", "target": "Falar com Erimmont" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_000", "hash": "220DC8AE8A58BE0A", "target": "Você não podia chegar em hora melhor. Estou com uma crise nas mãos! Que tipo de crise? Está vendo esta garrafa de molho de Mun<-->Tuy? Está <italic(1)>vazia<italic(0)>, não sobrou nem uma gota!" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_AEDOC_000_001", "hash": "05CC6B18079ED289", "target": "É <italic(1)>claro<italic(0)> que é uma crise! Se nossos guardas acharem que falta sabor na ceia, são capazes de apontar as lanças para mim em vez dos inimigos! Pode ir às Adegas de Mun<-->Tuy buscar um pouco com o Macerador Erimmont e salvar uma pobre cozinheira desse destino terrível?" },
+    { "gameKey": "quest/007/GaiUsa610_00772#TEXT_GAIUSA610_00772_ERIMMONT_000_010", "hash": "8F55C65D845FD6A5", "target": "Aedoc ficou sem molho de novo, foi? \\<suspiro> Já falei mil vezes pra ela encomendar em grandes quantidades, mas nunca escuta. Segure seus chocobos. O próximo lote fica pronto logo." }
   ]
 }

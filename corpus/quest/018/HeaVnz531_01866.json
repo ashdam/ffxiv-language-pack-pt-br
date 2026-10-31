@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz531_01866",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_00", "hash": "347AD532CB0A6D44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_01", "hash": "EB34CD45DCA4703E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_02", "hash": "1DA4A75F02135084", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_00", "hash": "5AF90C7F3256F343", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_01", "hash": "1DE914752D9FEF4E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_000", "hash": "39BF348D8DCC06CA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_001", "hash": "92A188855B1A7DAA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_002", "hash": "190BE9C763202001", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_003", "hash": "F8D03E6558990F95", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_010", "hash": "07D0F8CF2C23AD81", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_020", "hash": "A0F1D862B026AFB7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_021", "hash": "EA789693198F8BDD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_022", "hash": "4702BE4A6F9B5C44", "target": "" }
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_00", "hash": "347AD532CB0A6D44", "target": "Algo está impedindo Mogga de atravessar esta ponte." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_01", "hash": "EB34CD45DCA4703E", "target": "Mogga recebeu a tarefa de patrulhar Zenith em busca de sinais dos dragões que servem ao maligno Nidhogg e parece ter encontrado alguns do outro lado da ponte diante da qual se encolhe de medo. Mas a pobre moogle está apavorada demais para verificar sozinha e pede que você vá em seu lugar. Atravesse a ponte e procure qualquer dragão que possa estar à espreita." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_02", "hash": "1DA4A75F02135084", "target": "Você livrou esta parte de Zenith da ameaça dos dragões... por enquanto. Apresente-se a Mogga e diga que a parte mais difícil da patrulha dela terminou." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_SEQ_03", "hash": "DB9A1FC1078047B7", "target": "Aliviada por não precisar mais lidar com a ira dos dragões, Mogga retoma sua patrulha e pede que você avise Mogok para redobrar a atenção na dele." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_00", "hash": "5AF90C7F3256F343", "target": "Procurar dragões nas áreas indicadas" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_TODO_01", "hash": "1DE914752D9FEF4E", "target": "Apresentar-se a Mogga" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_000", "hash": "39BF348D8DCC06CA", "target": "Ah! <if(gnum4,Aventureira,Aventureiro)>, achei que fosse um dragão, kupo!" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_001", "hash": "92A188855B1A7DAA", "target": "O quê!? Já viram dragões rondando Zenith? Não podemos simplesmente deixá-los fazer o que bem entendem em nossos palácios sagrados!" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_002", "hash": "190BE9C763202001", "target": "Na verdade, acho que consigo ouvir seus rosnados atrevidos daqui. Mas... dragões são tão monstruosos, e suas garras são tão afiadas..." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_003", "hash": "F8D03E6558990F95", "target": "Só de imaginar os dragões já fico apavorada... mas <italic(1)>você<italic(0)> tem coragem de sobra! Será que poderia atravessar esta ponte e espantar qualquer dragão que encontrar, kupo?" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_010", "hash": "07D0F8CF2C23AD81", "target": "Não imagino que sejam muitos... É só atravessar a ponte e verificar, está bem?" },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_020", "hash": "A0F1D862B026AFB7", "target": "Tinha... tinha <italic(1)>quantos<italic(0)> dragões do outro lado da ponte? Graças aos céus você veio, <if(gnum4,aventureira,aventureiro)>. Eu teria ficado cansada depois de abater só um, kupo." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_021", "hash": "EA789693198F8BDD", "target": "Bem, vou voltar à minha patrulha... Talvez seja melhor manter uma boa distância <italic(1)>desta<italic(0)> área..." },
+    { "gameKey": "quest/018/HeaVnz531_01866#TEXT_HEAVNZ531_01866_MOGGA_000_022", "hash": "4702BE4A6F9B5C44", "target": "Ah, já que está aqui, queria pedir mais um favor. Mogok também está patrulhando por perto. Por favor, diga para ele redobrar a <italic(1)>atenção<italic(0)> na patrulha. Não queremos que vire comida de dragão, kupo!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc808_01032",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_00", "hash": "7264227DAAEF0C0B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_00", "hash": "68CB618AC567F051", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_01", "hash": "BFEB944F41FCA2C9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_000", "hash": "3C654DD7A1C20EBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "" }
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_00", "hash": "7264227DAAEF0C0B", "target": "Eilis quer chamar você à muralha mais uma vez." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_01", "hash": "4C14174A5195AFB9", "target": "Eilis explicou a necessidade de desviar as forças Sahagin para longe do South Tidegate. Fale com Nortmoen sobre a situação tática." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_02", "hash": "C0928280A6B1653D", "target": "Nortmoen apresenta um plano simples: matar dois trenchtooth Sahagin." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_03", "hash": "8CEC1290B1583016", "target": "Informe Eilis sobre a situação no norte." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_SEQ_04", "hash": "316F74405537FE95", "target": "Eilis informa que o ataque de distração foi um sucesso e que o destacamento voltou em segurança pelos portões do sul, sem problemas." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_00", "hash": "68CB618AC567F051", "target": "Falar com Nortmoen" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_01", "hash": "BFEB944F41FCA2C9", "target": "Matar trenchtooth Sahagin" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_TODO_02", "hash": "19CBB883AE919AEC", "target": "Informar Eilis" },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_000", "hash": "3C654DD7A1C20EBA", "target": "O Maelstrom precisa da sua ajuda." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_001", "hash": "2676D13796117C84", "target": "Queremos abrir o South Tidegate para receber um destacamento que está voltando, mas isso nos deixaria expostos aos Sahagin." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_002", "hash": "35EC2D8B951294FD", "target": "Por isso, pretendemos lançar um ataque de distração no lado norte e atrair as hordas Sahagin para longe do portão aberto." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_003", "hash": "03D9C7DFF12D5823", "target": "Procure Nortmoen no North Tidegate. A ofensiva está sob o comando dele." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_NORTMOEN_000_010", "hash": "037AC7C39E2D0D0B", "target": "Então veio ajudar meu irmão atormentado a sair de outra enrascada? Muito bem. Só precisa matar duas daquelas lesminhas-do-mar ariscas. Isso deve atrair todas elas." },
+    { "gameKey": "quest/010/GaiUsc808_01032#TEXT_GAIUSC808_01032_EILIS_000_020", "hash": "077B0269D4D3442E", "target": "Como era de esperar, nosso sutil estratagema afastou aqueles desgraçados marinhos do sul dos portões abertos. Os homens do destacamento mandam seus agradecimentos." }
   ]
 }

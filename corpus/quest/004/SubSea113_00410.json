@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea113_00410",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "" },
-    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "" }
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_00", "hash": "29DBB1045E48337E", "target": "Hezzkhezl, construtor naval da Naldiq & Vymelli's, precisa de ajuda para aquecer seus rebites." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_01", "hash": "839DB6920BCE44F8", "target": "Saia das Moraby Drydocks e mate três lightning sprites para obter seus núcleos." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_02", "hash": "4EDD86463669709A", "target": "Você reuniu três núcleos intactos. Agora entregue-os a Hezzkhezl." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_SEQ_03", "hash": "486ED859B00FBCDE", "target": "Hezzkhezl fica encantado com sua volta e conta que foi Ahtbyrm, capataz das obras do <italic(1)>Victory<italic(0)>, quem teve a ideia de usar núcleos de elementais para aquecer rebites." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_00", "hash": "3111ACAFCC9147AE", "target": "Matar lightning sprites e obter seus núcleos" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_TODO_01", "hash": "476957738ED5B633", "target": "Entregar os núcleos elementais a Hezzkhezl" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_1", "hash": "28793733223B22A3", "target": "Quando o assunto é rebitar, pode procurar por toda Eorzea que não vai encontrar ninguém melhor que Hezzkhezl. Cravo duzentos rebites por badalada. O dobro, se não estiver de porre!" },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_2", "hash": "27CCCF415BA7B9F0", "target": "O segredo para cravar os rebites direito é o quanto você consegue esquentar os danados. Quanto mais quente o rebite, mais firme fica a união com a chapa de aço. O problema é que, se eu esquentasse os rebites na forja, estariam frios como a boceta de uma puta morta quando eu os levasse de volta ao <italic(1)>Victory<italic(0)>." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_3", "hash": "236242D96FCDC860", "target": "É por isso que uso os núcleos incandescentes de lightning sprites... mas, como pode ver, minhas reservas estão meio baixas. Se não for muito incômodo, teria a bondade de buscar alguns para mim? Parece que você daria conta de um bando inteiro de elementais com uma mão amarrada atrás do traseiro." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_10", "hash": "8AF46EE42AB22814", "target": "Três núcleos e posso terminar o trabalho do dia e voltar à cervejaria, que é meu lugar." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_11", "hash": "43CE293229C0C544", "target": "Pelo olho de Leviathan! Você foi mesmo buscar os malditos núcleos! Ahtbyrm vai ficar muito satisfeito de ver isso, vai sim." },
+    { "gameKey": "quest/004/SubSea113_00410#TEXT_SUBSEA113_00410_HEZZKHEZL_000_12", "hash": "7B7FE42CD9132E22", "target": "Foi o capataz que teve a ideia de usar núcleos para aquecer os rebites. Um homem esperto, aquele. Mais afiado que uma presa no bico de um peixudo. Deve ser por isso que virou chefe tão depressa." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/034/LucKze002_03436",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SEQ_00", "hash": "13F4F9B3E5EBF302", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_00", "hash": "6FAA732884C1D602", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_01", "hash": "38B0C1C5949646FC", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_000", "hash": "37DCC3427B573C5B", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_001", "hash": "7CA2FE00963B866B", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_002", "hash": "352FE7B4D5FAC1D1", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_010", "hash": "4A4BB63E25C6A80D", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_011", "hash": "E5D8C1EC5AD0B7A7", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_012", "hash": "EA085BA1B730CBB2", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_013", "hash": "30AD3A123A224B95", "target": "" },
-    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_014", "hash": "80EA40B19001967A", "target": "" }
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SEQ_00", "hash": "13F4F9B3E5EBF302", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O ungainly guardsman fez uma bela trapalhada." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_00", "hash": "6FAA732884C1D602", "target": "Derrotar o proterosuchus e recuperar o saco do guarda" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_TODO_01", "hash": "38B0C1C5949646FC", "target": "Entregar o saco ao ungainly guardsman" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_000", "hash": "37DCC3427B573C5B", "target": "Ah, malditos pés desastrados! Desta vez me superei! Estava voltando de uma missão em Weathering quando, acredita?, escorreguei e caí, e o saco que eu carregava escapou da minha mão e voou bem alto." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_001", "hash": "7CA2FE00963B866B", "target": "E, como se não bastasse, uma fera enorme surgiu do nada, pegou meus preciosos pertences com as mandíbulas e os levou para sabe-se lá onde!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_002", "hash": "352FE7B4D5FAC1D1", "target": "Basta dizer que, se eu voltar de mãos vazias, meu comandante provavelmente vai me pôr para limpar a latrina por uma semana! Você precisa me ajudar, <if(gnum4,amiga,amigo)>!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_010", "hash": "4A4BB63E25C6A80D", "target": "Que bom que voltou, <if(gnum4,amiga,amigo)>! Encontrou meus suprimentos, sim? Ah, por favor, diga que sim! Só de pensar em esfregar a latrina com uma escova de dentes de novo, sinto calafrios!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_011", "hash": "E5D8C1EC5AD0B7A7", "target": "Será? Ah, é sim, meu saco! Meu lindo, lindo saco! E, embora esteja bem maltratado, o conteúdo parece completamente intacto!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_012", "hash": "EA085BA1B730CBB2", "target": "O que exatamente <italic(1)>tem<italic(0)> dentro, você pergunta? Entre outras coisas, um aparelho extraordinário que o próprio Exarca de Cristal confiou a nós da guarda e que, dizem, ele desenterrou da Torre de Cristal!" },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_013", "hash": "30AD3A123A224B95", "target": "Embora pareça apenas uma bela pedra preciosa redonda, de alguma forma consegue medir a concentração de éter no ar e na matéria ao nosso redor. Nem preciso dizer que não é algo que qualquer um, nem mesmo os artesãos de Mean, consiga fazer assim, de qualquer jeito. Se eu o tivesse perdido para sempre..." },
+    { "gameKey": "quest/034/LucKze002_03436#TEXT_LUCKZE002_03436_SOLDIER03436_000_014", "hash": "80EA40B19001967A", "target": "...Mas, graças a você, não preciso mais pensar nisso, não é? Sei que não é muito, mas aceite isto como sinal da minha gratidão. E agora é melhor eu correr de volta, ou ainda vão me castigar pelo atraso. Até mais!" }
   ]
 }

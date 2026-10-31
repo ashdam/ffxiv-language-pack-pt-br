@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz921_01986",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_00", "hash": "E17A0F8560E5F9C4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_01", "hash": "CF319DB5317B5E7E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_02", "hash": "6D288BD86B126302", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_03", "hash": "6DFC013565EFC524", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_TODO_00", "hash": "DDB8B6C5C7D46BCC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_TODO_01", "hash": "9D7B420A1ABD7554", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_000", "hash": "6B278382F8C9839A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_001", "hash": "1ACB6CFC01150A09", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_010", "hash": "917DDE6092BA4F0C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_020", "hash": "7F30A74C8EEA6968", "target": "" },
-    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_021", "hash": "959B11C5EC9C1A1F", "target": "" }
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_00", "hash": "E17A0F8560E5F9C4", "target": "O módulo de expulsão alagano parece em pânico e agitado... para um cubo flutuante." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_01", "hash": "CF319DB5317B5E7E", "target": "O módulo de expulsão identificou as tropas garleanas próximas como uma força invasora inimiga. Ele pede que cada soldado do exército alagano de defesa mate oito soldados garleanos. Parece que isso inclui você!" },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_02", "hash": "6D288BD86B126302", "target": "Volte até expulsion node e informe que eliminou sua cota de garleanos." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_SEQ_03", "hash": "6DFC013565EFC524", "target": "O módulo de expulsão conta sobre uma tentativa anterior de insurreição, ocorrida há cerca de cinco mil anos. Parece que os vários sistemas automatizados daqui vigiam Azys Lla há muito, muito tempo." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_TODO_00", "hash": "DDB8B6C5C7D46BCC", "target": "Eliminar soldados garleanos" },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_TODO_01", "hash": "9D7B420A1ABD7554", "target": "Relatar a expulsion node" },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_000", "hash": "6B278382F8C9839A", "target": "\\<bip> \\<bip> Alerta de intrusão! \\<bip> \\<bip> Alerta de intrusão! Múltiplas entidades hostis detectadas! A julgar por suas armas, equipamento e formação, há uma probabilidade de 85,4% de que lancem um ataque ao cônsul." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_001", "hash": "1ACB6CFC01150A09", "target": "Com nossas forças militares atuais, cada soldado alagano deve derrotar pelo menos 7,999...\\<bzzzzzzz>...intrusos para garantir a vitória. Diante de uma força esmagadora...\\<bzzzzzzz>...nosso amado Império Alagano... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_010", "hash": "917DDE6092BA4F0C", "target": "Faça sua parte para proteger nosso amado império. Certifique-se de derrotar pelo menos 7,999...\\<bzzzzzzz>...intrusos antes de sua inevitável... \\<bzzzzzzz> O Império agradece seu nobre sacrifício." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_020", "hash": "7F30A74C8EEA6968", "target": "\\<bip> \\<bip> Extermínio das forças invasoras confirmado. O Império Alagano agradece a seus bravos soldados pelo nobre sacrifício." },
+    { "gameKey": "quest/019/HeaVnz921_01986#TEXT_HEAVNZ921_01986_REMOVALSYSTEM_000_021", "hash": "959B11C5EC9C1A1F", "target": "Esta é a primeira tentativa de insurreição registrada em mais de cinco mil anos. Aguarde enquanto um relatório é compilado para apresentação ao cônsul, recomendando uma revisão abrangente de nossas medidas de segurança." }
   ]
 }

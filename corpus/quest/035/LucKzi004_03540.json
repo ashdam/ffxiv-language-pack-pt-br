@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzi004_03540",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "" }
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jaimbert precisa de alguém que se ofereça para ajudar." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "Recolher pilhas de madeira seca em Top Rung" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "Entregar as pilhas de madeira seca a Jaimbert" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "Olá! Tenho um favorzinho a pedir, se tiver um momento." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "Olhe ao redor e diga o que vê. Isso! Pedra, pedra e mais pedra, droga. Nem uma única árvore. E isso significa que não há madeira para as casas." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "De vez em quando, os anões deixam a gente rastejar por seus “túneis secretos” para chegar às terras baixas, mas carregar troncos por passagens tão estreitas, sem falar na inclinação, é trabalho de doido." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_003", "hash": "A9D9D1CD506BF5C7", "target": "Ainda mais se pensar em toda a madeira que deixaram apodrecendo em Top Rung. Está lá, esperando alguém pegar... desde que tenha coragem para enfrentar os bichos entre aqui e lá, é claro. E acho que você tem!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_004", "hash": "8E29082F388FA463", "target": "Vamos, <if(gnum4,moça,rapaz)>! Traga algumas pilhas de madeira que faço valer a pena!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_010", "hash": "758474F8998BA793", "target": "Oh! Ou trouxe madeira para mim, ou está pensando em construir uma cabana para você." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_011", "hash": "8FDF2E8D89582ECF", "target": "Obrigado, <if(gnum4,moça,rapaz)>! Agora finalmente vou poder voltar a construir!" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_012", "hash": "393D77D09FC223C1", "target": "Essa madeira que trouxe subiu por Ladder quando os anões eram mais abertos ao comércio. Amity era um lugar neutro para fechar negócios, sabe, e houve uma época em que planejavam expandir a aldeia." },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_013", "hash": "72B3553EB0F906DB", "target": "Então acho que dá para dizer que estamos usando a madeira para seu propósito original... mesmo que com alguns anos de atraso! Boa viagem, e obrigado de novo pela ajuda!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/027/StmBdz304_02700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "" },
-    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "" }
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_SEQ_00", "hash": "904F5BED152593FC", "target": "Kagero está curioso para conversar com alguém de fora de Sui<-->no<-->Sato." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_00", "hash": "BF1AA3FD1AEC496E", "target": "Destruir as awahaki" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_TODO_01", "hash": "293C02382D47EED0", "target": "Relatar a Kagero" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_000", "hash": "4133F0DA5A1409FE", "target": "Olá, <if(gnum4,senhora,senhor)>! Estou certo em supor que você veio da superfície? Tirando os Kojin, não recebemos muitas visitas. Mas isso era de se esperar. Afinal, vivemos no fundo do mar!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_001", "hash": "C9088E1D320C7BA0", "target": "Há muito tempo, em troca dos tesouros que lhes demos, os Kojin ensinaram aos nossos antepassados o segredo para viver nesta imensidão de água." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_002", "hash": "3E5E8DE8C70EB5A8", "target": "Desde então, vivemos aqui como vizinhos deles. São um povo muito bondoso e esperto, que adora colecionar objetos raros. Fazer amizade com eles seria muito bom para você." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_003", "hash": "7898A03426E2F170", "target": "Ahá! Um momento, tive uma ideia. Sim! Já sei. Se você eliminar algumas das awahaki que crescem ao redor da aldeia deles, com certeza ficarão muito felizes! Umas seis devem bastar para ganhar a simpatia deles." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_004", "hash": "BBE27D79DFBD9B05", "target": "Sim, se você destruir seis awahaki, com certeza fará amizade com os Kojin rapidinho!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_010", "hash": "C0676A272FA6FC55", "target": "Você exterminou as awahaki? Bom trabalho!" },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_011", "hash": "9792D3453BAE4876", "target": "Os Kojin vão ficar muito felizes ao saber! É que eles usam principalmente striped rays como transporte e para entregar mercadorias. Mas as criaturas têm tanto medo das bolhas que saem dessas plantas que, ao vê-las, derrubam qualquer pessoa ou carga que estejam levando." },
+    { "gameKey": "quest/027/StmBdz304_02700#TEXT_STMBDZ304_02700_KAGERO_000_012", "hash": "832141FB0909AB75", "target": "Mais tarde vou contar a eles tudo o que você fez em seu favor. Por enquanto, deixe que eu lhe dê sua recompensa. Viu? Não está feliz por ter ajudado?" }
   ]
 }

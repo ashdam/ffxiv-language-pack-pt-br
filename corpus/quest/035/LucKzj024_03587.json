@@ -2,15 +2,15 @@
   "conversation": "quest/035/LucKzj024_03587",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_SEQ_00", "hash": "2934EA88B9BF8FB0", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000", "hash": "E429616B7099FC34", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001", "hash": "721BC76EB96A8419", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002", "hash": "679313162BCD4EA1", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005", "hash": "2B1A0C556EC8E1D9", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010", "hash": "3D72478C09834821", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011", "hash": "70BF1142D77ABC48", "target": "" },
-    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012", "hash": "B362D1F72BC81F31", "target": "" }
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_SEQ_00", "hash": "2934EA88B9BF8FB0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nemshs Ooan precisa de ajuda com um mal necessário." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_00", "hash": "25C153200CBD5A17", "target": "Abater dagons" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_TODO_01", "hash": "113A5FAEBAFB8386", "target": "Falar com Nemshs Ooan" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_000", "hash": "E429616B7099FC34", "target": "Saudações, <if(gnum4,hóspede honrada,hóspede honrado)>. Poderia ajudar um velho Ondo numa caçada complicada?" },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_001", "hash": "721BC76EB96A8419", "target": "Os dagons ameaçam os jovens e os debilitados, pois se disfarçam de pedras e emboscam suas presas para se alimentar. É preciso reduzir seu número pelo bem de todos, mas não consigo fazer isso sozinho." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_002", "hash": "679313162BCD4EA1", "target": "Por isso, peço que me ajude a abater essas pragas inconvenientes. Um trio deve bassstar. Venha me ver quando terminar." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_005", "hash": "2B1A0C556EC8E1D9", "target": "Não precisa abater duzentos ou alguma outra quantidade absurda. Só três dagons já seriam uma ajuda tremenda." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_010", "hash": "3D72478C09834821", "target": "Não precisa dizer nada, <if(gnum4,hóspede honrada,hóspede honrado)>. Os dagons estão mortos. Sinto o cheiro do sangue deles em você." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_011", "hash": "70BF1142D77ABC48", "target": "Como os Ondo, eles também procuram abrigo nas ruínas antigas. É lamentável precisarmos nos esssforçar sempre para controlar seu número, ou nos expulsariam de nossos lares." },
+    { "gameKey": "quest/035/LucKzj024_03587#TEXT_LUCKZJ024_03587_NEMSHSOOAN_000_012", "hash": "B362D1F72BC81F31", "target": "Isso só ficará mais difícil sem água... mas essa é nossa vida agora. Não ganhamos nada sssentindo falta do que perdemos..." }
   ]
 }

@@ -26,7 +26,7 @@
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_NORAXIA_000_100", "hash": "DD95757F61683A05", "target": "Este aqui está contente... o que anda está a salvo..." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100010_MINFILIA", "hash": "BAF87117850A012B", "target": "Aguardamos o seu retorno nas Areias Despertas. Há muito a conversar. Vá com os deuses." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100020_MINFILIA", "hash": "CE404FDF4367AB80", "target": "Graças aos céus <if(gnum4,ela,ele)> está bem." },
-    { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100030_MINFILIA", "hash": "5B0248E84B1F7081", "target": "Louisoix, o senhor está vendo? A sua luz brilha forte <if(gnum4,nela,nele)>. E, com o tempo, tornará a iluminar o continente." },
+    { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100030_MINFILIA", "hash": "5B0248E84B1F7081", "target": "Louisoix, o senhor está vendo? A sua luz brilha forte <if(gnum4,nela,nele)>. E, com o tempo, tornará a iluminar Eorzea." },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100040_MINFILIA", "hash": "680943117336F769", "target": "\\<arquejo>" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100050_FLAMESENTRY", "hash": "1856E7DAA03331BF", "target": "Aaaaaah!!" },
     { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_100060_FLAMESENTRY", "hash": "214027587F71BFD7", "target": "Argh!" },

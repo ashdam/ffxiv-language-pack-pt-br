@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc013_00950",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "" }
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_00", "hash": "7C296F433BD2E747", "target": "Meurise está preocupada com uma patrulha perdida que luta para se aquecer em meio à nevasca uivante." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_01", "hash": "AFE40048C722487F", "target": "Meurise recebe a notícia de que uma patrulha de outro acampamento está encolhida no Domínio do Behemoth, sem rumo por causa dos ventos uivantes e da neve. Enviar médicos com macas está fora de questão, mas conhaque de emergência talvez resolva." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_02", "hash": "17F34A7318F92B96", "target": "Você dá a garrafa de conhaque a um dos homens, que logo sai do torpor. Ele cuidará dos outros e aproveitará a trégua na tempestade para voltar ao acampamento. Você deve fazer o mesmo, para não cometer o erro deles." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_SEQ_03", "hash": "9B0776FD50D48221", "target": "Graças ao conhaque revigorante que você levou, a patrulha voltou ao acampamento sem perder um único homem. Aparentemente, você salvou essas vidas para coisas melhores: morrer de uma forma muito mais dolorosa." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_00", "hash": "399D8003236DE0F7", "target": "Entregar o conhaque de emergência aos cavaleiros dragões perdidos" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_TODO_01", "hash": "69B1500B2EE3F9F1", "target": "Relatar a Meurise" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_000", "hash": "2BC21263721E4942", "target": "É uma noite ruim para patrulhas, com esta nevasca. Recebemos contato por linkpearl. Um dos grupos conseguiu se perder justamente no Domínio do Behemoth." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_001", "hash": "78C7CF91CB01506C", "target": "O frio e o cansaço tiraram a mobilidade deles. Ouvi dizer que você é como <if(gnum4,uma loba das neves,um lobo das neves)> e sente muito menos frio que <if(gnum4,outras mulheres,outros homens)>. Se conseguir levar este conhaque à patrulha, salvará vidas esta noite." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_002", "hash": "4BC032B730F94291", "target": "Mais uma coisa. Não ouse provocar o behemoth para lutar. Vai falhar e morrer. Resgate os cavaleiros dragões. Essa é sua tarefa hoje, e nada mais." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_010", "hash": "3651CCE4B9EB0A8D", "target": "O<-->O<-->O que faz aqui? Você perdeu o j<-->j<-->juízo? O behemoth anda por perto, e não conseguimos nos mexer. Salve sua vida!" },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_020", "hash": "6DF131792CC92300", "target": "O<-->O que é isto? Encoste nos meus lábios, aí... <italic(1)>cof! Cof<italic(0)>! Incrível, consigo sentir os pés de novo. Acho que... sim, consigo andar outra vez." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_NPCA_000_025", "hash": "016CAF15DF22EB17", "target": "O resto da patrulha está logo ali. Vou dar o remédio a eles. A ventania parou, e voltaremos sem demora. Seu caminho até o Posto Avançado de Whitebrim é mais longo, antes que os ventos voltem." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_030", "hash": "A33DD30D2EADC57E", "target": "<if(gnum4,Uma verdadeira loba das neves,Um verdadeiro lobo das neves)>. Acho que você não vai precisar de conhaque esta noite. Por mais forte que seja, ele cobra um preço..." },
+    { "gameKey": "quest/009/GaiUsc013_00950#TEXT_GAIUSC013_00950_MEURISE_000_031", "hash": "0A21DE1B0C03AC36", "target": "Sem dúvida, a patrulha já voltou ao acampamento. Aqueles homens escaparam por pouco. Seria uma pena terrível se tivessem sido mortos por uma coisa comum como um behemoth, quando seu destino é enfrentar dragões..." }
   ]
 }

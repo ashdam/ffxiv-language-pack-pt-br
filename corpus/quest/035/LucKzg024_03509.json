@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKzg024_03509",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_SEQ_00", "hash": "3EE5FF9DD4550EC8", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_00", "hash": "769FBF98433D7720", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_01", "hash": "1B7E8F7FE73884A0", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_000", "hash": "40A30336E9805558", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_001", "hash": "046FED76EB173F29", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_002", "hash": "DEA48CE174AA6D44", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_003", "hash": "3546601012927AE4", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_010", "hash": "A19A3AB347ACFDF7", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_020", "hash": "70F3C85190A9F6B7", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_021", "hash": "D79E07D0464DF59F", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_022", "hash": "0D75157545999274", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_023", "hash": "F4682068A369FF9A", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_024", "hash": "98B3D19B5F65E065", "target": "" },
-    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_025", "hash": "1CEBAD2EA7549718", "target": "" }
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_SEQ_00", "hash": "3EE5FF9DD4550EC8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O cenho franzido de Andri sugere que ele está tentando resolver um problema." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_00", "hash": "769FBF98433D7720", "target": "Procurar no local indicado e obter uma gema listrada" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_TODO_01", "hash": "1B7E8F7FE73884A0", "target": "Entregar a gema listrada a Andri" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_000", "hash": "40A30336E9805558", "target": "Por que tudo que diz respeito ao amor precisa ser tão complicado? Infelizmente, minha amada deixou as planícies castigadas pelo vento de Amh Araeng para buscar uma vida de luxo, relativamente falando, no Crystarium." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_001", "hash": "046FED76EB173F29", "target": "Temo que a passagem do tempo possa afastar seu coração, então pretendo enviar um anel como símbolo do nosso amor eterno." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_002", "hash": "DEA48CE174AA6D44", "target": "Por fim, comprei um com minhas suadas economias, só para depois descobrir uma enorme rachadura na superfície da sua bela gema listrada. Em vez de gastar <italic(1)>outra<italic(0)> fortuna num anel novo ou numa pedra substituta, tive uma ideia." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_003", "hash": "3546601012927AE4", "target": "Seria muito mais econômico contratar alguém para buscar uma gema parecida e encaixá-la no anel eu mesmo. E é aí que você entra. Garanto que o dinheiro que ofereço como recompensa vai compensar, e muito, qualquer risco de ferimento na mina!" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_010", "hash": "A19A3AB347ACFDF7", "target": "Os lugares onde se encontram essas gemas são invariavelmente cheios de perigos. Eu iria pessoalmente, mas temo que minha... constituição torne essas incursões completamente inviáveis." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_020", "hash": "70F3C85190A9F6B7", "target": "E então? Encontrou uma gema suficientemente deslumbrante?" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_021", "hash": "D79E07D0464DF59F", "target": "Esplêndida! Simplesmente linda!" },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_022", "hash": "0D75157545999274", "target": "Espero que não tenha enfrentado nenhum perigo enquanto a procurava. Ouvi dizer que elas são produzidas por gnomes e que dá para saber a idade deles pelo número de listras nas pedras que soltam." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_023", "hash": "F4682068A369FF9A", "target": "Infelizmente, tentar matar uma dessas feras provavelmente danificaria as gemas preciosas que se formam na sua carapaça rochosa. É melhor e mais seguro recolher as que caíram naturalmente." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_024", "hash": "98B3D19B5F65E065", "target": "Em outras palavras, onde você encontrar essas pedras também encontrará gnomes. Daí minha relutância em ir buscar uma pessoalmente." },
+    { "gameKey": "quest/035/LucKzg024_03509#TEXT_LUCKZG024_03509_ANDRI_000_025", "hash": "1CEBAD2EA7549718", "target": "Tenho certeza de que minha amada ficará feliz em receber um presente tão maravilhoso. E, como combinado, aqui está o pagamento pelos seus esforços exemplares." }
   ]
 }

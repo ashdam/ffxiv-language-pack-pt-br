@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil120_00630",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_00", "hash": "438F3ED6E40DD034", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_10", "hash": "AD966EB8D014F00B", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "" },
-    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "" }
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_00", "hash": "8799BD37FBCA6D84", "target": "Tutusi, do Acampamento Osso Seco, tem uma tarefa para <if(gnum4,uma aventureira ousada,um aventureiro ousado)>." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_01", "hash": "0293ED9B078B1FB7", "target": "Tutusi gostaria que você colhesse três ramos de lavanda de Althyk junto à carcaça de um goobbue gigantesco a leste do Acampamento Osso Seco." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_02", "hash": "35BA56B7B1114AEB", "target": "Você colheu os três ramos de lavanda de Althyk. Entregue-os a Tutusi no Acampamento Osso Seco." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_SEQ_03", "hash": "0CC50E32CB0A07A0", "target": "A lavanda de Althyk é muito apreciada como oferenda nos funerais realizados na Igreja de Santo Adama Landama. Aparentemente, os mortos sabem apreciar a diferença entre uma flor rara e uma comum." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_00", "hash": "438F3ED6E40DD034", "target": "Colher ramos de lavanda de Althyk" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TODO_01", "hash": "5F8C245D021EF6CD", "target": "Entregar a lavanda de Althyk a Tutusi" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_1", "hash": "E5D94E50E0755875", "target": "Voltou querendo mais, é? Ótimo. Agora me diga uma coisa: num acampamento como o nosso, tão perto de um cemitério, o que você acha que vende mais depressa do que conseguimos repor? Isso mesmo, <italic(1)>flores<italic(0)>!" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_2", "hash": "321385CB2374AD21", "target": "A leste daqui estão os restos de um goobbue enorme, e nascem tantas plantas em volta dele que você até pensaria ter encontrado a Mortalha Negra no meio de Thanalan." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_3", "hash": "1E564E06AC586B00", "target": "Dizem que o goobbue desceu das montanhas na época da Calamidade e trouxe as sementes que deram origem a todas aquelas plantas. Mas só quero mesmo três ramos de lavanda de Althyk. Parece bem simples, não é?" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_10", "hash": "AD966EB8D014F00B", "target": "Então, <split(<string(gstr1)>, ,1)>? Encontrou minhas florzinhas bonitas?" },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_11", "hash": "D9279877169A95AD", "target": "Ah, que lindas! Muito bem, muito bem. Não sei o que tem naquela carcaça de goobbue apodrecendo, mas ela faz nascer flores bonitas pra caramba, como nunca vi." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_12", "hash": "19B5A1AB793DFFFA", "target": "Quando se trata de oferendas, dizem que, quanto mais rara a flor, mais felizes ficam os mortos. E a lavanda de Althyk é rara como poucas." },
+    { "gameKey": "quest/006/SubWil120_00630#TEXT_SUBWIL120_00630_TUTUSI_000_13", "hash": "E5BB4465AC114D4E", "target": "Vou guardar estas para ganhar um bom dinheiro quando houver outro enterro no cemitério!" }
   ]
 }

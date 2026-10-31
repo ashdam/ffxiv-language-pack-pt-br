@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc012_00949",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_00", "hash": "99D2D5897EA392BC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_01", "hash": "0078A94A13543EEA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_02", "hash": "EED2E053527CD960", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_03", "hash": "E410D2E3BA38B247", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_00", "hash": "56B18F0DC9665CB8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_01", "hash": "2161F4F2732B6F8E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_000", "hash": "1C7061108D51161A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_001", "hash": "5DD58B8219320698", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_002", "hash": "4F57894AA75C1775", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_NPCA_000_010", "hash": "47B4606ACE3322E5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_030", "hash": "E878376B3D26A2B2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_031", "hash": "8AFB34FBA29CC8A1", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_POP_MESSAGE_000", "hash": "E9927F20BA8EC64B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_ACCESS_MESSAGE", "hash": "99FDEF278F139169", "target": "" }
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_00", "hash": "99D2D5897EA392BC", "target": "Ourdilic procura ajuda para uma tentativa de resgate." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_01", "hash": "0078A94A13543EEA", "target": "Um dos pesquisadores de Snowcloak ainda não voltou da coleta de amostras de gelo, e ele tem fama de atrair ice sprites. Ourdilic pede que você encontre o infeliz e, se necessário, o salve dos atacantes." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_02", "hash": "EED2E053527CD960", "target": "A suposição de Ourdilic se revela impressionantemente correta, pois você encontra o pesquisador pálido encolhido de medo de um ice sprite. Agora que matou o espírito e escapou das atenções bajuladoras do pesquisador, relate a Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_03", "hash": "E410D2E3BA38B247", "target": "Ourdilic também tem uma boa notícia: cortou pela raiz as esperanças do pesquisador de <if(gnum4,um romance,uma amizade fraterna)>. Um final feliz para todos, exceto o ice sprite, é claro." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_00", "hash": "56B18F0DC9665CB8", "target": "Resgatar o pesquisador" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_01", "hash": "2161F4F2732B6F8E", "target": "Relatar a Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_000", "hash": "1C7061108D51161A", "target": "As pesquisas nunca correram sem problemas em Snowcloak. Para começar, os ice sprites nos atormentam." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_001", "hash": "5DD58B8219320698", "target": "Suspeito que os espíritos sejam culpados pelo nosso problema mais recente: um pesquisador que saiu para perfurar o gelo e colher amostras está demorando a voltar ao acampamento." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_002", "hash": "4F57894AA75C1775", "target": "Os espíritos se divertem atormentando certas pessoas mais do que outras, e, bem, ele é uma dessas pessoas. Pode correr para salvá-lo?" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_NPCA_000_010", "hash": "47B4606ACE3322E5", "target": "Você me <italic(1)>salvou<italic(0)>! <if(gnum4,Acho que estou apaixonado por você!,Você é meu melhor amigo!)> Vamos voltar ao acampamento juntos... Ah, você tem algo perigoso para fazer antes? Hum, tudo bem. Então... até mais!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_030", "hash": "E878376B3D26A2B2", "target": "Que bom ver você de volta, <split(<string(gstr1)>, ,1)>. Acabei de falar com aquele cara pálida. Também fiz questão de explicar que você é <if(gnum4,uma mulher ocupada,um homem ocupado)>." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_031", "hash": "8AFB34FBA29CC8A1", "target": "Graças a você, nós também podemos nos ocupar da nossa missão! Ainda haverá muitas dificuldades, mas, com sua ajuda, <italic(1)>vamos<italic(0)> encontrar uma passagem pela muralha de gelo!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_POP_MESSAGE_000", "hash": "E9927F20BA8EC64B", "target": "Você sente um frio repentino no ar!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_ACCESS_MESSAGE", "hash": "99FDEF278F139169", "target": "O espírito ainda está vivo!" }
   ]
 }

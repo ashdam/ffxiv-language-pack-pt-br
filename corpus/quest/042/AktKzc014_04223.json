@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzc014_04223",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "" },
-    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "" }
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_SEQ_00", "hash": "0DACC521EFD93357", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ursos devoradores de gente rondam os campos de gelo, e Iliette pretende inverter os papéis, mas não exatamente como se esperaria." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_00", "hash": "A2EFFDE9889C505C", "target": "Colocar a carne de cervo com sedativo nos locais indicados" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_TODO_01", "hash": "205CFBFAC07D4FA8", "target": "Falar com Iliette" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_000", "hash": "2989671339773E97", "target": "Justo quem eu esperava ver! Que tal uma caçada?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_001", "hash": "4EB77438CF36D578", "target": "Estou atrás de ursos. Se nunca provou a carne deles, recomendo muito! Não são das presas mais fáceis, embora você certamente já tenha enfrentado coisa muito pior." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_002", "hash": "805D30560187B539", "target": "Se topar, o plano é este: primeiro, atraímos os ursos com esta carne de cervo, que também está embebida em poção sonífera. Depois, é só chegar perto e dar cabo deles como preferir. Mais simples, impossível!" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_003", "hash": "2E60072C1B0E2ADC", "target": "Aqui estão três porções generosas de carne de cervo de primeira. Espere a mistura fazer efeito antes de avançar para garantir seu prêmio!" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_004", "hash": "357048177D7582CD", "target": "É bom ficar de olho enquanto estiver à espreita. Não vai querer nenhum urso chegando por trás, vai?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_010", "hash": "505B0BB226272C39", "target": "Vejo que voltou com todos os membros no lugar, o que só pode significar que a caçada foi um sucesso! Na verdade, ouvi de outros em campo que o urso que você encontrou era bem mais... animado do que esperávamos. E bem maior também." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_011", "hash": "41FDAFF93788A4A8", "target": "Quê!? Você derrubou aquele brutamontes sem ajuda?" },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_012", "hash": "B32CF54CD74F2AB8", "target": "Impressionante... Mas parece que a poção sonífera fornecida pelo Lorde Emmanellain foi bem menos eficaz do que ele nos fez acreditar..." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_013", "hash": "0A1065898757AB2B", "target": "Segundo ele, adotou esse método depois de despertar a ira de seu nobre pai por não conseguir dominar técnicas mais... esportivas. Falou de suas façanhas com certo orgulho, embora as histórias não fossem nada favoráveis a ele." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_014", "hash": "652642037E7591A4", "target": "Ainda assim, em nossa situação atual, precisamos abrir mão da emoção da caçada e escolher os meios que ofereçam o caminho mais seguro para o sucesso, por mais desleais que sejam." },
+    { "gameKey": "quest/042/AktKzc014_04223#TEXT_AKTKZC014_04223_ILIETTE_000_015", "hash": "75A0A7E01D0A80D0", "target": "Infelizmente, os ursos desta região são totalmente imunes à fórmula... ou talvez já houvesse algo errado com ela. Enfim, nenhum mal foi feito, certo? A você, quero dizer, não aos ursos. Obviamente." }
   ]
 }

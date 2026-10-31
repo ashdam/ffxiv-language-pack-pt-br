@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz011_02645",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "" },
-    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "" }
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "Ansger está preocupado com o abastecimento de água da aldeia." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "Eliminar três dust anilas para obter seus núcleos" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "Entregar os núcleos de anila a Ansger" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <if(gnum4,moça,rapaz)>. Você parece saber se virar numa briga. Pode me dar uma mão?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "Antigamente, Ala Gannha era conhecida pela pedreira e pela pedra que produzia. Mas uma série de problemas acabou com isso. Um dos problemas que enfrentamos agora é o abastecimento de água." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "A extração de pedra exige muita água, que fica terrivelmente suja no processo. Se essa água chegar ao reservatório ao lado da aldeia, perderemos nossa única fonte de água potável." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "Mas, se tivéssemos um ou dois núcleos de anila, melhor, três, poderíamos purificar a água com facilidade." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "Quero que elimine três dust anilas e traga os núcleos deles. Deve encontrar alguns ao sul." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "Quero que elimine três dust anilas e traga os núcleos deles. Deve encontrar alguns ao sul." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "Conseguiu três núcleos?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "Ótimo! Isso vai nos ajudar a remover toda a poeira mineral da água usada na pedreira." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "Antes de o Império invadir, a aldeia inteira saía para caçar anilas e coletar os núcleos. Agora não temos gente para isso, já que metade de Ala Gannha foi incorporada ao exército imperial." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "Não que tivéssemos freguesia mesmo se houvesse mais gente. Garlemald só usa metal nas construções." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "Enfim, deixa isso para lá. Agradeço a ajuda, <if(gnum4,moça,rapaz)>. Ajudou muito." }
   ]
 }

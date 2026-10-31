@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz713_01917",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "" }
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_00", "hash": "0B4FB7102753CB1C", "target": "Aanu Vanu gesticula desesperadamente para o céu em súplica." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "Aanu Vanu conta sobre os totens amaldiçoados no Cromeleque. Destrua quatro antes que as trevas que anunciam recaiam sobre os Vanu Vanu de Ok' Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "Após enfrentar sua fúria, os totens amaldiçoados não passam de lascas de madeira. Volte a Aanu Vanu e conte que o serviço está feito." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "Depois de ouvir sobre sua destruição bem-sucedida, Aanu Vanu explica que os totens eram usados em encantamentos sombrios, maculando a memória dos ancestrais Vanu Vanu que deveriam homenagear. Deixar esses atos impunes traria má sorte à tribo Zundu." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "Destruir Vundu totems" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "Informar Aanu Vanu" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "Ventos sombrios trazem maus presságios para tribo Zundu. <if(gnum4,A de baixo,O de baixo)> precisa ajudar!" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "No Cromeleque ficam totens amaldiçoados. Destrua quatro para afastar má sorte que anunciam." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_010", "hash": "5CD1457902F79900", "target": "No Cromeleque, totens se erguem e anunciam dias sombrios para Zundu. Derrube e livre Zundu de presságio que carregam." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_020", "hash": "F14CCAF3D9890DE8", "target": "Ventos vazios não sopram mais sobre Ok' Zundu, fortuna da tribo brilha como céu após tempestade. Isto significa que <if(gnum4,a de baixo,o de baixo)> livra ilha dos totens amaldiçoados." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_021", "hash": "6624712D0DB9D97C", "target": "Totens honram nomes de grandes ancestrais, para que permaneçam na memória Vanu Vanu como sol imortal. Amaldiçoar totem e possuir com magia sombria macula memória de herança da tribo." },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_022", "hash": "939CFC3505811CA3", "target": "<if(gnum4,A de baixo,O de baixo)> restaura parte da honra dos ancestrais da tribo. Mas precisa manter vigilância, pelo bem da tribo e de todos Vanu Vanu." }
   ]
 }

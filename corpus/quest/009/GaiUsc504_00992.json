@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc504_00992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_00", "hash": "D45B4C87BD7EA839", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_01", "hash": "ED98EE97C383E543", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_02", "hash": "86B7261633C7B831", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_03", "hash": "F28AD945A88D6686", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_00", "hash": "19DA498A28B11F03", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_01", "hash": "10E3B1B0B4EAFAD3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_000", "hash": "2F7A59CD46E3F820", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_001", "hash": "78907433BECCBE7A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_020", "hash": "43AF484BD4AA11EC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_021", "hash": "1076BA0DF40BA4D6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_022", "hash": "1D1B675237D06F2B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_023", "hash": "C49863F0A05CEDD9", "target": "" }
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_00", "hash": "D45B4C87BD7EA839", "target": "Rammbroes tem motivos para se preocupar, pois um único ataque de hippogryph já não é brincadeira─quanto mais três." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_01", "hash": "ED98EE97C383E543", "target": "Vários membros da escavação dos Filhos de São Coinach foram atacados por hippogryphs na planície cristalizada, e os ferimentos mostram que não foram encontrões brincalhões. Rammbroes pede que você elimine três dessas criaturas grosseiras." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_02", "hash": "86B7261633C7B831", "target": "Você matou três hippogryphs e se vê na obrigação de concordar com Rammbroes: eles tinham uma agilidade e uma ferocidade incomuns. Informe Rammbroes de que a tarefa está cumprida." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_03", "hash": "F28AD945A88D6686", "target": "As ruínas escavadas pelos Filhos mal começaram a revelar seus segredos. Se o local realmente foi o lar dos construtores da Torre de Cristal, deverá oferecer uma perspectiva inestimável sobre o passado distante." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_00", "hash": "19DA498A28B11F03", "target": "Matar hippogryphs" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_01", "hash": "10E3B1B0B4EAFAD3", "target": "Relatar a Rammbroes" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_000", "hash": "2F7A59CD46E3F820", "target": "Você é <if(gnum4,a aventureira,o aventureiro)> <split(<string(gstr1)>, ,1)>, não é? Vários de nossos pesquisadores foram feridos por hippogryphs na área cristalizada ao norte. É espantoso como eles são ágeis e ferozes nesta região." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_001", "hash": "78907433BECCBE7A", "target": "Mas precisamos ensiná-los a fugir, não a atacar, quando os Filhos de São Coinach estiverem ocupados com seus estudos. Sugiro que você elimine alguns hippogryphs para que aprendam a lição." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_020", "hash": "43AF484BD4AA11EC", "target": "Ah, <if(gnum4,nossa protetora voltou,nosso protetor voltou)>! Obrigado por cumprir seus deveres com tanta rapidez. Poderemos planejar uma pesquisa <if([gnum11<12],<if([gnum11<4],amanhã bem cedo,ainda esta tarde)>,<if([gnum11<17],ainda esta noite,amanhã bem cedo)>)>." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_021", "hash": "1076BA0DF40BA4D6", "target": "Estas ruínas da antiga Allag representam ramos inteiros de conhecimento perdido. Foram os alaganos que construíram a Torre de Cristal, ou assim dizem as melhores teorias." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_022", "hash": "1D1B675237D06F2B", "target": "Se for esse o caso, não poderiam estas ruínas ser os restos de uma aldeia, ou melhor, uma cidade para os trabalhadores e suas famílias? Será que guardam o registro de suas vidas, passadas a erguer o edifício reluzente que hoje nos fascina?" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_023", "hash": "C49863F0A05CEDD9", "target": "Toda a pesquisa sobre a torre está paralisada. Sua perfeição impede o avanço dos estudiosos. Mas aqui... talvez aprendamos alguma coisa aqui. Ao menos, é o que esperamos." }
   ]
 }

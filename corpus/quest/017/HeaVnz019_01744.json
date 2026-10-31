@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz019_01744",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_00", "hash": "7E99CFFF767A2E5D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_01", "hash": "E92119D02FD878A7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_02", "hash": "96457FD2DBD6637A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_03", "hash": "03D5DD95B0876013", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_00", "hash": "4F42E02FA3AA4BCB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_01", "hash": "5869F6B9D0CF3C8F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_000", "hash": "7B0A0825B0FAF320", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_001", "hash": "5AC6E9835A9D4F3B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_002", "hash": "01FA773527615967", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_010", "hash": "F0624CFF1028C310", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_030", "hash": "C8D378D0F712AAFF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_031", "hash": "890FB8AE4942CBED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_032", "hash": "A13C5173DD89B9D6", "target": "" }
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_00", "hash": "7E99CFFF767A2E5D", "target": "Ingaret murmura algo sobre reparos na ponte." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_01", "hash": "E92119D02FD878A7", "target": "Ingaret recebeu a tarefa de expulsar os upland mylodons do outro lado da Ponte de Ferro Negro. A ponte precisa de reparos, mas os artesãos não podem trabalhar em segurança com monstros tão próximos. Ingaret não acredita que consiga enfrentar tantas feras ao mesmo tempo. Abata três dos monstros, e ela dará conta do resto." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_02", "hash": "96457FD2DBD6637A", "target": "Você elimina os mylodons sem dificuldade. Volte a Ingaret para que ela faça sua parte." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_SEQ_03", "hash": "03D5DD95B0876013", "target": "Ingaret agradece sua ajuda e paga sua parte da recompensa pelas feras. Ela também conta sobre uma fazenda do outro lado da ponte. O lugar está em ruínas, mas, se os mylodons forem completamente expulsos, talvez seja possível reconstruí-lo." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_00", "hash": "4F42E02FA3AA4BCB", "target": "Abater upland mylodons" },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_TODO_01", "hash": "5869F6B9D0CF3C8F", "target": "Apresentar-se a Ingaret" },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_000", "hash": "7B0A0825B0FAF320", "target": "Tem um momento para conversar? Há pouco, um dos trabalhadores da Casa Dzemael me pediu para cuidar de uns mylodons que estão causando problemas." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_001", "hash": "5AC6E9835A9D4F3B", "target": "A Ponte de Ferro Negro mal sobreviveu à Calamidade. Precisa urgentemente de reparos, mas os upland mylodons rondam perto demais dela, e os artesãos não conseguem trabalhar em segurança. Alguém precisa matá-los... Os mylodons, quero dizer! Não os artesãos!<br>Eu pediria aos cavaleiros dragões, mas estão tão ocupados que levariam semanas para encontrar tempo. Eu mesma faria isso, mas são tantas feras que tenho medo de ser cercada e ficar em desvantagem." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_002", "hash": "01FA773527615967", "target": "Você é uma pessoa capaz. Poderia fazer a gentileza de reduzir um pouco o número deles? Se abatesse, digamos, três, acho que conseguiria acabar com o resto sozinha." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_010", "hash": "F0624CFF1028C310", "target": "Os mylodons ficam logo ao norte da Ponte de Ferro Negro. Se abater três das feras, deve bastar para eu acabar com as outras. Por favor, tome cuidado." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_030", "hash": "C8D378D0F712AAFF", "target": "Já matou três deles? Muito obrigada. Não se machucou, não é? Aqui, por favor, aceite isto. É sua parte do pagamento pelo trabalho." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_031", "hash": "890FB8AE4942CBED", "target": "Aliás, por acaso viu a fazenda do outro lado da ponte? Esses mylodons dificultam o acesso à região, e a ponte foi deixada às ruínas." },
+    { "gameKey": "quest/017/HeaVnz019_01744#TEXT_HEAVNZ019_01744_INGARET_000_032", "hash": "A13C5173DD89B9D6", "target": "Depois que consertarmos a ponte, quem sabe um dia consigamos reconstruir aquela fazenda." }
   ]
 }

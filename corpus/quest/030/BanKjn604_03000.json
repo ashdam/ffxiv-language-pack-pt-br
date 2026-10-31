@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn604_03000",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "" },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "" }
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "Zukin encontrou uma nova utilidade para baús velhos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "Examinar octopus traps perto de <italic(1)>Adventure<italic(0)> e obter um polvo" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "Entregar o polvo koromo gigante a Zukin" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "Tínhamos alguns baús de tesouro velhos largados por aí, juntando poeira. Com um pouco de criatividade, consegui transformá-los em armadilhas para polvos. E funcionam muito bem, se me permite o elogio a mim mesmo." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "Agora, quero presentear o bom pessoal de Kokajiya com uma pesca fresquinha. Eu ficaria grato se você fosse examinar as armadilhas." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_002", "hash": "659CA601DE98C20C", "target": "Coloquei três perto dos destroços do navio a sudoeste daqui. Alguma já deve ter capturado um polvo. Obrigado desde já, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_010", "hash": "BAAFB96A2581D777", "target": "Não há nada neste baú." },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SYSTEM_000_011", "hash": "0AB6A57F8E277233", "target": "Há um emaranhado de tentáculos se contorcendo no baú!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_020", "hash": "CD12DB15CB13DB3C", "target": "Ah, aí está você. Os kami nos abençoaram com uma captura?" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_021", "hash": "D537070EC03C956A", "target": "Ora, que polvo grande e cheio de vida! Nossos amigos ferreiros vão ficar satisfeitos!" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_023", "hash": "BC0A920FED6784C1", "target": "A propósito, mencionei que os baús mais velhos e cobertos de algas são as melhores armadilhas? Pois são. Talvez seja bom lembrar disso no futuro." }
   ]
 }

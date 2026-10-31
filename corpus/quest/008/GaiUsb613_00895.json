@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb613_00895",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_00", "hash": "849A9FABEA621A19", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_01", "hash": "1919EE5DD510F5AE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_02", "hash": "7B839D3F51A581E9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_TODO_00", "hash": "1601264929C7129D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_STEPHANNOT_000_000", "hash": "0EBB95886FB9F6B3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_STEPHANNOT_000_001", "hash": "B4917B1A35DEF5D7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_010", "hash": "7D9D66556CF4BBBA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_020", "hash": "5938727848A151D3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_021", "hash": "04E2156C72D0E8D1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_022", "hash": "82C5B085C9A59406", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_023", "hash": "1CB236A36A9026B1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_024", "hash": "033660718E922311", "target": "" },
-    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_025", "hash": "DE52E291BF88C6A0", "target": "" }
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_00", "hash": "849A9FABEA621A19", "target": "Você sente que agora há uma espécie de pacto com Stephannot, e tudo indica que ele tem outra missão para você." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_01", "hash": "1919EE5DD510F5AE", "target": "O recruta que morreu no ataque de um crocodilo deixou um pai, outro cavaleiro de Ishgard no Acampamento Cabeça de Dragão. A lembrança do jovem soldado, um anel prateado, precisa chegar a esse Theobalin." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_SEQ_02", "hash": "7B839D3F51A581E9", "target": "Apesar de algumas reservas, você honra o pacto e conta a Theobalin sobre a morte gloriosa de seu filho em combate. O coração de Theobalin parece ficar mais leve ao saber que o sombrio legado de sua família segue intacto." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_TODO_00", "hash": "1601264929C7129D", "target": "Entregar o anel prateado a Theobalin" },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_STEPHANNOT_000_000", "hash": "0EBB95886FB9F6B3", "target": "Não gosto de aventureiros, como você bem sabe, mas aquela morte miserável na estrada norte nos une. É a vontade da Fúria. Depois de muito refletir, decidi mandar você ao Acampamento Cabeça de Dragão com o anel para Theobalin, o pai do garoto." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_STEPHANNOT_000_001", "hash": "B4917B1A35DEF5D7", "target": "Não fica bem a um cavaleiro mentir, mas acrescentei o nome do garoto ao da patrulha que foi morta pelos dragões. Você precisa dizer a Theobalin que seu filho morreu gloriosamente em batalha. Não deixe que seu nome seja manchado pela vergonha. Ele merecia mais." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_010", "hash": "7D9D66556CF4BBBA", "target": "Você procura Theobalin? Sou eu. Um anel? Fale coisa com coisa, <if(gnum4,aventureira,aventureiro)>." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_020", "hash": "5938727848A151D3", "target": "Este é o anel de nomeação de minha esposa, que tirei de seu dedo frio tantos anos atrás. Dei a nosso filho depois de seu juramento à espada. Não precisa franzir tanto a testa, <if(gnum4,aventureira,aventureiro)>. Sei o que isso significa: meu filho morreu, minha linhagem chegou ao fim." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_021", "hash": "04E2156C72D0E8D1", "target": "Sim, sei o que isso significa...<br>Ontem à noite, uma patrulha dos Fortins de Skyfire foi morta até o último homem. Ele era um deles?" },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_022", "hash": "82C5B085C9A59406", "target": "Ah, então morreu bem, pois ouvi dizer que derrubaram dois dragões antes que o fogo os alcançasse." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_023", "hash": "1CB236A36A9026B1", "target": "Em todas as gerações da minha família, ao menos um filho morreu na cruzada. Mal me lembro de meu pai, que caiu operando a balista nos Fortins, e sou o último de três irmãos." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_024", "hash": "033660718E922311", "target": "Tive quatro filhos e uma filha. Dois dos meninos não chegaram ao primeiro aniversário, e minha esposa morreu no parto do terceiro. A doença levou minha filha junto com seus bebês." },
+    { "gameKey": "quest/008/GaiUsb613_00895#TEXT_GAIUSB613_00895_THEOBALIN_000_025", "hash": "DE52E291BF88C6A0", "target": "Ainda assim, nossa honra está intacta, pois meu filho deu a vida pela causa. Quem dera tivesse vivido mais dias, travado mais batalhas antes de cair! Esse é meu único arrependimento. Obrigado pela mensagem. Não falta coragem a você para vir a Coerthas nestes tempos conturbados..." }
   ]
 }

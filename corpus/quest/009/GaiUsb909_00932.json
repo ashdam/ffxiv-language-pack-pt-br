@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsb909_00932",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "" },
-    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "" }
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_00", "hash": "F27CD97CA670CA6B", "target": "Sor Chaunollet quer que você faça mais uma coleta para ajudar os cavaleiros." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_01", "hash": "A127FA21F81BFB70", "target": "Com uma autoridade um tanto teatral, Sor Chaunollet manda você trazer gordura de chinchillas. Seu conhecimento da culinária ishgardesa não basta para entender o motivo, mas mate quatro chinchillas e recolha sua rica gordura visceral." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_02", "hash": "66BC3F5664BAE737", "target": "As chinchillas eram curiosamente abundantes e bem alimentadas para animais tão delicados no auge do inverno. Há muitos mistérios assim em Coerthas, mas deixe a investigação de lado por enquanto e ponha a gordura cremosa nas mãos de Sor Chaunollet." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_SEQ_03", "hash": "FC16FC40F6FA59DB", "target": "Esquecendo por um instante sua expressão dominadora, Sor Chaunollet se declara encantado com a qualidade da gordura. Dada a inexplicável corpulência dos animais, você fica feliz em saber que ela se destina às patas dos chocobos, em vez de à panela de ensopado." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_00", "hash": "5FAE1289A52082A5", "target": "Recolher gordura de chinchillas" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_TODO_01", "hash": "F6A0951BE924895D", "target": "Entregar a gordura de chinchilla a Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_000", "hash": "F0C8196A8791CDC6", "target": "Você parece ter vontade de servir. Não negue, o fogo nos seus olhos denuncia. <italic(1)>Há<italic(0)> algo que pode fazer: mate as chinchillas que vivem por perto e recolha sua gordura." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_001", "hash": "830A496230496D5D", "target": "Quantos animais? Vejo que a tarefa anima você! Quatro de bom tamanho bastam. Agora seja meu falcão e vá caçar aquelas chinchillas!" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_020", "hash": "184932DF0B76DF40", "target": "Ah, o falcão do Templo! Trouxe o que mandei buscar?" },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_030", "hash": "D04216645DC03878", "target": "É uma gordura excelente, e bem extraída. Vejo que tem alguma habilidade para limpar animais. Depois de derretida, será enriquecida e transformada num bálsamo contra queimaduras de frio para nossos chocobos." },
+    { "gameKey": "quest/009/GaiUsb909_00932#TEXT_GAIUSB909_00932_CHAUNOLLET_000_031", "hash": "44CFA59E2A7F797F", "target": "Entre todos os animais, só os chocobos merecem honra. Para cada cavaleiro de Ishgard que morreu na cruzada, uma dessas nobres aves também perdeu a vida. Ninguém que veja o fim de um chocobo consegue ficar indiferente." }
   ]
 }

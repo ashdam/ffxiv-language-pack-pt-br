@@ -2,19 +2,19 @@
   "conversation": "quest/022/HeaVny212_02281",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_00", "hash": "00B84FCC5C1A6662", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_01", "hash": "3BC6A1FDDCB796FF", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_02", "hash": "68D9F044CD3BFF2B", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_TODO_00", "hash": "CBA90CFF02208002", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_000", "hash": "C14FFA80E6FE9535", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_001", "hash": "9B6D1647B86AEBB1", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_002", "hash": "AE6FFB1BB98BA79F", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_003", "hash": "C745D175563D0385", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_004", "hash": "DF0E834DAB1C5013", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_010", "hash": "8D2749A8B85950E6", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_030", "hash": "08EE9839D6BDFE35", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_040", "hash": "D06704DD37940E0A", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_041", "hash": "544D46346C3C743A", "target": "" },
-    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_042", "hash": "4C49DE51AB0182AC", "target": "" }
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_00", "hash": "00B84FCC5C1A6662", "target": "Unukalhai tem um presente para você." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_01", "hash": "3BC6A1FDDCB796FF", "target": "Unukalhai lhe dá uma tomestone alagana que supostamente contém um registro detalhado do feroz conflito entre Sephirot e as forças de Allag. Ele explica que a maravilhosa tecnologia do antigo império pode usar essas informações para manifestar uma encarnação artificial do poderoso eikon, permitindo que você enfrente o imponente Sephirot mais uma vez. Leve a tomestone à Nave-Capitânia de Azys Lla e entregue o dispositivo de registro ao verification node." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_SEQ_02", "hash": "68D9F044CD3BFF2B", "target": "Você entrega a tomestone ao verification node e inicia o que a esfera descreve como uma “simulação de combate”. Reúna companheiros de confiança e teste sua coragem contra o poder desenfreado de Sephirot.<br><br>※Você pode acessar Containment Bay S1T7 (Extreme) pelo Duty Finder." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_TODO_00", "hash": "CBA90CFF02208002", "target": "Entregar a tomestone alagana de teologia ao verification node na Nave-Capitânia" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_000", "hash": "C14FFA80E6FE9535", "target": "...Tenho algo para você, <if(gnum4,Guerreira,Guerreiro)> da Luz. Durante nossa expedição para banir Sephirot, encontrei uma relíquia e acredito que ela será mais bem aproveitada em suas mãos." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_001", "hash": "9B6D1647B86AEBB1", "target": "É um dispositivo alagano usado para armazenar informações. Neste caso, o registro do feroz conflito travado nas costas de Meracydia entre o eikon Sephirot e as forças de Allag." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_002", "hash": "AE6FFB1BB98BA79F", "target": "Se mostrar esta tomestone ao verification node diante do Controle da Tríade, os sistemas dele analisarão os vários aspectos do conflito e criarão um eikon falso para você treinar. Considere uma espécie de “combate simulado” que pressupõe um Sephirot livre de seus grilhões." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_003", "hash": "C745D175563D0385", "target": "Se entendi bem seu funcionamento, o nodo também pode manifestar uma encarnação muito mais forte do eikon. Isso reproduziria as consequências catastróficas de Sephirot absorver outra fonte de energia, como ao derrotar outro membro da Tríade Guerreira. Um desafio tentador para alguém com sua habilidade em combate, não?" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_004", "hash": "DF0E834DAB1C5013", "target": "Você não precisa dos conhecimentos da senhora Krile sobre tecnologia alagana para iniciar essa batalha. Basta mostrar a tomestone ao nodo na Nave-Capitânia e seguir as instruções da esfera. Espero que a experiência traga conhecimentos valiosos, <if(gnum4,Guerreira,Guerreiro)> da Luz." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_UNUKALHAI_000_010", "hash": "8D2749A8B85950E6", "target": "Como expliquei, basta mostrar a tomestone ao verification node na Nave-Capitânia. Siga as instruções dele e logo estará diante do colossal Sephirot mais uma vez!" },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_030", "hash": "08EE9839D6BDFE35", "target": "\\<bip> Ativando sistemas de verificação... Solicitação de simulação de combate recebida. Aguardando dados da tomestone..." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_040", "hash": "D06704DD37940E0A", "target": "\\<bip> Dados processados. Adversário: Tríade Guerreira, Sephirot. Definindo parâmetros da simulação..." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_041", "hash": "544D46346C3C743A", "target": "\\<bip> \\<bup> ALERTA! Nível de ameaça: extremo. O Império não se responsabiliza por morte ou lesões resultantes da participação em simulações de combate." },
+    { "gameKey": "quest/022/HeaVny212_02281#TEXT_HEAVNY212_02281_VERIFICATIONSYSTEM_000_042", "hash": "4C49DE51AB0182AC", "target": "\\<bip> Ativando realidade aumentada... Iniciando simulação de combate... O Império agradece sua participação voluntária neste estudo. Dados post mortem serão usados para aumentar as taxas de sobrevivência dos próximos participantes. Agradecemos seu sacrifício." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa209_00732",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "" },
-    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "" }
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_00", "hash": "89796844EE534D01", "target": "Auphiliot, em Buscarron's Druthers, precisa de ajuda de quem se aventure a frustrar um plano dos Qiqirn." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_01", "hash": "007012E873C5E328", "target": "Auphiliot ficou sabendo que saqueadores Qiqirn estão acumulando grandes quantidades de veneno, que pretendem usar para emboscar viajantes desprevenidos. Use os potes incendiários que ele forneceu para destruir os esconderijos de veneno antes que algum dos fregueses de Druthers se machuque." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_02", "hash": "10469D78CD3DAFC8", "target": "Você destruiu todos os esconderijos de veneno dos Qiqirn, garantindo a segurança dos viajantes a caminho de Druthers e de quem sai de lá. Informe seus feitos a Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_SEQ_03", "hash": "728CE399DF0FA659", "target": "Auphiliot fica contente por você ter frustrado preventivamente o plano venenoso dos Qiqirn, fosse qual fosse. Ele explica também que a ideia veio de Buscarron, que acredita em evitar confrontos diretos para que a verdadeira paz possa enfim voltar à floresta." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_00", "hash": "CDDA5AA58C80699B", "target": "Usar os potes incendiários para destruir os esconderijos dos Qiqirn" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_TODO_01", "hash": "61FAADBC62231B9B", "target": "Apresentar-se a Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_000", "hash": "65392A5F6B556DC0", "target": "Seguiu meu conselho e pôs suas habilidades pra trabalhar em Druthers, foi? É isso que eu gosto de ver <if(gnum4,numa moça forte,num rapaz forte)>. Bom, aperta as botas, que tenho outro trabalho pra você." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_001", "hash": "322C224A360B44A3", "target": "Eu tava tomando uma caneca da melhor cerveja de Buscarron outro dia quando ouvi que os Qiqirn estão escondendo estoques de veneno por aqui. Não posso dizer ao certo o que eles tão tramando, mas coisa boa não deve ser. Que tal pegar estes potes incendiários aqui e ir explodir aquela porcaria toda?" },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_010", "hash": "019C3E32239BB451", "target": "Os esconderijos de veneno já eram, você diz? <if(gnum4,Boa moça,Bom rapaz)>! A próxima caneca é por minha conta." },
+    { "gameKey": "quest/007/GaiUsa209_00732#TEXT_GAIUSA209_00732_AUPHILIOT_000_011", "hash": "A2B7BD9CABB1CC29", "target": "Se <italic(1)>eu<italic(0)> pudesse escolher, pegava aqueles Qiqirn um por um e pendurava pelas orelhas de rato, mas o velho Buscarron não aceita isso de jeito nenhum. Diz que cada batalha que a gente evita agora poupa outra lá na frente. E, pra falar a verdade, tô começando a concordar com ele." }
   ]
 }

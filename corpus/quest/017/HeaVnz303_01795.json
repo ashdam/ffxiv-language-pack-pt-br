@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz303_01795",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_00", "hash": "57911E6FAB38E67C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_002", "hash": "52465975F8FEB526", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "" },
-    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_030", "hash": "4D1B7D6D5222A3E0", "target": "" }
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_00", "hash": "6D037634A6B17F48", "target": "O Vath fleetfoot está preocupado com os estoques de armas dos Vath." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_01", "hash": "CBB8495449B884A8", "target": "O Vath fleetfoot agradece mais uma vez pelas armas de fogo que você conseguiu para reforçar os estoques dos Vath. Agora, as reservas de pólvora, necessária para usar essas armas, estão ficando baixas. Ele pede que você busque mais na colmeia Gnath." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_02", "hash": "9964304860D0006A", "target": "Você furta parte dos estoques de pólvora dos Gnath. Volte ao Vath fleetfoot com seu ganho ilícito." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_SEQ_03", "hash": "ABA3A9E91D45CDFD", "target": "A pólvora traz um pouco de tranquilidade ao Vath fleetfoot. Se o estoque dos Vath acabasse, sua capacidade de defesa seria muito prejudicada. Graças ao seu esforço, esse risco foi reduzido por enquanto." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_00", "hash": "57911E6FAB38E67C", "target": "Obter pólvora para armas de pederneira" },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_TODO_01", "hash": "748D349AF65AA312", "target": "Entregar a pólvora ao Vath fleetfoot" },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_001", "hash": "A0CD218295BACEAB", "target": "Agradecemos mais uma vez, <if(gnum4,caçadora,caçador)>, pelas armas que reuniu para nós. Mas só as armas não bastam. São inúteis sem pólvora, e nossas reservas continuam diminuindo. Por favor, busque mais pólvora." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_002", "hash": "52465975F8FEB526", "target": "Em Loth ast Gnath, há sacos cheios de pólvora. Por favor, busque três desses sacos." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_010", "hash": "FBBDC3570A9FB343", "target": "Trouxe a pólvora? Nossas armas de fogo são inúteis sem ela." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_020", "hash": "2CCFAA4359C73565", "target": "Nossas reservas de pólvora estão baixas. Quando acabarem, ficaremos quase indefesos." },
+    { "gameKey": "quest/017/HeaVnz303_01795#TEXT_HEAVNZ303_01795_IDATEN_000_030", "hash": "4D1B7D6D5222A3E0", "target": "Esta quantidade de pólvora deve durar bastante tempo. Obrigado, <if(gnum4,generosa caçadora,generoso caçador)>." }
   ]
 }

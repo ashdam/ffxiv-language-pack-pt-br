@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk119_04569",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_SEQ_00", "hash": "085D480228D02A80", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_00", "hash": "D9C626CA45CE14F7", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_01", "hash": "BE59C56AE5177AD8", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_02", "hash": "2A7F3D4B7D2014BC", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_000", "hash": "2790C277B0D9EE96", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_001", "hash": "3710EC185B16C96E", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_002", "hash": "671DB21ED740102E", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_010", "hash": "55DA22EDAEC5B079", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_011", "hash": "7C42321ECF9924BF", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_012", "hash": "4D9BBDC2A46461DA", "target": "" },
-    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_013", "hash": "1B6562B89DB28074", "target": "" }
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_SEQ_00", "hash": "085D480228D02A80", "target": "Maru parece preocupado com a higiene dos dentes.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_00", "hash": "D9C626CA45CE14F7", "target": "Colocar a carne podre no local indicado" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_01", "hash": "BE59C56AE5177AD8", "target": "Aguardar no local indicado e derrotar o old pisaca que aparecer" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_TODO_02", "hash": "2A7F3D4B7D2014BC", "target": "Entregar o punhado de escamas resistentes de pisaca a Maru" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_000", "hash": "2790C277B0D9EE96", "target": "Nossos hipopótamos são uns doces, mas, atrás daqueles beiços carnudos e cheios de bigodes, escondem presas enormes que precisam de cuidados regulares." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_001", "hash": "3710EC185B16C96E", "target": "Gostamos de usar escamas de pisaca pra lixar, mas escamas de pisaca costumam vir presas a um pisaca. Aí é que você entra..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_002", "hash": "671DB21ED740102E", "target": "Se deixar esta carne estragada no território deles, um aparece na certa. Só garante que não tenha escamas quebradiças, tá? Um old pisaca deve ter o que você procura..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_010", "hash": "55DA22EDAEC5B079", "target": "Achou escamas adequadas?" },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_011", "hash": "7C42321ECF9924BF", "target": "Ah, são perfeitas! Obrigado pela ajuda." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_012", "hash": "4D9BBDC2A46461DA", "target": "Até onde sei, escamas de pisaca são a única ferramenta dura o bastante pras presas dos hipopótamos thavnairianos. Os selvagens raspam as deles na pedra de gigante, mas podem engolir pedaços dela assim. Faz mal pro estômago..." },
+    { "gameKey": "quest/045/BanArk119_04569#TEXT_BANARK119_04569_MARU_000_013", "hash": "1B6562B89DB28074", "target": "Mas, graças a você, os hipopótamos de Svarna vão ter presas aparadas e barrigas saudáveis! Os pilares da saúde dos hipopótamos. ...Provavelmente." }
   ]
 }

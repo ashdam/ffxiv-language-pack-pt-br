@@ -2,16 +2,16 @@
   "conversation": "quest/039/BanDwa104_03905",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_SEQ_00", "hash": "DD5E5760FA704617", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_00", "hash": "F0650BE4C6EF6C44", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_01", "hash": "06DC682390CCBB1C", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_001", "hash": "65690B2484D62FDE", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_002", "hash": "6DB347A1FA36CF85", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_003", "hash": "264241AE7594B1F5", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_012", "hash": "C06282050DA9566F", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_013", "hash": "57504016FE036F97", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_020", "hash": "E07AFCF354D31F86", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_021", "hash": "9778048E27067A3F", "target": "" },
-    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_022", "hash": "0750C4ECA87800EB", "target": "" }
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_SEQ_00", "hash": "DD5E5760FA704617", "target": "Regitt olha nervosamente para a distância.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que você aceitou a missão." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_00", "hash": "F0650BE4C6EF6C44", "target": "Armar as armadilhas na Floresta do Pastor Perdido" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_TODO_01", "hash": "06DC682390CCBB1C", "target": "Informar Regitt" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_001", "hash": "65690B2484D62FDE", "target": "Cacete! Quando viemos pra cá, ninguém teve a gentileza de avisar que esses gremlins eram um pé no saco ainda maior que os hobgoblins! Só de imaginar aqueles olhos esbugalhados e o pelo sarnento, meu sangue já ferve de raiva." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_002", "hash": "6DB347A1FA36CF85", "target": "Como se a tagarelice sem fim já não incomodasse bastante, os soldados de Ostall Imperative me disseram que eles têm uma curiosidade natural por máquinas. Curiosidade que quase sempre termina com as máquinas virando um monte de sucata." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_003", "hash": "264241AE7594B1F5", "target": "Nem preciso dizer que não podemos deixar essas pragas nos infestar. Por isso, com a ajuda dos soldados que mencionei, construí estas armadilhas pra manter os gremlins longe. Pode espalhar por aí pra mim?" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_012", "hash": "C06282050DA9566F", "target": "Ack! Aquilo é...?! Corre, corre!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_GREMLIN03905_000_013", "hash": "57504016FE036F97", "target": "Mais rápido, sua lesma, mais rápido!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_020", "hash": "E07AFCF354D31F86", "target": "Pelo jeito, as armadilhas foram tão eficazes quanto me disseram. Isso deve manter aquelas pestes longe das nossas barbas por enquanto." },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_021", "hash": "9778048E27067A3F", "target": "Pensar que a simples visão de doces causa tanto medo nos gremlins! Mas, se o que os soldados disseram é verdade, o perigo não são os doces em si, e sim o que eles anunciam: as Pixie!" },
+    { "gameKey": "quest/039/BanDwa104_03905#TEXT_BANDWA104_03905_REGITT_000_022", "hash": "0750C4ECA87800EB", "target": "Diz a lenda que, se encontrar balas no meio do mato, aquelas trapaceiras aladas vão estar por perto. E, por mais que gostem de travessuras, nem os gremlins ousariam se meter entre uma Pixie e seus doces. Talvez, na próxima vez que armar as armadilhas, eu fique pra ver se essas histórias são verdade." }
   ]
 }

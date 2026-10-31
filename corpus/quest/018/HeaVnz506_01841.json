@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz506_01841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_00", "hash": "437C0B11E2A15EF8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_01", "hash": "F3574EA65D682F50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_02", "hash": "1E057002EB40889B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_03", "hash": "4B57567522D3854B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_04", "hash": "F64E2ED40EDF6B96", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_00", "hash": "39C245F9FB895793", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_01", "hash": "555DE310A508F8BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_02", "hash": "EBE5FED3BD29B3BD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_000", "hash": "AF95AC64FAA224ED", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_001", "hash": "6512EF4A83CBE66D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_010", "hash": "82F6F5CF7A9DAEF9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_030", "hash": "F872574BE963778E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_031", "hash": "1AE25603C589266C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_032", "hash": "2DC72C741605C1A6", "target": "" }
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_00", "hash": "437C0B11E2A15EF8", "target": "Algo deixou o pompom de Mogmont todo retorcido." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_01", "hash": "F3574EA65D682F50", "target": "O senso de dever de Mogmont foi profundamente ofendido por um dragão atrevido que fez um ninho logo à saída de Zenith. O moogle zeloso pede que você roube um ovo desse ninho, mas não revela com que objetivo. Vá à praça diante de Zenith e pegue o ovo debaixo do focinho do dragão." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_02", "hash": "1E057002EB40889B", "target": "Compreensivelmente, o dragão ataca quando você tenta roubar o ovo, mas você consegue subjugá-lo. Pegue um ovo do ninho antes que o dragão se recupere." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_03", "hash": "4B57567522D3854B", "target": "O ovo está quente ao toque, e você sente o calor do dragão prestes a nascer em seu interior. Leve o ovo a Mogmont para finalmente descobrir o que ele pretende fazer com ele." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_SEQ_04", "hash": "F64E2ED40EDF6B96", "target": "Depois que você entrega o ovo de dragão a Mogmont, ele revela a última etapa de seu grande plano: vai devolvê-lo. Porém, só depois de dar uma boa bronca no dragão sem consideração e explicar a importância de manter um lugar sagrado como Zenith limpo e arrumado." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_00", "hash": "39C245F9FB895793", "target": "Obter um ovo de dragão" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_01", "hash": "555DE310A508F8BE", "target": "Obter um ovo de dragão" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_TODO_02", "hash": "EBE5FED3BD29B3BD", "target": "Entregar o ovo a Mogmont" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_000", "hash": "AF95AC64FAA224ED", "target": "Essa agressão não vai passar, kupo! Os lacaios intrometidos de Nidhogg tomaram a praça diante de Zenith." },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_001", "hash": "6512EF4A83CBE66D", "target": "Precisamos fazer <italic(1)>alguma coisa<italic(0)> para dar uma lição neles. Um até teve a audácia de fazer um ninho bem na frente do lugar sagrado, dá para acreditar? Preciso que você pegue um ovo de lá. Isso vai ensiná-los a não se reproduzir onde não devem!" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_010", "hash": "82F6F5CF7A9DAEF9", "target": "Não podemos tolerar os dragões de Nidhogg <italic(1)>se reproduzindo<italic(0)> em solo sagrado. Roube um ovo do ninho para mostrar a esses dragões que não são bem-vindos aqui!" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_030", "hash": "F872574BE963778E", "target": "Que atrevimento daquele dragão, fazer um ninho em solo tão sagrado. Teve algum problema para roubar o ovo, kupo?" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_031", "hash": "1AE25603C589266C", "target": "Esse... Esse ovo é maior do que eu imaginava! Ah? Quer saber o que pretendo fazer com ele?" },
+    { "gameKey": "quest/018/HeaVnz506_01841#TEXT_HEAVNZ506_01841_MOGMONT_000_032", "hash": "2DC72C741605C1A6", "target": "Ora, vou marchar até aquele dragão e devolver o ovo! Mas só depois de dar uma boa bronca! Vou fazer ele entender que este é o domínio de Hraesvelgr e que não vamos tolerar ninhos bagunçados por aqui, kupo!" }
   ]
 }

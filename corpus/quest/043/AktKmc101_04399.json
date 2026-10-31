@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_SEQ_00", "hash": "D83DBC16C44A7BE8", "target": "O vigia quer discutir assuntos graves com você." },
-    { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_00", "hash": "9FFF81BB25A37ECE", "target": "Procurar seus companheiros no Watcher's Palace" },
+    { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_00", "hash": "9FFF81BB25A37ECE", "target": "Procurar seus companheiros no Palácio do Vigia" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_01", "hash": "5BE85D6FCF0C5E53", "target": "Inspecionar o cristal de brilho apagado" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_02", "hash": "123572A41450577C", "target": "Inspecionar o cristal de brilho tênue" },
     { "gameKey": "quest/043/AktKmc101_04399#TEXT_AKTKMC101_04399_TODO_03", "hash": "DF0D338A963BE903", "target": "Inspecionar o cristal de brilho cálido" },

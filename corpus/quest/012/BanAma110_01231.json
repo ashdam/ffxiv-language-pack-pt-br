@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma110_01231",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_00", "hash": "D5262D2A6D445E3E", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_01", "hash": "CF52432277C03CBC", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_02", "hash": "B5EDA1BF29FB4A42", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_03", "hash": "0D2D9422507D1D0F", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_00", "hash": "4868A5E7346571A0", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_01", "hash": "61A7A95447F9D136", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_001", "hash": "6EA4B27329DDC1BD", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_002", "hash": "CD58BEBD767870E5", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_003", "hash": "453BB79D1D92D87E", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_004", "hash": "51FCE229B1CCA243", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_006", "hash": "A42FF2715DAF9663", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_011", "hash": "B32DF3394F59495B", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_012", "hash": "56D4DB8C9335CE40", "target": "" },
-    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_013", "hash": "A3B67B21848B91F4", "target": "" }
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_00", "hash": "D5262D2A6D445E3E", "target": "Fibubb Gah deseja confiar uma nova tarefa a você." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_01", "hash": "CF52432277C03CBC", "target": "Fibubb Gah pediu que você ataque os altares profanos dos odiados irmãos da Irmandade. Localize e destrua os flaming beacons a oeste de Zahar'ak." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_02", "hash": "B5EDA1BF29FB4A42", "target": "Você destruiu os flaming beacons. Volte ao Círculo das Cinzas e se apresente a Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_SEQ_03", "hash": "0D2D9422507D1D0F", "target": "Fibubb Gah elogia sua digna demonstração de coragem. Embora comemore o golpe desferido pela Irmandade, o guerreiro avisa que os Amalj'aa corrompidos não desistirão tão facilmente de sua busca insana por poder." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_00", "hash": "4868A5E7346571A0", "target": "Destruir flaming beacons nos arredores de Zanr'ak" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_TODO_01", "hash": "61A7A95447F9D136", "target": "Apresentar-se a Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_001", "hash": "6EA4B27329DDC1BD", "target": "Mesmo que fossem dez mil, os filhotes chorões de Zahar'ak não resistiriam a nós sem a força revigorante das chamas de sua divindade." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_002", "hash": "CD58BEBD767870E5", "target": "Eles capturam cuidadosamente o sopro ardente do Senhor do Inferno e o usam em seus ritos profanos." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_003", "hash": "453BB79D1D92D87E", "target": "Depois guardam esse fogo divino em altares imponentes, que irradiam as bênçãos de Ifrit sobre todos ao alcance." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_004", "hash": "51FCE229B1CCA243", "target": "Esses flaming beacons precisam ser destruídos! A Irmandade das Cinzas tirará de nossos irmãos vis todos os símbolos de sua força imerecida!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_006", "hash": "A42FF2715DAF9663", "target": "Confio esta tarefa a você. Mas esteja de sobreaviso: as sentinelas que guardam esses braseiros estão mais próximas da fonte de seu poder e serão adversários ferozes." },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_011", "hash": "B32DF3394F59495B", "target": "Destrua esses flaming beacons! Não podemos tolerar a existência dos símbolos da loucura de nossos irmãos desonrados!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_012", "hash": "56D4DB8C9335CE40", "target": "Uma digna demonstração de coragem, <if(gnum4,honrada aliada,honrado aliado)>. Que nossos inimigos saibam que nem seus preciosos braseiros estão a salvo de nossa ira!" },
+    { "gameKey": "quest/012/BanAma110_01231#TEXT_BANAMA110_01231_FIBUBBGAH_000_013", "hash": "A3B67B21848B91F4", "target": "... Mas a sede de poder não se apaga tão facilmente. Até vencermos esta guerra, temo que precisaremos destruir esses altares infernais muitas e muitas vezes..." }
   ]
 }

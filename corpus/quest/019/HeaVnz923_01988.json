@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz923_01988",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_00", "hash": "00140988C7A14A3B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_01", "hash": "A685DDB264C0A2E1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_02", "hash": "C87BCFA6A50B0F48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_03", "hash": "BD5240B82E200D64", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_00", "hash": "40C4D2D05C30183F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_01", "hash": "77B9563035CCB903", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_000", "hash": "CFF38C0476F331D4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_010", "hash": "07D9AC38B1B3B3DD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_020", "hash": "5F17AE34ADF8B0F1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_021", "hash": "4DDC826323DEFD77", "target": "" },
-    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_022", "hash": "6993E888005A0D3D", "target": "" }
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_00", "hash": "00140988C7A14A3B", "target": "O módulo de auditoria alagano emite discretos cliques, zumbidos e ruídos de engrenagens." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_01", "hash": "A685DDB264C0A2E1", "target": "O módulo de auditoria alagano detectou vários itens não registrados nas proximidades e pediu que você os recuperasse para que fossem analisados. Reúna cinco cermet containers para que possam passar pela auditoria." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_02", "hash": "C87BCFA6A50B0F48", "target": "Você recuperou os cermet containers. Leve-os de volta a auditing node para análise." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_SEQ_03", "hash": "BD5240B82E200D64", "target": "O módulo de auditoria examinou os recipientes e concluiu que contêm réplicas garleanas de tecnologia alagana. A natureza preocupante dessa revelação é um pouco atenuada pelo fato de que parecem imitações muito ruins dos originais." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_00", "hash": "40C4D2D05C30183F", "target": "Obter cermet containers" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_TODO_01", "hash": "77B9563035CCB903", "target": "Entregar os recipientes a auditing node" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_000", "hash": "CFF38C0476F331D4", "target": "Mercadorias não registradas detectadas. \\<bip> Itens identificados como cermet containers de origem garleana. Investigação adicional necessária. Recupere cinco recipientes para análise." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_010", "hash": "07D9AC38B1B3B3DD", "target": "Mercadorias não registradas detectadas. \\<bip> Recupere cinco cermet containers para análise." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_020", "hash": "5F17AE34ADF8B0F1", "target": "Coloque as mercadorias não registradas no receptáculo de exame para análise. \\<bip>" },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_021", "hash": "4DDC826323DEFD77", "target": "Amostras recebidas. Escaneando... \\<bip> \\<bip> Escaneamento concluído. Os recipientes parecem conter réplicas de artefatos tecnológicos alaganos. As réplicas têm qualidade significativamente inferior aos padrões mínimos alaganos. O nível de fabricação é extremamente baixo." },
+    { "gameKey": "quest/019/HeaVnz923_01988#TEXT_HEAVNZ923_01988_AUDITINGSYSTEM_000_022", "hash": "6993E888005A0D3D", "target": "Muito lamentável. Teremos de tomar medidas para proteger a reputação da inovação e da fabricação alaganas." }
   ]
 }

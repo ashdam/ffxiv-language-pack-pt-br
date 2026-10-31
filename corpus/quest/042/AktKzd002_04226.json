@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzd002_04226",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_SEQ_00", "hash": "4E6180424687D8B9", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_00", "hash": "4D093B1A5EA37495", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_01", "hash": "DE6B6EB7972A3A12", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_000", "hash": "6E8E7C2FA6DC629A", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_001", "hash": "B1B95A4C03011327", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_002", "hash": "DCAE715718A2CEC5", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_003", "hash": "09F3B98EE26C94C3", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_005", "hash": "19EFC9AEAED4F03D", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_010", "hash": "46E7CC9D1791A4E7", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_011", "hash": "93B8450B1AB5FB2C", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_012", "hash": "43956C6418FF2FB0", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_014", "hash": "7B83802318FB2AA0", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_015", "hash": "8DB61073A6B90902", "target": "" },
-    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_016", "hash": "8B75A3C4E3A97D91", "target": "" }
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_SEQ_00", "hash": "4E6180424687D8B9", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Um engenheiro magitek está mexendo com coisas de natureza bastante perigosa." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_00", "hash": "4D093B1A5EA37495", "target": "Capturar um automated roader enfraquecido com a corrente de cermet" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_TODO_01", "hash": "DE6B6EB7972A3A12", "target": "Entregar o automated roader capturado ao engenheiro aposentado" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_000", "hash": "6E8E7C2FA6DC629A", "target": "Você aí. Sim, você. Não pode esconder essas mãos de mim. Vejo que já fizeram sua boa parte de trabalho pesado. Então, que tal prestar um favor a um velho engenheiro, hm?" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_001", "hash": "B1B95A4C03011327", "target": "Certamente já percebeu o terror que esses drones magitek sem consciência inspiram nas pessoas daqui. Suponho que toda essa matança indiscriminada tenha esse efeito. Pretendo mexer nas entranhas dessas coisas e dar a elas alguma utilidade para nós." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_002", "hash": "DCAE715718A2CEC5", "target": "É aí que você entra, <if(gnum4,minha nova amiga,meu novo amigo)>. Capture um automated magna roader para mim." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_003", "hash": "09F3B98EE26C94C3", "target": "Uma corrente de cermet deve bastar para domar a ameaça mecânica... desde que primeiro dê uma boa surra nessa coisa assassina. Vá, então. Vamos ver se tem coragem suficiente para trazer o que pedi." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_005", "hash": "19EFC9AEAED4F03D", "target": "O que está esperando? Vá. Acabe com o ânimo automatizado dessa coisa desgraçada e capture-a com a corrente de cermet. Estou ansioso para ver como se sai..." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_010", "hash": "46E7CC9D1791A4E7", "target": "Ah, voltou bem antes do que eu esperava. E então? Capturou o que pedi?" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_011", "hash": "93B8450B1AB5FB2C", "target": "Sim, é isto! Um espécime impressionante, não concorda? Fabricado em Gyr Abania, se move como se fosse feito de carne e osso, não de metal e parafusos. É um monumento à engenhosidade e à inovação garleanas." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_012", "hash": "43956C6418FF2FB0", "target": "E eu sei do que falo, participei de sua criação. Infelizmente, seria meu canto do cisne. Quando perdemos Ala Mhigo, voltei a Garlemald para definhar na aposentadoria até o fim dos meus dias. Pensei que minha história terminaria ali..." },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_014", "hash": "7B83802318FB2AA0", "target": "Mas minha vida ganhou um novo capítulo graças a um conhecido recente. Um homem de cabelos loiros me ensinou todo tipo de tecnologia alagana antiga. E, com esse novo saber, criarei magitek capaz de pensar por si mesma, com cognição que rivalize com a humana!" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_015", "hash": "8DB61073A6B90902", "target": "Embora o Império esteja em ruínas, <italic(1)>eu<italic(0)> não me apagarei em silêncio junto dessa luz moribunda. Tenho o luxo do tempo, nenhum relógio contra o qual lutar. Usarei todas as horas que me restam para criar uma máquina tão magnífica que ninguém poderá negar minha genialidade!" },
+    { "gameKey": "quest/042/AktKzd002_04226#TEXT_AKTKZD002_04226_ENGINEER04226_000_016", "hash": "8B75A3C4E3A97D91", "target": "Heh. Heh heh... Máquinas com pensamentos e emoções próprios! Mal consigo conter a empolgação. Ah, que admirável mundo novo estamos prestes a conhecer, <if(gnum4,minha amiga,meu amigo)>! Que sorte a sua saber que ajudou em seu nascimento! Fiz bem em recorrer a você. Tem minha mais sincera gratidão." }
   ]
 }

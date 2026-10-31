@@ -2,17 +2,17 @@
   "conversation": "quest/000/SubFst021_00095",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_00", "hash": "5CF000B9B1E4F70D", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_01", "hash": "4FF1DD0BB42AE363", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_02", "hash": "627FF784F0CDDECD", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_03", "hash": "DAB61DBB7527FCFC", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_00", "hash": "7C2DE38DAA357D12", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_01", "hash": "7545F02E1FC47C4B", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_1", "hash": "5052A2B7C07CA373", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_2", "hash": "BC8A11FF7AB8E867", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_3", "hash": "70D9E27FE39AE240", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_4", "hash": "2E283A3E79911AA9", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_10", "hash": "505EC6D2D3CF96EA", "target": "" },
-    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_11", "hash": "363921B8C5453EDB", "target": "" }
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_00", "hash": "5CF000B9B1E4F70D", "target": "Eadbert põe aventureiros à prova pedindo que abatam midge swarms." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_01", "hash": "4FF1DD0BB42AE363", "target": "Para provar sua capacidade e conquistar a confiança de Eadbert, abata seis midge swarms." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_02", "hash": "627FF784F0CDDECD", "target": "Como pedido, você abateu seis midge swarms e trouxe um pouco de paz à região. Leve a notícia de seus feitos a Eadbert em Hyrstmill." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_SEQ_03", "hash": "DAB61DBB7527FCFC", "target": "Você volta em segurança a Hyrstmill e conta seus feitos a Eadbert. Convencido de seu valor, ele declara que precisa de mais serviços seus." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_00", "hash": "7C2DE38DAA357D12", "target": "Abater midge swarms" },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_TODO_01", "hash": "7545F02E1FC47C4B", "target": "Apresentar-se a Eadbert" },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_1", "hash": "5052A2B7C07CA373", "target": "...Nunca vi seu rosto por aqui." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_2", "hash": "BC8A11FF7AB8E867", "target": "Jurei manter a paz em Hyrstmill e proteger seu povo de quem quiser fazer mal a ele. Se pretende ficar por um tempo, vai ter que provar que merece confiança." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_3", "hash": "70D9E27FE39AE240", "target": "Nossa comunidade não é grande, e quase não temos gente que saiba lutar. Por isso, sempre precisamos de quem entende de combate, com todos esses bichos à espreita por aqui." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_4", "hash": "2E283A3E79911AA9", "target": "Por acaso, estamos sofrendo com uma infestação de mosquitinhos ultimamente. Os desgraçados estão deixando nossas patrulhas malucas. Agora, se exterminasse, digamos, meia dúzia de enxames, saberíamos que você está do nosso lado." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_10", "hash": "505EC6D2D3CF96EA", "target": "Você nos fez uma gentileza e ainda provou sua capacidade. Pegue isto com os agradecimentos de Hyrstmill." },
+    { "gameKey": "quest/000/SubFst021_00095#TEXT_SUBFST021_00095_EADBERT_000_11", "hash": "363921B8C5453EDB", "target": "Ah! Antes de ir, pensei em outra coisa que poderia fazer por nós..." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz407_02730",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SEQ_00", "hash": "B468E2FCAEAD5E9B", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_00", "hash": "1F061214AFEA73C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_01", "hash": "1360181A68B716F1", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_000", "hash": "BEB415578AA99C28", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_001", "hash": "44B2B932EE450BFC", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_002", "hash": "C316986858338969", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_003", "hash": "E0CBDBEE42E9614F", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_004", "hash": "8F6ACDB2063860AC", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_005", "hash": "C26D7EE9688BDEEF", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_010", "hash": "F3CC477897153A37", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_011", "hash": "111099F031403290", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_012", "hash": "BB0F1500F19626B7", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_013", "hash": "B22AE3CA44B3E13B", "target": "" },
-    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_014", "hash": "EADFDF2DD4D04E72", "target": "" }
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SEQ_00", "hash": "B468E2FCAEAD5E9B", "target": "Kohagi quer que você dê umas pancadas, primeiro devagar, depois depressa." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_00", "hash": "1F061214AFEA73C4", "target": "Obter fígados de water serpent das water serpents" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_TODO_01", "hash": "1360181A68B716F1", "target": "Entregar os fígados de water serpent a Sentei" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_000", "hash": "BEB415578AA99C28", "target": "Posso pedir que você me ajude com um problema? É sobre umas water serpents que infestaram o Rio Único recentemente." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_001", "hash": "44B2B932EE450BFC", "target": "Antes, elas só eram encontradas mais a oeste, mas, por algum motivo, algumas vieram parar mais perto de Namai." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_002", "hash": "C316986858338969", "target": "Quando bem preparadas, são deliciosas. Porém, há muito mais delas no rio do que seria possível cozinhar. Não, precisamos controlar sua quantidade de outro jeito." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_003", "hash": "E0CBDBEE42E9614F", "target": "Por favor, mate algumas delas para mim. O suficiente para impedir que tomem o rio inteiro. Ah, e, se conseguir alguns fígados delas, por favor, entregue ao meu marido, Sentei." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_004", "hash": "8F6ACDB2063860AC", "target": "Você vai encontrá-lo no Sapo Bêbado, a leste." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_KOHAGI_000_005", "hash": "C26D7EE9688BDEEF", "target": "Se conseguir alguns fígados delas, por favor, entregue ao meu marido, Sentei, no Sapo Bêbado." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_010", "hash": "F3CC477897153A37", "target": "Você tem algum assunto comigo, viajante?" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_011", "hash": "111099F031403290", "target": "Fígados de water serpent! Mas por que pensou em trazê-los para mim?" },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_012", "hash": "BB0F1500F19626B7", "target": "Ah, minha esposa pediu isso a você, foi? Muito obrigado. Vou fervê-los e comê-los daqui a pouco." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_013", "hash": "B22AE3CA44B3E13B", "target": "Na época em que eu ganhava a vida transportando arroz rio acima e rio abaixo, matava qualquer water serpent que visse e levava para casa para cozinhar. É claro que tudo isso acabou quando o Império bloqueou o Rio Único." },
+    { "gameKey": "quest/027/StmBdz407_02730#TEXT_STMBDZ407_02730_SENTEI_000_014", "hash": "EADFDF2DD4D04E72", "target": "Hoje em dia, é graças à natureza e a pessoas bondosas como você que consigo pôr comida na mesa. Muito obrigado." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz307_01799",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_00", "hash": "8B3A60066D0ACB92", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_01", "hash": "21AB4C8EF5A5CF51", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_02", "hash": "37A6ECE27838C023", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_03", "hash": "F58E849068B5CB76", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_00", "hash": "696637E0A76A38CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_01", "hash": "240A299975B5E072", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_000", "hash": "B371B092225E5875", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_001", "hash": "7043D2356F885C8C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_002", "hash": "E53790EFD661B1AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_010", "hash": "4224A8E6A0137C1E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_020", "hash": "BE67EAABF0FB8020", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_030", "hash": "28D040F73DE50C15", "target": "" },
-    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_031", "hash": "75682B9C41DB83A8", "target": "" }
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_00", "hash": "8B3A60066D0ACB92", "target": "Você ouve o estômago de Toh Y Thrah roncar." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_01", "hash": "21AB4C8EF5A5CF51", "target": "Depois de ouvir seus irmãos falarem do sabor delicioso da carne de miacid, Toh Y Thrah quer experimentá-la. No entanto, ainda não tem força suficiente para caçá-los sem sofrer graves consequências. Mate os miacids que encontrar na natureza e obtenha três pedaços de carne." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_02", "hash": "37A6ECE27838C023", "target": "Você mata três miacids e obtém sua carne. Leve-a a Toh Y Thrah para que ele possa saciar tanto a fome quanto a curiosidade." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_SEQ_03", "hash": "F58E849068B5CB76", "target": "Você entrega a carne a Toh Y Thrah. Basta uma mordida para que seus olhos se arregalem de espanto. Ele declara que a carne é realmente suculenta e aguarda ansioso o dia em que poderá caçar à vontade." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_00", "hash": "696637E0A76A38CE", "target": "Matar miacids para obter sua carne" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TODO_01", "hash": "240A299975B5E072", "target": "Entregar a carne a Toh Y Thrah" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_000", "hash": "B371B092225E5875", "target": "Você já provou a carne de um miacid? Meus irmãos dizem que é uma criatura deliciosa." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_001", "hash": "7043D2356F885C8C", "target": "Quem dera eu tivesse força para caçá-los. Se você encontrar miacids fora da torre, pode trazer a carne deles para mim?" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_002", "hash": "E53790EFD661B1AA", "target": "Traga três pedaços de carne. Quero saber que gosto têm." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_010", "hash": "4224A8E6A0137C1E", "target": "Ainda não cacei hoje e estou ficando com muita fome. Três pedaços de carne de miacid devem encher minha barriga." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_020", "hash": "BE67EAABF0FB8020", "target": "Você viu os miacids? Trouxe a carne deles?" },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_030", "hash": "28D040F73DE50C15", "target": "Então essa é a carne de miacid. Finalmente vou saber por que meus irmãos caçam essas criaturas com tanta fome...\\<engole><br>Isso... isso é..." },
+    { "gameKey": "quest/017/HeaVnz307_01799#TEXT_HEAVNZ307_01799_TOHYTHRAH_000_031", "hash": "75682B9C41DB83A8", "target": "Tão saboroso, tão macio! Mal posso esperar pelo dia em que vou poder me empanturrar desse bicho à vontade." }
   ]
 }

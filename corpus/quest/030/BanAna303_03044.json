@@ -2,14 +2,14 @@
   "conversation": "quest/030/BanAna303_03044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_SEQ_00", "hash": "BD2E948674FEC5A9", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_00", "hash": "435621C3F9E06743", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_01", "hash": "C067F4E1748774C0", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_000", "hash": "F5EBA79F6EAD1C4B", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_001", "hash": "E23A769E29F520ED", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_002", "hash": "F226D1E23161C9B7", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_003", "hash": "815C184F84D6F30D", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_010", "hash": "C1A52FE3A62C8657", "target": "" },
-    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_011", "hash": "D454AB030D5AF8B9", "target": "" }
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_SEQ_00", "hash": "BD2E948674FEC5A9", "target": "A próxima tarefa de Eshana não é para quem tem estômago fraco.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_00", "hash": "435621C3F9E06743", "target": "Examinar o local indicado e derrotar as lesmas que aparecerem" },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_TODO_01", "hash": "C067F4E1748774C0", "target": "Falar com Eshana" },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_000", "hash": "F5EBA79F6EAD1C4B", "target": "Como é bom ver você por aqui. Sss..." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_001", "hash": "E23A769E29F520ED", "target": "Nossas batedoras tiveram a infelicidade de avistar uma lesma monstruosa perto do Dimwold. Aquela aparência grotesca e o muco corrosivo... só de pensar, já me dá vontade de vomitar. Sss..." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_002", "hash": "F226D1E23161C9B7", "target": "Precisamos eliminá-las, mas tenho vergonha de admitir que os Guardiões não têm muito jeito para combatê-las. A maioria passa mal só de vê-las. E quem consegue se aproximar fica com cicatrizes permanentes causadas pela baba ácida. Sss..." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_003", "hash": "815C184F84D6F30D", "target": "Por favor, eu imploro: vá ao Dimwold e livre nossas terras dessa praga. Sss..." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_010", "hash": "C1A52FE3A62C8657", "target": "Então acabou? A lesma não existe mais? Sss..." },
+    { "gameKey": "quest/030/BanAna303_03044#TEXT_BANANA303_03044_ESHANA_000_011", "hash": "D454AB030D5AF8B9", "target": "Muito obrigada, de coração. Se os Guardiões encontrarem outra, pode ter certeza de que chamaremos você de novo. Sss..." }
   ]
 }

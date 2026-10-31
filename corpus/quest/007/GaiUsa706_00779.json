@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa706_00779",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_00", "hash": "1B20FF37E1F05268", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_03", "hash": "01429D6106D1A88C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_00", "hash": "C8EBF905A3B8CAAD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_01", "hash": "CBF4DE6587FAC61A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_000", "hash": "626FFED6DAE906A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_001", "hash": "2C5A9B081C9ECB80", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_002", "hash": "9AED37D478A6A76A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_030", "hash": "2308D9E03A14896D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_031", "hash": "CD4E80B4985EC822", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_032", "hash": "C07D8963BD6C165D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_POP_MESSAGE_000", "hash": "B009F7EDFF1A37EB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_00", "hash": "1B20FF37E1F05268", "target": "Hremfing precisa de sua ajuda para se livrar de alguns bandidos." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_01", "hash": "EC14BA62E07F0040", "target": "Um bando particularmente cruel de criminosos conhecido como Brigada dos Cadáveres se instalou perto de Little Ala Mhigo. Vá ao nordeste do povoado e derrube os ladrões que encontrar." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_02", "hash": "24A44B003FDCF2D2", "target": "Você reduziu as fileiras da Brigada dos Cadáveres e mandou o recado de que os moradores de Little Ala Mhigo não vão tolerar sua vilania. Relate seu sucesso a Hremfing." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_SEQ_03", "hash": "01429D6106D1A88C", "target": "Os homens e mulheres da Brigada dos Cadáveres eram ala-mhiganos honrados antes de degenerarem num bando de ladrões de quinta. Embora sinta pena de seus conterrâneos, Hremfing pretende fazer o que for necessário para impedir que manchem o nome de sua terra natal." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_00", "hash": "C8EBF905A3B8CAAD", "target": "Abater bandidos da Brigada dos Cadáveres" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_TODO_01", "hash": "CBF4DE6587FAC61A", "target": "Relatar a Hremfing" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_000", "hash": "626FFED6DAE906A3", "target": "Talvez já tenha ouvido falar da Brigada dos Cadáveres, um bando cruel de bandidos que anda aterrorizando estas bandas." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_001", "hash": "2C5A9B081C9ECB80", "target": "Contrabando, roubo, assassinato de inocentes a sangue-frio: se vir qualquer sinal de crime por aqui, é bem provável que os Cadáveres estejam por trás." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_002", "hash": "9AED37D478A6A76A", "target": "Eu não queria nada além de invadir o esconderijo deles a nordeste e lhes dar uma lição, mas sei quando não tenho chance. Normalmente, hesitaria em confiar uma tarefa a <if(gnum4,uma forasteira,um forasteiro)>, mas você parece capaz. Que tal dar uma lição naqueles criminosos?" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_030", "hash": "2308D9E03A14896D", "target": "Obrigado, <if(gnum4,forasteira,forasteiro)>, sua vitória já corre de boca em boca. Pode não ser o fim da Brigada dos Cadáveres, mas pelo menos agora sabem que não temos medo de revidar!" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_031", "hash": "CD4E80B4985EC822", "target": "E pensar que esses homens e mulheres já foram meus conterrâneos. Não têm vergonha?" },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_HREMFING_000_032", "hash": "C07D8963BD6C165D", "target": "No auge de Ala Mhigo, a Brigada dos Cadáveres servia à nossa nação com orgulho e honra. Fico triste ao ver no que se transformaram, mas mataria até o último deles se isso garantisse que nunca mais manchassem o nome de nossa terra natal." },
+    { "gameKey": "quest/007/GaiUsa706_00779#TEXT_GAIUSA706_00779_POP_MESSAGE_000", "hash": "B009F7EDFF1A37EB", "target": "Você sente uma presença hostil!" }
   ]
 }

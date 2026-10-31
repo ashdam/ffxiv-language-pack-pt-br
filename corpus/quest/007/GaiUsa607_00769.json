@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa607_00769",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_00", "hash": "23ED690CB1FAD64E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_01", "hash": "C55DB13158ED6AE6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_02", "hash": "7A6FB046CA652615", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_03", "hash": "DA0174731B5C749D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_00", "hash": "A30E14E3CA2196AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_01", "hash": "B822BEB6135780DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_000", "hash": "698D362CECA56630", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_001", "hash": "8D14B646FF110462", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_002", "hash": "5BE9DFB071F78F3A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_020", "hash": "A1BFBB9C2AE659AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_021", "hash": "58DBFF5A0A2BFADB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_00", "hash": "23ED690CB1FAD64E", "target": "Fawkes, o responsável pelo pomar, pede sua ajuda para agradecer pela colheita." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_01", "hash": "C55DB13158ED6AE6", "target": "Fawkes foi abençoado com sua maior colheita em anos e quer dar os devidos agradecimentos ao guardião da floresta. Procure o guardião a sudoeste do Moinho da Pedreira e ofereça uma maçã feérica." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_02", "hash": "7A6FB046CA652615", "target": "Feita a oferenda ao guardião da floresta, entregue a maçã restante a Castellaint, no Moinho da Pedreira." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_SEQ_03", "hash": "DA0174731B5C749D", "target": "Castellaint declara que a maçã é a melhor que provou em anos. Mais uma vez, a fartura da floresta trouxe alegria ao Moinho da Pedreira." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_00", "hash": "A30E14E3CA2196AA", "target": "Colocar uma maçã feérica como oferenda diante do withered treant" },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_TODO_01", "hash": "B822BEB6135780DA", "target": "Entregar uma maçã feérica a Castellaint" },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_000", "hash": "698D362CECA56630", "target": "Olhe só pra isto! Não sou abençoado com uma colheita dessas faz... bom, faz tanto tempo que nem me lembro." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_001", "hash": "8D14B646FF110462", "target": "Tudo que fiz foi colher. Quem me deu essa fartura foram os guardiões da floresta. Eu mesmo iria agradecer, mas, com aqueles caçadores ilegais por aí, é capaz de acabar com uma flecha na cabeça." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_FAWKES_000_002", "hash": "5BE9DFB071F78F3A", "target": "Pode fazer a gentileza de levar a oferenda por mim? E, na volta, leve uma maçã pro Castellaint. Ele anda meio abatido ultimamente." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_020", "hash": "A1BFBB9C2AE659AA", "target": "Uma maçã feérica! Minha favorita! Como você sabia?<br>...De Fawkes, é? Ele é bom demais. Cada mordida deliciosa me leva de volta aos tempos de... Ah, me perdoe." },
+    { "gameKey": "quest/007/GaiUsa607_00769#TEXT_GAIUSA607_00769_CASTELLAINT_000_021", "hash": "58DBFF5A0A2BFADB", "target": "O que traz você ao Moinho da Pedreira? Talvez tenha ouvido que nosso pacto com os elementais permite caçar nesta área? Não pense que isso lhe dá licença para devastar a floresta." }
   ]
 }

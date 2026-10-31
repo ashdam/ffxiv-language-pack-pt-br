@@ -2,19 +2,19 @@
   "conversation": "quest/030/BanAna602_03065",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SEQ_00", "hash": "518F0445DEF71CB8", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_00", "hash": "3BAF6C27F516B0A4", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_01", "hash": "FE277F2A35DA57C9", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_000", "hash": "E4D401C6641FE444", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_001", "hash": "80CEF06CA9106F8B", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_002", "hash": "0BC601C04B6F3FF1", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_003", "hash": "2BFFE6528ACA3FB5", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_004", "hash": "A5490AE2143E50E0", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_010", "hash": "67CB3D00E904B93C", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_011", "hash": "97DF9B110405779F", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_020", "hash": "8DF9D1B2AA92989E", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_021", "hash": "3E24B840CAC06FAE", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_022", "hash": "BE56DA4A843A6101", "target": "" },
-    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_023", "hash": "6B410DCAFB52A848", "target": "" }
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SEQ_00", "hash": "518F0445DEF71CB8", "target": "Eshana precisa de alguém que se aventure nas alturas.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_00", "hash": "3BAF6C27F516B0A4", "target": "Usar a fórmula de crescimento botânico para obter cravos" },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_TODO_01", "hash": "FE277F2A35DA57C9", "target": "Entregar os cravos a Eshana" },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_000", "hash": "E4D401C6641FE444", "target": "Você não tem medo de altura, tem? Precisamos de alguém que escale as formações rochosas de Virdjala para obter cravos. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_001", "hash": "80CEF06CA9106F8B", "target": "O chá feito com suas pétalas é muito eficaz para reduzir o cansaço. Alpa pensou em oferecê-lo aos viajantes que procuram hospedagem depois de uma longa jornada. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_002", "hash": "0BC601C04B6F3FF1", "target": "O problema é que as flores são muito delicadas. Se forem machucadas, suas propriedades curativas diminuem bastante. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_003", "hash": "2BFFE6528ACA3FB5", "target": "Por sorte, um alquimista viajante nos ensinou a criar uma fórmula de crescimento botânico. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_004", "hash": "A5490AE2143E50E0", "target": "Borrife isto nas flores e elas não sofrerão danos ao serem colhidas. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_010", "hash": "67CB3D00E904B93C", "target": "Você encontra a flor de que Eshana falou, em plena floração. Basta um olhar para perceber como suas pétalas são delicadas." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_SYSTEM_000_011", "hash": "97DF9B110405779F", "target": "As pétalas delicadas da flor parecem mais resistentes graças à fórmula de crescimento de Eshana." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_020", "hash": "8DF9D1B2AA92989E", "target": "Conseguiu encontrar as flores? Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_021", "hash": "3E24B840CAC06FAE", "target": "Parece que a fórmula de crescimento foi mais eficaz do que eu esperava. Uma pena ter que sacrificar tanta beleza para fazer nosso chá. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_022", "hash": "BE56DA4A843A6101", "target": "A receita nos foi ensinada por um mercador de Ul'dah. Um sujeito peculiar, que insistia em negociar nossas peles trocadas. Em vez de ouro, aceitamos informações úteis para nosso trabalho aqui. Sss..." },
+    { "gameKey": "quest/030/BanAna602_03065#TEXT_BANANA602_03065_ESHANA_000_023", "hash": "6B410DCAFB52A848", "target": "Há muito conhecimento a compartilhar com os viajantes que vão e vêm entre Gyr Abania e a Mortalha. Espero que possamos contar com sua ajuda para garantir uma passagem segura a eles. Sss..." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz118_01767",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "" }
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_00", "hash": "D40C13DC9B7DC036", "target": "Jantellot não para de reclamar da perna." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_01", "hash": "FD2CCD8BDBD13B70", "target": "Jantellot conta que, apesar de suas notáveis habilidades de combate, foi ferido pelas garras de um dragão monstruoso. Ele pede que você busque água medicinal da fonte na Baba do Dragão e entrega uma garrafa para isso." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_02", "hash": "0F9B906F45D1CD3C", "target": "Você enche a garrafa com água da fonte. Leve-a a Jantellot para que ele recupere as forças." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_SEQ_03", "hash": "ED3A28792B8F7DEA", "target": "Você entrega a água medicinal da fonte a Jantellot. Ele explica que, embora os suprimentos do Convictory estejam escassos, principalmente as poções de cura, a água que você trouxe é mais eficaz que a mais forte das poções... ou pelo menos é o que dizem." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_00", "hash": "DCCBC3DD061DB7EC", "target": "Obter água da fonte na Baba do Dragão" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_TODO_01", "hash": "52C94AC50D0B6F56", "target": "Entregar a água a Jantellot" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_000", "hash": "1F5AF502CBDCF89B", "target": "Aaah... Minha perna... Aquele último dragão fez um belo estrago." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_001", "hash": "0F8377E42BA1DB3B", "target": "Se tivesse acontecido com qualquer outro, teria virado refeição. Felizmente, sou mais resistente e escapei só com um ferimento superficial." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_002", "hash": "5AEC60A8497B5CAA", "target": "Estou louco para voltar lá e caçar aquele desgraçado, mas não vou a lugar nenhum até esta perna sarar... Diga, acha que pode buscar uma coisa para mim?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_003", "hash": "944D90512D07462C", "target": "Dizem que as águas da Baba do Dragão têm propriedades medicinais. Se tivesse um pouco, estaria de pé num instante. Pode pegar esta garrafa e enchê-la com água daquela fonte?" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_010", "hash": "FE7955B74D65322F", "target": "Vá até a Baba do Dragão e traga um pouco daquela famosa água da fonte. Não aguento ficar sentado aqui nem mais um instante!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_100_020", "hash": "4A6920BF41FA6107", "target": "Está com a água da fonte? Preciso voltar à luta. Cansei de ver aqueles dragões desfilando por aí sem a menor preocupação!" },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_020", "hash": "FAA10C31BCFA11C0", "target": "Ótimo, ótimo. Chegou bem a tempo. Receio que aqueles dragões estejam começando a esquecer o gosto do aço ishgardês. Depois de algumas aplicações, poderei voltar lá e refrescar a memória deles com a lâmina." },
+    { "gameKey": "quest/017/HeaVnz118_01767#TEXT_HEAVNZ118_01767_JANTELLOT_000_021", "hash": "DFBBF2649000E019", "target": "Dizem que isto é melhor que qualquer poção. Ainda bem, considerando como nossos suprimentos andam escassos ultimamente." }
   ]
 }

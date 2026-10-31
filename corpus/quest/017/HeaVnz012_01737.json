@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz012_01737",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_00", "hash": "F0A71661451BAFA6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_01", "hash": "405745005D74D197", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_02", "hash": "7053E750F1D2B8AC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_03", "hash": "CBC939AB8FE28EC6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_TODO_00", "hash": "520428B82D96B551", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_TODO_01", "hash": "72A456DACC66225C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_000", "hash": "6C050ACC8244761E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_001", "hash": "9DE3BD92003F2D58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_002", "hash": "0CA484ACE738AC2D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_010", "hash": "014EFA474495BA7A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_020", "hash": "0D88D40C4B78A788", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_021", "hash": "D56918C2531A57AB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_022", "hash": "C3495503C15B2C24", "target": "" },
-    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_023", "hash": "047806AFBD5CE7AB", "target": "" }
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_00", "hash": "F0A71661451BAFA6", "target": "O hot-tempered knight tenta recuperar o fôlego." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_01", "hash": "405745005D74D197", "target": "Um cavaleiro foi atacado por um enorme enxame de frost grenades. Ele escapou ileso, mas as criaturas despedaçaram seu talismã mágico e fugiram com os fragmentos! Abata essas criaturinhas ladras e recupere os três pedaços do talismã mágico." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_02", "hash": "7053E750F1D2B8AC", "target": "Você recuperou os pedaços do talismã. Devolva-os ao cavaleiro nos Moinhos de Gorgagne." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SEQ_03", "hash": "CBC939AB8FE28EC6", "target": "O cavaleiro fica aliviado por você ter recuperado todos os pedaços do talismã. Ele conta que sua família o fez com um cristal de gelo. Percebendo que a neve congelante de Coerthas não é o lugar ideal para carregar cristais de gelo junto ao corpo, decide deixar o talismã no quartel da próxima vez que sair em serviço." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_TODO_00", "hash": "520428B82D96B551", "target": "Abater frost grenades e obter fragmentos do talismã" },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_TODO_01", "hash": "72A456DACC66225C", "target": "Entregar os fragmentos ao cavaleiro" },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_000", "hash": "6C050ACC8244761E", "target": "Malditos deuses! Há poucos instantes fui atacado por um enorme enxame de frost grenades. Escapei com vida, mas deixei cair meu talismã mágico na confusão. Foi um presente de minha família, mas, assim que aqueles monstros o viram, perderam todo o interesse em mim. Despedaçaram o talismã e fugiram com os pedaços!" },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_001", "hash": "9DE3BD92003F2D58", "target": "Esse talismã tem muito valor sentimental para mim. Preciso recuperá-lo, mas não posso deixar meu posto. Hmm... você parece bastante capaz. Seja <if(gnum4,uma boa moça,um bom rapaz)> e recupere-o para mim, por favor." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_002", "hash": "0CA484ACE738AC2D", "target": "Parece que o talismã se partiu em três pedaços. Não vi quais feras os pegaram, veja bem. Estava mais preocupado em fugir antes que voltassem a se interessar por mim. Mas, por favor, abata os frost grenades e recupere meu talismã!" },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_010", "hash": "014EFA474495BA7A", "target": "Por favor, recupere meu talismã. Foi partido em três pedaços e levado pelos frost grenades." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_020", "hash": "0D88D40C4B78A788", "target": "Está com os pedaços de meu talismã mágico?" },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_021", "hash": "D56918C2531A57AB", "target": "Ah, você os encontrou! Não tenho palavras para expressar toda a minha gratidão. Minha família fez o talismã com um cristal de gelo. Era para me proteger, mas, sinceramente, já faz frio demais por aqui sem eu ter que carregar isto. Ainda assim, tem um enorme valor sentimental para mim." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_022", "hash": "C3495503C15B2C24", "target": "Por que será que os frost grenades se amontoaram em cima dele daquele jeito? Será que pretendiam <italic(1)>comê-lo<italic(0)>? Para algo que devia me proteger, esse talismã está fazendo um péssimo trabalho." },
+    { "gameKey": "quest/017/HeaVnz012_01737#TEXT_HEAVNZ012_01737_SOLDIER01737_000_023", "hash": "047806AFBD5CE7AB", "target": "Seja qual for o motivo, prefiro não ser atacado de novo. Vou guardar isto num lugar seguro no quartel, em vez de carregá-lo comigo. Obrigado mais uma vez por recuperá-lo para mim." }
   ]
 }

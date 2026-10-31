@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil502_00640",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "" },
-    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "" }
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_00", "hash": "016697E2BE9C05F2", "target": "Você tem motivos para acreditar que Mutamix guarda técnicas secretas de materia..." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_01", "hash": "CE47C38E65786D2B", "target": "Mutamix está disposto a ensinar suas técnicas secretas de engaste de materia. Porém, o goblin exige provas de que você tem experiência suficiente. Demonstre suas habilidades engastando oito pedras de materia diante dele." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_02", "hash": "F974F3A17923824D", "target": "Você engastou o número necessário de materia. Fale com Mutamix mais uma vez para receber seus conhecimentos secretos." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_SEQ_03", "hash": "488DD54479C7FDE2", "target": "Mutamix ensina a você técnicas avançadas de engaste de materia, que permitirão fixar mais pedras de materia num item do que normalmente seria possível. Saiba, porém, que o sucesso não é garantido e que falhar significa perder a materia." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_00", "hash": "9EB0C7716C23D6FF", "target": "Engastar materia diante de Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_TODO_01", "hash": "F36EA481445D03FA", "target": "Falar com Mutamix" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_000", "hash": "1332621D8EF764D7", "target": "Pshhh... Shkohhh...<br>Altogente faz junta-junta de materia?" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_001", "hash": "BB03C32112B2689D", "target": "Altogente quer juntar montão, sim? Então Mutamix faz caixacuca de altogente chacoalhar com saberes secretos de materia!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_002", "hash": "B084191037A51196", "target": "...Mas primeiro altogente precisa provar preparo. Altogente mostra-faz engaste de oito pedras de materia, depois altogente e Mutamix trocam abanalínguas de novo." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_010", "hash": "5C15959FA63A1EB8", "target": "Pshhh... Shkohhh...<br>Altogente tem bom talento de junta-junta! Mutamix dá a altogente saberes secretos de laço de palavras!" },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_011", "hash": "59BD9E2DFCBE9B91", "target": "Na maioria das vezes, uma ferramenta de briga carrega pouca materia. Mas, se altogente usa técnica de junta-junta secreta, uma ferramenta de briga carrega muita materia... talvez." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_012", "hash": "B7B6C84DBD46010E", "target": "Mutamix ensina técnica de junta-junta secreta a altogente... mas altogente guarda na caixacuca que às vezes funciona errado." },
+    { "gameKey": "quest/006/SubWil502_00640#TEXT_SUBWIL502_00640_MUTAMIX_013", "hash": "095450E14094C56E", "target": "Ferramenta de briga de altogente vai carregar muita materia? Ou materia vai virar pedaciquinhos? Usar técnica de junta-junta secreta não é pra bexiga fraca!" }
   ]
 }

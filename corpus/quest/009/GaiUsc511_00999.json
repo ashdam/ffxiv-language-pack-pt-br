@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc511_00999",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "" }
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "<if(gnum4,Toda aventureira de sucesso tira proveito de seu ponto forte,Todo aventureiro de sucesso tira proveito de seu ponto forte)>, e você já imagina qual deve ser o de Aganbold depois de cumprir algumas encomendas no lugar dele." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "Segundo o bom de lábia Aganbold, a raiz de rabo-de-égua é um remédio de campo que ninguém deveria sair para se aventurar sem levar. Como nem ele nem você têm alguma à mão, o melhor seria ir para o oeste, até Tangle, e trazer oito raízes." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "Você encontra o rabo-de-égua e colhe oito raízes. A polpa tem um aroma agradável e picante; é fácil acreditar que renderia uma infusão calmante, ao menos para os sentidos. Quanto à supuração... deixe os devaneios de lado e fale com Aganbold." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "Você entrega as raízes a Aganbold e escapa de mais trabalho ao recusar sua parte da colheita. Pode não ser uma suspeita generosa, mas você desconfia que Aganbold usou sua lábia para fazer você cumprir mais uma encomenda por ele..." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "Coletar raízes de rabo-de-égua" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "Relatar a Aganbold" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "<if(gnum4,Irmã,Irmão)>, tem umas raízes de rabo-de-égua para me dar? Estou sem nenhuma por causa daqueles jovens pidões da Mortalha Negra. Eu disse: “O chá da raiz vai acalmar essa sua barriga”, e, quando vi, já tinha dado tudo o que tinha!" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "Você também não tem? Ora, quem se aventura por estas bandas deveria sempre levar algumas! Um cataplasma de rabo-de-égua impede que as feridas supurem, e você tem toda a cara <if(gnum4,de uma moça que vive com feridas supurando,de um sujeito que vive com feridas supurando)>." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "Já que nós dois estamos sem, que tal ir buscar um pouco para a gente? Oito raízes devem bastar, eu diria." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "Aí está você, <if(gnum4,irmã,irmão)>! Conseguiu o que precisamos?" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "Uma, duas... sete e oito. Agora precisam ser preparadas e, já que nós dois─tem certeza mesmo? Vai querer uma quando a supuração começar. Bom, se você insiste. Fico com todas, e agradeço muito a gentileza!" }
   ]
 }

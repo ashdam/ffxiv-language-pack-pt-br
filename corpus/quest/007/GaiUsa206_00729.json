@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa206_00729",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_00", "hash": "BFF047F08C4FE67B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_01", "hash": "831A7CDCDBC13BB3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_02", "hash": "B8F992CC1DF898D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_03", "hash": "FF38CD20F7243901", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_00", "hash": "5724E9A67F5F1862", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_01", "hash": "4886DE93C651CCDE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_000", "hash": "62A1EF15F7D8B25C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_001", "hash": "ED2906A00F01A330", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_002", "hash": "AA4700A779AAB604", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_010", "hash": "DBA296160FA6216E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_011", "hash": "AA21A283D33AC9CE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_012", "hash": "FAFACAC7C51D6310", "target": "" }
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_00", "hash": "BFF047F08C4FE67B", "target": "Auphiliot quer que você reduza a população de smallmouth orobon que vem dizimando os peixes do rio." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_01", "hash": "831A7CDCDBC13BB3", "target": "Os orobon estão comendo todos os peixes que Buscarron normalmente serve aos clientes. Vá ao rio a leste e mate pelo menos três desses predadores vorazes." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_02", "hash": "B8F992CC1DF898D9", "target": "Você estripou o número necessário de smallmouth orobon. Volte a Buscarron's Druthers e mostre com orgulho a Auphiliot suas mãos cobertas de entranhas." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_SEQ_03", "hash": "FF38CD20F7243901", "target": "Depois de ver seus esforços contra os orobon, Auphiliot acredita que você conquistou seu lugar em Druthers e incentiva você a continuar ajudando Buscarron no trabalho." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_00", "hash": "5724E9A67F5F1862", "target": "Matar smallmouth orobon" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_TODO_01", "hash": "4886DE93C651CCDE", "target": "Apresentar-se a Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_000", "hash": "62A1EF15F7D8B25C", "target": "Hummm... Esse brilho no seu olho... Você conhece bem a violência, né? Tenho um trabalho pra <if(gnum4,uma moça durona,um rapaz durão)> como você!" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_001", "hash": "ED2906A00F01A330", "target": "Vai lá no rio a leste daqui e estripa três smallmouth orobon pra mim, pode ser? Eles andam devorando os peixinhos que Buscarron serve no nosso jantar, e <italic(1)>isso<italic(0)> a gente não pode aceitar, né?" },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_002", "hash": "AA4700A779AAB604", "target": "Volta aqui com as mãos sujas de tripa de peixe que eu garanto que vão tratar você como <if(gnum4,uma verdadeira freguesa,um verdadeiro freguês)> de Druthers." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_010", "hash": "DBA296160FA6216E", "target": "Deu um jeito naqueles orobon, né? Acho que logo vou me acabar numa tigela de truta do rio, então! Ou quem sabe num belo pedaço de lúcio..." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_011", "hash": "AA21A283D33AC9CE", "target": "Sabe, o velho Buscarron sempre foi justo comigo, não importa o que eu possa ter aprontado antigamente. Então eu não gosto de quem arranja problema pra ele, mesmo que sejam peixes." },
+    { "gameKey": "quest/007/GaiUsa206_00729#TEXT_GAIUSA206_00729_AUPHILIOT_000_012", "hash": "FAFACAC7C51D6310", "target": "Você parece ser de confiança, e seu trabalho nas aventuras mostra que tem habilidade. Que tal usar isso pra ajudar o velho, hein?" }
   ]
 }

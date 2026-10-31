@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz915_01980",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "" }
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_00", "hash": "8EF6A8A644CC3236", "target": "O módulo de esterilização alagano aguarda silenciosamente a interação do usuário." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_01", "hash": "A29F63C29769BFC3", "target": "O módulo de esterilização alagano informa que a instalação perdeu a conexão de controle com cinco de suas unidades de limpeza: clockwork harvestmen. Essas unidades estão fora de controle e são perigosas. Destrua-as." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_02", "hash": "16AAACA7BBE7364E", "target": "Você destrói o equipamento defeituoso. Atualize sterilization node com essa informação." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_SEQ_03", "hash": "F602B10CE03A78D1", "target": "Com os autômatos desobedientes desmontados, o módulo de esterilização pode retomar seu trabalho. Porém, você descobre que o prazo para substituir o sistema já passou há muito tempo. Infelizmente, não há nada que você possa fazer a respeito." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_00", "hash": "E8EC6143BD416EED", "target": "Eliminar clockwork harvestmen" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_TODO_01", "hash": "02EC15BA682BBE93", "target": "Relatar a sterilization node" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_000", "hash": "06A3C483D2E00E8B", "target": "\\<bip> \\<bip> Erro ao reinicializar os protocolos de higienização. Conexão de controle com as unidades de limpeza inoperante." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_001", "hash": "585A2B2A4E63F230", "target": "Desmontagem manual das unidades de limpeza necessária. Desative cinco clockwork harvestmen. Desmontagem manual das unidades de limpeza necessária. Desative cinco clockwork harvestmen. Manual... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_010", "hash": "C4A3A2169BEAF40D", "target": "\\<bzzzzzzz> ...das unidades de limpeza necessária. Desative cinco clockwork harvestmen. Desmontagem manual das unidades de limpeza necessária. Desative cinco... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_020", "hash": "C4C1F0A01F35F9DD", "target": "\\<bzzzzzzz> ...Confirmando o controle de todas as unidades de limpeza... \\<bip> \\<bip> Conexão de controle com todas as unidades de limpeza dentro dos parâmetros aceitáveis." },
+    { "gameKey": "quest/019/HeaVnz915_01980#TEXT_HEAVNZ915_01980_CLEANINGSYSTEM_000_021", "hash": "859C25904E0CF554", "target": "A substituição deste módulo de esterilização está atrasada em quatro mil novecentos e sessenta e dois anos, três meses e doze dias. Para minimizar o risco de falha catastrófica do sistema, substitua este módulo de esterilização assim que possível." }
   ]
 }

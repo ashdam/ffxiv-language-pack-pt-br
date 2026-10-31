@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa007_00713",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "" },
-    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "" }
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_00", "hash": "0762E2B5315304BE", "target": "Piralnaut precisa de voluntários capazes para patrulhar a fronteira de Gridania." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_01", "hash": "B2E384A8CD3D6E0B", "target": "As baixas deixaram a guarnição de Josselin's Spire com poucos soldados, e Piralnaut pede que você patrulhe a área no lugar dos feridos. Há três posições estratégicas importantes na rota, cada uma marcada por um Twin Adder standard. Vá aos três locais, um de cada vez." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_02", "hash": "5ECF46C8A093DAFB", "target": "Você concluiu a patrulha em segurança. Apresente-se a Piralnaut." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_SEQ_03", "hash": "0BB58F1AD8BC0F07", "target": "Ao saber do seu encontro com criaturas terríveis, Piralnaut demonstra preocupação com o aumento do número delas." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_00", "hash": "31826413C1E5608E", "target": "Montar guarda junto aos Twin Adder standards" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_TODO_01", "hash": "657E02FA89614E58", "target": "Apresentar-se a Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_000", "hash": "C210FC35DC7ED987", "target": "Você parece ter mais fibra que a maioria dos aventureiros. Que tal fazer sua parte para preservar a paz? Patrulhamos a área dia e noite, mas uma escaramuça recente mandou uma dúzia dos meus melhores homens para a enfermaria, e estamos com uma grave falta de pessoal." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_002", "hash": "C84D9F373E8CA17A", "target": "Eu agradeceria se pudesse ajudar a substituir os feridos. Há três posições estratégicas na nossa rota de patrulha, cada uma marcada por um Twin Adder standard. Só precisa ir aos três locais, um por vez, e manter a posição por um tempo. Não tem segredo, está vendo?" },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_010", "hash": "34FA5DEE31F92D82", "target": "Que bom ver você de volta em um só pedaço. Algo a relatar?<br>...Um encontro com criaturas terríveis? Isso é muito estranho. Nunca tivemos problemas com a fauna local nessa rota de patrulha." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_PIRALNAUT_000_011", "hash": "11E6E7D88C181926", "target": "Hmm... Talvez estejam aumentando em número. Precisamos ficar bem atentos. Enfim, obrigado pela ajuda, <if(gnum4,amiga,amigo)>." },
+    { "gameKey": "quest/007/GaiUsa007_00713#TEXT_GAIUSA007_00713_POP_MESSAGE_000", "hash": "2F4A9991FA86089A", "target": "Você sente uma presença hostil!" }
   ]
 }

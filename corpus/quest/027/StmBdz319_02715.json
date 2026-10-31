@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz319_02715",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_SEQ_00", "hash": "C3DEEC70A17F8572", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_00", "hash": "B0D1B2D4477DF3FE", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_01", "hash": "08302C1DE6854AE8", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_000", "hash": "A9052D7A0A42619E", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_001", "hash": "7E5928FA80C0DA2E", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_002", "hash": "B336FA5CE0B49F86", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_003", "hash": "0E5D0968866E60E2", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_004", "hash": "E8A71559521EBBFD", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_010", "hash": "4467C8170D27D7DF", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_011", "hash": "4B1B3F270DE71B96", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_012", "hash": "0AE21669BEFAFFE9", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_013", "hash": "2F05D4E5C6389BC7", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_014", "hash": "0D9C8B3DB02D16D9", "target": "" },
-    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_015", "hash": "4E030C383286213F", "target": "" }
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_SEQ_00", "hash": "C3DEEC70A17F8572", "target": "Motogoe gostaria de enviar você numa expedição." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_00", "hash": "B0D1B2D4477DF3FE", "target": "Obter uma blessing stone" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_TODO_01", "hash": "08302C1DE6854AE8", "target": "Entregar a pedra de bênção a Motogoe" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_000", "hash": "A9052D7A0A42619E", "target": "Ah! Mas se não é <if(gnum4,uma aventureira,um aventureiro)>! Que tal sair numa caça ao tesouro?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_001", "hash": "7E5928FA80C0DA2E", "target": "O objeto que quero que procure só pode ser encontrado em ilhas remotas. A maioria das pessoas sensatas evita esses lugares, pois costumam estar cheios de toda espécie de fera terrível, mas você parece gostar desse tipo de desafio." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_002", "hash": "B336FA5CE0B49F86", "target": "Quero que vá à Ilha de Bekko. Os únicos que ousam pisar em seu solo são os ocasionais Kojin Azuis que entram e saem dos mares ao redor." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_003", "hash": "0E5D0968866E60E2", "target": "Lá, você encontrará algo conhecido como pedras de bênção. São redondas, brancas e um pouco quentes ao toque. Pode trazer uma para mim?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_004", "hash": "E8A71559521EBBFD", "target": "As pedras de bênção podem ser encontradas na Ilha de Bekko, uma ilha a sudeste daqui. Por favor, traga uma para mim, está bem?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_010", "hash": "4467C8170D27D7DF", "target": "Ah! Seu retorno significa que vou receber minha pedra de bênção?" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_011", "hash": "4B1B3F270DE71B96", "target": "É tão grande, quente e lisa. Daria um travesseiro perfeito! ...Não que eu fosse usar para isso, veja bem!" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_012", "hash": "0AE21669BEFAFFE9", "target": "Sabe, as pedras de bênção são, bem, esses... presentes deixados pelas aves marinhas. Só podem ser encontradas em áreas remotas porque são criaturas tímidas que preferem se estabelecer longe das pessoas." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_013", "hash": "2F05D4E5C6389BC7", "target": "Hm? O que quero dizer com “presente”, você pergunta? Bahahahaha! É como chamamos um monte de merda de pássaro, é claro! ...Espero que tenha usado luvas!" },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_014", "hash": "0D9C8B3DB02D16D9", "target": "Estamos sem fertilizante. Depois de moer isto até virar um pó fino, devemos ter o bastante para cobrir todos os nossos campos. Além de nos dar colheitas abundantes, essas pedras sustentam a gente nas épocas em que a pesca é fraca: ganhamos a vida vendendo-as em Namai." },
+    { "gameKey": "quest/027/StmBdz319_02715#TEXT_STMBDZ319_02715_MOTOGOE_000_015", "hash": "4E030C383286213F", "target": "Daí o nome, pedras de bênção. São um dos muitos presentes que o mar nos deu. Enfim, aqui está. Obrigado pela ajuda!" }
   ]
 }

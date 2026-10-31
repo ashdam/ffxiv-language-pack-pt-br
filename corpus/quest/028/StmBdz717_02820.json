@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz717_02820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "" },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "" }
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "M'linhbo está entre a cruz e a espada." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Matar highland dharas e derrotar o gold dust dhara quando aparecer" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Informar M'linhbo" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "Ora, veja só! Você é <if(gnum4,a aventureira,o aventureiro)> de Castellum Velodyna, não é? Deu um belo espetáculo lá embaixo. Sei que deve ouvir isso o tempo todo, mas alguém com o seu talento seria uma grande ajuda agora." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "Dharas andam aparecendo ao sul daqui e estão dando bastante trabalho pra gente." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_003", "hash": "1A35A80B93B82DA9", "target": "Fazemos o possível pra manter essas criaturas longe, mas de vez em quando aparece uma montanha de pedras cobertas de pó de ouro que nos faz sair correndo com o rabo entre as pernas. Imagino que enfrentar uns dharas seja como matar moscas pra você." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_004", "hash": "2DCCDA9F55F37182", "target": "Se você derrubar uns dharas, uma daquelas monstruosidades douradas com certeza vai aparecer. Abater só uma já ajudaria muito a recuperar nossos campos de caça." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_005", "hash": "A317E24A5511FC39", "target": "É só continuar batendo nos dharas que aquelas criaturas douradas vão aparecer. Mas tome cuidado. Provavelmente vão ficar furiosas por você matar os semelhantes delas." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_010", "hash": "387AAFA16D37A64A", "target": "Não precisa explicar. Vi tudo daqui. Você foi tão incrível quanto eu esperava." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_011", "hash": "7FAA5532D010A82C", "target": "Uma pena que essas coisas provavelmente vão voltar depois de um tempo. Dizem que nascem dos espíritos de guerreiros mortos em batalha." },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_014", "hash": "B47F7BF05D021BE6", "target": "Eu acho que tem alguma coisa a ver com o éter daqui, mas, mesmo assim, ando rezando pelo fim da guerra. Se cuide, <if(gnum4,amiga,amigo)>. Vou torcer por você." }
   ]
 }

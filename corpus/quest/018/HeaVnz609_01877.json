@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz609_01877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_00", "hash": "84C5066895EAA038", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_01", "hash": "87A14B509DFEA148", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_02", "hash": "BE7C242F7E516983", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_03", "hash": "F4744E9970984E93", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_00", "hash": "6FEB31D3F03CFEC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_01", "hash": "4BB7F42D9EACE5F5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_000", "hash": "22D39FA3E39D8AC7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_001", "hash": "EA5F959ADDE3BBE3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_010", "hash": "7B70D293330BFCDC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_030", "hash": "180AB63B18334AD9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_031", "hash": "F53F83BBEA9C5BEB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_032", "hash": "CA799277D22814EC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_00", "hash": "84C5066895EAA038", "target": "Mogoon tem uma expressão preocupada no rosto." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_01", "hash": "87A14B509DFEA148", "target": "Mogoon conta que os anzu migratórios começaram a construir ninhos perto do Senhor da Terra Perdido. Ajude-o a remover os ninhos antes que os anzu se reproduzam e transformem a área em um caos barulhento." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_02", "hash": "BE7C242F7E516983", "target": "Os ninhos foram removidos. Volte a Mogoon com a boa notícia." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_SEQ_03", "hash": "F4744E9970984E93", "target": "Mogoon fica feliz por você lhe entregar os ninhos. Uma criatura simples como um anzu jamais poderia apreciar a beleza e a santidade das estátuas sagradas da área." },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_00", "hash": "6FEB31D3F03CFEC2", "target": "Remover os ninhos de anzu" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_TODO_01", "hash": "4BB7F42D9EACE5F5", "target": "Entregar os ninhos a Mogoon" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_000", "hash": "22D39FA3E39D8AC7", "target": "<if(gnum4,Aventureira,Aventureiro)>! Parece que os anzu migratórios não pararam nas águas sagradas só para beber. Construíram ninhos ao redor da estátua, kupo! Imagine o barulho com ainda mais anzu voando por aí, kupo!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_001", "hash": "EA5F959ADDE3BBE3", "target": "Preciso que você remova os ninhos antes que um bando de anzu recém-nascidos e barulhentos me impeça de rezar para sempre, kupo! Por favor, depressa!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_010", "hash": "7B70D293330BFCDC", "target": "Os anzu construíram ninhos ao redor da estátua do Senhor da Terra Perdido. Livre-se deles antes que tenhamos filhotes de anzu guinchando por toda parte, kupo!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_030", "hash": "180AB63B18334AD9", "target": "Vi vários ninhos ao redor do Greensward. Conseguiu livrar a área deles?" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_031", "hash": "F53F83BBEA9C5BEB", "target": "...Tinha tantos ninhos assim? E já tinham ovos, kupopo!? Se você não tivesse removido os ninhos quando removeu... Muito obrigado pela ajuda!" },
+    { "gameKey": "quest/018/HeaVnz609_01877#TEXT_HEAVNZ609_01877_MOGOON_000_032", "hash": "CA799277D22814EC", "target": "Finalmente resolvemos o problema dos anzu. Se ao menos esses anzu simplórios entendessem a santidade das estátuas sagradas daqui... Talvez um dia, com minha devoção incansável, eu consiga fazer até essas criaturas entenderem sua beleza, kupo!" }
   ]
 }

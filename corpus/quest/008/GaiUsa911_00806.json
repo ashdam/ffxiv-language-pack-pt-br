@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsa911_00806",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_00", "hash": "C049B8153D566E67", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_01", "hash": "759871BF7CDEC143", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_02", "hash": "365231353618E659", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_03", "hash": "BD217A4C417B58D7", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_00", "hash": "F2CE6614A51AF9D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_01", "hash": "ECB0C9E7148DB417", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_000", "hash": "6A50751F23597C52", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_001", "hash": "0CDBD1936D6D8E56", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_010", "hash": "698913768639B5C8", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_020", "hash": "DF814F8EAEF99D21", "target": "" },
-    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_021", "hash": "0410E86BAA4BF409", "target": "" }
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_00", "hash": "C049B8153D566E67", "target": "Hobriaut sofre nas mãos da implacável Marcette." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_01", "hash": "759871BF7CDEC143", "target": "Você concorda em fazer uma análise da água no lugar de Hobriaut, que a implacável Marcette fez trabalhar até a exaustão. Obtenha três garrafas de água da Lagoa da Semente da Esperança." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_02", "hash": "365231353618E659", "target": "Você concluiu a coleta para a análise da água que havia sido confiada ao jovem pesquisador Hobriaut. Entregue a ele as três garrafas de água." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_SEQ_03", "hash": "BD217A4C417B58D7", "target": "Embora sua ajuda poupe Hobriaut da fúria de Marcette por hoje, o jovem pesquisador ainda teme pela própria vida." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_00", "hash": "F2CE6614A51AF9D9", "target": "Obter amostras de água da Lagoa da Semente da Esperança" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_TODO_01", "hash": "ECB0C9E7148DB417", "target": "Entregar as garrafas de água a Hobriaut" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_000", "hash": "6A50751F23597C52", "target": "\\<ofegante> \\<ofegante> Eu juro, aquela mulher é um demônio! Um monstro! Um perigo maior para Eorzea do que todas as tribos bestiais juntas, e muito mais! Ora, estou falando de Marcette, é claro." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_001", "hash": "0CDBD1936D6D8E56", "target": "Mal voltei com os trezentos ferrões de vespa que ela pediu, e já me mandou analisar a água da Lagoa da Semente da Esperança! No estado em que estou, sou capaz de cair de cara na água e me afogar. Ah, sou jovem demais para morrer! Por favor, diga que vai me ajudar... você precisa!" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_010", "hash": "698913768639B5C8", "target": "Não quero ser Assistente de Pesquisa Sete, Doze nem Quarenta e Três! Só quero voltar para caaaasa... hm? Ah, graças aos deuses, você voltou. Conseguiu fazer a análise?" },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_020", "hash": "DF814F8EAEF99D21", "target": "Uma, duas, três amostras da Lagoa da Semente da Esperança. Maravilha! Não sei como agradecer. Mas não consigo parar de pensar em que outras tarefas exaustivas me esperam... Arrancar os dentes do siso de um goobbue? Obter uma folha da cabeça de um treant? Só os deuses sabem." },
+    { "gameKey": "quest/008/GaiUsa911_00806#TEXT_GAIUSA911_00806_HOBRIAUT_000_021", "hash": "0410E86BAA4BF409", "target": "Vovô, vovó... estão me ouvindo aí em cima? Seu querido netinho vai se juntar a vocês muito em breve..." }
   ]
 }

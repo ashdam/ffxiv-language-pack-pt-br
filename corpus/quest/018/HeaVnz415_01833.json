@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz415_01833",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_00", "hash": "3E389A567296286D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_01", "hash": "DB8A1EB8F8CAF96F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_02", "hash": "12B57A9209641AD7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_03", "hash": "C4DD671BA51101BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_TODO_00", "hash": "867000135ADB4C71", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_TODO_01", "hash": "D8B3B23788CE9C5D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_000", "hash": "3FB3D66CEF698D57", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_001", "hash": "CF005AB96469065C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_010", "hash": "3ADFF04F41216AB1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_020", "hash": "575CBC46A3A37055", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_030", "hash": "4B2367276B69D724", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_031", "hash": "746142C65E3CF335", "target": "" },
-    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_032", "hash": "2DF8B3F3ADB92A1E", "target": "" }
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_00", "hash": "3E389A567296286D", "target": "Mogson parece estar no clima de dar presentes." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_01", "hash": "DB8A1EB8F8CAF96F", "target": "Mogson quer fazer uma gentileza para seu amigo Mogmill em Moghome, que é um grande apreciador das ferramentas dos senhores da terra. Vá a Landlord Colony e procure algo que sirva de presente." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_02", "hash": "12B57A9209641AD7", "target": "Após vasculhar as ruínas de Landlord Colony, você encontra um conjunto de ferramentas que deve bastar para impressionar um entusiasta de equipamentos enferrujados. Entregue-as a Mogmill em Moghome." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_SEQ_03", "hash": "C4DD671BA51101BF", "target": "Mogmill se maravilha com as ferramentas gastas que você lhe entrega, empolgado para acrescentá-las à sua coleção cada vez maior." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_TODO_00", "hash": "867000135ADB4C71", "target": "Procurar ferramentas antigas perto de Landlord Colony" },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_TODO_01", "hash": "D8B3B23788CE9C5D", "target": "Entregar as ferramentas a Mogmill" },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_000", "hash": "3FB3D66CEF698D57", "target": "Um amigo meu em Moghome é um pouco obcecado pelas ferramentas dos senhores da terra. É fácil entender o motivo: nós, moogles, adoramos coisas brilhantes, kupo!" },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_001", "hash": "CF005AB96469065C", "target": "Há ferramentas de eras perdidas espalhadas por Landlord Colony, prontinhas para levar. Meu amigo Mogmill ficaria radiante se você encontrasse algumas e as entregasse a ele em Moghome." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_010", "hash": "3ADFF04F41216AB1", "target": "Seria uma pena deixar os equipamentos dos senhores da terra largados, juntando ferrugem. Mogmill certamente fará melhor uso deles, kupo." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGSON_000_020", "hash": "575CBC46A3A37055", "target": "Mogmill coleciona ferramentas dos senhores da terra há muito tempo. Fico tentado a começar minha própria coleção, kupo!" },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_030", "hash": "4B2367276B69D724", "target": "As ferramentas dos moogles são terrivelmente sem graça. Queria ter mais das peças brilhantes dos senhores da terra, kupo..." },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_031", "hash": "746142C65E3CF335", "target": "...Que brilho intenso! O lustro deste metal é tão lindo, kupopo! ...Como? Mogson pediu que me desse isto? Muito obrigado, <if(gnum4,aventureira,aventureiro)>! Vou mandar meus agradecimentos a Mogson também!" },
+    { "gameKey": "quest/018/HeaVnz415_01833#TEXT_HEAVNZ415_01833_MOGMILL_000_032", "hash": "2DF8B3F3ADB92A1E", "target": "Colecionar essas relíquias dos senhores da terra virou uma espécie de obsessão para mim. Tudo é tão brilhante que sinto que poderia ficar admirando minha coleção reluzente o dia todo, kupo..." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/000/SubFst009_00034",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_00", "hash": "E905E709AD4791C1", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_01", "hash": "688C2FC9D0A9DB07", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_02", "hash": "FDDC64E02E1248A0", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TODO_00", "hash": "92942711CB82B84F", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_1", "hash": "8B207C77C0007719", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_2", "hash": "5DF41ECB8BEA2617", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_3", "hash": "789B9EC977C6B209", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_4", "hash": "1898F9E9BB4D6BC8", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_10", "hash": "3F353CA3B9E6A405", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_11", "hash": "72A1E011ED4B1367", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_12", "hash": "1D16E645A3C07440", "target": "" },
-    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_13", "hash": "B09DB0074CE02E69", "target": "" }
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_00", "hash": "E905E709AD4791C1", "target": "Celestine, uma veterana de muitas aventuras já cansada do mundo, procura alguém jovem e inexperiente para fazer uma entrega em seu lugar." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_01", "hash": "688C2FC9D0A9DB07", "target": "Celestine, uma aventureira veterana que há muito se cansou de tarefas braçais, avalia você num relance e declara que é a pessoa perfeita para cumprir sua última encomenda. Entregue um saco de provisões básicas a Tsubh Khamazom em Bannock." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_SEQ_02", "hash": "FDDC64E02E1248A0", "target": "Você entrega um saco de provisões básicas a Tsubh Khamazom, uma covarde assumida que elogia sua coragem ao mesmo tempo que questiona sua sanidade. Embora sinta orgulho de ter ajudado as almas mais pacatas de Gridania, você se surpreende um pouco com a menção de outro pagamento, feito antes. Deixando isso de lado, você aguarda o dia em que também poderá empurrar tarefas tão ingratas para aventureiros novatos." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TODO_00", "hash": "92942711CB82B84F", "target": "Entregar as provisões a Tsubh Khamazom" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_1", "hash": "8B207C77C0007719", "target": "Ei, <if(gnum4,garota,garoto)>, parece que você está sem fazer nada." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_2", "hash": "5DF41ECB8BEA2617", "target": "Você conhece Bannock, imagino? Que tal levar um saco de provisões básicas até lá para mim? Não é muito pesado, tem principalmente carne-seca e outras rações sem graça." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_3", "hash": "789B9EC977C6B209", "target": "É um trabalho simples que eu faria sorrindo e saltitando... se fosse dez anos mais nova. Infelizmente, meus gostos amadureceram. Evoluíram. Avançaram para um <italic(1)>nível<italic(0)> mais alto, pode-se dizer." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_CELESTINE_000_4", "hash": "1898F9E9BB4D6BC8", "target": "Mas é uma tarefinha perfeita para alguém <italic(1)>sem experiência<italic(0)> como você. Não se preocupe, receberá um pagamento adequado na entrega, e pode ficar com ele com minhas bênçãos." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_10", "hash": "3F353CA3B9E6A405", "target": "Uma entrega, é?<br>...Tem certeza de que ninguém seguiu você?" },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_11", "hash": "72A1E011ED4B1367", "target": "Sim, é o que pedi. Estranho... Eu esperava alguém com um pouco mais de experiência. Costumo hesitar diante de pagamentos tão <italic(1)>absurdos<italic(0)> antes da entrega." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_12", "hash": "1D16E645A3C07440", "target": "Sinceramente, estou admirada por você ter chegado até aqui! Esta floresta está cheia de anoles e outros monstros, prontos para fazer uma refeição rápida de quem não se prepara." },
+    { "gameKey": "quest/000/SubFst009_00034#TEXT_SUBFST009_00034_TSUBHKHAMAZOM_000_13", "hash": "B09DB0074CE02E69", "target": "Elogio sua coragem e agradeço pelo trabalho. Tome, fique com o restante do pagamento. Ficaria muito feliz em contratar você de no...<br>Espere! Viu aquilo!? Parecia um anole! Depressa, vá embora antes de trazê-lo até aqui e causar a morte de todos nós!" }
   ]
 }

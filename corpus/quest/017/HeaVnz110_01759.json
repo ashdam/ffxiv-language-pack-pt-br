@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz110_01759",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_00", "hash": "A181B6587C4CDA2A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_01", "hash": "379A5FA18AE6CB8A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_03", "hash": "E63FAD8020514CCD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_00", "hash": "88ECFE855E2E18AB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_01", "hash": "AA2C1038FD1C4AA3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_000", "hash": "FD03EE20AD3ADC58", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_001", "hash": "98F1DECF75737DEA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_002", "hash": "610ED296B358F74E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_010", "hash": "93BDD553F310C5BF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_030", "hash": "4B58E8B73D275821", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_031", "hash": "7CA56B208DB5187F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_032", "hash": "772B21A8B7030CA1", "target": "" }
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_00", "hash": "A181B6587C4CDA2A", "target": "Luciae contempla as dunas de neve com uma expressão sombria." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_01", "hash": "379A5FA18AE6CB8A", "target": "Polar bears vêm se esgueirando até o Convictory para se servir dos suprimentos. Luciae pediu que você reduza seu número, abatendo quatro dessas feras." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_02", "hash": "55589F8E3821DCFC", "target": "Você abate quatro polar bears, reduzindo significativamente a ameaça que representam ao Convictory. Volte a Luciae com a notícia." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_SEQ_03", "hash": "E63FAD8020514CCD", "target": "Luciae fica radiante ao saber que alguém finalmente cuidou dos polar bears. Parece que os nobres a quem pediu esse favor não têm interesse em caçar outras feras além de dragões, mesmo quando as criaturas em questão saqueiam seus suprimentos sem o menor pudor..." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_00", "hash": "88ECFE855E2E18AB", "target": "Abater polar bears" },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_TODO_01", "hash": "AA2C1038FD1C4AA3", "target": "Apresentar-se a Luciae" },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_000", "hash": "FD03EE20AD3ADC58", "target": "Quer ajudar, é? Bem, há muito o que fazer e matar também. Tenho certeza de que percebeu que os dragões não são a única coisa com que precisamos lidar por aqui." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_001", "hash": "98F1DECF75737DEA", "target": "Veja os polar bears, por exemplo. Eles vêm em busca de uma refeição fácil, atraídos pelo cheiro de nossas fogueiras, e depois saqueiam nossos estoques." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_002", "hash": "610ED296B358F74E", "target": "Acha que pode reduzir um pouco o número deles? Matar uns quatro deve bastar. Você receberá pelo trabalho, é claro." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_010", "hash": "93BDD553F310C5BF", "target": "Já matou aqueles polar bears? Abata quatro, e receberá um pagamento justo." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_030", "hash": "4B58E8B73D275821", "target": "Ora, ora! Você certamente inspira mais confiança do que qualquer filhinho de nobre que já conheci." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_031", "hash": "7CA56B208DB5187F", "target": "Eles só têm olhos para os dragões, mesmo que eu diga a todo momento que, se ninguém cuidar daqueles ursos, não vai sobrar uma migalha para comer. Mas será que escutam? Hmpf." },
+    { "gameKey": "quest/017/HeaVnz110_01759#TEXT_HEAVNZ110_01759_LUCIAE_000_032", "hash": "772B21A8B7030CA1", "target": "Eu diria que todo mundo aqui poderia se parecer um pouco mais com você. Bem, disse que pagaria pelo trabalho e cumpro minha palavra. Espero que considere isto uma remuneração justa por seus esforços." }
   ]
 }

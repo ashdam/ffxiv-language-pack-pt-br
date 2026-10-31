@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa902_00797",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "" }
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "Ademar está no escuro e precisa da ajuda de alguém que se aventure." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "Ademar ficou sem óleo para os lampiões, o que o impede de garimpar à noite. Consiga outra fonte de luz para ele: enfraqueça bright balloons e depois capture-os com os lampiões dele." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "Você conseguiu montar dois lampiões de balloon. Entregue-os a Ademar." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "Ademar agradece e logo volta a cavar. A vida de garimpeiro deixa pouco tempo para conversa fiada." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "Enfraquecer bright balloons e depois capturá-los com lampiões" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "Entregar os lampiões a Ademar" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "Me ajude, por favor. Fiquei sem uma gota de combustível para o lampião e receio não conseguir trabalhar <if([gnum11<12],<if([gnum11<4],a noite toda,por muito tempo depois do pôr do sol)>,<if([gnum11<17],por muito tempo depois do pôr do sol,a noite toda)>)>." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "Nunca tentei, mas ouvi dizer que dá para improvisar uma iluminação prendendo aqueles balloons voadores dentro destes lampiões aqui. Claro, talvez seja preciso convencer os bichos a entrar, se é que você me entende." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "Conseguiu montar uns lampiões para mim?" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "Os deuses mandaram você. Graças a você, <if([gnum11<12],<if([gnum11<4],posso voltar a cavar,vou cavar até bem depois do pôr do sol hoje)>,<if([gnum11<17],vou cavar até bem depois do pôr do sol hoje,posso voltar a cavar)>)>. Tem ouro naquelas colinas, hei-ho!♪" }
   ]
 }

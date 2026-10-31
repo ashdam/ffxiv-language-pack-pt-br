@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea166_01152",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "" },
-    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "" }
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "Quando a própria comandante de Skull Valley quer falar com você, <if(gnum4,uma humilde aventureira,um humilde aventureiro)>, antes da sua partida, tudo indica que há algo incomum acontecendo." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "A Comandante Falkbryda está feliz, pois o Comando do Maelstrom dispensou seus homens da investigação da Sastasha Seagrot. Claro, o que ela descobriu nesta manhã, você já sabia havia algum tempo, pois a substituição é você. Agora é preciso encontrar o Sargento Catguistl perto da gruta e dispensá-lo." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_02", "hash": "06E2236A7937BB88", "target": "Sua conversa com Catguistl fez você, se não recear, ao menos refletir sobre entrar na Seagrot." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_TODO_00", "hash": "A9DD58A0ED481F18", "target": "Falar com o Sargento Catguistl" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_000", "hash": "5884F2EBFD35663B", "target": "Ouvi dizer que vai nos deixar, <split(<string(gstr1)>, ,1)>. As notícias correm depressa num acampamento. Talvez possa nos ajudar uma última vez no caminho. Tenho aqui uma mensagem do Comando do Maelstrom, do Comodoro Reyner, dos Jaquetas Amarelas." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_001", "hash": "A4EECC2863C029B0", "target": "Estávamos investigando a Sastasha Seagrot por ordem deles, mas parece que contrataram <if(gnum4,uma aventureira,um aventureiro)>, “de excelente reputação e modos agradáveis”, como escreve o comodoro, para concluir o trabalho." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_002", "hash": "C103CE59318A8501", "target": "Agora, se você... sim?<br>Ha! É de <italic(1)>você<italic(0)> que ele fala? Claro! Bem, o Acampamento de Skull Valley ficaria feliz em dar ainda mais brilho à sua reputação. Você cumpriu suas tarefas admiravelmente bem." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_003", "hash": "9A3C2AF133FAAE91", "target": "O Comodoro Reyner e muitos outros no comando pensam como eu: espalhamos demais nossas forças com essas tarefas. Para falar a verdade, fico muito feliz em retirar nossos homens das cavernas." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_FALKBRYDA_000_004", "hash": "CA6C83E0DFAC8427", "target": "O Sargento-Chefe Catguistl é o oficial de maior patente na Sastasha Seagrot. Encontre-o e diga que a missão está concluída e que recebeu ordens de voltar a Skull Valley." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_000", "hash": "3DCB056ACC3D04D3", "target": "Alto, <if(gnum4,aventureira,aventureiro)>! Pretende entrar na Sastasha Seagrot? Eu não aconselharia. Provavelmente vai morrer nas profundezas labirínticas. Acredite, se não fosse por pura força de vontade, eu não estaria aqui." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_001", "hash": "6AE34B703145D9F7", "target": "O que estou fazendo aqui fora, você pergunta? Acho este um belo lugar para traçar estratégias. Muito melhor que as profundezas labirínticas da caverna, <if(gnum4,minha amiga,meu amigo)>. Lá dentro, ninguém vai ouvir seus gritos, ainda mais agora que todos os outros foram transferidos." },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_002", "hash": "90C7275DFA1FEF28", "target": "Eu também, você diz? Voltar ao Acampamento de Skull Valley e me afastar das profundezas labirínticas daquele inferno? Excelente. Tenho meus princípios e teria sacrificado a vida pela missão de bom grado, mas não lamento ceder essa possibilidade a você e me despedir desta gruta!" },
+    { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_CATGUISTL_000_003", "hash": "03F9963EBBBE378C", "target": "Meu lugar é num forte ou no campo de batalha, não rastejando por uma caverna úmida com rolos de corda e maços de papel, temendo nunca mais ver a luz do dia. Aviso, <if(gnum4,minha amiga,meu amigo)>, há muito perigo lá no fundo. É um lugar... como se diz... <italic(1)>labiríntico<italic(0)>, estou dizendo." }
   ]
 }

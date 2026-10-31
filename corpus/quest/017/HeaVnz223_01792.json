@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz223_01792",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "" },
-    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "" }
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_00", "hash": "BD154F109031A57F", "target": "O Vath storyteller está preocupado com o risco de um ataque dravaniano." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_01", "hash": "EE05AA4C04BCE0D9", "target": "O Vath storyteller pede que você colete orvalho-prateado. A planta cresce num terreno elevado a oeste de Tailfeather. Vá até lá, colete três maços de orvalho-prateado e entregue-os ao Vath storyteller." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_02", "hash": "7A1160BF657C88D6", "target": "Você encontrou e coletou o orvalho-prateado. Volte a Loth ast Vath e entregue-o ao storyteller." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_SEQ_03", "hash": "3F0C93BEDC419E48", "target": "O storyteller explica como os Vath evitaram ataques dravanianos por tanto tempo: queimar orvalho-prateado produz uma fumaça de cheiro forte. Os dragões não suportam o cheiro e evitam toda a área de Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_00", "hash": "E1E186E76CDFF25B", "target": "Coletar três maços de orvalho-prateado" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_TODO_01", "hash": "AD8236D00E572972", "target": "Entregar o orvalho-prateado ao Vath storyteller" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_000", "hash": "6E197AC1CDAA06D9", "target": "Saudações, <if(gnum4,generosa caçadora,generoso caçador)>. Quero fazer outro pedido. \\<clique> \\<clique> Por favor, colete três maços de orvalho-prateado e traga para nós." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_001", "hash": "CF6A5D20EE762A0E", "target": "O orvalho-prateado pode ser encontrado perto de Tailfeather. Há um terreno elevado a oeste de Tailfeather onde a planta cresce. Colete as plantas lá e traga aqui para nós." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_010", "hash": "AEA045A4F2AE708E", "target": "Encontrou o orvalho-prateado? Ele cresce a oeste de Tailfeather." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_100_020", "hash": "EB9895178AAE73EF", "target": "\\<clique> \\<clique> Trouxe o orvalho-prateado?" },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_020", "hash": "AAFF9FCABDC26184", "target": "Obrigado, <if(gnum4,caçadora,caçador)>. Agora podemos nos sentir seguros." },
+    { "gameKey": "quest/017/HeaVnz223_01792#TEXT_HEAVNZ223_01792_STORYTELLER_000_031", "hash": "FBE161FAAD189025", "target": "O cheiro do orvalho-prateado queimando, da fumaça que produz, é insuportável para os dragões. Vai mantê-los longe e deixar Loth ast Vath em segurança, por algum tempo." }
   ]
 }

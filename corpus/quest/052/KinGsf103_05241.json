@@ -2,17 +2,17 @@
   "conversation": "quest/052/KinGsf103_05241",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_SEQ_00", "hash": "D8B3C23E8ED677A0", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_TODO_00", "hash": "B839619D1773B766", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_000", "hash": "42BCD90EBEE37E2D", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_001", "hash": "8206750581E3A380", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_010", "hash": "D92F3E24648AACC9", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_020", "hash": "67727349ABD3544F", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_021", "hash": "CF92058083EF9AEA", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_022", "hash": "F35ED117AD58D7E6", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_023", "hash": "A741160B0B692560", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_024", "hash": "82EE8F47233DD2DE", "target": "" },
-    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_025", "hash": "C2B87C922F84E886", "target": "" }
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_SEQ_00", "hash": "D8B3C23E8ED677A0", "target": "Wawlika tem uma mensagem para você." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_TODO_00", "hash": "B839619D1773B766", "target": "Falar com Zawpya" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_000", "hash": "42BCD90EBEE37E2D", "target": "Ah, <split(<string(gstr1)>, ,1)>, que bom que veio! Zawpya me disse que precisa falar com você." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_001", "hash": "8206750581E3A380", "target": "Agora, por que ele simplesmente não foi procurar você, não faço ideia..." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_002", "hash": "41D7ACF1E1A60D20", "target": "Enfim, você vai encontrar ele lá na Estação de Shaaloani. Boa viagem!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_WAWLIKA_000_010", "hash": "D92F3E24648AACC9", "target": "Sinto muito, <if(gnum4,amiga,amigo)>, mas Zawpya não me disse por que pediu para falar com você. Ele deve estar na estação." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_020", "hash": "67727349ABD3544F", "target": "<split(<string(gstr1)>, ,1)>! Chegou na hora certa. É que estou com um problema..." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_021", "hash": "CF92058083EF9AEA", "target": "É a Dawnblazer. Sei que ela explodiu no cumprimento do dever, mas, por mais que tente, não consigo tirar aquele anjo blindado da cabeça!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_022", "hash": "F35ED117AD58D7E6", "target": "Depois que ela entrou na conversa outro dia, reacendeu uma chama em mim. Uma coisa levou a outra, e acabei costurando algo inspirado no desenho dela." },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_023", "hash": "A741160B0B692560", "target": "Sei que deve parecer loucura, <split(<string(gstr1)>, ,1)>, mas eu adoraria dar este conjunto a você!" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_024", "hash": "82EE8F47233DD2DE", "target": "(E, se não for do seu agrado, talvez possa dar um jeito discreto de perguntar a Nitowikwe o que ela acha dele...?)" },
+    { "gameKey": "quest/052/KinGsf103_05241#TEXT_KINGSF103_05241_ZAWPYA_000_025", "hash": "C2B87C922F84E886", "target": "Pense nisso, está bem? Juntos, podemos manter a memória dela viva. Por meio de nós, a Dawnblazer continuará nos trilhos!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz203_02675",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "" },
-    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "" }
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_SEQ_00", "hash": "F1B2F97C6BB7BF14", "target": "Hiun olha de um lado para o outro, empolgado." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_00", "hash": "D49B121A7100AC60", "target": "Obter magma líquido escaldante em Hells' Lid" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_TODO_01", "hash": "640F335285FCD656", "target": "Entregar o magma líquido escaldante a Hiun" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_000", "hash": "D3612436174F2098", "target": "Droga! Você viu aquilo!? O diabo está limpando a garganta de novo! Ah, parece que não conhece a expressão. É o que dizemos por aqui quando Hells' Lid entra em erupção." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_001", "hash": "83A8919E55131A28", "target": "Agora é melhor nos mexermos. Temos pouquíssimo tempo! Precisamos coletar o magma quente antes que comece a esfriar!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_002", "hash": "CDF794CBE3C75D75", "target": "Mas, antes de irmos, vou logo avisando: se não aguenta um pouco de calor ou não dá conta de algumas feras, aconselho que fique aqui. Poucos voltam com vida dessas excursões penosas." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_003", "hash": "E529DE9F1707C444", "target": "Posso entender esse silêncio como um sinal de que vai comigo? Ótimo. Aqui, pegue este pote. Encha com o máximo de magma que puder e traga de volta. Ele esquenta bem depressa, então cuidado para não se queimar!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_004", "hash": "AC5B14FC57223041", "target": "Ponha o máximo de magma que puder no pote e traga de volta. Ele esquenta muito depressa, então cuidado para não se queimar!" },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_010", "hash": "5AF2E3131DAF3657", "target": "Você voltou sem um arranhão nem uma queimadura. Impressionante. Agora, vamos ver quanto magma conseguiu trazer." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_011", "hash": "D3A8E60607691D56", "target": "Hoho! Seu pote está quase cheio! Muito bem, <if(gnum4,minha amiga,meu amigo)>! Coletou quase tanto quanto eu, que sou veterano." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_012", "hash": "140A98868326AB01", "target": "Hum? Quer saber para que vou usar isso? É uma pergunta justa." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_013", "hash": "F7EC60D3BCFE360B", "target": "Segundo uma lenda antiga, uma espada forjada com lava derretida pode matar tanto homens quanto demônios. Por isso usamos isso para fazer nossas lâminas. Nós, piratas, gostamos de nos precaver contra tudo. No mar, nunca se sabe o que vai encontrar." },
+    { "gameKey": "quest/026/StmBdz203_02675#TEXT_STMBDZ203_02675_HIUN_000_015", "hash": "3EF3D5D867082E6E", "target": "Obrigado pela ajuda. Você me poupou uma viagem de ida e volta àquele lugar infernal. Aceite isto como recompensa." }
   ]
 }

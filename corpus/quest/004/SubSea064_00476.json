@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea064_00476",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_00", "hash": "1BC2C09CFD8FE48A", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_01", "hash": "4365FB4772CB8914", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_02", "hash": "6101410BC0926940", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_03", "hash": "CC43DD84B0707373", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_00", "hash": "F669AF4FB104B4B6", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_01", "hash": "6CCC22E759B08725", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_0", "hash": "B99C01B5B2039152", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_1", "hash": "C3A41DC122D3F14D", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_2", "hash": "2D237DDFFA842574", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_3", "hash": "735895CC36105959", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_10", "hash": "73EF0A7484BC1697", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_11", "hash": "AC4E8E7CCC9BCBFF", "target": "" },
-    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_12", "hash": "4960830732D9153A", "target": "" }
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_00", "hash": "1BC2C09CFD8FE48A", "target": "Anaoc procura alguém para ajudar a Fazenda do Galo Vermelho." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_01", "hash": "4365FB4772CB8914", "target": "Anaoc pede que você entregue lã em Grey Fleet. Pegue o saco de lã perto do cercado das ovelhas." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_02", "hash": "6101410BC0926940", "target": "Você obteve o saco de lã. Entregue-o a Weitzaren em Grey Fleet." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_SEQ_03", "hash": "CC43DD84B0707373", "target": "Weitzaren recebe sua entrega com exasperação e alegria na mesma medida. Graças a você, o moleiro pode enfim começar a produzir seu feltro." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_00", "hash": "F669AF4FB104B4B6", "target": "Obter o saco de lã" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_TODO_01", "hash": "6CCC22E759B08725", "target": "Entregar o saco de lã a Weitzaren em Grey Fleet" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_0", "hash": "B99C01B5B2039152", "target": "Espero que não se encolha feito carneirinho ao carregar um pouquinho de lã. A lã do rebanho foi tosquiada e lavada, e o saco está pronto para partir." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_1", "hash": "C3A41DC122D3F14D", "target": "Normalmente, o moleiro maluco lá do norte pega a lã e faz feltro para nós." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_2", "hash": "2D237DDFFA842574", "target": "Mas parece que a única lã de que o entregador dele está cuidando hoje é a do cobertor, aquele vadio preguiçoso." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_ANAOC_000_3", "hash": "735895CC36105959", "target": "Então esperava que você pudesse levar o saco de lã perto do cercado do rebanho até o moleiro. Weitzaren é o nome dele." },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_10", "hash": "73EF0A7484BC1697", "target": "Um moleiro sem lã é um artista sem tela! Um poeta sem palavras! Um homem sem propósito!" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_11", "hash": "AC4E8E7CCC9BCBFF", "target": "Maldito entregador! As ovelhas param de crescer? O moinho para de girar? O que dá a ele o direito de descansar?" },
+    { "gameKey": "quest/004/SubSea064_00476#TEXT_SUBSEA064_00476_WEITZAREN_000_12", "hash": "4960830732D9153A", "target": "Bah! Que ele conte carneirinhos na cama! Finalmente a lã é minha, e logo o feltro será feito! Muahahaha..." }
   ]
 }

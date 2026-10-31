@@ -2,17 +2,17 @@
   "conversation": "quest/021/BanVan107_02177",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_00", "hash": "6B7D666E63469695", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_01", "hash": "C43D2A84659B8C97", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_02", "hash": "F5B95EC05D9549C0", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_03", "hash": "BB0F74937C37D300", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_00", "hash": "47E885313E0CFCD2", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_01", "hash": "B085D8D835B13C14", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_000", "hash": "95329319B2FE7418", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_001", "hash": "BB1A9F5182C29D04", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_010", "hash": "5C613A529D6D2D34", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_011", "hash": "FE58C85B5ACC997A", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_012", "hash": "A27065AF1FC6362F", "target": "" },
-    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_013", "hash": "57E4C6697B54B896", "target": "" }
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_00", "hash": "6B7D666E63469695", "target": "Muna Vanu tem uma missão empolgante envolvendo ovos para você.<br>※A dificuldade desta missão será sincronizada com seu nível atual." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_01", "hash": "C43D2A84659B8C97", "target": "Muna Vanu informa que os anzu de Abalathia estão na época da postura. Seus ovos serão um ótimo complemento aos estoques de comida cada vez menores dos Gundu. Vá ao Nidifício, onde essas feras fazem seus ninhos, e colete três ovos de anzu para ele.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, você só pode avançar nela com a mesma classe ou job com que a aceitou." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_02", "hash": "F5B95EC05D9549C0", "target": "Os grandes e ferozes anzu não conseguem impedir você de levar seus ovos. Entregue-os a Muna Vanu." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_SEQ_03", "hash": "BB0F74937C37D300", "target": "Muna Vanu fica feliz com os ovos suculentos que você coletou, mas ainda mais feliz por você enfrentar os temíveis anzu pelo bem de seu povo. Só os guerreiros Gundu mais destemidos encaram esses monstros aterradores. Fazer o mesmo coloca sua lealdade aos Gundu acima de qualquer dúvida." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_00", "hash": "47E885313E0CFCD2", "target": "Coletar ovos de anzu no Nidifício" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_TODO_01", "hash": "B085D8D835B13C14", "target": "Entregar os ovos a Muna Vanu" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_000", "hash": "95329319B2FE7418", "target": "<split(<string(gstr1)>, ,1)>, estoques de comida Gundu estão perigosamente baixos, mas ventos suaves trazem oportunidade perfeita. Anzu põem ovos na ilha que os de baixo chamam Nidifício, prontos para pegar." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_001", "hash": "BB1A9F5182C29D04", "target": "Por favor, colete três ovos para reservas da aldeia. Seja <if(gnum4,delicada como brisa suave,delicado como brisa suave)>, porém, Vanu não podem comer ovos com cascas em pedaços!" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_010", "hash": "5C613A529D6D2D34", "target": "Que bom ver você de volta, <split(<string(gstr1)>, ,1)>. <if(gnum4,A de baixo traz,O de baixo traz)> ovos de anzu?" },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_011", "hash": "FE58C85B5ACC997A", "target": "Enfrentar temíveis anzu e coletar ovos tão depressa... <split(<string(gstr1)>, ,1)> tem mesmo coragem, como árvore jovem que resiste firme a grande tempestade." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_012", "hash": "A27065AF1FC6362F", "target": "Ovos de anzu são tão gostosos que muitos Vanu comem até casca! Mas ovos que você nos dá serão conservados em vinagre para durar e alimentar bem tribo quando reservas baixarem." },
+    { "gameKey": "quest/021/BanVan107_02177#TEXT_BANVAN107_02177_MUNAVANU_000_013", "hash": "57E4C6697B54B896", "target": "Só os guerreiros Gundu mais fortes enfrentam anzu sem medo. Sua bravura prova sua lealdade. Gundu lembrarão de sua ajuda por muito tempo." }
   ]
 }

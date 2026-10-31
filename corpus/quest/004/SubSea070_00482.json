@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea070_00482",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_00", "hash": "95FE95923DCC23AB", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_01", "hash": "43F9A3AD12E4AA76", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_02", "hash": "CA6CB70E7F7AFE41", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_03", "hash": "E660F419DFA33470", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_00", "hash": "8B0B9A987B9A8569", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_01", "hash": "C25C2E97478D8691", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_0", "hash": "853FA898DA6CF968", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_1", "hash": "C87EE4B8885BA657", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_2", "hash": "0218737156D88789", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_10", "hash": "14ABF9F7F43848B8", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_11", "hash": "54EB1CA66FED0017", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_12", "hash": "4E32D5353089872E", "target": "" },
-    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_POP_MESSAGE", "hash": "59BF85E48D981B6D", "target": "" }
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_00", "hash": "95FE95923DCC23AB", "target": "Arenlona tem algumas toupeiras das quais gostaria de se livrar." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_01", "hash": "43F9A3AD12E4AA76", "target": "Os clever hedgemoles parecem gostar especialmente das abóboras-ogro cultivadas por Arenlona. Visite o canteiro de abóboras e acerte as toupeiras." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_02", "hash": "CA6CB70E7F7AFE41", "target": "Você livrou o canteiro dos ladrões de abóboras. Volte a Arenlona com a boa notícia." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_SEQ_03", "hash": "E660F419DFA33470", "target": "Arenlona está sempre elaborando novos métodos de cultivo para acompanhar os problemas da colheita, que não param de evoluir. Mas contar com a presença de <if(gnum4,uma aventureira,um aventureiro)>, mesmo que temporariamente, deve permitir que ela avance bastante." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_00", "hash": "8B0B9A987B9A8569", "target": "Visitar o canteiro de abóboras e abater clever hedgemoles" },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_TODO_01", "hash": "C25C2E97478D8691", "target": "Apresentar-se a Arenlona" },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_0", "hash": "853FA898DA6CF968", "target": "Se uma vida inteira de pesquisa meticulosa para aperfeiçoar as artes agrícolas me ensinou algo, é que os frutos do conhecimento são incapazes de se preservar sozinhos. Sem a força de <if(gnum4,uma aventureira,um aventureiro)> para protegê-los, temo que todo o meu trabalho seja em vão." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_1", "hash": "C87EE4B8885BA657", "target": "Veja, por exemplo, a esplêndida plantação de abóboras-ogro que consegui cultivar. Anos de hipóteses e testes enfim concretizados, só para serem roubados por aqueles parasitas subterrâneos, os clever hedgemoles." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_2", "hash": "0218737156D88789", "target": "Já modifiquei as abóboras para resistirem ao fogo, à seca, à geada, às ervas daninhas, aos insetos e aos rituais festivos. Só preciso de alguém para matar as toupeiras." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_10", "hash": "14ABF9F7F43848B8", "target": "Bem, foi tão fácil que me pergunto por que passei a vida formulando soluções complexas para os problemas, em vez de simplesmente sair por aí matando coisas." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_11", "hash": "54EB1CA66FED0017", "target": "Mesmo assim, receio que seja tarde demais para mudar meus métodos. Vou continuar me concentrando nas soluções complexas e deixar <italic(1)>você<italic(0)> por perto para matar coisas." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_ARENLONA_000_12", "hash": "4E32D5353089872E", "target": "Que soberba! Que arrogância acreditar que eu, uma mulher sozinha, poderia vencer os mistérios insondavelmente vastos e profundos da natureza... Mas, com você aqui, tenho certeza de que conseguiremos." },
+    { "gameKey": "quest/004/SubSea070_00482#TEXT_SUBSEA070_00482_POP_MESSAGE", "hash": "59BF85E48D981B6D", "target": "Você sente uma presença hostil!" }
   ]
 }

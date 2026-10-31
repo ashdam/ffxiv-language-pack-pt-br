@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz403_02726",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "" },
-    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "" }
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SEQ_00", "hash": "0233F117C6028195", "target": "Sentei precisa de ajuda para capturar um predador." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_00", "hash": "84BCB4EA7B2F698C", "target": "Colocar as armadilhas de ferro para pernas nos locais indicados" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_TODO_01", "hash": "8EC965858BC005B8", "target": "Relatar a Sentei" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_000", "hash": "DC21CB44757C1A1B", "target": "Ei, viajante! Se tiver tempo, eu agradeceria sua ajuda." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_001", "hash": "F4478136A2C37644", "target": "Eu estava remexendo nas minhas coisas outro dia e encontrei estas armadilhas de ferro para pernas." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_002", "hash": "53A016537A8A663D", "target": "Adoraria usá-las e sair para caçar, mas sei que isso só agravaria uma lesão antiga que tenho. Você poderia armá-las por mim?" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_003", "hash": "2E65A26860FA5F64", "target": "Marquei neste mapa os locais onde quero colocá-las. Tome cuidado para não prender a própria perna sem querer enquanto estiver armando as armadilhas!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_004", "hash": "7B3BCDF759EED996", "target": "Os locais onde quero as armadilhas estão naquele mapa. Tome cuidado para não prender a própria perna sem querer enquanto estiver armando as armadilhas!" },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_010", "hash": "91C313BABBF7AA62", "target": "Imagino que tenha terminado? Obrigado." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_011", "hash": "637425F872ECF28E", "target": "Antigamente, eu era muito bom com o machado. Podia caçar todo tipo de fera sem depender dessas armadilhas bobas. Até fiz minha parte na resistência contra o Império quando eles invadiram." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_012", "hash": "7056FCD05AFFD128", "target": "Mas um tiro na perna pôs fim a isso. De vez em quando, a dor volta com força e fico paralisado até ela passar. Não se preocupe, vou verificar as armadilhas assim que conseguir." },
+    { "gameKey": "quest/027/StmBdz403_02726#TEXT_STMBDZ403_02726_SENTEI_000_013", "hash": "F82ADF295279A808", "target": "Aqui, aceite isto pela ajuda." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa602_00764",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_00", "hash": "66880BC203FA644A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_01", "hash": "4583C091B617CAB2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_02", "hash": "B3C4B466210532FC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_TODO_00", "hash": "433AAA49FA13DC05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_000", "hash": "2B4781DCBCB7726E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_001", "hash": "9252333BF76BB840", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_002", "hash": "1B3069AE50CAF501", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_010", "hash": "FA23682DA35547DA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_011", "hash": "ECA1EA926C332A9A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_012", "hash": "3297BA10A8922423", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_013", "hash": "64F5525A0A55A704", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_020", "hash": "C15635A8B8E8B76B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_021", "hash": "ABC4265AFB1896C5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_00", "hash": "66880BC203FA644A", "target": "Nedrick tem uma informação tentadora para compartilhar com <if(gnum4,uma aventureira,um aventureiro)>." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_01", "hash": "4583C091B617CAB2", "target": "Nedrick informa que as Chamas Imortais estão recrutando aventureiros para explorar Sunken Temple of Qarn. Vá à entrada do templo e procure uma pessoa chamada Bibimu." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SEQ_02", "hash": "B3C4B466210532FC", "target": "Bibimu deu a você permissão para explorar Sunken Temple of Qarn. Prepare-se para os muitos desafios que aguardam lá dentro.<br><br>※Você pode acessar Sunken Temple of Qarn pelo Duty Finder." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_TODO_00", "hash": "433AAA49FA13DC05", "target": "Falar com Bibimu em Sunken Temple of Qarn" },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_000", "hash": "2B4781DCBCB7726E", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>! Você está com cara de quem busca novos campos de batalha para aperfeiçoar suas habilidades crescentes. Não pergunte como Nedrick sabe, ele simplesmente sabe!" },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_001", "hash": "9252333BF76BB840", "target": "Agora me diga: por acaso conhece Sunken Temple of Qarn? Não vou censurar você se não conhecer. Afinal, as ruínas só vieram à superfície quando a Calamidade abriu a terra ao meio. Enfim, hoje em dia é um destino popular entre aventureiros em busca de novas fronteiras para explorar." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_NEDRICK_000_002", "hash": "1B3069AE50CAF501", "target": "Se tem vontade de se juntar a eles, por que não viajar até Southern Thanalan e visitar o templo? Com tantos perigos espreitando lá dentro, as Chamas Imortais vigiam o lugar de perto, mas Bibimu, da raça Lalafell, deve poder permitir sua passagem." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_010", "hash": "FA23682DA35547DA", "target": "Boas-vindas a Sunken Temple of Qarn, ou pelo menos ao que restou dele. Usado pelos antigos habitantes de Belah'dia como local de adoração à deusa do sol, Azeyma, o templo ainda tem grande parte de sua história envolta em mistério." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_011", "hash": "ECA1EA926C332A9A", "target": "Embora tenhamos enviado uma equipe de pesquisa às profundezas, lamento dizer que a investigação avança a passos de tartaruga, quando avança." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_012", "hash": "3297BA10A8922423", "target": "Parece que os habitantes de Belah'dia equiparam o templo com todo tipo de armadilha e cilada traiçoeira, sem dúvida para afastar saqueadores." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_BIBIMU_000_013", "hash": "64F5525A0A55A704", "target": "Recrutamos aventureiros para ajudar a desarmar as armadilhas, mas fica o aviso: muitos dos que entraram ainda não voltaram. Se quiser enfrentar as profundezas, sua ajuda será bem-vinda." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_020", "hash": "C15635A8B8E8B76B", "target": "Você desbloqueou o Duty Finder! Esse recurso permite realizar missões multijogador sem precisar formar um grupo por conta própria." },
+    { "gameKey": "quest/007/GaiUsa602_00764#TEXT_GAIUSA602_00764_SYSTEM_000_021", "hash": "ABC4265AFB1896C5", "target": "Para abrir a interface do Duty Finder, selecione <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> na seção <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> do <colortype(500)><edgecolortype(501)>menu principal<edgecolortype(0)><colortype(0)>." }
   ]
 }

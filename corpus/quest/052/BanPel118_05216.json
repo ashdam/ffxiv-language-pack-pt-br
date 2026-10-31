@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel118_05216",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_SEQ_00", "hash": "824003FADCBB97D3", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_00", "hash": "AFD620BBD8990A57", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_01", "hash": "3697B8788250647C", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_000", "hash": "D41769E42DB0B1EA", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_001", "hash": "6153A6CF56E8E3CF", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_002", "hash": "BF41A3F09C37E3B8", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_005", "hash": "605D6D0701755DB1", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_006", "hash": "F6FDAB611077B482", "target": "" },
-    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_007", "hash": "1FCF11FC20ABDD1E", "target": "" }
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_SEQ_00", "hash": "824003FADCBB97D3", "target": "Yubli precisa de ajuda para eliminar um monstro malcheiroso.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você deve prosseguir com a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_00", "hash": "AFD620BBD8990A57", "target": "Examinar o local indicado e derrotar os uprooted morbols que aparecerem" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_TODO_01", "hash": "3697B8788250647C", "target": "Falar com Yubli" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_000", "hash": "D41769E42DB0B1EA", "target": "Os moradores de Earthenshire nos trouxeram um relato preocupante. Parece que avistaram um morbol de Urqopacha rastejando pela área, talvez fugido para cá desde o despertar de Valigarmanda." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_001", "hash": "6153A6CF56E8E3CF", "target": "Essa espécie em particular é conhecida por arrotar gases vulcânicos, ou algo parecido. Se puder vagar por aí sem controle, só consigo imaginar o transtorno que causará às nossas rotas turísticas." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_002", "hash": "BF41A3F09C37E3B8", "target": "Por favor, peço que vá a Miyakabek'zoma e abata esse monstro malcheiroso. O ar puro de Kozama'uka precisa ser preservado!" },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_005", "hash": "605D6D0701755DB1", "target": "Então você deu conta daquele morbol das montanhas? Isso será um alívio para os moradores da área. Tanto as pessoas quanto os punutiy podem voltar a respirar tranquilos." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_006", "hash": "F6FDAB611077B482", "target": "A beleza natural de Kozama'uka é um tesouro nacional e o maior trunfo do nosso setor. É do interesse da agência ouvir os alertas dos nossos vizinhos e fazer tudo que puder para manter essa beleza intacta." },
+    { "gameKey": "quest/052/BanPel118_05216#TEXT_BANPEL118_05216_YUBLI_000_007", "hash": "1FCF11FC20ABDD1E", "target": "Agradecemos muito sua ajuda. Vamos ficar atentos a novas invasões, e talvez precisemos de você de novo se outras pragas dessas erguerem suas cabeças pestilentas." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz626_01894",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_00", "hash": "CAA50E7DED9AE668", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_01", "hash": "1262AC8EF24D78DF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_02", "hash": "C292CEB03EE5363F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_03", "hash": "85186D63F0890815", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_00", "hash": "0C5E13AADBEBED63", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_01", "hash": "EDCFB75A215CA663", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_000", "hash": "B4BF02BBCF437630", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_001", "hash": "300E6C1AC1C11156", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_010", "hash": "853344D6D38CA84C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_020", "hash": "D95BE5BF3626A851", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_021", "hash": "BDFF6D9AFEF3B17E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_022", "hash": "708876DB8AF5AAE8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_023", "hash": "8DEC13641787AFA0", "target": "" }
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_00", "hash": "CAA50E7DED9AE668", "target": "Bonifoix olha para a distância com o olhar perdido." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_01", "hash": "1262AC8EF24D78DF", "target": "Bonifoix e sua unidade caçavam dragões em Red Rim quando tudo deu errado. Ele foi o único sobrevivente. Procure os pertences dos homens para que possa devolvê-los aos pais." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_02", "hash": "C292CEB03EE5363F", "target": "Você encontra os pertences dos homens mortos. Leve-os a Bonifoix." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_SEQ_03", "hash": "85186D63F0890815", "target": "A unidade de Bonifoix foi corajosa e valente até o fim. Os pertences recuperados podem ajudá-lo a convencer os pais disso." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_00", "hash": "0C5E13AADBEBED63", "target": "Procurar os pertences deixados no chão" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_TODO_01", "hash": "EDCFB75A215CA663", "target": "Entregar os pertences a Bonifoix" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_000", "hash": "B4BF02BBCF437630", "target": "Minha unidade e eu fomos... E-Estávamos caçando dragões... em Red Rim... Eu... fui o único que voltou..." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_001", "hash": "300E6C1AC1C11156", "target": "Preciso contar... Preciso dar a má notícia aos... aos pais deles... Mas, antes, pode me ajudar a recolher suas coisas?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_010", "hash": "853344D6D38CA84C", "target": "Por favor, pode... hum... Pode recolher as coisas que os homens da minha unidade deixaram cair?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_020", "hash": "D95BE5BF3626A851", "target": "Você conseguiu... teve dificuldade para encontrar as coisas deles?" },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_021", "hash": "BDFF6D9AFEF3B17E", "target": "Obrigado. Obrigado, isto é... são mesmo... Eu não conseguiria buscar sozinho. Eu teria... acabaria como eles." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_022", "hash": "708876DB8AF5AAE8", "target": "A maioria das tropas daqui só... só fala, sabe? Mas aqueles homens eram mesmo... eram muito corajosos. É que... demos um passo maior que a perna." },
+    { "gameKey": "quest/018/HeaVnz626_01894#TEXT_HEAVNZ626_01894_BONIFOIX_000_023", "hash": "8DEC13641787AFA0", "target": "Vou devolver as coisas aos pais deles e contar... Vou dizer que aqueles homens foram corajosos e valentes até o fim." }
   ]
 }

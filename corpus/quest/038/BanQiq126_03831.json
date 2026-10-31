@@ -2,17 +2,17 @@
   "conversation": "quest/038/BanQiq126_03831",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "" },
-    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "" }
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_00", "hash": "4A046EABED47BE54", "target": "Qhoterl Pasol está ansiosa para contar sobre uma descoberta recente.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, você só pode avançar com a classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_SEQ_01", "hash": "663D45F7A851C5DA", "target": "Entregue os suprimentos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_TODO_00", "hash": "8F582A29B1FC9F02", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extrair splendid bone fragments na Casca,Entregar os splendid bone fragments a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Coletar splendid earthworms na Casca,Entregar os splendid earthworms a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar uma splendid larva em Mjrl's Regret,Entregar a splendid larva a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_000", "hash": "5CDD0180A6F90932", "target": "Nossos trabalhadores descobriram uma vasta extensão de água ao escavar uma caverna subterrânea, e ela está repleta de peixes. Essa bênção garantirá alimento constante enquanto avançamos nas escavações. Isso, é claro, se conseguirmos pescar os peixes." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_001", "hash": "70C587C082D7E633", "target": "Uma isca feita de ossos de animais deve ser irresistível, e não faltam restos ressecados na Casca. Meus trabalhadores e eu ficaríamos muito agradecidos se você nos trouxesse alguns." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_002", "hash": "FC2801BDE96C53B4", "target": "Minhocas dariam ótimas iscas, mas só as mais gordas e suculentas servem. As da Casca engordam com os restos espalhados por lá. Meus trabalhadores e eu ficaríamos agradecidos se trouxesse algumas. Para os peixes, claro, não para nós!" },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_003", "hash": "BF2191FFBD29B0BB", "target": "Os peixes não resistem a um inseto gordo e suculento na ponta do anzol, mas um simples fruit worm não basta para pegar os mais saborosos. Porém, um fruit worm <italic(1)>pode<italic(0)> servir para pescar o que precisamos. Vá a Mjrl's Regret com um no anzol e nos traga uma splendid larva." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_004", "hash": "F25E4BAFC68800C6", "target": "Os peixes certamente vão enlouquecer por uma isca de osso de animal. Vá à Casca e praticamente tropeçará no que precisamos." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_005", "hash": "66C18ADD1D490FCC", "target": "Precisamos de minhocas, e muitas. Grandes e suculentas, daquelas que quase cobrem o chão da Casca. Espero que você não tenha nojo de pegá-las." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_006", "hash": "643DE9A42550A474", "target": "A tarefa é simples: usar um inseto para pegar outro. Vá a Mjrl's Regret com vara na mão e fruit worm no anzol, e logo terá o que precisamos." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_010", "hash": "2C8FE4AC71EABE8F", "target": "Aí está <if(gnum4,minha hábil coletora,meu hábil coletor)>! E então, conseguiu os objetos? Estamos ansiosos para começar o banquete." },
+    { "gameKey": "quest/038/BanQiq126_03831#TEXT_BANQIQ126_03831_QHOTERLPASOL_000_011", "hash": "AF7A1917EFC38BDC", "target": "Você se superou mais uma vez! Até agora, vivíamos de comida em conserva. Enche a barriga, mas sou da opinião de que uma refeição deve ser saboreada. Talvez finalmente possamos esquecer que trabalhamos sem parar debaixo da terra, nem que seja por uma refeição." }
   ]
 }

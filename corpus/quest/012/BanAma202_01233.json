@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma202_01233",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_00", "hash": "E3D15939605805AF", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_01", "hash": "F16A92698AA11197", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_02", "hash": "C2E273361FFC3E6D", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_03", "hash": "DAD253661A71650D", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_00", "hash": "36452556DF88C3C8", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_01", "hash": "3EF23888E4F25D84", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_02", "hash": "97A4B79827FD1ADB", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_000", "hash": "58B0576D4488DD42", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_001", "hash": "0575D5187CB5A651", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_002", "hash": "95D40CEDD4B0C85B", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_010", "hash": "BB4661A829D6D9CA", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_020", "hash": "6180C6A70545C7D3", "target": "" },
-    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_021", "hash": "1209A2FA70483529", "target": "" }
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_00", "hash": "E3D15939605805AF", "target": "Narujj Boh está ansioso para que você derrame o sangue do inimigo." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_01", "hash": "F16A92698AA11197", "target": "Para enfraquecer as forças dos Presas de Fogo, Narujj Boh pediu que você mate os Zanr'ak lancers e Amalj'aa archers no acampamento de Zanr'ak." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_02", "hash": "C2E273361FFC3E6D", "target": "Você matou os soldados a serviço dos Presas de Fogo. Volte ao Círculo das Cinzas e se apresente a Narujj Boh." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_SEQ_03", "hash": "DAD253661A71650D", "target": "A satisfação estava estampada em seu rosto, e Narujj Boh reconheceu de imediato o sucesso da missão. Enfrentar o inimigo em seu próprio domínio e triunfar não é pouca coisa, e o Amalj'aa agradece por ter alguém tão competente a serviço da Irmandade das Cinzas." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_00", "hash": "36452556DF88C3C8", "target": "Matar Zanr'ak lancers" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_01", "hash": "3EF23888E4F25D84", "target": "Matar Amalj'aa archers" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_TODO_02", "hash": "97A4B79827FD1ADB", "target": "Apresentar-se a Narujj Boh" },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_000", "hash": "58B0576D4488DD42", "target": "Por seu costume de sequestrar inocentes em nome de Ifrit, os Presas de Fogo conquistaram o posto de nosso inimigo mais desprezado. Seu poder e influência são o que mais desejamos esmagar." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_001", "hash": "0575D5187CB5A651", "target": "Quero que aperfeiçoe sua habilidade marcial contra Zanr'ak lancers e Amalj'aa archers e reduza as fileiras dos soldados sob a autoridade dos Presas de Fogo." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_002", "hash": "95D40CEDD4B0C85B", "target": "Nenhum ataque ao coração do território inimigo é isento de riscos, mas confio que Hamujj Gah escolheu bem <if(gnum4,sua aliada,seu aliado)>." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_010", "hash": "BB4661A829D6D9CA", "target": "Concentre-se nos Zanr'ak lancers e Amalj'aa archers e enfraqueça as forças sob o comando dos Presas de Fogo." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_020", "hash": "6180C6A70545C7D3", "target": "Embora os traços de outras raças muitas vezes me confundam, sua expressão é inconfundível. Vencer os inimigos traz um ar de satisfação muito particular." },
+    { "gameKey": "quest/012/BanAma202_01233#TEXT_BANAMA202_01233_NARUJIBOH_000_021", "hash": "1209A2FA70483529", "target": "Você enfrentou o inimigo em seu próprio domínio e triunfou. Temos muita sorte de contar com alguém tão competente em nossas fileiras." }
   ]
 }

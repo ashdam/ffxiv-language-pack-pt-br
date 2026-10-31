@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna506_03063",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_SEQ_00", "hash": "08CF05A0DA558C3F", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_00", "hash": "6F011C07CB29F335", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_01", "hash": "97A8EB988F66289C", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_000", "hash": "67F30839ED8C7A15", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_001", "hash": "D7CFF51CC5E2E6F3", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_002", "hash": "F9AFD2B6976F9538", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_010", "hash": "826BC8C69276E53D", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_011", "hash": "EF6F2F5BDA487BDA", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_012", "hash": "67646DA8A7267AD6", "target": "" },
-    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_013", "hash": "BC945E08CA3EB29B", "target": "" }
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_SEQ_00", "hash": "08CF05A0DA558C3F", "target": "A noite é escura e cheia de terrores, e Eshana precisa de luz.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_00", "hash": "6F011C07CB29F335", "target": "Usar carne de gazela para atrair fattened sarcosuchus no rio Velodyna e abatê-los para obter sua banha" },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_TODO_01", "hash": "97A8EB988F66289C", "target": "Entregar a banha de sarcosuchus a Eshana" },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_000", "hash": "67F30839ED8C7A15", "target": "Você é a luz que nos guia, camarada. Por isso, gostaria que preparasse as lamparinas que usamos nas patrulhas noturnas.<br>...Foi engraçado? Tentei brincar como vocês, bípedes. Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_001", "hash": "D7CFF51CC5E2E6F3", "target": "Mas, brincadeiras à parte, preciso que você cace sarcosuchus e recolha sua banha. Dois baldes devem bastar. Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_002", "hash": "F9AFD2B6976F9538", "target": "Aqui, pegue estes cortes de carne de gazela e espalhe-os pela margem do rio Velodyna. O cheiro deve atrair os mais gulosos e gordos. Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_010", "hash": "826BC8C69276E53D", "target": "Ah, nossa luz-guia voltou. Diga, conseguiu obter a banha de sarcosuchus? Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_011", "hash": "EF6F2F5BDA487BDA", "target": "Excelente. Com tanta banha, teremos luz suficiente para muitas patrulhas. O óleo refinado queima por muito tempo e com intensidade. Nós, Ananta, o usamos em tochas e fogueiras desde a antiguidade. Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_012", "hash": "67646DA8A7267AD6", "target": "E essas não são suas únicas aplicações. O refino deixa um subproduto que rende uma pomada nutritiva. Não há remédio melhor para pele e escamas ressecadas. Sss..." },
+    { "gameKey": "quest/030/BanAna506_03063#TEXT_BANANA506_03063_ESHANA_000_013", "hash": "BC945E08CA3EB29B", "target": "Então, como vê, você não é só a luz que guia. É também a pomada que embeleza.<br>...Que tal? Minhas piadas estão melhorando? Sss..." }
   ]
 }

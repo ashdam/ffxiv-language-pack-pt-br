@@ -2,15 +2,15 @@
   "conversation": "quest/026/StmBdz202_02674",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SEQ_00", "hash": "A176CFA43BA366D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_00", "hash": "10CEB83852F74C9A", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_01", "hash": "DC80D05C9483B591", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_000", "hash": "17E52EFD6A4E6E4E", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_001", "hash": "2E6799D17ED654A8", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_002", "hash": "652D865B6C7C4039", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_010", "hash": "19665566D1B2DF7B", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_011", "hash": "238D5ADD33DC6218", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_012", "hash": "7B11D55DAB100216", "target": "" },
-    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_013", "hash": "9FC697D4C9B469D9", "target": "" }
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SEQ_00", "hash": "A176CFA43BA366D2", "target": "Shihoji chama sua atenção." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_00", "hash": "10CEB83852F74C9A", "target": "Obter fígados de tubarão voador de flying sharks" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_TODO_01", "hash": "DC80D05C9483B591", "target": "Entregar os fígados de tubarão voador a Shihoji" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_000", "hash": "17E52EFD6A4E6E4E", "target": "<if(gnum4,Senhora,Senhor)>? <italic(1)><if(gnum4,Senhora,Senhor)><italic(0)>! Pode me trazer três fígados de tubarão voador? Você encontra esses tubarões na ponta norte desta ilha." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_001", "hash": "2E6799D17ED654A8", "target": "Eu mesmo iria, mas, infelizmente, a velhice me deixou fraco demais para caçar algo tão feroz. Dito isso, é claro que vou recompensar sua ajuda." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_002", "hash": "652D865B6C7C4039", "target": "Por favor, me traga os fígados de três flying sharks. Você deve encontrá-los ao norte daqui." },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_010", "hash": "19665566D1B2DF7B", "target": "Trouxe meus fígados?" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_011", "hash": "238D5ADD33DC6218", "target": "Excelente! Obrigado, <if(gnum4,senhora,senhor)>. Agora finalmente vou poder fazer meu óleo de fígado!" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_012", "hash": "7B11D55DAB100216", "target": "Vai ajudar a manter minha visão aguçada. Afinal, é meu maior trunfo. Com meus olhos de falcão, vejo tudo, até a cara chorosa daqueles soldados covardes do bakufu em Ruby Price. Hahaha!" },
+    { "gameKey": "quest/026/StmBdz202_02674#TEXT_STMBDZ202_02674_SHIHOJI_000_013", "hash": "9FC697D4C9B469D9", "target": "Posso não lutar mais, mas pretendo ganhar meu sustento na Confederação como vigia pelos próximos vinte anos!" }
   ]
 }

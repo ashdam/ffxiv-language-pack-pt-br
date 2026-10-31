@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz203_01772",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_00", "hash": "69DF7F935801C53B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_01", "hash": "56C31F4DB16334AB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_02", "hash": "B5039F51AAFE2120", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_03", "hash": "40A7FBF80A734F55", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_00", "hash": "9AFCC83F4D4DDEAD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_01", "hash": "B0FE72C45623EA12", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_000", "hash": "4EE8E68BCAA413A4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_001", "hash": "5747D874352011FE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_002", "hash": "AC53A49C55589B57", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_010", "hash": "7494899C30981388", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_020", "hash": "A5A1C0190422C8A7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_021", "hash": "603D1FBBFE1BA30B", "target": "" }
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_00", "hash": "69DF7F935801C53B", "target": "Leonulfe está de olho nos insetos zumbidores." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_01", "hash": "56C31F4DB16334AB", "target": "Leonulfe está atento às feather fleas, que vêm aterrorizando os chocobos do acampamento. Mate quatro delas para dar aos caçadores uma trégua dos insetos." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_02", "hash": "B5039F51AAFE2120", "target": "As feather fleas não poderão mais se banquetear com sangue de chocobo. Volte ao acampamento e diga a Leonulfe que a tarefa foi concluída." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_SEQ_03", "hash": "40A7FBF80A734F55", "target": "Você informa Leonulfe de que quatro feather fleas a menos incomodarão seus pássaros. Os caçadores podem dormir tranquilos esta noite, sabendo que os insetos não importunarão os chocobos por algum tempo." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_00", "hash": "9AFCC83F4D4DDEAD", "target": "Matar feather fleas" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_TODO_01", "hash": "B0FE72C45623EA12", "target": "Relatar a Leonulfe" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_000", "hash": "4EE8E68BCAA413A4", "target": "...Os insetos de que falei antes? Malditas feather fleas. Têm trombas de um yalm e adoram o gosto de sangue de chocobo. Ando pensando no que fazer com elas." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_001", "hash": "5747D874352011FE", "target": "Consigo espantar quando chegam perto dos pássaros, mas parece que os bichos não acabam. Eu iria para a floresta esmagá-los, mas isso deixaria os chocobos indefesos. Que tal matar alguns no meu lugar?" },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_002", "hash": "AC53A49C55589B57", "target": "Se puder matar uns quatro, ficarei agradecido." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_010", "hash": "7494899C30981388", "target": "Não se preocupe, vou ficar de olho daqui. Não tenha piedade dessas pulgas." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_020", "hash": "A5A1C0190422C8A7", "target": "Imagino que tenha sido fácil acabar com as pulgas? É, você sabe mesmo matar insetos." },
+    { "gameKey": "quest/017/HeaVnz203_01772#TEXT_HEAVNZ203_01772_LEONULFE_000_021", "hash": "603D1FBBFE1BA30B", "target": "Os chocobos ficam agitados só de ver aqueles malditos insetos, e levo quase o dia todo para acalmar. Graças a você, vamos poder dormir em paz por um tempo." }
   ]
 }

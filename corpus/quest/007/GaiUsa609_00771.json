@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa609_00771",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "" },
-    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "" }
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_00", "hash": "8F9AF31169121594", "target": "Cuthbert, do Moinho da Pedreira, pede sua ajuda para recuperar uma relíquia de família." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_01", "hash": "E6CCB5AE2370FEED", "target": "As notórias Vespas de Barriga Vermelha têm em seu poder uma relíquia inestimável que pertenceu ao avô de Cuthbert, o ancião da desafortunada vila de Boughbury. Aventure-se perto do Vespeiro dos Barrigas Vermelhas e recupere o machado." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_02", "hash": "9C9B005D3104A9C0", "target": "Você recuperou o Boughbury Axe dos bandidos cruéis em segurança. Cuthbert ficará muito feliz ao vê-lo devolvido depois de tantos anos." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_SEQ_03", "hash": "144A089C57326D03", "target": "Com a preciosa relíquia do avô em mãos, Cuthbert jura vingança contra aqueles que roubaram o lar que pertencia por direito à sua família." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_00", "hash": "700EFA8A998510AB", "target": "Recuperar o Boughbury Axe perto do Vespeiro dos Barrigas Vermelhas" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_TODO_01", "hash": "555CE1E5C000EB69", "target": "Entregar o Boughbury Axe a Cuthbert" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_000", "hash": "163189B9645FA655", "target": "Antes da Calamidade, meu avô era o ancião da vila de Boughbury. Tentamos... pelos deuses, como tentamos retomar sua casa. Mas não adiantou. Ele morreu no ano passado..." },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_001", "hash": "91A8E9D9939BC172", "target": "No último suspiro, falou de uma relíquia de família, um machado passado de geração em geração. Agora aqueles filhos da puta dos Barrigas Vermelhas usam o machado pra rachar lenha, debochando da gente. Que os Doze me levem se eu deixar aqueles desgraçados mancharem a memória do meu avô por mais tempo. Você vai trazer de volta pra mim, não vai?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_010", "hash": "3C36325D8F2D7960", "target": "E então? Conseguiu recuperar o machado daqueles malditos ladrões?" },
+    { "gameKey": "quest/007/GaiUsa609_00771#TEXT_GAIUSA609_00771_CUTHBERT_000_020", "hash": "B6055030BBF80C80", "target": "Exatamente como meu avô descrevia! Você é uma bênção dos deuses. Vovô, eu juro: na próxima vez que um Barriga Vermelha vir este machado, ele vai estar enterrado no crânio inútil do infeliz!" }
   ]
 }

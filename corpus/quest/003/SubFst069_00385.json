@@ -2,18 +2,18 @@
   "conversation": "quest/003/SubFst069_00385",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "" },
-    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "" }
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_00", "hash": "79151CADDC21B85B", "target": "Berthe, moradora do Embarcadouro do Espelho, procura alguém para recuperar sua vara de pesca em Lilystone." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_01", "hash": "9F6708669EF61FBF", "target": "Berthe perdeu sua vara em Lilystone ao atirá-la contra uma chama fantasmagórica que apareceu de repente atrás dela. Vá até Lilystone e recupere a vara de pesca gasta para a abalada moradora do Embarcadouro do Espelho." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_02", "hash": "6B79DBC0FCAF0B23", "target": "Você encontrou a vara de pesca gasta. Volte ao Embarcadouro do Espelho e a devolva a Berthe." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_SEQ_03", "hash": "254CAB1CB5B42E41", "target": "Você entregou a vara de pesca a Berthe. A Elezen parece conhecer bem as criaturas comuns da região, mas nunca tinha visto nada parecido com aquela chama estranha e fantasmagórica. Apesar da alegria de recuperar sua propriedade, ela se pergunta se algum dia voltará a tentar pescar em Lilystone." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_00", "hash": "709137F927E92E7E", "target": "Recuperar a vara de pesca gasta" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_TODO_01", "hash": "18B9A5FBE219E12C", "target": "Entregar a vara de pesca gasta a Berthe no Embarcadouro do Espelho" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_1", "hash": "0C802EA2C39B384E", "target": "Você parece ter habilidade. Se importaria de ir até Lilystone buscar minha vara de pesca favorita?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_2", "hash": "0DED36D683F20470", "target": "Eu estava pescando feliz da vida quando percebi uma esfera de fogo fantasmagórica avançando por trás de mim. Em pânico, me virei e atirei a vara na aparição antes de fugir de volta para cá, para o Embarcadouro." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_3", "hash": "3DC8F78C10B785FF", "target": "Lembro vagamente da vara atravessar aquelas chamas sobrenaturais e atingir a lateral da barraca que montei para cochilar à tarde. Provavelmente ainda está lá, mas não consigo me obrigar a─ Você vai no meu lugar? Ah, obrigada!" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_11", "hash": "7794A8422E4B31D4", "target": "Encontrou minha vara de pesca?" },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_12", "hash": "AEC0CB2684C9A10A", "target": "Sim, é esta! Graças a Nophica, você apareceu. Simplesmente não consigo pescar com outra." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_13", "hash": "3F338FCCE931EA0A", "target": "Os insetos e outros bichos daqui não me ameaçam, mas aquelas chamas... Nunca vi nada igual." },
+    { "gameKey": "quest/003/SubFst069_00385#TEXT_SUBFST069_00385_BERTHE_000_14", "hash": "15CBBF805DE9B9E7", "target": "Será que algum dia vou criar coragem para pescar em Lilystone de novo...?" }
   ]
 }

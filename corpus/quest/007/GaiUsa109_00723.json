@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa109_00723",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_00", "hash": "0C73005A9C2F4151", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_01", "hash": "BC0592516B593D4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_02", "hash": "6AA8DC6D63DF6F7C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_03", "hash": "474DA6F5203BB8C6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_00", "hash": "4DD9A444441FF236", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_01", "hash": "05C33093F57D80EA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_000", "hash": "2E8529F8458C9906", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_001", "hash": "741464C901D104C8", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_020", "hash": "2334F512D03A06BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_021", "hash": "B3D04BB02BA5AFBB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_00", "hash": "0C73005A9C2F4151", "target": "Ameexia, do Pequeno Consolo, precisa novamente de ajuda de quem vive de aventuras." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_01", "hash": "BC0592516B593D4C", "target": "Ameexia perdeu sua preciosa linha e não consegue tecer. Vá a Bramble Patch e recupere os três fusos perdidos." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_02", "hash": "6AA8DC6D63DF6F7C", "target": "Você recuperou os fusos de seda das nuvens que Ameexia perdeu. Devolva-os à dona." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_SEQ_03", "hash": "474DA6F5203BB8C6", "target": "Finalmente podendo voltar a tecer, Ameexia agradece imensamente pela sua ajuda." },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_00", "hash": "4DD9A444441FF236", "target": "Procurar fusos de linha" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_TODO_01", "hash": "05C33093F57D80EA", "target": "Entregar a seda das nuvens a Ameexia no Pequeno Consolo" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_000", "hash": "2E8529F8458C9906", "target": "O que ajuda voltou! Este aqui está com um problema. Quando este aqui fugiu dos malvados que têm presas, este aqui deixou cair três fusos de linha!" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_001", "hash": "741464C901D104C8", "target": "Este aqui procurou no lugar com espinhos sem parar, mas nada foi encontrado! Ai, pobre deste aqui! O que ajuda vai ajudar, sim?" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_020", "hash": "2334F512D03A06BD", "target": "Sem linha, este aqui não pode tecer! O que este aqui vai fazer?" },
+    { "gameKey": "quest/007/GaiUsa109_00723#TEXT_GAIUSA109_00723_AMMEXIA_000_021", "hash": "B3D04BB02BA5AFBB", "target": "A linha deste aqui! Este aqui pode tecer outra vez! O que ajuda é tão gentil. Este aqui agradece ao que ajuda do fundo do coração deste aqui!" }
   ]
 }

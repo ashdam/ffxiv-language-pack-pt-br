@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsc502_00990",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_00", "hash": "83C5CE1DAF25C8A5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_01", "hash": "7053CE3527F4F4D3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_02", "hash": "79417F3ADB97572C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_TODO_00", "hash": "1447FB99F70C76E4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_000", "hash": "45A086A83C338DA6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_001", "hash": "5ABBA46E25DD36D5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_002", "hash": "C695D69F29839183", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_020", "hash": "2030DC367B1DBD48", "target": "" },
-    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_021", "hash": "0409DCA1FF327B37", "target": "" }
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_00", "hash": "83C5CE1DAF25C8A5", "target": "Segundo Kakamehi, há trabalho e dinheiro à mão com os Filhos de São Coinach, basta você se apresentar lá." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_01", "hash": "7053CE3527F4F4D3", "target": "Os Filhos de São Coinach, os homens e mulheres eruditos que buscam desvendar os segredos do antigo Império Alagano, montaram acampamento a sudeste do Pedágio do Espectro. Com a calorosa recomendação de seu colega aventureiro Kakamehi a seu favor, vá falar com um certo Nazyl Duzyl." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_02", "hash": "79417F3ADB97572C", "target": "Nazyl Duzyl recebe você de braços abertos e, ao que tudo indica, com a bolsa aberta também. Parece haver muito a fazer, e sua longa experiência diz que sua pedra de amolar terá trabalho extra..." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_TODO_00", "hash": "1447FB99F70C76E4", "target": "Falar com Nazyl Duzyl" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_000", "hash": "45A086A83C338DA6", "target": "<split(<string(gstr1)>, ,1)>, não é? Ouvi dizer que você anda por toda parte! Também sou aventureiro. Meu nome é Kakamehi.<br>...Ei, nem todo mundo pode ter um nome interessante como o seu. Olhe, posso indicar um negócio decente, se tiver interesse." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_001", "hash": "5ABBA46E25DD36D5", "target": "Tem um acampamento a leste daqui montado por um grupo chamado Filhos de São Coinach. Gente estudiosa, sabe, que pesquisa o─como é mesmo?─Império Alagano. Pelo jeito, é algum tipo de civilização antiga!" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_002", "hash": "C695D69F29839183", "target": "Fale com um sujeito chamado Nazyl Duzyl lá, e ele terá algo para você. São gente boa. Diga que fui eu que mandei." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_020", "hash": "2030DC367B1DBD48", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>! Qualquer colega de Kakamehi certamente nos será de grande ajuda. Você <italic(1)>tem<italic(0)> interesse em ajudar, espero?" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_021", "hash": "0409DCA1FF327B37", "target": "Nós, Filhos de São Coinach, tivemos nossa cota de problemas ultimamente, e sua ajuda seria muito bem-vinda. Acho que <italic(1)>você<italic(0)> também achará a empreitada recompensadora." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq123_03828",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_00", "hash": "26E3BDF30B11AEA9", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_01", "hash": "8F9BF1EED601AE22", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_TODO_00", "hash": "33A44B230C25D342", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000", "hash": "1A58D5F32FDE5D22", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001", "hash": "1CAD5F81BFF12890", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002", "hash": "3CEDA874C26CD7D1", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003", "hash": "37F6E18BC253D2A3", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004", "hash": "4C026EEC8B2459DE", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005", "hash": "14743A2ED9332276", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006", "hash": "53751865A418E056", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007", "hash": "250F6CBC3104CBAC", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008", "hash": "724EC6A84A43E686", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010", "hash": "F1C2A07AB5B550E5", "target": "" },
-    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011", "hash": "1BF4BEA26ADF2271", "target": "" }
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_00", "hash": "26E3BDF30B11AEA9", "target": "Qhoterl Pasol, sempre uma supervisora atenciosa, quer ver seus trabalhadores de barriga cheia.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, você só pode avançar com a classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_SEQ_01", "hash": "8F9BF1EED601AE22", "target": "Entregue os suprimentos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_TODO_00", "hash": "33A44B230C25D342", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extrair splendid worms em Blind Forest of Yx'Maja,Entregar os splendid worms a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Coletar splendid beehive chips em Blind Forest of Yx'Maja,Entregar os splendid beehive chips a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar uma splendid egg-bearing trout em Red Chalice,Entregar a splendid egg-bearing trout a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_000", "hash": "1A58D5F32FDE5D22", "target": "Com a proteção da grande serpente, conseguimos tratar várias doenças comuns. Mas é melhor prevenir do que remediar, então pretendo fazer tudo ao meu alcance para manter nossos trabalhadores em plena forma." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_001", "hash": "1CAD5F81BFF12890", "target": "Nossos trabalhadores se aventuram diariamente pelo desconhecido e arriscam a vida em busca da história que compartilhamos. É claro que é fundamental que continuem fortes e saudáveis. Afinal, não avançaremos muito se começarem a cair como moscas!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_002", "hash": "3CEDA874C26CD7D1", "target": "Para isso, pretendo cozinhar algo que fortaleça seus corpos contra as doenças mais persistentes. Pode me ajudar a coletar os ingredientes de que preciso?" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_003", "hash": "37F6E18BC253D2A3", "target": "As pedras espalhadas por Blind Forest of Yx'Maja não são comestíveis, mas os vermes que vivem nelas são praticamente refeições completas! Dariam um ótimo banquete para meus trabalhadores e para mim também!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_004", "hash": "4C026EEC8B2459DE", "target": "A mata exuberante de Blind Forest of Yx'Maja está repleta de plantas nutritivas e delícias. O mel dos pedaços de colmeia ajuda o corpo a resistir a doenças que poderiam debilitá-lo." },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_005", "hash": "14743A2ED9332276", "target": "O Cálice Vermelho está cheio de animais perigosos e nutritivos. Vamos ficar com os últimos e pescar, que tal? Algumas trutas devem bastar. Dizem que suas ovas fortalecem a mente e o corpo. Não se esqueça de trazer fruit worms!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_006", "hash": "53751865A418E056", "target": "Vá depressa a Blind Forest of Yx'Maja. Ou vá com calma, desde que volte com vermes!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_007", "hash": "250F6CBC3104CBAC", "target": "Blind Forest of Yx'Maja espera você com sua fartura. Pegue o quanto quiser, desde que volte com alguns pedaços de colmeia para mim!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_008", "hash": "724EC6A84A43E686", "target": "Hoje não precisa enfrentar monstros rosnando, <if(gnum4,minha amiga,meu amigo)>. Basta tirar das águas do Cálice Vermelho uma truta cheia de ovas e trazê-la aqui. Mas não espere pescar nada sem fruit worms!" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_010", "hash": "F1C2A07AB5B550E5", "target": "Aí está você! Teve alguma dificuldade para conseguir os ingredientes que pedi?" },
+    { "gameKey": "quest/038/BanQiq123_03828#TEXT_BANQIQ123_03828_QHOTERLPASOL_000_011", "hash": "1BF4BEA26ADF2271", "target": "Ah, só de olhar para um exemplar tão magnífico já me sinto revigorada! Seja lá o que eu cozinhar com ele, quero que todo o acampamento fale do prato!" }
   ]
 }

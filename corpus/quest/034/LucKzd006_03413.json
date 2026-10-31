@@ -2,15 +2,15 @@
   "conversation": "quest/034/LucKzd006_03413",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_SEQ_00", "hash": "545B9E943BFDAA66", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_00", "hash": "B260BE0A0BA0E298", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_01", "hash": "915332D8FEF0E485", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_010", "hash": "C3BE56E01E127AE9", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "" },
-    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "" }
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_SEQ_00", "hash": "545B9E943BFDAA66", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O caring Nu Mou está preocupado com seu familiar." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_00", "hash": "B260BE0A0BA0E298", "target": "Colher full-blown lilies ao sul do Baixio dos Sêxtuplos" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_TODO_01", "hash": "915332D8FEF0E485", "target": "Entregar os lírios desabrochados ao caring Nu Mou" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_000", "hash": "DEE38B5FCFFC5F56", "target": "Por favor, mortal, preciso de sua ajuda. Meu precioso porxie não anda bem ultimamente e precisa de alguns lírios desabrochados para melhorar." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_001", "hash": "DB9DEA63DD94D159", "target": "Mas não posso sair do lado dele para colher as flores. Se você for no meu lugar, prometo dar um pagamento à altura." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_002", "hash": "E023B22D4D1B57B3", "target": "Por favor, colha alguns lírios desabrochados no meu lugar. Eu iria, mas não posso sair do lado do meu precioso porxie." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_010", "hash": "C3BE56E01E127AE9", "target": "Ah, você voltou. Está com os lírios?" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_011", "hash": "68DA7B67FD4AD7BB", "target": "Você tem minha gratidão! Agora meu precioso porxie pode se recuperar!" },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_012", "hash": "E66C1E47CC2D075F", "target": "Vou dar os lírios para ele comer, você pergunta? De certa forma. Como é uma entidade arcana, não pode simplesmente comê-los." },
+    { "gameKey": "quest/034/LucKzd006_03413#TEXT_LUCKZD006_03413_THOUGHTFULNUMOU0_000_013", "hash": "F748874F01A26592", "target": "Em vez disso, vou infundi-lo com o éter das flores. Para a criatura, será como beber um doce néctar, uma maneira garantida de se reanimar! Agradeço novamente. Aceite isto como um pagamento à altura por sua gentileza!" }
   ]
 }

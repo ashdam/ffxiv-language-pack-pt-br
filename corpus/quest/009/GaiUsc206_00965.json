@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsc206_00965",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "" },
-    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "" }
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_00", "hash": "A6E5A8BD0D05029E", "target": "Há espíritos, e há <italic(1)>espirituosos<italic(0)>. Ahlduwil deseja uns e teme os outros." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_01", "hash": "13CA4C51F29D9B37", "target": "Você encontra um sujeito que se diz resgatador de naufrágios e está bem embriagado. Ele pede que você encha sua garrafa vazia com um barril de vinho no Cemitério de Navios. Como entende um pouco de vinho de naufrágios, você decide atender." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_02", "hash": "AE77B7948A0BCAED", "target": "Você entra no Cemitério de Navios e enfrenta o lugar úmido e assombrado para encontrar um barril de vinho, eliminando um espírito pelo caminho. Com a garrafa de vinho resgatado bem guardada, é hora de voltar a Ahlduwil." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_SEQ_03", "hash": "585C490B66F7B69E", "target": "Ahlduwil recebe a safra com avidez e depois lamenta que tenha adquirido um cheiro de enxofre com o tempo. Agora que o sonho de beber até esvaziar os porões do Cemitério acabou, você espera que ele deixe de ser um beberrão." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_00", "hash": "4303D2EBD9A25822", "target": "Encher a garrafa com vinho da wine tun" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_TODO_01", "hash": "A666F83C9EDC9D13", "target": "Dar a garrafa de vinho a Ahlduwil" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_000", "hash": "15279889D7B911BA", "target": "Eshta garrafa tá vazia! Não tava assim um instante atrás... Tem alguma... alguma coisa <italic(1)>shushpeita<italic(0)> acontecendo. Olha só! Tô vendo <italic(1)><if(gnum4,uma aventureira,um aventureiro)><italic(0)>. Como vai, <if(gnum4,Senhora Aventureira,Senhor Aventureiro)>!" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_001", "hash": "431D2FE7DA4F739E", "target": "Sabe aquele arealzão velho atrás de mim? É o Cemitério de Navios. As correntes trazem eles, todos aqueles navios naufragados... E o que tiver nos porões também. Barris de vinho... rum... hidromel e aguardente de vinho... Essa é pro capitão! E eu sou meio que um capitão..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_002", "hash": "60E836999376949C", "target": "Você parece <italic(1)>real<italic(0)> o bastante. Muitos não são, sabe, desses que me visitam. Nem me importava, mas alguns são <italic(1)>malvados<italic(0)>. Preciso de uma bebida. Toma, leve eshta garrafa e encha com alguma coisa de lá." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_010", "hash": "8A4FBCE3D8D2C744", "target": "Não é justo as regras mudarem o tempo todo. Eu era um <italic(1)>bom<italic(0)> saqueador, tô dizendo! Agora, de repente, o sherviço vem com fantasmas?" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_020", "hash": "72A0EB95F3C5EBF3", "target": "Olha só, uma garrafa cheia! Eu tinha uma dessas por aqui antes. Acho que aconteceu alguma coisa com ela. Obrigado! Você é a <italic(1)>melhor<italic(0)> aparição que já vi." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_021", "hash": "609BCB7B5AF91A11", "target": "Dizem que tem outras cargas também, baús cheios de barras de electro e coisas assim pra negociar com o Oriente e Merash... Merash-alguma-coisa. Eu fico com o vinho..." },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_AHLDUWIL_000_022", "hash": "8B738795D85F5975", "target": "\\<fungada> \\<fungada> Argh, uggghhh! Tem cheiro de ovo podre! Não vou beber isso. Que desperdício, todo aquele vinho... e hidromel... Cerveja também, não pode esquecer a cerveja... E a aguardente de vinho pro capitão! \\<soluço>" },
+    { "gameKey": "quest/009/GaiUsc206_00965#TEXT_GAIUSC206_00965_POP_MESSAGE_000", "hash": "6BAE27D95514DF96", "target": "Você sente um arrepio fantasmagórico!" }
   ]
 }

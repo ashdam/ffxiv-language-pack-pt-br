@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanKob204_01338",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_00", "hash": "76998534425B0D43", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_01", "hash": "26274E3EABF2315A", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_02", "hash": "5902D48765496B2F", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_03", "hash": "EF32016147F3A1E0", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_00", "hash": "E9A5F6A25E962012", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_01", "hash": "1A6233F51D6A69CE", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_000", "hash": "FE7DDBF5F3273D22", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_001", "hash": "82F4DD2D137BBE93", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_002", "hash": "0CDE8068D6F980E4", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_003", "hash": "05C843B94E7A9B22", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_030", "hash": "529651D536E1492A", "target": "" },
-    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_031", "hash": "0FC0F7A4B7E22337", "target": "" }
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_00", "hash": "76998534425B0D43", "target": "Dizem que na vida de um artesão se destrói tanto quanto se cria, e Bo Gu certamente se dedica a uma dessas tarefas." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_01", "hash": "26274E3EABF2315A", "target": "13th Order Fugleman Zo Ga continua irritando Bo Gu com sua previdência e perspicácia, e o artesão instrui você a destruir as bomb incubators de Zo Ga. A sagacidade do líder incomoda você muito menos do que a tendência dele de oprimir brutalmente toda criatura viva sob seu comando, mas para que discutir? Destrua duas incubadoras e acabe logo com isso." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_02", "hash": "5902D48765496B2F", "target": "As bomb incubators estão bem mortas, graças a você. Relate a destruição a Bo Gu no 789th Order Dig." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_SEQ_03", "hash": "EF32016147F3A1E0", "target": "Bo Gu fica encantado ao saber do sucesso de sua missão, embora as reflexões alegres dele sobre o destino que Zo Ga lhe reservaria caso pusesse as mãos em você causem certo desconforto. Saiba que esse também é o preço da vida que você escolheu." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_00", "hash": "E9A5F6A25E962012", "target": "Destruir bomb incubators em Iron Lake" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_TODO_01", "hash": "1A6233F51D6A69CE", "target": "Reportar a 789th Order Craftsman Bo Gu" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_000", "hash": "FE7DDBF5F3273D22", "target": "Aquele Zo Ga está aprontando das suas de novo, Zo Ga está sempre inovando. Sua escavação vai começar a usar duas bomb incubators novas, sim, sim, novas─modernas, brilhantes, novas." },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_001", "hash": "82F4DD2D137BBE93", "target": "Uma incubadora é tão conveniente, uma gansa de ferro que bota bomba atrás de bomba, sim, sim. Zo Ga tem toda a glória, Zo Ga tem todas as porcas de polegares longos, mas Zo Ga vai ter todas as bombas? Não, não!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_002", "hash": "0CDE8068D6F980E4", "target": "Os fornos estão em Iron Lake, mas não por muito tempo! Você vai destruí-los─demolir, arruinar, destruir! Abaixo Zo Ga, abaixo o progresso, sim, sim!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_003", "hash": "05C843B94E7A9B22", "target": "<if(gnum4,A aventureira,O aventureiro)> vai destruir as incubadoras, <if(gnum4,ela,ele)> vai a Iron Lake estrangular as gansas de ferro, sim, sim!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_030", "hash": "529651D536E1492A", "target": "Zo Ga deve estar surpreso e furioso─lívido, fervendo, furioso! Que desgraça Zo Ga faria você sofrer se pusesse as mãos em você─mutilação, concubinato, desgraça!" },
+    { "gameKey": "quest/013/BanKob204_01338#TEXT_BANKOB204_01338_BOGU_000_031", "hash": "0FC0F7A4B7E22337", "target": "Vamos preparar mais surpresas para Zo Ga, sim, sim! <if(gnum4,A aventureira é astuta─ágil e ardilosa e astuta,O aventureiro é astuto─ágil e ardiloso e astuto)>. Logo Zo Ga não vai ter nada, nada vai ter!" }
   ]
 }

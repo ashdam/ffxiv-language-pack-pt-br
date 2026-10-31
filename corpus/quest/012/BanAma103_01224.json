@@ -2,18 +2,18 @@
   "conversation": "quest/012/BanAma103_01224",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_00", "hash": "A447314B1A7CA3B6", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_01", "hash": "71A2B57BDF563658", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_02", "hash": "5C68B175B25DE792", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_03", "hash": "EF9C77E1BF8FCF19", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_TODO_00", "hash": "2B8513A425AC0AD5", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_TODO_01", "hash": "B6CD2003CB80E2F3", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_001", "hash": "8064F1100BFB2BFA", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_002", "hash": "BD6FB1F6A210988B", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_003", "hash": "6145789524DBEBBD", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_004", "hash": "922A63688BB96FFC", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_011", "hash": "4D7BBEF2D1275A4F", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_021", "hash": "9D3890B7A5F6057A", "target": "" },
-    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_022", "hash": "06563C3169641B1F", "target": "" }
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_00", "hash": "A447314B1A7CA3B6", "target": "Fibubb Gah pede ajuda para repor o estoque de unguentos curativos da Irmandade." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_01", "hash": "71A2B57BDF563658", "target": "Fibubb Gah explica que um verdadeiro guerreiro precisa se dedicar tanto às artes da cura quanto às da guerra. Procure suculentas em Zanr'ak e colha sua seiva revigorante." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_02", "hash": "5C68B175B25DE792", "target": "Você obteve uma reserva de seiva revigorante. Volte ao Círculo das Cinzas e entregue o bálsamo curativo a Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_SEQ_03", "hash": "EF9C77E1BF8FCF19", "target": "Você entregou a seiva revigorante a Fibubb Gah. O orgulhoso guerreiro elogia seus esforços e afirma que um soldado da Irmandade prefere morrer em batalha a definhar em um leito." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_TODO_00", "hash": "2B8513A425AC0AD5", "target": "Obter frascos de seiva revigorante das suculentas em Zanr'ak" },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_TODO_01", "hash": "B6CD2003CB80E2F3", "target": "Entregar a seiva revigorante a Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_001", "hash": "8064F1100BFB2BFA", "target": "Todos nós da Irmandade das Cinzas somos soldados orgulhosos. Mas até o maior soldado pode morrer de fome sem alimento ou ficar incapacitado por um ferimento." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_002", "hash": "BD6FB1F6A210988B", "target": "Carregamos nossas feridas de batalha como insígnias de honra, mas um corte infeccionado pode matar tão certamente quanto a lâmina inimiga. Um verdadeiro guerreiro não despreza as artes da cura." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_003", "hash": "6145789524DBEBBD", "target": "Sua tarefa é simples, mas necessária: recolha das plantas do deserto de Zanr'ak a seiva revigorante que usamos para tratar nossas feridas." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_004", "hash": "922A63688BB96FFC", "target": "Embora nossos inimigos não usem esses remédios, ainda assim relutarão em entregá-los a você. Tome cuidado para não sofrer ferimentos que impeçam seu retorno!" },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_011", "hash": "4D7BBEF2D1275A4F", "target": "Recolha a seiva límpida das plantas do deserto de Zanr'ak e ajude a manter nossos guerreiros saudáveis." },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_021", "hash": "9D3890B7A5F6057A", "target": "<if(gnum4,Bem-vinda,Bem-vindo)>, <if(gnum4,honrada aliada,honrado aliado)>. Trouxe a seiva de que precisamos?" },
+    { "gameKey": "quest/012/BanAma103_01224#TEXT_BANAMA103_01224_FIBUBBGAH_000_022", "hash": "06563C3169641B1F", "target": "Sim, isso permitirá que nossos feridos voltem à linha de frente, onde uma morte gloriosa os espera. Nenhum verdadeiro guerreiro deseja definhar em um leito..." }
   ]
 }

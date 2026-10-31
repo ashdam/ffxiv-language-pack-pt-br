@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz402_01820",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_00", "hash": "569D5F3454BBB53B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_01", "hash": "8BC760C29BAA607F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_02", "hash": "2FD0620BA40B9F48", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_03", "hash": "8E0AEF695E118422", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_00", "hash": "E482F9B3CD7CC020", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_01", "hash": "7C50D7F5F04A0E61", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_000", "hash": "64F68F7792FBE123", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_001", "hash": "81BD5181E224D7EC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_010", "hash": "C1B7AA4E3A7C3A64", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_020", "hash": "C2D70BE80026E11A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_021", "hash": "8F5C113A7917350C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_00", "hash": "569D5F3454BBB53B", "target": "Mogmug voa de um lado para o outro, frenético, procurando alguém que faça suas vontades." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_01", "hash": "8BC760C29BAA607F", "target": "Mogmug pediu ao mais novo membro de seu fã-clube, você, que reúna quatro cipós de sankchinni. Vá ao norte de Moghome e colete os cipós." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_02", "hash": "2FD0620BA40B9F48", "target": "Os sankchinnis são derrotados com facilidade. Reúna seus cipós e volte a Mogmug." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_SEQ_03", "hash": "8E0AEF695E118422", "target": "Mogmug fica satisfeito com sua obediência e planeja usar os cipós para fazer uma harpa que encantará os participantes da festa da colheita, ampliando ainda mais seu exército de fãs." },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_00", "hash": "E482F9B3CD7CC020", "target": "Matar sankchinnis e coletar seus cipós" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_TODO_01", "hash": "7C50D7F5F04A0E61", "target": "Entregar os cipós a Mogmug" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_000", "hash": "64F68F7792FBE123", "target": "...Ah! Voltou para se deleitar com minha aura sedutora! Nunca é demais ter mais devotos... Sabe, tenho o trabalho perfeito para <if(gnum4,uma fã novata,um fã novato)>, kupo!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_001", "hash": "81BD5181E224D7EC", "target": "Preciso de quatro cipós dos sankchinnis que vivem ao norte de Moghome. <if(gnum4,Uma admiradora tão fervorosa,Um admirador tão fervoroso)> como você certamente não vai me recusar isso!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_010", "hash": "C1B7AA4E3A7C3A64", "target": "Não ouso sujar minha pelagem impecavelmente cuidada. Traga quatro cipós de sankchinni, e ficarei imensamente grato!" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_020", "hash": "C2D70BE80026E11A", "target": "<if(gnum4,Minha fiel serv...,Meu fiel serv...)> quero dizer, <italic(1)><if(gnum4,apoiadora,apoiador)><italic(0)> voltou! Os sankchinnis causaram algum problema, kupo?" },
+    { "gameKey": "quest/018/HeaVnz402_01820#TEXT_HEAVNZ402_01820_MOGMUG_000_021", "hash": "8F5C113A7917350C", "target": "Magnífico! Maravilhoso! Cipós tão belos <italic(1)>quase<italic(0)> me deixam verde de inveja. Com eles farei a harpa mais harmoniosa de Moghome, e os moogles a malms de distância ficarão extasiados quando eu tocar na festa da colheita. Venha somar sua voz aos aplausos dos meus fabulosos fãs, kupo!" }
   ]
 }

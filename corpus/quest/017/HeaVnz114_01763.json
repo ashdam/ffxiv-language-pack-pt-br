@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz114_01763",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "" }
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_00", "hash": "EB0B48BCFD9090D6", "target": "Luciae procura alguém para ajudá-la a se aquecer nas noites geladas de Coerthas." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_01", "hash": "18BEECBBCCCBE116", "target": "O frio cortante de Coerthas está abalando o ânimo da guarnição, e Luciae pediu sua ajuda para ampliar o estoque de cobertores do Convictory, coletando lã de iaque para fabricá-los. Abata três wooly yaks para obter sua lã." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_02", "hash": "6A60D939CB4CBBCF", "target": "Você abate os iaques e tosquia suas carcaças. Entregue a lã a Luciae e receba sua recompensa." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_SEQ_03", "hash": "C94937C434BFD96B", "target": "Luciae declara que essa lã é da melhor qualidade que já viu. Os cobertores grossos e quentes que fará com ela ajudarão muito a proteger a guarnição das intempéries." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_00", "hash": "035FDB212E18CE1F", "target": "Abater iaques e obter sua lã" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_TODO_01", "hash": "8067B5EA1053D188", "target": "Entregar a lã a Luciae" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_000", "hash": "F863B9E93E5B8F2F", "target": "\\<suspiro> ...Hm? Pareço preocupada? Bem, todos temos nossa cota de problemas por aqui. Quer dar uma mão?" },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_001", "hash": "DA86EAF75A0FD74C", "target": "Aqui, o frio é um inimigo constante. Sempre precisamos de mais lã de iaque para fazer cobertores. Se me trouxer três cestos, farei valer a pena." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_010", "hash": "882DC2440B8A5F1B", "target": "Traga três cestos de lã de iaque, e farei valer a pena." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_100_030", "hash": "880DAEF5ABC45BE8", "target": "Ainda precisamos daquela lã, se você puder consegui-la." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_030", "hash": "DFE022F50327BE79", "target": "Esta é uma das melhores lãs que já vi! Devo dizer que você foi além do que pedi." },
+    { "gameKey": "quest/017/HeaVnz114_01763#TEXT_HEAVNZ114_01763_LUCIAE_000_031", "hash": "8427475CB110E0BB", "target": "Meus mais sinceros agradecimentos. As noites estão terrivelmente frias, mas os cobertores feitos com esta lã ajudarão muito a manter nosso pessoal aquecido." }
   ]
 }

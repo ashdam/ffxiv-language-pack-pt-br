@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz629_01897",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "" },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "" }
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "Pierriquet tem um brilho diabólico nos olhos." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "Pierriquet precisa de três carapaças de zoblyn e pediu sua ajuda para obtê-las. Mate três ice zoblyns das proximidades e recolha suas carapaças." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "Você recolhe as carapaças pedidas por Pierriquet. Leve-as de volta a ele em Convictory e descubra o que pretende fazer com elas." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "Pierriquet fica encantado com as carapaças de zoblyn. Pretende transformá-las em munição barata e sustentável para os velhos canhões avariados que está consertando em Camp Riversmeet." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "Matar ice zoblyns e obter suas carapaças" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "Entregar as carapaças a Pierriquet" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <if(gnum4,minha senhora,meu senhor)>. Se não for incômodo, pode me ajudar com uma coisinha?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_001", "hash": "7333D71E9586311E", "target": "Ficaria muito agradecido se buscasse umas carapaças de zoblyn para mim. Tem ice zoblyns na área, dá para tirar deles. Preciso de pelo menos três." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "Três carapaças bastam, <if(gnum4,minha senhora,meu senhor)>, se tiver um tempinho." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "Conseguiu aquelas carapaças de zoblyn, <if(gnum4,minha senhora,meu senhor)>?" },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "Ah, estas são maravilhosas, são mesmo. Muito obrigado." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "É que achei uns canhões velhos em Camp Riversmeet. Estavam num estado deplorável, mas venho consertando... Claro que não tenho balas para disparar." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "Mas quem quer dá um jeito! Estas carapaças de zoblyn são duras como ferro, e, se quebrar direito, ficam com uma borda afiadíssima. Acho que, disparadas de um canhão, vão estraçalhar as asas de um dragão!" }
   ]
 }

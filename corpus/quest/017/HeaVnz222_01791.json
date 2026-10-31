@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz222_01791",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_00", "hash": "C0B005ABBB10D724", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_01", "hash": "5235778433C34CF6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_02", "hash": "C4BBE0FD74E269ED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_03", "hash": "D04A174B6530CC13", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_00", "hash": "06E18D92320D8316", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_01", "hash": "9D2E6B5CD463E914", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_000", "hash": "B43331B23E5A217A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_001", "hash": "4AC9F89D37BC8640", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_002", "hash": "8139F713EDF1FDFA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_100_002", "hash": "E8A6F6EA101144CE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_010", "hash": "E65D9929D7A23061", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_020", "hash": "3B377184F428D553", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_021", "hash": "6F486061F90B8200", "target": "" },
-    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_022", "hash": "EAB113287814E108", "target": "" }
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_00", "hash": "C0B005ABBB10D724", "target": "O voracious Vath examina os ninhos dos Vath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_01", "hash": "5235778433C34CF6", "target": "O voracious Vath explica que, embora os Vath sejam autossuficientes em comida, não conseguem reunir os materiais necessários para construir e manter seus ninhos. Ele pede que você busque argila dravaniana na colmeia de Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_02", "hash": "C4BBE0FD74E269ED", "target": "Você coleta a argila na colmeia Gnath. Leve-a ao voracious Vath em Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_SEQ_03", "hash": "D04A174B6530CC13", "target": "O voracious Vath agradece pelos materiais de construção. Você descobre que os ninhos Gnath são feitos misturando essa argila, extraída das profundezas de Smoldering Wastes, com saliva Gnath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_00", "hash": "06E18D92320D8316", "target": "Obter argila dravaniana" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_TODO_01", "hash": "9D2E6B5CD463E914", "target": "Entregar a argila ao voracious Vath" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_000", "hash": "B43331B23E5A217A", "target": "Saudações, <if(gnum4,caçadora,caçador)>. A caçada vai bem? Há muita carne deliciosa por perto. Há muitas frutas deliciosas por perto. Raramente nos falta comida." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_001", "hash": "4AC9F89D37BC8640", "target": "O que nos falta é abrigo. Materiais de construção são uma coisa que não podemos caçar. Não temos materiais. Não podemos consertar nossas casas. Não podemos construir novas estruturas." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_002", "hash": "8139F713EDF1FDFA", "target": "Por favor, busque argila dravaniana. Precisamos dela para consertar nossas casas. Há muita argila dravaniana na colmeia Gnath. Busque lá. Duas caixas serão suficientes." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_100_002", "hash": "E8A6F6EA101144CE", "target": "Recentemente negociamos com os dragões pela argila deles. Mas o caminho que seguiremos ainda não foi decidido. Ainda há muita argila na colmeia Gnath. Busque duas caixas." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_010", "hash": "E65D9929D7A23061", "target": "Nossas construções não podem esperar. Estão gastas pela ação do tempo. Precisamos de mais argila dravaniana. Busque com os Gnath." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_020", "hash": "3B377184F428D553", "target": "Trouxe a argila dravaniana?" },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_021", "hash": "6F486061F90B8200", "target": "Obrigado, <if(gnum4,caçadora,caçador)>. Isso será suficiente." },
+    { "gameKey": "quest/017/HeaVnz222_01791#TEXT_HEAVNZ222_01791_NANKAEATER_000_022", "hash": "EAB113287814E108", "target": "A argila dravaniana é um tipo especial de terra. Terra das profundezas de Smoldering Wastes. Os Gnath a misturam com a própria saliva para fazer uma substância grossa e pegajosa. É perfeita para construir ninhos." }
   ]
 }

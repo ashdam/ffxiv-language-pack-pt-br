@@ -2,19 +2,19 @@
   "conversation": "quest/018/HeaVnz525_01860",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_00", "hash": "B416D5DA25B28ACF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_01", "hash": "BBFFBAE232F9F6E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_02", "hash": "45D3DBE936254AE8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_03", "hash": "D875393A8AB0E2DD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_TODO_00", "hash": "05D4296807A60BBF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_TODO_01", "hash": "32DD1DC35D8B81F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_CAREGIVERMOG01836_100_000", "hash": "16D9BB702D77BFCB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_LYINGMOGB01836_100_001", "hash": "BD46ABAC16E57B94", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_LYINGMOGA01836_100_002", "hash": "4CD1D91175A81036", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_010", "hash": "5D212A151DCFCD5A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_011", "hash": "E1BCA07666047A42", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_020", "hash": "91EAE8A6E0E6781B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_030", "hash": "14931C924D7BBADB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_031", "hash": "FB810FEA55FC1C4F", "target": "" }
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_00", "hash": "B416D5DA25B28ACF", "target": "Moggzia procura desesperadamente algo na grama ao redor." },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_01", "hash": "BBFFBAE232F9F6E0", "target": "Uma rajada repentina de vento levou as preciosas malvas-das-nuvens de Moggzia em suas correntes vorazes. Procure as três porções que foram levadas na direção da estátua de Mother of the Sheave." },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_02", "hash": "45D3DBE936254AE8", "target": "Você recuperou os três tufos da preciosa malva-das-nuvens de Moggzia. Devolva-os ao moogle preocupado." },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_SEQ_03", "hash": "D875393A8AB0E2DD", "target": "Um peso parece sair dos ombros de Moggzia quando você entrega os tufos de malva que ele tanto estima. Parece que ele teria passado fome sem seus tufos para pescar nos céus." },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_TODO_00", "hash": "05D4296807A60BBF", "target": "Encontrar tufos de malva-das-nuvens" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_TODO_01", "hash": "32DD1DC35D8B81F4", "target": "Entregar os tufos de malva-das-nuvens a Moggzia" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_CAREGIVERMOG01836_100_000", "hash": "16D9BB702D77BFCB", "target": "Todos se animaram graças a você, kupo!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_LYINGMOGB01836_100_001", "hash": "BD46ABAC16E57B94", "target": "Eu provavelmente ainda estaria cochilando se não fosse por você, kupo!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_LYINGMOGA01836_100_002", "hash": "4CD1D91175A81036", "target": "Está tudo indo bem por aqui, kupo!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_010", "hash": "5D212A151DCFCD5A", "target": "Ah, não... Sem minhas malvas-das-nuvens, não consigo fazer nada, kupopo!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_011", "hash": "E1BCA07666047A42", "target": "Minhas preciosas malvas-das-nuvens foram levadas por uma rajada repentina de vento! As correntes as levaram na direção da estátua de Mother of the Sheave. <if(gnum4,Aventureira,Aventureiro)>, por favor, recupere minhas três porções de malva-das-nuvens antes que eu perca meu juízo moogle, kupo!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_020", "hash": "91EAE8A6E0E6781B", "target": "Vi meus tufos de malva-das-nuvens voando na direção da estátua de Mother of the Sheave. Meu pompom está tremendo... Por favor, traga-os de volta para mim!" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_030", "hash": "14931C924D7BBADB", "target": "Espero que as feras ao redor da estátua não tenham devorado meus tufos... <italic(1)>Meus preciosos tufos<italic(0)>! \\<soluço>" },
+    { "gameKey": "quest/018/HeaVnz525_01860#TEXT_HEAVNZ525_01860_MOGGZIA_000_031", "hash": "FB810FEA55FC1C4F", "target": "\\<arquejo> Você encontrou! Encontrou! Kupopo! Não sei o que teria feito sem minhas malvas-das-nuvens! São perfeitas para pescar nos céus. Agora não vou passar fome, kupo!" }
   ]
 }

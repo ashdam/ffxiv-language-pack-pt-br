@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc008_00945",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_00", "hash": "AE3CE05639927233", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_01", "hash": "02B89AE00B9C1ADA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_02", "hash": "33BE31C5130B5FE6", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_03", "hash": "7F7B90E69F80C160", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_00", "hash": "1497CCE0958ACA2E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_01", "hash": "4820FC2BF5951EED", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_000", "hash": "08B24005F278C34A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_001", "hash": "6885D0869F304AAA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_002", "hash": "7F6D7AE682896586", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_020", "hash": "5849F4CFAC90CA2D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_030", "hash": "6DF2A462566322AC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_031", "hash": "C8198D96711DAEE9", "target": "" }
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_00", "hash": "AE3CE05639927233", "target": "Sor Berengeoit parece um homem com um enorme ressentimento, e homens assim costumam estar dispostos a gastar bastante." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_01", "hash": "02B89AE00B9C1ADA", "target": "Sor Berengeoit insiste que, numa noite escura, matou um dragão ferido com um tiro certeiro de balista. Infelizmente, sem um troféu, todos o chamam de tolo delirante. Alguém precisa encontrar a carcaça e trazer um osso." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_02", "hash": "33BE31C5130B5FE6", "target": "Para sua leve surpresa, você encontra um dragão morto no fundo de um desfiladeiro, como o jovem cavaleiro insistia, e recolhe um belo osso. Esse troféu significará mais para Sor Berengeoit do que todos os peixes de Sea of Clouds." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_SEQ_03", "hash": "7F7B90E69F80C160", "target": "Sor Berengeoit recebe o osso de dragão com algo parecido com êxtase. Se metade dos cavaleiros de Ishgard cobiçar tanto uma morte, pouco impedirá que a guerra continue ardendo..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_00", "hash": "1497CCE0958ACA2E", "target": "Encontrar o osso de dragão" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_TODO_01", "hash": "4820FC2BF5951EED", "target": "Entregar o osso de dragão a Berengeoit" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_000", "hash": "08B24005F278C34A", "target": "Que tal ajudar um matador de dragões? Acertei um virote num dragão enquanto operava as balistas voltadas para os desfiladeiros. Vi a agonia dele, e então despencou..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_001", "hash": "6885D0869F304AAA", "target": "Mas ninguém acredita em mim! Não tive tempo de recolher um troféu antes de ser rendido no posto, e eles não acreditam no que não veem!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_002", "hash": "7F6D7AE682896586", "target": "A carcaça está lá fora, no fundo de um desfiladeiro, só esperando que alguém a recolha. Ouvi que você encontra <italic(1)>qualquer coisa<italic(0)>, e preciso de um osso de dragão para mostrar aos outros!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_020", "hash": "5849F4CFAC90CA2D", "target": "Conseguiu meu osso de dragão? Foi meu <italic(1)>primeiro<italic(0)> dragão, sabe... É <italic(1)>especial<italic(0)>..." },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_030", "hash": "6DF2A462566322AC", "target": "Sim! Sim! Osso de dragão! Quem está inventando histórias agora, hein? Pela Fúria!" },
+    { "gameKey": "quest/009/GaiUsc008_00945#TEXT_GAIUSC008_00945_BERENGEOIT_000_031", "hash": "C8198D96711DAEE9", "target": "Berengeoit, Matador de Dragões, abençoado aos olhos de Halone... Eu <italic(1)>sonhei<italic(0)> com isto. Percebe que serei elogiado pelo próprio arcebispo?" }
   ]
 }

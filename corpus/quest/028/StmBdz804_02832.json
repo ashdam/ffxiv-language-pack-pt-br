@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz804_02832",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_002", "hash": "2E1D54518A9A12C6", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_003", "hash": "E24B3A2BD2EC2017", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_004", "hash": "15EED463C60D60C1", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_010", "hash": "C45538CB537C15FB", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_011", "hash": "4A5D902049BC0280", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_012", "hash": "D58C44C76C678FDD", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_013", "hash": "E2009B1213EC4796", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_014", "hash": "D7FA6683EC803E4C", "target": "" },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_015", "hash": "6B3B6B31AA27F6C4", "target": "" }
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "Esta lonesome lass precisa de <if(gnum4,uma aventureira corajosa,um aventureiro corajoso)>." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Examinar o local indicado e matar a stray gazelle para obter seu chifre" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "Entregar o chifre de gazela à lonesome lass" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "Pelas roupas estranhas, imagino que você seja <if(gnum4,uma aventureira,um aventureiro)>. Se tiver um tempinho, sua ajuda viria muito a calhar." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "Eu queria fazer um amuleto para uma amiga e preciso muito de um chifre de gazela. Não é fácil encontrar um aqui em Ala Ghiri, e eu nunca conseguiria caçar uma sozinha. Para <if(gnum4,uma aventureira,um aventureiro)> como você, aposto que seria moleza." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_002", "hash": "2E1D54518A9A12C6", "target": "Normalmente, seria preciso viajar bem longe só para encontrar uma gazela, mas ouvi dizer que viram uma desgarrada perto de Miriam's Luck." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_003", "hash": "E24B3A2BD2EC2017", "target": "Não tenho muito, mas pagarei com prazer pelos chifres dela se você conseguir encontrá-la." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_004", "hash": "15EED463C60D60C1", "target": "Os oficiais disseram que viram uma gazela perto de Miriam's Luck. Espero que ainda esteja lá." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_010", "hash": "C45538CB537C15FB", "target": "Era verdade? Havia mesmo uma gazela por lá?" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_011", "hash": "4A5D902049BC0280", "target": "Ah, que maravilha. Obrigada! Ela vai adorar o amuleto que vou fazer com isto." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_012", "hash": "D58C44C76C678FDD", "target": "Dizem que os chifres de gazela são um símbolo de força, sabe. Ela vai precisar disso aonde está indo." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_013", "hash": "E2009B1213EC4796", "target": "Agora que Ala Ghiri enfim foi libertada dos garleanos, ela pretende se mudar para Ul'dah e abrir um negócio." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_014", "hash": "D7FA6683EC803E4C", "target": "Eu nunca conseguiria fazer algo tão ousado. Depois de tudo o que passamos, o mundo parece um lugar tão assustador. Se o destino me condenasse a cair nas mãos dos garleanos de novo, eu... eu..." },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_015", "hash": "6B3B6B31AA27F6C4", "target": "Não ligue para mim. Ela sempre foi a corajosa, e sei que vai ficar bem. Mesmo assim, vou me sentir melhor sabendo que ela tem meu amuleto consigo." }
   ]
 }

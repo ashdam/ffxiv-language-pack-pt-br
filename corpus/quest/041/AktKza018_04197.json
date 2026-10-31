@@ -2,19 +2,19 @@
   "conversation": "quest/041/AktKza018_04197",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_00", "hash": "956910E547A85DBF", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_01", "hash": "A3E1B87F81D15111", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_000", "hash": "4F5AF040453E7712", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_001", "hash": "6B3428161719876B", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_002", "hash": "2EE1C4142D9BE2B0", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_003", "hash": "D0182F98E7F85B15", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_005", "hash": "39AA2485503719E0", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_006", "hash": "0A57C1DB443B7335", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_007", "hash": "00805A785E5E4879", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_008", "hash": "13ECBBD365D6999A", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_009", "hash": "518871A38978FC04", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_010", "hash": "D4EE02BEA86F42C1", "target": "" },
-    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_011", "hash": "12A27FD063F31472", "target": "" }
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_SEQ_00", "hash": "1B5A14EB7CF3C3EC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mehrunnah olha para a distância, como se procurasse um navio no horizonte." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_00", "hash": "956910E547A85DBF", "target": "Abater kacchapa e coletar seus cascos" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_TODO_01", "hash": "A3E1B87F81D15111", "target": "Entregar os cascos a Mehrunnah" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_000", "hash": "4F5AF040453E7712", "target": "De longe, achei que você vendesse peixe, mas agora que vejo de perto, está claro que não é daqui. Suas roupas são estranhas, mas até eu percebo que foram feitas para trabalho pesado. Por sorte, tenho a tarefa certa para você." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_001", "hash": "6B3428161719876B", "target": "Quero fazer um colar para uma conhecida, mas, para seguir o modelo que tenho em mente, preciso de cascos dos ferozes kacchapa. Por mais habilidoso que eu seja com trabalhos manuais, receio que a caça não seja minha especialidade." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_002", "hash": "2EE1C4142D9BE2B0", "target": "Se você fizer o trabalho pesado por mim, receberá uma boa recompensa pelo seu tempo, além da minha eterna gratidão. Preciso de dois cascos dessas feras enormes, certamente uma tarefa simples para alguém como você." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_003", "hash": "D0182F98E7F85B15", "target": "Preciso de dois cascos de kacchapa, mas, se quiser abater mais alguns, não vou negar esse prazer a você. Volte quando saciar sua sede de aventura, estarei esperando!" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_005", "hash": "39AA2485503719E0", "target": "Vejo que você andou trabalhando. Trouxe os cascos?" },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_006", "hash": "0A57C1DB443B7335", "target": "Ah, sim, sim! São exatamente o que procuro. Quero dar o colar a uma mulher de gosto muito refinado, então agradeço por escolher cascos de tamanha qualidade." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_007", "hash": "00805A785E5E4879", "target": "Ela avalia e recolhe impostos em Alnair, e o trabalho a traz com frequência a este porto. Ficamos bem próximos nas últimas luas." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_008", "hash": "13ECBBD365D6999A", "target": "Há poucos dias, ela me mandou um amuleto para garantir minha saúde e boa sorte. Fiquei muito animado, pois simboliza a profunda confiança dela em mim. Ouvi dizer que irmãos trocam esses amuletos para expressar seu amor uns pelos outros." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_009", "hash": "518871A38978FC04", "target": "É costume retribuir com um presente, então pensei em fazer um..." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_010", "hash": "D4EE02BEA86F42C1", "target": "...Irmãos? Irmãos!? Ah... É assim que ela me vê? Eu tinha certeza de que era algo completamente diferente, mas agora que digo em voz alta..." },
+    { "gameKey": "quest/041/AktKza018_04197#TEXT_AKTKZA018_04197_MEHRUNNAH_000_011", "hash": "12A27FD063F31472", "target": "Acho... Acho que ainda posso ficar feliz com isso. Vou cuidar dela como um irmão cuida de sua querida irmã. Protegê-la de todo mal. Sim... Enfim, prometi uma recompensa, não foi? Aqui, você merece." }
   ]
 }

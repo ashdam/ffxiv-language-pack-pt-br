@@ -2,17 +2,17 @@
   "conversation": "quest/035/LucKzj019_03582",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "" },
-    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "" }
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_SEQ_00", "hash": "CE7746327A04A342", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Amshs Aath procura alguém sem nadadeiras em boas condições físicas para caçar uma fera perigosa em seu lugar." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_00", "hash": "D37A86E5855DC024", "target": "Usar a carne de caranguejo para atrair uma anfisbena" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_01", "hash": "5C8B3A73F935C451", "target": "Esperar uma anfisbena de tocaia e abatê-la para obter suas escamas" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_TODO_02", "hash": "616C468EF8CB4E5B", "target": "Entregar as escamas de anfisbena a Amshs Aath" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_000", "hash": "8828E1C5542ED9B4", "target": "Ora, se não é alguém sem nadadeiras! Conceda um momento de sua atenção a um aath debilitado, <if(gnum4,hóspede honrada,hóspede honrado)>, por favor." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_001", "hash": "04AAFE3E5803C4BC", "target": "Nós, Ondo, cuidamos destas e de outras ruínas antigas. É uma tarefa perigosssa, pois muitas criaturas marinhas querem nos expulsar daqui e ocupar nosso lugar. Por isso precisamos vestir armaduras para proteger o corpo de seus golpes." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_002", "hash": "68D92301FC71144D", "target": "As escamas de anfisbena são um dos materiais que usamos em nosso equipamento. Abata uma e traga suas essscamas para que eu possa ajudar nossos jovens koal a viver até amanhã." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_003", "hash": "2C6DDD2E2B2E7E63", "target": "São predadoras oportunistas e preferem ficar escondidas até sentir a presssença de uma possível presa. Use esta carne de caranguejo para atrair uma e, depois, confunda seus sentidos com esta esfera cintilante." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_010", "hash": "6D7396FE94C49907", "target": "Por mais que eu quisesse acompanhar você nesta caçada, temo que alguém da minha idade possa facilmente virar a próxima refeição de uma anfisssbena. Preciso pedir que faça isso sem minha ajuda, sem-nadadeiras. Só espero que a esfera baste para garantir sua vitória." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_020", "hash": "8F2048A79C09A0F8", "target": "Ah, <if(gnum4,caçadora,caçador)> sem nadadeiras. Trouxe as essscamas que procuro?" },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_021", "hash": "149B0897BA828BEC", "target": "Muito bem, muito bem. É exatamente desse tipo que precisamos para fazer armaduras fortes e resssistentes para os jovens." },
+    { "gameKey": "quest/035/LucKzj019_03582#TEXT_LUCKZJ019_03582_AMSHSAATH_000_022", "hash": "2811E04E1D47B080", "target": "Antes, teríamos evitado tais recursos, tão incômodos e pesados. Mas precisamos nos adaptar à vida fora da água, o que significa usar os métodos preferidos de vocês, sem-nadadeiras..." }
   ]
 }

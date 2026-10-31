@@ -2,19 +2,19 @@
   "conversation": "quest/036/BanPix110_03698",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "" },
-    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "" }
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SEQ_00", "hash": "048F8559E9152C8B", "target": "Uin Nee precisa de néctar.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_00", "hash": "53000E3ACDFC2BC4", "target": "Falar com Lugg Aenc" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_01", "hash": "6FACF1645DA7872F", "target": "Montar no porxie, ir ao Handmirror Lake e sugar um pouco de néctar" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_TODO_02", "hash": "E563FBB11825EFC4", "target": "Reportar-se a Uin Nee" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_000", "hash": "9BDD943E2B6C3824", "target": "Vamos brincar de adivinhar, <split(<string(gstr1)>, ,1)>? Adivinhe o que eu amo mais do que <italic(1)>tudo<italic(0)> no mundo! Não, não é você, criatura boba. É néctar! Néctar doce, delicioso e maravilhoso!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_001", "hash": "5A576BCA2F09A2AC", "target": "E adivinhe o que eu amo <italic(1)>quase<italic(0)> tanto quanto néctar? Ora, os porxies simplesmente <italic(1)>perfeitos<italic(0)> que os Nu Mou fizeram para juntarmos todo o néctar que conseguirmos beber!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_002", "hash": "BFE4661974841A64", "target": "Agora deixe <italic(1)>eu<italic(0)> adivinhar: você sempre quis montar num porxie também? Então hoje é seu dia de sorte! Basta falar com Lugg Aenc, e logo você estará nas costas de um dos nossos familiares encantadores! Não parece divertido?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_010", "hash": "625E674CBA5AB356", "target": "Olá! Não se preocupe, Uin Nee já me explicou tudo. Você vai levar um dos nossos porxies para coletar uma boa quantidade de néctar, certo? Que gentileza se oferecer para uma tarefa tão tediosa. Enfim, tenho prazer em lhe emprestar um dos meus favoritos." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_LUGGAENC_000_011", "hash": "B82C2F708AF6233A", "target": "Está tudo bem? Quando o porxie voltou sem você, temi que tivesse sofrido uma queda feia. Que bom ver que continua de pé e andando. Uin Nee está perdendo a paciência com aquele néctar que você prometeu." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_012", "hash": "802A25E20C54A180", "target": "O porxie inspira fundo, enchendo o nariz, e, ao que tudo indica, outras partes de sua anatomia interna, de néctar bem docinho. Você tenta não pensar em como Uin Nee pretende extrair esse néctar das entranhas do bichinho." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_SYSTEM_000_013", "hash": "FF07764DAD7B7E31", "target": "O aroma doce do néctar chega ao seu nariz. Infelizmente, você não tem como coletá-lo por conta própria. Fale com Lugg Aenc em Lydha Lran para conseguir um porxie e resolver a situação." },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_020", "hash": "668B80E056D0EE69", "target": "Ah, olá. Um porxie acabou de voltar com a barriga cheia do néctar mais doce e suculento. Não imagino que você tenha algo a ver com isso, não é? Enfim, espero que tenha gostado do voo!" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_021", "hash": "85C71F98673A4C32", "target": "Sim, mal posso esperar para beber aquele néctar bem docinho! Ah, talvez você esteja se perguntando como tiramos o néctar do porxie?" },
+    { "gameKey": "quest/036/BanPix110_03698#TEXT_BANPIX110_03698_UINNEE_000_022", "hash": "68408C6E67DFF6CA", "target": "Bom, já que quer saber... eu tento não pensar nessa parte. Às vezes a coisa fica meio nojenta, sabe? Teve uma vez em que um porxie espirrou bem quando eu ia─eca! Pensando bem, acho que perdi a sede. Ah, por que foi me lembrar disso!?" }
   ]
 }

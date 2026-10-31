@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz517_01852",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_00", "hash": "36207476BEC55362", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_01", "hash": "328D8C398AE11A5A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_02", "hash": "58CDD65F6F0530F9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_03", "hash": "BE3E4EB300DE4683", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_00", "hash": "2743252BA400BBDA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_01", "hash": "1AB41D13E1C75FAB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_000", "hash": "6FBC99C49F46074F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_001", "hash": "9D4708423D37D410", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_010", "hash": "E95F3D3BC156C2FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_020", "hash": "0301E8C25FA5916C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_021", "hash": "F207B1607160BC50", "target": "" },
-    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_022", "hash": "EEB46F2DA9C20FEC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_00", "hash": "36207476BEC55362", "target": "Mogkon agita sua varinha furiosamente no ar." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_01", "hash": "328D8C398AE11A5A", "target": "Mogkon recebeu a tarefa de matar os dracos que rondam a área. Antes de tentar enfrentar um sozinha, ela precisa que você avalie a força deles e lhe traga três caudas retiradas dos inimigos abatidos." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_02", "hash": "58CDD65F6F0530F9", "target": "Os dracos caem um após o outro, e as caudas agora estão em suas mãos. Entregue-as a Mogkon." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_SEQ_03", "hash": "BE3E4EB300DE4683", "target": "Mogkon agradece por você lhe dar uma avaliação precisa da força dos dracos. Mas ela decide que provavelmente precisa treinar mais antes de tentar enfrentar um sozinha." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_00", "hash": "2743252BA400BBDA", "target": "Abater Mists drakes para obter suas caudas" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_TODO_01", "hash": "1AB41D13E1C75FAB", "target": "Entregar as caudas a Mogkon" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_000", "hash": "6FBC99C49F46074F", "target": "Está vendo aqueles Mists drakes ali? São meus alvos. Agora é só acertar uma bola de fogo neles e vencer, certo? Mas e se eu errar, kupo?" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_001", "hash": "9D4708423D37D410", "target": "Preciso que você vá avaliar a força deles por mim. Abata-os e me traga três caudas. Assim saberemos exatamente com que tipo de criatura estamos lidando." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_010", "hash": "E95F3D3BC156C2FB", "target": "Eles não parecem tão fortes, mas preciso que você confirme por mim. Vou observar de uma distância segura e educativa, kupo." },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_020", "hash": "0301E8C25FA5916C", "target": "Não pareceu tão difícil, kupo! Trouxe as caudas?" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_021", "hash": "F207B1607160BC50", "target": "Ah... então estas são caudas de draco? Não parecem nada que eu e minha magia moogle não possamos enfrentar!" },
+    { "gameKey": "quest/018/HeaVnz517_01852#TEXT_HEAVNZ517_01852_MOGKON_000_022", "hash": "EEB46F2DA9C20FEC", "target": "Mas... talvez eu precise de <italic(1)>só<italic(0)> um pouquinho mais de treino antes de tentar queimar um sozinha. Ter uma meta é o primeiro passo para crescer! Treino encerrado, kupo!" }
   ]
 }

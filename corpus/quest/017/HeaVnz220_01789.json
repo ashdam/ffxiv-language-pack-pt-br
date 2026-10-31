@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz220_01789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "" },
-    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "" }
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_00", "hash": "0A43F54FE46A53D5", "target": "Vath Hungerer parece distraída com algo na floresta." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_01", "hash": "7A3A798AD9E6CB5E", "target": "Vath Hungerer explica que as meliae próximas atrapalham a caça e a coleta dos Vath. Ela pede que você mate quatro desses monstros, para que sua tribo não passe fome por não conseguir obter comida." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_02", "hash": "0B0E972A6A48A9FE", "target": "Você derruba as meliae conforme o pedido. Volte a Hungerer com a boa notícia." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_SEQ_03", "hash": "C372FAEE32725705", "target": "Hungerer conta que, para os Vath, lutar é apenas um meio de obter comida. A ideia de atacar algo que não se pode comer é indigesta para eles. Porém, pelo que dizem, fica claro que já tentaram comer meliae antes." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_00", "hash": "5893E600ADCD9536", "target": "Eliminar meliae" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_TODO_01", "hash": "9BA0CFB2BBE716E5", "target": "Relatar a Vath Hungerer" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_000", "hash": "FC746A778CADDBD3", "target": "Saudações, <if(gnum4,caçadora,caçador)>. Conhece as meliae? Elas vagam pela floresta. Gostaríamos que matasse algumas." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_100_001", "hash": "8E727C96AD100F33", "target": "Por que pediria que <if(gnum4,ela,ele)> caçasse meliae? Não se pode comer essas criaturas. São duras demais!" },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_001", "hash": "A80EF238F8C635AA", "target": "Não queremos comer essas criaturas. Não podemos. Nenhuma parte delas é comestível. Mas essas criaturas malignas nos impedem de coletar comida. Atrapalham nossa caça! Por favor, mate quatro delas. Isso facilitaria muito nossa vida." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_010", "hash": "182770B653BD4CC4", "target": "Estamos com fome, mas não podemos coletar comida. As meliae atrapalham. Por favor, elimine essas criaturas para nós." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_020", "hash": "8B4729F7192725EF", "target": "Agradecemos, <if(gnum4,caçadora,caçador)>. Você é <if(gnum4,uma aliada forte,um aliado forte)>." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_CIBLEROIT_000_021", "hash": "2F0A6608EE0AAFEC", "target": "Quando lutamos, é só para caçar comida. É um desperdício caçar o que não podemos comer. Só ficaríamos com mais fome." },
+    { "gameKey": "quest/017/HeaVnz220_01789#TEXT_HEAVNZ220_01789_UMASOU_000_021", "hash": "685EA2B1F0518172", "target": "Você tem razão, Cibleroit. Caçar meliae não adianta nada. Têm um gosto horrível. São duras e secas. Depois, a gente passa dias tirando farpas das mandíbulas." }
   ]
 }

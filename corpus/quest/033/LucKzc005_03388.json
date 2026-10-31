@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzc005_03388",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "" },
-    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "" }
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_SEQ_00", "hash": "475294DB9E8F8539", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Aiscar precisa de sementes." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_00", "hash": "D3F6B709669AB159", "target": "Abater lake anemones e obter suas sementes" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_TODO_01", "hash": "262D6671317981B0", "target": "Entregar as sementes de anêmona lacustre a Aiscar" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_000", "hash": "FB6B7E9E99A18FBE", "target": "Diga, posso lhe pedir um favor? Garanto que não é nada muito trabalhoso. Bem, supondo que você não tenha nada contra abater algumas lake anemones." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_001", "hash": "17261715983EBD14", "target": "Estou atrás das sementes delas, sabe, e pagarei de bom grado acima do preço habitual por uma entrega rápida. Não precisa se preocupar com os motivos por enquanto, apenas me traga as sementes o mais rápido possível!" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_010", "hash": "B64048C21B8ED978", "target": "Talvez você conheça as anêmonas como plantas floridas ou criaturas aquáticas predadoras. Já as <italic(1)>lake<italic(0)> anemones talvez sejam um pouco das duas coisas..." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_020", "hash": "A0C91ADE32E1DADD", "target": "Imagino que tenha feito o que pedi?" },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_021", "hash": "4DF3AFF1DFA76C75", "target": "Sim, estas devem bastar. Claro, não quero cultivar minhas próprias lake anemones, céus me livrem! Pretendo extrair o óleo para fazer algumas melhorias que tenho em mente para o telescópio." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_022", "hash": "037FD0271E886B24", "target": "Magnífico, não é? Foi construído muito antes do Dilúvio e originalmente era usado para observar os corpos celestes." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_023", "hash": "617E95C42F198638", "target": "Como pode imaginar, um céu inundado de Luz não favorece a observação das estrelas, e o telescópio foi apontado para baixo para vigiar a chegada de devoradores de pecados." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_024", "hash": "6E643BEE286E1F90", "target": "O retorno da escuridão a esta terra despertou em mim o desejo de pesquisar os movimentos das várias constelações, mas os anos nessa posição rebaixada deixaram os suportes emperrados. Na verdade, imóveis." },
+    { "gameKey": "quest/033/LucKzc005_03388#TEXT_LUCKZC005_03388_AISCAR_000_025", "hash": "188C30BB0972DAB0", "target": "Daí minha necessidade de óleo de sementes de anêmona. Com uma aplicação generosa, apontarei o telescópio para o céu e poderei me deleitar com a glória do firmamento!" }
   ]
 }

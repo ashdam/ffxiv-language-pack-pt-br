@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea058_00470",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "" },
-    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "" }
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_00", "hash": "70A604C897E640E6", "target": "Ostfyr espera garantir a segurança dos viajantes no Posto de Controle de La Thagran livrando a área de seus habitantes perigosos." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_01", "hash": "B30E3A3BCFF13F5A", "target": "Você descobre que o Rogue River anda particularmente perigoso. Revire três yarzon nests e extermine os yarzons que aparecerem." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_02", "hash": "DBECCFF80BB07B72", "target": "Você reduziu consideravelmente a população de yarzons no Rogue River. Volte ao Posto de Controle de La Thagran e avise a Ostfyr que as criaturas não ameaçarão mais os viajantes." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_SEQ_03", "hash": "5DDC576A1C7FACC8", "target": "Os Jaquetas Amarelas são poucos para guardar o Posto de Controle de La Thagran, e as regiões vizinhas não têm ninguém para ceder. Eles precisam da sua ajuda." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_00", "hash": "BB5E4EC47F9867CB", "target": "Expulsar os yarzons de seus ninhos e abatê-los" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_TODO_01", "hash": "39DBBF209088F868", "target": "Apresentar-se a Ostfyr" },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_1", "hash": "9FDE57185630834E", "target": "A cada dia, mais viajantes passam por estes portões ensanguentados e machucados." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_2", "hash": "CAF87C019FD5D45F", "target": "Dizem que os yarzons os atacam no Rogue. Dói ficar sem fazer nada, mas precisamos de todos os nossos homens só para manter a guarnição." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_3", "hash": "E60DE90A7333C057", "target": "Você nos faria um grande favor se reduzisse a população de yarzons. Se pudesse limpar, digamos, três de seus ninhos, ficaríamos todos em dívida com você." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_11", "hash": "756993F27FFF112D", "target": "Ah, então deu cabo dos artrópodes? Todos os viajantes têm uma dívida de gratidão com você." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_12", "hash": "DE8EBA880A36437B", "target": "La Thagran é uma fortaleza vital, que o próprio Maelstrom defenderia se tivesse meios. A frota está espalhada demais, por isso os Jaquetas Amarelas foram chamados." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_OSTFYR_000_13", "hash": "1910A047B8741279", "target": "Mas nossos efetivos estão longe de ser inesgotáveis, e sua ajuda contribui muito para preservar a paz." },
+    { "gameKey": "quest/004/SubSea058_00470#TEXT_SUBSEA058_00470_POP_MESSAGE", "hash": "F110EBA4F475DC7F", "target": "Yarzons furiosos irrompem do ninho!" }
   ]
 }

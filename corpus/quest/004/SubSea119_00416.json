@@ -2,18 +2,18 @@
   "conversation": "quest/004/SubSea119_00416",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "" },
-    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "" }
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_00", "hash": "AD37E147071DB8EE", "target": "A'zumyn, agente de campo da Alfândega de Mealvaan, procura ajuda para exterminar uma praga desconhecida." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_01", "hash": "77999813E0ED59A2", "target": "Vá ao nordeste do Cais de Candlekeep e procure montes de terra suspeitos. Coloque um pedaço de carne fétida de dodô sobre um desses montes e mate qualquer coisa que sair do solo." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_02", "hash": "A1D020E7ADB249E5", "target": "Você derrotou uma família de Thavnairian mites. Volte ao Cais de Candlekeep e informe suas descobertas a A'zumyn." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SEQ_03", "hash": "56DEDCD4E7E79B86", "target": "Embora ainda não tenha provas concretas, A'zumyn acredita que os Thavnairian mites podem ter sido trazidos para a região por piratas que contrabandeiam mercadorias proibidas de Radz<-->at<-->Han para Vylbrand." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_00", "hash": "89E46A10C73402F4", "target": "Colocar carne fétida de dodô sobre um suspicious mound e matar as criaturas que surgirem" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_TODO_01", "hash": "D0F646B22AE394E4", "target": "Apresentar-se a A'zumyn no Cais de Candlekeep" },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_1", "hash": "1949C43B4EA675DF", "target": "Com licença, <if(gnum4,aventureira,aventureiro)>, pode me conceder um momento? Permita que me apresente. Sou A'zumyn, agente de campo da Alfândega de Mealvaan. Meu trabalho na alfândega envolve investigar denúncias de importação ilegal de mercadorias proibidas vindas do exterior." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_2", "hash": "1CD8DDE6EBE11099", "target": "Recentemente, recebemos diversas petições dos moradores do Cais de Candlekeep a respeito de uma espécie não nativa de Vylbrand. Se essa espécie for mesmo exótica à ilha, precisa ser localizada e destruída imediatamente, antes que possa se reproduzir e talvez perturbar o equilíbrio natural da fauna local." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_3", "hash": "9AB02776CF0BD478", "target": "Peço que leve este pedaço de carne fétida de dodô e o coloque sobre um dos montes de terra que acreditamos serem os ninhos da espécie invasora. O cheiro deve atrair quaisquer criaturas escondidas lá embaixo, tornando-as alvos fáceis." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_10", "hash": "88C9ADD9E44F4A13", "target": "Thavnairian mites!? Já coletamos ovos em cargas de navios vindos de Radz<-->at<-->Han... mas sempre em Limsa Lominsa." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_11", "hash": "B80E0AA293F717A2", "target": "Não há registros de navios indo ou vindo dessa pequena nação insular fazendo escala aqui no Cais de Candlekeep... nem teriam motivo para isso." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_AZUMYN_000_12", "hash": "5CB26C087611E1AF", "target": "A menos que... os ácaros não tenham vindo de um navio que ancorou aqui, mas de outra embarcação... uma com intenções mais nefastas. Acredito que isto exigirá mais investigação. Agradeço novamente por sua ajuda. Talvez precise de seus serviços outra vez em breve." },
+    { "gameKey": "quest/004/SubSea119_00416#TEXT_SUBSEA119_00416_SYSTEM_000_23", "hash": "C79E76483AFE8B41", "target": "Uma criatura faminta emerge de seu ninho!" }
   ]
 }

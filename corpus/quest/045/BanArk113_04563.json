@@ -2,18 +2,18 @@
   "conversation": "quest/045/BanArk113_04563",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SEQ_00", "hash": "6A587633715020BF", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_00", "hash": "BB260E0CA9B46EA0", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_01", "hash": "563DBAC6B6974DDF", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_02", "hash": "FC49D7E867E96710", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_001", "hash": "81781AFC2D838FE6", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_002", "hash": "B5E7CE730572E4AE", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_003", "hash": "5E06B0FD09378C63", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_004", "hash": "84A66805305F464E", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SYSTEM_000_020", "hash": "165B6BB73ABD40B2", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_030", "hash": "6B9F26510C65D0D7", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_031", "hash": "80FF5900AC03DAE3", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_032", "hash": "B64CF00F7D4F639F", "target": "" },
-    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_033", "hash": "67EA31845CD4191F", "target": "" }
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SEQ_00", "hash": "6A587633715020BF", "target": "Maru parece incomodado com uma planta de cheiro forte.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_00", "hash": "BB260E0CA9B46EA0", "target": "Usar o antídoto de Daemir na semente de asvattha" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_01", "hash": "563DBAC6B6974DDF", "target": "Extrair a semente de asvattha" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_TODO_02", "hash": "FC49D7E867E96710", "target": "Entregar a semente de asvattha a Maru" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_001", "hash": "81781AFC2D838FE6", "target": "<split(<string(gstr1)>, ,1)>! Tem um asvattha crescendo perto de Pavana's Remorse que eu queria cortar pela raiz. Ou pela semente, no caso." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_002", "hash": "B5E7CE730572E4AE", "target": "Normalmente, mandaríamos alguém queimar. Nossa selva já tem dessas coisas se remexendo por todo lado." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_003", "hash": "5E06B0FD09378C63", "target": "Só que, dessa vez, soube que um dos cozinheiros quer usar pra... bem, só de pensar me dá arrepios. Enfim, pode ir lá buscar pra mim?" },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_004", "hash": "84A66805305F464E", "target": "Sementes de asvattha são cobertas de veneno, então você precisa encharcar com este antídoto primeiro. Tenta trazer inteira, mas sem perder uma mão no processo." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_SYSTEM_000_020", "hash": "165B6BB73ABD40B2", "target": "A efervescência do antídoto cessa, e você extrai uma semente redonda de asvattha! O cozinheiro de Svarna vai adorar. Volte a Maru com sua descoberta." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_030", "hash": "6B9F26510C65D0D7", "target": "Urgh! Nem preciso perguntar: você trouxe a semente. Que as Irmãs me livrem desse fedor..." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_031", "hash": "80FF5900AC03DAE3", "target": "Obrigado, eu acho. Essas coisas não são raras em Vanaspati, mas não tem como se acostumar..." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_032", "hash": "B64CF00F7D4F639F", "target": "Mas o cozinheiro deve ficar feliz. Que os deuses nos ajudem. Dizem que tirar o veneno e deixar essa coisa podre de molho na aguardente dá uma bebida incrível." },
+    { "gameKey": "quest/045/BanArk113_04563#TEXT_BANARK113_04563_MARU_000_033", "hash": "67EA31845CD4191F", "target": "<italic(1)>Eu<italic(0)> não ia beber isso de jeito nenhum, mas alguém deve querer..." }
   ]
 }

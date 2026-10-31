@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst044_00195",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_00", "hash": "E162F63F216D0C83", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_01", "hash": "EDC754F8C674F0A0", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_02", "hash": "EBA94BF2C424F78C", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_03", "hash": "3700F09DC8396BC1", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_00", "hash": "5B8DEC7342830B3E", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_01", "hash": "1FEE5E614FBD7BA9", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_1", "hash": "882B54D612E311EE", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_2", "hash": "B786C7D2126D7162", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_3", "hash": "B9455778FF4334CB", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_4", "hash": "743636833282F533", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_10", "hash": "0660BCEF66EE5D73", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_11", "hash": "AB93858BE7800D20", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_12", "hash": "A96D941CBBE322C2", "target": "" },
-    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_13", "hash": "8AA7FB80D24880A8", "target": "" }
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_00", "hash": "E162F63F216D0C83", "target": "Linyeve, uma intendente em Hyrstmill, precisa que alguém lhe traga um cogumelo-luz, uma variedade de fungo que emite um brilho intenso." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_01", "hash": "EDC754F8C674F0A0", "target": "Colha um cogumelo-luz na parede rochosa a sudoeste de Peacegarden. Linyeve insiste que você colha o fungo de brilho mais intenso." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_02", "hash": "EBA94BF2C424F78C", "target": "Entregar o cogumelo-luz a Linyeve em Hyrstmill" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_SEQ_03", "hash": "3700F09DC8396BC1", "target": "Os cogumelos-luz são um ingrediente essencial do remédio usado para tratar a doença conhecida como Morte Rastejante. Como há poucos conjuradores em Hyrstmill, Linyeve prefere manter uma reserva do remédio para lidar com possíveis surtos." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_00", "hash": "5B8DEC7342830B3E", "target": "Colher o cogumelo-luz mais brilhante" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_TODO_01", "hash": "1FEE5E614FBD7BA9", "target": "Entregar o cogumelo-luz a Linyeve em Hyrstmill" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_1", "hash": "882B54D612E311EE", "target": "Você tem jeito de <if(gnum4,aventureira,aventureiro)>! Aventureiros adoram pequenas tarefas, não é? Pois bem, preciso que vá à floresta colher um cogumelo-luz para mim." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_2", "hash": "B786C7D2126D7162", "target": "Você... não faz a menor ideia do que é um cogumelo-luz, não é? “Cogumelo-luz” é o nome comum de uma variedade de fungo com uma fosforescência branca singular. Hm? O que disse? “Um cogumelo que brilha”? ...Sim, acho que pode chamar assim. Há uma colônia na parede rochosa a sudoeste de Peacegarden." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_3", "hash": "B9455778FF4334CB", "target": "Mas não vá colher o primeiro que encontrar! Quero o “cogumelo que brilha” mais brilhante que achar, por favor!" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_4", "hash": "743636833282F533", "target": "Hm? Bem, sim, eu adoraria colher cogumelos-luz por conta própria, mas há um pequeno problema: os batedores dos Ixal. Não são lá muito amigáveis, aqueles sujeitos. Pode ir, então!" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_10", "hash": "0660BCEF66EE5D73", "target": "Conseguiu encontrar os cogumelos-luz?" },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_11", "hash": "AB93858BE7800D20", "target": "Ah, veja só esse brilho! Perfeito! Vai me ajudar a preparar um remédio potente contra a Morte Rastejante." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_12", "hash": "A96D941CBBE322C2", "target": "Para me antecipar à pergunta óbvia, a Morte Rastejante é uma praga mortal que devastou a população Hyur de Gridania no passado. Embora hoje possa ser curada com magia de conjuração simples, não custa ter uma reserva do remédio à mão." },
+    { "gameKey": "quest/001/SubFst044_00195#TEXT_SUBFST044_00195_LINYEVE_000_13", "hash": "8AA7FB80D24880A8", "target": "Afinal, aqui em Hyrstmill, não podemos contar sempre com a presença de um conjurador toda vez que uma criança tosse. Mas graças à Matriarca existem aventureiros de passagem, não é?" }
   ]
 }

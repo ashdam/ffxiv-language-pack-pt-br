@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz318_01810",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_00", "hash": "24FB423070519914", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_01", "hash": "BD82B580FD5FCF3F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_02", "hash": "E512FDA5A32C838C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_03", "hash": "37275EF4E1FF2033", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_00", "hash": "E91155FF70F910CC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_01", "hash": "253B634520202ED0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_000", "hash": "A73F168D327CE61E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_001", "hash": "1546392B03B383B2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_010", "hash": "F1607FAF5EACB5A0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_020", "hash": "A06B91D5BC2DD0E8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_021", "hash": "1C375F1F7E5E000E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_022", "hash": "1D19E4EBDE7F1B8E", "target": "" }
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_00", "hash": "24FB423070519914", "target": "Gullinkambi parece mais irritadiça do que o normal." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_01", "hash": "BD82B580FD5FCF3F", "target": "Gullinkambi reclama de dores pelo corpo e busca desesperadamente algum alívio. Ela pede que você traga de Ehs Daih uma flor chamada gron mhar, que pode ajudar." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_02", "hash": "E512FDA5A32C838C", "target": "Você encontra uma gron mhar. Leve-a a Gullinkambi e veja se ela melhora." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_SEQ_03", "hash": "37275EF4E1FF2033", "target": "Você traz uma gron mhar a Gullinkambi. Ela sente a tensão em seu corpo desaparecer imediatamente. Ela explica que aquecer os ovos durante semanas e meses a fio deixa seu corpo dolorido e a torna irritadiça. Ela agradece por lhe dar a paz necessária para continuar protegendo os ovos." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_00", "hash": "E91155FF70F910CC", "target": "Procurar uma gron mhar em Ehs Daih" },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_TODO_01", "hash": "253B634520202ED0", "target": "Entregar uma gron mhar a Gullinkambi" },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_000", "hash": "A73F168D327CE61E", "target": "Meus músculos ficam rígidos e minhas articulações doem. E os Gnath... Aqueles estalos incessantes são insuportáveis." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_001", "hash": "1546392B03B383B2", "target": "Preciso de uma gron mhar. Ela floresce na caverna de Ehs Daih. Traga-a para mim." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_010", "hash": "F1607FAF5EACB5A0", "target": "Só uma gron mhar pode me trazer paz. Você precisa buscá-la em Ehs Daih." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_020", "hash": "A06B91D5BC2DD0E8", "target": "Você trouxe o que preciso?" },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_021", "hash": "1C375F1F7E5E000E", "target": "Ah, que aroma doce... Obrigada. Posso sentir os nós nos meus músculos se desfazendo." },
+    { "gameKey": "quest/018/HeaVnz318_01810#TEXT_HEAVNZ318_01810_GULLINKAMBI_000_022", "hash": "1D19E4EBDE7F1B8E", "target": "Meu corpo ficou rígido de tanto ficar confinada nesta torre, mas agora posso suportar minha vigília por mais algum tempo." }
   ]
 }

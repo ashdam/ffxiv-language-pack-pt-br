@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz409_02732",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_SEQ_00", "hash": "AA8CA1C8D86604DC", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_00", "hash": "98EA501F63A3F08C", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_01", "hash": "DD0F8C30DED94EF0", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_000", "hash": "D1D2C59287E4CA42", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_001", "hash": "E2B4A7FE50B96337", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_002", "hash": "1C48E7CF95BFF31A", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_003", "hash": "E2DFBE9B0CA66A88", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_004", "hash": "13161628A1AF2FFC", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_010", "hash": "FAB178C15FD272AF", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_011", "hash": "8DA44888123E88AB", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_012", "hash": "D7E7F1142B12FC34", "target": "" },
-    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_013", "hash": "DCEBD93124E03D25", "target": "" }
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_SEQ_00", "hash": "AA8CA1C8D86604DC", "target": "Masatsuchi está com uma pontinha de fome." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_00", "hash": "98EA501F63A3F08C", "target": "Matar tigres e obter sua carne" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_TODO_01", "hash": "DD0F8C30DED94EF0", "target": "Entregar a carne de tigre a Masatsuchi" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_000", "hash": "D1D2C59287E4CA42", "target": "Argh, nunca senti uma fome dessas!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_001", "hash": "E2B4A7FE50B96337", "target": "Ah, olá. Posso pedir uma coisa a você?" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_002", "hash": "1C48E7CF95BFF31A", "target": "Eu agradeceria muito se você caçasse um tigre ou dois para mim!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_003", "hash": "E2DFBE9B0CA66A88", "target": "Não há nada melhor que um bom corte de carne de tigre. O que me diz? Por favor, estou quase morrendo de fome!" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_004", "hash": "13161628A1AF2FFC", "target": "Na minha cabeça, já estou mastigando um pedaço suculento do mais saboroso dos tigres..." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_010", "hash": "FAB178C15FD272AF", "target": "A carne... você trouxe?" },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_011", "hash": "8DA44888123E88AB", "target": "Ah, é magnífica mesmo. Faz tanto tempo que não como tigre. Não consegui mais caçar tanto desde que perdi a visão de um olho numa batalha, vinte e cinco anos atrás." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_012", "hash": "D7E7F1142B12FC34", "target": "O chefe da aldeia naquela época me acolheu e alimentou. Em troca, prometi trabalhar nos campos para ele e os aldeões. É um serviço cansativo, mas sei que esta carne vai me dar forças para continuar." },
+    { "gameKey": "quest/027/StmBdz409_02732#TEXT_STMBDZ409_02732_MASATSUCHI_000_013", "hash": "DCEBD93124E03D25", "target": "Mais uma vez, obrigado por me trazer isto. Vou saborear cada mordida!" }
   ]
 }

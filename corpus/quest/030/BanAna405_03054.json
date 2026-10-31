@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna405_03054",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_SEQ_00", "hash": "BA67DBD90D38DA38", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_00", "hash": "336BF9A24F22F5FC", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_01", "hash": "E41620522F7D971D", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_000", "hash": "00792300B5DC031A", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_001", "hash": "95253C0D3B682347", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_002", "hash": "8C2214F53F2D7F16", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_003", "hash": "284A9E411B2C5FCC", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_019", "hash": "CE957A1BC63F635C", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_020", "hash": "E94862B8B8BFCBF3", "target": "" },
-    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_021", "hash": "DA9EB1C29CDCD142", "target": "" }
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_SEQ_00", "hash": "BA67DBD90D38DA38", "target": "Eshana precisa que você sirva de isca e armadilha.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_00", "hash": "336BF9A24F22F5FC", "target": "Atrair e abater funnel antlions nas Pike Falls" },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_TODO_01", "hash": "E41620522F7D971D", "target": "Falar com Eshana" },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_000", "hash": "00792300B5DC031A", "target": "Formigas-leão são criaturas terríveis. Quando você pensa que o caminho está livre, o chão se abre de repente e você se vê entre mandíbulas esmagadoras. Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_001", "hash": "95253C0D3B682347", "target": "Esse foi o destino de muitos viajantes a caminho do forte, tanto soldados quanto mercadores. A capitã ordenou que matássemos esses insetos traiçoeiros assim que os avistássemos, mas aí está parte do problema: só os vemos quando eles querem. Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_002", "hash": "8C2214F53F2D7F16", "target": "Há outras formigas-leão por aí, mas algumas se especializaram em atacar nossas rotas de viagem. São essas que quero que você mate. Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_003", "hash": "284A9E411B2C5FCC", "target": "Vá às Pike Falls e caminhe sem companhia entre as rochas. Não precisa se esforçar para encontrar seus alvos... eles vão encontrar você. Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_019", "hash": "CE957A1BC63F635C", "target": "As formigas-leão estão mortas, espero? Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_020", "hash": "E94862B8B8BFCBF3", "target": "Obrigada, <split(<string(gstr1)>, ,1)>. Aqueles predadores eram especialmente astutos e sabiam que não deviam se mostrar aos nossos grupos de caça. Sss..." },
+    { "gameKey": "quest/030/BanAna405_03054#TEXT_BANANA405_03054_ESHANA_000_021", "hash": "DA9EB1C29CDCD142", "target": "Como eu suspeitava, porém, subestimaram a força de quem se aventura sem companhia. Talvez sejam necessárias mais incursões, mas acabarão temendo essa presa que sabe revidar! Sss..." }
   ]
 }

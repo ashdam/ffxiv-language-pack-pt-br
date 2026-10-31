@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsc010_00947",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_00", "hash": "239B113BD8E96E7F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_01", "hash": "31872BCCF1C08E01", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_02", "hash": "F2DFA845CB6F28AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_03", "hash": "DEDEA45FAEA6F70B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_00", "hash": "172C22E85570E824", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_01", "hash": "29CD5D41AED6A8BB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_000", "hash": "8814AF4ADA053D04", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_020", "hash": "FF508270E7A24DA3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_021", "hash": "37C7D666CFB57FDD", "target": "" },
-    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_022", "hash": "7D5B253352D2A8F5", "target": "" }
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_00", "hash": "239B113BD8E96E7F", "target": "Ourdilic parece feliz com sua presença e mal pode esperar para pôr você para trabalhar." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_01", "hash": "31872BCCF1C08E01", "target": "Embora sejam quase inofensivos, os hippocerfs podem irritar a ponto de causar estragos. Ourdilic pede que você mate os três que mais têm incomodado ultimamente." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_02", "hash": "F2DFA845CB6F28AE", "target": "Os hippocerfs não precisam mais se preocupar sem parar com cada coisinha. A morte pode ser um tônico para procrastinadores natos, uma conclusão que você pode compartilhar com Ourdilic junto com seu relato." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_SEQ_03", "hash": "DEDEA45FAEA6F70B", "target": "Você relata o abate dos hippocerfs, e uma Ourdilic visivelmente mais relaxada sugere que você veja a muralha de gelo, que bloqueia a antiga estrada entre o leste e o oeste de Coerthas. Os efeitos da Calamidade são profundos e, em Coerthas, gelados..." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_00", "hash": "172C22E85570E824", "target": "Matar hippocerfs" },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_TODO_01", "hash": "29CD5D41AED6A8BB", "target": "Relatar a Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_000", "hash": "8814AF4ADA053D04", "target": "Já se acomodou, <split(<string(gstr1)>, ,1)>? Podemos começar o trabalho? Excelente! Há um trio de hippocerfs que precisa ser abatido. Eles resolveram ficar no caminho, enrolando sem parar para escolher que pedaço de gelo lamber." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_020", "hash": "FF508270E7A24DA3", "target": "Mortos, esfolados e limpos, pelo visto! Quando tiver uma chance, devia ver a própria Snowcloak, a oeste." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_021", "hash": "37C7D666CFB57FDD", "target": "Havia uma estrada ali para o oeste de Coerthas, mas, depois da Calamidade... O frio chegou e, com ele, uma muralha de gelo grossa demais para atravessar." },
+    { "gameKey": "quest/009/GaiUsc010_00947#TEXT_GAIUSC010_00947_OURDILIC_000_022", "hash": "7D5B253352D2A8F5", "target": "Precisamos encontrar uma passagem pela muralha de gelo, e é por isso que estamos aqui. Separados do oeste, somos apenas metade do que éramos..." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/011/SubSea154_01145",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "" }
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "<if([gnum11<12],<if([gnum11<4],As primeiras estrelas mostram suas barrigas pálidas na profundeza do céu,Uma brisa fresca da manhã faz as flâmulas estalarem)>,<if([gnum11<17],Uma luz forte e clara ilumina o cais,As primeiras estrelas mostram suas barrigas pálidas na profundeza do céu)>)>, e o marinheiro Ahldfoet está com vontade de contar histórias." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "Ahldfoet tem um pedido um tanto macabro, embora você já tenha experiência em desmembramentos. Cace dusk bats e recolha cinco de suas asas." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "Você libertou as asas de dusk bats nada cooperativos. Entregue os troféus coriáceos a Ahldfoet." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "Com os talismãs guardados em seu bolso cavernoso, Ahldfoet finalmente solta a língua. Embora você queira muito ouvir o resto da história, está claro que, por ora, o narrador prefere deixar o assunto de lado." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "Recolher asas de dusk bats" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "Entregar as asas de morcego crepuscular a Ahldfoet" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "Olá, <if(gnum4,aventureira,aventureiro)>. Minha banheira zarpa em breve, e preciso de uma coisinha pra viagem. Os dusk bats estão voando... acha que tem agilidade pra me trazer cinco asas? Quatro não servem e seis não prestam, ouviu?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "Pode ficar com o que sobrar, desde que saiba o que fazer com isso. Vai me trazer as asas?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "Olá. Fale baixo, nosso negócio só interessa a nós, certo? Trouxe o que pedi?" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_011", "hash": "A4944E050B8FD092", "target": "São essas mesmo, e que belo trabalho! Sabe se virar numa batalha, hein? Muito bom, obrigado." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_012", "hash": "0EF38352E5704BF4", "target": "Por quê? Nós, marinheiros, podemos ser bem supersticiosos, sabe? Alguns tripulantes poderiam me olhar torto por carregar partes de morcego. Quando o vento morre e os barris de água secam, num dia você é <italic(1)>esquisito<italic(0)>, no outro está <italic(1)>no mar<italic(0)>." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_013", "hash": "35ADBA6B4C6293C7", "target": "O quê? Não tem superstição nenhuma <italic(1)>nisso<italic(0)>. O morcego crepuscular me dá sorte desde menino. Uma vez, sobrevivi mais de duas semanas com três morcegos que peguei, preso no alto de uma torre de vigia abandonada. Até comi a asa de um deles antes de me decidir a descer pela parede." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_014", "hash": "C49F3B7171BA6CD2", "target": "Nesta viagem, vamos passar por Isles of Umbra, e sinto que o mar está afiando aqueles recifes. As luzes do Pharos Sirius estão fracas desde a Calamidade, e sempre achei que ele se parece demais com aquela velha torre de vigia pro meu gosto." },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_015", "hash": "0B19F64E67390B1D", "target": "Faz muito tempo que não sou mais aquele menino apavorado, maltratado, faminto e quase louco, descendo devagar a parede de arenito com apoios menores que a ponta de um dedo. Mas vou levar minhas cinco asas de morcego em toda viagem, assim como aquele menino levava." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna402_02267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "" },
-    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "" }
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_00", "hash": "A35987C157CC1BBA", "target": "O Vath keeneye observa, abatido, um único ramo murcho de orvalho-prateado.<br>※A dificuldade desta missão será ajustada ao seu nível atual." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_01", "hash": "953CC13B96A2C20F", "target": "O Vath keeneye precisa de quatro ramos de orvalho-prateado para concluir sua encomenda para Convictory e pede que você os colha na Avalonia Fallen. Antes de você partir, ele pede atenção constante, contando que muitos Gnath foram vistos colhendo freneticamente a mesma planta.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você não poderá prosseguir com uma classe ou job diferente daquele com que aceitou esta missão." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_02", "hash": "8179B34772E0955A", "target": "Você encontrou e colheu os ramos de orvalho-prateado. Volte a Loth ast Vath e entregue-os ao Vath keeneye." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEQ_03", "hash": "54DC57CC0F4F0887", "target": "As ações dos Gnath sugerem que planejam um ataque preventivo contra os dragões. O Vath keeneye teme que isso provoque escassez de orvalho-prateado e deixe seu povo sem meios de sustento. Para evitar um possível desastre, ele decide que é hora de começarem a plantar seu próprio orvalho-prateado." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_00", "hash": "5313A2C253245432", "target": "Obter orvalho-prateado" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_TODO_01", "hash": "633403C111BBF535", "target": "Entregar o orvalho-prateado ao Vath keeneye" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_000", "hash": "D86CA23355D8F32B", "target": "Você chegou na hora certa, <if(gnum4,aventureira,aventureiro)>. \\<estalo> \\<estalo> Convictory acaba de nos mandar um pedido. Querem a remessa habitual de orvalho-prateado. Por favor, colha quatro ramos dessas plantas preciosas para nós." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_001", "hash": "76B85C444CB23321", "target": "Há muito orvalho-prateado na Avalonia Fallen. Mas tome cuidado. Ultimamente, a Mente Una anda em frenesi. Muitos foram vistos colhendo essas ervas. Não vão gostar de sua presença." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEA02267_100_005", "hash": "8FBCB11B64A94FB3", "target": "Ser de carne desprezível! \\<estalo> \\<estalo> Como ousa roubar nosso orvalho!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_GNATHDRONEB02267_100_006", "hash": "60F1E8BF11A15DDC", "target": "\\<estalo> \\<estalo> Vá embora agora, ser de carne, ou morra onde está!" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_010", "hash": "BF2E8078D2E493D8", "target": "Você finalmente voltou! \\<estalo> \\<estalo> Está com nosso orvalho-prateado?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_011", "hash": "0A49F6B8B02E4FE7", "target": "Ah, estão lindos! Já você parece bem mais <if(gnum4,desalinhada,desalinhado)> do que na última vez que conversamos. Cruzou com nossos irmãos da Mente Una?" },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_012", "hash": "F6DF1D53D6C3BC43", "target": "A obsessão deles por essa erva é muito preocupante, grande <if(gnum4,caçadora,caçador)>. Tememos que pretendam usá-la numa guerra contra os dragões. Se estivermos certos, nossos irmãos da Mente Una não vão parar até arrancar todo o orvalho-prateado da terra." },
+    { "gameKey": "quest/022/BanGna402_02267#TEXT_BANGNA402_02267_SEARCHER_000_013", "hash": "A8C3B1B162D1953C", "target": "Não podemos deixar isso acontecer. \\<estalo> \\<estalo> Se ele desaparecesse, nossa guilda viraria pó. As paredes de nosso santuário logo teriam o mesmo destino. Precisamos começar a cultivar o nosso para impedir que isso aconteça." }
   ]
 }

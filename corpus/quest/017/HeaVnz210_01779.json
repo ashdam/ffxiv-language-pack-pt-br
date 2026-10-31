@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz210_01779",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_00", "hash": "C2B9BA947FD1D6E4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_01", "hash": "A55CBD335F5659FA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_02", "hash": "2A914CD1148AC879", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_03", "hash": "0676F7C732767C48", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_00", "hash": "CAA6845CF04AD12F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_01", "hash": "6C15347EAC50D5DA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_000", "hash": "7545C6EF45789035", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_001", "hash": "2B07F77B58AF2DD1", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_002", "hash": "AD393A6FF12C2EA0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_010", "hash": "921875AFBDB27B9C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_020", "hash": "6F3E9072EC4A412A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_021", "hash": "228D4BFB16B67998", "target": "" },
-    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_022", "hash": "2530F33966DE052F", "target": "" }
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_00", "hash": "C2B9BA947FD1D6E4", "target": "A floresta está ameaçada, e Marcechamp precisa da sua ajuda para salvá-la." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_01", "hash": "A55CBD335F5659FA", "target": "Lesmas infestaram a floresta ao redor de Tailfeather, e Marcechamp pede sua ajuda para exterminá-las. Borrife a solução que ele lhe deu nas árvores ao sul da Chocobo Forest e elimine as lesmas que aparecerem." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_02", "hash": "2A914CD1148AC879", "target": "Você eliminou uma boa quantidade de lesmas, preservando assim a saúde da floresta. Volte a Marcechamp e conte sobre seu sucesso." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_SEQ_03", "hash": "0676F7C732767C48", "target": "Marcechamp agradece sua ajuda. Ele explica que uma floresta saudável significa chocobos felizes, que, por sua vez, significam caçadores felizes, uma relação benéfica para todos." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_00", "hash": "CAA6845CF04AD12F", "target": "Usar a solução nas árvores e eliminar lesmas" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_TODO_01", "hash": "6C15347EAC50D5DA", "target": "Relatar a Marcechamp" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_000", "hash": "7545C6EF45789035", "target": "Ah, <split(<string(gstr1)>, ,1)>, justamente <if(gnum4,a moça,o rapaz)> que eu procurava! As lesmas infestaram a mata ao redor, e preciso da sua ajuda para acabar com elas." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_001", "hash": "2B07F77B58AF2DD1", "target": "Já botei gente para cuidar disso, mas as pestes gosmentas se multiplicam mais rápido do que eles conseguem matar!" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_002", "hash": "AD393A6FF12C2EA0", "target": "Estamos precisando de gente no sul da Chocobo Forest. Vá para lá o mais rápido que puder e use esta solução aqui para atrair as lesmas. Acho que sabe o que fazer depois." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_010", "hash": "921875AFBDB27B9C", "target": "Corra para o sul da Chocobo Forest e borrife a solução nas árvores para atrair as lesmas. Você sabe o que fazer depois." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_020", "hash": "6F3E9072EC4A412A", "target": "Cuidou das lesmas? Agradeço a ajuda, <if(gnum4,amiga,amigo)>. Me dá até um arrepio pensar no que teria acontecido se tivessem saído do controle." },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_021", "hash": "228D4BFB16B67998", "target": "Se a floresta morrer, os chocobos vão parar de vir aqui. Nem preciso dizer que isso seria péssimo para nós. Protegendo a floresta, mantemos as aves felizes, e isso nos deixa felizes também. Uma relação benéfica para todos, não?" },
+    { "gameKey": "quest/017/HeaVnz210_01779#TEXT_HEAVNZ210_01779_MARCECHAMP_000_022", "hash": "2530F33966DE052F", "target": "O quê? Quer saber do que é feita a solução? Bom, o ingrediente principal é de chocobo─ Na verdade, deixa para lá. É melhor não saber de certas coisas! Buahaha!" }
   ]
 }

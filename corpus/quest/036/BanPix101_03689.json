@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix101_03689",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "" },
-    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "" }
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_SEQ_00", "hash": "573BE724EFFDFAC0", "target": "Uin Nee quer devolver ao Caminho da Lã sua antiga glória.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_00", "hash": "72D1BCDADD7D5C93", "target": "Coletar novelos de lã fofinha perto de Lydha Lran" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_TODO_01", "hash": "5317A40E6711B634", "target": "Entregar os novelos de lã fofinha a Uin Nee" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_001", "hash": "58FEE8ACF665F9CF", "target": "Ah, antes era tão fofo, fofinho, fofuchinho, e agora... <italic(1)>não é mais<italic(0)>! Aonde este mundo vai parar?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_002", "hash": "2310B8D6712CDC54", "target": "Estou falando do Caminho da Lã, é claro! Não estava <italic(1)>óbvio<italic(0)>? Tente acompanhar o raciocínio, criatura mortal. Enfim, o Caminho da Lã fica logo ao norte daqui. Era uma vez uma grande estrada por onde os mortais levavam novelos gigantes de lã fofinha para lá e para cá, para cá e para lá. Não parece uma maravilha?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_003", "hash": "4B6BE856915B1F00", "target": "Claro que parece! Por isso quero tecer o sonho de uma estrada tão macia e fofinha que você pensaria que foi feita com a lã de mil ovelhases! Ah, quer dizer... rebanhos... de ovelhases? Enfim, para isso vou precisar de um novelo bem grande. Na verdade, de <italic(1)>três<italic(0)> novelos bem grandes! Você vai fazer essa gentileza e buscar para mim, não vai?" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_020", "hash": "4EE8CE5E880C4FFF", "target": "E então? Não posso esperar para sempre pela minha lã, sabia? Tenho sonhos para tecer e lugares aonde ir!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_021", "hash": "A64B59F6CFE98199", "target": "Ora, veja só como este é grande e fofinho! E este é ainda mais! Você se superou, criatura mortal. Com isto, vou tecer o caminho mais lanoso com que meus sonhadores já sonharam!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_022", "hash": "A8F9FCB1712B2501", "target": "Dizem as lendas dos Nu Mou que, quando os mortais viviam por aqui, grandes carroças iam e vinham pelo Caminho da Lã, carregadas até a borda da lã mais fofinha, a caminho do mercado." },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_023", "hash": "3F380B0D59D6224E", "target": "Hoje, infelizmente, só resta o nome. \\<fungada> Não é a história mais triste que você já ouviu? Mas não importa, pois vamos tecer um <italic(1)>novo<italic(0)> Caminho da Lã nos sonhos das crianças, ainda mais glorioso do que antes!" },
+    { "gameKey": "quest/036/BanPix101_03689#TEXT_BANPIX101_03689_UINNEE_000_024", "hash": "D567A538283A976A", "target": "Ah, já consigo imaginar as crianças pulando num caminho de lã fofinha como uma nuvem gigante! Não gostaria de brincar também? Mas cuidado, vai ser tão maravilhoso que talvez você nunca mais queira acordar! Hihihi!" }
   ]
 }

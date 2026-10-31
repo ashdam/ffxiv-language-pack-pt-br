@@ -2,18 +2,18 @@
   "conversation": "quest/030/BanAna408_03057",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_SEQ_00", "hash": "A16A42FB4CC9BF4D", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_01", "hash": "36865FB76CC0F0B1", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_000", "hash": "F6BE74BBD38A676C", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_001", "hash": "8823493BA09867DF", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_002", "hash": "93E3B09CCBD491A4", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_005", "hash": "3EB4959928A1DD0A", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_006", "hash": "953F98A891286FBA", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_007", "hash": "20B8F27682E833F0", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_008", "hash": "7829726D87497EFE", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_010", "hash": "F7C901E383541027", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_011", "hash": "728B96F2B62EE339", "target": "" },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_012", "hash": "0A0E467DF2F63C50", "target": "" }
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_SEQ_00", "hash": "A16A42FB4CC9BF4D", "target": "Eshana parece mais assustada do que de costume.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "Examinar os locais indicados, subjugar impure bhoots e purificá-los com água salgada consagrada" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_01", "hash": "36865FB76CC0F0B1", "target": "Falar com Eshana" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_000", "hash": "F6BE74BBD38A676C", "target": "<split(<string(gstr1)>, ,1)>, você não podia ter chegado em melhor hora! Precisamos de alguém com coragem, que encare firme até um horror sem rosto! Sss..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_001", "hash": "8823493BA09867DF", "target": "Recebemos relatos de bhoots, <split(<string(gstr1)>, ,1)>. Minhas irmãs de Vira Nilya nos encarregaram de exorcizar esses espectros esfarrapados. Sss..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_002", "hash": "93E3B09CCBD491A4", "target": "Aqui. Vá até Striped Hills. Subjugue os bhoots que encontrar e depois encharque-os com esta água salgada consagrada. Não economize. Sss..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_005", "hash": "3EB4959928A1DD0A", "target": "...Queimaaa!" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_006", "hash": "953F98A891286FBA", "target": "Aaargh!" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_007", "hash": "20B8F27682E833F0", "target": "\\<gemido> Não..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_BALOON_000_008", "hash": "7829726D87497EFE", "target": "\\<lamento> Chega..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_010", "hash": "F7C901E383541027", "target": "...Eles se foram? Você não... tocou neles, tocou? Sss..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_011", "hash": "728B96F2B62EE339", "target": "Diz uma lenda Ananta que basta roçar nos trapos de um bhoot para receber uma maldição. Seu cabelo derrete, suas escamas apodrecem e seus olhos ficam brancos como leite... Sss..." },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_012", "hash": "0A0E467DF2F63C50", "target": "Para nós, que prezamos a beleza acima de tudo, só de pensar nesses fantasmas pestilentos já dá náusea. Agradeço muito por cumprir essa tarefa repugnante por nós. Sss..." }
   ]
 }

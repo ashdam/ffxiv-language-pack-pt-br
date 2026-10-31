@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq022_03801",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_00", "hash": "B8EC698CA22BFC8B", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_01", "hash": "7EAF78B088129D33", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_02", "hash": "28C9617B88F6AC24", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_TODO_00", "hash": "B3F308DDE3129059", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_001", "hash": "104DD1DE284E3A4B", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_002", "hash": "A00D0D5EBB647B71", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SYSTEM_000_003", "hash": "B6F57BA61FB425EE", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SYSTEM_000_004", "hash": "1DD42B69B26E91FF", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_Q1_000_000", "hash": "AFD731E389E9A5E3", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_100_005", "hash": "8B119120C824EEA1", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_QITARLNATL_000_006", "hash": "F31551F5E56E28D2", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_007", "hash": "672CEC136A94FFC0", "target": "" },
-    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_008", "hash": "D32DF0987B2F2B48", "target": "" }
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_00", "hash": "B8EC698CA22BFC8B", "target": "Chaqurl Qhotl quer convencer você dos méritos de sua teoria sobre a proteção dos Qitari pelos ronkanos.<br>※A dificuldade desta missão será ajustada ao seu nível atual." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_01", "hash": "7EAF78B088129D33", "target": "Você decide confiar no argumento de Chaqurl Qhotl e expressa apoio à teoria dele sobre a benevolência dos ronkanos, um voto de confiança que muito alegra a criança Qitari. Admitindo a contragosto que seu filho pode ter razão, Qitarl Natl concorda em ajudar na restauração da primeira estela.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SEQ_02", "hash": "28C9617B88F6AC24", "target": "Sob seu olhar atento, os artesãos Qitari restauram a primeira estela ao que Chaqurl Qhotl acredita ser a melhor representação de sua antiga glória. Encorajados e animados por recuperar uma parte vital de seu legado, os Guardiões agora prosseguem nas escavações com novo entusiasmo. Continue ajudando em seus esforços, se desejar." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_TODO_00", "hash": "B3F308DDE3129059", "target": "Falar com Chaqurl Qhotl" },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_001", "hash": "104DD1DE284E3A4B", "target": "Meu pai pode ter seus motivos para pensar como pensa, mas eu prefiro acreditar em uma versão mais feliz da história." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_002", "hash": "A00D0D5EBB647B71", "target": "Sim, tenho certeza de que o imperador ronkano era um homem bondoso que protegeu nossos ancestrais de feras temíveis e lhes concedeu uma posição de honra em sua sociedade. Você não concorda?" },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SYSTEM_000_003", "hash": "B6F57BA61FB425EE", "target": "Se decidir apoiar a teoria de Chaqurl Qhotl, a primeira estela será restaurada para refletir a interpretação dele sobre a história. Se prosseguir, você não poderá ver a estela como Qitarl Natl a imagina." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_SYSTEM_000_004", "hash": "1DD42B69B26E91FF", "target": "As recompensas recebidas e o conteúdo das próximas missões serão os mesmos, independentemente da sua escolha. Você pode escolher livremente a versão da história que achar mais convincente." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_Q1_000_000", "hash": "AFD731E389E9A5E3", "target": "Você vai apoiar a teoria de Chaqurl Qhotl sobre a história de Ronka?" },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_100_005", "hash": "8B119120C824EEA1", "target": "Ah, obrigado! Fico muito feliz em saber que você também vê o copo meio cheio, como eu!" },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_QITARLNATL_000_006", "hash": "F31551F5E56E28D2", "target": "Não consigo deixar de achar que meu menino é otimista demais para seu próprio bem, e ainda assim... Se você prefere acreditar na teoria dele, <if(gnum4,minha boa senhora,meu bom senhor)>, não há motivo para que eu não faça o mesmo." },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_007", "hash": "672CEC136A94FFC0", "target": "Finalmente posso contemplar a história do meu povo em toda a sua glória! Mas nosso trabalho está longe de terminar. Por favor, continue nos ajudando!" },
+    { "gameKey": "quest/038/BanQiq022_03801#TEXT_BANQIQ022_03801_CHAQURLQHOTL_000_008", "hash": "D32DF0987B2F2B48", "target": "Meu pai e eu vamos chamar nossos melhores artesãos. O trabalho precisa começar agora mesmo!" }
   ]
 }

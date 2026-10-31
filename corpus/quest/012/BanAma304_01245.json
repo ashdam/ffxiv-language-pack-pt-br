@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanAma304_01245",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "" },
-    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "" }
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_00", "hash": "ADBB559D592A5E39", "target": "Yadovv Gah deseja apresentar um verdadeiro desafio à sua habilidade marcial." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_01", "hash": "D7B53B824820B247", "target": "Yadovv Gah encarregou você de matar o comandante de uma notória unidade de elite dos Presas de Fogo. Participe do FATE “Quenching the Flame” em Zahar'ak e apresente a prova de seu feito a Yadovv Gah." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_SEQ_02", "hash": "02CBBA6A4B872BD9", "target": "Você apresentou o Flamefang choker a Yadovv Gah. O guerreiro da Irmandade exulta com sua grandiosa vitória e se deleita ao pensar na queda do moral inimigo." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_TODO_00", "hash": "ABAD40185D5C32E6", "target": "Entregar a Yadovv Gah o Flamefang choker obtido no FATE “Quenching the Flame”" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_000", "hash": "EB4F6E03AAA42A87", "target": "Tenho um desafio para você hoje: entre as fileiras frágeis dos Presas de Fogo, há uma unidade de soldados de força inigualável." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_001", "hash": "10C6C5E4EC68832A", "target": "Mesmo entre seus aliados, esses veteranos sádicos inspiram mais terror do que respeito. Como soldados, talvez sejam os únicos adversários capazes de enfrentar a Irmandade das Cinzas em pé de igualdade." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_002", "hash": "A9D9884DDD8F5268", "target": "Nobre companheir<if(gnum4,a,o)>, quero que enfrente esses soldados de elite... e seu comandante. Se conseguir tomar dele seu estimado Flamefang choker, a glória de seu feito não terá limites." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_100_003", "hash": "844A2AC89C445D45", "target": "Os gritos incrédulos do inimigo soarão como o mais doce canto de pássaros, se você conseguir. Essa será uma verdadeira prova de sua habilidade marcial." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_005", "hash": "A3285F84A83DCB68", "target": "Mate o comandante desses soldados de elite e me traga o adorno que ele tanto estima. Uma vitória tão grandiosa tirará a vontade de lutar de nossos inimigos tão certamente quanto uma lâmina nas entranhas." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_010", "hash": "A0233972E49F436E", "target": "E então, nobre companheir<if(gnum4,a,o)>? Venceu meu desafio? O comandante da elite dos Presas de Fogo está morto?" },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_011", "hash": "FAF24DBFE18A7AB4", "target": "Sim! Este é seu precioso colar! As presas do adorno precisam ser arrancadas da carne, portanto a certeza de seu feito é indiscutível." },
+    { "gameKey": "quest/012/BanAma304_01245#TEXT_BANAMA304_01245_YADOVVGAH_000_012", "hash": "BF603395EEC1E32A", "target": "Você triunfou onde até os mais hábeis da Irmandade poderiam ter falhado. Me curvo diante de sua destreza, <if(gnum4,poderosa guerreira,poderoso guerreiro)>!" }
   ]
 }

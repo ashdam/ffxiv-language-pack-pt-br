@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz308_01800",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_00", "hash": "F9C53DFF6CAA6C80", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "" },
-    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "" }
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_00", "hash": "F9C53DFF6CAA6C80", "target": "O ronco do estômago de Toh Y Thrah parece estar ficando mais alto." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_01", "hash": "DD64730A1C33E146", "target": "Satisfeito seu apetite por carne, Toh Y Thrah agora pede que você lhe traga ovos de gallimimus. Procure os ninhos de gallimimus em Sohm Al Foothills e obtenha ovos para a próxima refeição dele." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_02", "hash": "78FC87792D1410E0", "target": "Você furta os ovos dos ninhos de gallimimus. Entregue-os a Toh Y Thrah para silenciar o ronco de seu estômago." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_SEQ_03", "hash": "310BCB442B4454E5", "target": "Você entrega os ovos de gallimimus a Toh Y Thrah. Ele fica radiante de alegria conforme os ovos descem até o fundo de sua barriga. Satisfeito com a refeição, ele parece decidido a roubar ovos por conta própria no futuro." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_00", "hash": "CC09EC912720A4AC", "target": "Obter ovos de gallimimus em Sohm Al Foothills" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TODO_01", "hash": "BADFFF293E5BF239", "target": "Entregar os ovos de gallimimus a Toh Y Thrah" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_000", "hash": "4D551E54BF72E924", "target": "Ainda estou com fome, mas não de carne. Não, quero ovos! Nada é mais delicioso do que engolir ovos inteiros, sentindo as cascas lisas deslizarem pela garganta." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_001", "hash": "D17646B968827254", "target": "Traga cinco ovos dos gallimimuses de Sohm Al Foothills para mim. Eles botam muitos ovos, não vão sentir falta dos poucos que quero." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_010", "hash": "14FF6AE5BEEF9FB9", "target": "Os gallimimuses de Sohm Al Foothills botam os melhores ovos. Cinco vão dar uma boa refeição." },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_020", "hash": "4D539CDA43E29D98", "target": "Você voltou, mas trouxe os ovos?" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_021", "hash": "F5251252AF35AE39", "target": "Sim, sim! Muito bem. Não é tão fácil saciar minha fome... \\<engole>" },
+    { "gameKey": "quest/018/HeaVnz308_01800#TEXT_HEAVNZ308_01800_TOHYTHRAH_000_022", "hash": "1F1533924EC7FCBA", "target": "Hummm... Tão lisos, tão satisfatórios! Preciso encontrar um jeito de furtá-los por conta própria." }
   ]
 }

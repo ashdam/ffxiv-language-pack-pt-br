@@ -2,16 +2,16 @@
   "conversation": "quest/017/HeaVnz211_01780",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "" },
-    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "" }
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_00", "hash": "0F4366650A9FABDD", "target": "Os novos habitantes do Whilom River são demais para este caçador suportar." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_01", "hash": "501A12E58A2825ED", "target": "Um bando de ursos corpulentos se instalou rio acima no Whilom River. Um caçador aflito pediu que você os espantasse para que ele pudesse voltar a caçar. Elimine quatro ursos para que os outros fujam em busca de outro lugar para beber água." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_02", "hash": "987B43548B3BC9BD", "target": "Quatro ursos agora jazem no fundo do Whilom River. Volte ao caçador e conte sobre a matança." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_SEQ_03", "hash": "74B981A19B22E383", "target": "O caçador parece aliviado, mas diz que precisa esperar por suprimentos e por uma mudança no tempo antes de retomar o trabalho. Esperemos que nenhum outro urso resolva voltar nesse meio-tempo." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_00", "hash": "4102BEA09A1F577E", "target": "Eliminar brown bears" },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_TODO_01", "hash": "68A880649A0000A4", "target": "Relatar ao caçador" },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_010", "hash": "023F0E3176995451", "target": "Já foi rio acima no Whilom River? Era um ótimo lugar para caçar... quer dizer, até os ursos chegarem." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_011", "hash": "99A61B5BC1C10D6D", "target": "A gente se escondia na bacia da cachoeira e ficava à espreita até um chocobo aparecer para beber. Era uma moleza... Mas os ursos estão dificultando as coisas." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_012", "hash": "F3C289421EBBBAE6", "target": "Alguém precisa botar eles para correr para a gente voltar a caçar, e você parece dar conta! Mande quatro para o fundo da bacia, que eu recompenso o esforço." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_020", "hash": "F1B61F9DEB337137", "target": "Não conseguimos pegar uma ave sequer desde que os ursos se instalaram rio acima. Derrube quatro deles, que eu garanto uma recompensa." },
+    { "gameKey": "quest/017/HeaVnz211_01780#TEXT_HEAVNZ211_01780_HUNTER01780_000_030", "hash": "10C746F748181B5D", "target": "Aposto que aqueles ursos se arrependeram de atrapalhar nossa caçada! Agora só falta repor os suprimentos e esperar esquentar um pouco para a gente voltar rio acima." }
   ]
 }

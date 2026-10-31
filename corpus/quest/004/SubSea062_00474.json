@@ -2,16 +2,16 @@
   "conversation": "quest/004/SubSea062_00474",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_00", "hash": "7FCD586B4F162CD9", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_01", "hash": "8ACD2AEDF51A7E31", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_02", "hash": "8D4089332499696A", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_TODO_00", "hash": "998FC768FCB1EFF2", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_1", "hash": "84207429F4F7C0D1", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_2", "hash": "3AECE9153F1D7264", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_3", "hash": "7D526E9AE1E12E08", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_11", "hash": "4DCDE7F34F8E3120", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_12", "hash": "A8ECE6DBA9F7B21D", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_13", "hash": "31FEDB78D4F0CAB0", "target": "" },
-    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_14", "hash": "05DA37999E3B06E1", "target": "" }
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_00", "hash": "7FCD586B4F162CD9", "target": "As hi-potions estão em falta no Descanso do Lavrador, e Khanmhar espera remediar a situação." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_01", "hash": "8ACD2AEDF51A7E31", "target": "Os piratas aposentados andam inquietos, e as brigas frequentes esgotaram as reservas de remédios da fazenda. Wydaloef, no Descanso do Lavrador, ficaria grato por uma hi-potion para repor seu estoque, que diminui depressa." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_SEQ_02", "hash": "8D4089332499696A", "target": "Você pode tirar o pirata do mar revolto, mas não pode tirar o mar revolto do pirata. Só resta esperar que os bucaneiros um dia encontrem paz em terra firme." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_TODO_00", "hash": "998FC768FCB1EFF2", "target": "Entregar uma hi-potion a Wydaloef no Descanso do Lavrador" },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_1", "hash": "84207429F4F7C0D1", "target": "Se vai ao Descanso do Lavrador, tenho um favor pra pedir." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_2", "hash": "3AECE9153F1D7264", "target": "Os piratas estão longe do mar há tempo demais, e seus corações partidos buscam consolo no derramamento de sangue. Um estoque completo de remédios mal dura uma semana." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_KHANMHAR_000_3", "hash": "7D526E9AE1E12E08", "target": "Se puder comprar uma hi-potion e levar a Wydaloef, talvez salve algumas vidas." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_11", "hash": "4DCDE7F34F8E3120", "target": "Fiquei sem nenhuma poção. Qualquer pobre sofredor que bater à minha porta pode muito bem estar batendo à de Thal. Só posso oferecer uma prece." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_12", "hash": "A8ECE6DBA9F7B21D", "target": "Se eu fosse temente aos deuses, diria que você caiu do céu. Quando baixar a poeira da próxima briga de piratas, algum pobre-diabo vai dever sua vida miserável a você." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_13", "hash": "31FEDB78D4F0CAB0", "target": "Tenho pena desses pobres peixes fora d'água. No começo, achei que as brigas eram só pra matar o tempo, mas agora acho que alguns querem mesmo morrer." },
+    { "gameKey": "quest/004/SubSea062_00474#TEXT_SUBSEA062_00474_WYDALOEF_000_14", "hash": "05DA37999E3B06E1", "target": "Não há nada a fazer quanto a isso. Não podemos obrigá-los a querer viver. Só podemos esperar que aprendam a amar a terra." }
   ]
 }

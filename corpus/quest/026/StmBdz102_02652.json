@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz102_02652",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "" },
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "" }
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "O wounded Resistance fighter está com muita coisa na cabeça." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "Entregar a bandana manchada de sangue à mãe do combatente da Resistência em Ala Gannha" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "Queria pedir uma coisa a você, <if(gnum4,moça,rapaz)>." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "Entrei para a Resistência contra a vontade da minha mãe. Ela me espera na minha cidade natal." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_002", "hash": "827768C30E7F80E2", "target": "Tive sorte de sobreviver à última batalha e não quero mais dar o amor dela por garantido." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_003", "hash": "C1CD2CD5785500C8", "target": "Por favor, leve esta bandana à minha mãe em Ala Gannha por mim." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_004", "hash": "45A15D008CA7676E", "target": "E diga a ela que eu disse “Obrigado”. Quero que ela saiba que entendo por que não queria que eu entrasse na luta contra o Império." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_005", "hash": "A894895EA01461BF", "target": "Por favor, leve esta bandana à minha mãe em Ala Gannha por mim. E diga a ela que sou grato." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_010", "hash": "537C2231A26C7F1F", "target": "Nós nos conhecemos?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_011", "hash": "6F66B1BBD8D591B1", "target": "M-Mas isto é do meu filho! Aconteceu alguma coisa com ele!?" },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_012", "hash": "AAD9C9153D6C84E1", "target": "Graças aos céus. Ele ainda está a salvo. Tentei convencê-lo a não entrar para a Resistência, mas ele não quis me ouvir. Tivemos uma briga feia e ele acabou saindo escondido no meio da noite." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_013", "hash": "169FA1AC246D8D85", "target": "É um alívio saber que ele não guarda rancor de mim. Mas, se devolveu esta bandana, deve estar decidido a continuar lutando." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SURVIVINGFAMILY02652_000_014", "hash": "5564AC77EFA259FA", "target": "Se a determinação dele é tão forte assim, dificilmente vou conseguir convencê-lo a voltar para casa. Vou continuar rezando para que ele volte são e salvo." }
   ]
 }

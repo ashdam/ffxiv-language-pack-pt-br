@@ -2,17 +2,17 @@
   "conversation": "quest/037/BanPix123_03711",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_SEQ_00", "hash": "52CDEADCE87518EE", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_00", "hash": "74FB078A0C968A5B", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_01", "hash": "F439D28FBA8F8127", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_001", "hash": "4655D7FB9C918C4D", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_002", "hash": "4976E2F3AF5664BE", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_003", "hash": "6B504BDA1E016E89", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_004", "hash": "FF208057BB7E6C03", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_005", "hash": "5D18DE5A011D1EFA", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_BALLOON_000_010", "hash": "9ADF6EEB825B9766", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_020", "hash": "43E7E8376122E0BA", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_021", "hash": "9BC823364E98BDED", "target": "" },
-    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_022", "hash": "694CC061875BBA82", "target": "" }
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_SEQ_00", "hash": "52CDEADCE87518EE", "target": "Uin Nee tem uma preocupação surpreendentemente atenciosa.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_00", "hash": "74FB078A0C968A5B", "target": "Procurar micélio de cogumelo gigante nas Câmaras do Pai Collard" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_TODO_01", "hash": "F439D28FBA8F8127", "target": "Entregar o micélio de cogumelo gigante a Uin Nee" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_001", "hash": "4655D7FB9C918C4D", "target": "Diga, <if(gnum4,minha mortal favorita,meu mortal favorito)>, você já teve um esconderijo? As crianças mortais parecem adorar isso, então pensei: por que não experimentar? Fiquei num tronco por cinco dias e cinco noites, e ninguém me encontrou. Foi <italic(1)>incrível<italic(0)>! Aí me entediei e voltei." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_002", "hash": "4976E2F3AF5664BE", "target": "Enfim, enquanto estava lá, lembrei que as crianças de Rak'tika Greatwood geralmente não podem sair das aldeias. Isso significa que não podem fazer esconderijos! Quer dizer, podem se esconder <italic(1)>na<italic(0)> aldeia, claro, mas alguém vai encontrar." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_003", "hash": "6B504BDA1E016E89", "target": "E não vale se outras pessoas conseguem encontrar, certo? Certo!? Se qualquer adulto pode esbarrar nele, não é esconderijo. É só <italic(1)>triste<italic(0)>." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_004", "hash": "FF208057BB7E6C03", "target": "Decidi na hora que criaria num sonho o esconderijo perfeito para aqueles pobrezinhos. E que material seria melhor do que um daqueles cogumelos gigantes onde os Nu Mou vivem? Nenhum! Não existe nada melhor. Era uma pergunta retórica." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_005", "hash": "5D18DE5A011D1EFA", "target": "Infelizmente, as Câmaras do Pai Collard estão infestadas de fora da lei, o que torna impossível colher micélio de cogumelo. Se ninguém fizer nada, meu plano brilhante nunca vai se concretizar e... Acho que já dá para entender aonde quero chegar. Faça isso pelas crianças!" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_BALLOON_000_010", "hash": "9ADF6EEB825B9766", "target": "Alto! Quem ousa pôr as mãos nos nossos fungos?" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_020", "hash": "43E7E8376122E0BA", "target": "Ah, aí está você! Sabe, depois que saiu, percebi que não expliquei como diferenciar um micélio de outro. Espero que tenha descoberto!" },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_021", "hash": "9BC823364E98BDED", "target": "Ah, muito bem! Como você tem talento. Podemos fazer este crescer bem alto, colocá-lo num sonho e... pronto! O melhor esconderijo de todos. Nem precisamos pôr numa caverna velha e úmida! Imagine as possibilidades..." },
+    { "gameKey": "quest/037/BanPix123_03711#TEXT_BANPIX123_03711_UINNEE_000_022", "hash": "694CC061875BBA82", "target": "Espere, não preciso imaginar! Posso criá-las. Haha, fantástico!" }
   ]
 }

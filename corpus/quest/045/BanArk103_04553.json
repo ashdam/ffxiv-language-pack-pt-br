@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk103_04553",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_SEQ_00", "hash": "3969D744CA96B497", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_001", "hash": "7602E6F4811024C6", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_002", "hash": "D6B48ED6A19A5637", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_003", "hash": "37BDD7840EE38DEC", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_004", "hash": "C96E43ED3659207E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_POPMESSAGE_000_010", "hash": "75142553E2260A2E", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_020", "hash": "7ADCAAE05F6E2F4F", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_021", "hash": "25CC92CE8631E0EA", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_022", "hash": "B31C69E64EC2A8B0", "target": "" },
-    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_023", "hash": "6BDD409AB441F564", "target": "" }
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_SEQ_00", "hash": "3969D744CA96B497", "target": "Maru olha tristemente para uma caixa vazia.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_00", "hash": "57C8E9D5771B2E5E", "target": "Observar os arredores do local indicado e derrotar os manjusaka que aparecerem" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_TODO_01", "hash": "23B2A44383EEF07A", "target": "Entregar o feixe de cipós grossos de manjusaka a Maru" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_001", "hash": "7602E6F4811024C6", "target": "Olha, <split(<string(gstr1)>, ,1)>, uma parte importante de pilotar é estar pronto pra sair a qualquer momento. E isso significa fazer a manutenção da carroça regularmente." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_002", "hash": "D6B48ED6A19A5637", "target": "Algumas peças de reposição estão acabando, e conseguir mais... Digamos que é trabalho pra quem sabe lutar. Como você!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_003", "hash": "37BDD7840EE38DEC", "target": "Se puder passar pelo velho Incubatório de Hamsas e buscar uns cipós de manjusaka, vou agradecer muito." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_004", "hash": "C96E43ED3659207E", "target": "Vai ter que derrubar os pequenos pra chegar ao mais retorcido, mas os cipós que queremos são os dele. Um bom punhado já serve!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_POPMESSAGE_000_010", "hash": "75142553E2260A2E", "target": "Um gnarled manjusaka se desenrola diante de você!" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_020", "hash": "7ADCAAE05F6E2F4F", "target": "Trouxe os cipós?" },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_021", "hash": "25CC92CE8631E0EA", "target": "Perfeitos! Nossos hipopótamos agradecem sua bondade. E eu também." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_022", "hash": "B31C69E64EC2A8B0", "target": "Esses cipós ficam entre a canga e a pele dos nossos preciosos hipopótamos. E acredite: você não vai querer ver um hipopótamo cheio de bolhas." },
+    { "gameKey": "quest/045/BanArk103_04553#TEXT_BANARK103_04553_MARU_000_023", "hash": "6BDD409AB441F564", "target": "Sempre deixamos cipós frescos na reserva, mas eles acabam mais rápido do que parece. Espero que não se importe de buscar mais quando chegar a hora..." }
   ]
 }

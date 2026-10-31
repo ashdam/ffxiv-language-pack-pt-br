@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc610_01010",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_020", "hash": "03B29735E6F6AC36", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "" }
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_00", "hash": "C5595C9CB6E9EBBC", "target": "As caçadas de Isarmoix não têm rendido muito ultimamente." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_01", "hash": "45D5B4E3FAFF6AD4", "target": "Você concordou em obter carne para o azarado caçador Isarmoix. Mate cinco wild hogs e volte com as fatias mais suculentas de carne de javali que conseguir." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_02", "hash": "4480A4A7E83ADD82", "target": "Sua caçada foi bem-sucedida. Entregue as fatias de carne a Isarmoix." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_SEQ_03", "hash": "1E70769292D1CF90", "target": "Graças aos seus esforços, a esposa e os filhos de Isarmoix vão se banquetear com os melhores cortes de carne esta noite. Isarmoix pode não ser o caçador mais habilidoso, mas sua dedicação à família é inegável." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_00", "hash": "0CAC579482AA655D", "target": "Matar wild hogs e obter sua carne" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_TODO_01", "hash": "2AD26C4B70EAD137", "target": "Entregar carne de javali a Isarmoix" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_000", "hash": "EC41E6BEB8A6F24B", "target": "Mais um dia de caça e só carne de antílope para mostrar. Pessoalmente, não me importo, por mais fibrosa e cheia de cartilagem que seja, mas, só uma vez, eu gostaria de oferecer um verdadeiro banquete à minha querida esposa e aos meus filhos." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_001", "hash": "6D7277BFD5080A52", "target": "Os wild hogs daqui parecem ter uma boa carne, mas temo que as presas deles despedacem um humilde caçador como eu. Você poderia fazer a gentileza de abater cinco no meu lugar?" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_020", "hash": "03B29735E6F6AC36", "target": "Como vai a caçada, <if(gnum4,aventureira,aventureiro)>?" },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_021", "hash": "7759CEC68208DE2B", "target": "Veja só estas fatias suculentas de carne de javali! Minha boca fica cheia d'água só de olhar! Uma fatia para minha esposa, quatro para meus filhos... Sim, vai dar muito bem." },
+    { "gameKey": "quest/010/GaiUsc610_01010#TEXT_GAIUSC610_01010_ISARMOIX_000_022", "hash": "7061431A17D38141", "target": "E a minha fatia, você pergunta? Ah, carne de antílope está boa para mim. Talvez um dia, quando eu tiver habilidade para abater um javali sozinho, me permita esse prazer..." }
   ]
 }

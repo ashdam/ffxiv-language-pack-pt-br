@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz726_01930",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "" },
-    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_00", "hash": "2A2D0D48BF265F16", "target": "O Vath fleetfoot olha para você com expectativa." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_01", "hash": "32DDF96AAC25BE7B", "target": "O Vath fleetfoot se preocupa com a notícia de um ataque iminente dos Gnath a Loth ast Vath. Os Vath não estão preparados para enfrentar uma ofensiva direta e total da colônia Gnath, muito maior. Sua única opção é um ataque preventivo, enfraquecendo o inimigo antes que ele termine de mobilizar suas forças." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_02", "hash": "06902E5A14712AD4", "target": "Você mata os Gnath conforme solicitado, na esperança de frustrar seus planos de atacar os Vath. Volte ao Vath fleetfoot para informar que concluiu sua missão." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_SEQ_03", "hash": "30C24712F15DE29E", "target": "O fleetfoot parabeniza você pelo sucesso da missão. Ele explica como soube do ataque planejado: embora os Vath dos Sem-Mente não consigam ouvir os pensamentos da Mente Una dos Gnath, a conexão mental não foi totalmente rompida, apenas muito enfraquecida. Alguns Vath conseguem, de tempos em tempos, perceber os pensamentos da Mente Una. Parece que os Gnath desconhecem essa conexão residual e as informações que ela proporciona aos Vath." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_00", "hash": "7518B5DB0FB08338", "target": "Matar Gnath" },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_TODO_01", "hash": "BFE7A32CB17D34C4", "target": "Falar com o Vath fleetfoot" },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_000", "hash": "1A3D5264C560A7D2", "target": "Trazemos notícias terríveis. Fomos informados de que os Gnath planejam lançar um ataque devastador contra Loth ast Vath. Eles estão mobilizando suas forças." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_001", "hash": "17A9B7DA6778542E", "target": "Não podemos resistir a um ataque direto. <if(gnum4,Caçadora generosa,Caçador generoso)>, precisamos pedir que você realize um ataque preventivo contra os Gnath. Por favor, mate quatro deles. Enfraqueça suas forças e impeça o ataque antes que possa começar." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_010", "hash": "7442FCD6CCC0C5D8", "target": "<if(gnum4,Caçadora generosa,Caçador generoso)>. Por favor, mate quatro Gnath. Não conseguiríamos sobreviver a um ataque direto da colônia Gnath." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_020", "hash": "3F35E4CFFC1C5862", "target": "Tudo correu tão bem quanto esperávamos. Seu ataque preventivo os colocou na defensiva. Agradecemos." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_021", "hash": "560467FF7F18DD01", "target": "Todos os Gnath ouvem os pensamentos uns dos outros, enquanto nós que vivemos aqui, os Vath, não. Mas isso não significa que <italic(1)>nunca<italic(0)> ouvimos os pensamentos dos outros. O vínculo com a Mente Una não foi totalmente rompido." },
+    { "gameKey": "quest/019/HeaVnz726_01930#TEXT_HEAVNZ726_01930_IDATEN_000_022", "hash": "AF83F2EF2C25E8FD", "target": "Alguns de nós conseguem, às vezes, perceber os pensamentos da Mente Una. Suspeitamos que eles não saibam que ocasionalmente temos acesso a seus planos." }
   ]
 }

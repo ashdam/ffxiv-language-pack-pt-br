@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz636_01904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "" },
-    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "" }
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_00", "hash": "66276FAC757C4F3A", "target": "Gildon está atolado em problemas." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_01", "hash": "5C9D0153A310B427", "target": "Gildon está preocupado com os dhalmels que têm se aproximado do acampamento nos últimos dias. Além disso, segundo ele, estão se reproduzindo num ritmo alarmante. Ele pede que você abata quatro para reduzir a população a um número mais controlável." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_02", "hash": "116F97586AD1A3EE", "target": "Você abate os dhalmels. Volte a Camp Cloudtop e informe Gildon." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_SEQ_03", "hash": "021381065C0CBED5", "target": "Gildon fica aliviado com seu relato. Ele suspeita que os dhalmels se aproximaram de Camp Cloudtop por curiosidade. Embora não queiram fazer mal, também não percebem o dano que causam a Gildon e seus companheiros. Apesar de lamentar a situação, ele decidiu abatê-los quando ficarem numerosos demais." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_00", "hash": "B91C840B4491E067", "target": "Abater dhalmels" },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_TODO_01", "hash": "F9BAA5F37C0BFFC7", "target": "Informar Gildon" },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_000", "hash": "F9AE1867F12B12DE", "target": "Bom ver você, <split(<string(gstr1)>, ,1)>. Imagino que não seja surpresa, mas ainda há mais trabalho a fazer." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_001", "hash": "E83DC61DB5837716", "target": "Os dhalmels que habitam Ok' Gundu têm se aproximado perigosamente do posto. Como continuam aumentando em número, começaram a atrapalhar nosso trabalho na área. Você ajudaria muito o acampamento se abatesse quatro deles para reduzir a população." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_010", "hash": "E084B67694A231A1", "target": "Você encontra os dhalmels pastando nos campos a nordeste daqui, embora não seja uma caminhada curta. Abater quatro deve bastar para reduzir a população." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_020", "hash": "7C97F20A0F9FB214", "target": "Que bom que voltou, <if(gnum4,amiga,amigo)>! Imagino que tenha cuidado dos dhalmels, então? Só espero que agora nossos homens consigam patrulhar a área com mais tranquilidade." },
+    { "gameKey": "quest/019/HeaVnz636_01904#TEXT_HEAVNZ636_01904_GILDON_000_021", "hash": "6245DE20A7E02D98", "target": "Eles só começaram a se aproximar do posto recentemente, sem dúvida por curiosidade. Os dhalmels são dóceis por natureza, mas é muito fácil animais tão grandes ferirem nossos homens sem querer. Lamento ter que abatê-los, mas fazemos o necessário pelo bem do acampamento." }
   ]
 }

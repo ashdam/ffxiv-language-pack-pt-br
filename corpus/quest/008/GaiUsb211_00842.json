@@ -2,15 +2,15 @@
   "conversation": "quest/008/GaiUsb211_00842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "" }
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_00", "hash": "0BDE8662FBAED33A", "target": "Byrglaent, o mestre vinicultor de Wineport, está com dificuldade para conseguir cortiça de boa qualidade." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_01", "hash": "143300B7836B33BB", "target": "Byrglaent está à beira de um ataque de fúria por causa da qualidade da cortiça que recebeu. Sem aceitar nada que não seja de primeira, ele pede que você mate cinco cork bulbs." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_02", "hash": "C5663A2AD7E116BC", "target": "Você matou cinco cork bulbs e arrancou cortiça de qualidade de seus corpos sem vida. Entregue o material a Byrglaent em Wineport." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_SEQ_03", "hash": "B9395A0C45DBAFE3", "target": "O mestre vinicultor exalta as virtudes da cortiça de alta qualidade que você conseguiu. Porém, ele não consegue deixar de lamentar a falta de habilidade de seus funcionários para coletar o material por conta própria." },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_00", "hash": "DCEFB2E9CA495B2F", "target": "Coletar cortiça impecável de cork bulbs" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_TODO_01", "hash": "EA24EBEA3121F0E8", "target": "Dar a cortiça a Byrglaent" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_000", "hash": "C5B34A7A9E606E2B", "target": "Você chama isso de cortiça? Bah! Essa coisa mole e lamentável não serve nem para beijar meu traseiro, quanto mais para os meus finos brancos e tintos. Eu diria para tentar de novo, mas agora não confiaria a você nem a <italic(1)>pior<italic(0)> das safras. Para mim, você morreu!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_001", "hash": "A4BCEFC60DCA37F7", "target": "<italic(1)>Você<italic(0)>! <if(gnum4,Aventureira,Aventureiro)>! Cansei de tentar conseguir qualidade com o meu pessoal. Mostre a esse imbecil como se faz e me traga os materiais que encontrar nos cork bulbs. Cinco deles devem bastar. O tempo voa, e vinho sem rolha azeda! Vá, vá!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_020", "hash": "C41D6F66F8DE4E90", "target": "Onde está a cortiça que pedi? Se acha que ficar à toa vai render uma taça de alguma coisa, está muito <if(gnum4,enganada,enganado)>. <italic(1)>E<italic(0)> talvez já tenha morrido para mim!" },
+    { "gameKey": "quest/008/GaiUsb211_00842#TEXT_GAIUSB211_00842_BYRGLAENT_000_021", "hash": "3F733910DC47496B", "target": "Agora, <italic(1)>isto<italic(0)> parece uma boa cortiça. Hmm, a flexibilidade na medida certa... Deixa passar um pouco de ar, mas não a umidade. Quem me dera ter barris cheios disso. Se ao menos o <italic(1)>meu<italic(0)> pessoal fosse tão eficiente para encontrá-la..." }
   ]
 }

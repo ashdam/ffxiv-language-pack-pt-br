@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKzj016_03579",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SEQ_00", "hash": "BF9C729DE9AA7AEA", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_TODO_00", "hash": "6190AD81AAB0A3E0", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_TODO_01", "hash": "3BA517C8AD13619B", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_000", "hash": "772AB0B726F5C03D", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_001", "hash": "09A8512CD91B83AD", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_002", "hash": "D388F2E36BC4F141", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_003", "hash": "6AB7FB939BCBE8A9", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_005", "hash": "ED9426830978CD7F", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SYETEM_000_005", "hash": "BBB473A7A6AED423", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_010", "hash": "2CD7AE8FE855313E", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_011", "hash": "9887D8C5B30B05FE", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_012", "hash": "05A78BD73E3F3AE9", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_013", "hash": "8984761016553A0C", "target": "" },
-    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_014", "hash": "DAC34E7A0E8750B1", "target": "" }
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SEQ_00", "hash": "BF9C729DE9AA7AEA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Sorashs Koal contempla desconsolado os nichos lá no alto." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_TODO_00", "hash": "6190AD81AAB0A3E0", "target": "Procurar uma grande criatura marinha e abatê-la para obter seus ossos" },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_TODO_01", "hash": "3BA517C8AD13619B", "target": "Entregar os ossos da criatura marinha a Sorashs Koal" },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_000", "hash": "772AB0B726F5C03D", "target": "Está vendo a entrada lá no alto? É obra dos antigosss, assim como muitas construções espalhadas lá fora, das quais nós, Ondo, passamos a fazer uso." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_001", "hash": "09A8512CD91B83AD", "target": "Infelizmente, sem as águas correntes, não consigo chegar à minha casa com a mesma facilidade de antes. Se ao menos tivesse algum instrumento ou ferramenta que ajudasse a subir e descer..." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_002", "hash": "D388F2E36BC4F141", "target": "Os ossos de uma grande criatura marinha poderiam servir. Essas criaturas não costumam ficar num só lugar e são difíceis de rastrear, mas já foram vistas perto de Cups em algumas ocasiões." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_003", "hash": "6AB7FB939BCBE8A9", "target": "Como sou um koal, não tenho chance de derrotar essas criaturas, mas a falta de água não atrapalha você. Há uma fossa a noroeste de onde elas às vezes saem. Você poderia abater uma desssas feras para obter seus ossos?" },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_005", "hash": "ED9426830978CD7F", "target": "Eu não pediria que você caçasse essas feras em meu lugar se tivesse forças para fazer isso sozinho. Infelizmente, sou koal e não tenho..." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SYETEM_000_005", "hash": "BBB473A7A6AED423", "target": "Você procura grandes feras como as descritas por Sorashs Koal, mas não vê nada..." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_010", "hash": "2CD7AE8FE855313E", "target": "Ah, sem-nadadeiras! Conseguiu encontrar uma das feras que descrevi?" },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_011", "hash": "9887D8C5B30B05FE", "target": "Agradeço muito, muito mesmo! Com estes ossos, posso fazer uma escada para voltar à minha casa." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_012", "hash": "05A78BD73E3F3AE9", "target": "Ela fica depois daquela entrada, assim como as casas de muitos outros koal. Lá descansamos em camas das algas mais macias." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_013", "hash": "8984761016553A0C", "target": "Os nichos mais altos são para nós, jovens que ainda não recebemos ovos. Só os ooan considerados dignos dessa honra podem viver nos níveis inferiores. As maiores profundezas são reservadas à rainha-mãe e às outras fêmeas Ondo, assim como aos anciãos mais essstimados de nosso povo." },
+    { "gameKey": "quest/035/LucKzj016_03579#TEXT_LUCKZJ016_03579_SORASHSKOAL_000_014", "hash": "DAC34E7A0E8750B1", "target": "É claro que nós, koal, tivemos muita dificuldade para nos adaptar a este mundo sem água. Embora fosse bem melhor que ela voltasse, com esta nova escada podemos ao menos ir e voltar de nossas camas com muito mais facilidade." }
   ]
 }

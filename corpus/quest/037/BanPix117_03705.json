@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix117_03705",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "" },
-    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "" }
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_SEQ_00", "hash": "72C2BE9FBD3AF4E2", "target": "O novo plano de Uin Nee parece ainda mais suspeito que de costume.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_00", "hash": "3EE3EFE2737A97F9", "target": "Verificar a armadilha para peixes no local indicado" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_TODO_01", "hash": "23585E28A8762118", "target": "Entregar a armadilha cheia de peixes a Uin Nee" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_001", "hash": "6BCEF5BC476F358D", "target": "Tyr Beq me contou que a terra chamada “Amh Araeng” não tem nada a ver com Il Mheg. É um lugar seco e quente, onde quase nada cresce. Sem flores, sem rios, sem lagos!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_002", "hash": "EA6CEEC1D17EC64F", "target": "Algumas crianças de lá nunca nem <italic(1)>viram<italic(0)> um peixe! Imagine só! E, sim, acho que a gente já sabe aonde isso vai dar..." },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_003", "hash": "5C09846EA4BDD536", "target": "Isso mesmo! Quero que você me traga um peixe para mostrar às crianças no Jardim dos Sonhos. Um bem bonito, com escamas brilhantes!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_004", "hash": "843D37057F2EE999", "target": "Talvez você se surpreenda com tamanha organização, mas já mandei um dos meus ajudantes preparar uma armadilha nas Águas do Bosque Profundo. Muito mais fácil do que mexer com anzóis e essas coisas. Você só precisa ir ver se pegamos algo!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_020", "hash": "C6D206083C3D1882", "target": "E então? O que você trouxe para mim?" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_021", "hash": "79820A65EFF6FA40", "target": "Ah, sim. São... trutas cintilantes arco-íris. É assim que vamos chamá-las. Tenho grandes planos para vocês, pequeninas! Nada de nadar naquela água sem graça como os outros peixes. Vocês vão voar pelos céus de Lyhe Mheg!" },
+    { "gameKey": "quest/037/BanPix117_03705#TEXT_BANPIX117_03705_UINNEE_000_022", "hash": "024F4201E9C603C5", "target": "E, se pegarmos mais, podem voar todas juntas e formar um arco-íris gigante de peixes! Ha ha! Não é à toa que todo mundo me acha um gênio!" }
   ]
 }

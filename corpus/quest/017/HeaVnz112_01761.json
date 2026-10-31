@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz112_01761",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "" },
-    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "" }
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_00", "hash": "2A14D339A120B7BE", "target": "Jantellot acha que você pode tentar caçar dragões." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_01", "hash": "90A196C4F48423CB", "target": "Diante da facilidade com que você eliminou os rheums que ele pediu antes, Jantellot propõe uma caçada a dragões de verdade desta vez. Archaeornis fazem parte da vanguarda da Horda Dravaniana, e vários deles rondam a neve ao norte do acampamento, perto do Lago da Ruína. Jantellot pede que você encontre e abata três dessas feras de escamas e penas." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_02", "hash": "D3BB4BCC866497DB", "target": "Com relativa facilidade, você encontra e abate três archaeornis. Volte ao Convictory e diga a Jantellot que não fugiu do desafio." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_SEQ_03", "hash": "68CBC1C99A404F2D", "target": "Impressionado com a eficiência de sua caçada, Jantellot explica que você seria mais que <if(gnum4,bem-vinda,bem-vindo)> entre os Convictors, se quisesse se juntar a eles. O grupo sempre precisa de mais homens e mulheres de valor." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_00", "hash": "D917E8122BCF5955", "target": "Abater archaeornis" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_TODO_01", "hash": "481F0DA8E23376C5", "target": "Apresentar-se a Jantellot" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_000", "hash": "893C9D9FF4A3A3C0", "target": "Aqueles rheums que você abateu da última vez podem ter sido presas fáceis, mas garanto que os dragões não são. Até Convictors veteranos podem ter dificuldades com eles." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_001", "hash": "C293F8D94359D5C3", "target": "Se quiser tentar, sugiro começar com uns archaeornis. São grandes monstros escamosos cobertos de penas e fazem parte da vanguarda da Horda." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_002", "hash": "12596B96EAB5C30D", "target": "Você encontrará as feras vagando ao norte, perto do Lago da Ruína. Encontre três archaeornis e mate-os sem piedade. Considere uma prova de habilidade, se quiser." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_010", "hash": "68F96072C259F495", "target": "Vá na direção do Lago da Ruína e abata três archaeornis. Se for demais para você, não há vergonha em admitir. Não quero mandar uma pessoa de valor para a morte." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_030", "hash": "192033DF7A31FE22", "target": "O que achou daqueles archaeornis? Podem não ser inteligentes, mas certamente dão uma boa luta, não acha?" },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_031", "hash": "05752464F654EAE7", "target": "He, você faz parecer fácil! Mas nem todos tivemos a oportunidade de lutar ao lado do Cavaleiro Dragão Azul e ver de perto a melhor forma de abater essas feras poderosas." },
+    { "gameKey": "quest/017/HeaVnz112_01761#TEXT_HEAVNZ112_01761_JANTELLOT_000_032", "hash": "86ADD79B154BB3C7", "target": "Muitos ishgardeses acham que nós, nobres do Convictory, estamos aqui por vaidade e capricho. Mal compreendem os riscos que corremos para defender Ishgard da Horda. Mas sinto que talvez você entenda... Se algum dia decidir se juntar aos Convictors, é só dizer!" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob102_01326",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_00", "hash": "42390E8E8582DCEC", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_01", "hash": "4E0327058682C7FD", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_02", "hash": "FEF13ADECC8C8EAB", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_03", "hash": "635C69DC5BCCB165", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_00", "hash": "A394786C189211D3", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_01", "hash": "C54802FFD6B60A3E", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_000", "hash": "EE32C3D83AA62E04", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_001", "hash": "3B590C8D97CC1336", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_002", "hash": "6AF91A2432791FD7", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_003", "hash": "2F6D9FEFF8F64FA2", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_004", "hash": "0E3DD1B339C47085", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_010", "hash": "76BB67DEB3642B8D", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_011", "hash": "8A7F4F661053E2F3", "target": "" },
-    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_012", "hash": "D40250C6BB9AB3C1", "target": "" }
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_00", "hash": "42390E8E8582DCEC", "target": "789th Order Dustman Bo Zu quer seu jantar, mas que vá para os infernos se tiver de trabalhar por ele." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_01", "hash": "4E0327058682C7FD", "target": "Bo Zu, avesso ao trabalho, soube das refeições generosas que Zo Ga distribui aos Kobold industriosos que conquistaram seu favor e concluiu que a 789ª é igualmente merecedora de deleites gastronômicos, apesar da sua clara falta de produtividade. Vá ao Iron Lake e se aproprie de três marmitas fartas para que Bo Zu e seus amigos possam se banquetear como seus colegas trabalhadores por um dia." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_02", "hash": "FEF13ADECC8C8EAB", "target": "Você conseguiu obter três marmitas bem quentes. Entregue o banquete na 789th Order Dig, na esperança de saciar o estômago do salivante Bo Zu." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_SEQ_03", "hash": "635C69DC5BCCB165", "target": "Bo Zu se deleita com os frutos do seu sucesso, mas qualquer esperança de que tenha aprendido uma lição sobre o valor do trabalho árduo logo se desfaz quando ele expressa, sem vergonha alguma, sua vontade de voltar a abusar de sua boa vontade da mesma forma. Só resta esperar que o estômago do Kobold ocioso permaneça saciado por um bom tempo." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_00", "hash": "A394786C189211D3", "target": "Obter marmitas fartas no Iron Lake" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_TODO_01", "hash": "C54802FFD6B60A3E", "target": "Entregar marmitas fartas a 789th Order Dustman Bo Zu" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_000", "hash": "EE32C3D83AA62E04", "target": "A injustiça, a iniquidade, a desigualdade, a injustiça de tudo isso!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_001", "hash": "3B590C8D97CC1336", "target": "Enquanto a 789ª passa fome, penúria, privação, fome, Zo Ga e seus comparsas se banqueteiam! Se banqueteiam com marmitas cheias, sim, tão cheias de coisas gostosas que uma só alimentaria nossa escavação inteira por uma semana." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_002", "hash": "6AF91A2432791FD7", "target": "Zo Ga e seus comparsas trabalhadores devem ficar com todas as recompensas? Não, não, cem vezes não! Sim, nossas barriguinhas estão roncando, resmungando, murmurando, roncando, tanto quanto as deles!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_003", "hash": "2F6D9FEFF8F64FA2", "target": "Ora, estou com vontade, com a ideia, com a intenção, com vontade, de ir até o Iron Lake e roubar uma ou três para mim. Mas andar dá trabalho. Sim, sim, e suas pernas são tão mais <if([gnum71==3],fortes,compridas)> que as minhas..." },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_004", "hash": "0E3DD1B339C47085", "target": "Você vai até o Iron Lake trazer três das deliciosas marmitas de Zo Ga, sim? Estou fora de mim, babando de expectativa, salivando, gotejando, babando de expectativa!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_010", "hash": "76BB67DEB3642B8D", "target": "Estou sentindo o cheiro que acho que estou? Sim, sim, acho que sim!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_011", "hash": "8A7F4F661053E2F3", "target": "Pernas de sapo de lava recém-arrancadas? Minhocas que ainda se contorcem e se remexem? Isto é mais que uma refeição, é um festim, um banquete, uma mesa farta, um festim para os sentidos!" },
+    { "gameKey": "quest/013/BanKob102_01326#TEXT_BANKOB102_01326_BOZU_000_012", "hash": "D40250C6BB9AB3C1", "target": "Provar as delícias dos seus colegas inspira Bo Zu a trabalhar mais? Não, não, nunca! Por que inspiraria, se tenho amizades de pernas <if([gnum71==3],fortes,compridas)> como você?" }
   ]
 }

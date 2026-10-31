@@ -2,18 +2,18 @@
   "conversation": "quest/011/JobRel006_01141",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_00", "hash": "59FCCF90A1A73AC4", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_01", "hash": "09EF43E3A4036AEF", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_02", "hash": "33DA7327F9A77343", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_03", "hash": "1823E679CFEB4C34", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_00", "hash": "3B42155EF492D048", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_01", "hash": "BA6B02E3FC00C96C", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_000", "hash": "5DD0F9EE6454B7CB", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_001", "hash": "7FC62BAEBE638295", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_010", "hash": "B0813A6F34031796", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_050", "hash": "F11CF33AD1E0DC95", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_055", "hash": "B39CF3456AB4C195", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_056", "hash": "91893D61742FB8B8", "target": "" },
-    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_057", "hash": "42104ED4B04C3958", "target": "" }
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_00", "hash": "59FCCF90A1A73AC4", "target": "Brangwine quer confirmar seu interesse em um de seus mysterious maps." },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_01", "hash": "09EF43E3A4036AEF", "target": "Brangwine está disposta a dar a você um mysterious map em troca do que basicamente equivale a roubar os mortos. Embora seja impossível não suspeitar das intenções dela, você precisa fazer o que ela pede se quiser reinar na sua cozinha. Os pertences dos seus colegas mortos provavelmente estarão onde rondam as criaturas mais mortais destas terras.<br><br>※O item-chave pode ser obtido ao concluir uma masmorra via Duty Roulette: High-level Dungeons." },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_02", "hash": "33DA7327F9A77343", "target": "Você conseguiu um saco com os pertences de algum aventureiro desafortunado. Volte ao Pedágio do Espectro e entregue-o a Brangwine." },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_SEQ_03", "hash": "1823E679CFEB4C34", "target": "Você entrega o saco de pertences de aventureiro a Brangwine e recebe um mysterious map pelo trabalho. Agora você também pode reinar na sua cozinha... se isso for mesmo o que seu coração deseja.<br><br>※Esta missão pode ser realizada uma vez por dia. Após sua conclusão, ela ficará disponível novamente no dia seguinte às <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (horário da Terra)." },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_00", "hash": "3B42155EF492D048", "target": "Obter um saco de pertences de aventureiro ao concluir uma masmorra via Duty Roulette: High-level Dungeons" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_TODO_01", "hash": "BA6B02E3FC00C96C", "target": "Entregar o saco de pertences de aventureiro a Brangwine" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_000", "hash": "5DD0F9EE6454B7CB", "target": "Então minha pequena proposta interessa a você? Maravilha! Mal posso esperar para vasculhar os pertences dos seus colegas mortos!" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_001", "hash": "7FC62BAEBE638295", "target": "Como mencionei antes, é provável que apareçam onde rondam as criaturas mais mortais. Prometo que seu mysterious map estará esperando quando voltar. Então você também poderá se deleitar numa cozinha impecável!" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_010", "hash": "B0813A6F34031796", "target": "Os pertences de aventureiros mortos costumam aparecer onde rondam as criaturas mais mortais. Prometo que seu mysterious map estará esperando quando voltar. Então você também poderá desfrutar de uma cozinha impecável!" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_050", "hash": "F11CF33AD1E0DC95", "target": "Ah, você voltou, jovem. E com boas notícias, espero?" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_055", "hash": "B39CF3456AB4C195", "target": "...Ora, esta é uma bela coleta! E você encontrou tudo neste saco, é? Que consideração dos nossos queridos falecidos, não é mesmo? De qualquer forma, com o conteúdo, devo conseguir─" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_056", "hash": "91893D61742FB8B8", "target": "Ai, meu bem, quase deixei meu segredinho escapar! Basta dizer que estou satisfeita com nossa troca!" },
+    { "gameKey": "quest/011/JobRel006_01141#TEXT_JOBREL006_01141_BRANGWINE_000_057", "hash": "42104ED4B04C3958", "target": "Obrigada, jovem. Você é mesmo alguém com quem se pode contar. Quem me dera ter <if(gnum4,uma filha,um filho)> como você no lugar do meu caso perdido. Se precisar de mais mysterious maps, já sabe o que me trazer." }
   ]
 }

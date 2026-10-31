@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa310_00742",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "" }
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "Auphiliot ficaria muito grato se você caçasse alguns intrusos garleanos no lugar dele." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "Alguns dos garleanos responsáveis pelo desaparecimento do ancião dos Sylph continuam na área. Investigue os locais indicados e derrote quaisquer garleanos que encontrar." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "Os invasores garleanos já eram. Informe seu sucesso a Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "Graças aos seus esforços, os garleanos foram expulsos e um pouco de paz voltou à Mata dos Doze. Pelo menos por enquanto." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "Investigar os locais indicados e derrotar garleanos" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "Apresentar-se a Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "Voltou, <if(gnum4,moça,rapaz)>, e algo me diz que não foi por uma caneca da cerveja de Buscarron. Melhor assim. Acabei de ouvir que viram uns garleanos desgarrados na Mata dos Doze, e você sabe que eles não devem estar tramando nada de bom." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "Eu? Ora, nada me daria mais prazer do que estripar aqueles filhos da puta imperiais eu mesmo, mas temo que eu tenha... <italic(1)>hic<italic(0)>!... outros... deveres... a cumprir hoje. Contamos com você, <if(gnum4,moça,rapaz)>!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "Cuidou daqueles cães garleanos com a mesma rapidez e certeza com que cuidei da minha caneca de... er, dos meus <italic(1)>deveres<italic(0)>, foi? Em nome do velho Buscarron e dos meus companheiros aqui em Druthers, você tem... <italic(1)>burp<italic(0)>!... minha gratidão e muito mais." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "Com você e eu cuidando de tudo, <if(gnum4,moça,rapaz)>, eu digo: nenhuma caneca de hidromel nem encrenqueiro garleano aqui dentro ou por perto está... <italic(1)>hic<italic(0)>... a salvo!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "Você sente uma presença hostil!" }
   ]
 }
