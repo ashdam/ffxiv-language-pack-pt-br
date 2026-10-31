@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz208_02680",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_SEQ_00", "hash": "34C96F9BF62E4536", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_000", "hash": "1F4A47E1498D84B5", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_001", "hash": "E04B955B02D8D4A0", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_002", "hash": "F66C5F0015B90541", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_003", "hash": "B74B88EB5C74B3CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_010", "hash": "0B577EC5816C95CB", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_011", "hash": "6F832C86FA9571B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_012", "hash": "6779DCDC586AA6A4", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_013", "hash": "6758723EAEAF0DAA", "target": "" },
-    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_014", "hash": "C2BB9143F949D676", "target": "" }
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_SEQ_00", "hash": "34C96F9BF62E4536", "target": "Kaizan procura <if(gnum4,uma mulher,um homem)> de muita fibra." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_00", "hash": "3BB2EE14D7C3A809", "target": "Usar sacos grandes de juta para capturar sea serpents enfraquecidas" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_TODO_01", "hash": "FBD8790EB78AA026", "target": "Entregar as serpentes marinhas enfraquecidas a Kaizan" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_000", "hash": "1F4A47E1498D84B5", "target": "Ha! Você parece ser <if(gnum4,uma mulher,um homem)> de muita força e coragem! Que tal me fazer um favor?" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_001", "hash": "E04B955B02D8D4A0", "target": "Há sea serpents a oeste de Shoal Rock. Preciso que enfraqueça três delas e as traga para mim nestes sacos." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_002", "hash": "F66C5F0015B90541", "target": "Você é <if(gnum4,uma mulher corajosa,um homem corajoso)>, muito mais que os covardes sem fibra que vivem nesta ilha. E pensar que se dizem piratas, quando basta um pouco de veneno de serpente para assustá-los. Ha! Que bando de imprestáveis!" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_003", "hash": "B74B88EB5C74B3CB", "target": "Há algumas sea serpents a oeste de Shoal Rock. Preciso que enfraqueça três, coloque nos sacos de juta que dei a você e me entregue." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_010", "hash": "0B577EC5816C95CB", "target": "Trouxe as minhas serpentes marinhas?" },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_011", "hash": "6F832C86FA9571B8", "target": "Ora, estou impressionado! Você conseguiu mesmo capturar três! Foi o que pedi, mas essas criaturas são tão ferozes que achei que só conseguiria trazer uma." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_012", "hash": "6779DCDC586AA6A4", "target": "Também fico feliz de ver que tomou cuidado para não matá-las. Bife de serpente marinha é incrivelmente saboroso, mas só quando preparado com carne fresca." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_013", "hash": "6758723EAEAF0DAA", "target": "Mas, antes de pôr esses bichos na grelha, preciso extrair o veneno deles. Nós o misturamos às bebidas dos traidores da Confederação." },
+    { "gameKey": "quest/026/StmBdz208_02680#TEXT_STMBDZ208_02680_KAIZAN_000_014", "hash": "C2BB9143F949D676", "target": "Nove em cada dez morrem, mas os sortudos que sobrevivem, como eu, recebem uma chance de se redimir." }
   ]
 }

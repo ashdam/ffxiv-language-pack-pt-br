@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb705_00900",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "" }
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_00", "hash": "6E09F92543D2C7D9", "target": "Sor Corentiaux deseja conversar com você sobre as últimas dificuldades na Cabeça de Dragão." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_01", "hash": "6D7327FC367A45D8", "target": "Uma patrulha de cavaleiros, recém-vitoriosa na frente de batalha, foi desviada do caminho por will-o'-the-wykes na nevasca. Dos que voltaram, muitos sofreram queimaduras graves pelo frio. Só há uma coisa a fazer: quatro wykes precisam morrer por suas mãos capazes." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_02", "hash": "B16679AD94393B35", "target": "Os wykes estão mortos. <if(gnum4,A humilde aventureira consegue,O humilde aventureiro consegue)> o que as Grandes Casas não conseguiram, embora seja melhor guardar essa ideia para si se gosta de ter uma língua. Volte a Sor Corentiaux e dê a boa notícia." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_SEQ_03", "hash": "16A8B0BA35047063", "target": "Seu relato da morte dos wykes foi recebido com grande alegria. Ao acrescentar a recompensa à sua bolsa cada vez mais cheia, você se pergunta por que um homem tão perspicaz quanto Sor Corentiaux não vê o que qualquer um criado nas estradas percebe: a própria terra se tornou hostil e está sitiando as hostes de Ishgard." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_00", "hash": "7F4FC9306909CB64", "target": "Matar will-o'-the-wykes" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_TODO_01", "hash": "977658F5DF3AED80", "target": "Apresentar-se a Corentiaux" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_000", "hash": "C0F8A48647C73371", "target": "Uma palavra, se me permite. Tem disposição para aceitar outra encomenda? Não pediria se você não parecesse <if(gnum4,descansada e revigorada,descansado e revigorado)>." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_001", "hash": "3F553EBD206AA0A3", "target": "Talvez já tenha ouvido rumores, mas uma patrulha se perdeu na nevasca e foi parar na Barriga do Ogro. Nem é preciso dizer que nem todos voltaram vivos, e os cirurgiões têm amputado todo tipo de parte dos que voltaram." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_002", "hash": "D72E45A0976196F4", "target": "Eles confundiram will-o'-the-wykes com as luzes do acampamento e foram atraídos para a caverna. Já temos perigos suficientes ao redor sem que esses demônios zombeteiros se divirtam assim." },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_003", "hash": "618D06B1722CF2D3", "target": "Não podemos ter homens duvidando dos próprios olhos, com medo de confiar nas luzes que veem ao longe. Você vai até a Barriga do Ogro matar aqueles wykes?" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_020", "hash": "F4B64004ED4D92F5", "target": "Já voltou, e com pleno sucesso? Aposto que aqueles wykes nem souberam o que os atingiu! Por Halone, é bom ver alguma coisa dar certo!" },
+    { "gameKey": "quest/009/GaiUsb705_00900#TEXT_GAIUSB705_00900_CORENTIAUX_000_021", "hash": "D173160EE24F8C34", "target": "Ah, perdoe meu desabafo. Foi uma semana difícil... uma lua... algum período mais longo. Como um cerco, embora não haja nenhum... e ninguém consegue viver num estado constante de tensão e infelicidade. O sucesso que você me traz significa muito." }
   ]
 }

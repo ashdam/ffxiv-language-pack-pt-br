@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz417_01835",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_00", "hash": "9F07C462D67731B3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_01", "hash": "811CEC4067DEF08D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_02", "hash": "34EC9BB9F813760A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_03", "hash": "FC15D2E6687C38F7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_00", "hash": "F5CB44BA40268833", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_01", "hash": "5BD2A57A970097EA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_001", "hash": "DF5D02F03F1CA90A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_020", "hash": "8939093284A0D516", "target": "" }
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_00", "hash": "9F07C462D67731B3", "target": "A moogle na torre de vigia segura a barriga que ronca." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_01", "hash": "811CEC4067DEF08D", "target": "Está quase na hora da troca de turno, e a substituta desta pobre moogle não aparece. Mate quatro tulihands para garantir um caminho seguro e evitar que a moogle na torre de vigia morra de fome." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_02", "hash": "34EC9BB9F813760A", "target": "Você matou os tulihands, e agora a substituta deve conseguir se apresentar ao serviço em segurança. Leve a boa notícia à moogle faminta." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_SEQ_03", "hash": "FC15D2E6687C38F7", "target": "A moogle de serviço corre para casa depois de ouvir seu relato, ansiosa para pôr as mãos em algumas nozes kupo." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_00", "hash": "F5CB44BA40268833", "target": "Matar tulihands" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_TODO_01", "hash": "5BD2A57A970097EA", "target": "Apresentar um relatório à moogle de vigia" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_000", "hash": "2C29E89A21E9FE99", "target": "Por que será que ela está demorando tanto, kupo? Minha substituta já devia estar aqui, mas não a vejo em lugar nenhum. Estou com tanta fome... Aposto que foi para casa por causa daqueles tulihands encrenqueiros voando por aí." },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_001", "hash": "DF5D02F03F1CA90A", "target": "Se você matar quatro deles, deve garantir um caminho seguro e deixar minha substituta sem desculpa. Por favor, meu estômago implora, kupo!" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_010", "hash": "B4812D246684162F", "target": "Não aguento mais, preciso de umas nozes kupo... <if(gnum4,Aventureira,Aventureiro)>, por favor, mate os tulihands para mim!" },
+    { "gameKey": "quest/018/HeaVnz417_01835#TEXT_HEAVNZ417_01835_MONITORINGMOG01835_000_020", "hash": "8939093284A0D516", "target": "Muito obrigada! Agora que os tulihands saíram do caminho, é só questão de tempo até minha substituta chegar! Estou prestes a desmaiar de fome, então acho que vou na frente. O que poderia dar errado, kupo?" }
   ]
 }

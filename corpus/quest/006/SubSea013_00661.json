@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea013_00661",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "" },
-    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "" }
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_00", "hash": "14D4580B8112CC58", "target": "H'naanza tem uma tarefa simples, mas lucrativa, para quem se interessar." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_01", "hash": "F557C06977056AF6", "target": "Baderon oferece uma recompensa a qualquer aventureiro disposto a eliminar wharf rats. Saia pelo Portão da Tempestade e mate cinco dessas pragas." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_02", "hash": "4A5AA6F658B6CF1D", "target": "Você massacra sem piedade cinco dos ratos infestados de doenças. Apresente-se a Baderon em Drowning Wench e receba sua recompensa." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_SEQ_03", "hash": "0E318177FC753FFE", "target": "Um benfeitor anônimo ofereceu a recompensa, alegando que a correria constante dos ratos o estava enlouquecendo. Mas, apesar de seus esforços, Baderon suspeita que o sujeito estranho será para sempre atormentado pelas criaturas peludas." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_00", "hash": "968A04B197B4376C", "target": "Matar wharf rats" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_TODO_01", "hash": "54AA349481FAD8C4", "target": "Apresentar-se a Baderon" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_0", "hash": "FC35FCBEC19EF971", "target": "Hmmm? Precisa de alguma tarefa insignificante para passar o tempo? Então tenho o serviço certo para você." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_1", "hash": "644C76935641BF11", "target": "Baderon está oferecendo uma recompensa a qualquer aventureiro que mate pelo menos cinco wharf rats." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_HNAANZA_000_2", "hash": "832BED5AE47BA0AA", "target": "Não faltam dessas pragas à espreita fora do Portão da Tempestade, então é melhor correr e aproveitar a oportunidade." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_10", "hash": "815A22FAC3DC144C", "target": "Ah, então matou uns ratos! Muito bem, <if(gnum4,moça,rapaz)>!" },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_11", "hash": "EC89C21CCF264A5F", "target": "Outro dia passou um sujeito aqui e largou no balcão um saco enorme do tamanho de um maldito Goobbue, dizendo que quem matasse ratos podia tirar alguma coisa de dentro." },
+    { "gameKey": "quest/006/SubSea013_00661#TEXT_SUBSEA013_00661_BADERON_000_12", "hash": "AE86A9BCE57715E6", "target": "Quando perguntei por quê, ele só disse que o maldito <italic(1)>barulho<italic(0)> que fazem correndo por aí estava deixando ele louco. Mas, para mim, já era meio biruta. Algo me diz que o pobre coitado nunca vai ter paz." }
   ]
 }

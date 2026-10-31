@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb407_00863",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_00", "hash": "49A8D15954953ECB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_01", "hash": "61FDA56A21007D12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_02", "hash": "186FA6D976608CCB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_03", "hash": "FB88A889A533B1D9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_00", "hash": "4D77E4C35CB4B6B7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_01", "hash": "BCBD7124B030B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_000", "hash": "E3B95247D4434A64", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_001", "hash": "49B2B6B2A8F94AB5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_002", "hash": "DBDFCEBC3E9E6632", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_003", "hash": "8E73DE8B08B09275", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_020", "hash": "3297651F04F337FA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_021", "hash": "FA322589219DE537", "target": "" },
-    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_022", "hash": "F144E02EE89B98C9", "target": "" }
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_00", "hash": "49A8D15954953ECB", "target": "A Sargento Swygrael é uma mulher de muitos talentos, como você descobriu num dia memorável. <if([gnum11<12],<if([gnum11<4],Nesta bela noite,Nesta bela manhã)>,<if([gnum11<17],Neste belo dia,Nesta bela noite)>)>, ela está tentando dominar mais um." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_01", "hash": "61FDA56A21007D12", "target": "A Sargento Swygrael decidiu que a melhor forma de combater os Kobold e suas monstruosidades de argila é treinar um exército de coeurls. A impetuosa oficial pede sua ajuda com o plano, trazendo um desses grandes felinos. Aventure-se pelos arredores de Floating City of Nym, enfraqueça um young coeurl e capture-o usando um saco grande." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_02", "hash": "186FA6D976608CCB", "target": "Você tem um saco grande com um coeurl dentro, o que não é o habitat mais seguro nem mais confortável para essa criatura majestosa. Entregue-o a Swygrael." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_03", "hash": "FB88A889A533B1D9", "target": "Você entrega a fera capturada à sargento, que parece não ter pensado muito bem na ideia. Pelo amor dos Doze, não diga a ela que sua mãe tinha razão a seu respeito." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_00", "hash": "4D77E4C35CB4B6B7", "target": "Enfraquecer um young coeurl e capturá-lo com um saco" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_01", "hash": "BCBD7124B030B0C5", "target": "Dar o coeurl ensacado a Swygrael" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_000", "hash": "E3B95247D4434A64", "target": "Antes de eu ir pro mar, minha mãe me disse: “Menina, você é forte como um cavalo, rápida como uma cobra e valente como a Companhia dos Heróis inteirinha, mas sua irmã é a inteligente da família. Deixe os outros pensarem.”" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_001", "hash": "49B2B6B2A8F94AB5", "target": "Mas aqui não dá pra deixar nada pros outros. Então eu estava <italic(1)>pensando<italic(0)>: que tal a gente domar uns coeurls? Eles iam estraçalhar os Kobold." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_002", "hash": "DBDFCEBC3E9E6632", "target": "É só sair por aí, cansar um coeurl e pegar ele com este sacão. Aposto que você tem <if(gnum4,peito,tomates)> pra isso." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_003", "hash": "8E73DE8B08B09275", "target": "Ah, não sou boa pra capturar. Eu me empolgo demais e, quando vejo, está tudo morto ou acabado. Não, docinho, essa precisa do seu toque." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_020", "hash": "3297651F04F337FA", "target": "Ei, <if(gnum4,bonitona,bonitão)>! Já pegou meu coeurl?" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_021", "hash": "FA322589219DE537", "target": "Isso, um maldito coeurl de verdade! Espera só eu domar essa coisa. Os Kobold nem vão saber o que acertou eles, não vão saber porque vão estar todos em pedaços!" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_022", "hash": "F144E02EE89B98C9", "target": "Agora, como vou domar essa coisa? Como se faz normalmente, é só sentar neles ou conversar com eles...?" }
   ]
 }

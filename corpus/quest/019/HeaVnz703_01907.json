@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz703_01907",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "" }
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_00", "hash": "64D15E90F058997E", "target": "Conu Vanu precisa de ajuda para alimentar os filhotes." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_01", "hash": "5E2E5E9788F9C499", "target": "Parece que os ventos da fortuna trouxeram você a Ok' Zundu para ajudar Conu Vanu a alimentar os filhotes famintos da aldeia. Abata cinco Window wamouracampae e leve suas carcaças sem pele a Conu Vanu." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_02", "hash": "6CE77E61B5042F7D", "target": "Você abate os wamouracampae e recolhe suas carcaças sem pele, embora o cheiro faça você questionar o que há de tão apetitoso nelas. Entregue a carne a Conu Vanu para que os filhotes parem de chorar de fome." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_SEQ_03", "hash": "D24DE6720D1D6759", "target": "Você entrega a carne a Conu Vanu, que explica que a carne de wamouracampa é considerada uma iguaria entre os Vanu Vanu. Ele convida você para prová-la na próxima vez que preparar o animal de aparência vermiforme." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_00", "hash": "31BB380EA244B82C", "target": "Abater Window wamouracampae e obter suas carcaças sem pele" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_TODO_01", "hash": "780C10F331FA7DC0", "target": "Entregar as carcaças de wamouracampa sem pele a Conu Vanu" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_000", "hash": "0AF3D40B91D71783", "target": "Assim como a brisa traz boa sorte, <if(gnum4,a de baixo,o de baixo)> traz oportunidade para Conu Vanu." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_001", "hash": "2D9ABDC7601E19FC", "target": "Filhotes querem carne de wamouracampa sem pele, mas Conu Vanu não ousa deixá-los para caçar. <if(gnum4,A de baixo,O de baixo)> abate feras no lugar de Conu Vanu e traz fartura!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_010", "hash": "28DD368FED0D0655", "target": "Para crescer fortes, filhotes precisam comer bem. Ajude Conu Vanu a encher suas barrigas de wamouracampae." },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_020", "hash": "E4DE9876742CAC8D", "target": "Como o trovão, choro dos filhotes ressoa! <if(gnum4,A de baixo,O de baixo)> traz wamouracampae?" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_021", "hash": "EEB1ECFB2B0A509F", "target": "Muito bem, muito bem! <if(gnum4,A de baixo,O de baixo)> traz banquete farto para saciar filhotes. Muito bom!" },
+    { "gameKey": "quest/019/HeaVnz703_01907#TEXT_HEAVNZ703_01907_CONUVANU_000_022", "hash": "88EB616DAD882C51", "target": "<if(gnum4,A de baixo,O de baixo)> também come wamouracampae? Não? Sabor é forte e refrescante. Pense bem, Conu Vanu é ótimo cozinheiro!" }
   ]
 }

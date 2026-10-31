@@ -2,15 +2,15 @@
   "conversation": "quest/018/HeaVnz507_01842",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "" }
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_00", "hash": "FDE1E92701C38BC2", "target": "Mognell tem um galo no nariz e um zumbido nos ouvidos." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_01", "hash": "4C87DCB3870AF5A1", "target": "Mognell avistou um enxame de insetos enormes prestes a pôr ovos nas terras abaixo de seu posto de vigia. Ele pede que você elimine três dessas expecting damselflies para impedir que a região de Churning Mists seja infestada por sua prole maligna." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_02", "hash": "4020C9470CD461C0", "target": "Você elimina um trio de expecting damselflies. Volte a Mognell, no alto das ruínas de Asah, para informar seu sucesso." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_SEQ_03", "hash": "FFDE292953B407F6", "target": "Mognell se alivia ao saber da morte das libelinhas. Ele explica que o aparecimento de insetoides invasores é comum em Churning Mists: seus ovos vêm do mundo lá embaixo na terra presa entre as garras dos dragões que retornam. Da próxima vez que uma dessas espécies aparecer, Mognell cuidará dela sozinho... desde que não consiga convencer <if(gnum4,uma aventureira,um aventureiro)> de passagem a fazer seu trabalho." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_00", "hash": "28685CED3668E9F0", "target": "Derrotar os insetos grandes e malvados em Four Arms" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_TODO_01", "hash": "8EDC6F5EE4744EEA", "target": "Apresentar um relatório a Mognell" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_000", "hash": "9565F09E9BF388E0", "target": "Tenho visto uns insetos grandes e malvados voando por Four Arms ultimamente. Coisas gigantes e espinhosas que parecem cheias de ovos. Se esses ovos chocarem, vamos ter um problemão nas patas! Pode se livrar deles para mim, kupo?" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_001", "hash": "09BBDDE406C1CA94", "target": "Tentei esmagar aqueles insetos horríveis sozinho, kupo, mas eles não eram pequenos e próximos, eram grandes e distantes. Só consegui um nariz inchado..." },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_020", "hash": "F08FEB0753A6DCD3", "target": "Você se livrou dos insetos grandes e malvados, kupo? Muito obrigado!" },
+    { "gameKey": "quest/018/HeaVnz507_01842#TEXT_HEAVNZ507_01842_MOGNELL_000_021", "hash": "E6F439702415F9F4", "target": "Quando os dragões descem ao mundo lá embaixo, muitas vezes trazem ovos de insetoides ou sementes de ervas estranguladoras na terra presa entre suas garras, e somos nós que temos de arrancar tudo. São tão sem consideração, kupo!" }
   ]
 }

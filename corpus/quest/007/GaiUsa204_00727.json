@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa204_00727",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "" }
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_00", "hash": "393C9355EC85085F", "target": "Ianna, em Buscarron's Druthers, quer que você mate feras temíveis no lugar dela." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_01", "hash": "285DDB0547E223EC", "target": "Embora os antílopes sejam conhecidos como animais tranquilos, os bandos que vagam pelas terras ao sul de Buscarron's Druthers estão cada vez mais hostis. Segundo Ianna, porém, eles ficam fracos quando banhados com um pouco de sopa de ovo de sparhawk. Vá ao sul de Druthers e use a sopa que recebeu para ajudar a abater um dos scarred antelopes." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_02", "hash": "A96B58739968EAF9", "target": "Você abateu a fera agressiva. Conte a Ianna sobre seu sucesso." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_SEQ_03", "hash": "69FC6E36534B3675", "target": "Ianna agradece pela ajuda para proteger seu segundo lar. Você conquistou mais uma amiga por estas bandas." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_00", "hash": "EF56760450A1D58A", "target": "Usar sopa de ovo de sparhawk em um scarred antelope e matá-lo" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_TODO_01", "hash": "D3DF7026C4424B31", "target": "Apresentar-se a Ianna" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_000", "hash": "5FA5D621AAD7E706", "target": "Você parece ter coragem. Será que posso lhe pedir uma tarefa?" },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_001", "hash": "D5FF010C35571864", "target": "Há pouco tempo, dividi uma caneca com uma mercadora de Ul'dah, que me entreteve com histórias dos perigos da estrada. Segundo ela, o pior de todos foi a fera feroz que quase a matou com os chifres, bem quando ela achou que tinha chegado ao abraço seguro da floresta." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_002", "hash": "728C4650ED3EDD13", "target": "Que tipo de fera, você pergunta? Você não vai acreditar, mas era... um antílope! Pois é, também duvidei dos meus ouvidos quando escutei a história, mas parece que um tipo muito mal-humorado desse animal anda vagando pelas terras ao sul de Druthers. Você pode reconhecê-los pelas cicatrizes das lutas furiosas contra pessoas e outros bichos." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_003", "hash": "20CC59514A3CA2F1", "target": "Ah, uma última coisa. Quero lhe dar esta tigela de sopa de ovo de sparhawk fresquinha para ajudar na luta. Pode até rir, mas os temperos dela são conhecidos por tirar as forças desses animais herbívoros. Agora vá com cuidado e não deixe que aqueles olhinhos mansos deem uma falsa sensação de segurança. Senão, a próxima cerveja que você beber vai jorrar pelos inúmeros furos no seu corpo." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_040", "hash": "57F2A07C4FB4AF52", "target": "Para os aventureiros, mercadores e trabalhadores que vêm aqui desfrutar de boa cerveja e boa companhia, Druthers é como um segundo lar. Para os menos afortunados, é até o único." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_IANNA_000_041", "hash": "2973871CD353AAE4", "target": "Seríamos tolos se não aproveitássemos a proteção dos Lamentadores da Mata e da Aljava dos Deuses, mas defender o próprio lar dá uma satisfação especial. Hoje você nos encheu de orgulho, <if(gnum4,amiga,amigo)>." },
+    { "gameKey": "quest/007/GaiUsa204_00727#TEXT_GAIUSA204_00727_POP_MESSAGE_000", "hash": "A540BBCF50A438C7", "target": "Um pesadelo feroz de chifres avança contra você!" }
   ]
 }

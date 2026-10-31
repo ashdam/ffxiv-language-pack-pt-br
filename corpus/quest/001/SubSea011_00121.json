@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubSea011_00121",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "" },
-    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "" }
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_00", "hash": "DD27F4359ABF6AA1", "target": "Sisipu, da Guilda dos Pescadores, quer encomendar um novo barco de pesca." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_01", "hash": "81FF07EF26675592", "target": "Ansiosa para voltar ao mar, Sisipu expressa o desejo de mandar construir um novo barco de pesca. Ela pede que você consulte a Mestra da Forja H'naanza, da Guilda dos Armeiros, em seu lugar para saber quanto tempo a encomenda pode levar." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SEQ_02", "hash": "0D2C066DACB927C6", "target": "H'naanza informa, com pesar, que a Naldiq & Vymelli's está ocupada com uma grande encomenda. Mesmo assim, a mestra da forja promete fazer o possível em consideração à antiga relação entre as duas guildas." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_TODO_00", "hash": "8B73EEEC917E3363", "target": "Falar com H'naanza na Guilda dos Armeiros" },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_0", "hash": "C97CF88AA6AFD189", "target": "A Calamidade realmente tirou o vento das velas da indústria pesqueira, mas os pescadores estão começando a voltar ao mar. Já passou da hora de eu fazer o mesmo." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_1", "hash": "F1D1E601DFA84421", "target": "Mas, antes de voltar a navegar, preciso mandar construir um novo barco. Nossa guilda sempre encomendou suas embarcações à Naldiq & Vymelli's, mas eles andam terrivelmente ocupados." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_SISIPU_000_2", "hash": "04E85A42B7283098", "target": "Se estiver procurando o que fazer, talvez possa dar um pulo na Guilda dos Armeiros e consultar a Mestra da Forja H'naanza por mim. Gostaria de saber quanto tempo teremos que esperar." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_10", "hash": "D41B5C24B5A7B6FE", "target": "Um barco novo para a Guilda dos Pescadores? Receio que este não seja o melhor momento..." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_11", "hash": "5CC9F071E27F9F95", "target": "É que recentemente aceitamos a encomenda de um galeão. Só essa tarefa já ocupa todas as nossas mãos." },
+    { "gameKey": "quest/001/SubSea011_00121#TEXT_SUBSEA011_00121_HNAANZA_000_12", "hash": "EFAC5D3701E308D1", "target": "Mas olha, vou ver o que posso fazer. A Guilda dos Pescadores é uma de nossas melhores clientes há muito tempo, e eu não gostaria de decepcionar Sisipu. Ainda pode demorar um pouco, mas vou me empenhar para que o barco dela fique pronto num prazo razoável." }
   ]
 }

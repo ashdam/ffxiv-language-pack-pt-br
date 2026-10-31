@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzd003_04227",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SEQ_00", "hash": "221AD3EFDD6E7EF8", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_00", "hash": "2EE99749CCCFE9F8", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_01", "hash": "82A76FFF6E1E7772", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_000", "hash": "733F103ACEDC2E99", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_001", "hash": "0242C82C70DD5F86", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_002", "hash": "4A5473153E874E84", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_003", "hash": "9313ACAABFE5901B", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_007", "hash": "2D1ADE0F7BB88E3C", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_010", "hash": "2589C9CD33AD929B", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_011", "hash": "81A6C5801E1BC185", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_012", "hash": "6AD36146F23755EA", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_013", "hash": "E3D1294AF7A6ABF3", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_014", "hash": "114091EF6ED8F346", "target": "" },
-    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_015", "hash": "4385AD01AB4E0104", "target": "" }
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SEQ_00", "hash": "221AD3EFDD6E7EF8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Spurius quer iluminar este lugar sombrio, mas não tem os materiais necessários." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_00", "hash": "2EE99749CCCFE9F8", "target": "Obter os recipientes de vidro" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_TODO_01", "hash": "82A76FFF6E1E7772", "target": "Entregar os recipientes de vidro a Spurius" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_000", "hash": "733F103ACEDC2E99", "target": "Há algo na escuridão que acaba com o ânimo, não acha? Temos muitas luzes, sim, mas usam o mesmo combustível dos aquecedores. E “não morrer de frio” tem prioridade sobre “deixar o lugar bonito”." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_001", "hash": "0242C82C70DD5F86", "target": "Por isso, decidi fazer lanternas que usem outros tipos de combustível! Já fui técnico do exército imperial, então, desde que tenha os recipientes de vidro, dou conta da tarefa com facilidade." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_002", "hash": "4A5473153E874E84", "target": "Mas é aí que está o problema. Esses objetos estão em falta. Embora eu saiba onde podemos encontrar alguns na cidade, não ousaria entrar naquele mar de armas magitek. Talvez você pudesse ir no meu lugar?" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_003", "hash": "9313ACAABFE5901B", "target": "Logo a noroeste da estação, encontrará uma taverna e uma perfumaria, ou o que restou delas. Em algum lugar entre as ruínas, deve conseguir encontrar recipientes adequados para nossas lanternas." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_007", "hash": "2D1ADE0F7BB88E3C", "target": "Infelizmente, o lugar está infestado de monstruosidades mecânicas, mas você parece saber se virar. Certamente ainda devem existir alguns bons recipientes de vidro no meio de todo aquele entulho." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_010", "hash": "2589C9CD33AD929B", "target": "Ah, que bom que voltou, e sem ferimentos! Como foi a busca? Bem, espero." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_011", "hash": "81A6C5801E1BC185", "target": "Vamos ver. Ah, uma velha garrafa de bebida, mas sem uma gota para beber. Uma pena. Enfim, o tamanho é perfeito para o que preciso." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_012", "hash": "6AD36146F23755EA", "target": "Agora, o que temos aqui? Ah, um frasco de perfume. Um pouco pequeno, não há como negar, mas útil à sua maneira. Ah, sente esse cheiro? Ainda conserva um pouco do aroma. Imagine o perfume que vai exalar quando esquentar!" },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_013", "hash": "E3D1294AF7A6ABF3", "target": "Como sabe, para os garleanos, a chama é tudo. Dizem que, quando nossos ancestrais chegaram a esta terra gélida e desolada, viveram por muito tempo na escuridão, sem conseguir trazer fogo ao seu mundo." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_014", "hash": "114091EF6ED8F346", "target": "Mas o que lhes faltava em magia sobrava em astúcia. Usaram a gordura e os óleos que conseguiam dos animais destas terras para afastar as sombras. Até que, é claro, finalmente aprenderam a extrair ceruleum de Cerulea Ingens." },
+    { "gameKey": "quest/042/AktKzd003_04227#TEXT_AKTKZD003_04227_SPURIUS_000_015", "hash": "4385AD01AB4E0104", "target": "Mas, como aqueles primeiros colonos antes de mim, abrirei um ponto luminoso de esperança nesta escuridão com estas lanternas. Obrigado por tudo o que fez, de verdade." }
   ]
 }

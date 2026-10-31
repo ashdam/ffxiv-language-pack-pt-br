@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz312_01804",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_00", "hash": "81223C5BA33A3995", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "" }
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_00", "hash": "D8FF7B5C8BC6FCBF", "target": "Uma Gnath no depósito parece confusa e desnorteada." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_01", "hash": "71EF6BEFB6E0002A", "target": "A Nonmind drone não consegue mais ouvir as ordens da Mente Una. Sem saber o que fazer, ela pede sua ajuda. Vá a Loth ast Vath e informe o Vath storyteller sobre a situação." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_02", "hash": "033359FF69F4B396", "target": "O Vath storyteller logo considera isso uma boa notícia. A ideia de receber um novo membro dos Sem-Mente parece animá-lo. Ele pede que você encaminhe a Gnath perdida a Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_SEQ_03", "hash": "DB28883BACD1ED2D", "target": "Você transmite a mensagem do storyteller à Nonmind drone. Animada com a ideia de encontrar outros como ela, a Gnath parte imediatamente para Loth ast Vath. Espera-se que ela consiga se integrar facilmente à nova colmeia." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_00", "hash": "81223C5BA33A3995", "target": "Falar com o Vath storyteller em Loth ast Vath" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_TODO_01", "hash": "99BBC6D7F0E021B7", "target": "Orientar a Nonmind drone sobre o que fazer" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_000", "hash": "AEA02507C0007368", "target": "Onde estamos? <italic(1)>Quem<italic(0)> somos? \\<clique> \\<clique> Estamos esperando nossas ordens, mas não conseguimos ouvi-las. O que devemos fazer?" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_001", "hash": "FE5D92F81B8A7AF6", "target": "Não falamos com seres de carne. \\<clique> \\<clique> ...Mas não temos escolha. O que devemos fazer, ser de carne? Por favor, pergunte a alguém por nós." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_010", "hash": "1D28B3670744C117", "target": "Por favor, pergunte a alguém o que devemos fazer. \\<clique> \\<clique>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_020", "hash": "2ADC041D62D5BAB8", "target": "\\<clique> \\<clique> Essa Gnath que você descreveu parece ter despertado, encontrado o dom de ter consciência de si mesma. É uma boa notícia. Temos uma nova irmã! <if(gnum4,Caçadora,Caçador)>, por favor, diga à nossa nova irmã que venha para cá, para Loth ast Vath." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_STORYTELLER_000_030", "hash": "BAF47798E6CDFA59", "target": "Encontre nossa nova irmã de novo e diga a ela que venha para Loth ast Vath. \\<clique> \\<clique>" },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_040", "hash": "35CED03B9B9B116C", "target": "Os... Sem-Mente? \\<clique> \\<clique> Então há outros. Outros Gnath como nós." },
+    { "gameKey": "quest/018/HeaVnz312_01804#TEXT_HEAVNZ312_01804_GOODGNATHA01804_000_041", "hash": "463E89DBD7558149", "target": "Entendemos. Vamos para lá agora. Precisamos ir, ou seremos destruídas. Obrigada, bondoso ser de carne." }
   ]
 }

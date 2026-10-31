@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz632_01900",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_00", "hash": "6384062B477F97F0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_01", "hash": "B4FB50701075869B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_02", "hash": "E5F8DCF33649DFD2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_03", "hash": "7BBBDBA89F022861", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_00", "hash": "2FFFA218D469588C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_01", "hash": "1FD46A0675FF81BA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_000", "hash": "7F7007FD8FB0DA2F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_001", "hash": "5DD760320D2F6C6B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_010", "hash": "526D41F2ECE98CE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_020", "hash": "C7D8AA4207FFF44E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_021", "hash": "84082E4E210EE881", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_022", "hash": "FDE075CD84FCEACE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_023", "hash": "B03183FA1518D33B", "target": "" }
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_00", "hash": "6384062B477F97F0", "target": "O semblante preocupado de Fabrellet sugere que ele precisa de ajuda." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_01", "hash": "B4FB50701075869B", "target": "As reservas de comida de Camp Cloudtop estão acabando, e Fabrellet precisa da sua ajuda para impedir que seus homens passem fome. Para isso, ele pretende usar a carne dos wisents que pastam ao norte do acampamento até chegar uma nova remessa de provisões. Abata os wisents ao norte de Camp Cloudtop e obtenha quatro pedaços de carne." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_02", "hash": "E5F8DCF33649DFD2", "target": "Você obtém quatro pedaços de carne de wisent. Volte a Camp Cloudtop e entregue-os a Fabrellet." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_SEQ_03", "hash": "7BBBDBA89F022861", "target": "Você entrega a carne a Fabrellet, que agradece pela rapidez. Ele fica contente por poder contar com os wisents numa hora dessas. Na verdade, eles não são nativos das ilhas, mas foram trazidos para servir de gado. Ele acrescenta que também pretendem criar ovelhas, mas, por enquanto, terão que se contentar com a carne pouco saborosa dos wisents." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_00", "hash": "2FFFA218D469588C", "target": "Derrotar wisents e obter sua carne" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_TODO_01", "hash": "1FD46A0675FF81BA", "target": "Entregar a carne a Fabrellet" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_000", "hash": "7F7007FD8FB0DA2F", "target": "Não, não, isso não vai dar certo. Ah, justamente <if(gnum4,a mulher,o homem)> que eu esperava ver. Preciso da sua ajuda para reabastecer nosso estoque de provisões." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_001", "hash": "5DD760320D2F6C6B", "target": "Nosso estoque de carne está bem baixo, mas a dos wisents deve nos sustentar até a próxima remessa de provisões. Se puder trazer quatro pedaços, vai nos ajudar muito. Você os encontra ao norte do acampamento, no Último Passo." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_010", "hash": "526D41F2ECE98CE5", "target": "Você encontra os wisents ao norte daqui, no Último Passo. Quatro pedaços de carne devem durar até a próxima remessa de provisões." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_020", "hash": "C7D8AA4207FFF44E", "target": "O sabor deixa muito a desejar, mas não podemos nos dar ao luxo de escolher o que comer. Conseguiu a carne?" },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_021", "hash": "84082E4E210EE881", "target": "Ainda bem! Vou poder respirar aliviado no próximo inventário. Sinceramente, nem sei o que seria de nós sem os wisents que pastam ao norte daqui." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_022", "hash": "FDE075CD84FCEACE", "target": "E pensar que eles nem são nativos destas ilhas. Foram trazidos para servir de gado justamente numa emergência dessas." },
+    { "gameKey": "quest/019/HeaVnz632_01900#TEXT_HEAVNZ632_01900_FABRELLET_000_023", "hash": "B03183FA1518D33B", "target": "Com o tempo, também teremos ovelhas, mas ainda não conseguimos criar uma raça adaptada a esta altitude. Mas chega de conversa. Graças a você, meus homens não passarão necessidade, pelo menos por mais algumas luas. Se precisarmos de mais carne de wisent, sei a quem recorrer." }
   ]
 }

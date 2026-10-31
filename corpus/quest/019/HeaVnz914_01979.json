@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz914_01979",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_00", "hash": "1D1A5C92AE43CEB1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_01", "hash": "76BA9C614EDD928E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_02", "hash": "DEB005ACC2CDFF10", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_03", "hash": "AAD37AB563CB8918", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_00", "hash": "E866020A941139E8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_01", "hash": "A435C3E011F3A323", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_000", "hash": "E708B173BB0DD614", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_001", "hash": "0654A7713BEF5003", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_010", "hash": "89FCC01390C29EF6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_020", "hash": "9A3DBF0DFD5E3BCC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021", "hash": "1DC5653574CB9899", "target": "" }
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_00", "hash": "1D1A5C92AE43CEB1", "target": "O módulo de treinamento alagano aguarda silenciosamente a interação do usuário." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_01", "hash": "76BA9C614EDD928E", "target": "Tomando você por integrante do exército alagano, o módulo de treinamento dá a ordem de localizar e derrotar cinco snapper-rooks como parte do treinamento militar diário padrão de Allag." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_02", "hash": "DEB005ACC2CDFF10", "target": "Você destruiu os snapper-rooks conforme as instruções. Avise training node que concluiu a tarefa designada." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_SEQ_03", "hash": "AAD37AB563CB8918", "target": "O módulo de treinamento explica a importância da tarefa que atribuiu a você, mas a mensagem está tão distorcida pela estática que não dá para entender o que está tentando dizer." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_00", "hash": "E866020A941139E8", "target": "Eliminar snapper-rooks" },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TODO_01", "hash": "A435C3E011F3A323", "target": "Relatar a training node" },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_000", "hash": "E708B173BB0DD614", "target": "Saudações, leais soldados do Império Alagano. A rotina de treinamento de hoje começa agora." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_001", "hash": "0654A7713BEF5003", "target": "Sua tarefa é localizar e destruir <italic(1)>CINCO SNAPPER-ROOKS<italic(0)>. Certifique-se de que todos os alvos estejam completamente mortos e/ou inoperantes. Boa caçada, soldados." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_010", "hash": "89FCC01390C29EF6", "target": "Localize e destrua <italic(1)>CINCO SNAPPER-ROOKS<italic(0)>. Certifique-se de que todos os alvos estejam completamente mortos e/ou inoperantes." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_020", "hash": "9A3DBF0DFD5E3BCC", "target": "Parabéns. Você concluiu com sucesso...\\<bzzzzzzz>...o exercício de treinamento de hoje." },
+    { "gameKey": "quest/019/HeaVnz914_01979#TEXT_HEAVNZ914_01979_TRAININGSYSTEM_000_021", "hash": "1DC5653574CB9899", "target": "O treinamento de hoje pretende ensinar a importância de...\\<bzzzzzzz>...ao lidar...\\<bzzzzzzz>...situações. Esperamos que esse conhecimento seja útil em seu serviço ao Império Alagano." }
   ]
 }

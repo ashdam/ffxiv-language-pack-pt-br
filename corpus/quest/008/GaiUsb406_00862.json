@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb406_00862",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "" }
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_00", "hash": "495AF9770EEE0F3E", "target": "A Sargento Swygrael quer uma coisa, e essa dama costuma conseguir o que quer." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_01", "hash": "66F9E3DDB4084AB5", "target": "Com a encantadora irresponsabilidade das donzelas de toda parte, a Sargento Swygrael, do Camp Overlook, perdeu alguns pertences enquanto espancava velociraptors até a morte. Ela pede que você recolha garras de raptor e pontas de flecha serrilhadas, três de cada." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_02", "hash": "30A465B9A7DE0B9D", "target": "Você recuperou as garras e as pontas de flecha das carcaças fedorentas de velociraptors. Arraste os pés de volta ao acampamento e entregue o saque a Swygrael." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SEQ_03", "hash": "6876C221DA01D995", "target": "A habilidade dos Kobold com metal é formidável, mas sua cobiça pelos restos do inimigo poderia ser uma fraqueza? Ou há algum motivo para desejarem tanto mais metal?" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_00", "hash": "4030FAF0313215AA", "target": "Coletar garras de velocirraptor" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_01", "hash": "B7967309E4D0413E", "target": "Coletar pontas de flecha serrilhadas" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_TODO_02", "hash": "02B33348683BE614", "target": "Dar as garras e as pontas de flecha a Swygrael" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_000", "hash": "67C1383E3C54D224", "target": "Ei, você! É, você, com essa carinha doce e esse monte de fivelas. Tenho um serviço pra você. Precisava de umas garras de raptor, mas aqueles desgraçadinhos deram tanto trabalho que esqueci completamente que estava matando eles pra alguma coisa. Fiquei com raiva, esmaguei a cabeça deles e saí assobiando." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_001", "hash": "85D4797C3F8A3559", "target": "As carcaças estão jogadas em algum lugar aqui perto, com umas flechas minhas atravessadas nelas. Vá buscar as garras, <if(gnum4,minha rosa selvagem,meu pombo galante)>, e talvez eu volte a ficar a fim de fazer algo de útil!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_002", "hash": "440BF1CC1762C07F", "target": "Ah, e mais uma coisa. Se vir minhas flechas, traga as pontas de volta! É fácil botar penas numa flecha, mas pontas não nascem em passarinho!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_020", "hash": "70C10086BD8D4DE3", "target": "Ei, docinho! Traga minhas garras e pontas de flecha!" },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_025", "hash": "762A895CF73EEED6", "target": "Obrigada, meu bem! Por que essa cara comprida? Ah, acha que estamos tão mal de suprimentos assim. Escuta, benzinho, os Kobold não deixam metal dando sopa. Tudo que atiramos neles, até pontas de flecha, vai de volta pra toca e é fundido pra virar arma nova." },
+    { "gameKey": "quest/008/GaiUsb406_00862#TEXT_GAIUSB406_00862_SWYGRAEL_000_026", "hash": "3AFE756B9A40E7C4", "target": "Então a ordem é não dar metal pra eles. Fazer pontas de flecha com garras, sílex, um pedaço do pão de gengibre do cozinheiro, e trazer de volta qualquer ponta de aço ou bronze. É natural pra nós, gente do mar, sabe? Somos pão-duros!" }
   ]
 }

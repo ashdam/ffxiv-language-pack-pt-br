@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc911_01046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "" }
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_00", "hash": "A9EB5E32CA68F14A", "target": "O Tenente Edelstein tem um pedido urgente antes da próxima fase da operação." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_01", "hash": "50DFA86C7B9F2B19", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone-a e recomece falando com Edelstein na Usina de Ceruleum.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_02", "hash": "48F69C5E32CB13B4", "target": "Você reduziu suficientemente a presença imperial na Investida de Raubahn. Siga até o ponto de concentração da operação e apresente-se a Raubahn." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_SEQ_03", "hash": "37487C77548B78F1", "target": "Você encontra o General das Chamas à sombra de Castrum Meridianum. A batalha final pelo futuro de Eorzea logo começará." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_00", "hash": "2773D036D32AB473", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone-a e recomece falando com Edelstein na Usina de Ceruleum<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_01", "hash": "85F5CFE6549BCB6A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone-a e recomece falando com Edelstein na Usina de Ceruleum<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_02", "hash": "D21E1F85022EF028", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone-a e recomece falando com Edelstein na Usina de Ceruleum<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_000", "hash": "23C5AED8C5F7A09C", "target": "Há pouco, o General das Chamas partiu para Castrum Meridianum. Infelizmente, mal seu contingente alcançou a linha de resistência, uma patrulha imperial o atacou." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_001", "hash": "A0303C3934A97401", "target": "Fomos informados de que conseguiram vencer e prosseguir, mas ainda há patrulhas inimigas na área. Nosso exército principal poderia esmagá-las facilmente, sem dúvida, mas não ousamos mobilizá-lo neste momento para não cutucar o vespeiro antes da hora." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_002", "hash": "3FC09AC47B3DE93D", "target": "Para que a operação prossiga sem obstáculos, quero que você reduza a presença imperial na Investida de Raubahn. Derrotar três de suas vanguardas e três de seus soldados de infantaria deve bastar." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_EDELSTEIN_000_003", "hash": "379FD7BC7681C48C", "target": "Quando terminar, junte-se ao General das Chamas no ponto de concentração da operação. Que Rhalgr lhe dê força!" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_TODO_000_000", "hash": "A296F8EBD7414CA9", "target": "Derrotar três magitek vanguards e três soldados imperiais" },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_010", "hash": "D0EC4A6023F3AEC1", "target": "Vejo que abriu caminho para o exército principal. Meus agradecimentos. Eu poderia ter dado a tarefa a outra pessoa, em vez de arriscar sua vida antes da missão, mas o que está feito está feito. Além disso, provavelmente serviu para soltar suas articulações." },
+    { "gameKey": "quest/010/GaiUsc911_01046#TEXT_GAIUSC911_01046_RAUBAHN_000_011", "hash": "E4DC8972DB512A79", "target": "É agora, <split(<string(gstr1)>, ,1)>, o momento decisivo. O futuro de Eorzea depende de nossos feitos neste dia." }
   ]
 }

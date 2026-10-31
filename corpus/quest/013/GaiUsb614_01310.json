@@ -2,17 +2,17 @@
   "conversation": "quest/013/GaiUsb614_01310",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "" },
-    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "" }
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_00", "hash": "5F1D7B1FB4EFE828", "target": "Dividido entre a curiosidade e o desprezo, Maucolyn quer relatar uma visão estranha." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_01", "hash": "278497A36CF61BD1", "target": "Maucolyn viu recentemente um comerciante local pulando no frio e jogando bolas de neve, no que o tratador de chocobos carrancudo imagina ser um ataque de histeria por hipotermia. Fale com esse comerciante, Duvicauroix, e pergunte se ele está bem." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SEQ_02", "hash": "43FEA49DF33FBF56", "target": "Felizmente, há um método na loucura de Duvicauroix. O comerciante afirma que brincar na neve pode aquecer o corpo e o coração num dia frio de inverno mais do que uma fogueira. Ele ensina você a usar /throw para lançar uma bola de neve, o primeiro passo para dominar essa brincadeira revigorante..." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_TODO_00", "hash": "FEABA8FEA66F946E", "target": "Falar com Duvicauroix" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_000", "hash": "119CC0FCD648AF80", "target": "Não vejo por que devia ligar, mas vi um sujeito jogando bolas de neve num boneco de neve. Por que alguém faria uma palhaçada dessas no frio, não sei dizer." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_001", "hash": "44357F77E5484E75", "target": "Foi catar miolo e perdeu mais do que achou, é o que penso. Melhor garantir que isso não aconteça com <italic(1)>você<italic(0)>, <if(gnum4,garota,garoto)>. Não que eu saiba exatamente <italic(1)>o que<italic(0)> aconteceu, veja bem." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_002", "hash": "E99D4277BC2A8062", "target": "Como? Eu? <italic(1)>Perguntar<italic(0)>? Tenho meus chocobos para cuidar. Se Duvicauroix quer despejar a sopa da cabeça na neve, não vejo o que tenho com isso." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_MAUCOLYN_000_003", "hash": "DA5AC16171F6B816", "target": "Sim, é o nome dele, Duvicauroix. Sei lá, vende coisas, vai para lá e para cá. Não me parece vida que preste, com o perdão da palavra. Se quer vê-lo, deve estar por aqui." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_010", "hash": "EE36C50A6307AF6E", "target": "Andando de mansinho, hein? Aposto que o pessoal daqui acha que fiquei bêbado de inverno. Ha! Nunca viram alguém jogar neve, aqueles bastardos preguiçosos." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_011", "hash": "EEC9F1C1E35F8E55", "target": "Fique com a bunda diante de um foguinho por tempo demais e logo seus malditos dedos ficam brancos. Você vai dormir melhor se jogar bolas de neve, sem precisar que Lady Hidromel ou a Senhora Cerveja cantem a canção de ninar." },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_DUVICAUROIX_000_012", "hash": "29EC761580566E13", "target": "O que me diz, hein? Por que não tenta? É tão simples quanto parece. Só se abaixe, pegue um pouco desse pó branco e use <colortype(500)><edgecolortype(501)>/throw<edgecolortype(0)><colortype(0)>!" },
+    { "gameKey": "quest/013/GaiUsb614_01310#TEXT_GAIUSB614_01310_SYSTEM_000_300", "hash": "9C8EAE4C748E0138", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Throw<edgecolortype(0)><colortype(0)>!" }
   ]
 }

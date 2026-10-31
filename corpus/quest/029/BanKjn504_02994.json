@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn504_02994",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_SEQ_00", "hash": "3F4C57335D8C74C0", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_000", "hash": "4ED21CF16528EE14", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_001", "hash": "68D1AC34A4A76994", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_002", "hash": "60A52B146B351B9B", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_020", "hash": "E08094B46B134624", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_021", "hash": "C76B22F829D98436", "target": "" },
-    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_022", "hash": "F469AC49B71B71DA", "target": "" }
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_SEQ_00", "hash": "3F4C57335D8C74C0", "target": "O comércio com os Qestir está florescendo, e Zukin quer melhorá-lo ainda mais.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_00", "hash": "D4C7E303893D75BD", "target": "Recolher orbes lunares" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_TODO_01", "hash": "001C44E026CB2D06", "target": "Entregar os orbes lunares a Zukin" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_000", "hash": "4ED21CF16528EE14", "target": "Tenho uma nova tarefa para você, <split(<string(gstr1)>, ,1)>. Como sabe, recentemente firmamos acordos comerciais com os Qestir." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_001", "hash": "68D1AC34A4A76994", "target": "E quero impressioná-los, oferecer algo que só nós, Kojin, e aqueles abençoados pelos kami podemos fornecer. Um tesouro precioso encontrado nas profundezas da Fossa Turquesa." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_002", "hash": "60A52B146B351B9B", "target": "Lá você vai encontrar vários cristais brilhantes de proporções imensas. Quando pequenos pedaços se soltam, formam o que chamamos de “orbes lunares”, que se parecem com a própria lua. Pode nos ajudar a recolhê-los nas profundezas?" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_020", "hash": "E08094B46B134624", "target": "Como vai a busca?" },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_021", "hash": "C76B22F829D98436", "target": "Lindos! Não é fascinante como se formam em pequenas esferas tão perfeitas? Talvez sejam moldados pelas correntes do mar. E veja como brilham! Poderíamos usá-los para iluminar a aldeia à noite." },
+    { "gameKey": "quest/029/BanKjn504_02994#TEXT_BANKJN504_02994_ZUKIN_000_022", "hash": "F469AC49B71B71DA", "target": "Os Qestir veneram Nhaama, deusa da lua e do crepúsculo. Imagino que pagarão boas quantias por estes orbes lunares. Muito obrigado pela colaboração!" }
   ]
 }

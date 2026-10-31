@@ -2,15 +2,15 @@
   "conversation": "quest/045/BanArk117_04567",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_00", "hash": "FB1B44E49535C936", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_020", "hash": "D893BD7E2A9B56D6", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "" },
-    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "" }
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_SEQ_00", "hash": "E76F31B8BD07629E", "target": "Maru quer distribuir delícias.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_00", "hash": "FB1B44E49535C936", "target": "Obter plantas de água doce" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_TODO_01", "hash": "51F050D30291BA14", "target": "Entregar as plantas de água doce a Maru" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_001", "hash": "378CE9654A2C31DE", "target": "<split(<string(gstr1)>, ,1)>... Já olhou nos olhos grandes e escuros de um hipopótamo e sentiu no coração que não existe nada mais fofo no mundo inteiro? Eu já..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_002", "hash": "9AD315CB703BDAAD", "target": "Dá vontade de oferecer todos os petiscos favoritos deles: frutas, legumes, alfafa..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_003", "hash": "5ECBF417FD950AE8", "target": "E plantas de água doce! Nossos hipopótamos gostam tanto delas que nunca consigo colher o bastante..." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_004", "hash": "AF867D058C9A6350", "target": "Tô sentindo que vem um banquete de água doce por aí. Pode buscar umas plantas? Crescem nas margens do Ksiroda, a leste de Yedlihmad. Três feixes iam deixar a mim e aos nossos doces hipopótamos eternamente agradecidos!" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_020", "hash": "D893BD7E2A9B56D6", "target": "Achou aquelas plantas de água doce?" },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_021", "hash": "1E1CF7FD6C6C6F1C", "target": "Hoje tem banquete! A gente guardava essas plantas pras ocasiões especiais, porque só crescem no sul de Thavnair. Acho que mudar pra cá tem suas vantagens." },
+    { "gameKey": "quest/045/BanArk117_04567#TEXT_BANARK117_04567_MARU_000_022", "hash": "5C7083062C8FDF88", "target": "Mas as águas do Ksiroda vêm de Vanaspati, sabia? Então é como se nosso antigo lar ainda cuidasse da gente. ...É o que gosto de pensar, pelo menos." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb206_00837",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "" }
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_00", "hash": "C404B226F6616A1C", "target": "A criada P'ebaloh tem outra tarefa para suas mãos capazes." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_01", "hash": "78BFD93B97D34006", "target": "P'ebaloh conta que uragnites estão se instalando nos pilares abaixo. Use as espátulas de aço para desalojá-los e exterminá-los sumariamente." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_02", "hash": "B1BF3E4FC082C1AA", "target": "Você triunfou sobre todos os moluscos assassinos. Apresente-se a P'ebaloh." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_SEQ_03", "hash": "657FF30992C361DE", "target": "P'ebaloh lamenta que, embora tenha pertencido à Companhia dos Heróis, hoje até a tarefa simples que você realizou esteja além de sua capacidade. As feridas sofridas em uma batalha contra um primordial foram mais que superficiais, levando-a a trocar a espada por uma bandeja." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_00", "hash": "F05F532714DD723A", "target": "Usar espátulas de aço nos sturdy pillars e matar uragnites" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_TODO_01", "hash": "0FDB0A86380409AD", "target": "Apresentar-se a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_000", "hash": "7DE5C945A7929CD0", "target": "Desta vez, tenho um adversário mais digno para você, <if(gnum4,aventureira,aventureiro)>. Há uragnites se instalando nos pilares abaixo. E, a julgar pela profundidade em que se fixaram, eu diria que estão lá há bastante tempo." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_001", "hash": "6B1F7E392F027B40", "target": "Dito isso, estas espátulas de aço devem servir para desalojar os moluscos e preservar nossos pilares ao mesmo tempo. Ficaria grata se examinasse a área e erradicasse os diabinhos." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_002", "hash": "E90153389BCA2E4B", "target": "É claro que receberá uma generosa recompensa. Muito obrigada." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_020", "hash": "79DC8776D6E0292A", "target": "Ah, os pilares estão reluzentes. Obrigada, <if(gnum4,minha senhora,meu senhor)>. Suponho que tenha sido só um pouco de limpeza, mas até isso está além de mim." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_021", "hash": "2C76C564FB01ABCB", "target": "Já servi na Companhia dos Heróis, acredite se quiser. Mas uma batalha contra um primordial me deixou gravemente ferida e com o coração em pedaços. Desde então, atenho-me a tarefas mais corriqueiras, pois perdi o gosto pelo derramamento de sangue." },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_PEBALOH_000_022", "hash": "0A6ADFE0F1D75A8B", "target": "Esta vida tem sido boa para mim. Muitos soldados lutam para defender aquilo que nunca conhecerão: a alegria de aprender, o prazer do descanso, a agitação da beleza. Mas eu conheci tudo isso. Ainda assim, em meus sonhos de fumaça e aço, continuo ouvindo meu capitão chamar: “A mim, a mim...”" },
+    { "gameKey": "quest/008/GaiUsb206_00837#TEXT_GAIUSB206_00837_POP_MESSAGE_000", "hash": "9C1D149C948DD946", "target": "Você sente uma presença hostil!" }
   ]
 }

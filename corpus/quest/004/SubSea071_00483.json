@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea071_00483",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "" },
-    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "" }
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_00", "hash": "E49D94DAD18DFF7D", "target": "Arenlona está numa situação um tanto apertada." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_01", "hash": "9171C4E80FF429DC", "target": "Arenlona pede que você salpique néctar de pulgão na Althyk lavender para atrair little ladybugs e depois as esmague até obter três frascos de vísceras de joaninha." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_02", "hash": "CB0CB9273DE838F2", "target": "Você obteve a quantidade necessária de vísceras de joaninha. Entregue-as a Arenlona." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_SEQ_03", "hash": "50E1CDA2EC609408", "target": "Arenlona explica que, como as joaninhas são predadoras naturais dos pulgões, as vísceras de joaninha vão mantê-los afastados. Ela insiste que tudo isso é muito científico." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_00", "hash": "DF6CCC3BA97DB207", "target": "Salpicar néctar de pulgão na Althyk lavender e obter três frascos de vísceras de joaninha" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_TODO_01", "hash": "396BB24CFA8FC0F7", "target": "Entregar as vísceras de joaninha a Arenlona" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_0", "hash": "E0F542CFAEDB5534", "target": "Gostaria de participar da marcha inexorável da ciência?" },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_1", "hash": "F68786168AF6D1A0", "target": "A mistura que estou formulando pode mudar a horticultura como a conhecemos! Imagine um líquido que se possa espalhar sobre as plantações para afastar as pragas." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_2", "hash": "F407FD632ED3566E", "target": "Só preciso de algumas joaninhas e de alguém para esmagá-las." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_3", "hash": "BC53C7C7EC8C0A28", "target": "Joaninhas simplesmente não resistem a pulgões. Encontre Althyk lavender, aplique um pouco de néctar de pulgão e elas virão em enxame para o abate." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_10", "hash": "1AB2EA2E725E0845", "target": "Volte a mim depois de coletar três frascos de vísceras de joaninha." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_11", "hash": "989800E9D0CF7437", "target": "É elementar, na verdade. Os pulgões vivem com medo das joaninhas, então aplicar o cheiro de sangue de joaninha às plantações certamente afastará os parasitas. Estamos manipulando as leis da natureza." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_ARENLONA_000_12", "hash": "C1B29087E5281EDE", "target": "É claro que poderíamos simplesmente deixar as joaninhas continuarem defendendo as plantações, como sempre, em vez de esmagá-las pelas vísceras, mas não vejo muita ciência nisso." },
+    { "gameKey": "quest/004/SubSea071_00483#TEXT_SUBSEA071_00483_POP_MESSAGE", "hash": "0CB5B29843F18ADF", "target": "Você sente uma presença hostil!" }
   ]
 }

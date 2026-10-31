@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb402_00858",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "" }
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_00", "hash": "C42E9E02ADE7CEE9", "target": "O Soldado da Tempestade Blaugybal tem uma carta na mesa de cabeceira que mal pode esperar para enviar." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_01", "hash": "2BFCCC4E5E1B12B7", "target": "Blaugybal pede que você entregue sua solicitação ao Comandante da Tempestade Bloeidin no Camp Overlook. Use a travessia do lago no Jijiroon's Trading Post e depois siga para o norte, em direção a Outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_SEQ_02", "hash": "E9C0B2529DA60FEE", "target": "Você entrega a solicitação ao Comandante Bloeidin, que lamenta a inexperiência de Blaugybal e não permite seu retorno às fileiras. Ele claramente age por preocupação, não por maldade, mas a decepção de Blaugybal será grande." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_TODO_00", "hash": "FC22C6EF1C9A9154", "target": "Entregar a solicitação a Bloeidin no Camp Overlook" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_000", "hash": "2285E93BB0C68DBA", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Sirvo nas Velas Negras do Maelstrom, ou servia, até sofrer ferimentos graves numa batalha contra os Kobold. Fui afastado por invalidez e enviado para cá." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_001", "hash": "8C44A856BBFC62E3", "target": "Pode levar isto ao meu comandante no Camp Overlook? É um pedido de reintegração. Ficar deitado não combina comigo." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_002", "hash": "95B427D69203ED17", "target": "Disseram que meu dever era me recuperar, e cumpri meu dever. Mas certamente não esperam que eu aguarde até o último pedacinho de carne cicatrizar. Consigo segurar um machado, isso deveria bastar." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLAUGYBAL_000_003", "hash": "88F47BC61794FB13", "target": "O caminho direto entre aqui e o Camp Overlook atravessa território Kobold. Sugiro que faça o mais sensato: vá ao Jijiroon's Trading Post e pegue um barco para atravessar o lago. De lá, siga para o norte, em direção a Outer La Noscea." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_020", "hash": "6759542DF86EAD87", "target": "<if(gnum4,Aventureira,Aventureiro)>, é? O que trouxe pra nós?" },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_021", "hash": "722C722D0202BAD1", "target": "Uma <italic(1)>carta<italic(0)>? Não dá pra beber, comer nem esquentar a cama com isso... Ainda mais vindo daquele filhote de Blaugybal." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_022", "hash": "7CEC934DDF46AA67", "target": "Escute, como é seu nome? <split(<string(gstr1)>, ,1)>? Somos as Andorinhas Vermelhas, a tropa mais casca-grossa de todo o Maelstrom. A maioria veio do que você poderia chamar de uma carreira de corsário. Somos os <italic(1)>dentes<italic(0)> do Maelstrom." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_023", "hash": "4C1C88A38FB3E6D0", "target": "O que quero dizer é: quer saber onde a luta está mais feia? É só procurar as Andorinhas Vermelhas. Aqui é a linha de frente, os Kobold não dão um instante de descanso. Não é lugar pra um filhote com feridas que mal cicatrizaram." },
+    { "gameKey": "quest/008/GaiUsb402_00858#TEXT_GAIUSB402_00858_BLOEIDIN_000_024", "hash": "FAEE82187DBFAD3E", "target": "O garoto tem o coração no lugar certo, isso eu garanto, mas uma explosão pode arrancá-lo do peito se ele vier cambaleando de volta pra cá. Vai ter que dormir numa cama macia e comer comida que não esteja cheia de carunchos até se recuperar." }
   ]
 }

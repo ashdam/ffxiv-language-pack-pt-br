@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst001_00024",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_00", "hash": "2FD8BFB5A0C3BF1D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_01", "hash": "A06E7A76F78A0E9D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_02", "hash": "DB5455B624CC2C09", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_TODO_00", "hash": "B2EE3DAA35BC5BEA", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_1", "hash": "FA8CC52747EB48BD", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_2", "hash": "9C52FF8E4F3E495B", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_3", "hash": "E89851A7A0320665", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_4", "hash": "85B2B1786CD5DE26", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_5", "hash": "A78691F5A5414391", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_10", "hash": "2DA78489614DA698", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_11", "hash": "490B727BA4AC8BF1", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_12", "hash": "3775C49A209B087D", "target": "" },
-    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_13", "hash": "9AE97BC0BF50A9FA", "target": "" }
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_00", "hash": "2FD8BFB5A0C3BF1D", "target": "F'mibhas, da Guilda dos Arqueiros, quer que você entregue uma mensagem lacrada no mercado." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_01", "hash": "A06E7A76F78A0E9D", "target": "Leve a mensagem lacrada que recebeu de F'mibhas ao mercado e entregue-a a Parnell no Caramanchão Sombreado." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_SEQ_02", "hash": "DB5455B624CC2C09", "target": "Parnell revela que a mensagem de F'mibhas era um pedido sobre a disponibilidade de mercadorias no mercado. Ela se pergunta por que a aventureira não falou diretamente com ela e reflete sobre a impressão de hostilidade que os gridanianos passam aos forasteiros." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_TODO_00", "hash": "B2EE3DAA35BC5BEA", "target": "Entregar a mensagem lacrada a Parnell no mercado" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_1", "hash": "FA8CC52747EB48BD", "target": "Olá, <if(gnum4,aventureira,aventureiro)>! Tem um momento?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_2", "hash": "9C52FF8E4F3E495B", "target": "Preciso de alguém de confiança para entregar uma carta a Parnell. Você encontra ela no Caramanchão Sombreado, no meio do mercado." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_3", "hash": "E89851A7A0320665", "target": "Hm? Por que eu não vou simplesmente falar com ela?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_4", "hash": "85B2B1786CD5DE26", "target": "Bem, ahn... como você já deve ter percebido... os gridanianos tendem a ser um tanto... Ahem. Quero dizer... <italic(1)>pessoalmente<italic(0)>, eles podem ser... bem... meio espinhosos." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_FMIBHAS_000_5", "hash": "A78691F5A5414391", "target": "O assunto não é urgente. É só entregar a carta da próxima vez que passar pelo mercado. Por favor, como um favor de uma aventureira para <if(gnum4,outra,outro)>!" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_10", "hash": "2DA78489614DA698", "target": "Saudações, <if(gnum4,senhora,senhor)>. Por acaso procura os serviços de um retainer?" },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_11", "hash": "490B727BA4AC8BF1", "target": "O que é isso? Uma carta de F'mibhas, disse? Do que será que trata? Deixe-me ver...<br>...Hm? Ela quer saber sobre o estoque de poções disponível no mercado." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_12", "hash": "3775C49A209B087D", "target": "Mal é assunto para uma carta, muito menos para contratar um mensageiro! Por que não fez a pergunta pessoalmente? \\<suspira> Sinto que os aventureiros de fora das nossas fronteiras acham um tanto difícil lidar com os gridanianos." },
+    { "gameKey": "quest/000/SubFst001_00024#TEXT_SUBFST001_00024_PARNELL_000_13", "hash": "9AE97BC0BF50A9FA", "target": "Será que nos falta tanto calor humano? Se desconfiamos dos forasteiros, é só porque tantos deles trouxeram caos à Mata dos Doze. Pecados como os deles não são esquecidos depressa. Ainda assim... suponho que <italic(1)>possamos<italic(0)> nos esforçar para ser um pouco menos... frios." }
   ]
 }

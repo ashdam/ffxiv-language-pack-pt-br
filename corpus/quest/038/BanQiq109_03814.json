@@ -2,19 +2,19 @@
   "conversation": "quest/038/BanQiq109_03814",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_00", "hash": "9EFFE219C52EF9ED", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_01", "hash": "A4EFAA3B9E942253", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_TODO_00", "hash": "8C5265C200B00601", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_000", "hash": "5C0C68B1377DEF4E", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_001", "hash": "F76403B892D64D71", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_010", "hash": "D00ED9864CDB304F", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_020", "hash": "2061FB1106CAEAB4", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_030", "hash": "404E862A804358F3", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_040", "hash": "10B98F26B2183018", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_050", "hash": "397D2E83893A1529", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_060", "hash": "F76CB19667791A4B", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_070", "hash": "ABF195D0D90FEFFB", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_080", "hash": "345B1DD3CD921096", "target": "" },
-    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_081", "hash": "1D959C38C277E6FB", "target": "" }
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_00", "hash": "9EFFE219C52EF9ED", "target": "Qhoterl Pasol sabe que vale a pena se preparar.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_SEQ_01", "hash": "A4EFAA3B9E942253", "target": "Entregue os objetos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_TODO_00", "hash": "8C5265C200B00601", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extrair splendid chalcanthite na Casca,Entregar a splendid chalcanthite a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Coletar splendid tarantulas na Casca,Entregar as splendid tarantulas a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar um splendid poison catfish nas Mjrl's Tears,Entregar o splendid poison catfish a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_000", "hash": "5C0C68B1377DEF4E", "target": "Graças aos encantamentos de proteção dos Abençoados da Noite, podemos explorar sem medo dos monstros. É claro que os encantamentos costumam perder o efeito com o tempo e, quando isso acontece, precisamos estar prontos para nos proteger." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_001", "hash": "F76403B892D64D71", "target": "Para isso, pretendo preparar um veneno potente e agradeceria muito se você pudesse conseguir um ingrediente para mim." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_010", "hash": "D00ED9864CDB304F", "target": "Preciso de calcantita, que pode ser extraída na Casca. Uns três aglomerados devem servir aos nossos propósitos." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_020", "hash": "2061FB1106CAEAB4", "target": "Preciso de tarântulas, que podem ser encontradas na Casca. Umas três devem servir aos nossos propósitos." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_030", "hash": "404E862A804358F3", "target": "Preciso de um poison catfish, que pode ser pescado nas Mjrl's Tears com um fruit worm no anzol. Só um deve servir aos nossos propósitos." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_040", "hash": "10B98F26B2183018", "target": "Por favor, traga os três aglomerados de calcantita de que preciso para fazer meu veneno. Lembre-se de que podem ser extraídos na Casca." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_050", "hash": "397D2E83893A1529", "target": "Por favor, traga as três tarântulas de que preciso para fazer meu veneno. Lembre-se de que podem ser encontradas na Casca." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_060", "hash": "F76CB19667791A4B", "target": "Por favor, traga o poison catfish de que preciso para fazer meu veneno. Lembre-se de que podem ser pescados nas Mjrl's Tears com um fruit worm no anzol." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_070", "hash": "ABF195D0D90FEFFB", "target": "Que bom que voltou, <if(gnum4,minha boa senhora,meu bom senhor)>. Conseguiu o ingrediente que pedi?" },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_080", "hash": "345B1DD3CD921096", "target": "Esplêndido, agradeço pela gentil colaboração. Caso esteja se perguntando, o veneno funciona tirando o movimento dos monstros. Aplicado às pontas dos dardos, não mata de imediato, mas nos dá a oportunidade de recuar para um lugar seguro." },
+    { "gameKey": "quest/038/BanQiq109_03814#TEXT_BANQIQ109_03814_QHOTERLPASOL_000_081", "hash": "1D959C38C277E6FB", "target": "É claro que rezo para que nosso povo nem precise recorrer a essas medidas. Que o misericordioso Dalan sempre nos abençoe e nos proteja de todo mal." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/001/SubFst029_00172",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "" },
-    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "" }
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "Arold precisa de alguém para lhe trazer uma hi<-->potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "Arold, um Lamentador da Mata de guarda na Torre de Gilbert, foi atacado sem piedade por um bando de esquilos e está em péssimo estado. Infelizmente, ficou sem hi-potions e não pode sair do posto para comprar mais com a comerciante em Bannock. Ajude Arold levando o remédio de que precisa." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "Graças à sua bondade, Arold deve se recuperar depressa. Embora as feridas vão sarar, ele promete permanecer vigilante para que a Mata dos Doze não castigue seu descuido novamente." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "Dar uma hi-potion a Arold" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "Ah, deuses, que dor...<br>Mais cedo, peguei um bando de esquilos roendo as cercas. Consegui espantá-los, mas só depois que resolveram roer <italic(1)>a mim<italic(0)>! E agora sou essa desgraça ensanguentada que você está vendo." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "Para piorar, não tenho nem uma hi-potion. Eu sei, eu sei... imprudência. Lembro vagamente de ter usado a última depois de um arranhão bobo há várias luas... Só os deuses sabem por que não pensei em comprar outra na mesma hora. Por acaso você tem um frasco sobrando?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "Se não tiver nenhuma à mão, a comerciante em Bannock deve ter algumas no estoque. Não posso sair do posto, então ficaria muito grato se pudesse me trazer uma hi-potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "Sete infernos, aqueles esquilos malditos deixaram alguma parte de mim inteira?<br>Ah, você voltou! Trouxe a hi-potion para mim?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "Graças aos deuses! Fico lhe devendo, <if(gnum4,minha amiga,meu amigo)>. Tome, quero que fique com isto." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "Eu não fazia ideia de que esquilos mordiam tão <italic(1)>forte<italic(0)>! Achei que já tinha visto tudo, mas parece que a Mata dos Doze ainda guarda surpresas. Seria bom nós dois lembrarmos disso." }
   ]
 }

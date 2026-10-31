@@ -2,14 +2,14 @@
   "conversation": "quest/030/ComAll002_03007",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "" },
-    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "" }
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SEQ_01", "hash": "B5B1A2E2D8107FD5", "target": "Softknox contou sobre Rival Wings, um novo tipo de jogo de guerra que utiliza máquinas feitas por Goblin. Se a ideia dessas brincalutas faz seu coração disparar, você pode saber mais com Softknox... ou mergulhar direto na ação.<br><br>※Astragalos pode ser acessado pelo Duty Finder." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_000", "hash": "AA881281B0523247", "target": "Pshhh... Shkohhh...<br>Softknox vir ao lugar dos lobos, aprender que altogente ter muitos batecorações por brincalutas." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_001", "hash": "62815908EDEC8D7D", "target": "Softknox ver chance de negociafazer. Oferecer emprestamãos Goblin para altogente ter brincalutas <italic(1)>melhores<italic(0)>. Triturar ossos e esmagar aço muitão!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_002", "hash": "309AD5F453E972F8", "target": "Agora nascer nova brincaluta, nome de “Rival Wings”! Máquinas de goblinfeitura ajudar altogente a fazer muita bagunça junto!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_003", "hash": "962764C849A3D713", "target": "Se altogente querer encher caixacuca com saberes de Rival Wings, Softknox feliz em dar muitos abanalínguas!" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SOFTKNOX_000_050", "hash": "36FD9946A9327B9B", "target": "Pshhh... Shkohhh... Goblin fazer nova brincaluta para dar muitos batecorações. Altogente ter bexiga forte bastante para tentar?" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_051", "hash": "E9AADEA3E5B5FF08", "target": "Para iniciar esta missão, você precisa cumprir os seguintes requisitos:" },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_052", "hash": "8136B34484D37098", "target": "※Você precisa estar pelo menos no nível 30 com um Disciple of War ou Disciple of Magic." },
+    { "gameKey": "quest/030/ComAll002_03007#TEXT_COMALL002_03007_SYSTEM_000_053", "hash": "D413B943C72569BA", "target": "※Você precisa pertencer a uma Grande Companhia e ter desbloqueado The Feast." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz921_02877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "" },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "" }
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "Munifrid procura <if(gnum4,uma aventureira experiente,um aventureiro experiente)> para uma tarefa importante." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Abater o zu nestling" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Apresentar-se a Munifrid" },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, seus feitos como soldado são bem conhecidos. Hoje, porém, gostaria de recorrer à sua vasta experiência em aventuras." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "Quanto à situação atual, parece que parte da nossa rota de patrulha foi tomada como território por um temível zu nestling. Mas não podemos simplesmente contornar a área, pois correríamos o risco de deixar uma entrada sem vigilância para os batedores imperiais." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_002", "hash": "EEEE99EBF55F9AF7", "target": "Meus homens e eu enfrentamos de bom grado qualquer oponente militar. Mas nada em nosso treinamento nos preparou para combater um inimigo que pode voar pelos desfiladeiros e mergulhar sobre nós impunemente." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "Meu companheiro aqui quase perdeu o braço num desses ataques, e temo que seja só uma questão de tempo até a criatura matar alguém... a menos que você a mate primeiro." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "O filhote observa seu domínio de uma estreita coluna de pedra a nordeste. Por favor, encontre esse predador e acabe com a ameaça às nossas patrulhas." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "Talvez conseguíssemos derrubar a criatura com o tempo, mas sangue demais dos nossos mancharia aquelas paredes de pedra. Para <if(gnum4,uma matadora,um matador)> de monstros do seu calibre, porém, espero que não seja um grande desafio..." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "Então o filhote foi abatido? Eu sabia que tinha escolhido a pessoa certa para o trabalho." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "Fico grato por você ter aparecido antes que aquela ave monstruosa tirasse alguma vida. Muito obrigado de todos nós!" }
   ]
 }

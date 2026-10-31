@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz306_02702",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SEQ_00", "hash": "A278A122B259D049", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "" },
-    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "" }
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SEQ_00", "hash": "A278A122B259D049", "target": "Mozu olha ao redor, nervosa." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_00", "hash": "406899B4F34B9069", "target": "Derrotar os warmspring gasame" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_TODO_01", "hash": "AC8B186535AF0020", "target": "Relatar a Mozu" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_000", "hash": "E3D1D386EFA290A6", "target": "Ah, nossa, você deve ser da superfície. Normalmente, eu evitaria me relacionar com gente da sua laia, mas precisamos desesperadamente de ajuda de fora." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_001", "hash": "89D4196553A828C4", "target": "É que dois warmspring gasame entraram nos Jardins das Anêmonas. Alguns homens da aldeia foram eliminá-los, mas, como não estão acostumados a lutar em terra firme, nenhum deles sobreviveu ao confronto..." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_002", "hash": "6A0DDDA1C17BD65D", "target": "Se não conseguirmos matá-los logo, eles acabarão consumindo toda a comida disponível por lá! Por favor, você precisa se livrar deles para nós!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_003", "hash": "6EEE321CC3B7033F", "target": "Enquanto conversamos, eles estão devorando quantidades enormes de comida nas cavernas. Por favor, eu imploro, se apresse e extermine essas criaturas!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_SYSTEM_000_009", "hash": "0440990818B6C189", "target": "Você está sob ataque!" },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_010", "hash": "1381220013952749", "target": "Você os derrotou? Obrigada. Muito, muito obrigada. Você nos salvou de morrer de fome." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_011", "hash": "480421B110F3FDE7", "target": "As algas e os moluscos de lá são uma das nossas principais fontes de alimento. Os yumemi, em especial, são muito nutritivos, e sem eles não conseguiríamos nos sustentar." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_012", "hash": "CC3B3D447E76A90E", "target": "Infelizmente, eles também são um dos petiscos favoritos dos warmspring gasame. Se você não os tivesse matado naquele momento, estaríamos em uma situação terrível." },
+    { "gameKey": "quest/027/StmBdz306_02702#TEXT_STMBDZ306_02702_MOZU_000_013", "hash": "999FB77169A021DC", "target": "O pior é que essas feras cruéis parecem estar ficando mais fortes, talvez por causa do número crescente de erupções de Hells' Lid. Você é incrivelmente forte, mas é melhor tomar cuidado ao lidar com essas criaturas no futuro." }
   ]
 }

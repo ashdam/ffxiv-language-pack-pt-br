@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna605_03068",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "" },
-    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "" }
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_SEQ_00", "hash": "94B4350A3B6E57FB", "target": "Eshana pede sua ajuda para preparar um bálsamo para a enfermaria.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_00", "hash": "4088528EC41ED1DB", "target": "Obter pedaços de argilito no Riacho da Miragem" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_TODO_01", "hash": "2E07358868AC71F5", "target": "Entregar os pedaços de argilito a Eshana" },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_000", "hash": "D56FF28D8E65C7CB", "target": "Olá, <split(<string(gstr1)>, ,1)>. Não temos nenhuma emergência no momento, mas a enfermaria aceitaria uma ajuda, se você quiser. Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_001", "hash": "750CE580E8E698B4", "target": "Temos um problema com insetos, daqueles que mordem e picam. Nossos sentinelas terminam os turnos cobertos de vergões, e não podemos ignorar o efeito disso no moral. Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_002", "hash": "7451F8AAEB248178", "target": "Nem o incenso mais forte afasta todos os insetos, mas o argilito pode ser moído numa pasta que alivia a pior coceira. Poderia me trazer uns três pedaços? Você encontrará depósitos nas águas do Riacho da Miragem. Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_010", "hash": "C044B513001A120F", "target": "Conseguiu encontrar algum depósito de argilito? Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_011", "hash": "85862838CB9D9512", "target": "Sim, estes servirão muito bem. Depois de aplicado, o bálsamo alivia a irritação quase imediatamente. Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_012", "hash": "5DC6132D404C0501", "target": "É um remédio tradicional nosso, passado de geração em geração. Sss..." },
+    { "gameKey": "quest/030/BanAna605_03068#TEXT_BANANA605_03068_ESHANA_000_013", "hash": "06E22E5DD74A520C", "target": "Também temos uma pomada alquímica feita pelo seu povo que cura as picadas, mas os estoques são pequenos. Prefiro guardá-la para os casos mais graves e usar argilito no dia a dia. Sss..." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz922_01987",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_00", "hash": "D827A9FEB5A76C1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_01", "hash": "4FFCAB5937271833", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_02", "hash": "1865DFCD07133C81", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_03", "hash": "6673DEF8980A538F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_00", "hash": "D3CAFB9263708F7C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_01", "hash": "199CB8059A82EDBD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000", "hash": "B192CD2F17B89131", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_001", "hash": "B0EE06EFAAD71A76", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010", "hash": "BF78CD1ED01E9BBF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020", "hash": "0D72F2ADC85FF39C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_021", "hash": "47E23D70433D65DC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_00", "hash": "D827A9FEB5A76C1C", "target": "O módulo de logística alagano gira freneticamente." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_01", "hash": "4FFCAB5937271833", "target": "O módulo de logística alagano informa que várias unidades de movimentação de carga nunca receberam comandos de desativação e operam sem parar há mais de cinco mil anos. Sem conseguir desativá-las remotamente, o módulo de logística autoriza você a fazer isso em seu lugar. Encontre e desative quatro adamantite claws." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_02", "hash": "1865DFCD07133C81", "target": "Você destruiu os adamantite claws. Relate seu sucesso a logistics node." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_03", "hash": "6673DEF8980A538F", "target": "O módulo de logística lembra que pediu para você <italic(1)>desativar<italic(0)> as unidades que não respondiam, e não destruí-las. Diante dos seus crimes, revoga imediatamente a autorização que havia concedido." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_00", "hash": "D3CAFB9263708F7C", "target": "Eliminar adamantite claws" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_01", "hash": "199CB8059A82EDBD", "target": "Relatar a logistics node" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000", "hash": "B192CD2F17B89131", "target": "<switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, por favor, ajude! O subsistema de movimentação de carga nunca recebeu um comando de desativação e funciona há cinco mil e doze anos, oito meses e dois dias." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_001", "hash": "B0EE06EFAAD71A76", "target": "Infelizmente, não tenho controle direto sobre esse subsistema e não posso emitir um comando de anulação para desativá-lo. Devido à gravidade da situação, autorizo você a desativar as unidades afetadas. Pelo menos quatro adamantite claws devem ser desativados." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010", "hash": "BF78CD1ED01E9BBF", "target": "<switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, encontre e desative quatro adamantite claws que não respondem aos comandos." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020", "hash": "0D72F2ADC85FF39C", "target": "\\<bip> \\<bip> Destruição das unidades de movimentação de carga confirmada. <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, você tinha autorização para desativar essas unidades. Não tinha autorização para destruí-las!" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_021", "hash": "47E23D70433D65DC", "target": "Sua autorização foi revogada, e seus crimes foram registrados junto à autoridade judiciária central." }
   ]
 }

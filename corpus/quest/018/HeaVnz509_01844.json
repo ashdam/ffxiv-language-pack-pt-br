@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz509_01844",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_00", "hash": "D58120805AF720B5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_01", "hash": "D1AB932B27FE0AA9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_02", "hash": "F4BE26D855185F66", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_03", "hash": "480E9625658328E3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_00", "hash": "A96950F02AA26FF1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_01", "hash": "93EA98B2CA53ECA4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_000", "hash": "7CFE405FC2080339", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_001", "hash": "712CB817E0333009", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_010", "hash": "4FEDE0904EC7134B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_020", "hash": "0D2A21847B1D6E39", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_030", "hash": "11B09865D7E18B41", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_031", "hash": "97C9A91C36850658", "target": "" },
-    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_032", "hash": "98F48257A74D0BD2", "target": "" }
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_00", "hash": "D58120805AF720B5", "target": "Os ombros de Mogeuge tremem sem parar." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_01", "hash": "D1AB932B27FE0AA9", "target": "Mogeuge ouviu os estalos característicos de mudas de erva-estalante, trazidos pelo vento das terras abaixo de seu posto de vigia. Embora fique feliz por saber que as plantas ainda sobrevivem no solo queimado de Four Arms, teme que não consigam prosperar. Para garantir sua sobrevivência, pede que você recolha cinco mudas e as entregue a Moggzia, o jardineiro-chefe de Moghome, para serem replantadas num ambiente mais favorável." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_02", "hash": "F4BE26D855185F66", "target": "Você recolhe cinco mudas de erva-estalante em Four Arms. Vá a Moghome e entregue-as às patas habilidosas de Moggzia." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_SEQ_03", "hash": "480E9625658328E3", "target": "Você entrega as mudas a Moggzia, que concorda em replantá-las em seu refúgio no alto da colina. Desde que o rugido de Nidhogg levou os dragões ao frenesi, os atos de destruição desenfreada desses escamados levaram boa parte da flora local à beira da extinção. Mas, enquanto houver moogles como Moggzia, as plantas e flores de Churning Mists terão uma boa chance de prosperar em novas paragens." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_00", "hash": "A96950F02AA26FF1", "target": "Coletar mudas de erva-estalante" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_TODO_01", "hash": "93EA98B2CA53ECA4", "target": "Entregar as mudas de erva-estalante a Moggzia" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_000", "hash": "7CFE405FC2080339", "target": "Está ouvindo esses estalos, <if(gnum4,aventureira,aventureiro)>? É o grito de uma erva-estalante, kupo! Várias mudinhas criaram raízes em Four Arms, mas as coitadinhas não vão durar muito nessas terras infestadas de dragões. Precisamos levá-las a um lugar onde recebam cuidados!" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_001", "hash": "712CB817E0333009", "target": "Pode desenterrar cinco mudas e levá-las a Moggzia, kupo? Ele é o moogle responsável pelo jardim acima de Moghome. Se alguém consegue dar um bom lar a essas pobres mudinhas, é ele." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_010", "hash": "4FEDE0904EC7134B", "target": "Four Arms não é lugar para uma erva-estalante, kupo. Se não forem levadas logo a um novo lar, vão definhar! Eu ficaria muito grato se pudesse desenterrar as mudas e levá-las a Moggzia. Ele saberá o que fazer." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGEUGE_000_020", "hash": "0D2A21847B1D6E39", "target": "Encontrou as mudas de erva-estalante, kupo? Então leve-as a Moghome agora mesmo! Não se preocupem, mudinhas, Moggzia vai encontrar um bom lugar para vocês no jardim dele!" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_030", "hash": "11B09865D7E18B41", "target": "...Kupopopo? Posso ajudar, <if(gnum4,aventureira,aventureiro)>?" },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_031", "hash": "97C9A91C36850658", "target": "Mogeuge mandou estas mudas para serem replantadas? Bem, está certo. Tenho certeza de que encontro um lugar para elas por aí." },
+    { "gameKey": "quest/018/HeaVnz509_01844#TEXT_HEAVNZ509_01844_MOGGZIA_000_032", "hash": "98F48257A74D0BD2", "target": "Desde que os dragões perderam o juízo, suas terras caíram em ruína, e muitas plantas nativas se perderam nesse processo. Mas, enquanto nós, moogles, estivermos vivos e respirando, as flores sempre terão amigos em nós, kupo!" }
   ]
 }

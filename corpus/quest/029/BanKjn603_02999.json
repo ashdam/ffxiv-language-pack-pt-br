@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn603_02999",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "" },
-    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "" }
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_SEQ_00", "hash": "01B3184BD49BC6B1", "target": "Zukin está vermelho de raiva dos Vermelhos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_00", "hash": "FAAB906F0E351338", "target": "Usar explosivos da Confederação para destruir imperial crates em Isle of Zekki" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_TODO_01", "hash": "D3DAB130F578D8EF", "target": "Relatar o ocorrido a Zukin" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_000", "hash": "4611CB60A10D56E6", "target": "As atividades recentes dos Vermelhos me preocupam, <split(<string(gstr1)>, ,1)>. Eles começaram a tirar suas armas imperiais do depósito. Não há dúvida: estão planejando um ataque, e podemos muito bem ser o alvo." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_001", "hash": "56928DE1DF6BFDAB", "target": "Para impedir isso, pretendo sabotar essas armas. Temos alguns explosivos da Confederação que serviriam para isso, mas não foram feitos para as mãos grandes dos Kojin." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_002", "hash": "0B93DC51B390F2DB", "target": "Por isso, precisamos recorrer a você. Peço que se infiltre na fortaleza dos Vermelhos, Isle of Zekki, e use os explosivos para destruir as caixas imperiais que encontrar. Que os kami abençoem e protejam você!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_100_002", "hash": "A09952A407E6FB71", "target": "<split(<string(gstr1)>, ,1)>, esperei sua volta numa aflição só! Diga que conseguiu destruir as armas!" },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_003", "hash": "EC01CBAB104C5EB3", "target": "Ah, que alívio! Graças a você, podemos ficar tranquilos por um tempo. Mas isso não quer dizer que podemos baixar a guarda." },
+    { "gameKey": "quest/029/BanKjn603_02999#TEXT_BANKJN603_02999_ZUKIN_000_004", "hash": "39DEEBA676AF45D2", "target": "Mesmo supondo que os Vermelhos estejam desarmados por enquanto, podem conseguir mais armas facilmente com seus senhores imperiais. Talvez precisemos do seu talento de novo." }
   ]
 }

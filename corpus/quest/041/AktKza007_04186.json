@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKza007_04186",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "" },
-    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "" }
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_SEQ_00", "hash": "CD8EFDFCBB40A37E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O green gleaner parece querer falar com você." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_00", "hash": "F4CB33D515F5144B", "target": "Derrotar caribou" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_TODO_01", "hash": "0C9CE02A28FD2B7B", "target": "Falar com o green gleaner" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_000", "hash": "F0211A6273530175", "target": "Com licença, não foi você que ajudou Erenville? Se tiver um instante, também preciso de ajuda com uma certa tarefa..." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_002", "hash": "0900BB67D9854886", "target": "Resumindo, preciso abater alguns caribou. Mas, como este é o primeiro trabalho que aceitei que exige algum grau de violência, não tenho muita confiança em como abordar minhas presas." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_003", "hash": "25D0DA988144E0A3", "target": "Você parece ser <if(gnum4,uma mulher,um homem)> que já viu bastante combate. Que tal eu observar de um esconderijo enquanto você enfrenta os animais que preciso abater!?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_005", "hash": "0964F1D396C55461", "target": "Não precisaria passar o dia todo nisso, é claro. Um ou dois exemplos na floresta a oeste daqui devem bastar! Que tal dois? Eu até pago! ...Por favor?" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_006", "hash": "24AFEF0A9CEB7F4E", "target": "Os caribou não devem dar muito trabalho. E, se derem, bem... isso também vai me ensinar uma lição valiosa!" },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_010", "hash": "22558436170B8AE0", "target": "Obrigado pela instrução! Embora eu duvide que consiga imitar seu estilo particular, ver você em ação foi de enorme ajuda." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_011", "hash": "543B9631F2F4C2DE", "target": "Você também prestou um serviço ao reduzir a população de alguns dos animais mais prolíficos de Labyrinthos. Caso se preocupe, é essencial reduzir o número de caribou de tempos em tempos para manter um habitat estável." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_012", "hash": "D724F1998CBDF8DC", "target": "E nada aqui é morto por mero esporte. Todas as partes das carcaças são recolhidas e aproveitadas, uma prática que vou fazer questão de seguir com as criaturas que você abateu." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_013", "hash": "B2727A2FE34915CC", "target": "Ainda há mais alguns que precisam ser abatidos, mas acho que agora consigo cuidar disso sozinho. Esse é o destino de um coletor, e é melhor aprender logo a fazer isso." },
+    { "gameKey": "quest/041/AktKza007_04186#TEXT_AKTKZA007_04186_GLEANER04186_000_014", "hash": "5BBBE92ABAFE0902", "target": "Ah, e aqui está seu pagamento. Me deseje sorte!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz526_01861",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_00", "hash": "773975A7A453604A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_01", "hash": "7D76253EF3BC2CE7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_02", "hash": "ABE3ED1B1A762969", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_03", "hash": "F815CD0A3609AA44", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_00", "hash": "427BD2C2B38B60AD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_01", "hash": "D5B900738F9CDDEA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_000", "hash": "418880C4801A95E5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_001", "hash": "E20FBCB8686AE563", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_010", "hash": "425905F0689CA677", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_020", "hash": "6717AB0EA529B0BC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_021", "hash": "1ECF495CEBD556AE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_022", "hash": "55017D71A6FE4FE0", "target": "" }
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_00", "hash": "773975A7A453604A", "target": "Este moogle catador parece de mãos vazias e abatido." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_01", "hash": "7D76253EF3BC2CE7", "target": "O moogle catador vem trabalhando duro para reunir ferramentas e armas que pertenceram aos senhores da terra, mas um grupo de vouivres roubou todo o fruto de seu trabalho do dia. Recupere as ferramentas dos dragões e devolva-as ao moogle." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_02", "hash": "ABE3ED1B1A762969", "target": "Você recuperou as ferramentas das garras dos dragões gananciosos. Entregue-as ao moogle catador." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEQ_03", "hash": "F815CD0A3609AA44", "target": "O moogle fica radiante ao ter seu precioso espólio de volta nas patas. Os dragões que infestam o Ninhal ainda guardam rancor dos senhores da terra e não permitem que ninguém, nem mesmo moogles, ponha as mãos nas ferramentas que pertenceram aos seus antigos inimigos." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_00", "hash": "427BD2C2B38B60AD", "target": "Recuperar as ferramentas dos vouivres" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_TODO_01", "hash": "D5B900738F9CDDEA", "target": "Entregar as ferramentas ao rummaging moogle" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_000", "hash": "418880C4801A95E5", "target": "Venho trabalhando sem descanso para reunir ferramentas dos senhores da terra espalhadas por estas ruínas infestadas de dragões, mas aqueles vouivres cruéis me atacaram e roubaram o fruto do meu esforço! Que atrevimento, kupo!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_001", "hash": "E20FBCB8686AE563", "target": "Escute... <italic(1)>Você<italic(0)> parece saber lidar com valentões. Por favor, recupere minhas ferramentas. Os vouivres tiraram três delas direto das minhas patas, kupo!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_010", "hash": "425905F0689CA677", "target": "Os dragões provavelmente estão se gabando do roubo neste instante. Traga minhas coisas de volta!" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_020", "hash": "6717AB0EA529B0BC", "target": "Não posso acabar meu dia de trabalho de patas vazias. Trouxe o que os dragões roubaram de mim, kupo?" },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_021", "hash": "1ECF495CEBD556AE", "target": "...Sim, estas são as ferramentas que encontrei! Muito obrigado por devolvê-las, <if(gnum4,aventureira,aventureiro)>." },
+    { "gameKey": "quest/018/HeaVnz526_01861#TEXT_HEAVNZ526_01861_SEARCHAIRPORTMOG01861_000_022", "hash": "55017D71A6FE4FE0", "target": "Os senhores dos céus ainda guardam rancor dos senhores da terra e de seus semelhantes, e detestam deixar até mesmo moogles usarem as ferramentas antigas de seus inimigos. Nós, moogles, não ligamos para rancores. E, na minha opinião, as ferramentas não têm culpa dos pecados do passado, kupo." }
   ]
 }

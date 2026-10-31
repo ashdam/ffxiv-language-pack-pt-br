@@ -2,15 +2,15 @@
   "conversation": "quest/019/HeaVnz810_01940",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "" }
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_00", "hash": "7C9DB667FFA7B10B", "target": "Halfsix parece dar risadinhas sozinho." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_01", "hash": "49498E447F0AEE50", "target": "Parece que Halfsix criou aparelhos capazes de interromper as comunicações dos Illuminati. Agora, ele quer que você instale essas engenhocas por Makers' Quarter para irritar os inimigos mortais de Idyllshire. Vá a Dravanian Hinterlands e instale os três dispositivos de interferência." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_02", "hash": "62ECD8863983DFCF", "target": "Você instala os três dispositivos de interferência em forma de meia-lua ao redor de Arkhitekton. Volte a Halfsix e conte a grande “peça” que vocês pregaram nos Illuminati." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_SEQ_03", "hash": "3709EC65005146EB", "target": "Ao saber que a tarefa foi concluída, Halfsix precisa conter o riso ao imaginar como os Illuminati ficarão frustrados por não conseguir se comunicar. Embora ele não agradeça diretamente, você sente que conquistou a confiança do goblin." },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_00", "hash": "1856CAA4A807EEAD", "target": "Instalar dispositivos de interferência por Makers' Quarter" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_TODO_01", "hash": "DE20E67538E64FA6", "target": "Falar com Halfsix" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_000", "hash": "1272C8F151275A49", "target": "Pshkohhh... Altogente querer ajudar Idyllshire? Então vir ao goblin certo! Halfsix ter plano astuto, deixar Illuminati malucos das caixacucas!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_001", "hash": "260E872FC67849F2", "target": "Psssheehee! Aqui, pegar invenções de Halfsix, chamadas entupessinal. Se altogente instalar em Makers' Quarter, interromper toda falaar dos Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_010", "hash": "417132EF9CCA68B2", "target": "Psssheehee! Altogente imaginar Illuminati tentando falaar com entupessinal ligado? “Alô? Alô? Conseguir ouvir?”" },
+    { "gameKey": "quest/019/HeaVnz810_01940#TEXT_HEAVNZ810_01940_HALFSIX_000_030", "hash": "341C7143C5F71F52", "target": "Pshkohhh... Agora Illuminati não poder falaar por linkpearl, precisar andar de uma ponta à outra de Makers' Quarter para fazer abanalínguas! Halfsix e altogente pregar peça muito boa, não?" }
   ]
 }

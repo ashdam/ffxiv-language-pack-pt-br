@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzh014_03524",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_00", "hash": "6287CB27E2F988EA", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_001", "hash": "52BD43E225974D06", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_003", "hash": "283C4B50FCEBEE4D", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_004", "hash": "573FE25329BD7625", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_005", "hash": "499D80F85B62D6D7", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_006", "hash": "750A99829311FB96", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_100_010", "hash": "CF0D9EF309B32F2E", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_010", "hash": "A13005342D7B9815", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_011", "hash": "68A2E6FF27BAA9DE", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_012", "hash": "583C63EEEDA77FA8", "target": "" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_013", "hash": "3FE7BC8BFFEFDBCF", "target": "" }
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A debonair dame perdeu algo de grande importância." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_00", "hash": "6287CB27E2F988EA", "target": "Procurar as joias desaparecidas" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "Devolver as joias à debonair dame" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_001", "hash": "52BD43E225974D06", "target": "Perdoe o incômodo, mas preciso desesperadamente de sua ajuda. Perdi várias joias muito queridas durante a confusão e não consegui encontrá-las." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_003", "hash": "283C4B50FCEBEE4D", "target": "Procuro uma tiara com o brasão de minha casa, um colar gravado e um anel de ametista. Como deve imaginar, são todas relíquias de família." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_004", "hash": "573FE25329BD7625", "target": "Não sei onde as deixei cair, tão fora de mim estava naquele momento, mas não podem ter desaparecido no ar. Devem estar em algum lugar da cidade. Se ao menos eu tivesse alguma ideia de onde procurar..." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_005", "hash": "499D80F85B62D6D7", "target": "Por favor, posso implorar sua ajuda? Eu daria qualquer coisa para tê-las de volta em segurança." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_006", "hash": "750A99829311FB96", "target": "Perdoe-me por não saber dizer melhor onde posso tê-las deixado cair, mas, por favor, preciso recuperar minhas relíquias!" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_100_010", "hash": "CF0D9EF309B32F2E", "target": "Conseguiu encontrar alguma de minhas relíquias?" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_010", "hash": "A13005342D7B9815", "target": "Oh, céus, encontrou as três! Não há como se enganar!" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_011", "hash": "68A2E6FF27BAA9DE", "target": "Veja, está escrito aqui: “Busque apenas servir”. Era o lema de minha família muito antes de virmos para Eulmore. Minha avó me ensinou seu significado: devemos sempre amar os outros antes de nós mesmos, ajudar os pobres e os oprimidos..." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_012", "hash": "583C63EEEDA77FA8", "target": "E agora vejo com clareza. É <italic(1)>esse<italic(0)> espírito que tem faltado a nós de Eulmore e que precisamos recuperar. Como meus ancestrais, como você, precisamos aprender a cuidar dos outros sem pensar no que ganharemos com isso." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_013", "hash": "3FE7BC8BFFEFDBCF", "target": "Não sei como poderia agradecer o suficiente por isso, mas saiba que terá minha gratidão eterna." }
   ]
 }

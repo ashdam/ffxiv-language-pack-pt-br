@@ -2,16 +2,16 @@
   "conversation": "quest/010/GaiUsc707_01019",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_00", "hash": "80A7693C1D40C9DD", "target": "Bloeidin precisa da sua ajuda para criar uma distração." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_01", "hash": "4961081FA3EB9B10", "target": "Bloeidin pretende destruir um novo cadinho desenvolvido pelos Kobold, adeptos da alquimia, e encarregou você de criar uma distração. Vá ao Iron Lake e use as bombas improvisadas fornecidas pelo comandante para explodir pilhas de kobold supplies e desviar a atenção deles do alvo principal." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_02", "hash": "F4A70D02CC7FB51D", "target": "Você destruiu os suprimentos dos Kobold conforme as ordens. Volte a Bloeidin e pergunte sobre o sucesso da missão." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_SEQ_03", "hash": "D13745A4D59B105D", "target": "Bloeidin informa que a operação foi um sucesso, em grande parte graças aos seus esforços. A perda do cadinho deve tirar o ímpeto dos Kobold por um bom tempo." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_00", "hash": "49DF49D180EF506C", "target": "Usar bombas improvisadas para explodir kobold supplies" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_TODO_01", "hash": "97F86205AC0BE89F", "target": "Informar Bloeidin" },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_000", "hash": "BD3006AA639C2C15", "target": "Bom, não podemos deixar toda a diversão pros meus homens, não é? Que tal se juntar a nós numa operaçãozinha que vai acertar os Kobold onde mais dói: no cadinho." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_001", "hash": "956AC4C34F296EFD", "target": "Como sabe, essas feras se orgulham das suas habilidades alquímicas. Localizamos um depósito escondido que contém o protótipo de um cadinho novo. Não sei do que ele é capaz e não estou a fim de descobrir. Quero encarregar você de atrair a atenção dos Kobold enquanto minha tropa cuida do cadinho." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_002", "hash": "E7572AF9B67F8E1C", "target": "Leve estas bombas improvisadas ao Iron Lake, onde vai encontrar estoques de todo tipo de provisão do exército Kobold. Confio que vai saber o que fazer daí em diante. E preste atenção: quanto maior a explosão, melhor." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_010", "hash": "4445156778E92CEC", "target": "Bom trabalho! Acho que ouvi as explosões daqui! Vai gostar de saber que a operação foi um sucesso estrondoso: o cadinho não existe mais." },
+    { "gameKey": "quest/010/GaiUsc707_01019#TEXT_GAIUSC707_01019_BLOEIDIN_000_011", "hash": "BC0FDE894C5B46D2", "target": "É, isso deve deixar os Kobold quietos por um tempo. Ah, nada como o prazer de um serviço bem feito. Acho que o grogue que vamos entornar esta noite vai ser o melhor que tomamos em meses." }
   ]
 }

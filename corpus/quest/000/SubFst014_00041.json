@@ -2,19 +2,19 @@
   "conversation": "quest/000/SubFst014_00041",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "" },
-    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "" }
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_00", "hash": "671170175DF2F7A3", "target": "Uma botânica chamada Samiane espera que alguém recolha para ela os frutos de roseira que se espalharam." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_01", "hash": "72B21DB75C5086B3", "target": "Como todo bom gridaniano, Samiane trata seus pertences com respeito e reluta em descartá-los antes do fim de sua vida útil. Uma postura admirável, sem dúvida, mas que leva ao desastre quando sua venerável bolsa de sementes se rompe, deixando frutos de roseira de Azeyma pelo caminho. Ajude a infeliz botânica recolhendo os frutos espalhados pela estrada que leva à Fazenda de Greatloam." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_02", "hash": "5FF92D32CE723B62", "target": "Você recolhe com muito cuidado os frutos de roseira espalhados. Devolva-os a Samiane e tranquilize-a." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SEQ_03", "hash": "42DC202ED065CE42", "target": "Samiane agradece sua ajuda na coleta dos frutos de roseira de Azeyma. Embora algumas sementes pudessem ter brotado onde caíram, ela explica que todos os botânicos consideram sua responsabilidade cultivar a flora da Mata dos Doze nas melhores condições possíveis. Ainda assim, admite que um caminho ladeado de rosas não teria sido tão ruim..." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_00", "hash": "A1B815080039E4B6", "target": "Recolher frutos de roseira de Azeyma" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_TODO_01", "hash": "5D94A45E27D5EEB6", "target": "Entregar os frutos de roseira de Azeyma a Samiane" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_1", "hash": "20A5D2260987FCDA", "target": "Pare aí mesmo! Nem mais um passo!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_2", "hash": "C391245713056154", "target": "Desculpe se assustei você, mas tome cuidado. O chão aqui está coberto de frutos de roseira. Minha bolsa de sementes estava tão gasta que acabou rasgando." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_3", "hash": "422067F023283F5E", "target": "Sem perceber, fui espalhando frutos de roseira de Azeyma por toda esta estrada. Ah, <if(gnum4,minha cara,meu caro)>, se me ajudasse a recolhê-los, eu ficaria muito grata." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_4", "hash": "9F716061FC2361B1", "target": "Obrigada! Sua bondade é mesmo uma bênção dos elementais. Os frutos devem estar na estrada entre aqui e a Fazenda de Greatloam. Lembre-se de pisar com cuidado para não esmagá-los!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_10", "hash": "51F8573DE611EA42", "target": "<if(gnum4,Minha cara,Meu caro)>, por favor, diga que recuperou todos os frutos de roseira e não deixou nenhum para a bota de um viajante!" },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_11", "hash": "EC10672B1CD537D1", "target": "Que você receba muitas bênçãos! Eu temia que este caminho ficasse cheio de roseiras no ano que vem." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_12", "hash": "B265D95A64F5F585", "target": "Não que uma visão tão maravilhosa fosse de todo ruim, mas as roseiras de Azeyma não se adaptam bem a este local. Como botânica, é minha responsabilidade garantir que as plantas de Gridania cresçam e prosperem nas condições mais ideais. Um lugar para cada semente, e cada semente em seu lugar, pode-se dizer." },
+    { "gameKey": "quest/000/SubFst014_00041#TEXT_SUBFST014_00041_SAMIANE_000_13", "hash": "513EDDB6F4A3FB18", "target": "Foi muita gentileza me ajudar num momento de necessidade. Que os elementais lhe concedam a mesma bondade." }
   ]
 }

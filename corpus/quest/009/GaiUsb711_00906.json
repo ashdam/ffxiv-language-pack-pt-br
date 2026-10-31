@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb711_00906",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "" }
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_00", "hash": "5DEC8FEEDF80A468", "target": "Um animal ferido é perigoso, e o Carneiro Branco que se recupera na Balsa de Fallgourd não foge à regra. Seja lá o que Isaudorel tenha em mente, é melhor aceitar." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_01", "hash": "161DFFC059E2EBA5", "target": "Acamado numa estalagem após ser ferido pelos Ixal, Isaudorel não tem escolha a não ser pedir que outra pessoa cace os batedores. Eles devem continuar a nordeste da Balsa de Fallgourd, alimentando-se de caça. Esconda-se perto do antelope carcass e mate os Ixali wildtalons quando aparecerem." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_02", "hash": "51253F745B70EB0D", "target": "Os caçadores viram presas, e os wildtalons não são páreo para sua ferocidade forjada nas estradas. Reflita por um instante se não está endurecendo demais e depois informe Isaudorel das mortes." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_SEQ_03", "hash": "A797C35975197336", "target": "Isaudorel agradece sinceramente pelo seu trabalho. É evidente que a ideia daqueles dois wildtalons à solta pesava em sua mente. Ao ouvi-lo planejar novas vinganças, você percebe que os Ixal o tornaram duas vezes mais perigoso ao feri-lo..." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_00", "hash": "FEC13A980B305BD1", "target": "Ficar à espreita junto ao antelope carcass e matar os Ixali wildtalons" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_TODO_01", "hash": "E199119F1480556A", "target": "Informar Isaudorel" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_000", "hash": "278B213D6A216F35", "target": "Droga, maldição, como dói! Maldito seja eu por baixar a guarda com aqueles Ixal; malditos sejam eles por me retalharem como um filé de peixe!" },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_001", "hash": "65286418DC57793F", "target": "Escute, antes de voltar até Coerthas, que tal esticar um pouco as pernas? Dê um jeito naqueles Ixali wildtalons para mim." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_002", "hash": "0E8C18F98DBB9AAF", "target": "Pareciam recém-chegados à região, então não devem se afastar muito de onde os vi: as Ruínas de Gelmorra. Procure uma presa recém-abatida, algo grande." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_020", "hash": "4F8C047AD1CE52C2", "target": "Você me fez esse favor, então? Muito obrigado, <split(<string(gstr1)>, ,1)>! Vou fazer uma visita aos amigos deles quando estiver de pé de novo." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_ISAUDOREL_000_021", "hash": "2E6B8D5178D4C49B", "target": "Mesmo assim, Molkot vai me arrombar por deixar os wildtalons me pegarem de surpresa. Assim, pelo menos posso dizer a ela que os passarinhos não viveram muito depois disso." },
+    { "gameKey": "quest/009/GaiUsb711_00906#TEXT_GAIUSB711_00906_POP_MESSAGE_000", "hash": "635AD1BFEE26DDEA", "target": "Você sente uma presença hostil!" }
   ]
 }

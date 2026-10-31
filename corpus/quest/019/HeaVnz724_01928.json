@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz724_01928",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_00", "hash": "147451316C8649C8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_01", "hash": "D1294A0A05A0B1D6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_02", "hash": "DE5A79527ACBBBD0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_03", "hash": "D2D8EE8F151C0998", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_04", "hash": "4E13B7093857258A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_00", "hash": "F998FBCB52E92C48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_01", "hash": "39E570772AF9BB07", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_02", "hash": "6F0F3EB0D6512CC6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_000", "hash": "5E4ECD3A337EB2B3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_001", "hash": "416C7BEC20E4EB1C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_010", "hash": "A08216A85B2C7BE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_020", "hash": "D2CE42BEB22E6184", "target": "" }
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_00", "hash": "147451316C8649C8", "target": "Marcechamp ferve de raiva em sua cadeira." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_01", "hash": "D1294A0A05A0B1D6", "target": "Uma fera anda roubando os preciosos chocobos de Marcechamp antes que ele possa recolhê-los das armadilhas, e ele pediu que você a atraísse e matasse. Use a coxa de chocobo que ele lhe deu para atrair a fera no local indicado na Chocobo Forest." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_02", "hash": "DE5A79527ACBBBD0", "target": "Você colocou a carne de chocobo. Fique à espreita e mate a fera quando ela aparecer." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_03", "hash": "D2D8EE8F151C0998", "target": "Você matou o urso, garantindo que nenhum outro chocobo de Marcechamp seja ferido. Informe seu sucesso ao atribulado caçador de chocobos." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_SEQ_04", "hash": "4E13B7093857258A", "target": "Marcechamp agradece sua ajuda e tudo o que você fez por ele desde que chegou a Tailfeather." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_00", "hash": "F998FBCB52E92C48", "target": "Colocar a coxa de chocobo no local indicado" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_01", "hash": "39E570772AF9BB07", "target": "Esperar que a fera se revele e matá-la quando aparecer" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_TODO_02", "hash": "6F0F3EB0D6512CC6", "target": "Falar com Marcechamp" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_000", "hash": "5E4ECD3A337EB2B3", "target": "...Mas que desgraça... Pelos sete infernos! Uma fera anda levando os <italic(1)>meus<italic(0)> chocobos, que dão um trabalho danado pra capturar, antes que eu possa tirar eles das armadilhas. Meus homens dizem que é um dos maiores ursos que já viram.<br><br>Tenho um plano pra atrair o bicho guloso, mas preciso de alguém de confiança pra dar cabo dele. E não tem muita gente mais confiável que você!" },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_001", "hash": "416C7BEC20E4EB1C", "target": "Pegue esta carne de chocobo e coloque onde meus homens viram a fera pela última vez. Depois fique à espreita até ela aparecer. Tenho certeza de que você vai acabar com ela num instante." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_010", "hash": "A08216A85B2C7BE5", "target": "Vá até o último lugar onde viram o urso e use a carne de chocobo pra atrair ele. Garanta que ele não volte a me incomodar." },
+    { "gameKey": "quest/019/HeaVnz724_01928#TEXT_HEAVNZ724_01928_MARCECHAMP_000_020", "hash": "D2CE42BEB22E6184", "target": "Então a fera não vai mais aterrorizar meus chocobos? Muito obrigado, <if(gnum4,amiga,amigo)>. Fico lhe devendo por toda a ajuda que você me deu." }
   ]
 }

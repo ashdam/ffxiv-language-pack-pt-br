@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz715_02818",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "" },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "" }
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "Jayanti parece receosa com a próxima saída." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usar a cerveja sem gás no local indicado e matar Gyr Abanian mud slugs" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Informar Jayanti" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "Ah, <if(gnum4,aventureira,aventureiro)>. Estávamos nos preparando para sair à caça. É um dever do qual nos orgulhamos muito, mas receio que o risco para minhas irmãs tenha aumentado nos últimos dias. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "Nossa maior arma é a flecha envenenada. Todos os animais sucumbem depressa aos seus efeitos. Todos, menos um: a Gyr Abanian mud slug. A quantidade delas aumentou ultimamente, o que dificulta ainda mais a caça. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_002", "hash": "2FC323919CAFAA04", "target": "A resistência delas aos nossos venenos não nos deixa escolha a não ser lutar de perto. E aí está o problema. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_100_003", "hash": "73D149EC74B1069D", "target": "Elas atacam cuspindo. Isso parece não afetar a maioria das criaturas, mas é altamente corrosivo para nossa pele. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_003", "hash": "1DBFB1AD71631273", "target": "A Senhora da Bem-Aventurança certamente ficaria zangada se estragássemos a bela pele com que nos abençoou. Por isso, gostaria de pedir que você reduzisse a quantidade delas em nosso lugar. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_004", "hash": "186CA5F1E03823D9", "target": "Leve esta garrafa de cerveja sem gás. Espalhe o conteúdo pelo chão ao norte daqui e mate as lesmas que forem atraídas pelo cheiro. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_005", "hash": "490378322043A832", "target": "Quando as lesmas aparecerem, cuidado com a saliva delas. Não sei que efeito terá sobre os bípedes. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_010", "hash": "54F428DF82C314E3", "target": "Você voltou, e sem nenhum ferimento. Temos sorte de fazer amizade com alguém tão capaz. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_011", "hash": "ABF13D848DC24D0F", "target": "Diga, você também achou as lesmas repulsssivas?" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_012", "hash": "1142C9DC925F0B70", "target": "Aqueles dorsos viscosos, aquele jeito horrível de se contorcer. Não consigo pensar em criatura mais hedionda do que a lesma. Sss..." },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_013", "hash": "A0823217C592B5F9", "target": "Mesmo assim, você parece não se incomodar nem com a saliva, nem com a aparência grotesca delas. Se voltarem a nos ameaçar, pode ter certeza de que vou chamar você. Sss..." }
   ]
 }

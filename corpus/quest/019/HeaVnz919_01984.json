@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz919_01984",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "" },
-    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "" }
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_00", "hash": "41C48C8143CD6936", "target": "A luz de estado do módulo de suporte vital alagano pisca em um vermelho ameaçador..." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_01", "hash": "3D5AE6BA00E7ACEB", "target": "O módulo de suporte vital alagano informa que a concentração atmosférica de esporos de flores-cadáver atingiu níveis perigosamente críticos e continua subindo. Destrua corpse flowers para reduzir a liberação desses poluentes aparentemente perigosos." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_02", "hash": "75947ACA06F91EA0", "target": "Você erradica as incômodas flores-cadáver. Volte até life support node para confirmar que não há outras fontes de contaminantes atmosféricos perigosos." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_SEQ_03", "hash": "57AD31BEDF80F1BD", "target": "Com a taxa de liberação de esporos reduzida, o sistema de suporte vital agora consegue purificar o ar mais rápido do que ele é poluído. A população anormalmente alta de flores-cadáver parece ter sido causada por um meio aéreo de estimulação de crescimento liberado pela instalação de pesquisa de síntese ecológica." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_00", "hash": "79A34AD3B9F46DBD", "target": "Eliminar corpse flowers" },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_TODO_01", "hash": "52D37C17D22F2594", "target": "Relatar a life support node" },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_000", "hash": "4BEF7268BD458C75", "target": "Impurezas atmosféricas em nível crítico. Concentração atmosférica de esporos de corpse flowers atualmente em mil trezentos e doze por cento do limite máximo de segurança e subindo." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_001", "hash": "E17FB512A854688A", "target": "Destruição imediata de corpse flowers altamente recomendada para garantir a segurança dos cidadãos." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_010", "hash": "C49041537E7BED05", "target": "Destruição imediata de corpse flowers altamente recomendada para garantir a continuidade da segurança dos cidadãos." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_020", "hash": "DDB48951BD813877", "target": "Concentração atmosférica de esporos de corpse flowers atualmente em mil trezentos e onze por cento do limite máximo de segurança e caindo." },
+    { "gameKey": "quest/019/HeaVnz919_01984#TEXT_HEAVNZ919_01984_CONSERVATIONSYSTEM_000_021", "hash": "E1611672586B4189", "target": "Aumento da população de flores-cadáver identificado como resultado da liberação involuntária de um catalisador atmosférico de estimulação de crescimento pela instalação de pesquisa de síntese ecológica. Transmitindo relatório à instalação de pesquisa... \\<bip> \\<bip> Transmissão concluída." }
   ]
 }

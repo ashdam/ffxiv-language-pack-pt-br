@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz007_01732",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_00", "hash": "5B5B0E357429CA07", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_01", "hash": "EDBB24D05319119C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_02", "hash": "A2CB32CCCCE6CD72", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_03", "hash": "5B3899EFCFAA1E09", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_TODO_00", "hash": "C8EAA225046D720E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_TODO_01", "hash": "85AC083F384F4C31", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_000", "hash": "1A7F895AF0CE3591", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_001", "hash": "E6F771642DBB3A80", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_002", "hash": "80C3748EAFF46134", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_010", "hash": "CD88EBBE8015133F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_030", "hash": "7DE62F897453F35B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_031", "hash": "D58976938F914A6E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_032", "hash": "E45891BDC28C0442", "target": "" },
-    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_033", "hash": "325E921C5B123ABE", "target": "" }
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_00", "hash": "5B5B0E357429CA07", "target": "Noirterel está cada vez mais preocupado com as reservas de suprimentos de Falcon's Nest." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_01", "hash": "EDBB24D05319119C", "target": "Noirterel pede que você consiga carne para ele. Mate três steinbocks e recolha sua carne." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_02", "hash": "A2CB32CCCCE6CD72", "target": "Você mata os steinbocks e esquarteja suas carcaças. Volte a Noirterel com a carne." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_SEQ_03", "hash": "5B3899EFCFAA1E09", "target": "Noirterel explica que, como local estratégico essencial, Falcon's Nest precisa resistir a alguns dos ataques mais ferozes da Horda. Essas investidas vão de ataques frontais diretos a cercos longos e arrastados. A carne que você trouxe será congelada e armazenada como ração de emergência, caso as linhas de suprimento sejam cortadas." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_TODO_00", "hash": "C8EAA225046D720E", "target": "Matar steinbocks e obter carne" },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_TODO_01", "hash": "85AC083F384F4C31", "target": "Entregar a carne a Noirterel" },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_000", "hash": "1A7F895AF0CE3591", "target": "Gostaria de ajudar, é? Acho que há algo em que você pode dar uma mão." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_001", "hash": "E6F771642DBB3A80", "target": "Estamos com pouca comida. Há muitos steinbocks vagando logo fora da fortaleza. Por favor, mate alguns e traga a carne. Acho que três devem bastar por enquanto." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_002", "hash": "80C3748EAFF46134", "target": "É uma coisa horrível. Dura como couro de bota, e com o mesmo gosto. Mas não podemos nos dar ao luxo de escolher por aqui, especialmente com nossos estoques de comida nesse estado." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_010", "hash": "CD88EBBE8015133F", "target": "Já encontrou algum daqueles steinbocks? Mate três e traga a carne." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_030", "hash": "7DE62F897453F35B", "target": "Está com a carne de steinbock?" },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_031", "hash": "D58976938F914A6E", "target": "Já conseguiu? Maravilha! Imagino que esteja se perguntando o que vou fazer com algo tão pouco apetitoso. É bem simples: vou deixar lá fora até congelar por completo." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_032", "hash": "E45891BDC28C0442", "target": "Falcon's Nest é uma das primeiras linhas de defesa de Ishgard contra a Horda Dravaniana. Precisamos resistir às investidas mais ferozes dos dragões, mas também sobreviver a cercos prolongados e demorados." },
+    { "gameKey": "quest/017/HeaVnz007_01732#TEXT_HEAVNZ007_01732_NOIRTEREL_000_033", "hash": "325E921C5B123ABE", "target": "Depois de congelada, esta carne vai durar muito tempo. Pode não ser gostosa, mas manterá nossas tropas lutando quando as linhas de suprimento forem cortadas. Obrigado por trazê-la." }
   ]
 }

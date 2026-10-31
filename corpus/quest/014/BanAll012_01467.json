@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll012_01467",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "" },
-    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "" }
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_00", "hash": "214BB97304001F8A", "target": "Mimio quer elogiar seu trabalho entre as diversas sociedades de Eorzea e pedir sua ajuda mais uma vez." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_01", "hash": "FF922ABA9C598958", "target": "A Tenente Mimio Mio expressa sua gratidão por suas realizações, que estabeleceram as bases para que um dia se alcance uma paz duradoura com as tribos bestiais de Eorzea. Dando grande valor às suas habilidades diplomáticas, ela pede sua ajuda numa tarefa importante. Pergunte pelos detalhes ao Tenente Gavin, da Ordem das Duas Víboras de Gridania." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_SEQ_02", "hash": "C97C870EC40BE782", "target": "O Tenente Gavin se anima com sua presença, tendo ouvido falar de seus feitos em prol da paz com as tribos bestiais. Para saber mais sobre a tarefa que a Ordem das Duas Víboras quer confiar a você, fale novamente com o tenente." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_TODO_00", "hash": "B56DAE41532EA11D", "target": "Falar com Gavin no Ninho das Víboras em Gridania" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_000", "hash": "989B31D3A8D5AE90", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>)>)>! As histórias dos seus feitos com os homens-lagarto correm por estes corredores como fogo em palha seca." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_001", "hash": "86C84A8514FF1415", "target": "Não faltam em Eorzea aventureiros capazes de derrubar um ou dois homens-fera, mas os que têm aptidão e vontade de abrir caminho para a paz são raríssimos." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_002", "hash": "412FFD9538C64FF7", "target": "...E você veio num momento muito oportuno. A Ordem das Duas Víboras precisa de alguém hábil na diplomacia, e não me ocorre ninguém mais adequado à tarefa." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_003", "hash": "236E9A7815B2D626", "target": "Nosso contato em Gridania é um tal Tenente Gavin. Procure-o no Ninho das Víboras, e ele vai explicar os detalhes da missão." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_MIMIO_000_004", "hash": "A56B6385A7D94C37", "target": "Nosso contato em Gridania é um tal Tenente Gavin. Procure-o no Ninho das Víboras, e ele vai explicar os detalhes da missão." },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_010", "hash": "2059BBF8822407EF", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! O que eu não daria para ouvir suas aventuras com os homens-fera tomando uma caneca de hidromel!" },
+    { "gameKey": "quest/014/BanAll012_01467#TEXT_BANALL012_01467_GAVIN_000_011", "hash": "8B46F45F26750B24", "target": "...Mas receio que assuntos mais urgentes exijam nossa atenção hoje. Quando quiser receber as instruções, basta avisar." }
   ]
 }

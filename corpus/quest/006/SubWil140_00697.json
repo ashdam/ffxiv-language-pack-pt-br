@@ -2,19 +2,19 @@
   "conversation": "quest/006/SubWil140_00697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_00", "hash": "FAADB9AB306363FF", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_01", "hash": "9C7C3FD43DF0349C", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_02", "hash": "A07D83ED3C82858F", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_TODO_00", "hash": "462385E53E8D1E96", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_000", "hash": "8849A81D3498A94D", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_001", "hash": "E93C875CF3849A42", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_002", "hash": "163327203C8C89AC", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_003", "hash": "1AFADD1CF753D2FA", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_10", "hash": "1B42DFAD4F365A2C", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_11", "hash": "598FF5FECC6BDEF4", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_12", "hash": "BEB79D89237E5370", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_13", "hash": "D849FE818755D649", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_14", "hash": "9A8AAF4FE844B83F", "target": "" },
-    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_15", "hash": "00A9F85B61935D16", "target": "" }
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_00", "hash": "FAADB9AB306363FF", "target": "Nedrick, dos Herdeiros do Sétimo Amanhecer, tem informações úteis que gostaria de compartilhar." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_01", "hash": "9C7C3FD43DF0349C", "target": "Nedrick contou a você sobre um campo de treinamento em Eastern Thanalan conhecido como Halatali. Encontre a entrada e fale com um Soldado das Chamas chamado Fafajoni." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_SEQ_02", "hash": "A07D83ED3C82858F", "target": "Você descobriu com Nedrick e Fafajoni que feras perigosas vivem nos corredores abandonados de Halatali. Com certa relutância, o soldado das chamas permitiu que você use o antigo campo de treinamento como achar melhor.<br><br>※Você pode acessar Halatali pelo Duty Finder." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_TODO_00", "hash": "462385E53E8D1E96", "target": "Falar com Fafajoni em Halatali" },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_000", "hash": "8849A81D3498A94D", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Sou Nedrick Ironheart, explorador de profissão e Herdeiro por lealdade. E <italic(1)>você<italic(0)>, <if(gnum4,minha amiga,meu amigo)>, me parece <if(gnum4,uma aventureira,um aventureiro)> precisando de um desafio. Por acaso, conheço o lugar certo para isso." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_001", "hash": "E93C875CF3849A42", "target": "Escondido num canto de Eastern Thanalan fica Halatali, e é lá que você encontrará toda a emoção que procura. O lugar tem uma história rica. Foi construído há cerca de cem anos como campo de treinamento para gladiadores." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_002", "hash": "163327203C8C89AC", "target": "Mas a Calamidade o arruinou, como fez com quase tudo. Agora, Halatali é uma sombra do que já foi. Porém, na escuridão dessa sombra, espreitam feras selvagens, sedentas de sangue e numerosas demais para contar. Para alguém como você, creio que não há lugar melhor que Halatali para testar suas habilidades e aperfeiçoar sua técnica." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_NEDRICK_000_003", "hash": "1AFADD1CF753D2FA", "target": "Na verdade, tomei a liberdade de passar seu nome às Chamas que supervisionam o lugar. Se for até lá, fale com um tal de Fafajoni perto da entrada." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_10", "hash": "1B42DFAD4F365A2C", "target": "Se procura os salões de Halatali, não precisa procurar mais." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_11", "hash": "598FF5FECC6BDEF4", "target": "Permita que eu conte um pouco sobre este lugar. O nome vem de uma língua antiga: Halatali significa “a terra de muitas sombras”. Foi aqui que nossos ancestrais distantes se estabeleceram pela primeira vez, e─<br>Bah, você não veio até aqui para ter uma aula de história." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_12", "hash": "BEB79D89237E5370", "target": "Shhh, escute. Não ouve os uivos e rosnados? Não sente como fazem tremer a própria terra sob seus pés?" },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_13", "hash": "D849FE818755D649", "target": "Esses sons não são obra do vento, <if(gnum4,minha amiga,meu amigo)>, nem esse tremor é obra de sombras. São os chamados de Halatali, pois agora as feras antes mantidas para o Coliseu espreitam aqui." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_14", "hash": "9A8AAF4FE844B83F", "target": "E não são feras dóceis, domadas pela mão humana. Não, há criaturas lá dentro que nem o poder das Chamas Imortais consegue domar." },
+    { "gameKey": "quest/006/SubWil140_00697#TEXT_SUBWIL140_00697_FAFAJONI_000_15", "hash": "00A9F85B61935D16", "target": "Pela sua aparência, você deve ser <split(<string(gstr1)>, ,1)>. Sim, recebi um aviso de Nedrick de que você poderia vir. Por recomendação dele, dou a você permissão para entrar livremente. Só rezo para que consiga encontrar a saída." }
   ]
 }

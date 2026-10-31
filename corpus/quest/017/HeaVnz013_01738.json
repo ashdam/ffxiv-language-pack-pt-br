@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz013_01738",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "" }
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_00", "hash": "FEAD9702BEFDD961", "target": "Caribault examina a plantação de abóboras com um estranho ar de desânimo." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_01", "hash": "A592E8BA90705B23", "target": "Você conversa com Caribault e pergunta que trabalho há para fazer em Camp Cloudtop. Ele conta todos os problemas causados pelos gastornis selvagens, que já destruíram as plantações do acampamento várias vezes. Na esperança de reduzir a população, ele pede que você mate três dessas aves terríveis em seu lugar. Para aproveitar a oportunidade, também pede que recolha a carne dos gastornis abatidos." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_02", "hash": "AD4DFC220134C118", "target": "Você abateu os gastornis e obteve três pedaços de carne. Volte a Caribault com o que recolheu." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_SEQ_03", "hash": "76D56D4BD5545179", "target": "Caribault fica aliviado ao saber que você conseguiu reduzir a população de gastornis. Ele conta que a carne dessas aves será uma pausa muito bem-vinda na monótona carne salgada à qual os homens do acampamento estão acostumados. Seu trabalho rendeu dois benefícios: uma colheita mais segura e provisões mais apetitosas para o pessoal de Camp Cloudtop." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_00", "hash": "CDB10C8D5AC8FE70", "target": "Abater gastornis e obter sua carne" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_TODO_01", "hash": "8204E702417DE077", "target": "Entregar as coxas de gastornis a Caribault" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_000", "hash": "662C312206708447", "target": "Hm? Está procurando trabalho? Então veio ao lugar certo. Meu nome é Caribault e tenho a honra de servir Lady Laniaitte. Quando estou de folga, tento ser útil ajudando na lavoura, como agora." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_001", "hash": "EDF397E34D25846A", "target": "Ultimamente temos tido problemas com gastornis selvagens. Talvez reconheça essas criaturas parecidas com dodôs coloridos que andam por aqui. Por mais que tentemos afastá-los, eles sempre conseguem alcançar nossas plantações antes da colheita." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_002", "hash": "47DC00094F976295", "target": "Seria uma grande ajuda para o acampamento se pudesse abater alguns. Acho que três bastam. Ah, se não for muito incômodo, poderia trazer a carne dos animais abatidos? Não faz sentido desperdiçar carne de ave tão boa." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_010", "hash": "2AAB4C05F252DBFB", "target": "Abater três gastornis deve ser mais que suficiente. Ah, e não deixe de trazer a carne deles." },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_020", "hash": "1C06C55A728405DD", "target": "Cuidou dos gastornis? Esplêndido! Conseguiu a carne também?" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_021", "hash": "1682BA6CB6A8C94B", "target": "Obrigado, <if(gnum4,amiga,amigo)>! Meus homens vão adorar essa fartura de carne fresca!" },
+    { "gameKey": "quest/017/HeaVnz013_01738#TEXT_HEAVNZ013_01738_CARIBAULT_000_022", "hash": "D9E5C943CF599702", "target": "Carne salgada é boa com moderação, mas muitas vezes sentimos falta de uma comida mais saborosa. Graças a você, matamos dois coelhos com uma cajadada só: nossos homens têm carne fresca para assar, e ganhamos uma trégua dos gastornis." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsc009_00946",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "" }
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_00", "hash": "66B9CDBAF0DA8F91", "target": "Dizem que Forsemart tem um trabalho que envolve viajar." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_01", "hash": "D01A98641076558F", "target": "Forsemart revela que faz parte do grupo que busca respostas em Snowcloak, mas o futuro da expedição é incerto depois que os mercenários abandonaram seus postos. Se quiser ver essa maravilhosa muralha de gelo, fale com Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_SEQ_02", "hash": "0833C81B5B222C18", "target": "Ourdilic observa, com certa acidez, que os cavaleiros dragões alegaram não poder dispensar um único homem. Conhecendo a situação do Posto Avançado de Whitebrim, você suspeita que essa seja a pura verdade..." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_TODO_00", "hash": "A0E79C2E9783DE3D", "target": "Falar com Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_000", "hash": "EF255F7AF6568605", "target": "Faço parte da expedição a Snowcloak. Conhece aquela grande muralha de gelo que cresce como a história de um fanfarrão? Há muito perigo por lá, por isso nosso grupo contratou mercenários." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_001", "hash": "D39772E31AC5EC15", "target": "Mas, assustados com as criaturas que rondam a região, abandonaram seus postos e fugiram. Que covardia é essa? É inacreditável!" },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_002", "hash": "6FF4789FB65322E3", "target": "Dizem que você não mede esforços para cumprir uma missão. O que me diz? Pode proteger a expedição? Precisamos muito de alguém que saiba usar uma espada." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_FORSEMART_000_003", "hash": "5092ECB804EA1208", "target": "Ourdilic, em Snowcloak, contará mais. Cuide-se. Mantenha meu pessoal a salvo." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_010", "hash": "600B0736856A96B8", "target": "<split(<string(gstr1)>, ,1)>, é? Ah, Forsemart enviou você! Pela misericórdia de Halone, que bom receber você aqui. Já estávamos pensando em abandonar a expedição por falta de guardas." },
+    { "gameKey": "quest/009/GaiUsc009_00946#TEXT_GAIUSC009_00946_OURDILIC_000_011", "hash": "4DFADF10089F3BBB", "target": "Os cavaleiros dragões dizem que não podem ajudar, de tão sobrecarregados que estão com a guerra contra os dragões. Sua presença é mesmo providencial!" }
   ]
 }

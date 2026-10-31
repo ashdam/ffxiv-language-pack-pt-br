@@ -2,19 +2,19 @@
   "conversation": "quest/039/BanDwa115_03916",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "" },
-    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "" }
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_SEQ_00", "hash": "9957BFA49BC14EEC", "target": "Regitt olha desanimado para a distância, talvez pensando na ausência de alguns autômatos perdidos.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que você aceitou a missão." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_00", "hash": "E033B6C5BBAF6BE2", "target": "Procurar os autômatos perdidos na Floresta do Pastor Perdido" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TODO_01", "hash": "DA766CE131F5F242", "target": "Entregar os autômatos perdidos a Regitt" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_000", "hash": "0DB9D81E16319CE7", "target": "Ugh, onde eles estão?! Aqueles autômatos já deviam ter voltado faz tempo! Mandei os dois pra mata coletar materiais, mas não aparecem em lugar nenhum." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_001", "hash": "0A17DD38A2E071B3", "target": "Desse jeito, nunca vamos construir nossos tanques. Mas, se eu me enfiar no mato pra procurar, corro o risco de ficar tão perdido quanto o pastor que dá nome à floresta. Eu devia estudar aquele mapa um pouco mais..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_002", "hash": "F7C4A42CE1536E39", "target": "Enfim! Você tá aqui agora e, imagino, conhece a geografia local muito melhor. Faça um favor e traga de volta aquela dupla de idiotas sem senso de direção!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_010", "hash": "8F14087C8E788790", "target": "Saudações, nobre mortal! O que traz você a este bosque maravilhoso? Se quer tratar de algo comigo, receio que precise esperar. Tenho um compromisso prévio e urgente!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_020", "hash": "CD9B06705A1BC0ED", "target": "<if(gnum4,Mortal travessa,Mortal travesso)>, explique-se imediatamente! Por que quer fugir com este Fuath maravilhoso e místico?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_021", "hash": "C02F8E0AE6EC6742", "target": "...Um autômato feito por anões, você diz?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_022", "hash": "66476EA006DCF417", "target": "Ó verdade cruel! Um novo parente destas terras eu julgava perseguir, com uma pele dura como ferro sua forma feérica a cobrir..." },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_TALLFUATH_000_023", "hash": "BB25D09F1ED42D11", "target": "Tanto tempo perdido! Há ervas preciosas a colher e poções a preparar. Pegue seu prêmio e não me incomode mais!" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_030", "hash": "6AE04E60C9E1E399", "target": "Lali-ho! Então encontrou nossos autômatos perdidos?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_040", "hash": "8DFA613CA1BEEA1F", "target": "Separei um monte de peças pra consertar esses dois. À primeira vista, não parecem muito danificados, mas vamos ver o que deu errado... Hm?" },
+    { "gameKey": "quest/039/BanDwa115_03916#TEXT_BANDWA115_03916_REGITT_000_041", "hash": "5721780A58A54C64", "target": "Sem combustível...? Mas dei o bastante pra durar horas e mais horas! Alguma coisa deve ter perseguido os dois pra gastarem carvão tão depressa. Viu só? É por isso que precisamos daqueles tanques!" }
   ]
 }

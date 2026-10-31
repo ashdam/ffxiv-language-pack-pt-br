@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubFst007_00031",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "" },
-    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "" }
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_00", "hash": "94336516E86943F0", "target": "Braya está ocupada com os preparativos para a próxima cerimônia e precisa de alguém para lhe trazer óleo escarlate." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_01", "hash": "C689D788643AF834", "target": "Braya, uma aprendiz de conjuradora um tanto rígida, mas bem-intencionada, fica mortificada ao descobrir que o estoque de óleo escarlate da guilda é insuficiente para a próxima cerimônia. Abata seis joaninhas perto de Bannock e leve a ela o óleo necessário." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_02", "hash": "14FA64A9BC382B08", "target": "Você abate heroicamente seis joaninhas e extrai óleo escarlate de seus cadáveres ainda se contorcendo. Volte ao Santuário da Clareira Serena e entregue o óleo triunfantemente a Braya." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_SEQ_03", "hash": "88B465D2E09F4790", "target": "A expressão de Braya não revela nenhuma emoção quando ela aceita graciosamente o óleo escarlate. Com uma preocupação a menos, talvez consiga relaxar um pouco... algum dia." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_00", "hash": "32B15E4F470675F5", "target": "Obter óleo escarlate de little ladybugs" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_TODO_01", "hash": "A9F3F1019C6963FD", "target": "Entregar o óleo escarlate a Braya" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_1", "hash": "A2F12909DE1CFE99", "target": "Por acaso você lida bem com insetos? Se sim, preciso de sua ajuda com urgência." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_2", "hash": "9EFB18A367AE9F80", "target": "Veja bem, eu estava preparando os próximos rituais de adivinhação quando descobri, para minha grande vergonha, que não temos a quantidade necessária de óleo escarlate." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_3", "hash": "E1C51819328828D3", "target": "Se não for pedir demais, ficaria muito grata se pudesse nos reabastecer a tempo para a cerimônia." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_4", "hash": "0361396B0394B912", "target": "O óleo escarlate pode ser extraído de joaninhas, como as encontradas perto de Bannock. Seis desses insetos devem render a quantidade necessária. Por favor, volte assim que conseguir." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_10", "hash": "FBC68BF3295122DB", "target": "Ah, você voltou. Conseguiu o óleo escarlate que pedi?" },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_11", "hash": "8BC8FF2C374EEFBD", "target": "Sim, tudo parece estar em ordem. A cerimônia pode ocorrer como planejado. Estou grata..." },
+    { "gameKey": "quest/000/SubFst007_00031#TEXT_SUBFST007_00031_BRAYA_000_12", "hash": "61748647A5C1139E", "target": "...aos elementais por terem trazido você até nós. Por favor, aceite esta pequena demonstração de nossa gratidão." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz518_01853",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_00", "hash": "04522090B1AEE6B0", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_01", "hash": "E8705957A03CDCDA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_02", "hash": "AF99870263498774", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_03", "hash": "E87647E0E482DA57", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_00", "hash": "56311BA3164CC46A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_01", "hash": "C74E10E0EFB2CD1A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_000", "hash": "07CC658E48504637", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_001", "hash": "36CF3A681469E549", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_010", "hash": "853DC6A3A75F0203", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_020", "hash": "60B90DBEFECBF834", "target": "" },
-    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_021", "hash": "E40BA36E2EE48F6A", "target": "" }
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_00", "hash": "04522090B1AEE6B0", "target": "Mogoot observa os golems próximos com um olhar atento." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_01", "hash": "E8705957A03CDCDA", "target": "A tarefa de Mogoot é derrubar limestone golems. Ele aproveita a oportunidade para questionar suas qualificações para comandar o Esquadrão Mog. Abata três golems e leve os núcleos a Mogoot para mostrar seu valor." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_02", "hash": "AF99870263498774", "target": "Os golems se desfazem em pedrinhas diante de você. Leve os núcleos de volta a Mogoot." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_SEQ_03", "hash": "E87647E0E482DA57", "target": "Mogoot fica espantado com suas habilidades de combate e duvida que algum dia consiga alcançar tamanha excelência. Com a missão concluída, ele volta para refletir sobre o que aprendeu." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_00", "hash": "56311BA3164CC46A", "target": "Abater limestone golems para obter seus núcleos" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_TODO_01", "hash": "C74E10E0EFB2CD1A", "target": "Entregar os núcleos a Mogoot" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_000", "hash": "07CC658E48504637", "target": "Meus alvos de treinamento estão bem ali. Os golems não podem escapar ao olhar atento de Mogoot, o extraordinário atirador de elite!" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_001", "hash": "36CF3A681469E549", "target": "Mas eu queria pedir uma coisa. Embora confie no julgamento de Mogzun, quero ver com meus próprios olhos a força de <if(gnum4,nossa comandante,nosso comandante)>, kupo. Prove sua força trazendo três núcleos dos limestone golems enormes que andam por aqui." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_010", "hash": "853DC6A3A75F0203", "target": "Quero ver sua habilidade de combate com meus próprios olhos. Derrube os golems que andam pesadamente pela área." },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_020", "hash": "60B90DBEFECBF834", "target": "Os golems se desfizeram como terra diante da sua fúria! Trouxe os núcleos, kupo?" },
+    { "gameKey": "quest/018/HeaVnz518_01853#TEXT_HEAVNZ518_01853_MOGOOT_000_021", "hash": "E40BA36E2EE48F6A", "target": "Sim, estes servem perfeitamente! Depois de ver você lutar, acho que o Esquadrão Mog não poderia pedir <if(gnum4,uma comandante mais qualificada,um comandante mais qualificado)>! Na verdade, duvido que algum dia eu consiga defender meu lar com tanta habilidade... Bem, é preciso conhecer as próprias fraquezas para melhorar! Treino encerrado, kupo!" }
   ]
 }

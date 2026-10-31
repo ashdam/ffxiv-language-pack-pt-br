@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubWil123_00633",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_00", "hash": "4A4341052AC9F530", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_01", "hash": "08FA8AD695950D13", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_02", "hash": "18F68C21813E01E0", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_03", "hash": "0122430EE1BE0D07", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_00", "hash": "39A1ED0729F892A8", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_01", "hash": "5775279FDFEE61BC", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_1", "hash": "A81EE83824BAB287", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_2", "hash": "12AB3517FC38F55C", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_3", "hash": "16F0F52F4564DA37", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_10", "hash": "D38FD35458B3C5F5", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_11", "hash": "2ABDC275E2B63B4E", "target": "" },
-    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_12", "hash": "702670F5254CD1F3", "target": "" }
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_00", "hash": "4A4341052AC9F530", "target": "Lululo, do Bazar Dourado, quer que os vandalous imps que aterrorizam sua escavação sejam mortos." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_01", "hash": "08FA8AD695950D13", "target": "Lululo quer procurar veios de mitril entre as ruínas a leste. Porém, o aparecimento de vandalous imps espantou os mineradores que ela contratou para escavar. Mate quatro dos imps para manter os outros afastados." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_02", "hash": "18F68C21813E01E0", "target": "Você matou os vandalous imps. Volte ao Bazar Dourado e relate a Lululo." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_SEQ_03", "hash": "0122430EE1BE0D07", "target": "Lululo continua preocupada com a falta de progresso causada pelas feras da região. Ela tem certeza de que ainda levará bastante tempo até a mineração começar." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_00", "hash": "39A1ED0729F892A8", "target": "Abater vandalous imps" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_TODO_01", "hash": "5775279FDFEE61BC", "target": "Relatar a Lululo" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_1", "hash": "A81EE83824BAB287", "target": "Achei que mineradores fossem pessoas duronas e resistentes. Não sabia que podiam ser tão covardes! Você parece saber se defender. Que tal matar umas pragas para uma dama Lalafell?" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_2", "hash": "12AB3517FC38F55C", "target": "Eu <italic(1)>deveria<italic(0)> estar liderando uma escavação nas ruínas a leste daqui, à procura de jazidas de mitril. Mas, assim que os mineradores que contratei viram os vandalous imps da região, todos deram meia-volta e fugiram." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_3", "hash": "16F0F52F4564DA37", "target": "Mate alguns desses malditos desgraçados para mim, sim? Quatro imps mortos devem manter os outros longe e tranquilizar os mineradores." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_10", "hash": "D38FD35458B3C5F5", "target": "Vocês aventureiros nunca deixam de mostrar seu valor. Agora posso mandar aqueles mineradores covardes voltarem a fazer a única coisa para a qual servem: escavar!" },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_11", "hash": "2ABDC275E2B63B4E", "target": "Os veios de mitril ainda não passam de boatos, mas, se todo minerador fugir ao menor sinal de perigo, nunca vamos saber ao certo. Talvez eu precise contratar você regularmente para abater aqueles malditos imps." },
+    { "gameKey": "quest/006/SubWil123_00633#TEXT_SUBWIL123_00633_LULULO_000_12", "hash": "702670F5254CD1F3", "target": "\\<suspiro> Receio que ainda vá demorar bastante até podermos minerar de verdade." }
   ]
 }

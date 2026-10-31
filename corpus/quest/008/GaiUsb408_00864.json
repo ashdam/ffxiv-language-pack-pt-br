@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb408_00864",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "" }
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "O Comandante Bloeidin claramente passou a confiar na sua habilidade e discrição." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "O Comandante da Tempestade Bloeidin conta que Kobold foram vistos recentemente perto do Camp Overlook e quer enviar você para investigar. Vasculhe os locais indicados perto do acampamento e mate qualquer Kobold que tenha o azar de encontrar você." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "Você adornou a encosta com os restos dos inimigos derrotados. Porém, é hora de encerrar essa diversão de fanfarrões e informar o Comandante Bloeidin." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "A estima do comandante da Tempestade por você cresce a cada missão. Mas ele está inquieto, pois os batedores Kobold despertam uma lembrança ainda vaga..." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "Vasculhar os locais indicados e matar Kobold" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "Informar Bloeidin" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "Saudações, <split(<string(gstr1)>, ,1)>. Obrigado pelas outras vezes. Você não é mole, isso eu reconheço. Tenho um serviço que precisa de <if(gnum4,uma moça durona e difícil,um rapaz durão e difícil)> de matar: procurar batedores Kobold." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "Meus rapazes dizem que tem pelo menos três deles em algum lugar da colina. Você sabe se virar, não sabe?" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "Apontei a luneta pra você assim que soube que tinha luta. Sabia que você era <if(gnum4,uma fera,um brigão)>! Tem certeza de que não quer largar a estrada e se juntar a nós aqui? Tem Kobold suficiente pra todo mundo!" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "Tem algo meio familiar naqueles Kobold de que você cuidou. Eu podia jurar que já vi alguns se mexendo daquele jeito. Vou acabar lembrando, se tivermos sequer esse tempo." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "Você sente um cheiro de terra e metal!" }
   ]
 }

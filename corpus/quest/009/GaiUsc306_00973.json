@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc306_00973",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "" },
-    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "" }
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_00", "hash": "34A71EF05F6E678A", "target": "Elfleda precisa de ajuda para preparar o evento social da temporada." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_01", "hash": "919FB18F1D33234B", "target": "Radiante por comparecer ao casamento que se aproxima, Elfleda pede sua ajuda para obter núcleos de wind sprite. Mate alguns wind sprites e colete quatro núcleos." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_02", "hash": "8C935E4C7C8BF33F", "target": "Você obteve quatro núcleos de wind sprite. Se quiser saber por que Elfleda precisa disso para uma Cerimônia do Vínculo Eterno, volte ao santuário e entregue os núcleos a ela." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_SEQ_03", "hash": "DA8F942056FDB212", "target": "Elfleda conta alegremente seu plano de criar uma tempestade de pétalas de rosa para a amiga. Imaginando janelas estilhaçadas e uma brigada de damas vestidas de samito voando pelos ares, você sugere que ela use só um núcleo..." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_00", "hash": "5C975CEFB267B8F7", "target": "Matar wind sprites para obter seus núcleos" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_TODO_01", "hash": "13CD923727C513D2", "target": "Dar os núcleos de wind sprite a Elfleda" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_000", "hash": "869EBE4857D0B7C5", "target": "O santuário parece tão... <italic(1)>santificado<italic(0)>, não acha? Uma grande amiga minha, somos praticamente irmãs, vai se unir ao amado aqui, e fui convidada. É uma honra e tanto! Você precisa ver o enxoval dela!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_001", "hash": "8B2F59476A272CF7", "target": "Mas estou me desviando do assunto! É tão fácil quando se fala de vestidos, não acha? Principalmente de samito meracydiano e desta renda <italic(1)>maravilhosamente<italic(0)> delicada feita por criancinhas Lalafell. Lá vou eu de novo! Eu queria falar com você sobre wind sprites, me perdoe." },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_002", "hash": "EE30177164B34977", "target": "Bem, não tanto dos wind sprites, mas de seus núcleos. Preciso de quatro. Por quê? Ah, não posso contar! Não até você trazer. Segredos são tão divertidos, não acha?" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_020", "hash": "174B6AE8C93FBE56", "target": "Você trouxe os núcleos? Maravilha! Ah, este <italic(1)>vai ser<italic(0)> o evento social da temporada. Que emoção! Eu e minha amiga somos muito próximas, praticamente irmãs, sabe?" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_021", "hash": "5C2C165C26A5B071", "target": "Muito, muito obrigada! Conto meu segredinho? Bem, já que você ajudou tanto... Vou usar isto na hora de jogar as pétalas de rosa. Vai ser uma verdadeira tempestade de flores!" },
+    { "gameKey": "quest/009/GaiUsc306_00973#TEXT_GAIUSC306_00973_ELFLEDA_000_022", "hash": "CFCAFC4F8FB17484", "target": "Quatro é demais? Tem certeza? Ah. Bem, acho que eu <italic(1)>devia<italic(0)> testar antes, talvez na minha propriedade. Afinal, <italic(1)>é<italic(0)> o evento social da temporada." }
   ]
 }

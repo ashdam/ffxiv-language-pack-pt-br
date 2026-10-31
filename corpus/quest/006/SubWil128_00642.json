@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil128_00642",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "" },
-    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "" }
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "A Irmã Airell, da Igreja de Santo Adama Landama, está atarefada com o trabalho da Ordem." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "Há túmulos demais para a Irmã Airell conseguir cuidar de todos a tempo. Recolha seis old offerings dos túmulos no lugar dela." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "Você recolheu as oferendas antigas dos túmulos. Volte à igreja e relate à Irmã Airell." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "Parece que a Irmã Airell ainda precisa pôr algumas coisas em ordem na igreja. Fale com ela mais uma vez para receber outra tarefa." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "Recolher old offerings" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "Entregar as oferendas antigas à Irmã Airell" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "<if(gnum4,Seja bem-vinda,Seja bem-vindo)> à Igreja de Santo Adama Landama. Sou a Irmã Airell." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "Imagino que você não esteja em peregrinação. Parece <if(gnum4,uma aventureira,um aventureiro)>. Se for o caso, posso pedir que nos ajude a cuidar do cemitério enquanto estiver aqui conosco?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "Há muito mais túmulos aqui do que pessoas para cuidar deles. Não temos como fazer tudo o que é preciso sem ajuda." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "Você poderia recolher as old offerings espalhadas lá fora? Contei pelo menos seis na última vez que percorri o cemitério." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "Conseguiu recolher as oferendas antigas?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "Obrigada. \\<suspiro> Quem dera não houvesse mais nada a fazer. Logo precisarei recolher os vasos, as urnas e os jarros desgastados pelo tempo. Os mortos dormem melhor num túmulo bem cuidado." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "Tenho bastante trabalho a oferecer, se você quiser. Fale comigo de novo quando tiver vontade." }
   ]
 }

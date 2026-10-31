@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz401_02724",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_SEQ_00", "hash": "A665C3A433C0FDFA", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_00", "hash": "C6EEE45DBF4E9EA4", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_01", "hash": "31BF0D3989E5BD01", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_000", "hash": "11EC9129AB0E6600", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_001", "hash": "8379C20159EB1D3C", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_002", "hash": "6E784407BA74522D", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_010", "hash": "2EB95D9D17DB6433", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_020", "hash": "FC42EA6C7D25459B", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_021", "hash": "2DFC784619920EE4", "target": "" },
-    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_022", "hash": "15F43482A4C99EF2", "target": "" }
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_SEQ_00", "hash": "A665C3A433C0FDFA", "target": "Fukata espera que você goste de cheiros ruins." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_00", "hash": "C6EEE45DBF4E9EA4", "target": "Espalhar o balde de líquido fedorento nos locais indicados" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_TODO_01", "hash": "31BF0D3989E5BD01", "target": "Relatar a Fukata" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_000", "hash": "11EC9129AB0E6600", "target": "Olá, viajante. Preciso da sua ajuda, se tiver tempo. Embora eu faça parte da Frente de Libertação de Doma, também sou um orgulhoso morador de Namai, com minhas próprias responsabilidades para com a aldeia." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_001", "hash": "8379C20159EB1D3C", "target": "Recebi ordens para vigiar esta nascente e não abandonar meu posto sob nenhuma circunstância. Porém, há outro trabalho para a aldeia do qual preciso cuidar." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_002", "hash": "6E784407BA74522D", "target": "Esperava que você pudesse fazer isso por mim. Aqui, pegue este líquido e espalhe por aquela área ali. Muito obrigado!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_010", "hash": "2EB95D9D17DB6433", "target": "Por favor, espalhe aquele líquido por aquela área ali. Muito obrigado!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_020", "hash": "FC42EA6C7D25459B", "target": "Já terminou? Fantástico!" },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_021", "hash": "2DFC784619920EE4", "target": "Sem dúvida, você deve estar se perguntando por que aquele líquido fede tanto. Bem, ele é feito com uma mistura de ingredientes de cheiro forte: vísceras de animais, resina e alho, só para citar alguns. É ótimo para manter as feras longe." },
+    { "gameKey": "quest/027/StmBdz401_02724#TEXT_STMBDZ401_02724_FUKATA_000_022", "hash": "15F43482A4C99EF2", "target": "Um dos meus companheiros rebeldes me ensinou a fazer. Ah, e é bom lavar suas roupas... vamos ver... três esfregadas <italic(1)>caprichadas<italic(0)> devem dar conta." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea060_00472",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "" },
-    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "" }
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_00", "hash": "976D5158AFA5D331", "target": "As laranjas nosceanas de Bhirdraeg estão maduras e prontas para a colheita." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_01", "hash": "58C2D4DBC0553563", "target": "Bhirdraeg pediu que você colha suas laranjas nosceanas maduras. Os piratas irritadiços sob seu comando preferem colher brigas a frutas, deixando o trabalho para você." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_02", "hash": "C8315038F785BC76", "target": "Você colheu uma quantidade suficiente de laranjas. Leve-as a Bhirdraeg." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SEQ_03", "hash": "F236F6C2B6EE0239", "target": "As palhaçadas dos piratas semearam o descontentamento entre os produtores locais, e a Almirante parece enredada nas ervas daninhas." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_00", "hash": "9DE3726868CDFB03", "target": "Colher as laranjas nosceanas" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_TODO_01", "hash": "E0AA6CC47C997712", "target": "Entregar as laranjas a Bhirdraeg" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_1", "hash": "F105B8FFFB0C23E0", "target": "Bah, não posso nem contar com aqueles piratas podres pra colher estas laranjas maduras." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_2", "hash": "C32105184D5A10D2", "target": "Mas, se deixar mais um dia, elas podem cair dos galhos." },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_3", "hash": "61F1A5919CE0D326", "target": "Talvez você possa pegar algumas pra mim. Não tem medo de uma ou duas vespas irritantes, tem?" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_11", "hash": "85BFEDFBDE481643", "target": "Veja só essas laranjas suculentas, transbordando de néctar! Podem cair a qualquer momento!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_12", "hash": "5C34B807BD76E66B", "target": "Ah, maduras no ponto! Que doçura!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_13", "hash": "3817726F493072C7", "target": "Se aquele bando preguiçoso de piratas aposentados pegar escorbuto, vai ser bem feito!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_BHIRDRAEG_000_14", "hash": "207AF716959E20FB", "target": "Isso só prova que não se ensinam truques novos a um velho lobo-do-mar. Era de se esperar que a Almirante soubesse disso!" },
+    { "gameKey": "quest/004/SubSea060_00472#TEXT_SUBSEA060_00472_SYSTEM_000_20", "hash": "32C7B6725DBC62AC", "target": "Um zumbido enlouquecedor enche seus ouvidos!" }
   ]
 }

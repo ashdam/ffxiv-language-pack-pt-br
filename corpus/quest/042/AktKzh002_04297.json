@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzh002_04297",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_SEQ_00", "hash": "E7F721C5EF576919", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_00", "hash": "9545ADF4CC1E6542", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_01", "hash": "423620FB4886C976", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_000", "hash": "352C36610D6DF3A2", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_001", "hash": "1E39CED82D6C8FD2", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_002", "hash": "4D3217B8DCBAF353", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_003", "hash": "EA55613A448C08EE", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_005", "hash": "CAAAE61C7A563E80", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_006", "hash": "314E4AF989BEB633", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_007", "hash": "A314E02A700F072A", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_008", "hash": "5FBBCA145B1C41D8", "target": "" },
-    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_009", "hash": "854AD05AE6C2FCCB", "target": "" }
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_SEQ_00", "hash": "E7F721C5EF576919", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A eccentric creator tem um pedido para o familiar de Azem." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_00", "hash": "9545ADF4CC1E6542", "target": "Usar corda etérea fina para capturar restless plants" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_TODO_01", "hash": "423620FB4886C976", "target": "Entregar as plantas amarradas à eccentric creator" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_000", "hash": "352C36610D6DF3A2", "target": "Você deve ser o familiar de Azem. Eu tinha um favor para pedir aos observadores daqui, mas, como todos parecem terrivelmente ocupados, talvez possa pedir a você." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_001", "hash": "1E39CED82D6C8FD2", "target": "Estou fazendo experiências com o cruzamento de diferentes tipos de plantas. Fiquei radiante quando finalmente produzi uma espécie inteiramente nova... até elas se erguerem e saírem flutuando." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_002", "hash": "4D3217B8DCBAF353", "target": "Da última vez que as vi, seguiam para o lado leste da ilha. Consegui capturar uma boa quantidade, mas ainda faltam umas oito. Pode me ajudar a recapturá-las?" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_003", "hash": "EA55613A448C08EE", "target": "Obrigada. Aqui, use esta corda etérea para capturar, digamos, quatro delas. Com sorte, consigo dar conta do resto." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_005", "hash": "CAAAE61C7A563E80", "target": "Você capturou as plantas?" },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_006", "hash": "314E4AF989BEB633", "target": "Ainda bem, embora eu não esperasse menos do familiar de Azem. Também reuni minha metade, então todas estão de volta, sãs e salvas." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_007", "hash": "A314E02A700F072A", "target": "Elas são híbridas de yggdreant, sabe? Não é surpresa terem herdado os olhos, mas vê-los sair vagando por conta própria foi bastante inesperado." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_008", "hash": "5FBBCA145B1C41D8", "target": "Para falar a verdade, nunca tive uma utilidade específica em mente para elas. Acho melhor começar a pensar nisso... O Departamento do Arquiteto não vai se impressionar com minha nova criação se ela não tiver um propósito." },
+    { "gameKey": "quest/042/AktKzh002_04297#TEXT_AKTKZH002_04297_STAFF04297_000_009", "hash": "854AD05AE6C2FCCB", "target": "Pensando nisso, acredito que tenho pesquisas a fazer. Obrigada pela ajuda e mande lembranças a Azem." }
   ]
 }

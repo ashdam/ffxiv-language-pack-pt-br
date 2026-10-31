@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzb104_05044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_001", "hash": "3F0339A8DFC207C6", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_002", "hash": "5F6DD1FAC271D19C", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_003", "hash": "1E4478B05A54A4C1", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_005", "hash": "942DECCD23E295A5", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_010", "hash": "4F7D4DAC2078D964", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_011", "hash": "200028264F5A0D39", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_012", "hash": "BD27027BD16293C1", "target": "" },
-    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_013", "hash": "81548EBA65488D35", "target": "" }
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_SEQ_00", "hash": "C1F8FD5CA088445D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O injured Yok Huy parece definhar de dor." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_00", "hash": "DF44E3721721B9A5", "target": "Procurar o jar of pigment" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_TODO_01", "hash": "4987E4EF43E91CBC", "target": "Entregar o pote de pigmento ao injured Yok Huy" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_000", "hash": "C3921D877D556E6D", "target": "Urrrgh... Um momento, por favor, visitante. Eu estava a caminho para levar pigmento de Worlar's Echo até a Sentinela, logo adiante." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_001", "hash": "3F0339A8DFC207C6", "target": "Mas, tolo que fui, baixei a guarda e... <italic(1)>aaargh<italic(0)>... quando os monstros atacaram, só me restou fugir para salvar a vida, abandonando minhas provisões e até minha preciosa carga." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_002", "hash": "5F6DD1FAC271D19C", "target": "Os bichos podem ficar com a comida, não me importo. Mas aquele pigmento é essencial para reparar os murais das nossas cavernas." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_003", "hash": "1E4478B05A54A4C1", "target": "Por isso, peço... aaagh! Não, <italic(1)>imploro<italic(0)>: vá recuperar o pote de pigmento que deixei perto das Sunken Stars!" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_005", "hash": "942DECCD23E295A5", "target": "Você encontrará o pigmento em algum lugar perto das Sunken Stars. Nnngh, eles me pegaram de jeito..." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_010", "hash": "4F7D4DAC2078D964", "target": "A dor diminuiu enquanto você estava fora, ainda que só um pouco. Encontrou o pigmento?" },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_011", "hash": "200028264F5A0D39", "target": "Sim, é este mesmo! Que alegria vê-lo de novo, e sem uma rachadura sequer no pote. Vai ser de grande ajuda para os reparos." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_012", "hash": "BD27027BD16293C1", "target": "Embora estes murais estejam protegidos do sol e das intempéries, ainda desbotam com o tempo, por isso precisam de manutenção regular." },
+    { "gameKey": "quest/050/KinGzb104_05044#TEXT_KINGZB104_05044_INJUREDYOKFUY05044_000_013", "hash": "81548EBA65488D35", "target": "Eu pretendia participar dos reparos, mas... ai! Receio que primeiro tenha de tratar meus ferimentos na Sentinela." }
   ]
 }

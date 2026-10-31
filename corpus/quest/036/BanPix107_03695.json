@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix107_03695",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "" },
-    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "" }
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_SEQ_00", "hash": "B429CE3DEB473E94", "target": "Uin Nee não aguenta esperar mais um instante para ver seus pedidos atendidos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_00", "hash": "31A8DCB357AB9D08", "target": "Vigiar Good Jenanna's Grace e abater uma erva-de-bruxa para obter suas pétalas" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_TODO_01", "hash": "0E11CB601589AFA3", "target": "Entregar as pétalas de erva-de-bruxa a Uin Nee" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_000", "hash": "6D77D860A98ED6CC", "target": "Ah, não! Fiz de novo: esqueci uma coisa importantíssima! Esqueci o quê, você pergunta? Criatura boba, é isso que estou tentando lembrar!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_001", "hash": "BD3628A8887E804F", "target": "Ah, mas é claro, pétalas de erva-de-bruxa! De algum jeito, consegui acabar com meu estoque inteiro! Isso não pode ficar assim. Não, de jeito nenhum!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_002", "hash": "9A7BDF80E0C44475", "target": "Ainda bem que você apareceu bem na hora de me ajudar a resolver tudo! É impressionante como sempre parece saber quando preciso de você. Agora, vá a Good Jenanna's Grace, onde vivem as ervas-de-bruxa mais floridas e enfeitadas! Não se preocupe, eu cuido de tudo aqui." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_010", "hash": "BA6065F5CAEC5D6C", "target": "Ah, veja quem voltou! Trouxe─espere, o que foi que eu pedi mesmo?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_011", "hash": "0C88A2C92633FC3E", "target": "Mas é claro! Pétalas de erva-de-bruxa! Como pude esquecer? Falando em esquecer, esqueci completamente de dizer para que precisava delas, não foi?" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_012", "hash": "22AEE678CE060691", "target": "Se estava prestando atenção (e você sempre presta, não é?), deve ter notado como as ervas-de-bruxa mudam suas pétalas para imitar a forma das presas. As pobres criaturinhas se aproximam achando que encontraram companhia, e... NHAC! CROC! Adeus, criaturinha." },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_013", "hash": "2FA8979054BEBD4C", "target": "\\<fungada> Pobres coisinhas... Enfim, onde eu estava? Ah, sim! Com pétalas de erva-de-bruxa, basta fazer um feitiço simples para tecer todo tipo de animal fofo para meus pequenos sonhadores!" },
+    { "gameKey": "quest/036/BanPix107_03695#TEXT_BANPIX107_03695_UINNEE_000_014", "hash": "B3A567FC05C66454", "target": "Mas que criatura devo conjurar primeiro? Uma joaninha? Uma minhoca se contorcendo? Talvez um exército de aranhas minúsculas! Espere, que tal <italic(1)>todas<italic(0)> elas! Sim, vou cobrir as crianças de bichinhos! Não queria ainda ser criança para ter sonhos tão lindos?" }
   ]
 }

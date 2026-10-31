@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz319_01811",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_00", "hash": "692305B3040E83AF", "target": "Este indomitable wyvern está em pânico por ter perdido alguma coisa." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_01", "hash": "6764E9C50DC9D471", "target": "Embora hesite a princípio, o indomitable wyvern admite o motivo de sua aflição: seu irmão mais novo desapareceu. Ele não tem certeza, mas acredita que o irmão esteja perdido em algum lugar de Mourn. Procure o jovem dragão desaparecido na caverna de Mourn." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_02", "hash": "B95812DBDB033A83", "target": "Você encontra o jovem dragão são e salvo, despertando de seu sono. Ainda meio sonolento, ele olha para você com uma indiferença que beira o desdém. Porém, basta mencionar o irmão para que ele voe para a saída. Volte ao indomitable wyvern e veja se o irmão mais novo voltou em segurança." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_SEQ_03", "hash": "275776552409D6D7", "target": "Você sai da caverna e encontra o indomitable wyvern na companhia do irmão mais novo. Ele agradece e olha para o pequeno, esperando que o jovem dragão também demonstre respeito. Você só recebe silêncio enquanto ele sai voando sem dizer nada. O indomitable wyvern logo se desculpa, prometendo dar um jeito no irmão em breve." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_00", "hash": "66019E08ABE255DC", "target": "Procurar o landbound dragonling em Mourn" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_TODO_01", "hash": "73C3B84F08706728", "target": "Voltar ao indomitable wyvern" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_000", "hash": "9C12A928FEBF6D98", "target": "<if(gnum4,Uma mortal,Um mortal)>!? Hum... você pode me ajudar? Meu irmão desapareceu sem deixar rastros." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_001", "hash": "7E167C5E755E68D3", "target": "Ele ainda é jovem e costuma sair vagando. Por favor, encontre-o antes que se meta em apuros. Suspeito que esteja perdido na caverna de Mourn." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_010", "hash": "FB0A164DAEE96EAF", "target": "Meu irmão costuma ceder à curiosidade e sair vagando por Mourn. Encontre-o antes que seja tarde demais." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_020", "hash": "24CEE63ABDD4E09F", "target": "\\<bocejo> O calor desta caverna dá um sono bom, mas agora estou ficando com fome... Hum? O que você quer?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_YOUNGERBROTHERPUPPY01811_000_021", "hash": "83DD3AC96E64F50E", "target": "Meu irmão está chamando? Então preciso ir." },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_040", "hash": "29A7E5B28B707FAA", "target": "Obrigado. Fiz bem em pedir sua ajuda. Pequeno, onde está sua gratidão?" },
+    { "gameKey": "quest/018/HeaVnz319_01811#TEXT_HEAVNZ319_01811_OLDERBROTHERWYVERN01811_000_041", "hash": "12914E7EF441DBB3", "target": "Você precisa perdoá-lo. Ele não está acostumado a falar com... sua espécie. Não se preocupe, vou dar um jeito nele." }
   ]
 }

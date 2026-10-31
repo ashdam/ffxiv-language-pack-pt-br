@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz010_01735",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_00", "hash": "8A1EF57BE9DBF63D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_01", "hash": "E8D463B988A1EB6C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_02", "hash": "22CAD9458430DE2B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_03", "hash": "F6111F9F72705B1B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_TODO_00", "hash": "8285972277E83E1D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_TODO_01", "hash": "D707F2AF0150C4A5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_000", "hash": "B7C3E15D54441762", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_001", "hash": "AA4B2C5265C65C2C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_010", "hash": "380FC7F1D21B5494", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_040", "hash": "E9FDC57FFD7994DA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_041", "hash": "219D888F04FC374D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_042", "hash": "B98E4035F19E2EC7", "target": "" }
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_00", "hash": "8A1EF57BE9DBF63D", "target": "Ysaudore observa o outro lado do penhasco, preocupada." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_01", "hash": "E8D463B988A1EB6C", "target": "Os arredores do Acampamento da Confluência já foram campos verdejantes e ondulados. Agora são um deserto congelado, onde vivem lobos ferozes e famintos. Ysaudore quer expulsar essas feras e confiou uma missão a você: abater três silver wolves." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_02", "hash": "22CAD9458430DE2B", "target": "Você abateu os lobos conforme solicitado. Volte a Ysaudore e conte sobre seu sucesso." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_SEQ_03", "hash": "F6111F9F72705B1B", "target": "Ysaudore agradece seu empenho. O Acampamento da Confluência já foi um posto militar, que abrigava tropas de Ishgard e facilitava as patrulhas nos arredores. Ysaudore espera retomar o acampamento e tornar a região segura novamente." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_TODO_00", "hash": "8285972277E83E1D", "target": "Abater silver wolves" },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_TODO_01", "hash": "D707F2AF0150C4A5", "target": "Apresentar-se a Ysaudore" },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_000", "hash": "B7C3E15D54441762", "target": "Um pouco adiante fica o Acampamento da Confluência. O acampamento já foi o centro de pastagens exuberantes, ideais para o gado e outros animais de criação... Agora só abriga lobos." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_001", "hash": "AA4B2C5265C65C2C", "target": "Por favor, ajude a expulsar as feras com espada e magia. Abata três silver wolves para que aprendam a nos temer." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_010", "hash": "380FC7F1D21B5494", "target": "Por favor, expulse as criaturas do Acampamento da Confluência. Abata três dos silver wolves que rondam por lá." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_040", "hash": "E9FDC57FFD7994DA", "target": "Já abateu aqueles lobos horríveis? Meus mais sinceros agradecimentos." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_041", "hash": "219D888F04FC374D", "target": "Houve um tempo em que tropas de Ishgard ficavam estacionadas no Acampamento da Confluência. Se retomássemos o acampamento e pudéssemos pôr soldados lá de novo, nossas patrulhas seriam mais seguras e cobririam uma área maior..." },
+    { "gameKey": "quest/017/HeaVnz010_01735#TEXT_HEAVNZ010_01735_YSAUDORE_000_042", "hash": "B98E4035F19E2EC7", "target": "Em breve, agiremos para retomar o acampamento. Quando chegar a hora, talvez volte a pedir sua ajuda." }
   ]
 }

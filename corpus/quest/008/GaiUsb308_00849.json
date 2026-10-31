@@ -2,14 +2,14 @@
   "conversation": "quest/008/GaiUsb308_00849",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_00", "hash": "9F92F4BCCFD2B8D5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_01", "hash": "6023D7EA051391F1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_02", "hash": "952FA5BCEBA204AA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_03", "hash": "40F3B9DB7E7D5185", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_TODO_00", "hash": "00693B2F9856FE58", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_TODO_01", "hash": "228F7E916E295270", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_000", "hash": "9A6B57DDE6FB93F3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_001", "hash": "316F79066EED3297", "target": "" },
-    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_020", "hash": "BA6E841ADA2447A1", "target": "" }
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_00", "hash": "9F92F4BCCFD2B8D5", "target": "Etgar quer que você volte a eliminar seus demônios." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_01", "hash": "6023D7EA051391F1", "target": "Preocupado, Etgar conta que o rio se empanturrou das águas residuais ricas da vinícola, fazendo com que os gigantoads se proliferassem descontroladamente. Ele pede que você elimine três desses anfíbios enormes." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_02", "hash": "952FA5BCEBA204AA", "target": "Você conteve as ameaças saltitantes gigantescas. Volte a falar com Etgar e conte que o serviço está feito." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_SEQ_03", "hash": "40F3B9DB7E7D5185", "target": "Embora aliviado por você ter dado um jeito nas pragas embriagadas de açúcar, Etgar continua preocupado com o impacto da produção de vinho no ambiente natural. Você não consegue deixar de se sentir melhor com a profissão que escolheu e sua relativa falta de complicações." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_TODO_00", "hash": "00693B2F9856FE58", "target": "Matar gigantoads" },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_TODO_01", "hash": "228F7E916E295270", "target": "Informar Etgar" },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_000", "hash": "9A6B57DDE6FB93F3", "target": "O vinhedo gasta muita água para tirar o açúcar e as impurezas das uvas, os resíduos estragados e a borra das cubas e dos barris. E tudo isso vai parar no rio." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_001", "hash": "316F79066EED3297", "target": "A riqueza desses resíduos sufoca o rio, e os gigantoads se fartam da imundície. Se os raptores eram horríveis, esses são três vezes piores. Mate-os por nós, por <italic(1)>mim<italic(0)>, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb308_00849#TEXT_GAIUSB308_00849_ETGAR_000_020", "hash": "BA6E841ADA2447A1", "target": "Ah, Mestre Byrglaent vai ficar tão contente. Mas... me entristece que nosso vinho tenha estragado tanto o rio. Talvez possamos, <italic(1)>eu<italic(0)> possa, construir algum sistema para tornar nossos resíduos mais limpos." }
   ]
 }

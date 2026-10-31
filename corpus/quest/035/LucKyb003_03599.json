@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKyb003_03599",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "" },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "" }
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SEQ_00", "hash": "FF88F220EE232639", "target": "Halldor parece eufórico ao ver você de novo." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_TODO_00", "hash": "5FE938D471BF5EFB", "target": "Falar com Xylle" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_001", "hash": "CB097D16BA3CEBE2", "target": "Olá, <if(gnum4,matadora,matador)>. Aposto que já está se entediando com os alvos de duas nozes, não é?" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_002", "hash": "4AC0DEB5E0695EB9", "target": "É, antes eles podiam fazer o sangue correr e o coração disparar, mas é só questão de tempo até a emoção passar." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_003", "hash": "6C84C4A8454279CD", "target": "Sei exatamente como se sente! Eu mesmo não consigo imaginar nada mais empolgante que chegar aos meus limites mortais. Ter que usar presas e garras quando as armas se quebram e lutar pela sobrevivência com o que estiver à mão!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_004", "hash": "B8F0DFBDCE8E8A93", "target": "Quem somos nós para negar esse esporte singular, hein!? Por isso recomendei <if(gnum4,a senhora,o senhor)> para os alvos de três nozes! Pode se orgulhar! Logo estará dançando com a própria morte!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_005", "hash": "3BD6832AC0835AE8", "target": "Vá falar com Xylle. Tenho certeza de que ela ficará absolutamente radiante em conceder esse maravilhoso privilégio!" },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_050", "hash": "E4E54828944F241B", "target": "Então quer caçar alvos de três nozes? Foi o que imaginei quando vi <if(gnum4,a senhora,o senhor)> se aproximar. Além disso, Halldor andou insistindo dia e noite para que eu concedesse essa permissão. Isso também contou." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "Sempre que o assunto são suas façanhas, ele se enche de uma paixão ardente. É como se vivesse essas histórias por meio dos relatos... Enfim, se deseja desafios maiores, poderá tê-los." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "Tenha em mente os riscos maiores de perseguir esses alvos. <if(gnum4,Morta ou horrivelmente mutilada,Morto ou horrivelmente mutilado)>, não terá utilidade para nós." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "Contratos de alvos do Clã de três nozes estão disponíveis." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "Agora você pode retirar contratos de alvos de três nozes no Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "Ao atingir o nível 80, novas missões e contratos de alvos de elite do Clã ficarão disponíveis com Halldor em Crystarium." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "O que está esperando!? Uma aventura de desafiar a morte promete grandes emoções! Vá falar com Xylle agora mesmo!" }
   ]
 }

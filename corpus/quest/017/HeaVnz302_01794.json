@@ -2,18 +2,18 @@
   "conversation": "quest/017/HeaVnz302_01794",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_00", "hash": "198E66853AEE48BE", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_01", "hash": "4612374BFE06E698", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_02", "hash": "B1386A70A70D944B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_03", "hash": "AA772338E11CB85B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_00", "hash": "AE96EC948C3D34CA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_01", "hash": "0CB9DA9F48B5A89E", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_000", "hash": "8C3F4A32630E906C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_001", "hash": "65D98080EEE57E42", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_010", "hash": "22A60716A47EE76F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_BALLOON_100_020", "hash": "2CC7D86534436CF2", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_020", "hash": "6C8F386DEDE90628", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_021", "hash": "863564FB0A0DF778", "target": "" },
-    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_022", "hash": "DE7D3C6DE751C34D", "target": "" }
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_00", "hash": "198E66853AEE48BE", "target": "O Vath strongarm está em completo pânico." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_01", "hash": "4612374BFE06E698", "target": "O Vath strongarm sofreu uma emboscada dos Gnath e precisou abandonar sua carroça. Embora a carga seja muito valiosa, ele teme que os agressores ainda estejam por perto e pede que você a recupere em seu lugar. Procure as mercadorias abandonadas perto do rio a oeste de Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_02", "hash": "B1386A70A70D944B", "target": "Como esperado, os Gnath estavam de emboscada, esperando que alguém tentasse recuperar os bens do Vath strongarm. Você elimina os agressores prontamente e recupera a carga. Leve-a de volta a Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_SEQ_03", "hash": "AA772338E11CB85B", "target": "A carga do Vath strongarm incluía um presente especial para uma Vath por quem ele se interessa. Ele fica radiante por você tê-la recuperado e agradecido por você ter vingado o ataque dos Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_00", "hash": "AE96EC948C3D34CA", "target": "Obter a carga abandonada" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_TODO_01", "hash": "0CB9DA9F48B5A89E", "target": "Entregar a carga ao Vath strongarm" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_000", "hash": "8C3F4A32630E906C", "target": "Fomos atacados por Gnath da Mente Una! Fugimos às pressas. Deixamos nossa carroça. A carroça está cheia de mercadorias. Precisamos recuperar as mercadorias. \\<clique> \\<clique> As mercadorias são muito preciosas. Muito, muito preciosas." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_001", "hash": "65D98080EEE57E42", "target": "Mas os Gnath ainda podem estar esperando! \\<clique> \\<clique> <if(gnum4,Generosa caçadora,Generoso caçador)>, você tem força. Pode recuperar nossas mercadorias? Fomos atacados à beira do rio, a oeste de Loth ast Gnath. Nossa carroça ainda deve estar lá. Por favor, recupere nossas preciosas mercadorias." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_010", "hash": "22A60716A47EE76F", "target": "Nossa carroça deve estar perto de Loth ast Gnath. A oeste de Loth ast Gnath." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_BALLOON_100_020", "hash": "2CC7D86534436CF2", "target": "\\<clique> \\<clique> Isso é nosso! \\<clique> \\<clique>" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_020", "hash": "6C8F386DEDE90628", "target": "<if(gnum4,Caçadora,Caçador)>, trouxe nossa carga?" },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_021", "hash": "863564FB0A0DF778", "target": "Ah, sim. É isso, algas deliciosas! Nós as coletamos como presente. Um presente para uma Vath especial. Gostamos dela. Gostamos muito dela." },
+    { "gameKey": "quest/017/HeaVnz302_01794#TEXT_HEAVNZ302_01794_CRUSTACEANSLOVERGNATH01794_000_022", "hash": "DE7D3C6DE751C34D", "target": "Então os Gnath estavam mesmo de emboscada? Gnath traiçoeiros... \\<clique> \\<clique> Obrigado por matá-los. Você não nos deu só nossas algas. Também nos deu nossa vingança." }
   ]
 }

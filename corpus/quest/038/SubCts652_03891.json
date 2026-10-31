@@ -2,16 +2,16 @@
   "conversation": "quest/038/SubCts652_03891",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_SEQ_00", "hash": "CE29449279CA886E", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_000", "hash": "A4579595C4D3678C", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_001", "hash": "A622F7BB05972F3B", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_002", "hash": "A90D5C4E2C7BFFE1", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_010", "hash": "77B9A3E27F4439B4", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_020", "hash": "37F5FFE77C3AF0D8", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_021", "hash": "8CEE23FA2135811B", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_022", "hash": "8E3034AA6BDC5673", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_023", "hash": "B8073192A00AF906", "target": "" },
-    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_024", "hash": "D14E96D778CF0A8C", "target": "" }
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_SEQ_00", "hash": "CE29449279CA886E", "target": "Hautdilong tem algo para compartilhar com você e não consegue mais guardar para si." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_TODO_00", "hash": "A77394B0DA6584C2", "target": "Falar com Arvide" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_000", "hash": "A4579595C4D3678C", "target": "<if(gnum4,Senhorita,Senhor)> <split(<string(gstr1)>, ,2)>, aí está você! Ehll Tou e eu estivemos pensando em como retribuir toda a sua ajuda." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_001", "hash": "A622F7BB05972F3B", "target": "Depois de pensar muito, decidimos pedir ao Mestre Arvide que nos ajudasse a fabricar um presente sob medida, só para você. Espero que ele não tenha estragado a surpresa." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_002", "hash": "A90D5C4E2C7BFFE1", "target": "Na última vez em que conversamos, ele disse que o projeto estava quase pronto. Será que já terminou? Ah, espero que você goste!" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_HAUTDLONG_000_010", "hash": "77B9A3E27F4439B4", "target": "Acho que você vai ter uma boa surpresa com o que Ehll Tou e eu planejamos. O Mestre Arvide já deve ter terminado. Ele deve estar no mercado de New Nest." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_020", "hash": "37F5FFE77C3AF0D8", "target": "Ah, que bom ver você! Imagino que tenha falado com Hautdilong. Pois bem, aqui está!" },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_021", "hash": "8CEE23FA2135811B", "target": "Ehll Tou insistiu muito para que eu fizesse esta trompa exatamente assim. Sopre nela e a dragoazinha voará até você, onde quer que esteja." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_022", "hash": "8E3034AA6BDC5673", "target": "Embora eu não possa mais chamá-la de pequena, não é? É natural que, conforme cresça, sua vontade de conhecer o mundo também aumente." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_023", "hash": "B8073192A00AF906", "target": "Por isso ela queria que você ficasse com isto. Mostre a ela cada canto do mundo civilizado e apresente pessoas de todo tipo. Ela vai precisar de muitos conhecimentos para dar aos seus semelhantes uma visão completa da nossa espécie." },
+    { "gameKey": "quest/038/SubCts652_03891#TEXT_SUBCTS652_03891_ARVIDE_000_024", "hash": "D14E96D778CF0A8C", "target": "Quando aceitei ajudar Ehll Tou, não imaginava que poderia contribuir com algo muito maior do que eu. Seja qual for o resultado dos seus esforços, devo dizer que é uma honra ter dado minha pequena contribuição. Obrigado pela oportunidade." }
   ]
 }

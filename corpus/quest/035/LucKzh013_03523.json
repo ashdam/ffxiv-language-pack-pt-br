@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzh013_03523",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_SEQ_00", "hash": "097EEFD897A56630", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_00", "hash": "9471B6566942512F", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_01", "hash": "E50DF6F0E247A32B", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_000", "hash": "354A002CB446C8E8", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_001", "hash": "F9ED958C71749B07", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_002", "hash": "1B0CD4CBBE588466", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_SYSTEM_000_010", "hash": "48EB914F7E5D2809", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_020", "hash": "17096253D19020F4", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_021", "hash": "7DA4B0C7BE56AE16", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_022", "hash": "38E7D4A60D15993F", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_023", "hash": "3B1376B6CF76A0C9", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_024", "hash": "541650A69599C107", "target": "" },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_025", "hash": "D9888CEC57009A38", "target": "" }
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_SEQ_00", "hash": "097EEFD897A56630", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Tui-Shirr precisa de ajuda com os reparos." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_00", "hash": "9471B6566942512F", "target": "Recolher tábuas de navio" },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_01", "hash": "E50DF6F0E247A32B", "target": "Entregar a madeira e o anel a Tui-Shirr" },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_000", "hash": "354A002CB446C8E8", "target": "Está sem tempo? Caso contrário, eu agradeceria muito uma ajuda para consertar este barraco. Ele está meio caindo aos pedaços no momento." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_001", "hash": "F9ED958C71749B07", "target": "Estou ficando sem madeira, mas vou levar uma eternidade para terminar se tiver que parar e procurar mais materiais. Pode me trazer quatro tábuas que pareçam resistentes, por enquanto? Parte da madeira dos velhos navios afundados ainda deve servir." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_002", "hash": "1B0CD4CBBE588466", "target": "Procure madeira que não esteja encharcada nem cheia de lascas. Não precisa ser bonita, desde que seja firme." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_SYSTEM_000_010", "hash": "48EB914F7E5D2809", "target": "Você nota um objeto brilhante preso na fresta entre duas tábuas. Ao tirá-lo de seu esconderijo, vê que é um anel bastante castigado pelo tempo. Talvez Tui-Shirr saiba a quem pertence." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_020", "hash": "17096253D19020F4", "target": "Encontrou a madeira?" },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_021", "hash": "7DA4B0C7BE56AE16", "target": "O que é isto? Um anel?" },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_022", "hash": "38E7D4A60D15993F", "target": "Ah, é um anel alfandegário! Eles serviam de autorização para os comerciantes entrarem em Eulmore." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_023", "hash": "3B1376B6CF76A0C9", "target": "Como eu sei? Bem, na verdade, eu trabalhava no estaleiro. Na época, li muito sobre sua história." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_024", "hash": "541650A69599C107", "target": "Um dia, gostaria de reconstruir um daqueles velhos navios e deixá-lo pronto para navegar pelo mundo em grandes aventuras outra vez. Está bem longe de desmontar essas mesmas embarcações para conseguir material para barracos, mas um homem pode sonhar." },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_025", "hash": "D9888CEC57009A38", "target": "Vou lhe dar parte do que recebo por este serviço como agradecimento pela ajuda. Pensei em dividir meu almoço com você, mas dinheiro provavelmente é mais fácil de carregar. E, a esta altura, está bem menos passado." }
   ]
 }

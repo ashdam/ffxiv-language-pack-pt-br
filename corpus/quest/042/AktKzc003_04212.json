@@ -2,19 +2,19 @@
   "conversation": "quest/042/AktKzc003_04212",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_SEQ_00", "hash": "2FD9C5E9F017D9C9", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_TODO_00", "hash": "9FF76C1BF10EEA83", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_TODO_01", "hash": "94D7E10910B99BD7", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_001", "hash": "4423EDFC0A213C8E", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_002", "hash": "D0DE506027480C17", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_003", "hash": "EA2B5841CBA79B24", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_004", "hash": "5C3A069769E070CB", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_005", "hash": "05BA1430B12CC270", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_SYSTEM_000_006", "hash": "DA13C299C73BF8F0", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_007", "hash": "55014EB6A6860D76", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_008", "hash": "8212DB59890F9D33", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_009", "hash": "3AE2BB3704076DAB", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_010", "hash": "A3E9E258B461AC39", "target": "" },
-    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_011", "hash": "1F34AB8EF32D5072", "target": "" }
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_SEQ_00", "hash": "2FD9C5E9F017D9C9", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Fraisoinne olha freneticamente ao redor enquanto murmura para si mesma." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_TODO_00", "hash": "9FF76C1BF10EEA83", "target": "Procurar a mammet elegante perto do Último Bastião" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_TODO_01", "hash": "94D7E10910B99BD7", "target": "Entregar a mammet elegante a Fraisoinne" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_001", "hash": "4423EDFC0A213C8E", "target": "Ah, meu amor, minha luz, aonde você foi? Não sou nada sem você." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_002", "hash": "D0DE506027480C17", "target": "Ah! Não vi você aí, tão absorta estou na minha busca. Perdi minha mammet de vista, sabe? Ela é uma peça fundamental na minha pesquisa sobre os muitos mistérios do éter." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_003", "hash": "EA2B5841CBA79B24", "target": "Devo ter dado uma ordem errada a ela, ou talvez até a tenha rejeitado. Ela tem um coração tão sensível, sabe. Enfim, já faz algum tempo que saiu para sua tarefa. Por favor, pode me ajudar?" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_004", "hash": "5C3A069769E070CB", "target": "Ah, obrigada, obrigada! Mandei que fizesse uma tarefa perto do Último Bastião, então é melhor começar a busca por lá. Sua aura é inconfundível. Procure sua figura elegante e seu jeito imperioso." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_005", "hash": "05BA1430B12CC270", "target": "Espero que ela não esteja se divertindo com algum outro pesquisador. Ou, céus me livrem, um <italic(1)>estudante<italic(0)>... Por favor, vá ao Último Bastião e traga minha amada mammet de volta!" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_SYSTEM_000_006", "hash": "DA13C299C73BF8F0", "target": "Você vê uma mammet impressionante e entende por que sua dona está tão encantada com ela. Devolva-a antes que não consiga resistir à vontade de ficar com ela." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_007", "hash": "55014EB6A6860D76", "target": "Volte para mim, minha princesa, minha rainha. Volte para mim!" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_008", "hash": "8212DB59890F9D33", "target": "É ela! Minha mammet encantadora! E sem um único arranhão em seu belo rosto. Palavras não descrevem a felicidade que você me deu!" },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_009", "hash": "3AE2BB3704076DAB", "target": "Encomendei esta obra-prima a um coletor e pedi que fosse feita à imagem da mulher que conquistou meu coração de longe. Com a ajuda de um tomo escrito pelo Arquimago Quan, construí meu próprio dispositivo para controlá-la à distância." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_010", "hash": "A3E9E258B461AC39", "target": "No entanto, parece que ainda há algumas falhas a corrigir. Ah, um coração arrebatado é propenso a esses erros. É fácil deixar detalhes passarem despercebidos quando o mundo inteiro está ao seu alcance." },
+    { "gameKey": "quest/042/AktKzc003_04212#TEXT_AKTKZC003_04212_FRAISOINNE_000_011", "hash": "1F34AB8EF32D5072", "target": "Preciso clarear a mente e redobrar meus esforços. Obrigada mais uma vez pela ajuda de hoje. Não vamos esquecer você tão cedo!" }
   ]
 }

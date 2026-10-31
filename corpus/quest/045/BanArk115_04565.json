@@ -2,17 +2,17 @@
   "conversation": "quest/045/BanArk115_04565",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_SEQ_00", "hash": "5FF7F9E0B112EE48", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_00", "hash": "E9132584278C3586", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_01", "hash": "2ABC75EAA8D70A99", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_001", "hash": "F4206E309A5909F4", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_002", "hash": "2FF96F92F4E673A6", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_003", "hash": "C44DE8C9DBB1943B", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_004", "hash": "977EE9A3315267E1", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_005", "hash": "94669F99393B28EF", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_006", "hash": "903D154A42116CB6", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_020", "hash": "18B9C7B9D9B18D11", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_021", "hash": "2E3247C91F6C266F", "target": "" },
-    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_022", "hash": "5D7F626FE51AC186", "target": "" }
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_SEQ_00", "hash": "5FF7F9E0B112EE48", "target": "Maru tem um probleminha de proporções insetescas para você.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_00", "hash": "E9132584278C3586", "target": "Observar os arredores do local indicado e derrotar os starmite que aparecerem" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_TODO_01", "hash": "2ABC75EAA8D70A99", "target": "Relatar a situação a Maru" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_001", "hash": "F4206E309A5909F4", "target": "Você sabe o que é um starmite, né? Aqueles insetos enormes? Pois entraram na minha lista negra!" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_002", "hash": "2FF96F92F4E673A6", "target": "Um me perseguiu outro dia perto do velho Incubatório de Hamsas. Meu hipopótamo se assustou tanto que achei que ia acabar voando da carroça..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_003", "hash": "C44DE8C9DBB1943B", "target": "Os starmite não são tão perigosos quanto o medo que causam nos nossos pobres hipopótamos, mas perigo é perigo. Pode dar uma mão e acabar com uns desses bichos?" },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_004", "hash": "977EE9A3315267E1", "target": "Lembra daqueles starmite que você esmagou? Bem... vieram se vingar deles." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_005", "hash": "94669F99393B28EF", "target": "Difícil saber o que fica mais abalado: o coração dos nossos doces hipopótamos ou a carga. De um jeito ou de outro, só tem inseto e tristeza esperando a gente nessas estradas..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_006", "hash": "903D154A42116CB6", "target": "Você precisa ajudar, <split(<string(gstr1)>, ,1)>. Volta pra The Perfumed Rise e manda aqueles starmite conhecer o criador..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_020", "hash": "18B9C7B9D9B18D11", "target": "Você salvou a gente, <split(<string(gstr1)>, ,1)>! Agora podemos andar tranquilos, sabendo que tem menos starmite nas estradas..." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_021", "hash": "2E3247C91F6C266F", "target": "Ser perseguido já é ruim, mas, se batesse num deles em velocidade, a carroça ia ficar destruída e o pobre hipopótamo ferido, ou pior." },
+    { "gameKey": "quest/045/BanArk115_04565#TEXT_BANARK115_04565_MARU_000_022", "hash": "5D7F626FE51AC186", "target": "Segurança nas estradas não é brincadeira. Talvez eu peça sua ajuda pra esmagar mais starmite outra hora. Obrigado por sempre cuidar da gente." }
   ]
 }

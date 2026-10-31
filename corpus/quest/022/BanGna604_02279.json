@@ -2,19 +2,19 @@
   "conversation": "quest/022/BanGna604_02279",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "" },
-    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "" }
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_00", "hash": "DDC8FC43FB06E7BB", "target": "O Vath keeneye está pensativo.<br>※A dificuldade desta missão será sincronizada com seu nível atual." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_01", "hash": "121365D46451879C", "target": "Uma nuvem espessa de fumaça de orvalho-prateado paira sobre Anyx Trine, e os dragões que moram na torre acreditam que os Vath sejam os autores desse crime hediondo. Os Vath, porém, suspeitam que a verdadeira origem da fumaça sejam os incensários que surgiram recentemente pelo território Gnath. O Vath keeneye acredita haver quatro incensários novos, pois contou quatro fios distintos de fumaça à distância. Vá a Smoldering Wastes, desative os incensários dos Gnath e ajude os Vath a dissipar esse mal-estar.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível progredir com a mesma classe ou job com que você aceitou a missão." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_02", "hash": "D9C350B3C04CD5D7", "target": "Você desativa todos os incensários dos Gnath. Volte a Loth ast Vath e reporte-se ao Vath keeneye." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEQ_03", "hash": "F049DB86322AF4C6", "target": "O Vath keeneye agradece pelo seu empenho. Ele está convencido de que os Vath continuarão nas boas graças dos dragões agora que os incensários dos Gnath foram desativados." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_00", "hash": "A36354160F1B783D", "target": "Desativar os incensários dos Gnath" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_TODO_01", "hash": "36438C009A4B19BC", "target": "Reportar-se ao Vath keeneye" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_000", "hash": "8B1657B17BE72AA1", "target": "<if(gnum4,Aventureira,Aventureiro)>, que bom que está aqui. Recebemos reclamações. Os dragões dizem que Anyx Trine e os arredores fedem a orvalho-prateado queimado." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_001", "hash": "88AFCCF525FBD1B4", "target": "Estão convencidos de que somos os culpados. Não faz sentido. Não mudamos a quantidade de orvalho-prateado que queimamos. \\<clique> \\<clique> Só pode ser uma coisa. A Mente Una está erguendo novos incensários." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_002", "hash": "F7878FE5FCEAADB3", "target": "A confiança que construímos com os dragões corre grande perigo. Precisamos provar nossa inocência! Caso contrário, podemos perdê-los como clientes para sempre." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_003", "hash": "2EE97F92CAAC5D87", "target": "Nossos batedores observaram quatro novas colunas de fumaça. Sem dúvida são produzidas por esses incensários. \\<clique> \\<clique> Por favor, procure-os e ponha fim aos planos deles." },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEA02279_000_010", "hash": "CD736292A0A6DFEA", "target": "\\<clique> \\<clique> Ser de carne, como ousa pôr as mãos em nossos preciosos incensários!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_GNATHDRONEB02279_000_011", "hash": "E8835AC5F107FBC2", "target": "\\<clique> \\<clique> Esta é a última vez que desafia a vontade da Mente Suprema!" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_020", "hash": "A3638E8F1606751C", "target": "Não sabemos como agradecer, <if(gnum4,bondosa caçadora,bondoso caçador)>. Os dragões continuarão sendo nossos amigos e clientes. Quem diria que manter boas relações com os vizinhos daria tanto trabalho?" },
+    { "gameKey": "quest/022/BanGna604_02279#TEXT_BANGNA604_02279_SEARCHER_000_021", "hash": "46AA07D3BAFEDB44", "target": "Esperamos que um dia os Vath, os Gnath e os dragões de Dravania encontrem uma forma de viver em harmonia. \\<clique> \\<clique> Então ninguém precisará sofrer com o fedor do orvalho-prateado!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz513_01848",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "" },
-    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "" }
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_00", "hash": "020050F8818AA0A5", "target": "“Minhas nozes!”, diz o unmaneuvering moogle." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_01", "hash": "0DB2F40C2486BBCD", "target": "O unmaneuvering moogle perdeu suas nozes num encontro infeliz com um vinegaroon. Enquanto atravessava Ohl Tahn, a fera de lâminas o avistou e saiu em sua perseguição. O moogle aterrorizado escapou ileso até Zenith, só para descobrir que deixara cair sua coleção de nozes kupo pelo caminho. Ele pede que você volte à cena de sua desgraça e recupere suas cinco preciosas nozes." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_02", "hash": "C0CDB39F7D04BECE", "target": "Você recolhe as cinco nozes kupo que compõem a coleção do unmaneuvering moogle. Volte a Zenith para reuni-lo com suas nozes." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_SEQ_03", "hash": "E3407E4C71A103CD", "target": "O unmaneuvering moogle se comove com sua bondade. Agora que recuperou suas nozes, voltou a ser um moogle feliz." },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_00", "hash": "378701F066F2D991", "target": "Coletar as nozes kupo" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TODO_01", "hash": "50E7E37E3F86236B", "target": "Devolver as nozes kupo ao unmaneuvering moogle" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_000", "hash": "DA7D35BCD06CAB10", "target": "Desta vez eu fiz uma bela bobagem, kupo... Estava atravessando Ohl Tahn todo contente quando um bladed vinegaroon começou a me perseguir. Fiquei com tanto medo que deixei minhas nozes caírem!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_001", "hash": "7C224733AC0009A7", "target": "Eu carregava cinco nozes kupo, mas agora não tenho nenhuma. Por favor, encontre-as para mim, kupo! Não sou nada sem minhas nozes!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_010", "hash": "3928CD1A44F26137", "target": "Não acredito que perdi minhas nozes... As cinco, kupo! Antes eu era o moogle mais feliz do mundo, mas agora não sou nada! Por favor, traga minhas nozes kupo de volta!" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_020", "hash": "A6BD9B410B73B021", "target": "São minhas nozes que você está segurando na mão, <if(gnum4,aventureira,aventureiro)>? As cinco!?" },
+    { "gameKey": "quest/018/HeaVnz513_01848#TEXT_HEAVNZ513_01848_TEMPLECENTERMOG01848_000_021", "hash": "340523263A7E965C", "target": "Minhas nozes! Minhas lindas nozes! Eu reconheceria essas nozes kupo em qualquer lugar, kupo! Muito obrigado, <if(gnum4,aventureira,aventureiro)>, você salvou minha vida. Quando percebi que tinha perdido minhas nozes, fiquei tão transtornado que quase arranquei meu pompom!" }
   ]
 }

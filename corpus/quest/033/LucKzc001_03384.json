@@ -2,16 +2,16 @@
   "conversation": "quest/033/LucKzc001_03384",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "" },
-    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "" }
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEQ_00", "hash": "5C23777A937D0D92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Seanard precisa de ajuda com alguns reparos urgentes." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_00", "hash": "8BBD9034940B133D", "target": "Usar a argamassa de reforço nas paredes danificadas" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_TODO_01", "hash": "0AAC945B3BE88E40", "target": "Apresentar-se a Seanard" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_000", "hash": "DC61AE7AA2EFB910", "target": "Ei! Se não tiver nada para fazer agora, que tal me dar uma mãozinha? Me encarregaram dos reparos, e, no estado lastimável em que este lugar está, uma pessoa só não dá conta." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_001", "hash": "A02891C9F6061283", "target": "É uma tarefa bem simples. Basta pegar este balde de argamassa, encontrar uns pontos onde as paredes estão se desfazendo e aplicar uma boa camada. Valeu, <if(gnum4,amiga,amigo)>! Com nossos efetivos tão reduzidos, precisamos de toda a ajuda que conseguirmos!" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_010", "hash": "FAEA8E7B80F948FB", "target": "Para falar a verdade, o forte inteiro precisa de bons reparos depois de tudo o que passamos. Mas, com os suprimentos e a mão de obra limitados, só podemos nos concentrar nos lugares que mais precisam." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_020", "hash": "070ABB0AC73FA9F3", "target": "Vi como trabalhou duro por lá, <if(gnum4,amiga,amigo)>! Vou dormir tranquilo esta noite, sabendo que alguns dos piores trechos das nossas paredes estão novinhos em folha." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_021", "hash": "A68C4A595C3E4584", "target": "Por acaso conhece a história de Imperative? Foi construído há quase um século pelos elfos que governavam Lakeland naquela época. Depois do Dilúvio, tem servido como um dos nossos bastiões de defesa contra os devoradores de pecados." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_022", "hash": "06C3A81801595F0B", "target": "Sim, este forte já sofreu muitos ataques, mas continua de pé até hoje, vigiando e protegendo Crystarium e seu povo. E é nosso dever <italic(1)>mantê-lo<italic(0)> de pé, que se danem a falta de materiais e de mão de obra." },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_023", "hash": "12BFCB7817FECB75", "target": "Claro, não conseguiríamos sem os esforços generosos de quem se oferece para ajudar, como você. Acho que tem um verdadeiro talento para reparos. Será que toparia entrar para a guarda e consertar paredes em tempo integral?" },
+    { "gameKey": "quest/033/LucKzc001_03384#TEXT_LUCKZC001_03384_SEANARD_000_024", "hash": "C4024562239BEA1B", "target": "Ahahaha! Estou brincando, é claro. Já tomei bastante do seu tempo hoje. Agradeço, <if(gnum4,amiga,amigo)>, e tome cuidado por aí." }
   ]
 }

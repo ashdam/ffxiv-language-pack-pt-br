@@ -2,17 +2,17 @@
   "conversation": "quest/030/BanAna502_03059",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "" },
-    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "" }
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SEQ_00", "hash": "FC297B9D64B2C7E6", "target": "Eshana quer que você resolva um problema com uma formiga-leão.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_00", "hash": "E838842FB00D48D5", "target": "Detonar os explosivos estrondosos no local indicado em Virdjala" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_01", "hash": "898A5402AB76667C", "target": "Esperar o hunter antlion aparecer e abatê-lo" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_TODO_02", "hash": "89B9474067A6FB29", "target": "Falar com Eshana" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_000", "hash": "C999B5B63B6623F4", "target": "Temos um problema com uma formiga-leão, <split(<string(gstr1)>, ,1)>. Um exemplar especialmente feroz está aterrorizando a rota para Peaks, e peço que você a abata. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_100_000", "hash": "35CFC8A3BC2C91A3", "target": "A criatura se enterra bem fundo e fica à espera de presas. Mas não de qualquer presa, veja bem. Só das maiores, como carruagens de chocobos e coisas assim. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_001", "hash": "CB8B3E8414C144A6", "target": "Seus passos não bastarão para atrair essa criatura voraz... mas estes explosivos devem resolver. Vieram dos nossos amigos de Rhalgr's Reach e são tão barulhentos quanto poderosos. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_002", "hash": "0BB99E2C09CFA037", "target": "Ao detoná-los, tome cuidado para não sofrer com a explosão. Eu ficaria muito triste se perdêssemos alguém que nos ajuda tanto como você. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_SYSTEM_000_010", "hash": "97CEEFE822BB727F", "target": "O chão explode numa chuva de areia!" },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_020", "hash": "B04C662C8C5CFFC2", "target": "Parece que você andou rolando na areia. Imagino que tenha encontrado e eliminado a formiga-leão. Excelente, excelente. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_021", "hash": "0103A0B75D3D1595", "target": "A região ainda recebe poucos visitantes, mas isso vai mudar com o tempo. O comércio vai crescer e trazer mais tráfego. Sss..." },
+    { "gameKey": "quest/030/BanAna502_03059#TEXT_BANANA502_03059_ESHANA_000_022", "hash": "92DCB991A53263B6", "target": "A rota para Peaks, em especial, é vital para nossa prosperidade, e devemos garantir a passagem segura de todos. Controlar insetos como as formigas-leão será uma tarefa constante. Espero que possamos recorrer a você de novo. Sss..." }
   ]
 }

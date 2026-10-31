@@ -2,16 +2,16 @@
   "conversation": "quest/028/StmBdz901_02857",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "" },
-    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "" }
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_SEQ_00", "hash": "F4951635E909C5BD", "target": "Há algum tempo, Raganher anda incomodado com certas pragas." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_00", "hash": "F0D25856B8D115D4", "target": "Examinar os locais indicados e matar as plague wamouracampae que aparecerem" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_TODO_01", "hash": "DC560ADC6D63F697", "target": "Falar com Raganher" },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_000", "hash": "1C7858FC3AC20EEB", "target": "Ah, você é <if(gnum4,uma dessas aventureiras,um desses aventureiros)>. Se está procurando trabalho, chegou na hora certa." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_001", "hash": "B928E711E9DDD08A", "target": "Viu algum inseto por aí? Dos grandes? Estamos com uma infestação de wamouracampae, e as malditas se reproduzem mais rápido que coelhos no cio." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_100_001", "hash": "A08F6A869E958606", "target": "Acha que pode dar um jeito nelas? Costumam se esconder nos arbustos espinhosos." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_002", "hash": "A6241436717DC807", "target": "Você nos faria um grande favor se acabasse com aquelas malditas wamouracampae. Costumam se esconder nos arbustos espinhosos." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_010", "hash": "05BD5353CC0AB5BB", "target": "Pegou todas? Que os deuses abençoem <if(gnum4,a senhora,o senhor)>. Talvez agora finalmente consigamos cultivar alguma coisa neste pedaço de terra estéril." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_011", "hash": "317A2797A2139189", "target": "A vida aqui nas montanhas já é difícil o bastante, com ventos frios soprando o ano inteiro e matando qualquer coisa que ouse brotar da terra. Junte esses malditos insetos, e está feita a receita para o desastre." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_012", "hash": "79168634537A40F3", "target": "E nem temos muita gente para lavrar a terra. Com os garleanos levando qualquer um capaz de erguer uma enxada ou cavar um buraco, logo não vai sobrar ninguém." },
+    { "gameKey": "quest/028/StmBdz901_02857#TEXT_STMBDZ901_02857_RAGANHER_000_013", "hash": "9D1C9BBB3371F85B", "target": "Mas não se preocupe, <if(gnum4,moça,rapaz)>. Se estas montanhas não conseguiram acabar com a gente em todos esses anos, acho que nada vai conseguir." }
   ]
 }

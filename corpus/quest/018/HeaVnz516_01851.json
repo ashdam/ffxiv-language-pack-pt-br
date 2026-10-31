@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz516_01851",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_00", "hash": "D6F50C434E75217B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_01", "hash": "FC4DF0B082303FCC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_02", "hash": "4FAFB80EAEDA3783", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_03", "hash": "D1DDDBAE3DD5D13C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_00", "hash": "0518423280AB3DB7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_01", "hash": "5D2E49F193E756DB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_000", "hash": "7A18B7FE67D344B2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_001", "hash": "5764394936A0B1D1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_010", "hash": "074FFA18072B1724", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_020", "hash": "236919320E36FDE1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_021", "hash": "9C02CE3EE50B9F2C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_022", "hash": "D13BA151C87228AF", "target": "" }
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_00", "hash": "D6F50C434E75217B", "target": "Mogzun examina os arredores com toda a intensidade de que é capaz." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_01", "hash": "FC4DF0B082303FCC", "target": "A tarefa de Mogzun é abater as mélias que infestam a área, mas antes ele precisa que alguém mostre como se faz. Abata três mélias e leve a Mogzun galhos retirados de seus corpos como prova." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_02", "hash": "4FAFB80EAEDA3783", "target": "As mélias foram abatidas, e os galhos estão em sua posse. Entregue-os a Mogzun." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_SEQ_03", "hash": "D1DDDBAE3DD5D13C", "target": "Você entregou os galhos a Mogzun, que afirma ter aprendido muito vendo você lutar. Mas, aparentemente, observar é tão difícil quanto fazer, e ele decidiu encerrar o treinamento por hoje." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_00", "hash": "0518423280AB3DB7", "target": "Abater gnarled meliae para obter seus galhos" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_TODO_01", "hash": "5D2E49F193E756DB", "target": "Entregar os galhos a Mogzun" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_000", "hash": "7A18B7FE67D344B2", "target": "Ah, estou vendo uma mélia bem ali! Como é a criatura que me mandaram enfrentar, é melhor abatê-la antes que fuja de medo, kupo." },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_001", "hash": "5764394936A0B1D1", "target": "Claro, não posso lutar sem instrução. Se você derrubar três mélias e me trouxer um galho de cada, isso deve bastar para me inspirar!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_010", "hash": "074FFA18072B1724", "target": "Vou seguir seu exemplo, Comandante! Pode começar a rachar essa lenha, kupo!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_020", "hash": "236919320E36FDE1", "target": "Não há jeito melhor de aprender do que observar. Trouxe os galhos de mélia, kupo?" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_021", "hash": "9C02CE3EE50B9F2C", "target": "Ah, sim... são mesmo galhos de mélia. Confio que você deu uma boa surra nelas. Sua luta me inspira a alcançar novas alturas, Comandante!" },
+    { "gameKey": "quest/018/HeaVnz516_01851#TEXT_HEAVNZ516_01851_MOGZUN_000_022", "hash": "D13BA151C87228AF", "target": "Na verdade, fiquei tão inspirado que já estou exausto! Um recruta não deve se esforçar demais logo de início. É no descanso que podemos refletir sobre as lições aprendidas. Treino encerrado, kupo!" }
   ]
 }

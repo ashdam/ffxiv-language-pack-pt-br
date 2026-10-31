@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzd008_03415",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_SEQ_00", "hash": "A54644C3E0660A62", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_00", "hash": "541C28B1489836CF", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_01", "hash": "4584B65075376B43", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_000", "hash": "2101F3A68E2EB812", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_001", "hash": "ACCD91B45C171077", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_002", "hash": "AA5CD538386F8A1A", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_010", "hash": "C4E366E7B8781F08", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_011", "hash": "EBB930C2C32C3119", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_012", "hash": "8A031A49F66CB2AD", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_013", "hash": "40DBA82880037C73", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_014", "hash": "963C61538A6E3EA6", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_015", "hash": "FBA1E0F7229F29E8", "target": "" },
-    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_016", "hash": "FAFE837F9DED3924", "target": "" }
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_SEQ_00", "hash": "A54644C3E0660A62", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O soft-spoken Nu Mou tem um pedido para quem está de passagem." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_00", "hash": "541C28B1489836CF", "target": "Colocar a espada polida diante do leafman perto de Lyhe Ghiah" },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_TODO_01", "hash": "4584B65075376B43", "target": "Apresentar um relatório ao soft-spoken Nu Mou" },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_000", "hash": "2101F3A68E2EB812", "target": "Mortal, tenho uma tarefa para você, se quiser aceitá-la." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_001", "hash": "ACCD91B45C171077", "target": "À beira da ilha onde se ergue Lyhe Ghiah, há um leafman. Quero que vá deixar esta espada diante dele. Faça isso por mim e darei uma recompensa à altura." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_002", "hash": "AA5CD538386F8A1A", "target": "Na ilha onde se ergue Lyhe Ghiah, há um leafman. Por favor, vá colocar a espada diante dele." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_010", "hash": "C4E366E7B8781F08", "target": "Colocou a espada? Agradeço." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_011", "hash": "EBB930C2C32C3119", "target": "Caso esteja se perguntando, aquele leafman já foi um cavaleiro de Voeburt. Uma alma valente que ficou para proteger o castelo dos devoradores de pecados enquanto os outros fugiam ao seu redor." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_012", "hash": "8A031A49F66CB2AD", "target": "Embora tenha lutado com bravura, acabou ferido por uma criatura de toque corruptor. Mas, antes que pudesse se tornar um monstro, um Pixie o transformou em leafman." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_013", "hash": "40DBA82880037C73", "target": "Por mais insensíveis que sejam, os Pixie conseguem entender o desejo de proteger o próprio lar. Por isso tiveram pena do cavaleiro e o pouparam de um destino pior que a morte." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_014", "hash": "963C61538A6E3EA6", "target": "Eu também estava lá. Mas, paralisado pelo medo, só pude observar. Envergonhado, jurei ao cavaleiro que um dia encontrarei uma maneira de curá-lo." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_015", "hash": "FBA1E0F7229F29E8", "target": "Até esse dia chegar, cuido de sua espada, garantindo que esteja sempre pronta para ele voltar a usá-la." },
+    { "gameKey": "quest/034/LucKzd008_03415#TEXT_LUCKZD008_03415_QUIETNUMOU03415_000_016", "hash": "FAFE837F9DED3924", "target": "É verdade que eu mesmo poderia ter levado a espada de volta, mas queria que você conhecesse o cavaleiro e seu sacrifício. Acredito que ele também teria gostado da companhia de outro mortal." }
   ]
 }

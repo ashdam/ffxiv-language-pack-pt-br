@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq042_03805",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "" },
-    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "" }
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "Chaqurl Qhotl quer convencer você da veracidade de sua teoria sobre o destino da misteriosa raça de homens-bagre.<br>※A dificuldade desta missão será ajustada ao seu nível atual." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "<if(gnum4,Convencida,Convencido)> pelos méritos do argumento de Chaqurl Qhotl, você expressa apoio à teoria de que os Qitari procuraram compartilhar seus alimentos com os sofridos homens-bagre, antes do infeliz desaparecimento desse povo da floresta. Admitindo a contragosto que seu filho pode ter razão, o teimoso Qitari concorda em ajudar na restauração da terceira estela.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_02", "hash": "FDC80597585FE599", "target": "Sob seu olhar atento, os artesãos Qitari restauram a terceira estela ao que Chaqurl Qhotl acredita ser a melhor representação de sua antiga glória. Encorajados e animados por recuperar mais uma parte vital de seu legado, os Guardiões agora prosseguem nas escavações com novo entusiasmo. Continue ajudando em seus esforços, se desejar." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_TODO_00", "hash": "053B47DEB498412E", "target": "Falar com Chaqurl Qhotl" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_001", "hash": "5732BB307BBE5710", "target": "Meu pai pode interpretar as gravuras de outra forma, mas tenho certeza de que meus ancestrais não eram tão cruéis e violentos quanto ele diz. Quando a fome atingiu a floresta, nós, Qitari, tivemos pena dos homens-bagre e dividimos com eles nossos peixes mais frescos!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_002", "hash": "8AA09217F067DF95", "target": "É uma pena que eles tenham desaparecido de Greatwood depois disso, mas sei que nossos antepassados fizeram tudo o que puderam para salvar seus amiguinhos escorregadios. Com toda a certeza, foi in<italic(1)>tubit<italic(0)>avelmente isso que aconteceu, você não concorda?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_003", "hash": "368B2CF6CF1023DC", "target": "Se apoiar a teoria de Chaqurl Qhotl, a terceira estela será restaurada para refletir a interpretação dele sobre a história. Se prosseguir, você não poderá ver a estela como Qitarl Natl a imagina." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SYSTEM_000_004", "hash": "9A1576116C07886D", "target": "As recompensas recebidas e o conteúdo das próximas missões serão os mesmos, independentemente da sua escolha. Você pode escolher livremente a versão da história que achar mais convincente." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_Q1_000_000", "hash": "CA7717D9C2CF936E", "target": "Você vai apoiar a teoria de Chaqurl Qhotl?" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_006", "hash": "EF9ECA2E06C73DC3", "target": "Mag<italic(1)>fin<italic(0)>ífico! Eu sabia que nós dois pensávamos da mesma forma." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_QITARLNATL_000_006", "hash": "D2E9797B7736D284", "target": "Talvez o menino tenha razão e a história às vezes não seja tão cruel quanto parece à primeira vista. De qualquer forma, se você realmente acha a versão dele mais convincente, não vejo motivo para me opor." },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_007", "hash": "47A5B3683D4085AA", "target": "Esplê-<italic(1)>fen<italic(0)>-dido! E, com isso, vamos começar a restauração da terceira estela! Você vai ficar por aqui para ver se tudo é feito direito, não vai? Quando quiser começar, é só dizer!" },
+    { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_CHAQURLQHOTL_000_008", "hash": "E8AD24E568FE1CBB", "target": "Podemos começar, <split(<string(gstr1)>, ,1)>? Então meu pai e eu vamos chamar nossos melhores artesãos agora mesmo!" }
   ]
 }

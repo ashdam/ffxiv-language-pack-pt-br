@@ -2,16 +2,16 @@
   "conversation": "quest/050/KinGzb101_05041",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SEQ_00", "hash": "C12433104D3AA532", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_000", "hash": "F7E13FDA67DC8E33", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_001", "hash": "2EFB8A15165A6E08", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_002", "hash": "029CD74AE1F91C48", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_005", "hash": "94B8A0C9EFD87B47", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_010", "hash": "015EE8385E597BC9", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_011", "hash": "199F2AA07025645C", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_013", "hash": "87EE330BB297ED25", "target": "" },
-    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_014", "hash": "918AB59C9CBE4DE7", "target": "" }
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SEQ_00", "hash": "C12433104D3AA532", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A allergic Yok Huy precisa de uma entrega sem pingos." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_00", "hash": "C829D6061E2C4BFB", "target": "Colher Larh Tortoh violets e derrotar qualquer ameaça que surgir" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_TODO_01", "hash": "074F25D00518B458", "target": "Entregar as violetas de Larh Tortoh à allergic Yok Huy" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_000", "hash": "F7E13FDA67DC8E33", "target": "Ah, conheço você! Se bem me lembro, faz parte da comitiva da Terceira Promessa. E tem muita força para alguém do seu tamanho." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_001", "hash": "2EFB8A15165A6E08", "target": "Então, queria pedir um favor. Pode colher três violetas de Larh Tortoh e trazê-las para mim?" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_002", "hash": "029CD74AE1F91C48", "target": "As plantas monstruosas daquele campo e o pólen delas são demais para o meu nariz. E ninguém quer flores pingando. Pelo menos <italic(1)>eu<italic(0)> não quero." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_005", "hash": "94B8A0C9EFD87B47", "target": "Preciso de três daquelas violetas que crescem em Larh Tortoh. Você vai buscá-las para mim, não vai? Por favor, poupe meu pobre nariz..." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_010", "hash": "015EE8385E597BC9", "target": "Você voltou! Suponho que tenha conseguido colher as flores?" },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_011", "hash": "199F2AA07025645C", "target": "Obrigada por atender ao meu pedido. Eu queria dar flores à minha avó, e estas estão entre as favoritas dela." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_013", "hash": "87EE330BB297ED25", "target": "Temos a tradição de gravar em nossos túmulos símbolos das coisas de que mais gostamos. No dela, há uma flor para cada uma das quatro estações. Por isso, tenho levado algumas de cada ao longo do ano." },
+    { "gameKey": "quest/050/KinGzb101_05041#TEXT_KINGZB101_05041_SLOWLYYOKFUY05041_000_014", "hash": "918AB59C9CBE4DE7", "target": "Bem, é melhor levar estas para a Vovó antes que murchem. Aceite isto como sinal da minha gratidão!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna305_03046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_SEQ_00", "hash": "2517715BFC1A8611", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_TODO_00", "hash": "7D878E942D1438FF", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_TODO_01", "hash": "24572BDC516319CE", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_000", "hash": "DFDE1C18D4B2639B", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_001", "hash": "5D9A0E578A0829C9", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_002", "hash": "07E8A25F6012D3D1", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_010", "hash": "DBA984F490ABADCB", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_011", "hash": "B8CA5372DC31BF89", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_012", "hash": "B8AF78E713C8BBD1", "target": "" },
-    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_013", "hash": "A03C4D72781F23DB", "target": "" }
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_SEQ_00", "hash": "2517715BFC1A8611", "target": "A testa de Eshana está coberta de suor.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_TODO_00", "hash": "7D878E942D1438FF", "target": "Examinar os locais indicados e abater wooly mosslings para obter tufos de musgo" },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_TODO_01", "hash": "24572BDC516319CE", "target": "Entregar os tufos de musgo a Eshana" },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_000", "hash": "DFDE1C18D4B2639B", "target": "Você não acha o calor desta ponte insuportável? Ah, talvez não. Vocês, bípedes, usam sapatos para proteger as pernas. Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_001", "hash": "5D9A0E578A0829C9", "target": "À medida que o sol sobe, a ponte fica mais quente. Ao meio-dia, é como andar sobre brasas. Minhas irmãs sofrem queimaduras só de ficar de guarda. Precisamos fazer alguma coisa! Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_002", "hash": "07E8A25F6012D3D1", "target": "Poderia coletar tufos de musgo em East End? Dois já seriam mais que suficientes. Você pode encontrá-los nas margens do Riacho Timmon. Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_010", "hash": "DBA984F490ABADCB", "target": "Aí está você. Conseguiu encontrar algum mossling? Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_011", "hash": "B8CA5372DC31BF89", "target": "Minhas irmãs vão ficar felizes em ver isso. Com um pouco de trabalho, teremos ótimas toalhas. Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_012", "hash": "B8AF78E713C8BBD1", "target": "É difícil encontrar um material mais absorvente. As toalhas feitas com ele podem manter nossa pele fresca durante um dia inteiro de trabalho. Sss..." },
+    { "gameKey": "quest/030/BanAna305_03046#TEXT_BANANA305_03046_ESHANA_000_013", "hash": "A03C4D72781F23DB", "target": "Pena que se desgastam tão rápido. Quando precisarmos de mais, e tenho certeza de que vamos precisar, espero poder contar com sua ajuda de novo. Sss..." }
   ]
 }

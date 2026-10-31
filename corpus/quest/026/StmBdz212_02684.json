@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz212_02684",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_SEQ_00", "hash": "83BD447CC42B35D2", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_000", "hash": "71BD660F7BF814E9", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_001", "hash": "E7887BCD36EA6B02", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_002", "hash": "F97542B7863259C3", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_003", "hash": "EDB7223EDE005C9B", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_004", "hash": "2515A8D805694C6C", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_005", "hash": "42F808027A81519D", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_011", "hash": "079A74F39B708393", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_020", "hash": "6E594FB5B05AE7C1", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_021", "hash": "7D2E4B0749AAF446", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_022", "hash": "26590B3EC9AC654A", "target": "" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_023", "hash": "CD2D7E090EA6CE5E", "target": "" }
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_SEQ_00", "hash": "83BD447CC42B35D2", "target": "Hirase pensa no que preparar para os confederados <if([gnum11<12],<if([gnum11<4],no jantar,no café da manhã)>,<if([gnum11<17],no almoço,no jantar)>)>." },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "Obter pedaços de carne substanciosa de gyuki abatendo gyuki" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "Entregar os pedaços de carne substanciosa de gyuki a Hirase" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_000", "hash": "71BD660F7BF814E9", "target": "Bah! Você me assustou! Eu estava pensando no que preparar para os homens e mulheres famintos de Onokoro <if([gnum11<12],<if([gnum11<4],no jantar,no café da manhã)>,<if([gnum11<17],no almoço,no jantar)>)>. Como cozinheiro daqui, tenho a responsabilidade de garantir que recebam refeições boas e nutritivas." },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_001", "hash": "E7887BCD36EA6B02", "target": "Acho que hoje vamos comer um ensopado de pirata. Dá água na boca, não dá?" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_002", "hash": "F97542B7863259C3", "target": "O problema é que está faltando um ingrediente essencial. \\<suspiro> A arrecadação do Dízimo Rubi vem diminuindo aos poucos, e o tesoureiro cortou o meu orçamento. Agora não consigo mais comprar a carne suculenta que faz deste prato um verdadeiro ensopado de pirata." },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_003", "hash": "EDB7223EDE005C9B", "target": "Mesmo assim, é meu trabalho dar um jeito de manter os nossos piratas saudáveis e de barriga cheia. Isso significa que preciso achar outra maneira de conseguir carne. Será que você pode me ajudar?" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_004", "hash": "2515A8D805694C6C", "target": "Há gyuki selvagens a oeste daqui. Pode abater alguns e me trazer uns pedaços de carne? Enquanto isso, vou procurar no mar outros alimentos para colocar no ensopado." },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_005", "hash": "42F808027A81519D", "target": "Por favor, traga alguns pedaços de carne dos gyuki selvagens que andam a oeste daqui." },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_011", "hash": "079A74F39B708393", "target": "Trouxe a minha carne? Fantástico! Simplesmente fantástico! Agora o meu ensopado está completo!" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_020", "hash": "6E594FB5B05AE7C1", "target": "Está sentindo esse cheiro, <if(gnum4,minha cara,meu caro)>? Isso, sim, é cheiro de comida de verdade!" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_021", "hash": "7D2E4B0749AAF446", "target": "Assim que colocarmos as pedras quentes na panela e a água do mar começar a cozinhar os frutos do mar e a carne, esse aroma que já é divino vai ficar ainda mais delicioso!" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_022", "hash": "26590B3EC9AC654A", "target": "Devemos essa fartura toda a Ruby Sea. Suas águas nos abençoam e, ao comer os alimentos que nos dão, estaremos protegidos. A menos que alguém seja tolo o bastante para engolir uma das pedras quentes, é claro! Hahaha!" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_023", "hash": "CD2D7E090EA6CE5E", "target": "Obrigado pela ajuda, <if(gnum4,minha amiga,meu amigo)>. Espero que isto baste como pagamento pelos seus serviços." }
   ]
 }

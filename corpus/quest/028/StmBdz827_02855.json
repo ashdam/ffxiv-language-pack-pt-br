@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz827_02855",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_SEQ_00", "hash": "95BFE67B2A5A0053", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_000", "hash": "51120502FC3391DC", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_001", "hash": "7C0C8C73B2A74989", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_002", "hash": "A515D659D7A596FE", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_003", "hash": "FEB9234AB0851AF9", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_004", "hash": "AD1C7C4358E443C4", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_005", "hash": "59B309121195D607", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_010", "hash": "3070ABAF66371306", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_020", "hash": "6089D67A23879466", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_021", "hash": "487A13FBA67DE865", "target": "" },
-    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_022", "hash": "3AB5721F6AB2FE1C", "target": "" }
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_SEQ_00", "hash": "95BFE67B2A5A0053", "target": "Oggery precisa de uma mão forte para salvar as árvores." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_00", "hash": "E7F214F1DA2B83E5", "target": "Procurar perto da fonte de água e obter tufos de mossling dos mossified mosslings" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_01", "hash": "87F5980FC9AA7DE0", "target": "Enterrar tufos de mossling entre as rotted roots" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_TODO_02", "hash": "A23DF332CC03B54A", "target": "Voltar a Oggery" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_000", "hash": "51120502FC3391DC", "target": "Ora, essas mãos parecem boas e fortes. Não tem medo de sujá-las, tem?" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_001", "hash": "7C0C8C73B2A74989", "target": "Só pergunto porque as árvores daqui precisam de um pouco de atenção. As raízes começaram a apodrecer, e, se nada for feito, podemos perder a única vegetação de grande porte por malms e malms." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_002", "hash": "A515D659D7A596FE", "target": "Mas há um jeito de salvá-las. Preciso que vá até a fonte de água a sudoeste e encontre uns dois mosslings para picar em pedaços." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_003", "hash": "FEB9234AB0851AF9", "target": "Junte o que sobrar deles e depois enterre os tufos entre as raízes das árvores que crescem perto da água. Isso deve resolver." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_004", "hash": "AD1C7C4358E443C4", "target": "Vai encontrar os mosslings na fonte de água a sudoeste. São bichinhos surpreendentemente agressivos, então não deve ter dificuldade para chamar a atenção deles." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_005", "hash": "59B309121195D607", "target": "Depois de reduzir uns dois a tufos de musgo, enterre o que sobrar nas raízes das árvores próximas. É só isso." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_010", "hash": "3070ABAF66371306", "target": "Conseguiu alguns tufos de mossling? Procure as árvores com raízes apodrecidas perto da fonte de água e misture esses restos de musgo à terra na base dos troncos." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_020", "hash": "6089D67A23879466", "target": "Então já terminou tudo?" },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_021", "hash": "487A13FBA67DE865", "target": "É que há um certo mofo que ataca as raízes das árvores, e alguma propriedade dos mosslings mata esse mofo. Não sei bem como ou por que funciona, mas as árvores são resistentes o bastante para se recuperar dos danos." },
+    { "gameKey": "quest/028/StmBdz827_02855#TEXT_STMBDZ827_02855_OGGERY_000_022", "hash": "3AB5721F6AB2FE1C", "target": "Obrigado. Com tantos outros problemas assolando estas terras, é difícil encontrar alguém que se importe com umas árvores raquíticas. Mas acho que elas poderiam ensinar a todos nós uma coisa ou outra sobre sobrevivência..." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/047/BanLop123_04709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "" },
-    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "" }
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SEQ_00", "hash": "C28E117CCF8B1987", "target": "Managingway quer que os colegas parem de pintar a cidade de vermelho...e de azul, amarelo e todas as outras cores.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_00", "hash": "36ECD30BD0563CB5", "target": "Remover obras de arte não autorizadas na Bestways Burrow" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_TODO_01", "hash": "B28F35E0F47E5AFE", "target": "Voltar e informar Managingway" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_000", "hash": "DAFBEDF469165741", "target": "<split(<string(gstr1)>, ,1)>, poderia me dar um momento?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_001", "hash": "E96EB63227503EFB", "target": "Embora seja gratificante ver tantos colegas empolgados com a pintura, descobrimos que certos artistas estão deixando a criatividade transbordar para além dos limites da estação de artes." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_002", "hash": "FD6B91AAF139F87A", "target": "Parece que um artista entusiasmado voltou a pintar fora dos limites." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_003", "hash": "C8E3431FF515F190", "target": "Não aprovo a destruição de obras criativas, mas também não posso perdoar uma infração às regras. Poderia fazer a gentileza de esfregar e remover as obras de arte não autorizadas?" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_SYSTEM_000_010", "hash": "BB30890F40A07882", "target": "A tinta se desfaz com uma beleza efêmera. Até a limpeza pode ser criativa!" },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_020", "hash": "4BDCA950D540AF76", "target": "Agradeço pela limpeza. Mais um instante e todos nós sofreríamos a ira de Livingway..." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_021", "hash": "E99676E64AFDD1DC", "target": "Você talvez goste de saber que nosso culpado criativo foi pego e recebeu uma bela bronca." },
+    { "gameKey": "quest/047/BanLop123_04709#TEXT_BANLOP123_04709_MANAGINGWAY_000_022", "hash": "84EC45E8634027ED", "target": "Pelo visto, desrespeitar as regras de propósito é parte essencial do seu processo artístico, mas esse motivo não dispensa a cortesia básica. Preciso pensar em como administrar esse desejo criativo..." }
   ]
 }

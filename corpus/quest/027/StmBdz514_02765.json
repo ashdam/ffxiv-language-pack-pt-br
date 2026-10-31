@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz514_02765",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "" },
-    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "" }
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_SEQ_00", "hash": "1677C94ED171FBB5", "target": "Buqatai está de olho em alguns ossos bem guardados." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_00", "hash": "B8E243CED2CD412D", "target": "Obter quatro ossos de fera" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_TODO_01", "hash": "27AABE61B94D7245", "target": "Entregar os ossos de fera a Buqatai" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_000", "hash": "6DBD4D94999A2642", "target": "Por acaso está indo na direção daquela montanha a oeste?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_001", "hash": "7A3B371B918B2B71", "target": "Há alguns ossos lá em cima que preciso recolher, mas não consigo passar por todos os muu shuwuu que fazem ninho na região." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_002", "hash": "C9FB3FB7546192EE", "target": "Não quero fazer mal a eles, mas acham que estou tentando roubar seus ovos. Da última vez, mal escapei com vida." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_003", "hash": "06CD89F9152C8E2A", "target": "Se puder encarar a tarefa, gostaria que recolhesse quatro ossos para mim. Tenho medo de não ter a mesma sorte se tentar ir lá de novo." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_004", "hash": "9C3ACED196F2E0E4", "target": "Vá à montanha a oeste e recolha quatro ossos para mim." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_010", "hash": "943D89A147A7A49F", "target": "Que bom ver que não acabaram devorando você! Conseguiu os ossos?" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_011", "hash": "E6DAB4B180E3A757", "target": "Ah, sim, este mais grosso era de um steppe dzo. E este é o osso do tornozelo de um gulo gulo. Nossa, um osso de baras!" },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_012", "hash": "5BC2E19BA3C4C008", "target": "Obrigado, <if(gnum4,aventureira,aventureiro)>. Vou transformá-los em dados para fazer adivinhações." },
+    { "gameKey": "quest/027/StmBdz514_02765#TEXT_STMBDZ514_02765_BUQATAI_000_013", "hash": "9BDD05C42F7A3244", "target": "Ando tão ocupado com o trabalho que não tenho tempo de visitar a udgan. Pode ser um método primitivo, mas os dados me permitem continuar consultando os deuses antigos." }
   ]
 }

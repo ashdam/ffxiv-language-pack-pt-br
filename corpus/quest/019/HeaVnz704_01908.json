@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz704_01908",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "" },
-    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "" }
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_00", "hash": "127AEBBE9EE4E122", "target": "As facas de Hinu Vali já viram dias melhores." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_01", "hash": "D227928270CC9063", "target": "Hinu Vali tem uma montanha de carne para preparar para o próximo banquete de Ok' Zundu, e facas novas acelerariam bastante o trabalho. As garras dos endymions que voam perto de Ok' Zundu devem servir. Abata quatro e entregue suas garras a Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_02", "hash": "D7501EBA61DF4AF7", "target": "Os endymions caem depressa, e você arranca as garras de seus corpos. Leve-as a Hinu Vali para que ela possa continuar os preparativos." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_SEQ_03", "hash": "AE2F86562F638419", "target": "As garras de endymion cortam a carne com facilidade. Com sorte, Hinu Vali conseguirá deixá-la pronta a tempo para o banquete dos Zundu." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_00", "hash": "9C64723C5475583E", "target": "Abater endymions e obter suas garras" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_TODO_01", "hash": "E7F3F8BD84C9C224", "target": "Entregar as garras a Hinu Vali" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_000", "hash": "A8F896A2B8E57577", "target": "Hinu Vali precisa preparar carne para banquete da tribo, mas lâminas perdem fio como lua perde luz. <if(gnum4,A de baixo,O de baixo)> ajuda, traz materiais para facas novas enquanto Hinu Vali continua trabalho." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_001", "hash": "2269B31B4035E36F", "target": "Céus perto de Ok' Zundu abrigam endymions com garras afiadas e mortais. Abata quatro e traga garras, senão trabalho com carne nunca acaba." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_010", "hash": "FB4BCE575EA5480E", "target": "Endymions infestam céus perto de Ok' Zundu. Garras afiadas facilitam muito trabalho de Hinu Vali." },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_020", "hash": "EB14B1B6E71EC848", "target": "Endymions que cobrem céu como nuvens de tempestade caem por onde <if(gnum4,a de baixo,o de baixo)> passa. <if(gnum4,Ela,Ele)> traz garras?" },
+    { "gameKey": "quest/019/HeaVnz704_01908#TEXT_HEAVNZ704_01908_HINUVALI_000_021", "hash": "FF60E366BBA95622", "target": "Sim... Como garras de endymion cortam presa, facas novas de Hinu Vali cortam carne sem esforço. <if(gnum4,A de baixo,O de baixo)> facilita trabalho de Hinu Vali. Tribo terá banquete esta noite!" }
   ]
 }

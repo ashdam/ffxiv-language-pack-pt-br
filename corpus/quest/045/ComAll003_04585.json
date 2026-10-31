@@ -2,16 +2,16 @@
   "conversation": "quest/045/ComAll003_04585",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SEQ_01", "hash": "2A98C7EEDDD4CBA3", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_000", "hash": "2D5F682BBD91CE14", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_001", "hash": "9994BDB9DD6B018D", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_002", "hash": "29F9307B285A4A6A", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_003", "hash": "311FC5C4766A12CD", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_004", "hash": "F420C8207159408F", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_005", "hash": "34EB16A13B8D14EB", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_050", "hash": "C311117442D433E8", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_051", "hash": "C03A8284868876E3", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_052", "hash": "1AC30853E9C3B3AC", "target": "" },
-    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_053", "hash": "E065B4B66FB1D35F", "target": "" }
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SEQ_01", "hash": "2A98C7EEDDD4CBA3", "target": "Gungi Zelungi quer que você alcance novos patamares, estrategicamente.<br><br>※Crystalline Conflict pode ser acessado pelo Duty Finder." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_000", "hash": "2D5F682BBD91CE14", "target": "Você parece estar atrás de briga, <if(gnum4,novata,novato)>. Não que eu possa culpar você. Quase todo mundo que o capitão me manda está." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_001", "hash": "9994BDB9DD6B018D", "target": "Seria bom extravasar um pouco dessa raiva acumulada em uma ou três partidas de Crystalline Conflict. É o treinamento tático mais novo, melhor e mais emocionante que você vai encontrar deste lado das linhas de frente!" },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_002", "hash": "29F9307B285A4A6A", "target": "Você pode achar que sou suspeito para falar, já que fui eu que inventei as regras, mas nada poderia estar mais longe da verdade. Recebemos inúmeros pedidos para acrescentar mais elementos estratégicos às nossas escaramuças de treinamento, sabe? Eu apenas dediquei toda a minha considerável habilidade a atendê-los." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_003", "hash": "311FC5C4766A12CD", "target": "As partidas de Crystalline Conflict desafiam você a manter o controle de uma carga essencial, que deve transportar em segurança até um local designado no calor da batalha. Até projetei arenas especiais repletas de mecanismos mágicos para manter você em alerta." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_004", "hash": "F420C8207159408F", "target": "Se ficou com interesse, minha primeira recomendação é aprender todas as regras, para não acabar em pedacinhos assim que pisar no campo de batalha. Mas não se preocupe! Terei o maior prazer em explicá-las a qualquer hora!" },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_005", "hash": "34EB16A13B8D14EB", "target": "Crystalline Conflict permite participar de escaramuças táticas de pequena escala, de 5 contra 5. O acesso é feito pela seção PvP do Duty Finder." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_GUNGIZELUNGI_000_050", "hash": "C311117442D433E8", "target": "Receio que você precise fazer uma cara mais feroz para encarar meu treinamento. Até pode sobreviver, mas não vai <italic(1)>prosperar estrategicamente<italic(0)>..." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_051", "hash": "C03A8284868876E3", "target": "Para iniciar esta missão, você precisa cumprir os seguintes requisitos:" },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_052", "hash": "1AC30853E9C3B3AC", "target": "※Você precisa estar pelo menos no nível 30 com um Disciple of War ou Disciple of Magic." },
+    { "gameKey": "quest/045/ComAll003_04585#TEXT_COMALL003_04585_SYSTEM_000_053", "hash": "E065B4B66FB1D35F", "target": "※Você precisa pertencer a uma Grande Companhia e ter desbloqueado o PvP Crystalline Conflict." }
   ]
 }

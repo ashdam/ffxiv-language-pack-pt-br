@@ -2,17 +2,17 @@
   "conversation": "quest/018/HeaVnz407_01825",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_00", "hash": "727102699BE41493", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_01", "hash": "E843D72D62A6179A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_02", "hash": "5C9C8D38598566BC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_03", "hash": "E55953909E5DD5B2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_00", "hash": "FA2CEF0A839E577C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_01", "hash": "D6FFF70D156F3DE7", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_000", "hash": "7C528CD46D36E3EF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_001", "hash": "B410C166DF8E46FE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_010", "hash": "140D734E57374B4A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_020", "hash": "51FB103CB6024F1A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_030", "hash": "429AF7F785D86647", "target": "" },
-    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_031", "hash": "B30DA06134E388A3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_00", "hash": "727102699BE41493", "target": "Mogson olha para <if(gnum4,a aventureira,o aventureiro)> com uma expressão de admiração." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_01", "hash": "E843D72D62A6179A", "target": "Mogson fica espantado por uma criatura da superfície caminhar por Churning Mists. Depois de se recuperar do choque, comenta que esqueceu três cestos nos arredores de Four Arms. Ajude esse conhecedor de artefatos dos senhores da terra a encontrar os objetos perdidos." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_02", "hash": "5C9C8D38598566BC", "target": "Você recuperou os cestos trançados, embora sua importância continue um mistério. Entregue-os a Mogson." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_SEQ_03", "hash": "E55953909E5DD5B2", "target": "O moogle mal dá atenção aos cestos e exclama que conhecer alguém da superfície é uma alegria muito maior do que qualquer relíquia que as ruínas possam guardar." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_00", "hash": "FA2CEF0A839E577C", "target": "Encontrar os cestos perto de Four Arms" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_TODO_01", "hash": "D6FFF70D156F3DE7", "target": "Entregar os cestos a Mogson" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_000", "hash": "7C528CD46D36E3EF", "target": "É... é uma criatura da <italic(1)>superfície<italic(0)>!? Eu tinha certeza de que só existiam nas lendas, kupo! Nunca pensei que veria uma em carne e osso..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_001", "hash": "B410C166DF8E46FE", "target": "...Mas onde eu estava mesmo? Ah, sim, estava procurando três cestos que parece que perdi. Talvez os tenha esquecido perto de Four Arms..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_010", "hash": "140D734E57374B4A", "target": "Onde estavam aqueles cestos? A última vez que lembro de vê-los foi quando estava perto de Four Arms..." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_020", "hash": "51FB103CB6024F1A", "target": "Onde podem estar aqueles cestos, kupo? Você tem alguma ideia?" },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_030", "hash": "429AF7F785D86647", "target": "Meus cestos! Você foi mesmo procurá-los? As lendas não dizem que as criaturas da superfície são tão bondosas." },
+    { "gameKey": "quest/018/HeaVnz407_01825#TEXT_HEAVNZ407_01825_MOGSON_000_031", "hash": "B30DA06134E388A3", "target": "Explorar as ruínas dos senhores da terra e coletar os tesouros espalhados é um passatempo meu, mas nunca sonhei que conheceria alguém da superfície! Não poderia esperar encontrar um artefato que valesse sequer metade do nosso encontro, kupo!" }
   ]
 }

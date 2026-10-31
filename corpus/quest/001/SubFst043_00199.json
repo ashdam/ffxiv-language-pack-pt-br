@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst043_00199",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "" },
-    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "" }
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_00", "hash": "D1F51E185D7C5440", "target": "Paulemont, um guarda na Torre de E-Tatt, procura <if(gnum4,uma aventureira diligente,um aventureiro diligente)> para esfregar e limpar duas placas de sinalização encardidas." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_01", "hash": "66E7AF35C18439DC", "target": "Limpe os dois marcos empoeirados ao longo da estrada perto da Torre de E-Tatt." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_02", "hash": "3E9834076A359F31", "target": "Você esfregou os marcos empoeirados até tirar a sujeira. Apresente-se a Q'djawana nos Estábulos de Treespeak." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_SEQ_03", "hash": "17288B8BF352A874", "target": "Com a diminuição das árvores adequadas à postura de ovos, os monstros passaram a depositar sua prole ainda não nascida sobre as placas de sinalização cobertas de sujeira e ao redor delas. Q'djawana ainda não encontrou um método para impedir que os marcos virem ninhos improvisados, mas seus esforços ao menos adiaram o problema por um breve período." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_00", "hash": "96037237613B617F", "target": "Limpar os marcos empoeirados" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_TODO_01", "hash": "23F504BD68D6E132", "target": "Apresentar-se a Q'djawana nos Estábulos de Treespeak" },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_1", "hash": "04CF12839416C4BE", "target": "Veio dar uma mão, foi? Pois bem, pode escolher uma tarefa desta minha lista que parece não ter fim." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_2", "hash": "C091F31E4A77AA1F", "target": "Preciso que siga pela estrada a oeste e esfregue dois dos marcos. Juro por Nophica, aquelas placas acumulam poeira e sujeira com uma rapidez quase sobrenatural." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_PAULEMONT_000_3", "hash": "2E1109031D2AA165", "target": "Fale com Q'djawana nos Estábulos de Treespeak quando terminar. Ela ficará feliz em saber que os marcos estão limpos... pelas próximas três badaladas, pelo menos..." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_10", "hash": "447A7AD301671D20", "target": "Como é? Você andou limpando os marcos? Ora, obrigada! Com todas as tarefas que temos por aqui, eu temia que eles acabassem ficando ainda mais imundos. E não é só porque são feios de se ver, viu? Nesse estado, as criaturas daqui costumam botar ovos neles." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_11", "hash": "101B6557CC3E3BBA", "target": "Quanto ao motivo... bem, só posso supor que as árvores onde preferem fazer ninhos estejam em falta ultimamente. Seja como for, não podemos deixar monstros nascerem nas placas à beira da estrada. Estes caminhos já são perigosos o bastante." },
+    { "gameKey": "quest/001/SubFst043_00199#TEXT_SUBFST043_00199_QDJAWANA_000_12", "hash": "34698A6BE15B2EF1", "target": "Hmmm, talvez borrifar um pouco de licor de vespas mantenha as feras afastadas..." }
   ]
 }

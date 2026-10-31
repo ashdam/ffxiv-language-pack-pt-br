@@ -2,16 +2,16 @@
   "conversation": "quest/012/BanSyl308_01284",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_00", "hash": "E751FF1C9FAD765F", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_01", "hash": "7644E67AEC875EBA", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_02", "hash": "AC4C17B3D261FE09", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_TODO_00", "hash": "B4191E82EBD020ED", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_000", "hash": "53CBD3586922A014", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_001", "hash": "B592A28A5BBDBFD6", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_002", "hash": "41893A5C49752F04", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_003", "hash": "AEFBEE7722E9FE4D", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_020", "hash": "7112DC060837BA2C", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_021", "hash": "34E25004F71F5440", "target": "" },
-    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_022", "hash": "357522B85CF4B633", "target": "" }
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_00", "hash": "E751FF1C9FAD765F", "target": "Moxia olha para você suplicante, com uma lágrima nos olhos." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_01", "hash": "7644E67AEC875EBA", "target": "Um grande javali chamado Kafre, antes um querido animal de estimação dos silfos, enlouqueceu e agora corre solto pelas Sylphlands, ferindo tudo que vê com suas presas temíveis. Angustiada com o destino de seu antigo amigo, Moxia toma a difícil, mas necessária, decisão de pedir que você o abata. Participe do FATE “What a Boar”, no oeste das Sylphlands, e volte a Moxia com uma prova de que a tarefa foi cumprida." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_SEQ_02", "hash": "AC4C17B3D261FE09", "target": "Moxia se anima muito ao ver a presa e saber que Kafre não foi morto, apenas afugentado. Comovida com sua bondade e coragem, ela agradece profusamente e se agarra à esperança de que o grande javali volte um dia ao Pequeno Consolo mais dócil." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_TODO_00", "hash": "B4191E82EBD020ED", "target": "Participar do FATE “What a Boar” e entregar a prova de seu feito a Moxia" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_000", "hash": "53CBD3586922A014", "target": "\\<fungada> ...Ah, o de confiança. Este aqui pede perdão ao de confiança. Este aqui tem um favor difícil a pedir ao de confiança." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_001", "hash": "B592A28A5BBDBFD6", "target": "Por muitos anos, estes aqui criaram um grande de presas chamado Kafre. Kafre é o mais forte dos de presas, dá muita alegria a estes aqui nos festivais de luta de presas." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_002", "hash": "41893A5C49752F04", "target": "Ai! Kafre fugiu dos cuidados destes aqui e agora corre feito louco pelas Sylphlands, virando suas presas temíveis contra todos em seu caminho. Foi obra dos tocados, ou Kafre cansou da companhia destes aqui? Este aqui não sabe." },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_003", "hash": "AEFBEE7722E9FE4D", "target": "Este aqui não quer machucar o de presas, mas Kafre... \\<fungada> ...precisa ser detido. O de confiança vai fazer essa tarefa triste?" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_020", "hash": "7112DC060837BA2C", "target": "Ah, o de confiança. Que o de confiança diga a este aqui, Kafre... \\<soluço> ...não existe mais?" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_021", "hash": "34E25004F71F5440", "target": "O de confiança quebrou uma presa, e Kafre fugiu guinchando? O amigo de presas destes aqui ainda vive? Ah, este aqui não podia esperar notícia mais feliz!" },
+    { "gameKey": "quest/012/BanSyl308_01284#TEXT_BANSYL308_01284_MOXIA_000_022", "hash": "357522B85CF4B633", "target": "É esperar demais que Kafre volte um dia para estes aqui mais manso? Este aqui só pode sonhar." }
   ]
 }

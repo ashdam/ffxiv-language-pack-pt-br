@@ -2,15 +2,15 @@
   "conversation": "quest/027/StmBdz406_02729",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "" }
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "Aohata não gosta de doninhas." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Vasculhar a área e matar as mad weasels" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "Relatar a Aohata" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Ei, você. Quer ganhar uns Gil?" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Há um bambuzal aqui perto de onde os aldeões costumam tirar bambu para fazer espantalhos. Porém, algumas mad weasels apareceram na área ultimamente, e desde então ninguém conseguiu colher bambu." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Dizem que são três. Vou recompensar você muito bem se conseguir matar todas." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Dizem que são três. Vou recompensar você muito bem se conseguir matar todas." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Terminou? Fantástico!" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_011", "hash": "CF16DC915A1447B6", "target": "Pensando bem, houve um tempo em que os aldeões usavam outra coisa para proteger os campos, em vez de espantalhos. Pelo que dizem, as pessoas erguiam carcaças de feras empaladas para afastar as pragas." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_012", "hash": "10108C5B45D14B8F", "target": "Há quem diga que usavam cadáveres de filhotes de doninha. Talvez só possamos culpar a nós mesmos pelo problema recente..." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz811_01941",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_00", "hash": "AF9FAE0F95E57B9D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_01", "hash": "B122EB061AF138D9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_02", "hash": "F9520AE35B663208", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_03", "hash": "E993B5577DA8ED99", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_00", "hash": "70BAF05AF6B27BDB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_01", "hash": "61F4E8BA793FEDEE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_000", "hash": "88415F1482239400", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_001", "hash": "C038299A93F0B952", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_010", "hash": "3DA410ED495BB206", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_020", "hash": "0CEC18E66098D289", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_021", "hash": "E00AA07B55F6C106", "target": "" },
-    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_022", "hash": "F705B3C89D6657DD", "target": "" }
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_00", "hash": "AF9FAE0F95E57B9D", "target": "Loudjox ficou sem mercadorias para vender." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_01", "hash": "B122EB061AF138D9", "target": "Loudjox acha que você veio comprar, mas percebe que pode pagar algum gil em troca de folhas de narbroois. Vá a Makers' Quarter e mate os monstros de aroma adocicado para obter seis de suas folhas perfumadas." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_02", "hash": "F9520AE35B663208", "target": "Você mata alguns narbroois e arranca as folhas de seus corpos imóveis. Volte a Loudjox com os prêmios aromáticos." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_SEQ_03", "hash": "E993B5577DA8ED99", "target": "Loudjox paga pelas folhas e explica que elas fazem parte de uma mistura que os goblins colocam nas máscaras para evitar maus odores. Tendo em vista sua experiência com aromas goblins, você recusa a oferta de cheirá-la e aceita a recompensa por ajudar a deixar Eorzea um pouco mais cheirosa." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_00", "hash": "70BAF05AF6B27BDB", "target": "Coletar folhas de narbroois em Makers' Quarter" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_TODO_01", "hash": "61F4E8BA793FEDEE", "target": "Entregar as folhas de narbrooi a Loudjox" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_000", "hash": "88415F1482239400", "target": "Pssshkoh... Loudjox já <italic(1)>dizer<italic(0)>, não ter mais ervas cheirosas por hoj... Hm? Altogente? Não vir para comprar?" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_001", "hash": "C038299A93F0B952", "target": "Altogente <italic(1)>querer<italic(0)> vender? Hummm... Loudjox <italic(1)>precisar<italic(0)> de seis folhas de narbrooi para fazer maços de ervas perfumadas. Altogente poder tirar duas folhas de cada cadáver, e Loudjox pagar bom tilintabrilho para <if(gnum4,ambas,ambos)> ficar felizes!" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_010", "hash": "3DA410ED495BB206", "target": "Altogente não saber onde narbrooi viver? Ir a Makers' Quarter, muitos flutuar por lá. Mas garantir que monstros mortos primeiro, senão guinchar muito..." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_020", "hash": "0CEC18E66098D289", "target": "Narbrooi fazer guinchos horríveis, mas folhas cheirar como comida gostosofresco." },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_021", "hash": "E00AA07B55F6C106", "target": "Pssshkoh... Quatro, cinco... sim, seis folhas inteiras. Agradecer, altogente. Goblinbando encher máscaras com ervas para livrar nariz do mau cheiro de pântanos e brejos. Loudjox poder fazer muitos maços e dobrar tilintabrilho!" },
+    { "gameKey": "quest/019/HeaVnz811_01941#TEXT_HEAVNZ811_01941_LOUDJOX_000_022", "hash": "F705B3C89D6657DD", "target": "Altogente querer cheirar também? Não? Então querer prêmiomissão. Loudjox ser goblin de palavra, aqui ter tilintabrilho pelo serviço!" }
   ]
 }

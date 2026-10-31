@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKza015_04194",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_SEQ_00", "hash": "AF1B8456664CEAE6", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_000", "hash": "3C77F3A37D4B541D", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_001", "hash": "9F1607EA3204DF1E", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_002", "hash": "335BD5EC969EF6FF", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_003", "hash": "D3D76C8A92A808A3", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_010", "hash": "C5DB12F5A0EB1A33", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_011", "hash": "97EB306CE3F52C5A", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_012", "hash": "92D8CEF6FB23C063", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_013", "hash": "F5387C636D2FBF1D", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_014", "hash": "BC06421D68EAE8AA", "target": "" },
-    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_015", "hash": "5347C5F4A99ED42B", "target": "" }
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_SEQ_00", "hash": "AF1B8456664CEAE6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Emaniette procura uma alma corajosa para uma tarefa perigosa." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_00", "hash": "C19BE0D6767DBF03", "target": "Coletar lama marrom" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_TODO_01", "hash": "A240E90C2BD99E23", "target": "Entregar a lama marrom a Emaniette" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_000", "hash": "3C77F3A37D4B541D", "target": "Se não me engano, você tem o olhar de aço de <if(gnum4,uma aventureira,um aventureiro)>. Alguém que encara a morte sem vacilar." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_001", "hash": "9F1607EA3204DF1E", "target": "Por acaso, preciso de uma amostra de terra rara, mas ela só é encontrada num lugar cheio de plantas ferozes e sabe-se lá o que mais. Daria um saco bem pesado de moedas se você pudesse trazê-la para mim." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_002", "hash": "335BD5EC969EF6FF", "target": "Se aceitar, por favor, vá às Profundezas do Troglófilo e reúna três amostras de lama marrom para mim. Quanto mais escura, melhor. Sugiro afiar suas armas antes, mas não vou ensinar você a fazer seu trabalho." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_003", "hash": "D3D76C8A92A808A3", "target": "Preciso de três amostras de lama marrom das Profundezas do Troglófilo. Devem ser fáceis de encontrar, mas chegar até elas sem se ferir pode ser outra história." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_010", "hash": "C5DB12F5A0EB1A33", "target": "Você voltou! Estou surpresa? Não, não, claro que não. Tinha plena confiança nas suas habilidades. Bem, trouxe as amostras?" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_011", "hash": "97EB306CE3F52C5A", "target": "Excelente trabalho. Com isto, vou continuar minha pesquisa sobre as técnicas do povo de Nagxia, tão hábil na luta quanto na agricultura." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_012", "hash": "92D8CEF6FB23C063", "target": "Recentemente, consegui textos da terra deles que detalham sua agricultura. Sabia que eles misturam fezes de morcego ao solo para torná-lo mais fértil? Muito engenhoso." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_013", "hash": "F5387C636D2FBF1D", "target": "A terra onde vivem é bastante temperada, e está escrito que, após cem verões, as fezes se solidificam em algo semelhante a pedra, concentrando ainda mais os nutrientes que contêm." },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_014", "hash": "BC06421D68EAE8AA", "target": "É claro que as amostras que você trouxe hoje são frescas demais para serem muito úteis por si só. Mas qual é o propósito da pesquisa, senão nos libertar dos limites do mundo natural?" },
+    { "gameKey": "quest/041/AktKza015_04194#TEXT_AKTKZA015_04194_EMANIETTE_000_015", "hash": "5347C5F4A99ED42B", "target": "Como é? Tenho certeza de que disse que as fezes <italic(1)>parecem<italic(0)> lama, não disse? De qualquer modo, pretendo acelerar a maturação e criar em dias o que a natureza leva séculos para produzir. Se eu conseguir, agricultores de todas estas terras vão comemorar, e agradecerão a você por isso!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/026/StmBdz013_02647",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "" },
-    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "" }
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_SEQ_00", "hash": "904B744667365DC1", "target": "A casa de Gelen está um pouco mais arejada do que de costume." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_00", "hash": "7F59537EF32D2A0C", "target": "Eliminar earth sprites e obter seus núcleos" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_TODO_01", "hash": "2643737DD1245A9D", "target": "Entregar os núcleos de earth sprite a Gelen" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_000", "hash": "9AE6BD581E66F001", "target": "Pode me dar uma mão? Não me resta muito tempo. É o mínimo que poderia fazer." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_001", "hash": "CEDBFE554476783D", "target": "Moro nesta casa desde que me casei. Nunca foi o que eu chamaria de uma casa em bom estado, mas é minha. Só que, recentemente, apareceu uma rachadura enorme na parede." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_002", "hash": "E7F5AF5E46479C6F", "target": "Eu mesma consertaria, mas não tenho os materiais. Faça um favor a esta velha e elimine três earth sprites. Vai encontrar alguns perto do Zigurate. Traga os núcleos e vamos ver se dá para consertar esta casa." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_10", "hash": "B7D2E26C1ADC222A", "target": "Faça um favor a esta velha e elimine três earth sprites. Traga os núcleos e vamos ver se dá para consertar esta casa." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_020", "hash": "543E962EA8C112F6", "target": "É bom que não tenha voltado sem os núcleos." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_021", "hash": "A3D2C9C2CEC08CB6", "target": "Que beleza! Vou começar a quebrar tudo agora mesmo. Depois, é só misturar numa pasta para aplicar na rachadura." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_022", "hash": "996962D06841D7F0", "target": "Isso deve impedir que volte a aparecer por uns anos. Com sorte, nem vou estar mais aqui para ver a parede rachar de novo!" },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_023", "hash": "31C2919D3A8A3F89", "target": "Parece que o próprio chão onde estamos era parte da pedreira. Aí, um dia, alguém resolveu usar como área de descanso. Depois construíram uma casa aqui, uma coisa levou à outra e, quando perceberam, já tinha surgido um povoado inteiro." },
+    { "gameKey": "quest/026/StmBdz013_02647#TEXT_STMBDZ013_02647_GELEN_000_024", "hash": "3DC1DD1CA989B06B", "target": "Enfim, já chega de histórias por hoje. Obrigada, <if(gnum4,moça,rapaz)>." }
   ]
 }

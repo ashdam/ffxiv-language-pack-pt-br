@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubSea151_01142",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "" },
-    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "" }
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_00", "hash": "390F65045B6E60AA", "target": "A Soldada S'nairoh precisa de sua ajuda para defender Aleport." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_01", "hash": "FA71CC443FA0A02C", "target": "Há uma primeira vez para tudo e, para azar de S'nairoh, sua primeira experiência de guerra chega quando ela só tem você, de passagem, para lhe servir de escudo. Sua missão é matar cinco puk hatchlings enquanto ela prepara o canhão." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_02", "hash": "2AD2287650FFD803", "target": "Os pobres puks jazem derrotados no chão, mortos poucas horas depois de saírem do ninho. Parece que há novatos dos dois lados da muralha hoje, pois a vitória foi fácil até demais. Apresente-se a S'nairoh." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SEQ_03", "hash": "068F3239057569BB", "target": "As criaturinhas não eram uma ameaça a Aleport. Derramar sangue inocente, ainda que de feras, está se tornando um risco da sua profissão." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_00", "hash": "C6F7A12CE6ACF707", "target": "Matar puk hatchlings" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_TODO_01", "hash": "2DE9FA0A0E8F97D4", "target": "Apresentar-se à Soldada S'nairoh" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_000", "hash": "4511D820A7894810", "target": "Atenção, inimigos no céu! C-Componha-se, soldada! V-Você foi treinada para isso, mesmo que só tenha visto brigas de rua, confusões de taverna e troca de socos por causa de trapaça no jogo de damas..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_001", "hash": "C35BCE4A1085A813", "target": "Primeiro, preciso preparar o canhão. Agora, vamos lembrar cada passo. Hum... certo! “Certifique-se de ter apoio, pois preparar um canhão não é tarefa rápida.”" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_002", "hash": "74BAEC0BBB5C01D3", "target": "Até aqui, tudo bem! É só chamar C'mell e... C'mell? Essa menina! Nunca está por perto quando precisamos dela. Tudo bem, o sargento sempre mandava improvisar!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_003", "hash": "CFCB5FA90D7B5A53", "target": "Você aí! <if(gnum4,Aventureira,Aventureiro)>, Limsa Lominsa precisa dos seus serviços! Atrase o inimigo enquanto preparo o canhão. Prometo que estarei pronta antes que a quinta carcaça esfrie!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_010", "hash": "85379D800767AD3C", "target": "Pronta para atirar! Eu cumpro minhas promessas, <if(gnum4,aventureira,aventureiro)>, e <italic(1)>você<italic(0)> mantém suas habilidades afiadas, pelo visto! Um momento, acabei de receber uma mensagem..." },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_011", "hash": "A9C2806A392FD71F", "target": "O quê? Eles <italic(1)>não estavam<italic(0)> atacando Aleport? Mas que...! Não somos importantes o bastante?<br>Eram só filhotes? Bem, é preciso ser mais burro que uma porta para voar na direção de um canhão nos tempos em que vivemos!" },
+    { "gameKey": "quest/011/SubSea151_01142#TEXT_SUBSEA151_01142_SNAIROH_000_012", "hash": "3AE67EA5A7734B7A", "target": "Acho que tudo está bem quando termina bem. Mas... confesso que estava ansiosa para pôr meu treinamento em prática <italic(1)>de verdade<italic(0)>. Não entrei no Maelstrom para separar brigas, sabe? E agora vou ter que limpar o canhão. \\<suspiro>" }
   ]
 }

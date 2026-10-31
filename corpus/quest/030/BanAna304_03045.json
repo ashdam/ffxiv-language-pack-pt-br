@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna304_03045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_SEQ_00", "hash": "9D9574150087FC7B", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_00", "hash": "E2FE75A830D1DAEF", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_01", "hash": "E0ACA2D375F13726", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_000", "hash": "002F6314BCD0DF8D", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_001", "hash": "C74D889585817D0A", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_002", "hash": "55ADC3C5B02832AA", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_020", "hash": "6E0467A6EAD68074", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_021", "hash": "ED55D2DE293B7A48", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_022", "hash": "AB4DB6703F817DCC", "target": "" },
-    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_023", "hash": "9EDC184D7F758ED0", "target": "" }
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_SEQ_00", "hash": "9D9574150087FC7B", "target": "Eshana procura alguém com talento para a jardinagem.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_00", "hash": "E2FE75A830D1DAEF", "target": "Usar o tônico conservante nas raízes contaminadas da Árvore Sábia" },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_TODO_01", "hash": "E0ACA2D375F13726", "target": "Falar com Eshana" },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_000", "hash": "002F6314BCD0DF8D", "target": "Para melhorar nossas relações com Gridania, a capitã Alpa propôs uma iniciativa conjunta para revitalizar a Árvore Sábia e purificar as terras ao redor. Sss..." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_001", "hash": "C74D889585817D0A", "target": "Os gridanianos ofereceram elixires para purificar o solo. De nossa parte, preparamos um tônico para impedir que as raízes apodreçam e se decomponham. Sss..." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_002", "hash": "55ADC3C5B02832AA", "target": "Por favor, leve estes dois frascos de tônico até a Árvore Sábia e despeje o conteúdo sobre as raízesss." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_020", "hash": "6E0467A6EAD68074", "target": "Você voltou. Então está feito? Sss..." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_021", "hash": "ED55D2DE293B7A48", "target": "Excelente. Faz muitas luas que não precisamos de uma poção dessas. Suas propriedades conservantes permitem que as plantas prosperem mesmo nas condiçõesss mais hostis." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_022", "hash": "AB4DB6703F817DCC", "target": "Nunca imaginei que ela serviria para nutrir a Árvore Sábia. A recuperação de seu antigo esplendor levará tempo e exigirá mais aplicaçõesss do nosso tônico." },
+    { "gameKey": "quest/030/BanAna304_03045#TEXT_BANANA304_03045_ESHANA_000_023", "hash": "9EDC184D7F758ED0", "target": "Confio que poderemos contar com sua ajuda quando precisarmos dela de novo. Sss..." }
   ]
 }

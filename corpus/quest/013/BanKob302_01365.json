@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob302_01365",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "" },
-    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "" }
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_00", "hash": "0802300A478D3A8A", "target": "Os túneis estão cheios de seguidores e capangas de Zo Ga, um pouco demais para o gosto de 789th Order Dustman Bo Bu." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_01", "hash": "73B21F8DE3C2098E", "target": "Na opinião de Bo Bu, o fanfarrão Zo Ga chegou à sua posição elevada não por mérito próprio, mas pelo apoio quase fanático de uma legião de seguidores formidáveis. Vá a U'Ghamaro e elimine pelo menos cinco membros da elite de Zo Ga, patrulheiros, trabalhadores da pedreira, sacerdotes ou devotos, para enfraquecer o domínio de ferro do líder sobre os túneis." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_02", "hash": "6D40F958FB6C60F7", "target": "Cinco lacaios de Zo Ga caíram pelas suas mãos, percebendo tarde demais o destino de quem se alia a aspirantes a tiranos. Volte ao 789th Order Dig e dê a Bo Bu a notícia de seu triunfo." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_SEQ_03", "hash": "6710E1336DE2EAAC", "target": "Bo Bu se alegra ao saber que os seguidores de Zo Ga receberam a justiça devida por seus crimes. Como seus esforços deram certa coragem ao lixeiro, talvez não esteja tão longe o dia em que a 789ª se levantará contra seus opressores..." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_00", "hash": "0E269D5BB7E3593A", "target": "Matar os lacaios de Zo Ga nas U'Ghamaro Mines" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_TODO_01", "hash": "5085D707EC45DAE4", "target": "Reportar a 789th Order Dustman Bo Bu" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_000", "hash": "12F7144344AF4FDC", "target": "Zo Ga não é tão grande─nem tão elevado, nem tão poderoso, nem tão grande. Não, não, o próprio Zo Ga não é mais forte que eu ou você─você ou eu." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_001", "hash": "67678DA4D946B41A", "target": "Então por que Zo Ga consegue o que quer, você pergunta? Uma pergunta astuta─perspicaz, sagaz, astuta." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_002", "hash": "B095B19B4DE962C3", "target": "Zo Ga tem muitos amigos em U'Ghamaro─capangas, lacaios, amigos. Sim, sim, amigos poderosos." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_003", "hash": "08E4902F0E466A9B", "target": "Quando Zo Ga diz “Cavem!”, eles dizem “Até que profundidade?”<br>Quando Zo Ga diz “Matem Bo Bu!”, eles dizem “Até que ponto de morte?”" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_004", "hash": "C5470CE02AC74375", "target": "Sem seus amigos, Zo Ga será uma sombra de si mesmo─uma casca, um espectro, uma sombra. A 789ª terá uma chance de lutar. Sim, sim, teremos!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_005", "hash": "B2751856544F00EB", "target": "Sem seus amigos, Zo Ga será uma sombra de si mesmo─uma casca, um espectro, uma sombra. A 789ª terá um fio de esperança. Sim, sim, uma chance de lutar!" },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_010", "hash": "81FEB841C86F9464", "target": "Em algum lugar, Zo Ga fecha os punhos de raiva─cólera, fúria, raiva. Sim, sim, você fez um bom trabalho. Um bom trabalho você fez." },
+    { "gameKey": "quest/013/BanKob302_01365#TEXT_BANKOB302_01365_BOBU_000_011", "hash": "18CF9A2291A28055", "target": "A revolução começa, começa devagar, mas com certeza. Logo Zo Ga ficará sozinho─abandonado e à deriva e sozinho─e teremos nossa vingança. Sim, sim, a vingança será nossa!" }
   ]
 }

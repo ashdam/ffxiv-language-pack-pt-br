@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma310_01251",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "" },
-    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "" }
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_00", "hash": "494B7674BD10F2BD", "target": "Yadovv Gah exige que o fogo dos braseiros de Ifrit seja apagado." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_01", "hash": "7102A3318D6754E1", "target": "Os braseiros dos Presas de Fogo são símbolos de poder e prestígio, sobretudo os que levam o nome do Senhor do Inferno. Yadovv Gah quer que você destrua essas abominações e, assim, prejudique de modo irreparável a reputação dos fanáticos." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_02", "hash": "33D41D17BE8B237B", "target": "Os Presas de Fogo lamentarão este dia, e muito. Volte ao Círculo das Cinzas e relate o ocorrido a Yadovv Gah." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_SEQ_03", "hash": "815B4C2717848D5C", "target": "Os uivos dos Presas de Fogo, ouvidos a malms de distância, informaram Yadovv Gah de seu sucesso. Ele declara que os inimigos jurados da Irmandade logo estarão derrotados a seus pés, graças aos seus esforços incansáveis." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_00", "hash": "D63A5B0FC77696FB", "target": "Destruir Ifrit's beacons" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_TODO_01", "hash": "D22521607E4D45D4", "target": "Relatar o ocorrido a Yadovv Gah" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_000", "hash": "F374BE406FD6DB6D", "target": "Os braseiros dos Presas de Fogo são uma praga em Zahar'ak, sobretudo os que levam o nome do Senhor do Inferno." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_002", "hash": "67E252133CC728CD", "target": "Cada um é um símbolo de poder e prestígio. Ao destruí-los, privaremos os fanáticos de ambos." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_003", "hash": "77382FE460DE5599", "target": "Saiba que sua missão não será fácil, pois os braseiros ardem no coração de Zahar'ak, defendidos pelos seguidores mais devotos de Ifrit." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_004", "hash": "DC4AA0E6B90BBA0D", "target": "Além disso, as abominações se defendem com feitiçaria vigilante, lançando chamas contra tudo que considerem uma ameaça." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_005", "hash": "E9DBD16B8F700D2B", "target": "Poucos são capazes de realizar uma tarefa tão perigosa, mas confio que você trará muita glória à Irmandade." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_010", "hash": "203B3CB13CD3828E", "target": "Quando os uivos dos fanáticos ecoarem por toda Zahar'ak, saberei que os braseiros não existem mais." },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_020", "hash": "DDF817626CE60DD3", "target": "O vento trouxe notícias de seu sucesso, nobre companheir<if(gnum4,a,o)>. Como o chão tremeu, como os Presas de Fogo choraram!" },
+    { "gameKey": "quest/012/BanAma310_01251#TEXT_BANAMA310_01251_YADOVVGAH_000_021", "hash": "C07E72C6D2E0AA6A", "target": "Cada vitória nos aproxima do dia do acerto de contas, quando nossos inimigos jurados estarão derrotados a nossos pés!" }
   ]
 }

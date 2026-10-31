@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKzb005_03383",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "" },
-    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "" }
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_SEQ_00", "hash": "809B5A786546A447", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bjorn precisa de sua ajuda para ensinar uma lição vital aos novos recrutas da guarda de Crystarium." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_00", "hash": "3F8A7B938C4C4DFE", "target": "Abater um violet triffid e obter um ramo rico em seiva" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_TODO_01", "hash": "496484FE3A27436E", "target": "Entregar o ramo rico em seiva a Dawkes em Crystarium" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_000", "hash": "DE643807F5EB8F0B", "target": "É uma honra falar com você, <if(gnum4,senhora,senhor)>! Seus feitos em Holminster Switch continuam sendo uma inspiração para todos nós, e muitos de nossos novos recrutas estão ansiosos para seguir seu exemplo." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_001", "hash": "2E757844CCBD6FE9", "target": "Infelizmente, poucos deles têm a força e a habilidade necessárias para isso no momento. É claro que não gostam de ouvir isso, preferem sair correndo para enfrentar devoradores desgarrados e provar seu valor a seguir nossos programas de treinamento." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_002", "hash": "040280EFCB48F13C", "target": "Para ser franco, desse jeito vão acabar morrendo. Será que você teria interesse em demonstrar o quanto eles ainda precisam melhorar para chegar ao seu nível?" },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_003", "hash": "7DB98AFDBDF41272", "target": "Muito bem! Obviamente, não posso pedir que enfrente os recrutas corpo a corpo, eles não estão nem perto de estar prontos para isso. Mas talvez possa lhes mostrar a facilidade com que realiza as tarefas que eles acham tão trabalhosas." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_100_003", "hash": "2FD4E417441B2D8F", "target": "Coletar seiva de triffid em Forest of the Lost Shepherd, por exemplo. Sempre são necessários pelo menos três deles para abater uma dessas criaturas, e depois levam uma eternidade para entregar o ramo a Dawkes em Crystarium. Eu adoraria lhes contar como você fez o mesmo em muito menos tempo." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_BJORN_000_004", "hash": "77AECC33B059ECE4", "target": "Você precisa abater um violet triffid, só um! Uma tarefa trivial para quem dedicou tempo ao treinamento adequado, tenho certeza de que concorda." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_010", "hash": "2268F37BB477A910", "target": "Então é você que trouxe a seiva de triffid? Bjorn avisou que viria, recebi a mensagem há poucos instantes, na verdade." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_011", "hash": "5AC390A37B44D3CD", "target": "E que belo ramo! Devo conseguir extrair um bom volume de seiva dele. Vou fazer questão de mencionar sua eficiência muito maior na próxima vez que vir os recrutas." },
+    { "gameKey": "quest/033/LucKzb005_03383#TEXT_LUCKZB005_03383_DAWKES_000_012", "hash": "87885495516908A9", "target": "Pode parecer um pouco cruel, mas, pelo que Bjorn me contou, eles correrão sério perigo se não começarem a levar o treinamento mais a sério. Vamos torcer para que isso os faça cair em si." }
   ]
 }

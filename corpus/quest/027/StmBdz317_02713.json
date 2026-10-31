@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz317_02713",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_SEQ_00", "hash": "5809D2622A8D7BF6", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_00", "hash": "DCC075CEFF95C97B", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_01", "hash": "E2C8DD04D097C753", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_000", "hash": "773D816ACA6F57D7", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_001", "hash": "D73E36EBB96589FC", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_002", "hash": "DA6A22F6CEBBDA15", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_003", "hash": "609CD0E1A492E059", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_004", "hash": "159525C75CB08F8D", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_005", "hash": "9F0E0153D4031AF5", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_010", "hash": "0B2E8ED76645C48A", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_011", "hash": "E37A415CCF79C870", "target": "" },
-    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_012", "hash": "FAED0E7B4D78EB41", "target": "" }
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_SEQ_00", "hash": "5809D2622A8D7BF6", "target": "Abiki olha para você, avaliando." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_00", "hash": "DCC075CEFF95C97B", "target": "Vasculhar o local indicado e matar os isonade que aparecerem" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_TODO_01", "hash": "E2C8DD04D097C753", "target": "Relatar a Abiki" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_000", "hash": "773D816ACA6F57D7", "target": "Ah, você deve ser... como é que chamam mesmo? <if(gnum4,Aventureira,Aventureiro)>? Sim, vejo nos seus olhos. Você tem costume de lutar. Na verdade, acho até que uma parte de você vive para isso." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_001", "hash": "D73E36EBB96589FC", "target": "Já todos nós nesta ilha somos apenas humildes pescadores. Não sabemos lutar. Isso é um problema, pois ultimamente monstros terríveis têm nos atormentado, devorando os peixes das nossas redes e ameaçando nosso sustento." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_002", "hash": "DA6A22F6CEBBDA15", "target": "Outro dia mesmo, destruíram completamente nossos pesqueiros perto de Onokoro. Temo que, se isso continuar, nossa aldeia não consiga mais se sustentar." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_003", "hash": "609CD0E1A492E059", "target": "Por isso recorro à sua ajuda. Você poderia eliminá-los para nós? É claro que receberá uma recompensa pelo serviço." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_004", "hash": "159525C75CB08F8D", "target": "As feras estão ao norte daqui. Por favor, acabe com elas!" },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_005", "hash": "9F0E0153D4031AF5", "target": "Ao norte daqui estão as feras terríveis que destroem nossa aldeia e ameaçam nossa sobrevivência. Por favor, eu imploro, mate-as a qualquer custo." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_010", "hash": "0B2E8ED76645C48A", "target": "<if(gnum4,Aventureira,Aventureiro)>, você voltou. Essas manchas de sangue... parece que não precisamos mais nos preocupar com os monstros. Obrigado." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_011", "hash": "E37A415CCF79C870", "target": "\\<suspiro> Antes de o Império ocupar Doma, nossos homens manejavam espadas tão bem quanto varas de pesca. Eles se reuniam na aldeia e saíam para matar qualquer pessoa ou criatura que nos incomodasse. Mas hoje uma ação dessas seria considerada uma tentativa de rebelião." },
+    { "gameKey": "quest/027/StmBdz317_02713#TEXT_STMBDZ317_02713_ABIKI_000_012", "hash": "FAED0E7B4D78EB41", "target": "Tivemos muita sorte de receber sua visita naquele momento. Por favor, volte à nossa ilha quando quiser. Pode ter certeza de que receberá uma acolhida calorosa." }
   ]
 }

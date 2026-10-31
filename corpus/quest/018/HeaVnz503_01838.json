@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz503_01838",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "" }
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_00", "hash": "C1557D3DED2950F4", "target": "O malcontent moogle de Moghome contempla a folha de moca com evidente insatisfação." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_01", "hash": "DB22CFB9704A0A0F", "target": "O malcontent moogle informa que, embora a folha de moca tenha suas utilidades, sozinha não vai aliviar a febre de seu amigo. Para completar o remédio, precisa acrescentar um punhado ou três de escamas urticantes, recém-cortadas da pele de um Mists biast. Ele entrega a você uma Moglinglaive para raspar as escamas das caudas dos lagartos e manda você seguir viagem." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_02", "hash": "89940D449FE8028D", "target": "Você livra os Mists biasts locais de suas escamas. Entregue-as ao malcontent moogle de Moghome para que ele prepare o remédio que curará seu amigo febril." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_SEQ_03", "hash": "EFE4A0C16E317B2E", "target": "O malcontent moogle fica razoavelmente satisfeito com as escamas que você trouxe e logo começa a preparar o remédio que aliviará a febre de seu amigo. O meandering moogle de Moghome certamente logo estará de pé, pronto para retomar suas andanças." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_00", "hash": "8FA40E837F4F814F", "target": "Usar a Moglinglaive para obter escamas urticantes de Mists biasts" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_TODO_01", "hash": "B106620BA0B2D677", "target": "Entregar as escamas urticantes ao malcontent moogle" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGA01836_000_000", "hash": "5EA62C158A84D0F4", "target": "Espero que meu amigo melhore logo, kupo. Vou visitá-lo em Moghome assim que recuperar o fôlego... \\<ronco>" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_LYINGMOGB01836_000_001", "hash": "FBAB09A41E0ABA68", "target": "Tanto cansaço, kupo... Tanto f-f-frio..." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_010", "hash": "98924047456CFD99", "target": "Obrigado por colher a folha de moca, <if(gnum4,aventureira,aventureiro)>, mas vamos precisar de mais do que isso para pôr meu amigo de pé. A folha devolverá sua energia, mas só as escamas urticantes podem aliviar a febre, kupo." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_011", "hash": "03B10063549E05EE", "target": "Pode perguntar aos Mists biasts se aceitariam ceder, digamos... três punhados? Se não colaborarem, pode usar esta Moglinglaive para cortar algumas. É tão afiada que dá para aparar as escamas sem que eles percebam! Boa sorte, kupo!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_020", "hash": "3A9B1E0348A9FF24", "target": "Use aquela Moglinglaive que dei a você para cortar escamas das caudas dos Mists biasts locais. Três punhados devem bastar para pôr meu amigo de pé." },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_040", "hash": "C83282968F73D51A", "target": "Como vai a busca pelas escamas urticantes, kupo? Aqueles Mists biasts provavelmente não vão ceder suas escamas de boa vontade, mas é só se aproximar por trás e raspar algumas com aquela Moglinglaive que dei a você. Eles nem precisam saber!" },
+    { "gameKey": "quest/018/HeaVnz503_01838#TEXT_HEAVNZ503_01838_CAREGIVERMOG01836_000_041", "hash": "E93A51083DF225DB", "target": "Muito obrigado, kupo! Não são as escamas mais brilhantes que já vi, mas acho que vão servir. Vou misturá-las à folha de moca e preparar um remédio que logo devolverá o brilho ao pompom do nosso paciente!" }
   ]
 }

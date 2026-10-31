@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz634_01902",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "" }
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_00", "hash": "5FEFBBC2E793E64C", "target": "Caribault procura alguém que não tenha medo de se sujar." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_01", "hash": "8344D1ABF4D1FBFF", "target": "A qualidade das plantações depende do solo em que crescem, e Caribault precisa de húmus negro para garantir uma colheita farta. Ele pede que você traga cinco cestos dessa terra fértil dos pastos dos wisents a leste de Camp Cloudtop." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_02", "hash": "AB41E1A880FA7741", "target": "Você coleta cinco cestos de húmus negro. Leve-os a Caribault para que ele possa preparar o solo para uma colheita farta." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_SEQ_03", "hash": "20DAD30A2119A56B", "target": "Caribault fica encantado ao ver sua sacola cheia de húmus negro. Ele observa que está especialmente fértil, talvez por estar tão fresco. Quando você vai embora, ele sugere que se lave. Você fica se perguntando se o trabalho era mais sujo do que ele deixou transparecer." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_00", "hash": "3316E5E7F648A867", "target": "Obter cestos de húmus negro" },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_TODO_01", "hash": "5B5C894A4999A03D", "target": "Entregar o húmus negro a Caribault" },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_000", "hash": "5316BEC1A09949CB", "target": "Ah, <split(<string(gstr1)>, ,1)>! Chegou na hora certa! Preciso que traga cinco cestos de húmus negro para as plantações. Você o encontra nos campos a leste daqui, onde os wisents pastam. Eu iria, mas não tenho estômago para isso. Para chegar perto daquelas feras enormes, quero dizer." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_010", "hash": "81B071A2B1407C25", "target": "Cinco cestos de húmus negro devem resolver. Mas cuidado para não acabar sob as patas dos wisents." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_020", "hash": "0AACC72A7865A882", "target": "\\<fareja> Ah, nem precisa dizer, você trouxe o húmus negro, certo? Receio que não possamos esperar uma boa colheita sem ele." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_021", "hash": "390129DEF9B81B5D", "target": "Nossa! Faz tempo que não temos um húmus tão fértil. Ótimo trabalho, <split(<string(gstr1)>, ,1)>. Sabia que podia contar com você." },
+    { "gameKey": "quest/019/HeaVnz634_01902#TEXT_HEAVNZ634_01902_CARIBAULT_000_022", "hash": "F195BC7AAC81C9A9", "target": "Os wisents são bem perigosos, sem dúvida, mas não posso negar os benefícios de suas, hã... <italic(1)>contribuições<italic(0)> à natureza. Por falar nisso, talvez seja melhor se lavar antes de sair em outra aventura." }
   ]
 }

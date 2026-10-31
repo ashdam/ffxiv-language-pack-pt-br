@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanAll010_01465",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_00", "hash": "6C4A1EF5D133E5FC", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_01", "hash": "9F60B982E9A63A4A", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_02", "hash": "459D1C129432C75D", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_TODO_00", "hash": "8B01EEDBA577222F", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_000", "hash": "9B5E7EF5C1BED205", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_001", "hash": "5A3DB561EEE5CA74", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_002", "hash": "736C1E0E71AFC2C2", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_003", "hash": "880F10C5A88AF4E5", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_005", "hash": "214F92899204DF65", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_010", "hash": "94C848FAA6DD2DFB", "target": "" },
-    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_011", "hash": "1ACA6B21D547ECDF", "target": "" }
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_00", "hash": "6C4A1EF5D133E5FC", "target": "Scarlet quer elogiar seu trabalho entre as diversas sociedades de Eorzea e pedir sua ajuda mais uma vez." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_01", "hash": "9F60B982E9A63A4A", "target": "A Tenente Scarlet expressa sua gratidão por suas realizações, que estabeleceram as bases para que um dia se alcance uma paz duradoura com as tribos bestiais de Eorzea. Dando grande valor às suas habilidades diplomáticas, ela pede sua ajuda numa tarefa importante. Pergunte ao Tenente Gavin pelos detalhes." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SEQ_02", "hash": "459D1C129432C75D", "target": "O Tenente Gavin se anima com sua presença, tendo ouvido falar de seus feitos em prol da paz com as tribos bestiais. Para saber mais sobre a tarefa que a Ordem das Duas Víboras quer confiar a você, fale novamente com o tenente." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_TODO_00", "hash": "8B01EEDBA577222F", "target": "Falar com Gavin" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_000", "hash": "9B5E7EF5C1BED205", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. Em nome de toda a Ordem das Duas Víboras, concedo a você nossos mais altos elogios." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_001", "hash": "5A3DB561EEE5CA74", "target": "Embora a paz duradoura com as tribos bestiais não venha facilmente, seus esforços lançaram os alicerces sobre os quais essa paz poderá um dia ser construída." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_002", "hash": "736C1E0E71AFC2C2", "target": "É a você, <if(gnum4,nossa mais notável embaixadora,nosso mais notável embaixador)>, que gostaria de confiar uma missão da maior importância." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_003", "hash": "880F10C5A88AF4E5", "target": "O Tenente Gavin vai explicar os detalhes. Que os deuses guiem você, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>, e que os elementais zelem por você." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_SCARLET_000_005", "hash": "214F92899204DF65", "target": "O Tenente Gavin vai explicar os detalhes da missão. Que os deuses guiem você, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>, e que os elementais zelem por você." },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_010", "hash": "94C848FAA6DD2DFB", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! O que eu não daria para ouvir suas aventuras com os Ixal tomando uma caneca de hidromel!" },
+    { "gameKey": "quest/014/BanAll010_01465#TEXT_BANALL010_01465_GAVIN_000_011", "hash": "1ACA6B21D547ECDF", "target": "...Mas receio que assuntos mais urgentes exijam nossa atenção hoje. Quando quiser receber as instruções, basta avisar." }
   ]
 }

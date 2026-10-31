@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz201_01770",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "" }
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_00", "hash": "D3F2F0A99A4E4B79", "target": "Virgeaume parece estar pensando em chocobos." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_01", "hash": "40B27DAA33EDEEB0", "target": "Virgeaume pediu que você verificasse as duas armadilhas que montou: uma fica rio acima em Whilom River, e a outra a leste de Tailfeather. Veja se as armadilhas para chocobos pegaram alguma coisa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_02", "hash": "783A3BA33520E5EF", "target": "Parece que os chocobos que Virgeaume pretendia capturar fugiram com a isca sem acionar as armadilhas. Leve a ele a triste notícia." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SEQ_03", "hash": "68811D622ADDEB16", "target": "Embora Virgeaume lamente a perda da isca, fica surpreso de saber que os pássaros─e você─conseguiram evitar os fossos que cavou tão habilmente." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_00", "hash": "0E8F4B3B01BFC42C", "target": "Investigar as armadilhas nos dois locais" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_TODO_01", "hash": "B63193E3D7552761", "target": "Relatar a Virgeaume" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_000", "hash": "948E59310584F169", "target": "Caçar chocobos não é tão fácil quanto parece─esses pássaros são espertos demais! Mas criei umas armadilhas novas e coloquei perto de Tailfeather há alguns dias. Já deve estar na hora de verificar... Pode fazer isso para mim?" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_001", "hash": "E0364D26F1DA26BA", "target": "São duas: uma rio acima em Whilom River e outra a leste de Tailfeather. Só precisa ir lá ver se pegaram alguma coisa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_010", "hash": "868F8F99EE2D6603", "target": "Vá rio acima em Whilom River para achar a primeira armadilha, e a leste de Tailfeather para a segunda. Me avise se pegaram alguma coisa." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_020", "hash": "201986499A8DD239", "target": "A armadilha não foi acionada, mas você também não vê nenhuma isca." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_SYSTEM_000_021", "hash": "B158485911C41983", "target": "A armadilha não foi acionada, mas você também não vê nenhuma isca." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_040", "hash": "D491EF937CDF4146", "target": "Ah, então os chocobos levaram a isca sem acionar as armadilhas... Parece que fiquei de mãos vazias de novo." },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_041", "hash": "4167298BE1A3399D", "target": "Eu já esperava um pouco que isso acontecesse. Por isso cavei fossos perto das armadilhas, na esperança de pegar algum desprevenido. Ah, desculpe... acho que esqueci de mencionar essa parte. Mas parece que você e os chocobos conseguiram passar por eles por conta própria!" },
+    { "gameKey": "quest/017/HeaVnz201_01770#TEXT_HEAVNZ201_01770_VIRGEAUME_000_042", "hash": "A800D994DFF90490", "target": "Na verdade, não é a primeira vez que um chocobo me passa para trás. Estou criando mais armadilhas e pretendo testá-las em breve. Passe aqui de novo se quiser participar." }
   ]
 }

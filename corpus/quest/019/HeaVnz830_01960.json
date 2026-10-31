@@ -2,18 +2,18 @@
   "conversation": "quest/019/HeaVnz830_01960",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_00", "hash": "9D36AF6921E7A42B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_01", "hash": "99337690C4E119D3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_02", "hash": "E1EDFFD976B1F31E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_03", "hash": "BDEA110F885F19ED", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_00", "hash": "A23FD114A98368DC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_01", "hash": "413A4741DC0409EE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_000", "hash": "5B5BCD2DA0C72FD2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_001", "hash": "41BF11E64F38EBDD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_002", "hash": "CE85F2170FA9AE7F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_010", "hash": "7A377ABB38EC85BE", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_020", "hash": "6F9C023B6A91BD98", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_021", "hash": "5BF01F8B0005CB6E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_022", "hash": "F0B3CBCBE2C301BC", "target": "" }
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_00", "hash": "9D36AF6921E7A42B", "target": "Feltsmox continua pescando, como sempre..." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_01", "hash": "99337690C4E119D3", "target": "Feltsmox continua tentando pescar um peixe e continua sem sorte. Desta vez, suspeita que os sun bears próximos sejam a causa dos problemas. Ela afirma que eles entram no rio, comem alguns peixes e espantam os demais. Pede que você mate quatro dessas feras inconvenientes e recolha a carne para ela." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_02", "hash": "E1EDFFD976B1F31E", "target": "Você mata os sun bears e recolhe grossas fatias de carne de urso. Com sorte, os que restarem aprenderão a lição e ficarão longe do rio. Entregue a carne a Feltsmox." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_SEQ_03", "hash": "BDEA110F885F19ED", "target": "Feltsmox agradece por matar os ursos que espantavam os peixes. Embora queira confirmar que os peixes voltaram pescando um bem grande e gordo para comer, está faminta demais para esperar uma fisgada e sai para comer a carne de sun bear que você recolheu." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_00", "hash": "A23FD114A98368DC", "target": "Matar sun bears e obter carne de urso" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_TODO_01", "hash": "413A4741DC0409EE", "target": "Entregar a carne de urso a Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_000", "hash": "5B5BCD2DA0C72FD2", "target": "Pshhh... Shkohhh...<br><if(gnum4,Aventureira,Aventureiro)>! Lembrar de Feltsmox? Feltsmox ainda não pegar nem um peixe! Feltsmox começar a ficar com muita fome..." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_001", "hash": "41BF11E64F38EBDD", "target": "Sun bears por perto ser motivo. Entrar no rio, comer peixes e espantar!" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_002", "hash": "CE85F2170FA9AE7F", "target": "Por favor, matar sun bears incômodos. Matar quatro ursos, trazer ursocarne para Feltsmox." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_010", "hash": "7A377ABB38EC85BE", "target": "Sun bears espantar peixes, Feltsmox não conseguir pescar jantar! Por favor, matar ursos encrenqueiros para Feltsmox e trazer carne." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_020", "hash": "6F9C023B6A91BD98", "target": "Matar sun bears? Recolher ursocarne para Feltsmox?" },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_021", "hash": "5BF01F8B0005CB6E", "target": "Pshhh... Shkohhh...<br>Ursos ir embora, pescáguas calmas agora. Feltsmox querer pegar peixe, mas primeiro encher barriga com ursocarne." },
+    { "gameKey": "quest/019/HeaVnz830_01960#TEXT_HEAVNZ830_01960_FELTSMOX_000_022", "hash": "F0B3CBCBE2C301BC", "target": "Feltsmox querer muito comer peixe, mas ter fome demais para esperar. Agradecer pela carne, altogente. Primeira carnegostosa para Feltsmox em muito tempo!" }
   ]
 }

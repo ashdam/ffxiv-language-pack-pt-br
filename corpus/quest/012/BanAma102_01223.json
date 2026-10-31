@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanAma102_01223",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_00", "hash": "07661D46D319E97C", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_01", "hash": "ABF89A97A1101E2E", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_02", "hash": "B9F360CAA4E7699D", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_03", "hash": "F85769C8096B39CC", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_00", "hash": "69177D89E83066F1", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_01", "hash": "F0D8635D1B4044E5", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_02", "hash": "97D0E1C4A9BD7196", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_001", "hash": "7FA588847ECF6469", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_002", "hash": "E32B88C0407043F8", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_003", "hash": "D10164449EA00448", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_004", "hash": "2A5C9BF0C95666A8", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_011", "hash": "478167E2E7AE1DA4", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_021", "hash": "9C5BD7D6CC9983FE", "target": "" },
-    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_022", "hash": "CBC4CCCBD1B4711D", "target": "" }
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_00", "hash": "07661D46D319E97C", "target": "Fibubb Gah quer que você faça de alguns batedores invasores um exemplo." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_01", "hash": "ABF89A97A1101E2E", "target": "Fibubb Gah incumbiu você de matar os batedores inimigos que começaram a invadir o território da Irmandade ao norte de Zanr'ak. Procure e elimine os Amalj'aa thaumaturges e Amalj'aa lancers." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_02", "hash": "B9F360CAA4E7699D", "target": "Você matou os taumaturgos e lanceiros que rondavam os limites do Círculo das Cinzas. Apresente-se a Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_SEQ_03", "hash": "F85769C8096B39CC", "target": "Fibubb Gah está satisfeito com a matança calculada. Mantenha-se a postos para matar mais batedores caso voltem a ter a ousadia de se aproximar das terras da Irmandade das Cinzas." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_00", "hash": "69177D89E83066F1", "target": "Matar Amalj'aa lancers" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_01", "hash": "F0D8635D1B4044E5", "target": "Matar Amalj'aa thaumaturges" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_TODO_02", "hash": "97D0E1C4A9BD7196", "target": "Apresentar-se a Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_001", "hash": "7FA588847ECF6469", "target": "As sombras dos batedores de Zahar'ak alcançam os limites do Círculo das Cinzas. Procuram uma fraqueza em nossa defesa, mas verão que a muralha da Irmandade resiste firme às suas incursões." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_002", "hash": "E32B88C0407043F8", "target": "Ensinaremos a esses tolos imprudentes a sentença rápida e definitiva que aguarda quem tenta agarrar a cauda do lagarto!" },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_003", "hash": "D10164449EA00448", "target": "Vá, <if(gnum4,honrada aliada,honrado aliado)>, e interrompa o reconhecimento dos Amalj'aa thaumaturges e Amalj'aa lancers que encontrar." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_004", "hash": "2A5C9BF0C95666A8", "target": "Quando seus irmãos virem os cadáveres espalhados pelos acessos de Zanr'ak, saberão que não devem testar as fronteiras da Irmandade levianamente." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_011", "hash": "478167E2E7AE1DA4", "target": "Os Amalj'aa de Zahar'ak testam os limites de nosso domínio. Mate seus batedores, os thaumaturges e lancers, e mostre o que espera quem tenta agarrar a cauda do lagarto." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_021", "hash": "9C5BD7D6CC9983FE", "target": "Sua violência calculada foi testemunhada, <if(gnum4,honrada aliada,honrado aliado)>. Os covardes de Zahar'ak já observam o horizonte com medo crescente." },
+    { "gameKey": "quest/012/BanAma102_01223#TEXT_BANAMA102_01223_FIBUBBGAH_000_022", "hash": "CBC4CCCBD1B4711D", "target": "Mas não os perseguiremos longe demais, pois isso poderia fortalecer sua determinação. Não, primeiro deixaremos o terror criar raízes e crescer..." }
   ]
 }

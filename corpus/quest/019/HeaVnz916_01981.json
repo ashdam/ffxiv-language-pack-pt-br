@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz916_01981",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "" }
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_00", "hash": "4CAC625B7CDF596B", "target": "O módulo de segurança alagano pisca de forma irregular." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_01", "hash": "CC66304FB900C7D2", "target": "Em meio a uma enxurrada de avisos e alertas, o módulo de segurança alagano informa que um droide de repressão está fora de controle e precisa ser desativado. Encontre esse terror tecnológico e destrua-o." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_02", "hash": "FE43EEC0B2E015B5", "target": "Você resolve o problema do droide de repressão fora de controle. Atualize safeguard node com essa informação." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SEQ_03", "hash": "E9AC6FAC635D95A3", "target": "O módulo de segurança confirma que o droide de repressão não é mais uma ameaça e dá a entender que algo semelhante aconteceu no passado, com consequências terríveis." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_00", "hash": "1E90BD339510ED93", "target": "Eliminar enforcement droid 208" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_TODO_01", "hash": "10B3682FFF03D24F", "target": "Relatar a safeguard node" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_000", "hash": "6522ADC700D6AD45", "target": "Perigo! Perigo! Não foi possível acessar sistemas de segurança essenciais de Azys Lla." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_001", "hash": "659E3C24ED8F4C62", "target": "Enforcement droid 208 não responde aos comandos de desligamento de emergência. Destruição forçada imediata do equipamento recomendada. Perigo! Perigo! Não foi possível acessar sistemas essenciais de Azys... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_010", "hash": "7BB588D5BCEEF948", "target": "\\<bzzzzzzz> ...sistemas de segurança. Enforcement droid 208 não responde aos comandos de desligamento de emergência. Destruição forçada imediata do equipamento recomendada. Perigo! Perigo! Não foi possível... \\<bzzzzzzz>" },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_020", "hash": "CF430017A73286E0", "target": "\\<bzzzzzzz> Desativação do equipamento de segurança defeituoso confirmada." },
+    { "gameKey": "quest/019/HeaVnz916_01981#TEXT_HEAVNZ916_01981_SECURITYSYSTEM_000_021", "hash": "19F436498131DE9C", "target": "Em reconhecimento à sua participação em impedir uma possível repetição do...\\<bzzzzzzz>...incidente, no qual duzentos e nove civis e/ou pesquisadores foram brutalmente...\\<bzzzzzzz>...operação de limpeza associada de seiscentas horas...\\<bzzzzzzz>...recebeu uma recomendação para... \\<bzzzzzzz>" }
   ]
 }

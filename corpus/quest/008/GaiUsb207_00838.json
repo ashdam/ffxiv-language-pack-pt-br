@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb207_00838",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_00", "hash": "99F62F7FD1F1684F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_01", "hash": "BD8FEE6781EA226E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_02", "hash": "1A1E41C1A67AA274", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_03", "hash": "03B119402AE7C9DD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_04", "hash": "A9B4E223CE6D08CC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_00", "hash": "E94F513E77E6BD69", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_01", "hash": "4CC958AE1F990C6E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_02", "hash": "33864DA3D38398F6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_000", "hash": "FCE02AEDDBA868B5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_001", "hash": "0CD4AF339C951955", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_002", "hash": "A4CE68F4980C28DC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_020", "hash": "29E836CAACEA606F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_021", "hash": "5D07A3AED18177DF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_022", "hash": "FA6A55A55EC7D593", "target": "" }
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_00", "hash": "99F62F7FD1F1684F", "target": "Fyrilsunn parece pouco animado e disposto hoje. Com certeza há algo errado." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_01", "hash": "BD8FEE6781EA226E", "target": "Fyrilsunn conta que perdeu algo de grande valor para ele: três medalhas gravadas com a imagem de um leão. Ajude o Roegadyn aflito procurando as medalhas perto de onde ele as viu pela última vez. Ele sugere que comece observando do alto da Gullperch Tower com /lookout." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_02", "hash": "1A1E41C1A67AA274", "target": "A vista da torre revelou três pontos de luz brilhantes no chão abaixo. Investigue cada área para ver se encontra as medalhas." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_03", "hash": "03B119402AE7C9DD", "target": "Você encontrou as medalhas perdidas. Devolva-as a Fyrilsunn em Costa del Sol." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_SEQ_04", "hash": "A9B4E223CE6D08CC", "target": "As medalhas são o único vínculo material que resta a Fyrilsunn com amigos perdidos em uma guerra anterior. Embora grato por recuperá-las, as lembranças também parecem deixá-lo apreensivo com os inevitáveis conflitos futuros." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_00", "hash": "E94F513E77E6BD69", "target": "Observar do alto da Gullperch Tower com /lookout" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_01", "hash": "4CC958AE1F990C6E", "target": "Encontrar as medalhas de leão" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_TODO_02", "hash": "33864DA3D38398F6", "target": "Devolver as medalhas de leão a Fyrilsunn" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_000", "hash": "FCE02AEDDBA868B5", "target": "Escute, preciso de sua ajuda com um assunto pessoal. Perdi uma coisa, uma coisa muito importante para mim: medalhas com leões." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_001", "hash": "0CD4AF339C951955", "target": "Por mais que eu queira ir pessoalmente, meu lugar é aqui. Não podemos tirar os olhos dos Kobold agora. Mas aquelas três medalhas são meus bens mais preciosos. Por favor, qualquer ajuda será bem-vinda." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_002", "hash": "A4CE68F4980C28DC", "target": "Pode começar a procurar perto da Gullperch Tower. Se tivesse que apostar, diria que as deixei cair lá enquanto afugentava alguns de nossos amigos Kobold. Se subir até o alto e <colortype(500)><edgecolortype(501)>observar<edgecolortype(0)><colortype(0)> bem, talvez consiga avistá-las." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_020", "hash": "29E836CAACEA606F", "target": "E então? Você... encontrou minhas medalhas?" },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_021", "hash": "5D07A3AED18177DF", "target": "\\<suspiro de espanto> Encontrou! A Navegadora foi bondosa comigo hoje...<br>Cada um de nós recebeu uma medalha dessas quando entrou na Companhia dos Heróis. E, se você caísse, seu melhor amigo ficaria com a sua." },
+    { "gameKey": "quest/008/GaiUsb207_00838#TEXT_GAIUSB207_00838_FYRILSUNN_000_022", "hash": "FA6A55A55EC7D593", "target": "Eram três amigos, e só eu restei. E sinto outra guerra chegando, só que, desta vez, nada é novo e todo o medo é antigo. Às vezes, acho que vivi tempo demais." }
   ]
 }

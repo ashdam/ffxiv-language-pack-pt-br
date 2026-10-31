@@ -2,19 +2,19 @@
   "conversation": "quest/028/StmBdz712_02815",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "" },
-    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "" }
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_SEQ_00", "hash": "003B49CE7CD827CE", "target": "Um puissant porter de Kugane feriu gravemente o ombro." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_00", "hash": "22A5D039F1707E41", "target": "Falar com o accomplished apothecary" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TODO_01", "hash": "56DCFC2730B319DE", "target": "Entregar o cataplasma de gengibre de cheiro forte ao puissant porter" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_000", "hash": "5F63D4F9BB64263D", "target": "Preciso de ajuda, <if(gnum4,aventureira,aventureiro)>. Parece que meu ombro não gostou muito deste saco de arroz. A dor é tanta que não consigo carregar nem mais um passo." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_001", "hash": "F2B9F710CC811C08", "target": "Mas meus colegas carregadores e eu guardamos um segredo para essas ocasiões. Tem um accomplished apothecary perto de Kogane Dori. Ele prepara um cataplasma de gengibre de cheiro forte que é pura magia. Ele me conhece e sabe que sou bom pagador. Diga quem mandou você, e ele vai dar o que preciso." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_002", "hash": "034343BAF5564F6E", "target": "Meus colegas carregadores e eu guardamos um segredo para essas ocasiões. Tem um accomplished apothecary perto de Kogane Dori. Ele prepara um cataplasma de gengibre de cheiro forte que é pura magia. Ele me conhece e sabe que sou bom pagador. Diga quem mandou você, e ele vai dar o que preciso." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_010", "hash": "AFFB2F5C57C6138D", "target": "Um cataplasma de gengibre de cheiro forte? Se está pedindo isso, só pode ter sido aquele carregador que mandou você. Parece que machucou o ombro de novo. Vive carregando mais do que qualquer homem deveria." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_011", "hash": "00B268A36C8A478D", "target": "Aqui, então. Leve isto para ele. Diga que pode pagar depois e lembre que a saúde é a verdadeira riqueza." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_DRAGDEALER02815_000_012", "hash": "B9581354D1AE5900", "target": "Diga ao carregador que pode pagar pelo remédio depois e lembre que a saúde é a verdadeira riqueza." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_020", "hash": "4CAB9310334DF55D", "target": "Trouxe o cataplasma de gengibre de cheiro forte?" },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_021", "hash": "04F42A2A6FAA8106", "target": "Devo parecer uma simples criada aos olhos de Hingashi inteira. Mas saiba que meu bisavô foi um grande alquimista. Foi ele que preparou um desses cataplasmas pela primeira vez. E, enquanto tiver isso, posso carregar o que for preciso." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_022", "hash": "EEF15E4E70EE2754", "target": "Dizem que o povo lá de fora tomou gosto pelo arroz de Kogane. Cada vez mais comerciantes vêm de navio comprá-lo, e cada vez mais carregadores ficam ocupados levando tudo. Eu sabia que os outros mandariam eu descansar se pedisse ajuda. Por isso pedi a sua." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_023", "hash": "EDE6C3FF7E55CE7E", "target": "Quem tem tempo para descansar? Tenho um sonho para seguir! Quero conquistar uma bela noiva e abrir uma taverna que sirva a culinária de Kugane. Tudo isso enquanto ainda sou jovem. Não vou deixar uma dor no ombro me impedir de ganhar Gil enquanto a maré está boa." },
+    { "gameKey": "quest/028/StmBdz712_02815#TEXT_STMBDZ712_02815_TRANSPORTER02815_000_024", "hash": "4A938849FB290927", "target": "Ouvi dizer que tem uma moça linda no próximo lugar onde vou entregar. Pode ser que eu esteja carregando o peso do meu destino nestes grãos de arroz. Só o tempo dirá. Obrigado pela ajuda, <if(gnum4,aventureira,aventureiro)>." }
   ]
 }

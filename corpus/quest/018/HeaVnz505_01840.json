@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz505_01840",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_00", "hash": "6B8A1B4269FCE7C3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_01", "hash": "1A925C1BBF09906D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_02", "hash": "DEB51DF23B7C095D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_03", "hash": "79B36721E0BC64CD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_00", "hash": "42A056EBFE56EA15", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_01", "hash": "22F5D2A7216E27FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_000", "hash": "38FE94494D715D96", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_001", "hash": "1B9F6B88BF966BBA", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_010", "hash": "CD6CA8A2ABC097AE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_020", "hash": "F2AF507624CB5708", "target": "" },
-    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_021", "hash": "07A3233C19CB60D3", "target": "" }
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_00", "hash": "6B8A1B4269FCE7C3", "target": "Mogmill parece estar sonhando acordado, ou talvez não. É difícil saber." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_01", "hash": "1A925C1BBF09906D", "target": "Mogmill, sempre pensando em onde pôr as patas no próximo tesouro dos senhores da terra, recrutou você para ir a House of Letters procurar objetos brilhantes. Ele garante que todos os outros moogles vão a Tharl Oom Khash, então deve haver muitos por lá. Vá a House of Letters e colete cinco objetos brilhantes de valor duvidoso." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_02", "hash": "DEB51DF23B7C095D", "target": "Você obteve cinco bugigangas brilhantes e, apesar do brilho, não vê nenhum valor prático nelas. Volte a Moghome e entregue-as a Mogmill. Talvez ele faça melhor uso delas." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_SEQ_03", "hash": "79B36721E0BC64CD", "target": "Mogmill fica radiante com os objetos que você lhe entrega e está um passo mais perto de ter a maior coleção de objetos brilhantes e inúteis entre os moogles de Moghome." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_00", "hash": "42A056EBFE56EA15", "target": "Obter bugigangas brilhantes" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_TODO_01", "hash": "22F5D2A7216E27FB", "target": "Entregar as bugigangas brilhantes a Mogmill" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_000", "hash": "38FE94494D715D96", "target": "Os objetos brilhantes feitos pelos senhores da terra estão na moda em toda Moghome, kupo! Mas os moogles não sabem trabalhar metal, então todos vão procurar objetos brilhantes em Tharl Oom Khash." },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_001", "hash": "1B9F6B88BF966BBA", "target": "Mas <italic(1)>eu<italic(0)> conheço um lugar secreto: House of Letters, kupo! Há tantos objetos brilhantes só esperando alguém com espírito de aventura ir buscá-los. E as pessoas <italic(1)>chamam<italic(0)> você de <if(gnum4,aventureira,aventureiro)>, então... O que me diz? Se eu tivesse cinco objetos reluzentes, deveria bastar para deixar os outros moogles com inveja!" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_010", "hash": "CD6CA8A2ABC097AE", "target": "Não conte a ninguém, mas há tesouros espalhados por House of Letters. Só preciso que me traga cinco deles, e todos os outros moogles vão ficar com inveja!" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_020", "hash": "F2AF507624CB5708", "target": "Não acredito que ninguém tenha pensado em procurar lá ainda... Ah, <if(gnum4,aventureira,aventureiro)>, conseguiu encontrar objetos brilhantes dos senhores da terra em quantidade suficiente?" },
+    { "gameKey": "quest/018/HeaVnz505_01840#TEXT_HEAVNZ505_01840_MOGMILL_000_021", "hash": "07A3233C19CB60D3", "target": "Maravilhoso! Incrível! Espetacular, kupopo! Nunca vi objetos tão reluzentes! Logo serei o assunto de Moghome. Lembre-se, <if(gnum4,aventureira,aventureiro)>, House of Letters é nosso segredinho!" }
   ]
 }

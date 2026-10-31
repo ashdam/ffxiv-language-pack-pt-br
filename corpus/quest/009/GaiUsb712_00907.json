@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb712_00907",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "" },
-    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "" }
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_00", "hash": "5DFE88E79EA51574", "target": "A companheira de Isaudorel esteve calada até agora, mas, quando Ireine tem algo a dizer, é melhor que todos escutem." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_01", "hash": "CE1FF6A20CB51EFE", "target": "Ao ouvir sua conversa com Isaudorel, Ireine pede que você leve o problema dos Ixal em Coerthas aos superiores. Deixe Ireine e Isaudorel trocando insultos camaradas e faça seu relato a Miah Molkot na Torre de Eugenia." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_SEQ_02", "hash": "8334A81E0350C09B", "target": "Miah Molkot aceita o pedido de Belmont sem objeções e com muito ronronar. Você descobre que os Carneiros Brancos são, na verdade, uma tropa de combate aos Ixal. No plano pessoal, Molkot parece ter um prazer quase gastronômico em derrotar os homens-pássaro." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_TODO_00", "hash": "DB80C150E83645C0", "target": "Informar Miah Molkot" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_000", "hash": "B4A1F1677617CF33", "target": "Prazer, <if(gnum4,aventureira,aventureiro)>. Posso chamar você de <split(<string(gstr1)>, ,1)>? Sou Ireine, oficial tática dos Carneiros Brancos... e aparentemente médica, já que me mandaram cuidar deste brutamontes. Ah, cale a boca, Isaudorel!" },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_001", "hash": "F87EB0AEAD9A86A9", "target": "Então, sobre o assunto que você discutia com Isaudorel. Tenho certeza de que a Instrutora Molkot vai querer saber da movimentação dos Ixal no oeste. É melhor falar com ela imediatamente e fazer planos." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_002", "hash": "83CA972D8F4265ED", "target": "É Miah Molkot, líder dos Carneiros Brancos e instrutora da Aljava dos Deuses. Hoje ela está na Torre de Eugenia, ao norte. Leve a ela as palavras de Belmont." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_IREINE_000_003", "hash": "E7E7FED345582D99", "target": "E tome cuidado. Miah Molkot já matou tantos Ixal em batalha quanto há árvores nas matas de Proud Creek. Ela pode ser... assustadora. Faça-a perder tempo com gaguejos ou bravatas, e ela pode usar você de isca para os Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_010", "hash": "70D8241CA4923486", "target": "Quem arranha minha porta? <if(gnum4,Uma aventureira,Um aventureiro)> à caça de Miah Molkot? Sou eu, nascida para ser o flagelo dos homens-pássaro! Lidero os Carneiros Brancos, uma flecha da Aljava dos Deuses apontada para o coração covarde dos Ixal." },
+    { "gameKey": "quest/009/GaiUsb712_00907#TEXT_GAIUSB712_00907_MIAHMOLKOT_000_011", "hash": "7C5B12A864DF0DC0", "target": "Entendo! Precisamos agir agora, <italic(1)>agora mesmo<italic(0)>, para deter essa ameaça. Estender a linha defensiva contra os Ixal para o noroeste, até Coerthas, não será um passeio pela mata, mas ah, como os passarinhos vão se debater na rede! Já consigo ouvir os pescocinhos quebrando..." }
   ]
 }

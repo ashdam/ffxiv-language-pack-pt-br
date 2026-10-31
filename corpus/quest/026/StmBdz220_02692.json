@@ -2,18 +2,18 @@
   "conversation": "quest/026/StmBdz220_02692",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "" },
-    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "" }
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_SEQ_00", "hash": "2CED4BB4D626E2F0", "target": "Kaioke parece estar com os nervos à flor da pele." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_00", "hash": "9D0A5CF8251F6B14", "target": "Colocar os peixes em decomposição nos locais indicados e matar os giant coralshells famintos que aparecerem para obter suas patas" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_TODO_01", "hash": "ECE00FB4C723A3D5", "target": "Entregar as patas de giant coralshell a Kaioke" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_000", "hash": "65FF0AC37959ECF0", "target": "<if(gnum4,Senhora,Senhor)>! Estou certo em supor que você veio da superfície? Embora eu não goste de pedir favores, ainda mais a uma visita como você, receio que não tenha mais a quem recorrer." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_001", "hash": "12DE6BABDBE37735", "target": "É que, algumas vezes por ano, fazemos um banquete para a aldeia inteira, em que cada um traz sua especialidade. Como fiquei com a organização do evento, cuidar dos preparativos principais me deixou pouco tempo para reunir os ingredientes do meu prato!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_002", "hash": "8098192A3DA1CA25", "target": "Quase todos já terminaram seus pratos, mas eu ainda nem comecei! Preparar o caldo é o que mais demora, então preciso começar agora. Mas, para terminá-lo, preciso das patas de dois giant coralshells." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_003", "hash": "1A521182A4D31ED3", "target": "Por favor, você poderia consegui-las para mim?" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_100_003", "hash": "F96A1986CEFFC105", "target": "Você pode encontrá-los na costa de Onokoro. Aqui, pegue esta isca. Os giant coralshells são criaturas arredias, mas o cheiro disso deve bastar para atraí-los para fora dos esconderijos." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_004", "hash": "7DE514974E1666CF", "target": "Por favor, me traga as patas de dois giant coralshells. Enquanto isso, vou pôr uma panela no fogão e começar a preparar meu caldo." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_010", "hash": "EF47DC2C3BF068B8", "target": "\\<fareja> \\<fareja> Ah, se não me engano, esse é o cheiro marcante de coralshell que impregna suavemente suas roupas." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_011", "hash": "3196278DBB40370F", "target": "Haha! Olhe o tamanho destas patas! Além disso, a carne parece muito macia e suculenta. É só colocá-las no ensopado e ferver, e estará pronto para servir!" },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_012", "hash": "D06FB5F944011EE2", "target": "Na verdade, esses banquetes não são só diversão. Alguns até diriam que são uma competição silenciosa para ver quem serve a melhor comida. Quem traz o prato mais delicioso costuma receber a honra de organizar o próximo." },
+    { "gameKey": "quest/026/StmBdz220_02692#TEXT_STMBDZ220_02692_KAIOKE_000_013", "hash": "D4BFADF6F9FADD19", "target": "Graças a você e a estas patas deliciosas que me trouxe, minha vitória está praticamente garantida!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz524_01859",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_00", "hash": "A0E6B47E3782900B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_01", "hash": "5A2789891D072DB9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_02", "hash": "763D8ECA981C1EC9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_03", "hash": "650F186B11C826BC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_TODO_00", "hash": "07A60683DD725B8F", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_TODO_01", "hash": "931569E8320669E1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_000", "hash": "F4F74107FB38AC61", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_001", "hash": "55C1A4C27FC919BD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_010", "hash": "20D267160009E3AB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_020", "hash": "79040D22DFD5F146", "target": "" },
-    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_021", "hash": "C450C3AD1CE2FCBC", "target": "" }
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_00", "hash": "A0E6B47E3782900B", "target": "Este moogle de talento para as plantas esvoaça aflito." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_01", "hash": "5A2789891D072DB9", "target": "Novas plantas brotaram a noroeste de Ohl Tahn, mas este moogle não consegue chegar perto o bastante para colhê-las por medo dos monstros agressivos que rondam a área. Recolha três mudas para que ele possa plantá-las em um lugar mais seguro." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_02", "hash": "763D8ECA981C1EC9", "target": "Você reuniu as mudas. Entregue-as ao moogle preocupado." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_SEQ_03", "hash": "650F186B11C826BC", "target": "O moogle esvoaça de alegria quando você entrega as mudas. Ele pretende plantá-las em uma área sem monstros, cumprindo a primeira etapa de seu sonho de um dia cultivar o próprio jardim." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_TODO_00", "hash": "07A60683DD725B8F", "target": "Colher mudas de baga-assobio" },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_TODO_01", "hash": "931569E8320669E1", "target": "Entregar as mudas de baga-assobio ao meticulous moogle" },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_000", "hash": "F4F74107FB38AC61", "target": "É um desperdício terrível, kupo! Novas plantas brotaram a noroeste, mas a área está cheia de monstros malvados só esperando fazer um lanchinho de moogle. Se ninguém as colher logo, vão acabar murchando até sumir." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_001", "hash": "55C1A4C27FC919BD", "target": "Pode ir colhê-las para mim? Umas três devem bastar. Seria uma pena deixá-las se perder assim." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_010", "hash": "20D267160009E3AB", "target": "As plantas precisam ser colhidas antes de murcharem. Se eu tivesse pelo menos três mudas..." },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_020", "hash": "79040D22DFD5F146", "target": "Estou preocupado que as mudas já tenham começado a secar por falta de cuidados. Conseguiu colher algumas para mim, kupo?" },
+    { "gameKey": "quest/018/HeaVnz524_01859#TEXT_HEAVNZ524_01859_BOTANISTAIRPORTMOG01859_000_021", "hash": "C450C3AD1CE2FCBC", "target": "Ah, sim! São exatamente as mudas que eu procurava! Vou plantá-las em um lugar mais seguro, e talvez um dia possa ter um jardim só meu!" }
   ]
 }

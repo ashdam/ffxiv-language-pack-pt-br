@@ -2,19 +2,19 @@
   "conversation": "quest/035/LucKzh203_03531",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_SEQ_00", "hash": "CAE868059AADA7F6", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_00", "hash": "0D4404973C54D5D4", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_01", "hash": "B6F6618D1744233D", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_000", "hash": "F85BE5855A460DD5", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_001", "hash": "6C2526EA1F4F3EB9", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_002", "hash": "4E6C8943F0716BFB", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_003", "hash": "F813E06DE3C509A9", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_004", "hash": "1D04926A1FC60628", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_005", "hash": "482001B83F5A30DB", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_010", "hash": "56D9AA7CFBD7C601", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_SYSTEM_000_020", "hash": "556917326CD0E1EF", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_030", "hash": "791C98F8DE12E2DA", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_031", "hash": "32144EA3210CC45C", "target": "" },
-    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_032", "hash": "0AFF3EFDB1E783D9", "target": "" }
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_SEQ_00", "hash": "CAE868059AADA7F6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O minerador intrépido está de olho nas instalações abandonadas de Malikah's Well." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_00", "hash": "0D4404973C54D5D4", "target": "Inspecionar o maquinário abandonado" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_TODO_01", "hash": "B6F6618D1744233D", "target": "Apresentar-se ao intrepid miner" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_000", "hash": "F85BE5855A460DD5", "target": "Já vi você antes. Faz parte do grupo que entrou em Malikah's Well, certo?" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_001", "hash": "6C2526EA1F4F3EB9", "target": "Foi o que pensei. Graças a vocês terem eliminado os devoradores de pecados daqui, talvez possamos aproveitar estes vestígios de Nabaath Areng." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_002", "hash": "4E6C8943F0716BFB", "target": "O poço foi escavado por ordem de alguma malikah, não lembro qual. Ela usava a água fresca do subsolo para aliviar o calor do deserto." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_003", "hash": "F813E06DE3C509A9", "target": "Anos depois, quando a mineração ganhou força, a necessidade de água para lavar o minério levou à expansão dele. Mas, como pode ver, está em mau estado há anos." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_004", "hash": "1D04926A1FC60628", "target": "Ainda assim, seria loucura desperdiçar o poço, então estou vendo como fazer o velho maquinário voltar a funcionar. Algumas partes são difíceis de alcançar, e uma ajuda seria boa. Então, quer ganhar uns Gil?" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_005", "hash": "482001B83F5A30DB", "target": "Preciso que inspecione o elevador dos trabalhadores e a polia gigante que puxa a água. Quero saber se ainda dá para usar ou se a ferrugem acabou com tudo." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_010", "hash": "56D9AA7CFBD7C601", "target": "Qual é o problema? Não vai me dizer que tem medo de altura!" },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_SYSTEM_000_020", "hash": "556917326CD0E1EF", "target": "Embora algumas peças menos importantes precisem ser substituídas, o mecanismo em si parece estar em bom estado." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_030", "hash": "791C98F8DE12E2DA", "target": "Hmm... Parece que não vai dar muito trabalho fazer tudo funcionar. Quando eu der as boas notícias ao pessoal de Twine, tenho certeza de que mandarão alguns trabalhadores para ajudar nos reparos." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_031", "hash": "32144EA3210CC45C", "target": "Fazer Malikah's Well voltar a fornecer água será um bom começo, mas precisamos dos Talos funcionando para ter alguma chance de reerguer a mineração por aqui." },
+    { "gameKey": "quest/035/LucKzh203_03531#TEXT_LUCKZH203_03531_MINER03531_000_032", "hash": "0AFF3EFDB1E783D9", "target": "Mas é melhor dar um passo de cada vez. E sua ajuda aqui foi um desses passos. Sua recompensa, como prometido." }
   ]
 }

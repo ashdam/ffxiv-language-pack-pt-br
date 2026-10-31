@@ -2,19 +2,19 @@
   "conversation": "quest/007/GaiUsa807_00791",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_00", "hash": "6E63603F1DE9A95A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_01", "hash": "DB923874A0A964AB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_02", "hash": "9BE4035FC6F85441", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_03", "hash": "FE0845277257E315", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_00", "hash": "A63CAB61C876A220", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_01", "hash": "0A65E301D42C3A52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_000", "hash": "D7424F04EA8A45A2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_001", "hash": "460EF4151DAA4A28", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_002", "hash": "9EA72A54338D6A9D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_003", "hash": "C48AA4587E775D8A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_004", "hash": "F45901F549EA594D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_020", "hash": "BF52EA2B2FD830F6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_025", "hash": "E619F6B30710DFEF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_026", "hash": "28C4784B1B40438A", "target": "" }
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_00", "hash": "6E63603F1DE9A95A", "target": "Oriane precisa de sua ajuda para obter algo difícil de encontrar." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_01", "hash": "DB923874A0A964AB", "target": "Pumice golems, criaturas de pedra viva que surgiram da paisagem despedaçada, infestaram a região, e Oriane quer descobrir sua origem. Enfraqueça uma dessas criaturas e capture sua alma com um vaso de selamento." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_02", "hash": "9BE4035FC6F85441", "target": "Você obteve a pedra da alma viva de um pumice golem. A pesquisadora Yhom Epocan, na Rolha Flutuante, na Balsa de Fallgourd, deve conseguir esclarecer a origem da criatura." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_SEQ_03", "hash": "FE0845277257E315", "target": "Yhom Epocan está radiante por receber uma pedra da alma em estado tão perfeito e promete começar a análise imediatamente." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_00", "hash": "A63CAB61C876A220", "target": "Usar o vaso de selamento em um pumice golem enfraquecido" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_TODO_01", "hash": "0A65E301D42C3A52", "target": "Entregar a pedra da alma viva a Yhom Epocan" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_000", "hash": "D7424F04EA8A45A2", "target": "Como você provou que podemos contar com sua ajuda, quero confiar uma tarefa mais ambiciosa que eliminar aquelas pragas." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_001", "hash": "460EF4151DAA4A28", "target": "Talvez tenha encontrado curiosos construtos de pedra viva por estas bandas. Eles surgiram da paisagem despedaçada após a Calamidade, e seu número só cresceu desde então." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_002", "hash": "9EA72A54338D6A9D", "target": "Para cada um que matamos, outro sobe à superfície para tomar seu lugar. Meus companheiros e eu já não sabemos o que fazer. É claro que precisamos levar essa batalha até a origem do problema." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_003", "hash": "C48AA4587E775D8A", "target": "Há uma pesquisadora chamada Yhom Epocan que frequenta a Rolha Flutuante, na Balsa de Fallgourd. Suspeito que ela possa esclarecer o assunto." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_ORIANE_000_004", "hash": "F45901F549EA594D", "target": "Pegue este vaso de selamento e capture a pedra da alma viva de uma das criaturas. Mas atenção: terá que enfraquecer o monstro primeiro. Entregue a pedra a Yhom Epocan e veja se ela consegue determinar a origem desses construtos." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_020", "hash": "BF52EA2B2FD830F6", "target": "Yhom Epocan? Ora, sou eu! Pelo menos, acho que sou! Ah, hum, precisava de alguma coisa?" },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_025", "hash": "E619F6B30710DFEF", "target": "Gummice pollums? Receio não conhecer. Já os <italic(1)>pumice golems<italic(0)>, Oriane me contou tudo sobre eles. Vejamos o que você trouxe..." },
+    { "gameKey": "quest/007/GaiUsa807_00791#TEXT_GAIUSA807_00791_YHOMEPOCAN_000_026", "hash": "28C4784B1B40438A", "target": "Ooh, sinto a energia pulsando! Você certamente encontrou um exemplar vivo, não é? Preciso começar a análise imediatamente. Onde foi que deixei meus óculos?" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl210_01276",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "" },
-    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "" }
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_00", "hash": "BC547F836B54D63D", "target": "Ponnixia tem um trabalho sujo, mas alguém precisa fazê-lo." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_01", "hash": "6C749F8F88296ECD", "target": "Silfos maldosos estão poluindo as Sylphlands com uma variedade particularmente desagradável de cogumelo pestilento, causando grandes danos à flora e à fauna locais. Abata dois desses fungos repugnantes para impedir que a contaminação da floresta se agrave." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_02", "hash": "136C58CF85F9879D", "target": "Os greater banestools não vão mais empestear as Sylphlands. Ponnixia ficará feliz em saber do seu sucesso." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_SEQ_03", "hash": "1BB86B9CB7C9274C", "target": "Ponnixia aprecia seus esforços para tornar a floresta um lugar melhor para ela e seu povo viverem. Ela agradece seus serviços e pede que fique por perto, caso volte a precisar de sua ajuda." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_00", "hash": "E4CB93E587E06638", "target": "Abater greater banestools" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_TODO_01", "hash": "5A72E8D997AAA515", "target": "Apresentar-se a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_000", "hash": "FF0698004E257CB5", "target": "\\<suspiro> Os tocados estão fazendo fedor de novo, plantando esporos-fedorentos por todas as Sylphlands." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_001", "hash": "4F8D86C73AB156E3", "target": "O fedor se espalha, as árvores murcham e morrem, e os amigos da floresta destes aqui ficam doentes e furiosos. Se ninguém acabar com isso, logo ninguém mais vai conseguir morar na floresta." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_002", "hash": "57B89C101CAB0840", "target": "O que tem coragem precisa cortar os esporos-fedorentos e salvar a floresta de um destino fedido!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_003", "hash": "01C18117F9CFC98E", "target": "Mas o que tem coragem precisa ter cuidado! Aonde os esporos-fedorentos vão, os que plantam e as criaturas enlouquecidas pelo fedor logo vêm atrás." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_005", "hash": "AF2D6FCF6D07D6FF", "target": "O que tem coragem precisa cortar os esporos-fedorentos e salvar a floresta de um destino fedido!" },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_006", "hash": "B809CF7859308FB9", "target": "Mas o que tem coragem precisa ter cuidado! Aonde os esporos-fedorentos vão, os que plantam e as criaturas enlouquecidas pelo fedor logo vêm atrás." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_010", "hash": "3DAE9F1A5CA41AE3", "target": "Estes aqui agradecem ao que tem coragem. Desde que o que tem coragem chegou, a nuvem escura sobre as Sylphlands começou a se dissipar, aos pouquinhos." },
+    { "gameKey": "quest/012/BanSyl210_01276#TEXT_BANSYL210_01276_PONNIXIA_000_011", "hash": "3384D68998BE3E2A", "target": "...Mas ainda há muito trabalho a fazer. Este aqui pede ao que tem coragem que não abandone estes aqui." }
   ]
 }

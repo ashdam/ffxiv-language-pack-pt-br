@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz619_02797",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_SEQ_00", "hash": "2C1AA41D61DCDBC7", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_00", "hash": "92DB1E4A3FBCF5BA", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_01", "hash": "B07410333BA92F9F", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_000", "hash": "36520CDB06708888", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_001", "hash": "5701A15D0E3FD391", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_002", "hash": "718EE23679C7202E", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_003", "hash": "F0F0823850C96DAD", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_004", "hash": "DC94E740BB72DBE9", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_005", "hash": "9203A4C8EB974A28", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_010", "hash": "6B11DA2FC9592CA7", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_100_020", "hash": "E43B99120CD1F60D", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_020", "hash": "926DD0A8C8D78D34", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_021", "hash": "C8CE687DB1FBD581", "target": "" },
-    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_022", "hash": "A277E69669ED99EA", "target": "" }
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_SEQ_00", "hash": "2C1AA41D61DCDBC7", "target": "Caalun gostaria de transmitir uma tradição ao filho." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_00", "hash": "92DB1E4A3FBCF5BA", "target": "Matar baras e obter suas presas" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_TODO_01", "hash": "B07410333BA92F9F", "target": "Entregar as presas de baras a Caalun" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_000", "hash": "36520CDB06708888", "target": "Por acaso conhece a Melodia de Ceol Aen? Nossos ancestrais, aqueles que viveram antes de os deuses nos castigarem, adoravam música." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_001", "hash": "5701A15D0E3FD391", "target": "Para transmitir sua melodia favorita às futuras gerações, eles fizeram buracos nas rochas que cobriam as planícies de Ceol Aen. Mas o tempo foi impiedoso. As rochas ficaram tão desgastadas que não se ouve mais nada além do vento por lá." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_002", "hash": "718EE23679C7202E", "target": "Mas isso não quer dizer que ela se perdeu por completo. A melodia ainda passa de pais para filhos. Chegou a minha vez de fazer o mesmo, mas recentemente quebrei minha flauta." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_003", "hash": "F0F0823850C96DAD", "target": "No começo, pensei em fazer uma nova, mas seria muita ganância da minha parte. Se ao menos eu tivesse duas presas de baras..." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_004", "hash": "DC94E740BB72DBE9", "target": "Ah, desse jeito não vou conseguir ensinar a melodia ao meu menino." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_005", "hash": "9203A4C8EB974A28", "target": "Se ao menos eu tivesse duas presas de baras... Ah, desse jeito não vou conseguir ensinar a melodia ao meu menino." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_010", "hash": "6B11DA2FC9592CA7", "target": "Ah, olá de novo. Ainda não sei como conseguir duas presas de baras." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_100_020", "hash": "E43B99120CD1F60D", "target": "Você trouxe isso para mim?" },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_020", "hash": "926DD0A8C8D78D34", "target": "Muito obrigada. Você é mesmo uma alma bondosa. Agora posso garantir que meu querido filho aprenda a melodia." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_021", "hash": "C8CE687DB1FBD581", "target": "Por favor, volte daqui a alguns verões, quando meu filho já tiver a altura do joelho de um cavalo." },
+    { "gameKey": "quest/027/StmBdz619_02797#TEXT_STMBDZ619_02797_CAALUN_000_022", "hash": "A277E69669ED99EA", "target": "Tenho certeza de que ele vai querer retribuir esse favor. Talvez até toque a melodia para você!" }
   ]
 }

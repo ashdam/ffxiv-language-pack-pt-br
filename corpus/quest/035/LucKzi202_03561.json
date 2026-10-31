@@ -2,18 +2,18 @@
   "conversation": "quest/035/LucKzi202_03561",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "" }
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Xorutt é baixinho, barbudo e está pronto para fabricar cerveja." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Encontrar touceiras de magma grass e colher flores de magma" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Entregar as flores de magma a Xorutt" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "Lali-ho! Diga, você não é <switch(gnum71,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a anã estrangeira,o anão estrangeiro)>,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a viajante,o viajante)>,<if(gnum4,a viajante,o viajante)>)> de quem todo mundo anda falando?" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "Bom, lali-ho de novo e boas-vindas a Tomra! Vou mostrar um pouco da hospitalidade Tholl, e não aceito não como resposta!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "Primeiro, vamos preparar juntos uma cerveja ale anã! É, vai ser divertido!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_003", "hash": "91C690F10AEC7607", "target": "A maioria faz cerveja ale com cevada, mas nós, anões, não. Usamos sementes da erva-de-magma que cresce nas encostas do Mt. Gulg." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_004", "hash": "6F7F04BB0E5D49BE", "target": "Essas plantas absorvem o ar do mar desde que botam a cabeça pra fora da terra até murcharem e morrerem. Isso dá à nossa bebida um sabor intenso que você nunca vai encontrar naquelas coisas feitas com cevada!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_005", "hash": "7CB8A62837D48221", "target": "Então! Vamos dar a experiência completa a você, que tal? Saia da vila e colha umas quatro flores de magma bem grandes pra mim. Elas são cheinhas de sementes, sabia?" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_006", "hash": "8B97D90162F52A14", "target": "...Como são as flores de magma? Bom, são altas, alaranjadas e provavelmente meio brilhantes. Vai saber quando vir." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_010", "hash": "FE0C84D391D76419", "target": "E então? Colheu as flores como pedi? Estamos perdendo tempo de fabricação!" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_011", "hash": "47C2C3A8FA9AFEF2", "target": "É, tem semente suficiente pra encher meu elmo e ainda sobrar! Bom trabalho! A próxima parte do processo é meio complicada, então vamos deixar pra um especialista. Que seria eu." },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_012", "hash": "1CE39304E206A8C6", "target": "Mas não vá embora ainda, <if(gnum4,minha amiga,meu amigo)>! Nossas tradições vão além de colher flores brilhantes, e estamos só começando!" }
   ]
 }

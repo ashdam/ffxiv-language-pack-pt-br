@@ -2,16 +2,16 @@
   "conversation": "quest/026/StmBdz303_02699",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "" },
-    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "" }
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_SEQ_00", "hash": "A1BD3F1C7E8AA55C", "target": "Mine fareja o ar, com um sorriso delicado no rosto." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_00", "hash": "2D3AF8E95B33A67E", "target": "Obter núcleos de espírito da água das apas" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_TODO_01", "hash": "A3CD41F246EE333D", "target": "Entregar os núcleos de espírito da água a Mine" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_000", "hash": "D4CC833214F7A41F", "target": "\\<fareja> \\<fareja> Esse cheiro... O aroma do sol e do céu permanece em você. É mesmo maravilhoso." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_001", "hash": "530ADBCFCDB34BA8", "target": "Posso lhe pedir um favor? Preciso de uma coisa da superfície. É claro que vou recompensar você pelo trabalho." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_002", "hash": "02BCA550EA6CFF55", "target": "Gostaria que você me trouxesse três núcleos de espírito da água, que podem ser obtidos das apas em Hells' Lid. Elas podem parecer frágeis, mas não se deixe enganar. Não são nada fáceis de derrotar." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_003", "hash": "77B784E853343AD5", "target": "Por favor, me traga três núcleos de espírito da água das apas em Hells' Lid. Se prepare: vai ser difícil derrubá-las." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_010", "hash": "DC94E455B13CFFB0", "target": "Ah, você voltou. Imagino que tenha conseguido o que pedi?" },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_011", "hash": "F55649E66362505C", "target": "Fantástico! Agora não precisaremos nos preocupar com água potável por um bom tempo. Embora vivamos aqui há gerações, ainda não conseguimos beber água do mar. Estes núcleos nos permitirão remover o sal e transformá-la em água doce." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_012", "hash": "657C3B98B04C7212", "target": "Normalmente, enviamos os homens mais fortes da aldeia para conseguir os núcleos de espírito da água, mas ultimamente os Kojin Vermelhos têm defendido seu território de forma suspeita. Isso tornou muito difícil nos aproximarmos de Hells' Lid." },
+    { "gameKey": "quest/026/StmBdz303_02699#TEXT_STMBDZ303_02699_MINE_000_013", "hash": "A3C29E975BC1359A", "target": "Muito obrigada pela ajuda. Não conseguiríamos sobreviver sem os núcleos que você nos trouxe. Como prometido, aqui está sua recompensa." }
   ]
 }

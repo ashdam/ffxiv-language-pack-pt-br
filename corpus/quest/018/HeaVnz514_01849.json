@@ -2,16 +2,16 @@
   "conversation": "quest/018/HeaVnz514_01849",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "" },
-    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "" }
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_00", "hash": "CE7D505F258B6273", "target": "O unmaneuvering moogle só pensa em pássaros." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_01", "hash": "F992F573F63CDA01", "target": "O unmaneuvering moogle informa que as alturas de Zenith abrigam um bando de aves migratórias, e os filhotes deste ano deixaram o ninho recentemente. Embora ver os jovens pássaros começando a primeira etapa da longa jornada da vida conforte a alma, os montes de folhas em decomposição e cascas de ovos que deixam para trás são menos bem-vindos. O moogle pede que você vasculhe as alturas de Zenith em busca dos ninhos abandonados e os traga para ele." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_02", "hash": "C32717E74D4FF819", "target": "Você remove os ninhos vazios de aves selvagens, deixando as alturas de Zenith impecáveis e prontas para o retorno dos pássaros. Desça de Zenith e entregue os ninhos ao unmaneuvering moogle." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_SEQ_03", "hash": "30EB47C7C7CBB3BE", "target": "O moogle agradece por você remover os ninhos e revela um segredinho: ouviu rumores de que ninhos de pássaros servem para fazer uma sopa deliciosa e pretende usar os que você recolheu para testar a receita. Se um dia quiser experimentar uma xícara quente de gravetos, penas, cascas de ovos e vermes regurgitados, o unmaneuvering moogle é o chef com quem deve falar." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_00", "hash": "E58041DF4C821800", "target": "Coletar ninhos de aves selvagens" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TODO_01", "hash": "EDF2DB5B8C5F70BF", "target": "Entregar os ninhos de aves selvagens ao unmaneuvering moogle" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_000", "hash": "D7A2EBB71DB752FD", "target": "Muitas aves selvagens fazem ninhos nas alturas de Zenith, e os filhotes deste ano finalmente aprenderam a voar. Espero que voltem algum dia, kupo... mas, até lá, temos uma pilha de ninhos vazios para resolver." },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_001", "hash": "AB5A105C800DCB1B", "target": "Aqueles montes de gravetos, penas e pedaços de insetos meio mastigados não combinam muito com a beleza do lugar. Pode me ajudar a removê-los, kupo? Os pássaros gostam de construir nos lugares mais altos, então tome cuidado para não cair!" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_010", "hash": "ACA077F39E8C0995", "target": "Precisamos remover todos os ninhos velhos antes que os pássaros voltem. Afinal, quem quer chegar em casa e encontrar bagunça, kupo?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_020", "hash": "832AA69386EE81FB", "target": "Como vai a limpeza, kupo? Já conseguiu remover todos os ninhos?" },
+    { "gameKey": "quest/018/HeaVnz514_01849#TEXT_HEAVNZ514_01849_TEMPLECENTERMOG01848_000_021", "hash": "603AC835CF5D7678", "target": "Obrigado pela ajuda, kupo! Cá entre nós, ouvi dizer que dá para fazer uma sopa gostosa com ninhos de pássaros. Quando voltar a Moghome, vou ferver tudo com umas nozes kupo frescas! ...Acha que devo deixar os pedaços de insetos meio mastigados ou raspar tudo?" }
   ]
 }

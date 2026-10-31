@@ -2,15 +2,15 @@
   "conversation": "quest/028/StmBdz820_02848",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "" },
-    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "" }
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_SEQ_00", "hash": "E98091816737F0B2", "target": "Guntmar está bem desperto e quer aproveitar o caldo que sobrou." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_TODO_00", "hash": "AC4B84075FEE41E3", "target": "Entregar o caldo de muud suud à Resistance fighter" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_000", "hash": "DBB3DB405FEE81D6", "target": "Bom ver você, <if(gnum4,aventureira,aventureiro)>. Obrigado de novo por aquele chifre de muud suud. Nunca me senti tão bem." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_001", "hash": "C0E9FBE3405E67EC", "target": "Sobrou o suficiente para mais uma xícara e, já que está aqui, eu esperava que pudesse entregá-la a alguém. Quando voltar a Ala Ghiri, pode dar isto à soldado que guarda o portão norte?" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_GUNTMAR_000_002", "hash": "663147DAA76F682A", "target": "Pode levar esta última xícara de caldo à soldado que guarda o portão norte? Ela anda perguntando por ele faz um tempo, e seria uma pena não oferecer um pouco a ela." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_010", "hash": "32C4F33FADCDB007", "target": "Ah, <if(gnum4,aventureira,aventureiro)>. É sempre um prazer. Posso fazer alguma coisa por você?" },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_011", "hash": "7F5D3F36DE0C27A4", "target": "Isto é... \\<farejada> \\<farejada> É sim! O caldo de muud suud de Guntmar. Nunca provei nada tão rico, tão encorpado. E aquele sabor agradável que fica na boca por dias a fio. É simplesmente de morrer." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_012", "hash": "940A1C97EBC665AA", "target": "Você nunca imaginaria que algo tão maravilhoso pudesse vir de uma criatura tão horrenda, mas esses pratos feitos de chifres e ossos de animais são bem comuns em Gyr Abania. Além dos sabores distintos, todos têm efeitos variados que fazem muito bem à saúde." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_013", "hash": "344265717CBE87BC", "target": "Alguns dizem que essas receitas surgiram do comércio com o Oriente Próximo, acredite se quiser." },
+    { "gameKey": "quest/028/StmBdz820_02848#TEXT_STMBDZ820_02848_LADYSOLDIER02834_000_014", "hash": "7166EAB5375BA8A0", "target": "Eu devia voltar para casa agora mesmo e... ah, céus, acho que estou babando. Vai ter que me dar licença. Obrigada de novo por esta surpresa tão agradável." }
   ]
 }

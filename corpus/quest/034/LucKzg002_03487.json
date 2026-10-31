@@ -2,18 +2,18 @@
   "conversation": "quest/034/LucKzg002_03487",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "" },
-    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "" }
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_SEQ_00", "hash": "8E286B3FC213CB6F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mhon Mon sofre com feras infernais e o estômago vazio." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_00", "hash": "61C17BDEB7AE35E9", "target": "Ficar à espreita da wandering weapon" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_TODO_01", "hash": "F6719BEFB9E4CAE6", "target": "Relatar a Mhon Mon" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_000", "hash": "16FE1E643478530F", "target": "Aaah! O que fazer? O que fazer?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_001", "hash": "FD329FBD7AAC81F1", "target": "Quero fazer um ensopado tradicional dos Mord e só falta um ingrediente: erva de Amber." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_002", "hash": "3051CCA73D141263", "target": "Mas ela ficou rara por aqui, exceto em uma área infestada de evil weapons!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_003", "hash": "CF37F6B979604F65", "target": "O nome até é engraçado, mas não tem graça quando tentam matar você! Tem uma especialmente horrível chamada wandering weapon, que as outras parecem seguir." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_004", "hash": "1D0C60DEAFC96539", "target": "Se você acabar com ela, talvez o resto nos deixe em paz. Aí finalmente poderei colher erva de Amber sossegado. Então, vai nos ajudar?" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_010", "hash": "77EE7EB727C944CC", "target": "Odeio aquela wandering weapon e sua cara grande e idiota!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_020", "hash": "13374935AE580BAB", "target": "Conseguiu? Viva! Agora a erva de Amber será minha! He, he, he..." },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_021", "hash": "F054DA27C8E4D50F", "target": "Mas será que as outras evil weapons vão voltar? Ouvi dizer que os magos de Nabaath Areng as criaram a partir de espadas encantadas. Mas não me pergunte como ficaram com aquela aparência!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_022", "hash": "6D02B952D32C4321", "target": "Parece que os mestres delas desapareceram depois do Dilúvio. Sem ninguém para comandá-las, elas vagam por Amber e atacam tudo que chega perto!" },
+    { "gameKey": "quest/034/LucKzg002_03487#TEXT_LUCKZG002_03487_MHONMON_000_023", "hash": "AC11AACBB2AED300", "target": "Espero que eliminar a wandering weapon mantenha as outras longe por um tempo, mas quem sabe? Só sei que agora posso fazer meu ensopado! Meu estômago agradece!" }
   ]
 }

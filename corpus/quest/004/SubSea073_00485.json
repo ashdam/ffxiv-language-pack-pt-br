@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubSea073_00485",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_00", "hash": "F729B9B8DD759680", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_01", "hash": "716F9B4F2E2465F5", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_02", "hash": "BF464E1C78C96FEA", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_03", "hash": "E63C6E9348418ED0", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_00", "hash": "06247BB94DD1F287", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_01", "hash": "3C9A8565A9F08B95", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_0", "hash": "AC19D05AE4332C71", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_1", "hash": "5B3791D2372CBC91", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_2", "hash": "4E300101B9A52F74", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_3", "hash": "46605935D2FDE5B4", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_10", "hash": "1E9C34C489BB76DA", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_11", "hash": "8E8C1E96350B6788", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_12", "hash": "BEE5B9F899A5C387", "target": "" },
-    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_POP_MESSAGE", "hash": "607C5507F39A0077", "target": "" }
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_00", "hash": "F729B9B8DD759680", "target": "O enxofre impediu Broenruht de entrar nas Blind Iron Mines." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_01", "hash": "716F9B4F2E2465F5", "target": "Interromper a escavação pode ameaçar o sustento dos mineradores, mas o excesso de gás sulfuroso ameaça suas próprias vidas. Só cristais de terra puros podem vedar os gas plumes e descontaminar as galerias." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_02", "hash": "BF464E1C78C96FEA", "target": "Os cristais de terra puros funcionaram perfeitamente nos gas plumes. Avise a Broenruht que as minas já não estão cheias de enxofre." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_SEQ_03", "hash": "E63C6E9348418ED0", "target": "A demanda por minério aumentou bastante devido aos esforços de reconstrução após a Calamidade. Muitos mineradores não pensariam duas vezes antes de arriscar a saúde pelos bons lucros à espera, mas, graças aos seus feitos, ninguém precisará fazê-lo." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_00", "hash": "06247BB94DD1F287", "target": "Usar cristais de terra puros nos gas plumes" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_TODO_01", "hash": "3C9A8565A9F08B95", "target": "Apresentar-se a Broenruht" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_0", "hash": "AC19D05AE4332C71", "target": "Bem, desta vez cavamos mesmo um buraco pra nós!" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_1", "hash": "5B3791D2372CBC91", "target": "Achamos enxofre escavando as minas, e agora as pedras tão cheias daquele fedor de ovo podre. O gás ficou forte demais pra aguentar." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_2", "hash": "4E300101B9A52F74", "target": "Você vai precisar deste cristal de terra puro pra restaurar a terra e vedar o vazamento direito." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_3", "hash": "46605935D2FDE5B4", "target": "Só tome cuidado com os syrphid clouds que o enxofre atrai." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_10", "hash": "1E9C34C489BB76DA", "target": "Isso sim é uma lufada de ar fresco!" },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_11", "hash": "8E8C1E96350B6788", "target": "Pra muitos mineradores, um pouco de enxofre não é motivo pra escrever pra casa, mas sou eu quem tem que escrever as cartas quando os gananciosos morrem sufocados lá embaixo." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_BROENRUHT_000_12", "hash": "BEE5B9F899A5C387", "target": "Os preços dos metais depois da Calamidade vão nos deixar ricos ou mortos." },
+    { "gameKey": "quest/004/SubSea073_00485#TEXT_SUBSEA073_00485_POP_MESSAGE", "hash": "607C5507F39A0077", "target": "Você sente uma presença hostil!" }
   ]
 }

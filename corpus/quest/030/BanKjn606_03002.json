@@ -2,16 +2,16 @@
   "conversation": "quest/030/BanKjn606_03002",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "" },
-    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "" }
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_SEQ_00", "hash": "FC32182F26A35639", "target": "Zukin está tendo problemas com algumas arraias.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_00", "hash": "57C506724C5F2659", "target": "Subjugar as clever little rays em Crab Pots e alimentá-las com as pastilhas amargas" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_TODO_01", "hash": "F561AAD9A21A9705", "target": "Relatar o ocorrido a Zukin" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_000", "hash": "D617B74EA2C252B3", "target": "<split(<string(gstr1)>, ,1)>, estamos tendo problemas com algumas das nossas arraias jovens. Apesar de pequenas, são teimosas de um jeito incorrigível e continuam saindo do nosso território apesar das repetidas broncas. Neste momento, estão vagando por Crab Pots, sem se importar com os perigos." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_001", "hash": "0CF1FECA3502F119", "target": "Por mais que eu deteste fazer isso, elas precisam de disciplina, e quero que você cuide disso. Por favor, encontre as três arraias, dê uma pequena surra nelas e depois lhes dê estas pastilhas, um ponto-final amargo para a lição." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_002", "hash": "13C1279F29C5DAF7", "target": "Se estiver com pena, não fique. É para a segurança delas. Precisam entender que o mundo lá fora está cheio de perigos." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_010", "hash": "205B1066338B5D28", "target": "Ah, aí está você. Como foi a medida disciplinar?" },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_011", "hash": "EA69FF77A389AF5D", "target": "Obrigado, <split(<string(gstr1)>, ,1)>. A lição deve manter as pequenas na linha por um bom tempo." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_012", "hash": "0E2D7191319CE985", "target": "Embora não pareça agora, elas estão entre as melhores arraias que já criamos. Queremos que realizem seu potencial, e às vezes isso exige mão firme." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_013", "hash": "6AAC1025FF4E3D30", "target": "É claro que a teimosia não é um defeito por si só. É apenas uma faceta da determinação, que esperamos cultivar nelas." },
+    { "gameKey": "quest/030/BanKjn606_03002#TEXT_BANKJN606_03002_ZUKIN_000_014", "hash": "D9A37AFD6C5F5CB5", "target": "Com sorte, não será preciso mais disciplina desse tipo, mas, se for, confio que você estará <if(gnum4,disposta,disposto)> a nos ajudar de novo." }
   ]
 }

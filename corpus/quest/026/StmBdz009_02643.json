@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz009_02643",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_SEQ_00", "hash": "E034635079E6E6C3", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_00", "hash": "64392BFA2D39D11C", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_01", "hash": "965A4615131F4FF9", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_02", "hash": "49952A2D63BBC88F", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_000", "hash": "D2242E0302CA9A3D", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_001", "hash": "99427141F3EC2A1D", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_002", "hash": "13A835A9ED3FEC04", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_003", "hash": "88E0252A645016B5", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_004", "hash": "432AA8F6FAFB5501", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_100_010", "hash": "24D29593B6EE32BF", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_010", "hash": "45783285C2A56F38", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_011", "hash": "E46775A3F8155D74", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_012", "hash": "F598C0E9CC9AE0BD", "target": "" },
-    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_013", "hash": "077A547D7653CB0F", "target": "" }
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_SEQ_00", "hash": "E034635079E6E6C3", "target": "A Sargento da Serpente Lucinne parece ter muito com que se ocupar." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_00", "hash": "64392BFA2D39D11C", "target": "Obter amostras de solo" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_01", "hash": "965A4615131F4FF9", "target": "Obter uma amostra de água do rio" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_TODO_02", "hash": "49952A2D63BBC88F", "target": "Falar com Lucinne" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_000", "hash": "D2242E0302CA9A3D", "target": "Sargento da Serpente Lucinne, às ordens... Ou estaria, se não estivesse tão terrivelmente ocupada. Fui encarregada de avaliar o impacto ambiental da ocupação garleana em Gyr Abania." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_001", "hash": "99427141F3EC2A1D", "target": "Há tanto a fazer, mas meus superiores nem pensaram em designar alguém para me ajudar. Dá para acreditar?" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_002", "hash": "13A835A9ED3FEC04", "target": "\\<suspiro> Receio que nunca vá terminar neste ritmo. A menos que... Será que tem tempo para coletar umas amostras para mim?" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_003", "hash": "88E0252A645016B5", "target": "Três do solo entre os destroços magitek em East End e uma do Rio Velodyna. Não precisa correr, tenho bastante coisa para me ocupar até você voltar." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_004", "hash": "432AA8F6FAFB5501", "target": "Sei o peso que coloquei sobre você, mas é essencial descobrirmos os efeitos que os garleanos tiveram no ambiente daqui." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_100_010", "hash": "24D29593B6EE32BF", "target": "Ah, voltou. Trouxe as amostras?" },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_010", "hash": "45783285C2A56F38", "target": "Esplêndido! Absolutamente esplêndido! Muito, muito obrigada." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_011", "hash": "E46775A3F8155D74", "target": "Todos parecem tão preocupados com a batalha que provavelmente não haveria um levantamento das terras se eu não tivesse me oferecido." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_012", "hash": "F598C0E9CC9AE0BD", "target": "Não questiono a importância da luta contra os garleanos, mas temos o dever de manter o equilíbrio natural da floresta." },
+    { "gameKey": "quest/026/StmBdz009_02643#TEXT_STMBDZ009_02643_LUCINNE_000_013", "hash": "077A547D7653CB0F", "target": "Graças ao seu esforço, estou um passo mais perto de determinar quanto trabalho será necessário para isso." }
   ]
 }

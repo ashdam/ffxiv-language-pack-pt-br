@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc205_00964",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "" }
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_00", "hash": "398F2548AA98971F", "target": "Otan Yaratan parece apavorado." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_01", "hash": "DE39E6938D510B83", "target": "Dificilmente um homem que vive à mercê dos caprichos do mar seria covarde, mas Otan Yaratan claramente teme mais fantasmas do que naufrágios. Deixe-o se encolher de medo e elimine cinco espíritos inquietos conhecidos por aqui como dead man's moans." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_02", "hash": "9A99F83D7506C551", "target": "Para <if(gnum4,uma aventureira habilidosa,um aventureiro habilidoso)>, a morte aparentemente não impede mais mortes. Volte ao Pharos Sirius e fale com Otan Yaratan." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_SEQ_03", "hash": "1EAA8542D176E65C", "target": "Aliviado, o faroleiro despeja suas aflições nos seus ouvidos compreensivos. Em nome dos Doze, o que está acontecendo no outrora tranquilo Pharos Sirius?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_00", "hash": "2AF20ED9CDC3D57F", "target": "Matar dead man's moans" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_TODO_01", "hash": "94BF55F066F8FF42", "target": "Informar Oran Yaratan" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_000", "hash": "67BB8B5808F55B66", "target": "E<-->Espíritos! Espíritos vagando pela ilha toda! Temos que fazer algu... Ahá!<br><italic(1)>Em nome dos Doze, sumam<italic(0)>!<br>...Eles não estão indo embora, estão?" },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_001", "hash": "A70FFADF01F76A3B", "target": "\\<suspiro> Não sei o que vou... Oh! <if(gnum4,Uma aventureira,Um aventureiro)>! Graças aos Doze. Preciso de ajuda aqui, os mortos não estão descansando muito bem por estas bandas! Não sei como esperam que a gente conserte o farol com toda essa baderna." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_010", "hash": "A111A8511C7CD089", "target": "Você se livrou mesmo daqueles desgraçados gemedores, não foi!? Agora devem estar descansando melhor, aposto... Filhos de rameiras chorões." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_011", "hash": "79C914579E5C2E1B", "target": "É uma coisa atrás da outra por aqui. Navios se rasgando nos recifes, bons marinheiros desaparecendo..." },
+    { "gameKey": "quest/009/GaiUsc205_00964#TEXT_GAIUSC205_00964_OTANYARATAN_000_012", "hash": "D4E77DBC59ED8934", "target": "Isto aqui era um cantinho bom, sabe. Agora o farol está quebrado e coisas como <italic(1)>esta<italic(0)> acontecem três vezes por lua ou mais." }
   ]
 }

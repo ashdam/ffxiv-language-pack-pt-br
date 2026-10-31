@@ -2,16 +2,16 @@
   "conversation": "quest/037/BanPix116_03704",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "" },
-    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "" }
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_SEQ_00", "hash": "4EB17AB260C0508F", "target": "Uin Nee espera dar um toque de opulência a Lyhe Mheg.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_00", "hash": "BE03D6913BF0B77E", "target": "Obter uma pedrinha brilhante a sudeste do Solar do Erudito" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_TODO_01", "hash": "5CDC9F2A7ECD5231", "target": "Entregar a pedrinha brilhante a Uin Nee" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_000", "hash": "3B587E03E41F3CC4", "target": "Rubis! Esmeraldas! Safiras! Ah, como brilham! Pena que não temos muitas chances de vê-las aqui em Il Mheg. Pelo que ouvi, são muito valiosas. Deve ser por isso que os sucateiros se esforçam tanto para desenterrá-las." },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_001", "hash": "914C31DCF3CA2D84", "target": "Isso me deu mais uma ideia brilhante! Vamos decorar Lyhe Mheg com nossas próprias joias!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_002", "hash": "677E0F42CF01F540", "target": "Claro, não precisamos nos dar ao trabalho de encontrar pedras preciosas de verdade. Basta algo vagamente parecido. Nossa magia faz o resto!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_003", "hash": "0ABD55133CFC77E5", "target": "Parece que você está com tempo de sobra. Que tal fazer algo útil e juntar umas pedrinhas bonitas e brilhantes para mim?" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_004", "hash": "67FB7B36B209D4A9", "target": "Deve haver algumas lá perto do lago. E, se vir algum Fuath, dê uma pancada nele por mim!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_020", "hash": "A23E23D76D42A394", "target": "Vamos, então, me entregue!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_021", "hash": "23ACF249B69081E1", "target": "Bem, é meio sem graça, mas acho que serve. Talvez eu até consiga transformar pedrinhas assim em moedas de ouro, para as crianças sentirem como é ser rico!" },
+    { "gameKey": "quest/037/BanPix116_03704#TEXT_BANPIX116_03704_UINNEE_000_022", "hash": "8E1ADF7B0EB139B0", "target": "Claro, tudo vai desaparecer quando elas acordarem, mas podem aproveitar enquanto o sonho durar. Mesmo sem um tostão na vida real, vão viver como a realeza em Lyhe Mheg!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz801_01931",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_00", "hash": "FB86D3477F4C64B0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_01", "hash": "CF8DD696E1D475A3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_02", "hash": "1C819DA467180C20", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_03", "hash": "1111E8BF46AD075F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_00", "hash": "A452B46CFE242B09", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_01", "hash": "2C4335E419AF74CF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_000", "hash": "D73978E03AA8AFFA", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_001", "hash": "5135A9DB0FF3A5CC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_010", "hash": "2A47C6CF921A819E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_020", "hash": "6E82890DD475892D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_021", "hash": "C5E1C1AE1456AC11", "target": "" }
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_00", "hash": "FB86D3477F4C64B0", "target": "Woolnix observa você com evidente interesse." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_01", "hash": "CF8DD696E1D475A3", "target": "Woolnix se preocupa com o grande enxame de tarantula hawks em Collectors' Quarter. Ele não se sente seguro vigiando o portão com esses insetos tão perto. Por isso, pede que você mate três deles, na esperança de que parem de se aproximar de seu posto." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_02", "hash": "1C819DA467180C20", "target": "Você matou três tarantula hawks. Leve a notícia de sua vitória a Woolnix, perto de Cenotaph." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_SEQ_03", "hash": "1111E8BF46AD075F", "target": "Woolnix revela que levou uma picada de tarantula hawk e, enlouquecido pela dor, abandonou seu posto. Agora que há menos insetos voando por perto, ele acredita que pode cumprir seu dever em segurança." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_00", "hash": "A452B46CFE242B09", "target": "Matar tarantula hawks" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_TODO_01", "hash": "2C4335E419AF74CF", "target": "Falar com Woolnix" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_000", "hash": "D73978E03AA8AFFA", "target": "Pshhh... Shkohhh...<br>Altogente ter braço bom para ferramentabriga, sim?" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_001", "hash": "5135A9DB0FF3A5CC", "target": "Por favor, matar tarantula hawks para Woolnix. Enxame deles em Collectors' Quarter dar medo terrível em Woolnix quando vigiar portão. Matar três e Woolnix se sentir mais seguro!" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_010", "hash": "2A47C6CF921A819E", "target": "Com tantos tarantula hawks em Collectors' Quarter, Woolnix preocupado em vigiar portão em segurança." },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_020", "hash": "6E82890DD475892D", "target": "Pshhh... Shkohhh...<br>Altogente fazer grande favor para Woolnix! Na verdade, Woolnix fugir quando insetos atacar. Woolnix levar bronca por deixar portão sem vigia, mas isso injusto!" },
+    { "gameKey": "quest/019/HeaVnz801_01931#TEXT_HEAVNZ801_01931_WOOLKNIX_000_021", "hash": "C5E1C1AE1456AC11", "target": "Woolnix levar picada de tarantula hawk, fugir porque dor deixar Woolnix maluco! \\<suspiro> Mas agora menos tarantula hawks, Woolnix poder patrulhar em paz." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny813_02122",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "" },
-    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "" }
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "Ardolain tem boas notícias do mestre do clã Centurio para você." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "Ardolain informa que o líder do clã Centurio recomendou que você seja <if(gnum4,aceita como caçadora,aceito como caçador)> de pleno direito, com permissão para caçar alvos de elite. Ele pede que você volte ao Clan Hunt board para examinar os contratos de caça de elite afixados nele." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_02", "hash": "35600F2A76C27EE9", "target": "Você examina o Clan Hunt board e folheia os contratos disponíveis. Para saber mais sobre o Clan Hunt ou trocar Centurio Seals por objetos exclusivos, fale com Ardolain em Forgotten Knight. Caso contrário, você tem liberdade para arriscar a vida caçando os monstros mais perversos do norte gelado e conquistar fama como <if(gnum4,caçadora,caçador)> de alvos de elite." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_TODO_00", "hash": "70C33AABAA35DDC2", "target": "Examinar o Clan Hunt board" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_000", "hash": "8BB2F77A823EC01D", "target": "Boas, <split(<string(gstr1)>, ,1)>. Tenho boas notícias para você." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_100_000", "hash": "ADD542929EF039B3", "target": "Recebi um recado de Sor Leaudaste, o mestre do clã Centurio. Parece que ele vem acompanhando seu progresso e acha que você já pode abrir as asas como <if(gnum4,uma caçadora,um caçador)> de alvos de elite de pleno direito." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_001", "hash": "D6165344ABC22DF7", "target": "Sor Leaudaste nasceu numa família nobre, mas deixou tudo para trás para sair caçando, rastreando os inimigos mais ferozes e destruindo-os pelo bem destas terras. O povo o chama de primeiro caçador erudito. Receber o reconhecimento de um sujeito desses não é pouca coisa." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_002", "hash": "D000F7434B58B3E7", "target": "Mas não deixe isso subir à cabeça. Esses alvos de elite estão em outro patamar em relação a tudo que você já caçou, e partir para cima sem pensar é um jeito certeiro de ir desta para melhor. Atribuímos categorias a eles conforme seu grau de perigo, assim como fazem as Grandes Companhias." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_003", "hash": "1D97570B03B7568A", "target": "Os contratos desses alvos de elite ficam no Clan Hunt board, junto com os outros. Pode pegar o que quiser, mas saiba bem o que está fazendo antes de sair para caçar. Cada uma dessas feras é um pesadelo em carne e osso!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_ARDOLAIN_000_012", "hash": "7C5127F94C3A0710", "target": "Sempre que surgir um novo alvo de elite, vamos afixar o contrato no Clan Hunt board. É sempre bom perguntar sobre o alvo aos outros membros do Clã antes de sair para caçar. Como dizem, conhecimento é poder, e é de poder que você vai precisar para derrotar essas feras." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_100_020", "hash": "2AC04A51517B36B0", "target": "O Clan Hunt board está coberto de contratos com detalhes dos monstros procurados. Como membro de pleno direito do clã Centurio, agora você pode pegar contratos de caça de elite!" },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_010", "hash": "2CA8277FC244EB87", "target": "Agora você tem permissão para pegar contratos de caça de elite do Clã no Clan Hunt board." },
+    { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SYSTEM_000_011", "hash": "2863400D23F6A1F0", "target": "Derrote alvos de elite de categoria S, de categoria A e alguns de categoria B para receber Centurio Seals. Esses selos podem ser trocados por objetos exclusivos." }
   ]
 }

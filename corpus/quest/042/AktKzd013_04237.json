@@ -2,18 +2,18 @@
   "conversation": "quest/042/AktKzd013_04237",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_SEQ_00", "hash": "C7E2B7C772A08043", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_000", "hash": "480A9688055A090F", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_001", "hash": "B9981D25DADC9EFF", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_002", "hash": "B9C44C9972524816", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_004", "hash": "34298F535330C671", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_008", "hash": "7C575BFD20651F22", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_010", "hash": "6632B3D271E82163", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_011", "hash": "53CAF3F0960ED1C6", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_012", "hash": "2E98B09CE4CFD726", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_013", "hash": "44B4A6DE27A19D98", "target": "" },
-    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_014", "hash": "46F8C2486A1A5875", "target": "" }
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_SEQ_00", "hash": "C7E2B7C772A08043", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Muitos integrantes do contingente de Ilsabard estão reclamando de imperiais que descartam armas em perfeito estado pela cidade." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_00", "hash": "465D6C14317DE2A8", "target": "Obter as armas abandonadas" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_TODO_01", "hash": "1030438942F0E4AF", "target": "Entregar as armas abandonadas a Kochacha" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_000", "hash": "480A9688055A090F", "target": "<split(<string(gstr1)>, ,1)>. Posso incomodar você por um momento? Imagino que já tenha ouvido falar da recuperação das armas abandonadas." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_001", "hash": "B9981D25DADC9EFF", "target": "Não? Sério? Então foi bom ter me encontrado. Como você bem sabe, de acordo com a trégua, a I Legião depôs as armas. Infelizmente, seus soldados as deixaram onde bem entenderam, e agora estão espalhadas pela cidade inteira." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_002", "hash": "B9C44C9972524816", "target": "Se você der de cara, ou, mais provavelmente, <italic(1)>tropeçar<italic(0)>, em alguma dessas armas imperiais, pedimos que a recolha e traga para nós o mais rápido possível." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_004", "hash": "34298F535330C671", "target": "Por favor, recolha tudo que pareça minimamente útil, embora possa deixar de lado “uma tábua com um prego atravessado”. Já temos o bastante dessas." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_008", "hash": "7C575BFD20651F22", "target": "Sem dúvida, as ruas da cidade são um tesouro de tralhas mortíferas. Não podemos esquecer que isto era uma zona de guerra." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_010", "hash": "6632B3D271E82163", "target": "Você está com alguma arma abandonada aí?" },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_011", "hash": "53CAF3F0960ED1C6", "target": "Sim, é exatamente o que procuramos. Obrigada por trazer para nós." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_012", "hash": "2E98B09CE4CFD726", "target": "Dizem que cada legião tem suas próprias armas, mas, para mim, são todas praticamente iguais. Imagino que essas semelhanças se devam ao fato de terem sido produzidas em massa em Enceladeum." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_013", "hash": "44B4A6DE27A19D98", "target": "Talvez, quando Garlemald ainda se considerava uma república e começou a empregar mercenários Roegadyn, tenham buscado diversificar seus armamentos da mesma forma que suas tropas." },
+    { "gameKey": "quest/042/AktKzd013_04237#TEXT_AKTKZD013_04237_KOCHACHA_000_014", "hash": "46F8C2486A1A5875", "target": "É claro que os avanços tecnológicos posteriores permitiram produzir todo tipo de arma a um ritmo alarmante. Fico pensando... Se nunca tivessem descoberto as máquinas, como seria o Império hoje? Dá o que pensar, não é?" }
   ]
 }

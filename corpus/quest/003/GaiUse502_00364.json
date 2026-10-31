@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_00", "hash": "DAB8CC57EFDB6166", "target": "Ilberd está ansioso para levar o contrabandista e os clientes dele à justiça." },
-    { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_01", "hash": "0CFCA89B3D6A87D3", "target": "Ilberd afirma que a 1ª Unidade vai estabelecer um perímetro para impedir a fuga dos clientes, enquanto vocês dois capturam o contrabandista e as armas dele. Siga o capitão até o Burning Wall e examine a área." },
+    { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_01", "hash": "0CFCA89B3D6A87D3", "target": "Ilberd afirma que a 1ª Unidade vai estabelecer um perímetro para impedir a fuga dos clientes, enquanto vocês dois capturam o contrabandista e as armas dele. Siga o capitão até Burning Wall e examine a área." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_02", "hash": "F431680196CC662C", "target": "Ainda que enxergue apenas uma sentinela, Ilberd conclui que deve haver outras escondidas. Ele manda você criar uma distração enquanto ele e os homens dele se esgueiram até os túneis onde o contrabandista e os clientes vão se encontrar. Aproxime-se da sentinela solitária e puxe uma conversa amistosa." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_03", "hash": "F1A261E56F1BC199", "target": "A sentinela não gosta nada da sua presença, e ele e os companheiros tentam liquidar você ali mesmo. Não conseguem. O Capitão Ilberd e os homens dele não aparecem em lugar nenhum, e não lhe resta senão esperar do lado de fora do túnel, conforme o combinado." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_SEQ_04", "hash": "E27DB2FCBAC306B5", "target": "Um grito súbito de agonia ecoa lá de dentro do túnel. Entre e procure a origem do tumulto." },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_TODO_01", "hash": "94AACCECFAD73B87", "target": "Falar com o capanga contratado" },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_TODO_02", "hash": "934F126065227326", "target": "Esperar por Ilberd na entrada do túnel" },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_TODO_03", "hash": "58F41B1530C0AFCA", "target": "Investigar o tumulto" },
-    { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_ILBERD_000_000", "hash": "DB9406FACD92C333", "target": "Pois bem, devemos seguir sem demora para o Burning Wall e apreender aquelas armas." },
+    { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_ILBERD_000_000", "hash": "DB9406FACD92C333", "target": "Pois bem, devemos seguir sem demora para Burning Wall e apreender aquelas armas." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_ILBERD_000_002", "hash": "51EBDF5459B50F45", "target": "A 1ª Unidade vai garantir que os clientes não escapem. Comigo, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_ILBERD_000_010", "hash": "646DE0F014351F3D", "target": "Vejo só um homem, mas com certeza há outros..." },
     { "gameKey": "quest/003/GaiUse502_00364#TEXT_GAIUSE502_00364_ILBERD_000_012", "hash": "67E0CA346AA2E4D1", "target": "Tenho um plano. Enquanto você se aproxima da sentinela e cria uma distração, eu e os meus homens passamos despercebidos e pegamos o contrabandista de surpresa." },

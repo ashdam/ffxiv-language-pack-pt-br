@@ -2,18 +2,18 @@
   "conversation": "quest/039/BanDwa125_03926",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_SEQ_00", "hash": "5487D99CCEEE5655", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_00", "hash": "CAFEE91AA2B84B11", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_01", "hash": "3E3E23AAD2AAC800", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_000", "hash": "7019315F02E1B48E", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_001", "hash": "07833D9052A1EE86", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_002", "hash": "E427CFFB44D82F48", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_003", "hash": "47213FCAF88DAD04", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_010", "hash": "057B6941886F2F3E", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_020", "hash": "0F62B7EC8BC1C4E8", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_030", "hash": "5AB3E79E0B5530DC", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_040", "hash": "E339BF6686395DF1", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_041", "hash": "0C751CB5C34BC9A7", "target": "" },
-    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_042", "hash": "9296D1A39E3C3B08", "target": "" }
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_SEQ_00", "hash": "5487D99CCEEE5655", "target": "Regitt procura alguém de confiança para uma pequena tarefa.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, você só poderá progredir com a classe ou o job com que aceitou a missão." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_00", "hash": "CAFEE91AA2B84B11", "target": "Entregar a bolsa de dinheiro para grogue ao sundries supplier em Sullen" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_01", "hash": "3E3E23AAD2AAC800", "target": "Entregar o barril de cerveja lacrado a Regitt" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_000", "hash": "7019315F02E1B48E", "target": "O etanol de Ozogg vai manter nossos tanques rodando bem por enquanto, mas até ela concorda que ainda há espaço para melhorar. Achamos que a resposta pode estar nas técnicas de fabricação de grogue, que podemos adaptar para criar novos combustíveis." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_001", "hash": "07833D9052A1EE86", "target": "Por isso, decidimos pesquisar o máximo de bebidas regionais que conseguirmos. Qualquer uma dessas delícias fermentadas pode conter a chave para produzir uma alternativa segura, barata e fácil de fazer." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_002", "hash": "E427CFFB44D82F48", "target": "...Você deve estar se perguntando qual é o <italic(1)>seu<italic(0)> papel nisso tudo. Bem, desta vez é simples: eu dou as moedas e você compra o grogue." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_003", "hash": "47213FCAF88DAD04", "target": "Eu sei, eu sei, você é mais do que <if(gnum4,uma menina de recados,um menino de recados)>, mas acredite: só posso confiar em você para este serviço. Enfim, vá para Sullen. Deve ter um sujeito lá esperando com nosso pedido." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_010", "hash": "057B6941886F2F3E", "target": "...O barril para o Mestre Regitt? Sim, sim, está prontinho aqui. Posso incomodar com o pagamento...?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_020", "hash": "0F62B7EC8BC1C4E8", "target": "Obrigado, <if(gnum4,senhorita,senhor)>, e lembre-se: levante com as pernas, não com as costas. Tenha um bom dia." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_030", "hash": "5AB3E79E0B5530DC", "target": "Já voltou com o barril? Sem, ah, “problemas” na estrada, então?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_040", "hash": "E339BF6686395DF1", "target": "...Ainda está lacrado! Quer dizer, claro que está! Sabia que podia contar com você!" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_041", "hash": "0C751CB5C34BC9A7", "target": "Se eu tivesse mandado um Tholl comprar esse grogue, podia apostar as botas da sua avó que ele ia parar em algum lugar para “provar a mercadoria”. Por isso, tive que pedir a você." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_042", "hash": "9296D1A39E3C3B08", "target": "Por falar em provar, talvez eu devesse tomar um golinho. Sabe, só para garantir que está─ Não! É para pesquisa! Aham, pode ir agora, <split(<string(gstr1)>, ,1)>!" }
   ]
 }

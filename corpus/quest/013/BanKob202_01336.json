@@ -2,19 +2,19 @@
   "conversation": "quest/013/BanKob202_01336",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_00", "hash": "8A6AC81C8D923F5E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_01", "hash": "8C9481C904CB4D1F", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_02", "hash": "4BE1BAC1668740DD", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_TODO_00", "hash": "6C04B3790F47B70E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_000", "hash": "0B9E346DD9828795", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_001", "hash": "3FB398717CBC276D", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_002", "hash": "1162CD864DABCB73", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_003", "hash": "3C8CC3CA63F61F0E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_004", "hash": "E84392F13A370E3B", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_005", "hash": "0C39336A8E364FC1", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_010", "hash": "393D8C4878DFDEF0", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_011", "hash": "16A96D8E88B3992E", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_012", "hash": "FFEEF7B34D44B79D", "target": "" },
-    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_013", "hash": "F655C9A82B89BC7B", "target": "" }
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_00", "hash": "8A6AC81C8D923F5E", "target": "Só porque 789th Order Craftsman Bo Gu não se dá ao trabalho de explorar um veio não quer dizer que outra pessoa possa, não, não!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_01", "hash": "8C9481C904CB4D1F", "target": "Há um minerador de raro talento no 59th Order Dig, e 789th Order Craftsman Bo Gu quer vê-lo morto pelo pecado do sucesso, tanto o dele quanto o de seu associado, 13th Order Fugleman Zo Ga. Atenda ao pedido concluindo o FATE “The Miner in the Mirror” e apresente a Bo Gu a prova de seu feito obtida nele." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_SEQ_02", "hash": "4BE1BAC1668740DD", "target": "Você entrega a Titan mythrilshield a Bo Gu, embora, na verdade, o artesão não precisasse ter suspeitado de sua hesitação. O minerador agora morto estava longe de ser o mestre das minas que Bo Gu descrevia, além de ser uma figura desprezível que você teve prazer em mandar para debaixo da terra." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_TODO_00", "hash": "6C04B3790F47B70E", "target": "Entregar a Bo Gu a Titan mythrilshield obtida no FATE “The Miner in the Mirror”" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_000", "hash": "0B9E346DD9828795", "target": "Eu odeio Zo Ga, sim, sim, esse Zo Ga é mesmo digno do meu ódio. É injusto─desigual, insano, injusto─que ele tenha tanto Gil por todo aquele trabalho que faz. Argh!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_001", "hash": "3FB398717CBC276D", "target": "Agora soube que ele recrutou um minerador de renome─de fama, de prestígio, de renome! Esse Be Ze não é como os mineradores da nossa querida 789ª, não. Ele encontrou veio após veio de ouro macio e brilhante! Ouro é seu dom, sim, sim." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_002", "hash": "1162CD864DABCB73", "target": "Dizem que ele não trabalha para qualquer líder. Dizem que só serve a Kobold de grande perspicácia. Pois <italic(1)>eles<italic(0)> que vão jantar cera quente de vela e morrer na latrina! Com esse mestre minerador a seu serviço, Zo Ga vai prosperar─florescer, enriquecer, prosperar!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_003", "hash": "3C8CC3CA63F61F0E", "target": "Não podemos permitir isso, não, não. Mas, por sorte, mestre morto não tem dom! Não há diferença entre morto esperto e morto burro, só que perder coisa boa aborrece mais. Sim, Zo Ga vai ficar aborrecido─contrariado, irritado, aborrecido!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_004", "hash": "E84392F13A370E3B", "target": "<if(gnum4,A aventureira não está convencida,O aventureiro não está convencido)>, <if(gnum4,ela não foi persuadida,ele não foi persuadido)> a apoiar esta causa. Vai aceitar o Gil sem fazer o serviço? Uma prova, sim, sim, você vai trazer uma prova!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_005", "hash": "0C39336A8E364FC1", "target": "O odioso Zo Ga pagou uma boa quantia a Be Ze─sim, sim, uma Titan mythrilshield─quando o minerador irritante entrou para sua escavação, um presente pelos veios que ele encontraria. Você vai trazer essa moeda─talvez coberta de sangue inocente?" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_010", "hash": "393D8C4878DFDEF0", "target": "<if(gnum4,A aventureira,O aventureiro)> volta da matança, da carnificina <if(gnum4,ela,ele)> está vindo! Será que <if(gnum4,ela,ele)> traz um sinal─indício, prova, sinal?" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_011", "hash": "16A96D8E88B3992E", "target": "A prova, sim, sim! Você cumpriu sua palavra, sim, podemos confiar a você os assassinatos mais horrendos! Talvez até o próprio Zo Ga um dia..." },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_012", "hash": "FFEEF7B34D44B79D", "target": "Horrível, esse Zo Ga! Se enfia nos veios mais ricos como carrapato numa teta e não divide com a gente, que chega tarde e não trabalha!" },
+    { "gameKey": "quest/013/BanKob202_01336#TEXT_BANKOB202_01336_BOGU_000_013", "hash": "F655C9A82B89BC7B", "target": "Mas você me deu alimento para o pensamento... alimento, comida gostosa. Tudo o que Zo Ga tem pode se esborrachar ou explodir, virar pasta ou pedaços. Há muita esperança, sim, sim, Zo Ga tem muito com que se preocupar!" }
   ]
 }

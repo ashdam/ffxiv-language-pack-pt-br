@@ -2,17 +2,17 @@
   "conversation": "quest/017/HeaVnz221_01790",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_00", "hash": "AC2AEF922F6DF29B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_01", "hash": "351A9B289FC297AA", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_02", "hash": "C4920F1CEC6FE009", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_03", "hash": "282EADBEDA561B67", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_TODO_00", "hash": "42F2C6176249AE72", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_TODO_01", "hash": "A01F8C85CC9021CB", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_000", "hash": "DE517637C4A6AD41", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_001", "hash": "745BBF5CB28AF725", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_010", "hash": "CACED92A1742BBE5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_020", "hash": "48C897852EA285B5", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_021", "hash": "57723F859EB2E92F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_022", "hash": "EF3DE2D1C308645F", "target": "" }
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_00", "hash": "AC2AEF922F6DF29B", "target": "O Vath fleetfoot examina os estoques de armas com uma expressão preocupada." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_01", "hash": "351A9B289FC297AA", "target": "O Vath fleetfoot conta que os estoques de armas dos Vath estão perigosamente baixos. Ele pede sua ajuda para reabastecê-los, tomando armas de pederneira da colmeia Gnath próxima." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_02", "hash": "C4920F1CEC6FE009", "target": "Você arranca as armas de fogo das mãos frias e mortas dos Gnath. Leve-as ao fleetfoot em Loth ast Vath." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_SEQ_03", "hash": "282EADBEDA561B67", "target": "O fleetfoot agradece pelas armas. Depois, explica como acha perturbadores os pensamentos e ações compartilhados dos Gnath. Embora tenham o mesmo sangue e a mesma origem, embora todos os Vath já tenham sido Gnath, ele tem dificuldade em acreditar que pertençam à mesma raça." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_TODO_00", "hash": "42F2C6176249AE72", "target": "Matar Gnath firedrones e obter armas de pederneira Gnath" },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_TODO_01", "hash": "A01F8C85CC9021CB", "target": "Entregar as armas de pederneira ao Vath fleetfoot" },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_000", "hash": "DE517637C4A6AD41", "target": "Embora não ouçamos os pensamentos uns dos outros, <if(gnum4,generosa caçadora,generoso caçador)>, você de algum modo sabe que precisamos de ajuda. Nossos estoques de armas estão baixos. Precisamos de mais." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_001", "hash": "745BBF5CB28AF725", "target": "Quero fazer um pedido. Por favor, traga mosquetes para podermos nos defender. Pode tomá-los dos Gnath aqui perto. Dois serão suficientes." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_010", "hash": "CACED92A1742BBE5", "target": "Por favor, traga dois mosquetes. Consiga-os com os Gnath firedrones." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_020", "hash": "48C897852EA285B5", "target": "Trouxe os mosquetes?" },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_021", "hash": "57723F859EB2E92F", "target": "Obrigado, <if(gnum4,caçadora,caçador)>. Com eles podemos nos armar, nos defender." },
+    { "gameKey": "quest/017/HeaVnz221_01790#TEXT_HEAVNZ221_01790_IDATEN_000_022", "hash": "EF3DE2D1C308645F", "target": "Temos o mesmo sangue dos Gnath. Mas até nós achamos isso muito perturbador: o jeito como pensam como um só, como se movem como um só. É difícil imaginar que sejamos o mesmo povo." }
   ]
 }

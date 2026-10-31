@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz402_02725",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_02", "hash": "3FFC475864C0D0F1", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_020", "hash": "4FE78B994A802837", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "" },
-    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "" }
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_SEQ_00", "hash": "9C40954AF00FFCF2", "target": "Hojo procura alguém de boa compleição para ajudar com o trabalho pesado." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_00", "hash": "D452D6990794F169", "target": "Recolher os montes de pedras" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_01", "hash": "2202427493BD7C6D", "target": "Colocar os montes de pedras nas áreas indicadas" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_TODO_02", "hash": "3FFC475864C0D0F1", "target": "Relatar a Hojo" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_000", "hash": "EB423E86B6109C01", "target": "Há tantas coisas frívolas neste mundo. Todos ficamos obcecados por bugigangas sem sentido, e ninguém para para pensar em coisas importantes, como arrozais em terraços." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_001", "hash": "680F6020709A15AB", "target": "As pedras que sustentam cada campo precisam de reparos constantes, mas parece que ninguém se importa. É um trabalho difícil para um homem sozinho." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_002", "hash": "A98745781F45305C", "target": "Pela sua aparência, eu diria que você consegue carregar uma pedra ou duas. Poderia me emprestar sua força?" },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_003", "hash": "AFA5ED2708524B88", "target": "Vou cuidar dos reparos em si. Só preciso que você traga vários montes de pedras que estão ao sul para mais perto dos arrozais." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_010", "hash": "6239DF1BCA13F45A", "target": "Por favor, traga aqueles montes de pedras que estão ao sul para mais perto dos arrozais." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_020", "hash": "4FE78B994A802837", "target": "Muito obrigado." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_021", "hash": "27D82D8C4889113E", "target": "Agora começa o trabalho duro. Não basta empilhar as pedras de qualquer jeito: é preciso usar uma técnica especial." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_022", "hash": "16013A691BCB3B33", "target": "Eu tinha alguém aprendendo comigo, mas essa pessoa foi convocada por aquele maldito exército imperial. Não passa um dia sem que eu anseie por sua volta." },
+    { "gameKey": "quest/027/StmBdz402_02725#TEXT_STMBDZ402_02725_HOJO_000_023", "hash": "32E552DAEEF37F8F", "target": "Ah, mas lá vou eu contando a história inteira da minha vida a alguém que nem conheço, de novo! Aqui está sua recompensa." }
   ]
 }

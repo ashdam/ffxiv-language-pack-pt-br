@@ -2,18 +2,18 @@
   "conversation": "quest/022/BanGna301_02261",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "" },
-    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "" }
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_00", "hash": "90B009A44E82A2E5", "target": "Pelos estalos de suas mandíbulas, o Vath keeneye parece feliz em ver você.<br>※A dificuldade desta missão será ajustada ao seu nível atual." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_01", "hash": "BA8DB9089B1F31A1", "target": "Há pouco tempo, os caçadores de Tailfeather encomendaram galhos de melia, uma madeira flexível perfeita para fazer flechas. O Vath keeneye pede que você vá a Smoldering Wastes em seu lugar. Ele marca no seu mapa três lugares onde as meliae costumam brotar e pede que você mate as que encontrar e recolha seus galhos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você não poderá prosseguir com uma classe ou job diferente daquele com que aceitou esta missão." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_02", "hash": "1669FAF79D8D7D4C", "target": "Você visita os três locais, mas só consegue galhos de duas das meliae que apareceram. Ainda assim, você fez tudo que foi pedido. Volte a Loth ast Vath e entregue os galhos de melia que encontrou." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEQ_03", "hash": "699845881B385711", "target": "O Vath keeneye fica mais do que satisfeito com os galhos que você traz. De passagem, ele conta que ofereceu ovos de nanka aos caçadores de Tailfeather, além dos galhos encomendados. Embora suas intenções fossem boas, a reação dos caçadores o surpreendeu. Parece que o Vath keeneye tem muito a aprender sobre os gostos das outras raças." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_00", "hash": "45214E91AC311EDF", "target": "Observar os locais indicados e matar meliae para obter seus galhos" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_TODO_01", "hash": "44C05ADC505B3A3A", "target": "Entregar os galhos de melia ao Vath keeneye" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_000", "hash": "CD7C324305C7582C", "target": "Que bom ver você, grande <if(gnum4,caçadora,caçador)>. Há pouco recebemos um pedido dos seres de carne de Tailfeather. Sim, faz alguns sinos que nos pediram galhos de melia. Poderia sair e recolhê-los para nós?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_001", "hash": "C5AF694EC06184BD", "target": "As meliae preferem o solo de Smoldering Wastes. Deixe que eu marque no seu mapa bons lugares onde elas brotam. Três lugares, três chances de encontrar galhos de melia. \\<estalo> \\<estalo> Se as vir, derrote-as depressa e traga o que encontrar." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SYSTEM_100_000", "hash": "C04AF16BE563A1AD", "target": "Você observa a área, mas não encontra sinal das meliae." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_010", "hash": "DEB19F7CF4A7BDAA", "target": "Você voltou, grande <if(gnum4,caçadora,caçador)>. Encontrou meliae? Encontrou galhos de melia flexíveis e maleáveis?" },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_011", "hash": "F082339047C35F32", "target": "Galhos de <italic(1)>duas<italic(0)> meliae? Uma já bastaria, mas com duas os seres de carne ficarão muito satisfeitos. Esses galhos dão ótimas flechas para caçar chocobos, ou assim dizem os seres de carne. \\<estalo> \\<estalo> Parecem gostar de fazer flechas. Sim, muitas flechas." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_012", "hash": "930152CE6928532B", "target": "Até agora, as meliae só incomodavam. Seus galhos não dão frutos, sua casca não é comestível. Era um incômodo caçar em Smoldering Wastes. Agora as meliae têm valor graças aos caçadores." },
+    { "gameKey": "quest/022/BanGna301_02261#TEXT_BANGNA301_02261_SEARCHER_000_013", "hash": "2703CE9BDD4D9121", "target": "Para os Vath, ovos de nanka sempre têm grande valor. São uma iguaria. Um petisco muito saboroso. \\<estalo> \\<estalo> Nós os oferecemos aos caçadores, mas eles dizem que nossos ovos são podres. Que seres de carne estranhos. Sim, muito estranhos." }
   ]
 }

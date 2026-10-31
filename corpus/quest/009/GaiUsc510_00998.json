@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsc510_00998",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_00", "hash": "F58791F7FAEB9CAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_01", "hash": "C79DC92FB765287A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_02", "hash": "E16AF38BCDA607D4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_03", "hash": "FEB56BCE52D35B24", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_00", "hash": "86578CCF8D100F05", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_01", "hash": "6ECCD3B7FDA33BE8", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_000", "hash": "E97D46E2BE51155B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_001", "hash": "9938FB7D15871422", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_002", "hash": "8B7B49C527F14C99", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_020", "hash": "2838DD549728C46E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_030", "hash": "7149DF3958555D5A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_031", "hash": "7B0EEE912C2A7C50", "target": "" }
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_00", "hash": "F58791F7FAEB9CAC", "target": "Com um olhar mais vivo do que da última vez que você a viu, Guolgeim está pronta para ganhar algum dinheiro." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_01", "hash": "C79DC92FB765287A", "target": "O mudpuppy talvez prefira manter o fígado onde está, mas o órgão vale muito mais no mercado, onde desfruta de certa reputação entre homens libidinosos. Guolgeim pede que você mate cinco mudpuppies em Fogfens e recolha seus fígados." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_02", "hash": "E16AF38BCDA607D4", "target": "Você tem cinco fígados de cinco mudpuppies, e Fogfens não está ficando mais seco. Volte à terra firme com passos encharcados e entregue os órgãos a Guolgeim." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_SEQ_03", "hash": "FEB56BCE52D35B24", "target": "Guolgeim paga uma quantia generosa pelos fígados de mudpuppy. Seus pés estão molhados, mas sua bolsa está pesada, e seu coração está mais leve por ver que Guolgeim se recuperou bastante." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_00", "hash": "86578CCF8D100F05", "target": "Recolher fígados de mudpuppies" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_TODO_01", "hash": "6ECCD3B7FDA33BE8", "target": "Entregar os fígados de mudpuppy a Guolgeim" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_000", "hash": "E97D46E2BE51155B", "target": "Não me entenda mal, por aqui não tem só bicho ruim e lembranças tristes. Eu mesma estava caçando mudpuppies antes de aceitar o serviço de resgate, e agora pretendo colher o dobro de fígados." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_001", "hash": "9938FB7D15871422", "target": "Para que serve? Para dar um trato na velha ferramenta, é claro. Fígado de mudpuppy rende uma bela quantia no mercado─tão bela quanto as anáguas que fazem a procura aumentar, aposto!" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_002", "hash": "8B7B49C527F14C99", "target": "Ei, que tal me dar uma mãozinha? Ainda estou meio acabada, então vale a pena pagar uns gils para ter alguém ajudando. Você consegue me trazer cinco fígados, não é?" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_020", "hash": "2838DD549728C46E", "target": "O que achou de Fogfens? Sangrias grátis todos os dias do ano. Mas conseguiu os fígados, não é?" },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_030", "hash": "7149DF3958555D5A", "target": "Aí está o ouro viscoso. Bem cortados─aqui estão seus gils. Você não tentou comer os mudpuppies, tentou? Não tente. Envenenado ou enlameado, são os únicos sabores." },
+    { "gameKey": "quest/009/GaiUsc510_00998#TEXT_GAIUSC510_00998_GUOLGEIM_000_031", "hash": "7B0EEE912C2A7C50", "target": "Se funcionam? Ah, <if(gnum4,menina,menino)>, tudo funciona e nada é bom o bastante para quem tem dinheiro para gastar com essas coisas." }
   ]
 }

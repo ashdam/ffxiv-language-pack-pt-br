@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsb709_00904",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_00", "hash": "5B9405C55F948220", "target": "Belmont finge o cinismo de um mercenário, mas o espírito da Aljava dos Deuses nele não morre fácil. Sua necessidade de um batedor é tão urgente que ele mesmo vai contratar um." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_01", "hash": "665E5016014D6F0B", "target": "Veterano de muitas escaramuças contra os Ixal, Belmont suspeita que a presença dos homens-fera nesta parte do mundo esconde mais do que parece. Ele pede que você use sua furtividade e astúcia para vasculhar o covil deles a leste." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_02", "hash": "1319460EAEDF7278", "target": "Após inspecionar a arrumação dos Ixal e travar uma batalha até a morte, você não descobre nada mais incomum que uma pilha de toras de teixo. Ainda assim, elas não cresceram nestes bosques, e os homens-pássaro dificilmente as guardariam como bichinhos de estimação. Volte ao acampamento e entregue uma das toras a Belmont." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_SEQ_03", "hash": "B8440E93948CC5E3", "target": "Segundo Belmont, o teixo que você trouxe só é encontrado na Mata dos Doze e é muito apreciado pelos Ixal, que o plantam para criar fortificações vivas. Belmont acredita que isso prova que os Ixal estão se estabelecendo em Coerthas, aproveitando a distração causada pelos muitos problemas de Ishgard." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_00", "hash": "E0A912E49D68FDAC", "target": "Procurar pistas no covil dos Ixal" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_TODO_01", "hash": "12C74025E6F486CD", "target": "Entregar a tora de teixo-negro a Belmont" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_000", "hash": "019A549647A62841", "target": "Sou de Gridania, <switch(gnum70,<if(gnum4,irmã,irmão)> do mar,assim como você,<if(gnum4,irmã,irmão)> do deserto)>. Combater os Ixal é o que fazemos lá, mas eu não esperava mesmo encontrá-los nestas montanhas." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_001", "hash": "A456CD6E4C1A3B45", "target": "Conheço aqueles pássaros de merda, e eles estão tramando alguma coisa. Não é nada que eu possa levar ao meu empregador... É só uma sensação. Mas, sempre que eu sentia isso na Mata dos Doze e ninguém fazia nada, algo ruim vinha morder nossa bunda." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_002", "hash": "3295CFA053C65A83", "target": "Não tive um momento de folga, e a sensação só aumenta. Não fica bem a um mercenário gastar seu próprio Gil assim, mas você vai entrar no covil dos Ixal a leste e ver se encontra alguma pista?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_020", "hash": "537873C9C1A1291E", "target": "Quais as notícias, <if(gnum4,irmã,irmão)>? O que é isso que você carrega?" },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_030", "hash": "19B681C40CA8454A", "target": "Isto é teixo-negro de North Shroud, desconhecido em Coerthas. Os Ixal fazem abrigos e muralhas vivas com ele. Mas, como o teixo demora a crescer, por que se dariam ao trabalho de cortá-lo e transportá-lo para o oeste? A não ser que..." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_031", "hash": "5DA880F1F677D466", "target": "Os Ixal pretendem ficar aqui. É o começo de um assentamento. Enquanto os ishgardeses se ocupam com os dragões, os homens-pássaro roubam este pedaço de Coerthas bem debaixo do nariz deles." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_BELMONT_000_032", "hash": "C5CE7EDCA68C708C", "target": "Eu digo, se a Santa Sé não agir agora, os Ixal logo firmarão posição nesta área. Isso significa mais guerra. E, embora signifique mais trabalho para gente como eu, já tenho o suficiente." },
+    { "gameKey": "quest/009/GaiUsb709_00904#TEXT_GAIUSB709_00904_POP_MESSAGE_000", "hash": "9819014AFE9A01B1", "target": "Um bater de asas anuncia os Ixal!" }
   ]
 }

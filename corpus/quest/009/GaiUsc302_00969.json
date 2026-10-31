@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsc302_00969",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_00", "hash": "50E3FCC4786A90EC", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_01", "hash": "020B831ECCBDF7E7", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_02", "hash": "FFEAA55A9BB1371D", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_TODO_00", "hash": "1E2290F50E69F314", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_000", "hash": "3B1D2BE247C8691B", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_001", "hash": "6686379340B605F2", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_002", "hash": "080A2AD818FC1A19", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_010", "hash": "EC4CDF5A39CB6C72", "target": "" },
-    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_011", "hash": "89C5D95C1421ADC7", "target": "" }
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_00", "hash": "50E3FCC4786A90EC", "target": "Selaine precisa de alguém com experiência em aventuras para acompanhar seu perfume." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_01", "hash": "020B831ECCBDF7E7", "target": "Selaine tem uma lista de compras curta, mas exigente, e você parece fazer parte dela. Leve um borrifador de perfume de rosa-doce e sua própria pessoa a Jeulerand, para que ela possa riscar essa tarefa da lista." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SEQ_02", "hash": "FFEAA55A9BB1371D", "target": "Jeulerand recebe o perfume e olha para você com uma satisfação inexplicável. Esperemos que a definição dele de um bom aventureiro não se afaste demais do habitual." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_TODO_00", "hash": "1E2290F50E69F314", "target": "Entregar o perfume a Jeulerand no Pequeno Consolo" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_000", "hash": "3B1D2BE247C8691B", "target": "Um colega de jardinagem pediu que eu buscasse duas coisas em Gridania: perfume de rosa-doce e <if(gnum4,uma boa aventureira,um bom aventureiro)>." },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_001", "hash": "6686379340B605F2", "target": "O perfume eu já tenho. Embora tenha dado trabalho, nós botânicos costumamos ser mesquinhos com nossas rosas-doces. E quanto a quem vive de aventuras... Olá, <if(gnum4,linda,lindo)>!" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_SELAINE_000_002", "hash": "080A2AD818FC1A19", "target": "Bem, isso completa a lista de compras! <if(gnum4,Aventureira,Aventureiro)>, você se importaria de levar este perfume e sua própria pessoa a Jeulerand, no Pequeno Consolo?" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_010", "hash": "EC4CDF5A39CB6C72", "target": "Olá. Você é...? Ah, <if(gnum4,uma aventureira,um aventureiro)>! Diga, por acaso tem um pouco de perfume de rosa-doce?" },
+    { "gameKey": "quest/009/GaiUsc302_00969#TEXT_GAIUSC302_00969_JEULERAND_000_011", "hash": "89C5D95C1421ADC7", "target": "Selaine é boa mesmo! O perfume <italic(1)>e<italic(0)> <if(gnum4,a aventureira,o aventureiro)>. Essa mulher sabe como resolver as coisas!" }
   ]
 }

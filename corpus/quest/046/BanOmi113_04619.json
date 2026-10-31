@@ -2,17 +2,17 @@
   "conversation": "quest/046/BanOmi113_04619",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "" },
-    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "" }
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SEQ_00", "hash": "55B6E3D5069F4CE6", "target": "Stigma-4 tem uma solicitação urgente.<br><br>※Observe que a dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar nela com a mesma classe ou o mesmo job com que a aceitou." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_00", "hash": "91C4A9136481862A", "target": "Colocar o parched Grebuloff no saco mortuário umectante" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_TODO_01", "hash": "6E92E359B7FDA835", "target": "Entregar o saco mortuário umectante a Stigma-4" },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_000", "hash": "6792DF03088D44C2", "target": "Solicitando ajuda para uma questão urgente. Uma unidade Grebuloff se aventurou em outro astro na esperança de pescar peixes maiores. Desde então, seu transceptor parou de responder. É necessário iniciar uma operação de busca e resgate." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_001", "hash": "F0A19644D27E2E8E", "target": "As reservas normais de água são insuficientes para uma expedição tão prolongada. O indivíduo provavelmente sofre de dessecação avançada, resultando em perda das funções corporais." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_002", "hash": "A2A2A38349F38D56", "target": "Localize a unidade desaparecida e coloque-a neste saco mortuário umectante. Os níveis de umidade devem permanecer estáveis até sua volta, quando será possível prestar os devidos cuidados médicos." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_003", "hash": "0230AF32F62FCC6D", "target": "O indivíduo foi visto pela última vez perto da vila dos Ea. Para preservar sua vida, é imprescindível encontrar o Grebuloff rapidamente." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_GREBULOFF04619_000_010", "hash": "3C8E9CFE555CFD51", "target": "Á-Água... Água..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_SYSTEM_000_011", "hash": "1D247E73A117889A", "target": "O Grebuloff está caído de bruços, aparentemente morrendo de sede. Você prepara o saco mortuário..." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_021", "hash": "08012AF451C44035", "target": "Retorno confirmado. Apresente o saco mortuário para uma varredura médica preventiva." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_022", "hash": "FA68CA473F8D58A0", "target": "...Varredura concluída. Embora os níveis de hidratação estejam severamente reduzidos, os sinais vitais permanecem estáveis." },
+    { "gameKey": "quest/046/BanOmi113_04619#TEXT_BANOMI113_04619_STIGMA4_000_023", "hash": "2DAA95C0385A88E5", "target": "Para evitar incidentes semelhantes no futuro, todos os Grebuloff deverão carregar reservas adicionais de água ao partir em expedições. Os que descumprirem a norma serão considerados elementos hostis sujeitos à eliminação imediata.<br>Agradeço pela cooperação. Descanse bem." }
   ]
 }

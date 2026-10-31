@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz610_01878",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_00", "hash": "2CACD9F0DA01016D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_01", "hash": "E737960C7A66E7F9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_02", "hash": "E5C3575B04AA8E6D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_03", "hash": "A93AE5C58E3F3522", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_00", "hash": "7455A25E909A2A4D", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_01", "hash": "BBB550F81FCAF805", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_AIRPORTINVESTIGATOR01871_000_011", "hash": "1128608515A46DB2", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_000", "hash": "F96D2FD85996105A", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_001", "hash": "C771EF98BEF9FDE4", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_010", "hash": "027A552C73AF5A2B", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_BALOON_000_015", "hash": "96ECCB2BC97886C9", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_020", "hash": "B963AD194EFD132E", "target": "" },
-    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_021", "hash": "F43F551ABC928079", "target": "" }
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_00", "hash": "2CACD9F0DA01016D", "target": "Maenne não consegue se livrar da sensação de estar sendo observada." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_01", "hash": "E737960C7A66E7F9", "target": "Desde que chegou, Maenne sente um olhar hostil sobre seu grupo de reconhecimento e teme que os dragões estejam preparando uma emboscada. Ela pede que você investigue a área em busca de inimigos enquanto os cavaleiros dragão permanecem em seus postos." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_02", "hash": "E5C3575B04AA8E6D", "target": "Você encontra vários dragões à espreita para pegar os cavaleiros dragão de surpresa, mas os elimina rapidamente. Volte a Maenne para que ela possa planejar o próximo passo da missão de reconhecimento." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_SEQ_03", "hash": "A93AE5C58E3F3522", "target": "Maenne não parece surpresa por suas suspeitas terem se confirmado, mas se pergunta como os dragões souberam dos movimentos dos cavaleiros dragão. Esta missão de reconhecimento pode ser mais perigosa do que se pensava." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_00", "hash": "7455A25E909A2A4D", "target": "Investigar as áreas indicadas e abater qualquer inimigo que aparecer" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_TODO_01", "hash": "BBB550F81FCAF805", "target": "Apresentar-se a Maenne" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_AIRPORTINVESTIGATOR01871_000_011", "hash": "1128608515A46DB2", "target": "Pensar que Churning Mists guardava uma arquitetura tão deslumbrante... Mas o tempo e o abandono deixaram suas marcas." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_000", "hash": "F96D2FD85996105A", "target": "Estou inquieta desde que chegamos, como se algo estivesse nos observando..." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_001", "hash": "C771EF98BEF9FDE4", "target": "É melhor ficarmos aqui caso haja dragões à espreita, para não lhes revelar nossas suspeitas. <split(<string(gstr1)>, ,1)>, por favor, investigue a área em busca de sinais de dragões escondidos nas sombras." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_010", "hash": "027A552C73AF5A2B", "target": "Cair direto numa emboscada em nossa primeira incursão seria um começo terrível. Por favor, investigue a área antes de avançarmos." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_BALOON_000_015", "hash": "96ECCB2BC97886C9", "target": "Morra, mortal!" },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_020", "hash": "B963AD194EFD132E", "target": "...Como pensei, os dragões tentaram nos pegar de surpresa. Usamos a cobertura das nuvens para escapar da ira da Horda nos céus, mas parece que os dragões daqui souberam de nossa chegada de algum modo." },
+    { "gameKey": "quest/018/HeaVnz610_01878#TEXT_HEAVNZ610_01878_MAENNE_000_021", "hash": "F43F551ABC928079", "target": "Ainda assim, não podemos vacilar agora só porque talvez haja perigo à frente. Seguiremos com o reconhecimento como planejado. <split(<string(gstr1)>, ,1)>, por favor, prepare-se. Esta missão pode se mostrar mais difícil do que prevíamos." }
   ]
 }

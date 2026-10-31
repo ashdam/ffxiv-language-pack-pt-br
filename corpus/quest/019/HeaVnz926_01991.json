@@ -2,16 +2,16 @@
   "conversation": "quest/019/HeaVnz926_01991",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "" },
-    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "" }
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_00", "hash": "E41F348CCC2BF49A", "target": "As luzes de aviso do módulo administrativo alagano estão piscando." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_01", "hash": "64E1268F72FF513F", "target": "O módulo administrativo alagano informa que um grande número de dragões não identificados foi detectado nas proximidades. Essas criaturas representam um grave risco à fauna nativa. Ele pede que você reduza esse risco eliminando quatro delas." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_02", "hash": "50395DB3A4DEB8D6", "target": "Você mata as feras conforme as instruções do módulo administrativo. Relate seu sucesso a administrative node para que o sistema possa reavaliar a situação." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_SEQ_03", "hash": "FBEFCDA39B98F3E7", "target": "O módulo administrativo indica que, embora você tenha reduzido um pouco a população de dragões, a taxa de reprodução deles é alta demais para que isso seja uma solução viável a longo prazo. Toda a população de dragões precisa ser eliminada para evitar novos riscos ao ambiente." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_00", "hash": "4367890EB258FCCD", "target": "Eliminar Meracydian brobinyaks" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_TODO_01", "hash": "198C20FE283BF6A9", "target": "Relatar a administrative node" },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_000", "hash": "44F9CFDF54DCDE20", "target": "Aviso. Aviso. Os sensores indicam um grande número de dragões não identificados nas imediações. Essas criaturas representam uma ameaça significativa ao equilíbrio do ambiente local. Designação das criaturas: Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_001", "hash": "98731F897F546DFC", "target": "Todas as tropas do Império Alagano devem eliminar esta ameaça. Cada soldado deve exterminar quatro Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_010", "hash": "C4B851E59C18BA18", "target": "Os dragões não registrados nas proximidades representam uma ameaça extrema à biodiversidade do ambiente local. Destrua quatro Meracydian brobinyaks." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_020", "hash": "E457ED608192F698", "target": "\\<bip> \\<bip> Eliminação das formas de vida não registradas confirmada. Verificando a população de brobinyaks. \\<bip> \\<bip> Taxa de reprodução dos brobinyaks significativamente superior à previsão inicial. Desequilíbrio ambiental inevitável sem a aniquilação completa da população de dragões." },
+    { "gameKey": "quest/019/HeaVnz926_01991#TEXT_HEAVNZ926_01991_MANAGINGSYSTEM_000_021", "hash": "DAA3AFDCDF88C902", "target": "Formas de vida não registradas violam diretamente a Lei Imperial Alagana de Proteção Ambiental, o Estatuto de Preservação de Animais de Estimação e Domésticos, a Resolução de Controle Pecuário de Azys Lla, o Tratado Alagano de Reforma do Embelezamento Ecológico, a... \\<bzzzzzzz>" }
   ]
 }

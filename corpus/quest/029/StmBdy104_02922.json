@@ -2,19 +2,19 @@
   "conversation": "quest/029/StmBdy104_02922",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "" },
-    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "" }
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SEQ_00", "hash": "1205960C00094E7B", "target": "Seu cheiro corporal chamou a atenção de Sumitsubo." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_TODO_00", "hash": "089464F3192ECBC4", "target": "Falar com o kindly Kojin" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_000", "hash": "2A07039DC49E800C", "target": "Hmm...? \\<fareja> Você cheira a peixe. Isso quer dizer que é <if(gnum4,uma pescadora,um pescador)> da superfície?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_001", "hash": "5E47DED3582334AD", "target": "Se gosta de caçar peixes lá em cima, tenho certeza de que também vai gostar de caçá-los aqui embaixo." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_002", "hash": "F2C340E0C4097FF5", "target": "Mas não dá para usar varas e molinetes debaixo d'água. Não, você vai precisar de um arpão para atingir sua presa depressa e em silêncio, como os Kojin. Acho que chamaria isso de... pesca com arpão?" },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_003", "hash": "7D901634469146C3", "target": "Gostaria de uma aula de pesca com arpão? Se encontrar algum dos meus irmãos Azuis lá fora, tenho certeza de que terá prazer em ensinar." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SUMITSUBO_000_010", "hash": "63FBC6ED0DE1EE35", "target": "Com seu cheiro de peixe, você vai se dar tão bem com a pesca com arpão quanto um Kojin na água. Tenho certeza de que meus irmãos Azuis terão o maior prazer em ensinar." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_020", "hash": "212670645659B6EE", "target": "Você quer caçar peixes com um arpão? Ora, é tão fácil quanto respirar debaixo d'água. E, como você não está <if(gnum4,azulada,azulado)> por falta de ar, sei que vai dominar essa habilidade num instante." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_021", "hash": "27AA8E88FE10013E", "target": "Primeiro, você precisa procurar onde os peixes se reúnem. Quando encontrar um cardume adequado, firme o arpão e ataque com uma estocada rápida e fluida." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_022", "hash": "FA050E0488E0C01D", "target": "Essa é, numa conchinha, a arte da pesca com arpão. Claro que essas explicações não servem de nada se não tiver um arpão para praticar. Aqui, pegue um dos meus." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_KOUJIN02922_000_023", "hash": "B8AF3D40AB50E9EA", "target": "Se olhar ao redor, deve encontrar boas presas por perto. Até mais, <if(gnum4,amiga,amigo)>, e boa caçada." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_050", "hash": "40EC243729A13BB5", "target": "Agora você pode obter peixes por meio da pesca com arpão. Para isso, primeiro equipe um spearfishing gig como ferramenta secundária." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_100_050", "hash": "E9CBE41E68CBD671", "target": "Ao usar a ação Fathom, você poderá localizar teeming waters enquanto explora o oceano." },
+    { "gameKey": "quest/029/StmBdy104_02922#TEXT_STMBDY104_02922_SYSTEM_000_051", "hash": "03BF2B489B654215", "target": "Com seu spearfishing gig em mãos, você pode interagir com essas teeming waters para pegar peixes." }
   ]
 }

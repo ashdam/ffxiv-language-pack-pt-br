@@ -2,16 +2,16 @@
   "conversation": "quest/045/BanArk121_04571",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "" },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "" }
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "Maru mantém distância de uma caixa próxima.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usar os demolidores de Daemir no monte de argilito em The Shroud of the Samgha" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "Obter o pedaço de argilito do Ksiroda" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "Entregar o pedaço de argilito do Ksiroda a Maru" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "Queria pedir isso faz tempo, <split(<string(gstr1)>, ,1)>, mas, pra falar a verdade, tava nervoso. Achei que podia ser perigoso demais..." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_001", "hash": "BE1454D23D8D3134", "target": "Mas Kancana contou que suas aventuras já jogaram você nas garras da morte e trouxeram de volta. Acho que lidar com uns explosivos é brincadeira de criança perto disso... né?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_002", "hash": "FA1FFB98931C8586", "target": "...Bom, você continua aqui, então vou entender que concordou em silêncio. Precisamos quebrar o argilito perto do Ksiroda e trazer um pedaço. Os alquimistas vivem dizendo que esse é o melhor jeito, mas... cuidado com os dedos, tá?" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_010", "hash": "8271F8B942C143FF", "target": "Aí está você, ainda com todos os dedos das mãos e dos pés! Acho que os alquimistas tinham razão mesmo." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_011", "hash": "30D4209847CB137A", "target": "Ótimo, isso serve. Misturar argilito com água forma uma pasta que protege a pele do sol e do vento melhor que quase qualquer coisa." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_012", "hash": "F0043E75D55FEEE9", "target": "Pode não parecer, mas hipopótamos têm pele delicada. Se não mantiver bem úmida, racha como lama num dia quente. Dessa vez ficamos mesmo devendo a você." },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_013", "hash": "C45380179971DBB6", "target": "Claro, talvez desse pra quebrar a pedra com martelo e cinzel... mas agora também não preciso me preocupar com alguém acendendo aqueles demolidores sem querer e mandando todo mundo pra outra vida." }
   ]
 }

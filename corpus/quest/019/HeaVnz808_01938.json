@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz808_01938",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_00", "hash": "13A07E2523262AE5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_01", "hash": "D0CC17964AD841BF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_02", "hash": "C7E19F2D45162FB8", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_03", "hash": "D090671AA0444F50", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_00", "hash": "C25AF6AC61E663D5", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_01", "hash": "E893C70A1750507A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_000", "hash": "B6D0853537ACBB48", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_001", "hash": "0ABB686A401049E3", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_010", "hash": "B56749C14ED96744", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_020", "hash": "662621FD914F7530", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_021", "hash": "39580CEDFAF52060", "target": "" },
-    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_022", "hash": "42B69722B82129F8", "target": "" }
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_00", "hash": "13A07E2523262AE5", "target": "Holepix está pronto para soltar os cães da guerra." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_01", "hash": "D0CC17964AD841BF", "target": "Holepix acredita que seu povo só terá paz de verdade quando Idyllshire mostrar sua força aos Illuminati. Para isso, pede que você vá a Arkhitekton e mate quaisquer seis goblins dos Illuminati, sejam brandishers, tinkerers, sharpshooters ou gliders." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_02", "hash": "C7E19F2D45162FB8", "target": "Você mata seis membros dos Illuminati. Volte a Holepix e veja se isso sacia sua sede de sangue." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_SEQ_03", "hash": "D090671AA0444F50", "target": "Holepix se alegra com a demonstração de superioridade que você deu aos Illuminati. Porém, teme que os inimigos de Idyllshire voltem a se reunir e ataquem das sombras. Por isso, promete reforçar a guarda para proteger os seus." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_00", "hash": "C25AF6AC61E663D5", "target": "Matar Illuminati perto de Arkhitekton" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_TODO_01", "hash": "E893C70A1750507A", "target": "Falar com Holepix" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_000", "hash": "B6D0853537ACBB48", "target": "Pshhh... Shkohhh...<br>Goblinparentes de Holepix falar de paz. Mas não poder ter paz sem guerra, não enquanto Illuminati tentar roubar território de Idyllshire!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_001", "hash": "0ABB686A401049E3", "target": "Agora não ser hora de guardar ferramentabriga! Ser hora de levantar! Altogente, arrancar cabeça de seis inimigos odiados para Holepix! Mostrar para Illuminati que Idyllshire não ter medo deles nem de Arkhitekton!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_010", "hash": "B56749C14ED96744", "target": "Morte aos Illuminati!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_020", "hash": "662621FD914F7530", "target": "Shkohhh... Ha! Altogente esmagar caixacucas de Illuminati como ovos! Idyllshire vencer hoje!" },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_021", "hash": "39580CEDFAF52060", "target": "Mas guerra não acabar. Illuminati ainda ter olhoscobiça para terras de Idyllshire. Ainda tomar saberes com crueldade, guardar com ferramentabrigas." },
+    { "gameKey": "quest/019/HeaVnz808_01938#TEXT_HEAVNZ808_01938_HOLEPIX_000_022", "hash": "42B69722B82129F8", "target": "Illuminati atacar com planos astutos e tramas secretas. Holepix dobrar, não, <italic(1)>triplicar<italic(0)> guardas! Idyllshire não perder guerra! Nunca!" }
   ]
 }

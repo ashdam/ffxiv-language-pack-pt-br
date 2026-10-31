@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz826_02854",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_SEQ_00", "hash": "0096F359E487517D", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_00", "hash": "9DE941E8C3A0F197", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_01", "hash": "94DF0783A45AD419", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_000", "hash": "B26259FA4B4BEA99", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_001", "hash": "4930E6EACAF8C87E", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_002", "hash": "0E05E1B20E34CD85", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_003", "hash": "84153B41409E7718", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_010", "hash": "63F93C4BE7D602D9", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_020", "hash": "2202C2D5F7D8A505", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_021", "hash": "3865961AC7DDBD1B", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_022", "hash": "6FAF907293ADBA95", "target": "" },
-    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_023", "hash": "062F0957331A6839", "target": "" }
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_SEQ_00", "hash": "0096F359E487517D", "target": "Godafre tem um favor dos grandes para pedir." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_00", "hash": "9DE941E8C3A0F197", "target": "Obter peles de jhammels" },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_TODO_01", "hash": "94DF0783A45AD419", "target": "Entregar as peles de jhammel a Godafre" },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_000", "hash": "B26259FA4B4BEA99", "target": "Ah, <if(gnum4,minha amiga,meu amigo)> de boca fechada! Buscar aquele tabaco me ajudou muito, mas tenho outro favor a pedir, se você topar..." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_001", "hash": "4930E6EACAF8C87E", "target": "Sabe o que é um jhammel, não sabe? Aqueles bichões que comem folhas? De pescoço comprido? Dê uma olhada ao redor, e provavelmente vai ver um agora mesmo." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_002", "hash": "0E05E1B20E34CD85", "target": "Parecem bem mansos, é, mas um coice daquelas pernas enormes manda a maioria das pessoas comuns direto para o além. E eu me considero bem comum." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_003", "hash": "84153B41409E7718", "target": "Você, por outro lado, parece do tipo que aguenta um ou dois coices na cara sem se abalar. Acha que pode derrubar algumas daquelas feras enormes e me trazer três peles delas...?" },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_010", "hash": "63F93C4BE7D602D9", "target": "Vá para o oeste, e logo encontrará o pasto dos jhammels. Três daquelas peles enormes devem bastar para eu começar..." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_020", "hash": "2202C2D5F7D8A505", "target": "Então não acabaram pisoteando você? Vamos ver o que trouxe..." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_021", "hash": "3865961AC7DDBD1B", "target": "Ah, estas peles são de primeira. Depois de limpá-las e curti-las, posso transformá-las em armaduras para as tropas da Resistência." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_022", "hash": "6FAF907293ADBA95", "target": "Quando eu não estava ocupado carregando coisas, os garleanos me mandavam para a fábrica e me faziam costurar aquelas fibras artificiais para fazer uniformes. Agora, pelo menos, posso usar essas habilidades em favor dos meus compatriotas." },
+    { "gameKey": "quest/028/StmBdz826_02854#TEXT_STMBDZ826_02854_GODAFRE_000_023", "hash": "062F0957331A6839", "target": "Graças a você, estou quase pronto para me sustentar por conta própria. Você ainda vai ficar pela cidade mais um tempinho, não vai...?" }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/033/LucKza007_03349",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_SEQ_00", "hash": "99E62D8DD5532947", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_00", "hash": "EDA455F47D323EB3", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_100_000", "hash": "6C2DBB4FEEDD4C66", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_000", "hash": "C26076A8A3CC59C1", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_001", "hash": "C42A7FD76852597F", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_002", "hash": "3CD2C79F1E2D175D", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_003", "hash": "C5D2A3353E571545", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_010", "hash": "C32B759BDE290549", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_020", "hash": "EA251E13E94D2683", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_021", "hash": "271296A20A173469", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_022", "hash": "C3B754F287A9E1F0", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_023", "hash": "46A390E671630D24", "target": "" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_024", "hash": "4F3E43272093E836", "target": "" }
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_SEQ_00", "hash": "99E62D8DD5532947", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O forlorn fisherman parece perdido e arrasado." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_00", "hash": "EDA455F47D323EB3", "target": "Procurar pertences espalhados pela Praia das Conchas Quebradas" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "Entregar os pertences ao forlorn fisherman" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_100_000", "hash": "6C2DBB4FEEDD4C66", "target": "\\<suspiro>" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_000", "hash": "C26076A8A3CC59C1", "target": "Ah, o suspiro não foi por sua causa, eu só estava... pensando num amigo." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_001", "hash": "C42A7FD76852597F", "target": "O maldito idiota se cansou da vida dura, sabe, e tentou ir até o continente no nosso barquinho de pesca. Disse que voltaria para me buscar depois de fazer fortuna." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_002", "hash": "3CD2C79F1E2D175D", "target": "...O corpo dele apareceu na praia ontem. Fico pensando se seus últimos pensamentos foram para o lar ou para as margens da terra aonde nunca chegou... \\<fungada>" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_003", "hash": "C5D2A3353E571545", "target": "Na verdade, <if(gnum4,senhorita,senhor)>, se não tem nada melhor para fazer do que ouvir meu choro, agradeceria uma ajuda para recolher os pertences dele. Estão espalhados pela areia, mas não sei se vou encontrar tudo antes que as ondas os levem para o mar." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_010", "hash": "C32B759BDE290549", "target": "Os pertences do meu amigo apareceram na praia ali embaixo. Por favor, me ajude a recolher tudo antes que se percam nas ondas." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_020", "hash": "EA251E13E94D2683", "target": "Encontrou alguma coisa?" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_021", "hash": "271296A20A173469", "target": "Sim, são mesmo as coisas dele." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_022", "hash": "C3B754F287A9E1F0", "target": "Nós mesmos fizemos esta vara, eu e ele... Perdi a conta de quantas vezes escapamos para pescar em vez de ficar trabalhando na terra." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_023", "hash": "46A390E671630D24", "target": "Então ele devia saber que não era boa ideia tentar cruzar aquelas águas agitadas naquele barquinho. Eu avisei, pela Luz maldita, quantas vezes avisei, e então a Divisa o engoliu e o cuspiu de volta. Maldito idiota..." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_024", "hash": "4F3E43272093E836", "target": "Acho melhor enterrar essas coisas com ele e depois voltar ao trabalho. Obrigado pela bondade, <if(gnum4,forasteira,forasteiro)>." }
   ]
 }

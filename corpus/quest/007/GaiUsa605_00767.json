@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa605_00767",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "Wlfric, dos Lamentadores da Mata, procura alguém que se aventure a encontrar caçadores ilegais escondidos no Moinho da Pedreira." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "Uma caçadora ilegal capturada por Wlfric escapou e está escondida em algum lugar do Moinho da Pedreira. Encontre e prenda a fugitiva." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "Você encontrou a caçadora ilegal, que confessa ter recorrido ao crime apenas para alimentar a família. Seu remorso pelos delitos toca seu coração, e você decide fazer vista grossa. Volte a Wlfric e conte a triste história." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "Wlfric, dos Lamentadores da Mata, fica furioso porque a caçadora ilegal escapou da justiça e teme as consequências dessa grave afronta à vontade dos elementais." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "Encontrar a caçadora ilegal escondida no Moinho da Pedreira" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "Apresentar-se a Wlfric" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "Maldita criminosa! Você não vai escapar da justiça dos Lamentadores da Mata!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "Você! Uma daquelas caçadoras ilegais repugnantes fugiu para o vilarejo e está escondida debaixo do nosso nariz neste exato momento. Você vai se juntar às buscas agora mesmo, é uma ordem!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "N-Não me machuque, eu imploro!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "Juro pela minha vida, nunca quis fazer mal nenhum! Mas com meu irmão doente e passando fome... Quando prometeram dinheiro pro remédio, o que mais eu podia fazer?" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "Dou minha palavra. De hoje em diante, ou ganho meu dinheiro com trabalho honesto ou não ganho nada. Vai ter piedade de mim só desta vez, não vai? Que os Doze abençoem sua alma bondosa!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "A caçadora ilegal <italic(1)>escapou<italic(0)>!? Imperdoável! Eu devia saber que não podia confiar uma tarefa dessas a quem vive de aventuras. Quem desafia a vontade dos elementais deve receber justiça, ou todos nós pagaremos o preço. É bom você não esquecer disso." }
   ]
 }

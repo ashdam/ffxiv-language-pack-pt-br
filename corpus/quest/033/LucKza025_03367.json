@@ -2,17 +2,17 @@
   "conversation": "quest/033/LucKza025_03367",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_001", "hash": "FA5EC75F82E6FD58", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_002", "hash": "F913CF8E5663E408", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_003", "hash": "3643C27584312CA9", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_010", "hash": "EABA1AB7D3EC5924", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_020", "hash": "D98573AA21710655", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_021", "hash": "EE27F10622FA2B82", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_022", "hash": "761F4F0983EAD073", "target": "" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_023", "hash": "1D4F7F2E5B10A082", "target": "" }
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lamon tem um trabalho a fazer e espera que você o faça por ele." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "Usar o sifão de latão na suculenta gigante" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "Entregar as secreções perfumadas da suculenta a Lamon" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "Por acaso está procurando trabalho?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_001", "hash": "FA5EC75F82E6FD58", "target": "Preciso extrair água das plantas com estes sifões, mas uma ajuda cairia bem." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_002", "hash": "F913CF8E5663E408", "target": "Como você provavelmente notou, a região inteira está infestada de criaturas hostis de todo tipo. Isso significa que não é trabalho para quem tem medo." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_003", "hash": "3643C27584312CA9", "target": "Eu me viraria bem se extrair a água não demorasse tanto. Enquanto espero, sou uma presa fácil. Se puder ir no meu lugar, vou garantir uma recompensa adequada." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_010", "hash": "EABA1AB7D3EC5924", "target": "É preciso ter olhos na nuca para fazer esse trabalho. Mas você parece saber se cuidar." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_020", "hash": "D98573AA21710655", "target": "Já terminou?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_021", "hash": "EE27F10622FA2B82", "target": "Impressionante! Tem certeza de que nunca fez isso antes?" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_022", "hash": "761F4F0983EAD073", "target": "Agora, talvez se pergunte por que temos todo esse trabalho para extrair água das plantas. Afinal, há formas mais fáceis de conseguir água. É que essa tem um certo dulçor que é útil no preparo de remédios." },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_023", "hash": "1D4F7F2E5B10A082", "target": "Eles costumam ser bem amargos, então isso suaviza o gosto. Não que torne os tratamentos mais eficazes, mas os pacientes certamente apreciam. Você tem nossa gratidão." }
   ]
 }

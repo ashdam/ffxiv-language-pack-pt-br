@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa608_00770",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "" },
-    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "" }
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_00", "hash": "9B78DF13A4EA57A9", "target": "Faucertaux pede sua ajuda para retomar uma vila de um bando de foras da lei." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_01", "hash": "A635276CD1FD923B", "target": "Um bando notório de foras da lei, conhecido como Vespas de Barriga Vermelha, tomou uma vila abandonada e a transformou num antro de vilania. Mate um Redbelly lookout, um sharpeye e um larcener." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_02", "hash": "6E5C24B12A55DFC2", "target": "Você eliminou três das Vespas de Barriga Vermelha. Informe seu sucesso a Faucertaux." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_SEQ_03", "hash": "29753C8A907851C4", "target": "Sua vitória contra os bandidos deu a Faucertaux a esperança de que logo os Hyur e Elezen possam voltar a viver em paz na vila." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_00", "hash": "25808BD74C2D5433", "target": "Matar um Redbelly lookout" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_01", "hash": "99A5AD5B6A193D6C", "target": "Matar um Redbelly sharpeye" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_02", "hash": "52E3377145C0D538", "target": "Matar um Redbelly larcener" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_TODO_03", "hash": "546B74E0A15FC16B", "target": "Informar Faucertaux" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_000", "hash": "1ECBA20DCD90E7D2", "target": "Talvez tenha ouvido as histórias, mas o lugar que chamam de Vespeiro dos Barrigas Vermelhas nem sempre foi um ninho miserável de escória e vilania." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_001", "hash": "6F58FE357B7A591C", "target": "Antigamente, ali ficava uma aldeia chamada Boughbury, onde Hyur e Elezen viviam em paz. Isso foi antes da Calamidade virar tudo num inferno. Aqueles filhos da puta dos Barrigas Vermelhas ocuparam o lugar quando os moradores fugiram e, desde então, fazem o que querem por lá." },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_002", "hash": "01D1174CDF34EFFF", "target": "Esperamos retomar a vila, mas os Barrigas Vermelhas não são bandidos comuns. Eles preveem cada movimento nosso a malms de distância. É aí que você entra: que tal se meter no ninho das Vespas e arrancar o ferrão daqueles desgraçados?" },
+    { "gameKey": "quest/007/GaiUsa608_00770#TEXT_GAIUSA608_00770_FAUCERTAUX_000_010", "hash": "4129CD0153E8ABB1", "target": "Você lutou bem por nós hoje. Quando retomarmos Boughbury para nosso povo, poderá se orgulhar de saber que deu um golpe decisivo." }
   ]
 }

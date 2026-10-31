@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzb106_05046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_00", "hash": "3ABFD67A88C04438", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_01", "hash": "248FE6AA0641CE9F", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_000", "hash": "21AAEE6125CE794B", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_001", "hash": "E8C6C006EF0DB918", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_002", "hash": "58946511EC8E1BA9", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_005", "hash": "674DD290AFE5B978", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_010", "hash": "A2E2BF479B2A074C", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_011", "hash": "71BD031D71E3157A", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_012", "hash": "8F3A42F08BD6241E", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_013", "hash": "D469DF0D59711FF3", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_014", "hash": "3BDB2B12866AAB3C", "target": "" },
-    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_015", "hash": "95CDF71671B44950", "target": "" }
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_SEQ_00", "hash": "87706610C0C7D3A1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zarwarkur espera que você tenha fome de conhecimento." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_00", "hash": "3ABFD67A88C04438", "target": "Obter pedaços de carne de tulidile" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_TODO_01", "hash": "248FE6AA0641CE9F", "target": "Entregar a carne de tulidile a Zarwarkur" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_000", "hash": "21AAEE6125CE794B", "target": "Saudações, viajante! Pelo seu jeito, suponho que saiba caçar, não é? Teria interesse em aprender como preparamos nossa tradicional carne-seca?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_001", "hash": "E8C6C006EF0DB918", "target": "Em troca, só peço que traga o ingrediente principal, pois meu estoque está acabando." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_002", "hash": "58946511EC8E1BA9", "target": "Para isso, precisaremos de carne de tulidile. Vá ao norte do nosso povoado e procure um exemplar que valha a pena salgar!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_005", "hash": "674DD290AFE5B978", "target": "Você deve encontrar tulidiles em seu habitat natural, logo ao norte daqui. Boa sorte!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_010", "hash": "A2E2BF479B2A074C", "target": "Como vai a caçada?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_011", "hash": "71BD031D71E3157A", "target": "Aaah, aí está um belo pedaço! Quase não há gordura para tirar. Basta uma camada de sal e estaremos a caminho de uma carne-seca de dar água na boca!" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_012", "hash": "8F3A42F08BD6241E", "target": "O segredo é deixar as tiras de carne num lugar bem iluminado, com ar frio e seco. Ainda bem que estamos no alto de uma montanha, hein?" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_013", "hash": "D469DF0D59711FF3", "target": "O próprio Servidor da Aurora provou minha carne-seca há muitos anos. A Cabeça da Determinação gostou tanto que devorou tudo num instante! \\<risada> Ainda me lembro da expressão de repulsa da Cabeça da Razão. “Precisa engolir sem mastigar!?”" },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_014", "hash": "3BDB2B12866AAB3C", "target": "Ah, mas não é hora de relembrar os velhos tempos. Há trabalho a fazer, e esta carne de tulidile vai render uma carne-seca deliciosa, com a consistência perfeita para mastigar." },
+    { "gameKey": "quest/050/KinGzb106_05046#TEXT_KINGZB106_05046_ZARWARKUR_000_015", "hash": "95CDF71671B44950", "target": "Enquanto você caçava, preparei um petisco para mais tarde. Considere seu pagamento por reabastecer meu estoque!" }
   ]
 }

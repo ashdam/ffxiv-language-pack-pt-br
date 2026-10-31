@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst026_00170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_00", "hash": "7809EE84B731B8EF", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_03", "hash": "407B3F003C76DBDB", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_00", "hash": "1C0FCE5F0AC92085", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_01", "hash": "5FC44552C35AF6D0", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_1", "hash": "0149ADA1262F93F4", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_2", "hash": "446C11BA013CA5A4", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_3", "hash": "66E8945A768B9575", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_10", "hash": "301D9EFD0B328B77", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_11", "hash": "7296F41D6450387E", "target": "" },
-    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_12", "hash": "4F22CC7767FE3C55", "target": "" }
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_00", "hash": "7809EE84B731B8EF", "target": "Bodwine procura alguém para ajudar com um problema de pragas." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_01", "hash": "EF273D390E08C1C6", "target": "Os mitelings perto dos Estábulos de Treespeak estão assustando os jovens chocobos e atrapalhando seu treinamento. Abata seis dessas criaturas e tranquilize as futuras montarias." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_02", "hash": "933C1C0E633EAB23", "target": "Você livrou a Mata dos Doze de seis mitelings perturbadores. Volte aos Estábulos de Treespeak e conte a Bodwine seu sucesso." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_SEQ_03", "hash": "407B3F003C76DBDB", "target": "Graças aos seus valentes esforços, os treinadores podem retomar o trabalho com os jovens chocobos. Talvez um deles se torne a montaria fiel de <if(gnum4,uma aventureira famosa,um aventureiro famoso)> algum dia..." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_00", "hash": "1C0FCE5F0AC92085", "target": "Abater mitelings" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_TODO_01", "hash": "5FC44552C35AF6D0", "target": "Apresentar-se a Bodwine" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_1", "hash": "0149ADA1262F93F4", "target": "Se quer ser útil, por que não abate alguns mitelings pra nós?" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_2", "hash": "446C11BA013CA5A4", "target": "Treinamos muitos chocobos aqui, sabe? E os jovens ficam alvoroçados quando sentem o cheiro de um miteling. Alguns chegam a derrubar os malditos cavaleiros!" },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_3", "hash": "66E8945A768B9575", "target": "Vou te dizer, não é fácil treinar uma chocobo quando ela joga você de cabeça no chão toda vez que vê uma sombra. Não temos avançado nada com as aves ultimamente. Se pudesse nos livrar de alguns mitelings, ficaríamos devendo." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_10", "hash": "301D9EFD0B328B77", "target": "Obrigado pela ajuda! Finalmente podemos voltar a treinar as aves jovens." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_11", "hash": "7296F41D6450387E", "target": "Chocobos são assustadiços por natureza, sabe? E treiná-los exige muita paciência. O fato de soldados e aventureiros costumarem cavalgar <italic(1)>em direção<italic(0)> ao perigo, em vez de fugir dele, não facilita a tarefa..." },
+    { "gameKey": "quest/001/SubFst026_00170#TEXT_SUBFST026_00170_BODWINE_000_12", "hash": "4F22CC7767FE3C55", "target": "Enfim, agradecemos pela ajuda. Aqui está uma pequena demonstração de nossa gratidão." }
   ]
 }

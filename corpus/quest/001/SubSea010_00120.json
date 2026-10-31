@@ -2,18 +2,18 @@
   "conversation": "quest/001/SubSea010_00120",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "" },
-    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "" }
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "N'tanmo precisa de ajuda para manter a cidade iluminada e alegre." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "Sem poder deixar seu posto, N'tanmo encarregou você de inspecionar os lampiões da cidade. Reabasteça-os com óleo para lampiões antes que sequem." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "Você reabasteceu todos os guttering streetlamps. Fale com Sisipu na Fishermen's Guild para conseguir mais óleo para lampiões." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "Você descobre que N'tanmo tem o hábito de empurrar suas tarefas para aventureiros iniciantes, para grande desaprovação de Sisipu. Mas sente que há mais por trás das frustrações de Sisipu do que parece." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "Reabastecer os guttering streetlamps com óleo para lampiões" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "Falar com Sisipu na Fishermen's Guild" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "Parece que você já caiu nas graças dos Jaquetas Amarelas. É mesmo um exemplo para todos os aventureiros!<br>...Hum, acha que poderia me fazer um favor?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "É que eu deveria sair para encher todos os lampiões de óleo, para que fiquem acesos a noite inteira. Mas, com essa história dos desaparecidos, não posso simplesmente deixar meu posto." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "Se pudesse cuidar dos lampiões por mim, eu ficaria <italic(1)>eternamente<italic(0)> grata." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "Ah, e, quando terminar, por favor, busque mais óleo com Sisipu na Fishermen's Guild. Temos pouco aqui, e ela cuida dos estoques." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "...Você está fazendo <italic(1)>o quê<italic(0)>!? \\<suspiro> O que vou fazer com aquela menina?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "Ela tem a cara de pau de me pedir trabalho, tagarelando sobre suas economias, só para empurrá-lo ao primeiro aventureiro que aparece!" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "Ser jovem e bonita <italic(1)>não<italic(0)> dá o direito de fugir das responsabilidades! Sim, ela vai receber o óleo... e ouvir umas boas verdades! " }
   ]
 }

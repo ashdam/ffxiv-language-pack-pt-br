@@ -2,18 +2,18 @@
   "conversation": "quest/013/GaiUsd016_01309",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "" },
-    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "" }
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_00", "hash": "4E3B4F429FE1216B", "target": "Laraina quer abastecer as prateleiras com mais instrumentos rituais." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_01", "hash": "AE50F8B8D658DAB1", "target": "Laraina ofereceu mais três fichas em troca de um conjunto completo de focos rituais. Derrote os primordiais Garuda, Titan e Ifrit para obter os três troféus macabros pedidos pela responsável pelas aquisições.<br><br>※The Howling Eye (Extreme), The Navel (Extreme) e The Bowl of Embers (Extreme) podem ser acessados pelo Duty Finder." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_02", "hash": "3A26C5EAE4F4382F", "target": "Você reuniu mais uma vez um conjunto completo de instrumentos rituais de invocação de primordiais. Entregue os troféus a Laraina no Pedágio do Espectro, em Mor Dhona." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_SEQ_03", "hash": "31A8B66E4D546F28", "target": "Você obtém mais três fichas de Laraina em troca do conjunto de focos rituais. Embora queira mais fichas para gastar na loja de Rowena, precisa ter um pouco de paciência e esperar que os homens-fera iniciem seus ritos de invocação novamente." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_00", "hash": "BE7A4EA51251A8F3", "target": "Obter um foco ritual do Vórtice em Howling Eye (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_01", "hash": "09C7847572CD6592", "target": "Obter um foco ritual dos Rochedos em Navel (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_02", "hash": "436F50DD6154CA14", "target": "Obter um foco ritual do Inferno em Bowl of Embers (Extreme)" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_TODO_03", "hash": "8C04101295C44505", "target": "Entregar os focos rituais a Laraina no Pedágio do Espectro" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_000", "hash": "19EBE6C1C9F45466", "target": "Ah, bem típico de aventureiro, sem resistir ao encanto das nossas mercadorias exclusivas! Posso presumir que quer ganhar mais Rowena's tokens?" },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_001", "hash": "C3889FF1693ADF5D", "target": "Por acaso, estamos atolados de encomendas de ricos idiotas <italic(1)>desesperados<italic(0)> para decorar suas mansões com instrumentos macabros de invocação de primordiais. E você, <if(gnum4,minha amiga,meu amigo)>, é <if(gnum4,nossa fornecedora,nosso fornecedor)> de maior confiança. Traga conjuntos completos de três e podemos fazer negócio." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_010", "hash": "E6B38E9A9BCEBBD5", "target": "Estamos atolados de encomendas de mais daqueles instrumentos de invocação de primordiais. Traga conjuntos completos de três e podemos fazer negócio." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_011", "hash": "A92B31F887FC3C22", "target": "Não tão rápido, <if(gnum4,senhorita,senhor)>. Deixe eu só... Sim, o arrepio na minha espinha confirma que são autênticos. Suas fichas, como prometido." },
+    { "gameKey": "quest/013/GaiUsd016_01309#TEXT_GAIUSD016_01309_LARAINA_000_012", "hash": "C7C4BE2F8C87E109", "target": "...Hmpf. Rowena ainda vai se arrepender de ter começado a me tratar como serviçal! Agora posso conquistar seus clientes mais ricos, e que os Doze me levem se eu não roubar todos no dia em que abrir minha própria loja!" }
   ]
 }

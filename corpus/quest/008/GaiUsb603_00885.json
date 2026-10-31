@@ -2,17 +2,17 @@
   "conversation": "quest/008/GaiUsb603_00885",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "" },
-    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "" }
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_00", "hash": "DD9E3E10C18A2760", "target": "Idristan procura alguém para realizar uma tarefa desagradável." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_01", "hash": "DE1D1330F3B3D357", "target": "Você descobre que chacais vorazes foram avistados perto da Torre de Florentel. Vindos de Coerthas, coberta de neve, eles provavelmente representam um perigo para os viajantes. Idristan deu a você um pedaço de carne fétida de dodô para atrair as feras. Encontre um lugar adequado para colocar a carne e mate os chacais que aparecerem." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_02", "hash": "4037150907F055F2", "target": "Você matou os chacais e deixou a área um pouco mais segura. Volte a Idristan e informe que a tarefa foi cumprida." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_SEQ_03", "hash": "FD0E70DFF3EAF20F", "target": "Idristan fica satisfeito com o resultado, mas continua frustrado com a situação. A Calamidade deixou Coerthas quase inabitável e, por isso, os animais da região ficaram mais perigosos. O soldado da Aljava avisa que, se você pretende seguir para o noroeste, deve se preparar." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_00", "hash": "C038C0D81DA941D5", "target": "Usar a carne de dodô como isca e matar chacais" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_TODO_01", "hash": "FABC4CF4949FE1DE", "target": "Informar Idristan" },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_000", "hash": "CCBE69F3AF44BF38", "target": "O frio que veio depois da Calamidade deixou Coerthas quase inóspita. Muitas das criaturas que viviam lá foram obrigadas a migrar para não morrer de fome." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_001", "hash": "A8AB665E5ABBF41B", "target": "Algumas chegam à nossa porta sem pensar em outra coisa além de comer. As piores são os chacais, avistados não muito longe desta torre." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_002", "hash": "FAE9DBFB4027AFA6", "target": "<if(gnum4,Aventureira,Aventureiro)>, precisamos da sua habilidade para eliminar essas feras antes que devorem algum viajante indefeso. Esta carne de dodô f-fé<italic(1)>urrgh<italic(0)>... perdão... <italic(1)>fétida<italic(0)> servirá muito bem de isca." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_020", "hash": "AC8EA436FCAA01BA", "target": "Agradecemos muito. Esse tipo de situação não ocorria antes de a Calamidade deixar Coerthas quase inabitável para os animais da região." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_IDRISTAN_000_021", "hash": "CDE4B39C773F6B23", "target": "Com a água aprisionada no gelo e a vegetação enterrada sob a neve, as feras maiores ficaram verdadeiramente infernais na luta pela sobrevivência. Tome cuidado se seguir para o norte, pois estará indo para uma batalha." },
+    { "gameKey": "quest/008/GaiUsb603_00885#TEXT_GAIUSB603_00885_POP_MESSAGE_000", "hash": "826DA87D5EE6DDAB", "target": "Dois chacais famintos se aproximam!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubSea015_00663",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "" },
-    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "" }
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya tem uma informação que, ao contrário da última vez, certamente será de seu interesse." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Segundo Niniya, os sentinelas posicionados em Eyes, na Lower La Noscea, costumam recorrer a aventureiros quando têm trabalho demais. Saia da cidade e fale com Ancreta para saber mais." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "Mais uma vez, parece que Niniya estava pregando uma peça em você, pois Ancreta é proibida de lhe oferecer trabalho oficialmente. Mas, se você aceitar ajudar de maneira extraoficial, a Jaqueta Amarela talvez tenha algo para você..." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "Falar com Ancreta em Eyes" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "Ah, você voltou. Espero que não guarde rancor de mim pelo engano de antes. Veja bem, acredito que a lição mais importante para <if(gnum4,uma aventureira inexperiente,um aventureiro inexperiente)> é sempre questionar os motivos de todos que encontra." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "Se causei ofensa, permita que compense com um conselho. Diga, já visitou Eyes, fora do Portão da Tempestade, depois da Madman Bridge?" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "Os sentinelas posicionados lá vigiam a estrada e, quando surgem problemas, às vezes recorrem a ajuda externa." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "Se deseja fazer seu nome como <if(gnum4,uma aventureira,um aventureiro)> de confiança, deveria falar com Ancreta em Eyes e oferecer ajuda." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "Disse que alguém mandou você vir procurar trabalho comigo, <if(gnum4,moça,rapaz)>? Receio que tenham enganado você." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "É verdade que costumamos contratar aventureiros, mas sempre por meio da Guilda dos Aventureiros." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "Mesmo que eu quisesse lhe atribuir tarefas, o regulamento dos Jaquetas Amarelas me proíbe de fazer isso diretamente." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "Agora, se não se importar de trabalhar de maneira extraoficial, tenho um pedido pessoal que poderia fazer..." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/039/BanDwa111_03912",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_003", "hash": "4631B2743678B2E4", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_010", "hash": "9423CC966C1419A5", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_011", "hash": "9F07003042F45490", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_012", "hash": "C55E13E57FE27095", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_020", "hash": "49FE4EFB2790E0F3", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_030", "hash": "A26D60367C350552", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_032", "hash": "4EE921DAD1D1155F", "target": "" }
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "Regitt procura um par de mãos a mais para lidar com materiais perigosos.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que você aceitou a missão." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "Colocar o explosivo no local indicado" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Falar com o dwarven foreman" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "Informar Regitt" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "Há gerações, nós, anões, ganhamos a vida arrancando da terra seus veios minerais ocultos com as próprias mãos." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "Mas o número de mãos que temos aqui na Anvil é um pouco limitado. Conforme nossas operações crescem, precisamos buscar toda a ajuda disponível lá fora. E, agora, parece que essa ajuda é você!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_003", "hash": "4631B2743678B2E4", "target": "Vá à Hora do Cárcere Inevitável, onde um dos meus trabalhadores supervisiona a mineração. O trabalho lá não acaba nunca, e tenho certeza de que ele terá algo que exige sua habilidade." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_010", "hash": "9423CC966C1419A5", "target": "Ah, você chegou na hora certa! Acabamos de descobrir um veio de minério nesta parede de rocha e eu ia explodir tudo pra abrir passagem. Mas, já que está aqui, por que não faz as honras?" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_011", "hash": "9F07003042F45490", "target": "A-ha! Adoro o cheiro de termita pela manhã! Tem gente que se assusta com um explosivozinho, mas sempre digo que, tomando os devidos cuidados e mantendo distância, não é mais perigoso que plantar!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_012", "hash": "C55E13E57FE27095", "target": "Ufa! Se estivesse só alguns ilms mais perto, a explosão poderia ter sido um pouco mais... sangrenta. Mas tudo está bem quando acaba bem, como sempre digo. Afinal, um pouco de poeira e entulho nunca fez mal a ninguém!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_020", "hash": "49FE4EFB2790E0F3", "target": "Ah, nada como uma explosão pra dar ânimo, hein? Vou separar os melhores minerais dos escombros. Você diga ao Regitt que nosso trabalho aqui terminou. Por enquanto, pelo menos." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_030", "hash": "A26D60367C350552", "target": "Você voltou e, pela fina camada de poeira cobrindo seu corpo, cumpriu a tarefa de forma esplêndida!" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "Apesar do que viu hoje, minerar é muito mais que jogar explosivos em pedras. Nosso conhecimento é tão profundo e vasto quanto as montanhas em que entramos. Podemos farejar veios de minério que escaparam até dos narizes dos melhores mineiros de Lakeland." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_032", "hash": "4EE921DAD1D1155F", "target": "Então continue com a gente, e ninguém sabe que riquezas esperam por você! Pode ter certeza de que vou chamar de novo quando encontrarmos o filão principal." }
   ]
 }

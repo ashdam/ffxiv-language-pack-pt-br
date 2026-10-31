@@ -2,19 +2,19 @@
   "conversation": "quest/026/StmBdz014_02648",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_SEQ_00", "hash": "348063527F7E4E9E", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_00", "hash": "2178DFCC742EAF57", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_01", "hash": "E1760B07F2D6690D", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_02", "hash": "0823748C3E8DCE09", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_000", "hash": "89CF80EF149A5397", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_001", "hash": "2DC913FCDDD2D054", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_003", "hash": "A4C5DC1047A3A758", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_010", "hash": "283D5ED42F6AFFD0", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_010", "hash": "3436158DC060F90B", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_011", "hash": "B36865BECE5A2A9D", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_020", "hash": "B75E03DB3A8B1044", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_030", "hash": "13FD4FDCB723B07D", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_031", "hash": "224E03134AD99F1E", "target": "" },
-    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_032", "hash": "B6F61745A9FE88E3", "target": "" }
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_SEQ_00", "hash": "348063527F7E4E9E", "target": "Este simpático homem está em pânico." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_00", "hash": "2178DFCC742EAF57", "target": "Eliminar o urso que ataca o foolhardy man" },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_01", "hash": "E1760B07F2D6690D", "target": "Resgatar o foolhardy man" },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_TODO_02", "hash": "0823748C3E8DCE09", "target": "Relatar o ocorrido ao panicked man" },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_000", "hash": "89CF80EF149A5397", "target": "Você aí! Por favor, ajude meu amigo. Um urso atacou ele!" },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_001", "hash": "2DC913FCDDD2D054", "target": "Vai encontrar ele a oeste daqui." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_003", "hash": "A4C5DC1047A3A758", "target": "Vai encontrar meu amigo a oeste daqui." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_010", "hash": "283D5ED42F6AFFD0", "target": "Meu amigo está a salvo?" },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_010", "hash": "3436158DC060F90B", "target": "Essa foi perto demais para o meu gosto. Obrigado por me salvar." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_011", "hash": "B36865BECE5A2A9D", "target": "Meu amigo pediu sua ajuda? Pode voltar e dizer que estou a salvo? Preciso recuperar o fôlego antes de tentar ir a qualquer lugar." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PINCHMAN02648_000_020", "hash": "B75E03DB3A8B1044", "target": "Por favor, volte e diga ao meu amigo que estou a salvo." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_030", "hash": "13FD4FDCB723B07D", "target": "Ele está a salvo? Ufa, que alívio. Muitas vezes não temos escolha a não ser sair da aldeia em busca de plantas silvestres." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_031", "hash": "224E03134AD99F1E", "target": "Se ao menos esta maldita terra onde vivemos fosse mais hospitaleira. Nunca precisaríamos correr tamanho perigo." },
+    { "gameKey": "quest/026/StmBdz014_02648#TEXT_STMBDZ014_02648_PANICMAN02648_000_032", "hash": "B6F61745A9FE88E3", "target": "De qualquer forma, só importa que meu amigo está a salvo. Obrigado." }
   ]
 }

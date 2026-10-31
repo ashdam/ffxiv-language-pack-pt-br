@@ -2,19 +2,19 @@
   "conversation": "quest/029/StmBdy106_02937",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_TODO_00", "hash": "10E863236FDDB15E", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_001", "hash": "44A0C235630EB83E", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_002", "hash": "EACC63482F77D389", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_003", "hash": "32FF6BC42ECFE6D1", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_004", "hash": "9957690CD118D87C", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_005", "hash": "343AB294A1B92F65", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_010", "hash": "B3FAFB86ADA7B4AB", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_011", "hash": "3C2C1FB8000B1239", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_012", "hash": "E4683927B5F94594", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "" },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_015", "hash": "097C5B53E561D179", "target": "" }
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "Estrild, da Shiokaze Hostelry, continua observando atentamente quem passa, à procura de novos recrutas." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_TODO_00", "hash": "10E863236FDDB15E", "target": "Falar com Wlveva" },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_001", "hash": "44A0C235630EB83E", "target": "Pelos deuses! Não é todo dia que vejo alguém tão forte passar por aqui. Sou Estrild, do Clã Centurio, e convido você a participar de The Hunt!" },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_002", "hash": "EACC63482F77D389", "target": "Ahhh, mas conheço seu rosto. Sim, sim, você é <if(gnum4,a esquentadinha que não consegue subir,o esquentadinho que não consegue subir)> na hierarquia por causa do próprio comportamento. <split(<string(gstr1)>, ,1)>, não é?" },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_003", "hash": "32FF6BC42ECFE6D1", "target": "Já faz algum tempo desde a última vez que nos vimos. Seu olhar mudou, e para melhor. Aposto que teve seus encontros com a morte desde então." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_004", "hash": "9957690CD118D87C", "target": "Sim, os contratos de uma estrela já não servem para você. Vá falar com Wlveva. Veja se o clã não tem contratos mais adequados às suas habilidades. Pois, à medida que <if(gnum4,a caçadora cresce,o caçador cresce)>, a caça também precisa crescer!" },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_005", "hash": "343AB294A1B92F65", "target": "Vá em paz, <if(gnum4,minha amiga,meu amigo)>!" },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_010", "hash": "B3FAFB86ADA7B4AB", "target": "Você deve ser <split(<string(gstr1)>, ,1)>. Estrild disse que eu esperasse sua visita. Comentou que era hora de você tentar uma segunda estrela." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_011", "hash": "3C2C1FB8000B1239", "target": "Parece que ela gostou bastante de você. E com razão. Estrild sempre teve uma queda por <if(gnum4,mulheres fortes,homens fortes)>. Acho que não dá para culpá-la por isso." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_012", "hash": "E4683927B5F94594", "target": "Pois bem. Vou deixar nossos contratos de duas estrelas à sua disposição. Mas saiba que a dificuldade será muito maior que a das caçadas de uma estrela que já viu. Prepare-se." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "Two-star Veteran Clan mark bills estão disponíveis." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Agora você pode aceitar two-star Veteran Clan mark bills nos Clan Hunt boards de Kugane e Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Novas missões e three-star Veteran Clan mark bills ficarão disponíveis com Estrild, na Shiokaze Hostelry, ao atingir o nível 66." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_015", "hash": "097C5B53E561D179", "target": "Veja se o clã não tem contratos mais adequados às suas habilidades. Pois, à medida que <if(gnum4,a caçadora cresce,o caçador cresce)>, a caça também precisa crescer!" }
   ]
 }

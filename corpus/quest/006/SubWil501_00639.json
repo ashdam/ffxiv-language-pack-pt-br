@@ -2,17 +2,17 @@
   "conversation": "quest/006/SubWil501_00639",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_00", "hash": "19FB0598FDF71565", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_01", "hash": "1B71811969521EF4", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_02", "hash": "FBF42ED62EE7FFD3", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_TODO_00", "hash": "395BC875535DE254", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_000", "hash": "8A191B8EDCF95DC2", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_001", "hash": "93B4E078ECA77DF5", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_010", "hash": "7B33BE86841FE523", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_011", "hash": "FB5B005856BC47CF", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_012", "hash": "A28C478C36164777", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_013", "hash": "5FF9AFC9873F1F0D", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_014", "hash": "B0289C6EA4283495", "target": "" },
-    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_015", "hash": "41359E3DD991BA98", "target": "" }
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_00", "hash": "19FB0598FDF71565", "target": "F'hobhas deseja ensinar você a engastar materia." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_01", "hash": "1B71811969521EF4", "target": "Na Fogueira, F'hobhas se oferece para ensinar você a engastar materia em equipamentos. Fale com ela novamente para começar a aprender." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_02", "hash": "FBF42ED62EE7FFD3", "target": "Agora você aprendeu a engastar materia. Ponha esse conhecimento em prática e experimente fixar materia em equipamentos." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_TODO_00", "hash": "395BC875535DE254", "target": "Falar com F'hobhas" },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_000", "hash": "8A191B8EDCF95DC2", "target": "Ora, olá. Vejo que você também é Disciple of the Hand, como eu." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_001", "hash": "93B4E078ECA77DF5", "target": "Talvez tenha interesse em aprender a engastar materia em equipamentos? Se for o caso, terei prazer em ensinar." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_010", "hash": "7B33BE86841FE523", "target": "Tudo pronto para começar? Ótimo! Então, há uma coisa para ter em mente ao engastar: os espaços para materia." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_011", "hash": "FB5B005856BC47CF", "target": "A primeira delas é a matéria carbonizada, um catalisador necessário no processo de engaste. Essa substância é encontrada por toda a natureza. Se quiser saber como coletá-la, Kokosamu ali pode explicar." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_012", "hash": "A28C478C36164777", "target": "Em seguida, você precisa prestar atenção aos espaços para materia. Cada arma e armadura tem um número determinado desses espaços, e é isso que define quantas pedras de materia podem receber." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_013", "hash": "5FF9AFC9873F1F0D", "target": "Cada arma e armadura tem um número determinado desses espaços, e é isso que define quantas pedras de materia podem receber. Normalmente, um item não pode receber mais pedras de materia do que tem espaços. Porém, como em quase tudo na vida, há certas... exceções." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_014", "hash": "B0289C6EA4283495", "target": "Mas esse tipo de conhecimento fica para mais adiante. Depois de ganhar mais experiência, talvez queira tratar do assunto com o Mestre Mutamix." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_015", "hash": "41359E3DD991BA98", "target": "Agora vá, e bom engaste!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix121_03709",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "" },
-    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "" }
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_SEQ_00", "hash": "A55369AAE5E8A426", "target": "Uin Nee precisa de ajuda para realizar o maior desejo de um jovem Mord.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_00", "hash": "5F24EB8F23AD45AB", "target": "Abater uma anemone ao norte de Lydha Lran e obter uma gavinha contorcida" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_TODO_01", "hash": "79EAB44E5CD2D709", "target": "Entregar a gavinha contorcida a Uin Nee" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_000", "hash": "60F63881E0C2A4EF", "target": "Então, outro dia eu estava brincando no sonho de um menininho Mord, sim, sim, olá para você também, e ele começou a dizer que queria comer “um balde inteiro de vermes”! Eu disse que podia resolver isso, como boa Tecelã de Sonhos que sou, embora não fizesse a menor ideia do que ele estava falando..." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_001", "hash": "1178D6679DCCE1B8", "target": "Acontece que esses vermes, de um tipo <italic(1)>extraordinariamente<italic(0)> esquisito, pelo visto, não são fáceis de achar em Il Mheg. Quero dizer que não temos nenhum, muito menos um balde inteiro!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_002", "hash": "9CF7BA5E458DF9B1", "target": "Mas não se preocupe! Basta um pouquinho de magia em algo que se contorça o bastante, e deve dar no mesmo. Mais ou menos. Provavelmente." },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_003", "hash": "6CEE4032109C2E66", "target": "De qualquer forma, só vamos saber tentando! Por isso preciso que você me traga a parte que se contorce de uma anemone. Quanto antes, melhor, <if(gnum4,minha mortal favorita,meu mortal favorito)>!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_010", "hash": "75E7A5CC95E4416A", "target": "Pelo tanto que esse saco se remexe, acho que você conseguiu o que precisamos!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_011", "hash": "1BBC875FECE33E69", "target": "Perfeito! Oooh, que coisa mais nojenta!" },
+    { "gameKey": "quest/037/BanPix121_03709#TEXT_BANPIX121_03709_UINNEE_000_012", "hash": "D48B483F0CFE3A8C", "target": "Com uns pequenos ajustes, vou transformar isto num verme de sonho sem dificuldade nenhuma. Nenhuma mesmo! Agora, onde pus aquele catarro que estava guardando..." }
   ]
 }

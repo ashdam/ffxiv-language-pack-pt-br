@@ -2,15 +2,15 @@
   "conversation": "quest/052/BanPel113_05211",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "" },
-    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "" }
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_SEQ_00", "hash": "96D2DBF234ED6D8A", "target": "Yubli quer reabastecer o estoque de repelente de monstros da agência de viagens.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você deve prosseguir com a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_00", "hash": "D71249052CE21773", "target": "Usar os extratores para colher néctar das fragrant flowers perto de Xodune" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_TODO_01", "hash": "91C7706CE765C6BD", "target": "Entregar o néctar perfumado a Yubli" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_000", "hash": "89CCEC77C3625A32", "target": "Como parte de nossos esforços contínuos para afastar os monstros da área, temos usado um incenso poderoso. Mas os estoques diminuíram, e logo precisaremos preparar outro lote." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_001", "hash": "34EF203AAE971CB8", "target": "Infelizmente, não temos os ingredientes necessários em mãos. Fazemos o incenso com o néctar de uma flor muito perfumada. O problema é que ela cresce num lugar um tanto perigoso, então não há muita gente a quem possamos pedir que se arrisque na viagem." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_002", "hash": "BD93F037801B6BAF", "target": "Mas imagino que <if(gnum4,nossa consultora especial,nosso consultor especial)> não terá muita dificuldade! Aqui, leve estes extratores. Com eles, você deve conseguir colher o néctar sem danificar a planta. Vá até Xodune, pois sabemos que ela floresce nos arredores." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_010", "hash": "D958379B1AACF532", "target": "Que bom ver você de volta. Conseguiu colher néctar suficiente?" },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_020", "hash": "44EF82C3776FB0AD", "target": "Reconheço esse aroma! Excelente trabalho, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_021", "hash": "4F977DA947E51C0A", "target": "Foram os Hanuhanu que compartilharam a receita do repelente conosco. Pelo que dizem, ele é especialmente eficaz para afastar os monstros nativos de Kozama'uka." },
+    { "gameKey": "quest/052/BanPel113_05211#TEXT_BANPEL113_05211_YUBLI_000_022", "hash": "2F447052B6FA8B7E", "target": "Graças a esse aroma poderoso, os encontros com monstros diminuíram e a satisfação dos clientes aumentou! Também aliviou parte do peso sobre nossos guias, que agora são protetores. Enfim, gastamos tudo depressa, então aviso quando for preciso reabastecer os estoques!" }
   ]
 }

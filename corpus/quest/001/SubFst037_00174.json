@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst037_00174",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_00", "hash": "08F012A3A1A223B4", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_01", "hash": "B5E3F718C776F89D", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_02", "hash": "F7032B1FC7F9B637", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_03", "hash": "3C8CFCA4F6145DAF", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_00", "hash": "F0995605DF606035", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_01", "hash": "F8644A555C8F4269", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_02", "hash": "E3DD4906D80A46D3", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_03", "hash": "C116D008E7CB5765", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_1", "hash": "CB7C21DA5B5D832E", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_2", "hash": "2E0774D116ABCF43", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_3", "hash": "1320E7D458F1813C", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_4", "hash": "E83DF72CB52F20D9", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_10", "hash": "DB2D3C1434CB6725", "target": "" },
-    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_11", "hash": "CB140F812E486D3E", "target": "" }
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_00", "hash": "08F012A3A1A223B4", "target": "Guithrit deseja contratar os serviços de alguém que se aventure na luta contra os Ixal." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_01", "hash": "B5E3F718C776F89D", "target": "Guithrit, dos Lamentadores da Mata, revela que batedores dos Ixal invadiram o território gridaniano. Ele pede que você abata dois Ixali dulltalons, dois Ixali lostwings e dois Ixali slowbeaks antes que os homens-pássaro avancem o bastante para ameaçar os civis." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_02", "hash": "F7032B1FC7F9B637", "target": "Você se vinga de forma sangrenta dos batedores dos Ixal. Guithrit vai querer saber de seu sucesso." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_SEQ_03", "hash": "3C8CFCA4F6145DAF", "target": "Embora suas ações tenham ajudado a conter a ameaça dos Ixal por ora, não demorará para que eles voltem a ameaçar o povo de Gridania. Ao que parece, Guithrit e seus superiores usarão a breve trégua que você lhes proporcionou para encontrar uma solução mais duradoura." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_00", "hash": "F0995605DF606035", "target": "Abater Ixali dulltalons" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_01", "hash": "F8644A555C8F4269", "target": "Abater Ixali lostwings" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_02", "hash": "E3DD4906D80A46D3", "target": "Abater Ixali slowbeaks" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_TODO_03", "hash": "C116D008E7CB5765", "target": "Apresentar-se a Guithrit do lado de fora da Torre de E<-->Tatt" },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_1", "hash": "CB7C21DA5B5D832E", "target": "Ah, <split(<string(gstr1)>, ,1)>! Justamente a pessoa que eu procurava! Seu trabalho em prol dos Estábulos de Treespeak demonstra um talento de verdade. Se confia em suas habilidades de combate, talvez aceite nos ajudar na luta contra os Ixal." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_2", "hash": "2E0774D116ABCF43", "target": "Segundo os relatos, batedores dos Ixal foram avistados junto ao rio, diretamente a oeste daqui. Embora aquela área seja desabitada, ela faz divisa com os Estábulos de Treespeak e o Blessed Bud." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_3", "hash": "1320E7D458F1813C", "target": "Pretendemos expulsá-los antes que possam ameaçar nosso povo. Se eliminarmos prontamente vários de seus grupos de batedores, talvez seus líderes comecem a questionar a sensatez do próprio plano." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_4", "hash": "E83DF72CB52F20D9", "target": "Abata dois Ixali dulltalons, dois Ixali lostwings e dois Ixali slowbeaks. Mostre o preço que devem pagar por pisar em nosso território." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_10", "hash": "DB2D3C1434CB6725", "target": "Foi um trabalho sangrento, mas precisava ser feito. Seu serviço a Gridania não será esquecido." },
+    { "gameKey": "quest/001/SubFst037_00174#TEXT_SUBFST037_00174_GUITHRIT_000_11", "hash": "CB140F812E486D3E", "target": "Graças a você, agora temos tempo para planejar nosso próximo passo. Podemos reunir nossas forças e levar a batalha até os homens-pássaro ou reforçar nossas defesas antes que voltem. Preciso consultar a comandante." }
   ]
 }

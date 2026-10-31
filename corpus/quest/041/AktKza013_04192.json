@@ -2,17 +2,17 @@
   "conversation": "quest/041/AktKza013_04192",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "" },
-    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "" }
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_SEQ_00", "hash": "E7474861B03DD8EB", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Jonquinet precisa de alguém com costas fortes para ajudá-lo." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_00", "hash": "B055CD30C7D8D69C", "target": "Plantar as sementes experimentais nos locais indicados" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_TODO_01", "hash": "723725AB8FDFBDA9", "target": "Relatar a Jonquinet" },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_000", "hash": "03CFCF5AC03A960C", "target": "Você teria um tempinho para um velho pesquisador, <if(gnum4,moça,moço)>? O trabalho braçal já não é tão fácil para mim quanto antes, e procuro alguém um pouco mais ágil para me ajudar." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_001", "hash": "C86CCAE6A65EE1B9", "target": "A tarefa é simples, pode ficar em paz. Só precisa plantar estas sementes experimentais nos campos próximos. Você receberá uma compensação pelo esforço, é claro." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_002", "hash": "6D80A5261C5B9F5F", "target": "Não precisa de nenhuma habilidade especial. Se você já plantou uma semente, já sabe plantar a maioria delas. Pois bem, estou ansioso para ver o que consegue fazer." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_003", "hash": "BEC537ED12875E37", "target": "Está com as sementes, sim? Imagino que saiba o que fazer com elas. Senão, bem... receio que tenhamos problemas mais preocupantes para resolver." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_010", "hash": "2DD118FE9F6EDC46", "target": "Seu rosto está um pouco corado, não? Ótimo. Imagino que isso signifique que plantou as sementes. Você tem minha gratidão e, se tudo correr como planejado, a de todos nestas terras também." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_011", "hash": "673FEF280D1E73B7", "target": "Veja, minha pesquisa envolve produzir plantas ricas em nutrientes que possam ser colhidas em quantidades maiores do que todas as que já vimos até agora." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_012", "hash": "518E613B82ECA0E9", "target": "No entanto, até a planta mais extraordinária é inútil se uma pessoa comum não consegue plantá-la e cultivá-la." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_013", "hash": "984415D6018EF4DD", "target": "Há muito tempo, priorizo a facilidade de cultivo ao desenvolver novas sementes. Peço a todo tipo de pessoa, de pesquisadores experientes a crianças animadas, que as plante na terra, e depois comparo os resultados." },
+    { "gameKey": "quest/041/AktKza013_04192#TEXT_AKTKZA013_04192_JONQUINET_000_014", "hash": "398064D6F6845F00", "target": "Mas, é claro, tenho certeza de que você já ouviu explicações compridas o bastante em suas viagens para uma vida inteira. Receba esta recompensa por sua contribuição e sinta a satisfação de um trabalho bem-feito." }
   ]
 }

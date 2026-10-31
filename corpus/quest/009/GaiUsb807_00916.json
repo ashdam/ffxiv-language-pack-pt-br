@@ -2,19 +2,19 @@
   "conversation": "quest/009/GaiUsb807_00916",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_00", "hash": "B130D7593D50835A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_01", "hash": "CCDFBF3AA90FCF37", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_02", "hash": "4CC153BE5613D3B4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_03", "hash": "AB474C197B930B8A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_00", "hash": "8F76A2FFE257F78D", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_01", "hash": "82EA1D0BC464D479", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_000", "hash": "AA12F858E440CF97", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_001", "hash": "75BA266FF9C63758", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_010", "hash": "0622B0D824DE2493", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_020", "hash": "D1FA746FED7FB29A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_021", "hash": "9744F169D07782D1", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_022", "hash": "77C34FC4E1921F70", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_POP_MESSAGE_000", "hash": "5DC8618F93A96C5E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_ACCESS_MESSAGE", "hash": "0D4425CB14D3F7F3", "target": "" }
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_00", "hash": "B130D7593D50835A", "target": "Sor Eugennoix parece mais contrariado que de costume enquanto examina o acampamento em busca de alguém muito especial: você." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_01", "hash": "CCDFBF3AA90FCF37", "target": "Dragões foram avistados perto das ruínas da Vigília de Aço, e Sor Eugennoix deseja encontrar vestígios de sua presença. Veja o que consegue achar na fortaleza abandonada." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_02", "hash": "4CC153BE5613D3B4", "target": "Você encontra um livro antigo, de capa gasta e desbotada. Ele tem um calor sedoso peculiar, como a cabeça de um bebê adormecido. Entregue o almanaque a Eugennoix antes que seu encanto conquiste você." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_SEQ_03", "hash": "AB474C197B930B8A", "target": "O livro parece muito estimado pelos descrentes e é proibido pela Santa Sé. Sor Eugennoix indica que os dravanianos e os descrentes estão unindo esforços para impedir a reconstrução da Vigília de Aço." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_00", "hash": "8F76A2FFE257F78D", "target": "Investigar a Vigília de Aço" },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_TODO_01", "hash": "82EA1D0BC464D479", "target": "Entregar o almanaque a Eugennoix" },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_000", "hash": "AA12F858E440CF97", "target": "Recebi de uma fonte confiável a notícia de que dragões voltaram a ser vistos perto da Vigília de Aço." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_001", "hash": "75BA266FF9C63758", "target": "Mas não convém enviar cavaleiros à região, considerando a... a confusão <italic(1)>inteiramente<italic(0)> vergonhosa envolvendo Lorde Francel. Pode investigar a Vigília de Aço em nosso lugar?" },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_010", "hash": "0622B0D824DE2493", "target": "Você traz notícias sombrias, está escrito no seu rosto. Vamos, fale." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_020", "hash": "D1FA746FED7FB29A", "target": "Este livro... é notório. Proibido pela Santa Sé, é claro, e um troféu frequente nas operações dos inquisidores contra os descrentes." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_021", "hash": "9744F169D07782D1", "target": "Se encontrou <italic(1)>isto<italic(0)> na Vigília de Aço, só pode significar que os descrentes infestam as ruínas." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_EUGENNOIX_000_022", "hash": "77C34FC4E1921F70", "target": "Os dravanianos devem tê-los encarregado de vigiar e frustrar qualquer tentativa de reconstruir a Vigília. Traidores do próprio sangue! Quem dera tivessem um único coração negro. Minha espada atravessaria seu cerne podre e nos livraria para sempre dessa gente." },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_POP_MESSAGE_000", "hash": "5DC8618F93A96C5E", "target": "Algo alado vem por aí!" },
+    { "gameKey": "quest/009/GaiUsb807_00916#TEXT_GAIUSB807_00916_ACCESS_MESSAGE", "hash": "0D4425CB14D3F7F3", "target": "O inimigo ainda está vivo!" }
   ]
 }

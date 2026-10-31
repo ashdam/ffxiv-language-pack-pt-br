@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz925_01990",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_00", "hash": "933F484BCC03FB70", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_01", "hash": "31DAA69CA33CE6C1", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_02", "hash": "84E564E9DB0B3B19", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_03", "hash": "725F6CED305CB68C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_00", "hash": "0B1C18B18450475D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_01", "hash": "6B6EEA86A04DEE6A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_02", "hash": "D0F066DF8B5EF80E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_000", "hash": "FB49DE97072A1571", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_001", "hash": "2D3D006AE005097B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_010", "hash": "4A8BAE7A87CC7102", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_020", "hash": "7CC016ABBF9F379A", "target": "" },
-    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_021", "hash": "4DBF68BD5770AE94", "target": "" }
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_00", "hash": "933F484BCC03FB70", "target": "O módulo de contenção alagano brilha e gira suavemente." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_01", "hash": "31DAA69CA33CE6C1", "target": "O módulo de contenção alagano informa que vários indivíduos dravanianos usados em testes escaparam das amarras e agora vagam livremente pela área. O sistema pede que você mate três Meracydian dragons e três Meracydian falaks para reduzir o risco representado por essas criaturas perigosas." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_02", "hash": "84E564E9DB0B3B19", "target": "Você elimina as feras conforme as instruções do módulo de contenção. Relate a restrainment node a conclusão da missão." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_SEQ_03", "hash": "725F6CED305CB68C", "target": "O módulo de contenção agradece por seu trabalho e identifica a causa da falha de contenção: as amarras dos dragões enfraqueceram com o tempo. Ele registra um relatório recomendando que a instalação de pesquisa use equipamentos mais duráveis, que durem mais do que apenas alguns milhares de anos sem perder a eficácia." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_00", "hash": "0B1C18B18450475D", "target": "Eliminar Meracydian dragons" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_01", "hash": "6B6EEA86A04DEE6A", "target": "Eliminar Meracydian falaks" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_TODO_02", "hash": "D0F066DF8B5EF80E", "target": "Relatar a restrainment node" },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_000", "hash": "FB49DE97072A1571", "target": "\\<bzzzzzzz> Aviso. Aviso. Vários indivíduos dravanianos usados em testes romperam suas amarras e agora ocupam as imediações. Esses indivíduos são extremamente perigosos e representam uma ameaça real à segurança do pessoal e dos equipamentos." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_001", "hash": "2D3D006AE005097B", "target": "Leais guerreiros do Império Alagano, garantam a segurança de todos os funcionários e cidadãos neutralizando esta ameaça. Cada soldado deve eliminar três Meracydian falaks e três Meracydian dragons." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_010", "hash": "4A8BAE7A87CC7102", "target": "Garanta a segurança de todos os funcionários e cidadãos eliminando três Meracydian falaks e três Meracydian dragons." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_020", "hash": "7CC016ABBF9F379A", "target": "Verificando estado da missão. \\<bip> \\<bip> Abates confirmados. \\<bip> \\<bip> Missão concluída. O Império agradece por seu serviço militar." },
+    { "gameKey": "quest/019/HeaVnz925_01990#TEXT_HEAVNZ925_01990_RESTRAINTSYSTEM_000_021", "hash": "4DBF68BD5770AE94", "target": "Fuga dos indivíduos dravanianos atribuída a falha estrutural das amarras. Os testes indicam que as amarras enfraqueceram após apenas cinco mil anos de uso. Registrando relatório que sugere ao departamento de pesquisa o uso de equipamentos mais duráveis e com vida útil mais longa." }
   ]
 }

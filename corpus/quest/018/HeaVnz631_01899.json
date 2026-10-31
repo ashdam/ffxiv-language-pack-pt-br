@@ -2,18 +2,18 @@
   "conversation": "quest/018/HeaVnz631_01899",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_00", "hash": "A5FAE86ECA02F114", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_01", "hash": "B33089A306B8A9A1", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_02", "hash": "B977E769355A0627", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_03", "hash": "A3A96976EA6AAC85", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_00", "hash": "F107081D30FA1768", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_01", "hash": "B62E989670B0B06C", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_000", "hash": "434F9F3B76A8DC29", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_001", "hash": "7A6A7AF09D929EB5", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_002", "hash": "D71DD10E3B97C8A3", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_010", "hash": "4293985E4BEDA1DE", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_020", "hash": "2BD6794539B0A228", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_021", "hash": "F87577A1DB82EFCC", "target": "" },
-    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_022", "hash": "3CD498AD69C95660", "target": "" }
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_00", "hash": "A5FAE86ECA02F114", "target": "Gildon olha ao longe, com a testa franzida e o estômago roncando." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_01", "hash": "B33089A306B8A9A1", "target": "Sua presença tira Gildon de suas reflexões inquietas e o faz lembrar de um pedido de ajuda. Os paissas ao norte de Camp Cloudtop, conhecidos por suas travessuras e estripulias, enfureceram Gildon ao estragar a comida da cozinheira dos Cavaleiros da Rosa. Ele pede que você mate três paissas para reduzir a população e deixar claro que os homens de Camp Cloudtop não tolerarão suas malvadezas." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_02", "hash": "B977E769355A0627", "target": "Você mata três paissas ao norte de Camp Cloudtop. Volte a Gildon e avise que a tarefa está concluída." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_SEQ_03", "hash": "A3A96976EA6AAC85", "target": "Gildon agradece seu esforço. Ele conta que a causa das recentes travessuras é a busca por árvores onde construir um ninho. Camp Cloudtop tem árvores suficientes para atender às necessidades de Gildon e seus companheiros e, graças à sua ajuda, os paissas pensarão duas vezes antes de tentar se apossar delas." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_00", "hash": "F107081D30FA1768", "target": "Abater wily paissas" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_TODO_01", "hash": "B62E989670B0B06C", "target": "Apresentar-se a Gildon" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_000", "hash": "434F9F3B76A8DC29", "target": "Hm? Ah, <split(<string(gstr1)>, ,1)>! Se houve um momento em que precisei de sua ajuda, certamente é agora." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_001", "hash": "7A6A7AF09D929EB5", "target": "Os paissas que habitam as terras ao norte do acampamento têm nos causado problemas. São travessos por natureza, mas desta vez foram longe demais. Eles... eles arrasaram os suprimentos de nossa querida cozinheira e arruinaram <if([gnum11<12],<if([gnum11<4],o jantar,o café da manhã)>,<if([gnum11<17],o almoço,o jantar)>)>!" },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_002", "hash": "D71DD10E3B97C8A3", "target": "Precisam aprender que não devem brincar conosco, por isso peço que abata três dessas feras. Isso deve bastar para reduzir sua quantidade e desencorajar suas travessuras." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_010", "hash": "4293985E4BEDA1DE", "target": "Não precisa se dar ao trabalho de abater mais de três. Isso deve bastar para deixar nossas intenções claras." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_020", "hash": "2BD6794539B0A228", "target": "Então cuidou dos paissas? Enfim poderemos ter uma breve trégua de suas travessuras." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_021", "hash": "F87577A1DB82EFCC", "target": "Temo que estejam procurando árvores para construir um ninho. Embora sejam escassas no conjunto destas ilhas, Camp Cloudtop tem a sorte de contar com sua parcela." },
+    { "gameKey": "quest/018/HeaVnz631_01899#TEXT_HEAVNZ631_01899_GILDON_000_022", "hash": "3CD498AD69C95660", "target": "Se é mesmo de árvores que estão atrás, terão que procurar em outro lugar. Só de pensar naqueles demônios peludos descendo das árvores no meio de uma refeição, meu sangue ferve. Não vou permitir isso!" }
   ]
 }

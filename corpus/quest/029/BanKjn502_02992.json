@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn502_02992",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "" }
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Cofres estranhos têm chegado à praia ao sul da Shoal Rock.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Investigar os Eorzean coffers e recolher o tesouro" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Entregar as moedas a Zukin" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Um dos nossos membros encontrou três cofres que deram na praia na Shoal Rock. Pareciam ser de fabricação eorzeana, mas ele não conseguiu descobrir mais nada, pois estavam bem fechados por algum mecanismo que não conhecemos." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Temos alguma experiência em abrir baús trancados, mas não os fabricados em terras ocidentais. Imagino, porém, que você conseguiria resolver esse enigma. Quer dar uma olhada?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "Alguma sorte com aqueles cofres?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "Foi isto que você encontrou? Deixe-me ver... Moedas antigas do Ocidente, e ainda por cima cunhadas em metais preciosos. Obrigado por trazê-las!" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "O quê? Cofres que ganham vida e dão mordidas ferozes? Seriam espíritos malignos à espreita de pobres caçadores de tesouros? Ou talvez tsukumogami descontrolados? Isso é mesmo preocupante." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "De qualquer forma, fico muito feliz em ver você sem ferimentos. Embora não tenha pensado no perigo quando pedi ajuda, fiz bem em recorrer a alguém com sua resistência e experiência em aventuras." }
   ]
 }

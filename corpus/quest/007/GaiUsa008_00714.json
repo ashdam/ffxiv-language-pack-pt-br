@@ -2,16 +2,16 @@
   "conversation": "quest/007/GaiUsa008_00714",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "" }
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "Piralnaut, sentinela de Josselin's Spire, deseja delegar alguns de seus deveres a alguém com disposição para aventuras." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "A população de wild boars da região cresceu sem controle. Além disso, as criaturas se tornaram hostis aos Sylph e aos moradores locais. Vá a Bramble Patch e elimine cinco desses porcos selvagens." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "Você eliminou os porcos selvagens. Relate seu sucesso a Piralnaut." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "Por abrigar uma eterita e ter vista para um importante ponto de transporte em Eorzea, Josselin's Spire exige a máxima vigilância de seus sentinelas. Sua coragem ao matar os porcos inspirou Piralnaut, que decide redobrar a atenção a seus deveres." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "Matar wild boars" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "Apresentar-se a Piralnaut" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "A-Aqueles focinhos assustadores... presas como lanças... e os guinchos! Aqueles guinchos medonhos, um hino de morte que assombra meus sonhos toda noite... Por quê? Por que fui sair de casa para vir parar <italic(1)>aqui<italic(0)>?" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "...Aham. Saudações, <if(gnum4,aventureira,aventureiro)>! Seu olhar atento me diz que quer provar seu valor e, por sorte, tenho uma, ah, tarefa modesta ideal para suas habilidades medianas. Os wild boars infestam Bramble Patch, e já passou da hora de alguém reduzir a população. E então? Vá logo." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_020", "hash": "BA6D21A95F14E121", "target": "P-Por favor, eu juro! Nunca mais vou usar armadura de couro de javali! Prefiro morrer de fome a comer o menor pedacinho de carne de porco salgada! Só faça eles irem embora!" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_021", "hash": "2ECFFE4338280D4E", "target": "...O-O quê? Os porcos não infestam mais Bramble Patch? Ah, <italic(1)>obrigado<italic(0)>, <if(gnum4,amiga,amigo)>. Para ser sincero, venho sofrendo de uma fobia terrível daquelas monstruosidades de presas nas últimas semanas." },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_022", "hash": "B62B9011CD421161", "target": "Mas reconheço que isso não pode continuar. Josselin's Spire tem vista para um centro de comércio e atividade militar, e fugir dos meus deveres desonraria o herói que dá nome à torre. Hoje você me deu uma boa dose de coragem, <if(gnum4,amiga,amigo)>, e sou grato por isso." }
   ]
 }

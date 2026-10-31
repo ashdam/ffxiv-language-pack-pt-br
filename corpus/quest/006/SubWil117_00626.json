@@ -2,16 +2,16 @@
   "conversation": "quest/006/SubWil117_00626",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "" },
-    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "" }
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_00", "hash": "5B5DED95C241B4D3", "target": "Esmour precisa de alguém para eliminar pragas na Igreja de Santo Adama Landama." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_01", "hash": "5C9008EB5E995621", "target": "Os cadáveres atraíram blowfly swarms para os arredores da igreja. Elimine cinco desses enxames para mantê-los sob controle." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_02", "hash": "F35DA2C548A16E82", "target": "Você eliminou cinco blowfly swarms. Volte à igreja e relate a Esmour." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_SEQ_03", "hash": "A4DD0E2820E4EF6F", "target": "Esmour agradece por você ter garantido a segurança e o bem-estar das pessoas enlutadas que visitam a igreja." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_00", "hash": "58C5BE9AFEDB562A", "target": "Eliminar blowfly swarms" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_TODO_01", "hash": "ED752CA413CFC33C", "target": "Relatar a Esmour" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_1", "hash": "9FE5E0B165B16D7D", "target": "Você se deu ao trabalho de vir até aqui. Será que posso pedir mais um pequeno favor?" },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_2", "hash": "F49B6461C01B503E", "target": "Como bem sabe, mantemos um cemitério aqui. O cheiro dos corpos em decomposição atrai blowfly swarms, tão imundos quanto indesejáveis." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_3", "hash": "92F8313523952FD9", "target": "Elimine cinco desses enxames pestilentos, e a igreja ficará em dívida com você." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_10", "hash": "4C74243E385ADE56", "target": "Agradeço, <if(gnum4,minha amiga,meu amigo)>. Se os enxames espalhassem sua pestilência pela igreja sem controle, logo teríamos que lamentar a morte dos enlutados." },
+    { "gameKey": "quest/006/SubWil117_00626#TEXT_SUBWIL117_00626_ESMOUR_000_11", "hash": "95DA51CBBDA8AB40", "target": "Ao menos por enquanto, os enlutados podem rezar em paz para que seus mortos façam a travessia em segurança. Que Thal abençoe você." }
   ]
 }

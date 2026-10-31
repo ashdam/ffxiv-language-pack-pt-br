@@ -2,16 +2,16 @@
   "conversation": "quest/036/BanPix109_03697",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "" },
-    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "" }
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_SEQ_00", "hash": "FA3CD6DCE7C39522", "target": "Uin Nee nem sonharia em abusar da boa vontade de <if(gnum4,sua mortal favorita,seu mortal favorito)>.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_00", "hash": "D622DE2EEC7653B5", "target": "Examinar a área a noroeste do Baixio dos Sêxtuplos e abater um fungo musgoso para obter seu chapéu" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_TODO_01", "hash": "8CF23353EC39A5CE", "target": "Entregar o chapéu de fungo musgoso a Uin Nee" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_000", "hash": "00046A3BE1DBD02A", "target": "Sabe, às vezes sinto culpa por sempre pedir que você corra de um lado para o outro fazendo favores para mim. Mas não se preocupe, hoje não vou fazer nada disso! Hoje vou contar uma história. Uma história de fungo musgoso e de crianças." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_001", "hash": "F94B5F120058B0B8", "target": "Fungo musgoso costuma crescer em túmulos e, por isso, as pessoas de Kholusia acham que é uma coisa muito sinistra, um presságio de morte, doença e todo tipo de coisa ruim. Por causa disso, muitas crianças têm pesadelos em que fogem de fungos musgosos gigantes! É assim que se diz?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_002", "hash": "03081E089274DA2D", "target": "Enfim, isso me fez pensar. Não seria <italic(1)>tão<italic(0)> gentil se <italic(1)>alguém<italic(0)> tranquilizasse esses pobres sonhadores trazendo o chapéu de um fungo musgoso abatido? Eu poderia tecê-lo num sonho e mostrar às crianças que não precisam temer essas criaturas de aparência engraçada!" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_003", "hash": "E14D64784FE4FE6E", "target": "Não estou pedindo que você faça isso. De jeito nenhum! Só estou dizendo que, <italic(1)>se<italic(0)> alguém quisesse fazer essa gentileza, bastaria dar um pulinho no Baixio dos Sêxtuplos e arrancar o chapéu de um dos fungoses musgososes desprevenidos que vivem lá. Mas não se preocupe, tenho certeza de que meus sonhadores não se importam de viver em pavor absoluto por mais um ou dois dias." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_010", "hash": "418BA256E5015E56", "target": "Hm? Tem alguma coisa para mim? Mas eu nem pedi nada!" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_011", "hash": "FAB87C47E86B4B7F", "target": "O chapéu de um fungo musgoso! Como sabia que eu estava procurando um? É quase como se pudesse entrar na <italic(1)>minha<italic(0)> mente! Mas o que posso fazer para recompensar esse gesto altruísta e inteiramente espontâneo?" },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_012", "hash": "6D9B2489566A93F6", "target": "Já sei, vou contar outra história sobre fungo musgoso! Era uma vez um reino mortal que já não existe. Lá, as pessoas às vezes pregavam pecinhas nas pessoas de quem não gostavam, colocando escondido um tiquinho de veneno de fungo musgoso nas bebidas todos os dias." },
+    { "gameKey": "quest/036/BanPix109_03697#TEXT_BANPIX109_03697_UINNEE_000_013", "hash": "500634D1BA6805B4", "target": "Adivinhe o que acontecia depois? A pobre pessoa ficava doente aos poucos e acabava morrendo, sem ninguém desconfiar! É uma bela peça, não acha? Ora, quem dera eu tivesse pensado nisso! Por falar nisso, aceita um golinho de água antes de ir? Hihihi!" }
   ]
 }

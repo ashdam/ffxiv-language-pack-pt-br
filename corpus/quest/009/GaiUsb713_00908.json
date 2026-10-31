@@ -2,18 +2,18 @@
   "conversation": "quest/009/GaiUsb713_00908",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_00", "hash": "39B4A3B3515D54E6", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_01", "hash": "41331B5DAB61EE00", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_02", "hash": "AC557C68236E2FCC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_03", "hash": "7F429372A3852D35", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_00", "hash": "DAA9FCD4CA6C82B4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_01", "hash": "D9ED2D7891301033", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_000", "hash": "AA9A981540A353FE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_001", "hash": "158FD19643A53EAC", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_002", "hash": "2D512DE968883A1E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_003", "hash": "674F3AE6AFA54C23", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_040", "hash": "99A32C6A8A85483B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_041", "hash": "8AF340518A6AA388", "target": "" },
-    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_POP_MESSAGE_000", "hash": "BF3E6E2F6BF8A6A4", "target": "" }
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_00", "hash": "39B4A3B3515D54E6", "target": "A Instrutora Molkot inspira tanto medo quanto lealdade, e um desses sentimentos vai dobrar sua vontade. Não resista e descubra o que ela quer." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_01", "hash": "41331B5DAB61EE00", "target": "Miah Molkot sempre tem um ou três planos violentos, e a barricada erguida pelos Ixal só atiça o fogo. Pegue o dedo de bomb, vá até o bloqueio no corredor norte e exploda-o até não sobrar nada." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_02", "hash": "AC557C68236E2FCC", "target": "O bloqueio já não existe, e o corredor norte está aberto. Leve a boa notícia a Molkot." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_SEQ_03", "hash": "7F429372A3852D35", "target": "Molkot recebe a notícia com os olhos brilhando e a cauda chicoteando o ar. Em certos momentos, ela lembra uma criatura exótica: impossível de controlar, sanguinária sem esforço e hipnotizante de se olhar." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_00", "hash": "DAA9FCD4CA6C82B4", "target": "Usar o dedo de bomb para destruir o Ixali blockade" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_TODO_01", "hash": "D9ED2D7891301033", "target": "Informar Miah Molkot" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_000", "hash": "AA9A981540A353FE", "target": "Os Carneiros Brancos estão estacionados na Torre de Eugenia <italic(1)>supostamente<italic(0)> para montar guarda. Ah, sim, protegendo as árvores desta floresta dos malfeitores na área de extração de madeira dos Ixal ao norte. Muito defensivo!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_001", "hash": "158FD19643A53EAC", "target": "Fique na defensiva por tempo suficiente, e o inimigo esquece que podemos atacar. Acho que a ideia era essa, mas... agora! Agora o inimigo <italic(1)>antecipa<italic(0)> nossos movimentos." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_002", "hash": "2D512DE968883A1E", "target": "Aqueles pássaros piadores e debochados fecharam o corredor norte com um bloqueio! Cussspo na astúcia deles. Isso me mantém longe dos pescocinhos..." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_003", "hash": "674F3AE6AFA54C23", "target": "<if(gnum4,Aventureira,Aventureiro)>, destrua o bloqueio com este dedo de bomb. Os passarinhos não se contentam com mais algumas luas de sossego antes de o inferno desabar? Ótimo! Os Ixal vão sentir a força do Carneiro agora, miau!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_040", "hash": "99A32C6A8A85483B", "target": "Bela explosão! Uma detonação irrrepreensível!" },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_MIAHMOLKOT_000_041", "hash": "8AF340518A6AA388", "target": "Ergam seus bloqueiozinhos, meus passarinhos, que vão cair como um berço num galho! Nada, absolutamente nada, vai ficar entre os Carneiros Brancos e nossa presa..." },
+    { "gameKey": "quest/009/GaiUsb713_00908#TEXT_GAIUSB713_00908_POP_MESSAGE_000", "hash": "BF3E6E2F6BF8A6A4", "target": "Esse guincho só pode ser de limbcutters!" }
   ]
 }

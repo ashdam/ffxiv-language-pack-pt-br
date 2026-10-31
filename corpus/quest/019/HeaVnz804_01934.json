@@ -2,17 +2,17 @@
   "conversation": "quest/019/HeaVnz804_01934",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "" },
-    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "" }
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_00", "hash": "E6DD06648EDA49AB", "target": "Feltsmox encara o rio com frustração." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_01", "hash": "36BC5B39BFDA4E9D", "target": "Feltsmox continua sem sucesso em suas pescarias. Os olhos de gnu que você conseguiu são ótimas iscas e deveriam atrair peixes de malms de distância, mas ela não conseguiu nem uma fisgada. Parece que as damselflies que rondam a margem estão espantando os peixes que normalmente habitam o rio. Mate cinco dessas criaturas para que os peixes se sintam seguros para voltar." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_02", "hash": "300429FEF5B8C82C", "target": "Após a morte de várias damselflies, o zumbido constante de suas asas não enche mais o ar. Com sorte, essa deliciosa serenidade atrairá peixes que queiram fugir da agitação e do barulho de onde estão agora. Volte a Feltsmox e diga que ela não está mais pescando em águas vazias." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_SEQ_03", "hash": "E259CC35E39EAB0C", "target": "Embora agradeça seus esforços, Feltsmox continua sem conseguir pescar, mesmo depois de você eliminar as damselflies. Sem se dar por vencida, ela decide repensar toda a sua estratégia de pesca." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_00", "hash": "3BE045DFEA138BDF", "target": "Matar damselflies" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_TODO_01", "hash": "DEC43F22DE11A256", "target": "Falar com Feltsmox" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_000", "hash": "9B93A9693236D74B", "target": "Pshhh... Shkohhh...<br>Feltsmox ainda não pescar nada! Isca não ter problema... Alguma coisa dever assustar peixes." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_001", "hash": "6DB9B45ACBFC5012", "target": "Damselflies! Zumbiasas delas dever espantar peixes!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_002", "hash": "C5E8B29B5CBBA69E", "target": "Por favor, altogente, matar estas criaturas irritantes! Matar cinco damselflies por perto para Feltsmox pescar em paz!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_010", "hash": "B6E13B9203D14B71", "target": "Feltsmox ainda não pescar nada! Damselflies espantar peixes. Por favor, matar cinco delas." },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_020", "hash": "29B7F826F9B657A0", "target": "Pshhh... Shkohhh...<br>Damselflies já mortas? Agradecer, mas Feltsmox ainda não pescar nada!" },
+    { "gameKey": "quest/019/HeaVnz804_01934#TEXT_HEAVNZ804_01934_FELTSMOX_000_021", "hash": "C5B14EEE89C5DA55", "target": "Problema ser isca? Ou lugarpesca? Feltsmox precisar repensar planopesca..." }
   ]
 }

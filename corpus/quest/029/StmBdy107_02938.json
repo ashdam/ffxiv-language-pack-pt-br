@@ -2,18 +2,18 @@
   "conversation": "quest/029/StmBdy107_02938",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_003", "hash": "4DCC43FC97CC3652", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_004", "hash": "5171D1F438342EC1", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_010", "hash": "705F0CBFBD1DCA9C", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_011", "hash": "BDFAF981DBC2CF17", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_012", "hash": "C6D260E181A7B7AF", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_100_013", "hash": "6BEFF889542D9ABB", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_013", "hash": "0BC1C858A8C3A1B4", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "" },
-    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_015", "hash": "9705F6FAE570A6BC", "target": "" }
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SEQ_00", "hash": "7A03607EA800E886", "target": "Estrild, da Shiokaze Hostelry, insiste em observar atentamente quem passa, à procura de novos recrutas." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_TODO_00", "hash": "3E010DFFEDCA73BD", "target": "Falar com Wlveva" },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_001", "hash": "FDBF026764501801", "target": "Ora, se não é <if(gnum4,nossa boa,nosso bom)> <split(<string(gstr1)>, ,1)>. Chegue mais perto, deixe eu ver com meus próprios olhos quanto progrediu desde a última vez." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_002", "hash": "C06221DA7D5CE2C8", "target": "Como eu esperava. Você parece bem mais forte que antes. A caça fez bem a você, e espero que você tenha feito bem a ela." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_003", "hash": "4DCC43FC97CC3652", "target": "Chegou a hora de partir para caçadas ainda mais perigosas. Os contratos de três estrelas esperam por você. Vá falar com Wlveva mais uma vez. Que os deuses permitam que volte com vida." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_004", "hash": "5171D1F438342EC1", "target": "Cuidado na caçada, para não virar a presa." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_010", "hash": "705F0CBFBD1DCA9C", "target": "Então, Estrild me disse que você já pode encarar nossas caçadas de três estrelas. Saiba que sugerir isso demonstra uma grande confiança na sua capacidade." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_011", "hash": "BDFAF981DBC2CF17", "target": "Muito bem. Vou confiar nela. Nossos contratos de caça de três estrelas estão à sua disposição." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_WLVEVA_000_012", "hash": "C6D260E181A7B7AF", "target": "Mas saiba que aviso nenhum será suficiente. Os monstros que vai caçar não são feras comuns. São infernais. Implacáveis. Antes de enfrentá-los, precisa saber muito bem do que você e eles são capazes." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_100_013", "hash": "6BEFF889542D9ABB", "target": "Three-star Veteran Clan mark bills estão disponíveis." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_013", "hash": "0BC1C858A8C3A1B4", "target": "Agora você pode aceitar three-star Veteran Clan mark bills nos Clan Hunt boards de Kugane e Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_SYSTEM_000_014", "hash": "A4653F3352114610", "target": "Novas missões e elite Veteran Clan mark bills ficarão disponíveis com Estrild, na Shiokaze Hostelry, ao atingir o nível 70." },
+    { "gameKey": "quest/029/StmBdy107_02938#TEXT_STMBDY107_02938_ESTRILD_000_015", "hash": "9705F6FAE570A6BC", "target": "Chegou a hora de partir para caçadas ainda mais perigosas. Nossos contratos de três estrelas esperam por você. Vá falar com Wlveva mais uma vez. Que os deuses permitam que volte com vida." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/038/BanQiq102_03807",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_00", "hash": "AD046374663FF82E", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_01", "hash": "0CAE2D2051F3BFE4", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_TODO_00", "hash": "FBA92FAA47572030", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_000", "hash": "8851B4A1DA143898", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_010", "hash": "40FFD7195E72E8F1", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_020", "hash": "406AFA08DC91A2EF", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_030", "hash": "E891D034E1FA3AAB", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_010", "hash": "31564855E10EC60F", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_020", "hash": "462DE25CE2D0ADD4", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_030", "hash": "2D2FF3DF9673A069", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_040", "hash": "28AC8AA3C7A8EAC7", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_050", "hash": "21E2BF8382081CE1", "target": "" },
-    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_051", "hash": "7D83755D97130CB1", "target": "" }
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_00", "hash": "AD046374663FF82E", "target": "Qhoterl Pasol precisa de um pouco de luz na vida.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_01", "hash": "0CAE2D2051F3BFE4", "target": "Entregue os objetos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_TODO_00", "hash": "FBA92FAA47572030", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extrair splendid flint stones na K'mul Astropolis,Entregar as splendid flint stones a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Colher splendid seeds na K'mul Astropolis,Entregar as splendid seeds a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar uma splendid trout em Red Chalice,Entregar a splendid trout a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_000", "hash": "8851B4A1DA143898", "target": "As cavernas subterrâneas que exploramos são lugares terrivelmente escuros. Sem algum tipo de iluminação, não conseguiríamos ver nem nossos próprios bigodes, quanto mais escavar." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_010", "hash": "40FFD7195E72E8F1", "target": "Você poderia fazer a gentileza, <if(gnum4,minha boa senhora,meu bom senhor)>, de extrair um pouco de sílex para mim na K'mul Astropolis? Essas pedras são necessárias para acender fogo. Umas três devem bastar perfeitamente." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_020", "hash": "406AFA08DC91A2EF", "target": "Você poderia fazer a gentileza, <if(gnum4,minha boa senhora,meu bom senhor)>, de colher algumas sementes de plantas para mim na K'mul Astropolis? Delas podemos extrair um óleo que usamos como combustível para as lamparinas. O suficiente para encher três sacos deve bastar perfeitamente." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_030", "hash": "E891D034E1FA3AAB", "target": "Você poderia fazer a gentileza, <if(gnum4,minha boa senhora,meu bom senhor)>, de pescar uma truta para mim em Red Chalice? Delas podemos extrair um óleo que usamos como combustível para as lamparinas." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_010", "hash": "31564855E10EC60F", "target": "Ah, aí está você. Como vai a busca pelas pedras de sílex? É mais fácil encontrá-las na K'mul Astropolis." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_020", "hash": "462DE25CE2D0ADD4", "target": "Ah, aí está você. Como vai a busca pelas sementes? É mais fácil encontrá-las na K'mul Astropolis." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_030", "hash": "2D2FF3DF9673A069", "target": "Ah, aí está você. Como vai a busca pela truta? É mais fácil encontrá-la em Red Chalice." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_040", "hash": "28AC8AA3C7A8EAC7", "target": "Que bom ver você de volta, <if(gnum4,Senhora,Mestre)> <split(<string(gstr1)>, ,1)>. Posso ter esperanças de que tenha conseguido o que procuro?" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_050", "hash": "21E2BF8382081CE1", "target": "Ah, esplêndido! Isso vai nos servir para várias expedições!" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_051", "hash": "7D83755D97130CB1", "target": "Como você talvez tenha ouvido, nós, Qitari, não enxergamos tão bem quanto alguns outros povos e precisamos dessas coisas para nos orientar no escuro. Por essa dádiva da visão, você tem minha sincera gratidão." }
   ]
 }

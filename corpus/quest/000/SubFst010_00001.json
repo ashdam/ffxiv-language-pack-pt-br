@@ -2,16 +2,16 @@
   "conversation": "quest/000/SubFst010_00001",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "" },
-    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "" }
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_00", "hash": "4E31C8E4CC347DDC", "target": "Bernadette procura aventureiros ansiosos para provar seu valor." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_01", "hash": "C80B115303C8F239", "target": "Bernadette conta que a Aljava dos Deuses procura aventureiros ambiciosos para ajudar suas tropas e incentiva você a se apresentar a Chansteloup do lado de fora da Archers' Guild." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_SEQ_02", "hash": "D373F223EDE7A289", "target": "Embora desconfiado, Chansteloup aceita oferecer a você uma oportunidade de provar seu valor." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_TODO_00", "hash": "1BA4DC07885EF773", "target": "Falar com Chansteloup" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_1", "hash": "D5EEF4A67006A97D", "target": "Acabou de chegar a Gridania? Em busca de fama e fortuna, talvez?" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_2", "hash": "5EF88A7801EA249A", "target": "Se confia em suas habilidades, recomendo que fale com Chansteloup, da Aljava dos Deuses. Você pode encontrá-lo de vigia em frente à Archers' Guild." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_3", "hash": "C14ACD6F5A34CF99", "target": "As criaturas da Mata dos Doze têm se comportado de maneira muito estranha ultimamente, e cabe à Aljava dos Deuses acalmá-las. Infelizmente, faltam muitas mãos." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_BERNADETTE_000_4", "hash": "625CEBFD44EE63A3", "target": "Por isso, procuram aventureiros capazes para reforçar suas fileiras. Tenho certeza de que sua oferta de ajuda seria bem recebida." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_10", "hash": "08D70A274382A264", "target": "Bernadette mandou <italic(1)>você<italic(0)> até mim? Humpf!" },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_11", "hash": "4550065549E0332A", "target": "Bem, com experiência ou não, se deseja provar seu valor ao povo de Gridania, fez bem em vir." },
+    { "gameKey": "quest/000/SubFst010_00001#TEXT_SUBFST010_00001_CHANSTELOUP_000_12", "hash": "E66A38E39AAF1621", "target": "Você <italic(1)>quer mesmo<italic(0)> provar seu valor, não quer?" }
   ]
 }

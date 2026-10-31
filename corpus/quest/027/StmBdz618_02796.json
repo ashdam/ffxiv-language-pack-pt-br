@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz618_02796",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "" },
-    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "" }
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_SEQ_00", "hash": "8EB1915E0DA195DE", "target": "Bujir sabia que você viria." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_00", "hash": "C82BC19887878783", "target": "Investigar as Cavernas dos Uyagir e matar os inimigos que aparecerem" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_TODO_01", "hash": "66058EADA539F95E", "target": "Informar Bujir" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_000", "hash": "055C7CAAF2E04933", "target": "Boas-vindas, <if(gnum4,aventureira,aventureiro)>. Ibakha me disse que você viria." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_001", "hash": "426321B705AB3BBC", "target": "Ela vê os acontecimentos muito antes de ocorrerem." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_002", "hash": "EEA18608613FBA4F", "target": "Mas não viu só você. Não, ela também previu uma grande ameaça." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_003", "hash": "7E1E97C56D0D867D", "target": "A verdadeira natureza dessa ameaça ainda não está clara, mas sabemos que ela se esconde nas Cavernas dos Uyagir. Por favor, investigue em nosso nome." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_004", "hash": "E365F095A0B7053C", "target": "A verdadeira natureza dessa ameaça ainda não está clara, mas sabemos que ela se esconde nas Cavernas dos Uyagir. Por favor, investigue em nosso nome." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_POPMESSAGE_100_005", "hash": "50F00C68BEFC0FF1", "target": "Você está sob ataque!" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_010", "hash": "76347948FC176634", "target": "Por favor, me conte: o que foi que encontrou?" },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_011", "hash": "564366A2B9392A72", "target": "Uma ave profética? Agradeço por tê-la matado. Aquela caverna contém os minerais que usamos para produzir pigmento." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_012", "hash": "F8BC92CE79B6301C", "target": "Sem esses minerais, não poderíamos pintar nas paredes de nossa caverna as imagens que mostram o perigo de ceder à ganância. Fazemos isso a cada lua cheia para que as futuras gerações herdem nossos valores." },
+    { "gameKey": "quest/027/StmBdz618_02796#TEXT_STMBDZ618_02796_BUJIR_000_013", "hash": "66C644B99DA48813", "target": "Meus sinceros agradecimentos por toda a ajuda. Temos uma grande dívida com você." }
   ]
 }

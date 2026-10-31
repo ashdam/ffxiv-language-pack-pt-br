@@ -2,18 +2,18 @@
   "conversation": "quest/033/LucKza006_03348",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "" },
-    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "" }
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_SEQ_00", "hash": "FA23B5B19A1C1B53", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Astute artisan encara você sem disfarçar." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_00", "hash": "DB058B6402145AD8", "target": "Mostrar a astute artisan sua postura /battlestance" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_TODO_01", "hash": "06721C57EB48ABB7", "target": "Usar /box para astute artisan" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_000", "hash": "4A79C0142F219BCE", "target": "Desculpe por encarar, mas não pude deixar de notar que você tem a postura de quem treinou técnicas de combate. Posso pedir sua ajuda com uma coisinha?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_001", "hash": "B222FD76E04512AB", "target": "É que uma amiga minha entrou para a guarda há pouco tempo. Eu queria usar minhas habilidades para fazer uma armadura mais resistente para ela do que a do equipamento padrão, mas ela já foi enviada a Lakeland." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_002", "hash": "6CDBEF0997585E89", "target": "Claro que tenho as medidas dela, mas não sei ao certo que partes da roupa precisam ser reforçadas e quais devem ficar um pouco folgadas para permitir os movimentos. Aceitaria demonstrar algumas posturas comuns para mim?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_003", "hash": "7E24E07D066F1037", "target": "Agradeço! Nesse caso, poderia começar mostrando sua <colortype(500)><edgecolortype(501)>Battle Stance<edgecolortype(0)><colortype(0)> habitual?" },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_004", "hash": "2EAA39C74B83ACD4", "target": "Não precisa ter vergonha, é só se mover como sempre faz." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_010", "hash": "33950891B0D26032", "target": "Hum... Talvez eu precise dar um pouco mais de folga nos ombros. Se importaria de dar alguns socos também? Como se estivesse praticando <colortype(500)><edgecolortype(501)>boxe<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_011", "hash": "1F538B88188E7FEF", "target": "Talvez nem precisasse dizer, mas não é para acertar ninguém de verdade. Só quero ver como você se move ao dar um soco." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_020", "hash": "AACE0DF9DB360C38", "target": "Entendo, o tronco inteiro precisa poder girar. E a parte dos nós dos dedos nas luvas provavelmente precisa de um pouco mais de acolchoamento..." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_021", "hash": "7C992A4EE4ADD7B1", "target": "Acho que entendi quais alterações devo fazer. Você ajudou muito, agradeço." },
+    { "gameKey": "quest/033/LucKza006_03348#TEXT_LUCKZA006_03348_CRAFTSMAN03348_000_022", "hash": "C6CE5F52F1086B91", "target": "Devo dizer que o que você está vestindo parece muito bem-feito, mas, se algum dia precisar de equipamento novo, venha me procurar. Terei prazer em dar um desconto no meu trabalho sob medida!" }
   ]
 }

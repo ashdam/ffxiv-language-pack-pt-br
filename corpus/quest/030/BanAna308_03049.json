@@ -2,15 +2,15 @@
   "conversation": "quest/030/BanAna308_03049",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_002", "hash": "261F8B448498C523", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_010", "hash": "CAA988C6FCC54012", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_011", "hash": "D91DA39261F1682C", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_012", "hash": "FD6243792C7B947F", "target": "" },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_013", "hash": "41B8C173FC6F3601", "target": "" }
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "Eshana está com vontade de comer algo especial.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "Examinar o local indicado e abater gallivanting gazelles para obter sua carne" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "Entregar a carne de gazela a Eshana" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "Ah, que boa hora para aparecer. Precisamos de alguém com sua habilidade na caça para reabastecer nossos estoques de comida. Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "Não corremos o risco de ficar sem comida, veja bem, mas nossas reservas de carne de gazela estão baixas demais para o meu gosto. Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_002", "hash": "261F8B448498C523", "target": "Elas costumam aparecer em Virdjala. Vou marcar o local no seu mapa. Se conseguir carne de apenas duas gazelas, já estará fazendo um grande favor aos Guardiões. Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_010", "hash": "CAA988C6FCC54012", "target": "Teve sorte em encontrá-las? Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_011", "hash": "D91DA39261F1682C", "target": "Excelente. Para mim e minhas irmãs, esta carne é essencial para manter o brilho da pele. Uma pena que a maioria dos bípedes a considere dura ou fibrosa demais. Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_012", "hash": "FD6243792C7B947F", "target": "Por isso ela não faz parte dos nossos mantimentos, que devem ser compartilhados com os Guardiões e com a Resistência. Caçamos quando há tempo, mas elas não são presas fáceis. Sss..." },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_013", "hash": "41B8C173FC6F3601", "target": "Se tivermos dificuldade em manter nossos estoques de carne, espero que você nos ajude de novo. Sss..." }
   ]
 }

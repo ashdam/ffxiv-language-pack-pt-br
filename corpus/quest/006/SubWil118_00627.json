@@ -2,18 +2,18 @@
   "conversation": "quest/006/SubWil118_00627",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "" },
-    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "" }
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_00", "hash": "B111A16642BF2F21", "target": "A Irmã Airell tem mais trabalho para quem se dispuser a ajudar." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_01", "hash": "5365677BEB3EE023", "target": "É fácil deixar passar os túmulos simples no cemitério que não para de crescer. Por isso, muitas vezes eles são esquecidos na hora de oferecer flores. Ajude a Irmã Airell colocando ramalhetes de lírios de Nymeia em cinco desses túmulos." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_02", "hash": "709C0C2E555C426C", "target": "Você ofereceu os lírios de Nymeia. Volte à igreja e relate à Irmã Airell." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_SEQ_03", "hash": "18E2514E71E5BF7E", "target": "A Irmã Airell conta que, antes da Calamidade, o cemitério era um lugar pequeno e humilde. Desde então, o número de corpos a enterrar aumentou sem parar, não dando um instante de descanso a quem cuida dos túmulos." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_00", "hash": "E13E7449C6C698C7", "target": "Colocar lírios de Nymeia nos simple graves" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_TODO_01", "hash": "02BD8B0D66E7E43E", "target": "Relatar à Irmã Airell" },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_1", "hash": "57B1F7CBB42D2AD5", "target": "Então quer honrar os mortos mais uma vez? Excelente. Ofereça estes lírios de Nymeia em alguns dos túmulos mais simples do cemitério. As pobres almas morreram sozinhas, sabe, sem ninguém que pudesse chorar por elas." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_2", "hash": "7E16580AB97BD48D", "target": "Há cinco túmulos assim espalhados pelo cemitério dos quais gostaria que cuidasse. E lembre-se, <if(gnum4,minha amiga,meu amigo)>: preste atenção ao redor e demonstre o devido respeito com cada ramalhete de lírios... Você é tudo o que eles têm." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_10", "hash": "EC749CFD2077FD18", "target": "Mais uma vez, meus agradecimentos. Sem dúvida, as almas dos falecidos encontrarão algum conforto no cuidado que você demonstrou com seus túmulos." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_11", "hash": "ED32B54F82BF0F6A", "target": "Antigamente, o cemitério era um terreno pequeno e humilde. Mas tudo mudou depois da Calamidade. O número de mortos cresceu, e o cemitério cresceu com eles." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_12", "hash": "4396B2A04C4A8B81", "target": "Ele continua simples, apesar do tamanho. É justamente essa simplicidade que o impede de se tornar uma prioridade maior para a Ordem. Mal temos recursos para destinar gente suficiente à sua manutenção, assim como não podemos cobrar dos pobres para enterrar alguém ou ser enterrados." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_13", "hash": "D2AB0019FF8150CE", "target": "Mas isso não impede as muitas pessoas que vêm buscar aqui um lugar de descanso para seus mortos. Nós, os poucos que cuidamos do cemitério, não temos tempo para providenciar as oferendas que nossa devoção exige." },
+    { "gameKey": "quest/006/SubWil118_00627#TEXT_SUBWIL118_00627_AIRELL_000_14", "hash": "F990071AFB11E486", "target": "Os túmulos simples que você visitou pertencem a pessoas que morreram sozinhas. Rezemos para que a doce fragrância que você levou lhes dê algum alívio da solidão, nem que seja por pouco tempo." }
   ]
 }

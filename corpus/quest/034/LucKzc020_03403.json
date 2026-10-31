@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKzc020_03403",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "" },
-    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "" }
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_SEQ_00", "hash": "BB2439C5BCB646D8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>An Iala tem um pedido sério para você." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_00", "hash": "BEF3907AE3BB29D2", "target": "Matar dois rosebears e derrotar o giant rosebear quando ele aparecer" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_TODO_01", "hash": "2A92CA2212CD9AB2", "target": "Apresentar um relatório a An Iala" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_000", "hash": "21A3940430142C76", "target": "Socorro! Ajude a gente, por favor! Juro que não é uma peça!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_001", "hash": "5D86588E412C592C", "target": "É que há uns ursos assustadores que nos aterrorizam. Chamam-se rosebears, e normalmente conseguimos espantá-los. Mas, ultimamente, apareceu um maior, mais feroz e mais faminto que os outros!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_002", "hash": "BE3049DE97C139D8", "target": "Temos medo demais para tentar fazer algo contra ele, com nosso tamanho e nossa pouca força. Mas você é muito maior e mais forte que a gente. Se alguém pode dar um jeito naquela fera raivosa, acredito que seja você!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_003", "hash": "EACE21BCD8BF6EF0", "target": "Bom, os rosebears comuns costumam rondar a área a leste daqui. Se você matar alguns, deve atrair o parente mais temível deles. E, quando ele aparecer, quero que o mate também!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_004", "hash": "4F335347E1024E86", "target": "Os rosebears comuns costumam rondar a área a leste daqui. Se você matar alguns, deve atrair o parente mais temível deles. E, quando ele aparecer, quero que o mate também!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_010", "hash": "0B760CBE8F222AB1", "target": "Você conseguiu! Nos livrou do giant rosebear! Ficamos em dívida com você!" },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_011", "hash": "905C84403B35BE93", "target": "Há muitos e muitos anos, aquelas feras atrevidas devoram nossas ovelhas, nossas preciosas amigas que nos dão leite." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_012", "hash": "C7ABC4F5A6B775D8", "target": "Para dar uma lição nelas, fizemos plantas crescerem em seus corpos, mas, para nossa aflição, isso só as deixou mais assustadoras." },
+    { "gameKey": "quest/034/LucKzc020_03403#TEXT_LUCKZC020_03403_ANIALA_000_013", "hash": "F9D7547BC5E5E0B3", "target": "Mas, graças a você, o mais assustador já não existe, e dos menores podemos cuidar por conta própria. Il Mheg fica melhor com mortais gentis e prestativos como você!" }
   ]
 }

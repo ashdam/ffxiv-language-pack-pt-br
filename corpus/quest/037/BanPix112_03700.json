@@ -2,15 +2,15 @@
   "conversation": "quest/037/BanPix112_03700",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "" },
-    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "" }
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_SEQ_00", "hash": "91FAF3697EA60BE0", "target": "Uin Nee quer experimentar as alegrias de passear de barco num lugar sem Fuath.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, só é possível avançar usando a mesma classe ou job com que aceitou a missão." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_00", "hash": "70DCEF99A26AB8A0", "target": "Examinar o local indicado a leste de Mithai Glorianda e obter a membrana da asa de um deepglider" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_TODO_01", "hash": "641167D997FA617B", "target": "Entregar a membrana de asa de deepglider a Uin Nee" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_001", "hash": "7BEE6C79F4C17E5A", "target": "Tyr Beq me contou tudo sobre sua viagem a Kholusia. É verdade que o oceano é ainda maior que o Longmirror Lake? Ouvi dizer que os mortais de lá adoram passear de barco, esquecer os problemas e talvez pescar um peixe ou dois." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_002", "hash": "9DE70351597709F2", "target": "Eu adoraria tentar aqui, mas aqueles Fuath horríveis com certeza apareceriam para estragar a diversão! <br>...Ah, é claro! Podemos fazer isso em Lyhe Mheg e chamar as crianças também!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_003", "hash": "9EBF5CC3C5F0E6B0", "target": "Só tem um problema: não faço a menor ideia de como é um barco. Talvez dê para fazer um com a asa de um deepglider... e tenho certeza de que você vai adorar buscar uma para mim!" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_020", "hash": "186527F664ED4AC5", "target": "Tenho uma vaga lembrança de ter pedido que você trouxesse alguma coisa... O que era?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_021", "hash": "EA6FA0939402A22C", "target": "Ah, sim! Agora lembro! Isto deve funcionar muito bem. Não que eu faça ideia do que fazer com isto..." },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_022", "hash": "555A6A32150370D6", "target": "Então precisa flutuar na água e aguentar o peso de várias crianças pequenas. Não pode ser tão difícil fazer algo assim com um pedaço de pele de lagarto, pode?" },
+    { "gameKey": "quest/037/BanPix112_03700#TEXT_BANPIX112_03700_UINNEE_000_023", "hash": "DE2FB9D60896C62E", "target": "E, como não vamos navegar em água de verdade, basta conjurar algo que pelo menos <italic(1)>pareça<italic(0)> um barco, e tudo bem. Ah, sim, vamos viver grandes aventuras com as crianças pelo oceano azul! ...Ele <italic(1)>é<italic(0)> azul, não é?" }
   ]
 }

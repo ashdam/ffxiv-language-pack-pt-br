@@ -2,18 +2,18 @@
   "conversation": "quest/027/StmBdz320_02716",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_SEQ_00", "hash": "5B26E3DF94953599", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_00", "hash": "CF33071EA71C96D7", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_01", "hash": "BCD3CE0DD7C56078", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_02", "hash": "842412D27873C959", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_03", "hash": "CBD012006B545F83", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_000", "hash": "B6D1D8F6947BDCB8", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_001", "hash": "73CC430FD8CA4D45", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_002", "hash": "8CBBABFA002B443C", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_003", "hash": "40E4B7FDE89088D8", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_100_010", "hash": "953E6C0411389259", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_010", "hash": "E718AC6B169CC2A9", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_011", "hash": "1E1CF940391C648E", "target": "" },
-    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_012", "hash": "068CA20F1F4C59FF", "target": "" }
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_SEQ_00", "hash": "5B26E3DF94953599", "target": "Uma expressão de profundo desagrado marca o rosto de Misago." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_00", "hash": "CF33071EA71C96D7", "target": "Obter crimson sea grass" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_01", "hash": "BCD3CE0DD7C56078", "target": "Obter vimshrooms" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_02", "hash": "842412D27873C959", "target": "Obter carne fresca de island gedan" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_TODO_03", "hash": "CBD012006B545F83", "target": "Entregar os itens solicitados a Misago" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_000", "hash": "B6D1D8F6947BDCB8", "target": "<if(gnum4,Uma aventureira,Um aventureiro)>? Louvados sejam os kami! Preciso que faça uma coisa para mim." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_001", "hash": "73CC430FD8CA4D45", "target": "Meu marido adoeceu e está de cama. Se não voltar logo ao trabalho, vamos passar por sérias dificuldades. Para apressar sua recuperação, estou pensando em fazer um ensopado reforçado e preciso da sua ajuda para juntar alguns ingredientes." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_002", "hash": "8CBBABFA002B443C", "target": "Por favor, traga um punhado dos cogumelos-de-vigor que crescem ao norte daqui, três pedaços de carne de island gedan e um pouco de alga marinha carmesim de Isle of Zekki." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_003", "hash": "40E4B7FDE89088D8", "target": "Os cogumelos-de-vigor podem ser encontrados ao norte daqui, assim como os island gedan. Mas você precisará ir a Isle of Zekki para conseguir a alga marinha carmesim." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_100_010", "hash": "953E6C0411389259", "target": "Ah, que bom que voltou. Conseguiu encontrar tudo o que pedi?" },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_010", "hash": "E718AC6B169CC2A9", "target": "Fantástico! Agora só falta jogar tudo numa panela e deixar os ingredientes cozinharem." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_011", "hash": "1E1CF940391C648E", "target": "Embora os peixes que pescamos aqui sejam excelentes, comer a mesma coisa todos os dias não é exatamente saudável. Uma dieta equilibrada precisa incluir carne e uma variedade de vegetais." },
+    { "gameKey": "quest/027/StmBdz320_02716#TEXT_STMBDZ320_02716_MISAGO_000_012", "hash": "068CA20F1F4C59FF", "target": "Obrigada, <if(gnum4,senhora,senhor)>. Espero que a comida que você reuniu devolva todas as forças do meu marido num instante!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa508_00760",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_POP_MESSAGE_000", "hash": "21BA667ED6E60ED4", "target": "" }
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "Annabel, das Chamas Imortais, tem uma tarefa para <if(gnum4,uma aventureira valente,um aventureiro valente)>." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "Dizem que almas perdidas da época de Belah'dia assombram as ruínas ao sul de Little Ala Mhigo. Use a água benta fornecida por Annabel para enfraquecer seus poderes e mate um tempered sword e um tempered brand." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_02", "hash": "7E9A4DA7600E34F6", "target": "As almas endurecidas foram mortas. Informe Annabel do seu sucesso." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_03", "hash": "681D341EB84526D2", "target": "Impressionada com suas habilidades, Annabel decide se dedicar ao treinamento marcial para que, um dia, possa realizar feitos semelhantes." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_00", "hash": "92850635E57C7601", "target": "Usar água benta e abater um tempered sword" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_01", "hash": "EF44EDDEA9F5A308", "target": "Usar água benta e abater um tempered brand" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_TODO_02", "hash": "E0489BF1E376BCDA", "target": "Relatar a Annabel" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_000", "hash": "5A8A280D38AB29FA", "target": "<if(gnum4,Aventureira,Aventureiro)>, gostaria de sua atenção. Por acaso já visitou as ruínas ao sul daqui? Dizem que datam da época dos habitantes de Belah'dia." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABELl_000_001", "hash": "056EA19E4827B7B5", "target": "Como estudiosa de história, fiquei encantada quando meus superiores me mandaram patrulhar o local. Porém, meu encanto logo virou pavor quando descobri a terrível verdade: aquelas ruínas são assombradas!" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_002", "hash": "C97F28CFC4B0B44F", "target": "Sim, você ouviu direito. Espectros de Belah'dia assombram o lugar até hoje, e meu treinamento limitado mal me preparou para enfrentar tais horrores. Você poderia fazer a gentileza de pegar esta água benta e conduzir as almas perdidas ao reino de Thal?" },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_ANNABEL_000_030", "hash": "DEE40D885A53F77B", "target": "Notável! Vocês aventureiros são mesmo tão valentes quanto dizem. Preciso me dedicar ao treinamento para que, um dia, eu também seja capaz de tais feitos." },
+    { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_POP_MESSAGE_000", "hash": "21BA667ED6E60ED4", "target": "Você sente uma presença hostil!" }
   ]
 }

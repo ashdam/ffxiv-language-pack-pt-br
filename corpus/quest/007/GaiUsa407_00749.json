@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa407_00749",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "" },
-    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "" }
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_00", "hash": "52868A59B22C44D9", "target": "O pesquisador Claudian precisa da ajuda de <if(gnum4,uma aventureira,um aventureiro)> para se livrar de algumas aves incômodas." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_01", "hash": "F07E12C9944DB19C", "target": "Arautos alados da morte e da destruição estão arruinando a investigação de Claudian nas ruínas. Coloque espantalhos feitos à mão nos locais indicados na Ponte Alta." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_02", "hash": "4CA2C1675568866B", "target": "Os espantalhos foram colocados. Informe a Claudian que as pragas aladas não vão mais atrapalhar sua pesquisa." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_SEQ_03", "hash": "2C5477D11895D2EE", "target": "Agora livre para mergulhar em sua pesquisa, Claudian agradece sua ajuda." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_00", "hash": "A3FF32A62863BEE0", "target": "Colocar espantalhos feitos à mão nos locais indicados" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_TODO_01", "hash": "9A25BA8F6A1F080A", "target": "Relatar a Claudian" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_000", "hash": "D5C6316F0EE3D73C", "target": "<italic(1)>Não<italic(0)> olhe para baixo, Claudian! Não deve, não vai, não <italic(1)>pode<italic(0)> olhar─aaaaaahhh!" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_001", "hash": "451FE3D94FA58BC5", "target": "Pelos Doze, <if(gnum4,minha boa senhora,meu bom senhor)>, você quase me matou de susto! Mas me perdoe: ando um pouco inquieto ultimamente, com aqueles pesadelos alados vindo de todas as direções para me bicar, cutucar e espetar." },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_002", "hash": "CFEFC45BC3F086E7", "target": "Seria melhor guardar meus instrumentos e ir para casa, pois não vou avançar nem um pouco na pesquisa. Porém, se <if(gnum4,uma aventureira bondosa,um aventureiro bondoso)> como você usasse estes espantalhos para afastar as aves, seria outra história. O que me diz?" },
+    { "gameKey": "quest/007/GaiUsa407_00749#TEXT_GAIUSA407_00749_CLAUDIEN_000_020", "hash": "DDB67863E6097AC5", "target": "<italic(1)>Não<italic(0)> olhe─ah, você cuidou das aves, é? Um trabalho esplêndido, <if(gnum4,minha amiga,meu amigo)>! Agora é descer e voltar à pesquisa. Hã, não se preocupe, já vou... pode seguir seu caminho." }
   ]
 }

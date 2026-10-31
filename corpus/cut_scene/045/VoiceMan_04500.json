@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000010_ALISAIE", "hash": "9F114FDCBC476EA4", "target": "Que bom que você veio, embora eu receie que as boas notícias sejam poucas." },
-    { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000020_ALISAIE", "hash": "E1E149B7DD80CA37", "target": "Depois que você saiu, procuramos tanto o Grêmio dos Alquimistas quanto Stillglade Fane e tentamos todo tipo de tratamento..." },
+    { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000020_ALISAIE", "hash": "E1E149B7DD80CA37", "target": "Depois que você saiu, procuramos tanto o Grêmio dos Alquimistas quanto o Santuário da Clareira Serena e tentamos todo tipo de tratamento..." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000030_ALISAIE", "hash": "3CBEB84CC609BE3E", "target": "Mas o resultado era sempre o mesmo. Seja qual for a resposta, não é alquimia nem conjuração..." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000040_ALISAIE", "hash": "8DD5A8ABE925D2A8", "target": "Por que tinham que ser Y'shtola e Urianger, e não eu? Entre todos nós, são eles que poderiam resolver esse enigma." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000050_ALISAIE", "hash": "0EF756910ACAEF52", "target": "E Alphinaud continua desaparecido. Deuses, está tudo dando errado... Por onde começamos?" },
@@ -60,7 +60,7 @@
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000580_ALISAIE", "hash": "EA382647AAFA033E", "target": "Antes de...adoecerem, Y'shtola e Urianger estavam trocando observações sobre o “rareamento” do éter. Parece que acontece por toda parte." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000590_MATOYA", "hash": "5756577110200F67", "target": "É mesmo? E eu aqui, pronta para culpar aquela montanha de sucata rangente que entope o Thaliak pelos meus problemas." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000600_MATOYA", "hash": "C5EF9A44DBF4D6B8", "target": "Receio que algo tenha saído errado. Ainda assim, não adianta se assustar com sombras. Só podemos fazer o que está ao nosso alcance, uma coisa de cada vez!" },
-    { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000610_LYSE", "hash": "1A4DEE3DA75F5229", "target": "Desculpem por fazer vocês cruzarem metade do continente, mas, quando Maxima mencionou Alphinaud, achei que iriam querer ouvir as notícias pessoalmente." },
+    { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000610_LYSE", "hash": "1A4DEE3DA75F5229", "target": "Desculpem por fazer vocês cruzarem metade de Eorzea, mas, quando Maxima mencionou Alphinaud, achei que iriam querer ouvir as notícias pessoalmente." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000620_MAXIMA", "hash": "EFEC757C5642A70A", "target": "Ah, nos encontramos de novo...embora eu esperasse circunstâncias mais favoráveis." },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000630_ALISAIE", "hash": "6A08538358207699", "target": "O que aconteceu com meu irmão? Onde está Alphinaud?" },
     { "gameKey": "cut_scene/045/VoiceMan_04500#TEXT_VOICEMAN_04500_000640_MAXIMA", "hash": "91070B789DB8D299", "target": "Não tema, minha senhora. Seu irmão estava com ótima saúde quando me despedi dele, e não tenho motivo para supor que isso tenha mudado." },

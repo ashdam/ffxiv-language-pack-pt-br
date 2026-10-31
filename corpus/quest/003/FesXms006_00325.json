@@ -2,18 +2,18 @@
   "conversation": "quest/003/FesXms006_00325",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_00", "hash": "815B218C7D67CCEE", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_01", "hash": "6928A3FB6B804442", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_02", "hash": "C47D40C11D269A38", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_TODO_00", "hash": "5CCD513043BE84B8", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_000", "hash": "0C6FB4A64C19B645", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_001", "hash": "4C5A7F5364C1DFE0", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_002", "hash": "EA99ECB07040ABCD", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_003", "hash": "2219709EB169780D", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_010", "hash": "325029C6B83AA433", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_011", "hash": "B2C86B4C9BDAC614", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_012", "hash": "3A299E94EDA8A243", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_14", "hash": "E7B90E969CE603E4", "target": "" },
-    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_15", "hash": "4A8FA14DD6E29A5C", "target": "" }
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_00", "hash": "815B218C7D67CCEE", "target": "Amh Garanjy deseja que você continue seu trabalho voluntário em Lavender Beds.<br>※Esta missão está disponível por tempo limitado." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_01", "hash": "6928A3FB6B804442", "target": "Amh Garanjy agradece sua disposição de continuar ajudando em Lavender Beds. Fale com o saint's little helper em Yainu-Par e descubra o que mais pode fazer para apoiar a Celebração da Luz Estelar.<br><br>※Você não poderá concluir esta missão após o encerramento do evento sazonal. Para mais detalhes, consulte o Lodestone." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SEQ_02", "hash": "C47D40C11D269A38", "target": "O ajudante soube de sua promessa de ajudar e parece ansioso para lhe dar trabalho. Fale mais uma vez com o voluntário para ajudar nas festividades de Lavender Beds." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_TODO_00", "hash": "5CCD513043BE84B8", "target": "Falar com o saint's little helper em Lavender Beds" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_000", "hash": "0C6FB4A64C19B645", "target": "Quer fazer mais pela celebração? Maravilha! Se quiser concentrar seus esforços aqui em Lavender Beds, fale com o ajudante logo ali." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_001", "hash": "4C5A7F5364C1DFE0", "target": "As festividades sempre vêm acompanhadas de uma porção de afazeres, e não sei o que faria sem meus dedicados voluntários. Por mais que eu quisesse assumir toda a carga, simplesmente não é possível..." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_002", "hash": "EA99ECB07040ABCD", "target": "...Mas não vamos perder tempo com pensamentos melancólicos! Temos um festival alegre para organizar!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_AMHGARANJY_000_003", "hash": "2219709EB169780D", "target": "Se quiser continuar seus esforços aqui em Lavender Beds, fale com o ajudante ali à esquerda dos mammets. Obrigada pela ajuda, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_010", "hash": "325029C6B83AA433", "target": "Olá! Você deve ser <if(gnum4,a aventureira,o aventureiro)> que a organizadora mencionou." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_011", "hash": "B2C86B4C9BDAC614", "target": "Se não me engano, você já recolheu uma carta e entregou um presente, sim? Então está tudo pronto para as tarefas que vou lhe dar, pois são da mesma natureza." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_VOLUNTEER65861_000_012", "hash": "3A299E94EDA8A243", "target": "Ah, por acaso estava se preocupando com o conteúdo dos presentes que vai distribuir? Não precisa. São apenas objetos simples feitos de madeira, arcos de brinquedo, prendedores de cabelo e coisas assim, abençoados pelos próprios Ouvintes!" },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_14", "hash": "E7B90E969CE603E4", "target": "Uma missão diária está disponível com o ajudante em Lavender Beds." },
+    { "gameKey": "quest/003/FesXms006_00325#TEXT_FESXMS006_00325_SYSTEM_000_15", "hash": "4A8FA14DD6E29A5C", "target": "Ao concluir esta tarefa repetível, você obterá estrelas caídas que podem ser trocadas por artigos sazonais da Celebração da Luz Estelar." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/028/StmBdz819_02847",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_SEQ_00", "hash": "9C1E72C40731D8C6", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_00", "hash": "CDEC9FEE58526B16", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_01", "hash": "8CA07A16C3040303", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_000", "hash": "035A997D1128F488", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_001", "hash": "48AD002D00D56B80", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_002", "hash": "96F92BF5EFB5C238", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_003", "hash": "F10A61BBF96A2AE9", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_009", "hash": "3E007C7A1BAC8014", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_010", "hash": "FCD76B409341E86B", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_011", "hash": "9AF8EBB79D4D4AD6", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_012", "hash": "2BD920F7FC23FB9E", "target": "" },
-    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_013", "hash": "7936BCAFE89C71F8", "target": "" }
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_SEQ_00", "hash": "9C1E72C40731D8C6", "target": "Guntmar precisa muito de algo para recuperar o ânimo." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_00", "hash": "CDEC9FEE58526B16", "target": "Matar um muud suud para obter seu chifre" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_TODO_01", "hash": "8CA07A16C3040303", "target": "Entregar o chifre de muud suud a Guntmar" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_000", "hash": "035A997D1128F488", "target": "Que surpresa encontrar você num lugar como este. Na verdade, a ajuda de <if(gnum4,uma aventureira capaz,um aventureiro capaz)> como você viria bem a calhar." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_001", "hash": "48AD002D00D56B80", "target": "Ficar de vigia aqui sozinho é um trabalho surpreendentemente cansativo. Ultimamente, não consigo manter a concentração e acabo cochilando nas horas mais estranhas do dia." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_002", "hash": "96F92BF5EFB5C238", "target": "Se pudesse me trazer um único chifre dos muud suuds que ficam perto de Goodblade, ajudaria imensamente." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_003", "hash": "F10A61BBF96A2AE9", "target": "Só preciso de um chifre dos muud suuds perto de Goodblade. Deve ser fácil para <if(gnum4,uma aventureira,um aventureiro)> como você, certo?" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_009", "hash": "3E007C7A1BAC8014", "target": "Teve algum problema para conseguir o chifre?" },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_010", "hash": "FCD76B409341E86B", "target": "Perfeito. É exatamente o que eu precisava para recuperar a disposição." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_011", "hash": "9AF8EBB79D4D4AD6", "target": "De início, fui designado para este posto por ter alguma familiaridade com a região, mas conheço uns truques que a maioria não sabe. Como moer estes chifres até virarem pó e depois misturar em água fervente. Faz bem e tem um gosto forte que realmente desperta." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_012", "hash": "2BD920F7FC23FB9E", "target": "Sabe, com tão poucos recursos para viver aqui nas montanhas, às vezes fico espantado por termos conseguido sobreviver por tanto tempo. Acho que se pode dizer que é uma prova do valor dos conhecimentos e habilidades que nossos antepassados transmitiram de geração em geração." },
+    { "gameKey": "quest/028/StmBdz819_02847#TEXT_STMBDZ819_02847_GUNTMAR_000_013", "hash": "7936BCAFE89C71F8", "target": "Aham. Desculpe por isso. Faz tanto tempo que não tenho ninguém com quem conversar aqui em cima. Obrigado de novo pela ajuda." }
   ]
 }

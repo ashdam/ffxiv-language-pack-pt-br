@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb907_00930",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_00", "hash": "7CDA50B344A6E944", "target": "Sor Loanne quer que você abata aves em nome de tudo o que é sagrado." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_01", "hash": "C7BC4D56DBBEF47B", "target": "Sor Loanne, de Ishgard, pede que você elimine algumas ameaças voadoras da região. Embora sua veemência autoritária cause estranheza, você se dispõe a atender ao pedido e matar cinco bateleurs." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_02", "hash": "27108ED96B183579", "target": "Você mata cinco bateleurs, com mais dúvidas a cada um, mas trabalho é trabalho. Volte a Sor Loanne e veja se ela explica de que servem mortos." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_SEQ_03", "hash": "D99E6CDB3DA4EA08", "target": "Satisfeita com o cumprimento dessa tarefa inferior, Sor Loanne revela que os bateleurs compartilham o gosto dos cavaleiros por cloud cutters e outros peixes de Sea of Clouds. Em Ishgard, nunca é boa ideia querer o que os cavaleiros querem..." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_00", "hash": "641315BB704A9AFB", "target": "Matar bateleurs" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_TODO_01", "hash": "0F80BBB0CE36E8A4", "target": "Relatar a Loanne" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_000", "hash": "6DFFD82BBD45CAE8", "target": "A ociosidade não combina com <if(gnum4,uma mulher tão saudável,um homem tão saudável)>. Vá matar para nós cinco bateleurs que fazem ninho por aqui." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_001", "hash": "98A11440A7294926", "target": "A cruzada consome os cavaleiros de Ishgard de corpo e alma. A você cabem os trabalhos aos quais não podemos nos rebaixar, mas nos quais tem obtido algum sucesso, se as histórias forem verdadeiras. Sua presença faz parte do plano de Halone para nós. Louvada seja a Fúria!" },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_020", "hash": "886F2743C1E1FDF8", "target": "Você serviu bem. Os bateleurs se fartam das riquezas de Sea of Clouds, e isso não podemos permitir." },
+    { "gameKey": "quest/009/GaiUsb907_00930#TEXT_GAIUSB907_00930_LOANNE_000_021", "hash": "3345B4DF86CBF5D1", "target": "Os peixes daquele mar sublime pertencem aos nobres cavaleiros da cruzada, não a aves e feras inferiores. A Fúria nos concedeu domínio sobre todas as criaturas desta terra, e os dravanianos também compreenderão essa verdade." }
   ]
 }

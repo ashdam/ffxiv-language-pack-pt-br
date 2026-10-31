@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb905_00928",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "" },
-    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "" }
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_00", "hash": "8996CFE818F1444F", "target": "Para gente como a autoritária Sor Oncenedl, quem vive de aventuras não passa de um servente para tarefas macabras." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_01", "hash": "EE40FCC6205748AE", "target": "Com bastante desdém, Sor Oncenedl pede que você procure objetos pessoais no corpo de um herege e os entregue nos Portões do Julgamento. Aparentemente, alguns membros da Santa Sé acreditam que eles fornecerão informações valiosas." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_02", "hash": "C737C56F6C4F927B", "target": "Alguém que vivia de aventuras disse uma vez que não há trabalhos sujos, só lembranças sujas, e você sente que logo poderá pôr essa teoria à prova. Leve o saco de pertences a Sor Chaunollet nos Portões do Julgamento." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_SEQ_03", "hash": "4B4A5D9B633D7854", "target": "Sor Chaunollet elogia você por saquear os mortos e parece esperançoso de que esses tristes restos de uma vida interrompida ajudem a causa de Ishgard. Você não sabe o que pensar, mas o trabalho está feito, e um banho espera..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_00", "hash": "AFF2522E8DF7080B", "target": "Procurar objetos pessoais no corpo" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_TODO_01", "hash": "F79B561A17ED12C5", "target": "Entregar o saco de pertences a Chaunollet" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_000", "hash": "A0B66A087B1D91E8", "target": "Ei! Requisito seu tempo em nome da Santa Sé. Procure pertences pessoais no corpo lá embaixo e leve tudo aos Portões do Julgamento. Ele foi herege em vida, não precisa ter delicadeza." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_001", "hash": "0AFA93205350CCD8", "target": "Normalmente deixamos a carcaça para os corvos, mas... como você sabe, houve alguns problemas ultimamente, e agora nos mandam revirar esses bolsos cheios de piolhos." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_ONCENEDL_000_002", "hash": "2E82E9F9D8ABF143", "target": "É um trabalho baixo, e deixo para você. Aposto que só vai encontrar lêndeas." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_010", "hash": "DBCEC340E51237DE", "target": "Diga o que quer!" },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_020", "hash": "22D84E43BFFA4693", "target": "Ah, os restos dos descrentes, excelente. Você serviu com honra. Esperemos encontrar alguma pista aqui..." },
+    { "gameKey": "quest/009/GaiUsb905_00928#TEXT_GAIUSB905_00928_CHAUNOLLET_000_021", "hash": "5CE4096A07D9D3C1", "target": "Odiei os descrentes por muito tempo, mas não mais, pois eles também servem à Fúria. Se não em vida, então na morte. Quanta compaixão tem Halone para lhes conceder essa chance!" }
   ]
 }

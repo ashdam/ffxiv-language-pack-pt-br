@@ -2,19 +2,19 @@
   "conversation": "quest/017/HeaVnz011_01736",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_00", "hash": "D0EE99AB05DE5C05", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_01", "hash": "0EB08721C445D448", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_02", "hash": "E0586409182A7CF2", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_03", "hash": "54992E58375D882D", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_00", "hash": "AB4421D8A5765113", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_01", "hash": "7CDAD776C8039E2F", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_000", "hash": "A17A8CBA8CA5A113", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_001", "hash": "38AF043BD13F6544", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_002", "hash": "7537946F8E527303", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_010", "hash": "EFEDF5659A93BE6B", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_020", "hash": "FF30A008F0384296", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_021", "hash": "1770AFB9FF4AD20C", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_022", "hash": "02A7BBA932231C54", "target": "" },
-    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_023", "hash": "E2C3590740ECF160", "target": "" }
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_00", "hash": "D0EE99AB05DE5C05", "target": "Ingaret solta um suspiro longo e desolado." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_01", "hash": "0EB08721C445D448", "target": "Ingaret esperava ter uma oportunidade de procurar os pertences perdidos de seu avô nas docas congeladas perto do Acampamento da Confluência, mas não pode deixar seu posto desguarnecido. Com feras selvagens rondando as docas, ela não pode mandar qualquer pessoa em seu lugar e decide que você é a pessoa certa para a tarefa. Mostre que ela tem razão: enfrente a fauna local e volte com os pertences de seu avô." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_02", "hash": "E0586409182A7CF2", "target": "Após vasculhar as docas, você encontra tudo que corresponde à descrição de Ingaret. Leve os objetos a ela em Falcon's Nest." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_SEQ_03", "hash": "54992E58375D882D", "target": "Ingaret agradece por recuperar os pertences de seu avô, lembranças de sua época de barqueiro na Confluência. Ela espera que essas recordações dos deveres e responsabilidades que ele deixou para trás ao fugir das terras altas o ajudem a reencontrar o propósito que perdeu nos últimos anos." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_00", "hash": "AB4421D8A5765113", "target": "Procurar os objetos perdidos perto do Acampamento da Confluência" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_TODO_01", "hash": "7CDAD776C8039E2F", "target": "Entregar os pertences a Ingaret" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_000", "hash": "A17A8CBA8CA5A113", "target": "\\<suspiro> Mesmo que eu tivesse tempo de ir lá sozinha, se esbarrasse naquelas feras, não teria a menor chance..." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_001", "hash": "38AF043BD13F6544", "target": "Sabe, um dos motivos pelos quais pedi para vir trabalhar aqui foi recuperar os pertences de meu avô. Devem estar perto das docas congeladas do Acampamento da Confluência." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_002", "hash": "7537946F8E527303", "target": "Mas, com toda esta correria, não posso abandonar meu posto agora. Para piorar, o lugar está infestado de monstros, então não posso mandar qualquer pessoa em meu lugar. Mas você parece saber se defender. Poderia fazer a gentileza de me ajudar?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_010", "hash": "EFEDF5659A93BE6B", "target": "Se procurar nas docas perto do Acampamento da Confluência, certamente encontrará as coisas dele." },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_020", "hash": "FF30A008F0384296", "target": "Encontrou? Encontrou as coisas de meu avô?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_021", "hash": "1770AFB9FF4AD20C", "target": "Ah, parece que está tudo aqui! Que Halone abençoe você!" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_022", "hash": "02A7BBA932231C54", "target": "Meu avô ganhava a vida como barqueiro antes da Calamidade. Mas de que serve um barqueiro quando o gelo é grosso o bastante para atravessar a pé?" },
+    { "gameKey": "quest/017/HeaVnz011_01736#TEXT_HEAVNZ011_01736_INGARET_000_023", "hash": "E2C3590740ECF160", "target": "Não é de admirar que a saúde dele tenha piorado tanto ao longo dos anos. Pois é, um homem sem propósito fica sujeito a doenças. Mas, se eu pudesse lembrá-lo do que já teve, talvez ele se recuperasse..." }
   ]
 }

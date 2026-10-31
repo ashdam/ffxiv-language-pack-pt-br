@@ -2,15 +2,15 @@
   "conversation": "quest/007/GaiUsa805_00789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "" }
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_00", "hash": "3EAF2F2AD052FBC1", "target": "Godwin, dos Lamentadores da Mata, tem um relatório que precisa ser entregue com urgência." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_01", "hash": "420EA53A3288CA15", "target": "Godwin confiou a você um relatório confidencial sobre os acontecimentos recentes nos arredores da Balsa de Fallgourd. Entregue-o a Vortefaurt, das Duas Víboras, com a devida urgência." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_SEQ_02", "hash": "4B62C2716AF197BD", "target": "O relatório de Godwin menciona avistamentos de um homem mascarado que alarmaram a Balsa de Fallgourd. Será que a figura ameaçadora descrita é um asciano?" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_TODO_00", "hash": "C145A374CD816F4C", "target": "Entregar o relatório de Fallgourd a Vortefaurt" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_000", "hash": "7D1A6EA106408A6F", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Se não se importa de fazer uma entrega, tenho um relatório que precisa chegar à Torre de Florentel com toda a pressa." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_GODWIN_000_001", "hash": "111E3BF0E132AE8A", "target": "Mas atenção: estas informações são altamente confidenciais. Confio que vai entregar o relatório diretamente nas mãos do Tenente da Serpente Vortefaurt, <italic(1)>sem<italic(0)> dar uma espiadinha." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_010", "hash": "2454AB5CC9EFEF51", "target": "Estas bandas estão cheias de feras especialmente ferozes. É bom você manter distância, para eu não ter que recolher seu cadáver do chão da floresta." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_015", "hash": "C6680AAAF3DAA875", "target": "Um relatório de Godwin, é? Muito bem, vejamos... Mercador ambulante atacado por bandidos Qiqirn, aventureiro teve a mão arrancada pela mordida de um ziz selvagem, etcétera, etcétera... \\<suspiro> As banalidades de sempre." },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_016", "hash": "74DFF34FD4667A05", "target": "Hm? O que é isto? Avistamentos de um homem mascarado...? “Nenhuma vítima relatada até o momento, mas é preciso manter a devida vigilância.”" },
+    { "gameKey": "quest/007/GaiUsa805_00789#TEXT_GAIUSA805_00789_VORTEFAURT_000_017", "hash": "C765EC3C289CE0AB", "target": "Notícias preocupantes, de fato. Estas bandas já são perigosas o bastante sem um saqueador mascarado causando problemas. Obrigado. Pode ter certeza de que a Víbora ficará de olho nesse intruso." }
   ]
 }

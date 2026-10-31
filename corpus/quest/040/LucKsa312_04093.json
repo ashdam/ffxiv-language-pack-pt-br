@@ -2,17 +2,17 @@
   "conversation": "quest/040/LucKsa312_04093",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SEQ_00", "hash": "6D3E521A0E69CF0B", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_100_000", "hash": "5D086B04800040AB", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_000", "hash": "6EC2016D862BD3AA", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_001", "hash": "F57ED53BD6A5D5C3", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_002", "hash": "140CBE12760FD839", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_010", "hash": "4C2151105DB28A80", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_011", "hash": "99FBE0262E671786", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_012", "hash": "2377D14737EB2C46", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_013", "hash": "2031479639ADFC71", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_000_030", "hash": "2DBD13B1E22F67FC", "target": "" },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_000_031", "hash": "E72613D13AD9F587", "target": "" }
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SEQ_00", "hash": "6D3E521A0E69CF0B", "target": "A Resistência tomou mais um posto avançado, e Dmitar quer levar você até lá." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "Falar com Dmitar em Western Plateau" },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_100_000", "hash": "5D086B04800040AB", "target": "É necessário atingir Resistance Rank <num(lnum1)> para prosseguir nesta missão." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_000", "hash": "6EC2016D862BD3AA", "target": "Que bom ver você, Lâmina <split(<string(gstr1)>, ,2)>. Vejo que não se acomodou desde nosso último encontro." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_001", "hash": "F57ED53BD6A5D5C3", "target": "Tomamos um novo posto avançado, e uma barreira foi erguida sobre o local há pouco tempo." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_002", "hash": "140CBE12760FD839", "target": "Venha comigo, vou mostrar nosso novo acampamento. Agora estamos perigosamente perto da <italic(1)>Dalriada<italic(0)>, então fique de sobreaviso." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_010", "hash": "4C2151105DB28A80", "target": "Estamos a um passo da <italic(1)>Dalriada<italic(0)>, para grande desgosto da IV Legião, imagino." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_011", "hash": "99FBE0262E671786", "target": "É preocupante que os planos deles continuem sendo um mistério, mas o Mestre Garlond está confiante nas contramedidas que preparou para qualquer ataque aéreo que estejam planejando." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_012", "hash": "2377D14737EB2C46", "target": "A vitória está quase em nossas mãos, Lâmina <split(<string(gstr1)>, ,2)>! Posso sentir!" },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_013", "hash": "2031479639ADFC71", "target": "Não há como saber que tipo de armamento magitek a IV Legião empregará em seu desespero, mas confio que triunfaremos no fim." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_000_030", "hash": "2DBD13B1E22F67FC", "target": "A linha de frente da Resistência avança, permitindo que você participe de novas escaramuças e confrontos críticos." },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_000_031", "hash": "E72613D13AD9F587", "target": "A próxima missão pode ser aceita falando com Bajsaljen após atingir Resistance Rank <num(lnum1)> ou superior." }
   ]
 }
