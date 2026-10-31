@@ -195,7 +195,7 @@
       "expansion": null,
       "content": "ClassJob",
       "translated": 0,
-      "total": 87,
+      "total": 130,
       "wholeSheet": true
     },
     {
@@ -26105,7 +26105,7 @@
         "translated": 0,
         "pending": 978,
         "stale": 0,
-        "excluded": 59771,
+        "excluded": 59814,
         "excludedTranslated": 0,
         "chars": 140695,
         "percent": 0
@@ -26125,7 +26125,7 @@
             "translated": 0,
             "pending": 188,
             "stale": 0,
-            "excluded": 87,
+            "excluded": 130,
             "excludedTranslated": 0,
             "chars": 5051,
             "percent": 0
@@ -26142,7 +26142,7 @@
                 "translated": 0,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 87,
+                "excluded": 130,
                 "excludedTranslated": 0,
                 "chars": 0,
                 "percent": 0
@@ -53834,9 +53834,9 @@
     {
       "sheet": "ClassJob",
       "content": "Classes and jobs",
-      "total": 87,
+      "total": 130,
       "translated": 0,
-      "pending": 87,
+      "pending": 130,
       "pendingPercent": 100
     },
     {
