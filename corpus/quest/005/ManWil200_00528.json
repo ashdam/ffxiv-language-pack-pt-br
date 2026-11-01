@@ -100,7 +100,7 @@
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_95", "hash": "A3D91C8EBBB65288", "target": "Fale com Zanthael no Salão do Baluarte. Ele terá prazer em levar você à sala de comando da Almirante, na Ponte." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_100", "hash": "8D61F81AEAFCF286", "target": "Saudações, <if(gnum4,senhora,senhor)>, e <if(gnum4,bem-vinda,bem-vindo)> à nossa bela cidade. Se me permite examinar o selo da missiva que traz..." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_101", "hash": "E91DEBA7962B429B", "target": "Sim, está tudo em ordem. Minhas desculpas. Não podemos nos dar ao luxo de relaxar, compreende. Por aqui, por favor." },
-    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "1735BD5DE931FE53", "target": "Entre." },
+    { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB", "hash": "CEC66F313D536D21", "target": "(-???-)Entre." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700020_MERLWYB", "hash": "C9C773572BA7D9CD", "target": "Então os mercadores de língua doce mandam <if(gnum4,uma aventureira,um aventureiro)> falar por eles. Parece que os uldahnos depositam grande confiança em você." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700030_MERLWYB", "hash": "73FE59B320771899", "target": "Por aqui." },
     { "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700040_MERLWYB", "hash": "9803D22EB71E4366", "target": "<if(gnum4,Seja bem-vinda,Seja bem-vindo)>." },

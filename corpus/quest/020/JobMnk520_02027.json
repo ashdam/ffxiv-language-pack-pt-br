@@ -28,7 +28,7 @@
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_003", "hash": "E55E9A2EFBC5A47C", "target": "D'zentsa e O'tchakha ficaram impressionadas com você. Falaram de sua habilidade aos colegas. Agora todos querem aprender com você." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_004", "hash": "39A4D313F3B1AB73", "target": "Meus alunos estão treinando a oeste. Vamos até lá." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_050", "hash": "61AA65031436716B", "target": "É um dos meus alunos. Foi espancado. Quem fez isso?" },
-    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "0B0F687009EF08FD", "target": "Ungh... Eram monges... como nós..." },
+    { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_DESHI02027_000_051", "hash": "910A62FC0B8C1C17", "target": "(-Discípulo ferido-)Ungh... Eram monges... como nós..." },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_052", "hash": "32AB53C6A32BE9A5", "target": "Os mesmos vilões que me atacaram? Isso é um ultraje! Precisam pagar! Venha comigo, <if(gnum4,irmã,irmão)>! Não podem estar longe!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_080", "hash": "3D61EF32F6882A20", "target": "São eles, <if(gnum4,irmã,irmão)>!" },
     { "gameKey": "quest/020/JobMnk520_02027#TEXT_JOBMNK520_02027_WIDARGELT_000_081", "hash": "57B4BCA1C3F4B4C1", "target": "Mas há mais à solta. Eu os vi fugir. Cuide destes. Continuarei a perseguição." },

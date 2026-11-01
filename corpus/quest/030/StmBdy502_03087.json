@@ -59,7 +59,7 @@
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_085", "hash": "2E9FC333E48D45BD", "target": "Quando os trabalhadores do assentamento precisavam de ajuda, vocês estavam lá. Quando não havia mais ninguém para cuidar das crianças menores, vocês estavam lá." },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_086", "hash": "D96FB51B08A0D8AB", "target": "E, em tudo isso, cada um de vocês cumpriu seus deveres com um sorriso. Por isso, vocês são mais que aventureiros corajosos, são heróis para o povo do Pedágio!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_FLHAMINN_000_087", "hash": "8CE06C75A8F08972", "target": "Heróis que merecem uma recompensa muito especial, que por acaso está bem... ali!" },
-    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "51D60254978878C6", "target": "Tesouro!" },
+    { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_088", "hash": "3A40053F1F1A7A3E", "target": "(-Guilda dos Aventureiros de Doma-)Tesouro!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_089", "hash": "013659273A867E9F", "target": "Uau, olhem só!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_KOHARU_000_090", "hash": "30B80903BB216E31", "target": "Olhe, <if(gnum4,senhorita,senhor)> <split(<string(gstr1)>, ,1)>! Ela deu chapéus iguais pra gente!" },
     { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_YOUZAN_000_091", "hash": "ED1DA9232A00D808", "target": "Eles vão ser o uniforme oficial da Guilda dos Aventureiros de Doma!" },

@@ -60,7 +60,7 @@
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_065", "hash": "DBCD1187D8F9F679", "target": "Por que as sonhadoras precisam chegar a essse ponto?" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_JOLHMYN_000_070", "hash": "DD0A7943724C8277", "target": "Ainda bem que chegamos a tempo, mas parece que ainda temos trabalho pela frente!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_110", "hash": "E9EE276FB8F14437", "target": "Não achei que viriam tantas... Elas não desssistem!" },
-    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_KARYANAENEMY03040_000_111", "hash": "884ADAE3D4186C4C", "target": "Quem ousa interferir!? Aaaah!" },
+    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_KARYANAENEMY03040_000_111", "hash": "1BDE90349C691D52", "target": "(-Qalyana enfurecida-)Quem ousa interferir!? Aaaah!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_MZHETTIA_000_112", "hash": "F1F8CE50AAC9FE4F", "target": "Aí está você, <split(<string(gstr1)>, ,1)>! Achou que ia ficar com toda a glória, é? Você não é <if(gnum4,a única heroína,o único herói)> por aqui!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_TAHLAMOLKOH_000_113", "hash": "57717C1C9F7BEBB0", "target": "Eu só vim admirar as estátuas de grifos, mas não vou ficar parada com meus amigos em perigo! É hora de Tahla Molkoh, a Víbora Invisível, mostrar suas presas!" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_JOLHMYN_000_114", "hash": "FF212F121C03D18C", "target": "“Víbora Invisível”? É porque os outros ignoram você?" },

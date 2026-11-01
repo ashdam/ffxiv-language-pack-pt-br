@@ -51,7 +51,7 @@
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_100", "hash": "B466816BA7671AD3", "target": "Belo trabalho, <split(<string(gstr1)>, ,1)>. Oboro ficaria orgulhoso." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_101", "hash": "AE31143CFBF6D163", "target": "Belo trabalho, <split(<string(gstr1)>, ,1)>. <if(gnum4,A senhora,O senhor)> tem talento para os caminhos dos shinobi..." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_YUGIRI_000_102", "hash": "1C5AFE1CFD39047C", "target": "O caminho está livre. Vamos nos aproximar e ver o que aconteceu com os aldeões." },
-    { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_SOLDIERC02495_000_103", "hash": "67CDFD4BF27D4323", "target": "Senhor! Os Aan das outras vilas estão reunidos para a inspeção." },
+    { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_SOLDIERC02495_000_103", "hash": "627EA199CF543F9D", "target": "(-Decurião imperial-)Senhor! Os Aan das outras vilas estão reunidos para a inspeção." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_104", "hash": "04C347AD162CAF09", "target": "Muito bem. Falarei com eles pessoalmente." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_105", "hash": "4406B0F09FF73853", "target": "Atenção! Em breve, todos serão transportados para a instalação na margem distante." },
     { "gameKey": "quest/024/StmBda319_02495#TEXT_STMBDA319_02495_GARLEANLEADERDOMA_000_106", "hash": "780CCA6418E7F09C", "target": "Como já foram informados, suas tarefas serão básicas. Mais precisamente, farão reparos e manutenção em várias armas e armamentos, além de dispositivos magitek." },

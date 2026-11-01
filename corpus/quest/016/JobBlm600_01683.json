@@ -32,7 +32,7 @@
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_LALAI_000_105", "hash": "8A8E811BF32D2A7D", "target": "Waldeve, pare! Seja o que for que atravesse esse portal, você nunca conseguirá controlar!" },
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_WALDEVE_000_106", "hash": "55D67A6C5CC32359", "target": "Barghest! Eu o invoco! Apresente-se e submeta-se à minha vontade!" },
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_WALDEVE_000_107", "hash": "9512B55CC141572D", "target": "MuahahahaHAHAHAHAHA! Talvez agora sejam <italic(1)>vocês<italic(0)> que devam fugir. Acham mesmo que <if(gnum4,só vocês duas,só vocês dois)> podem me derrotar!?" },
-    { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_ZHAIANELHAH_000_108", "hash": "13E40D85A7310C74", "target": "<if(gnum4,Elas não estão sozinhas,Eles não estão sozinhos)>!" },
+    { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_ZHAIANELHAH_000_108", "hash": "5DD092CABFFEA947", "target": "(-???-)<if(gnum4,Elas não estão sozinhas,Eles não estão sozinhos)>!" },
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_ZHAIANELHAH_000_109", "hash": "940AA5B2D50348FC", "target": "Seus planos malignos acabam aqui, Waldeve!" },
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_LALAI_000_110", "hash": "4DC6BC7EADD9DAD2", "target": "Zhai'a! Onde você estava!?" },
     { "gameKey": "quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_KAZAGGCHAH_000_111", "hash": "4562D23978818CE7", "target": "Mago tolo! Você perdeu a razão e não receberá piedade!" },

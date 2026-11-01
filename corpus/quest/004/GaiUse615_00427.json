@@ -31,7 +31,7 @@
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_032", "hash": "EA2CE350CCC88C78", "target": "Meu pai falava muito <if(gnum4,da senhora,do senhor)>, <split(<string(gstr1)>, ,1)>, e há muito eu esperava o nosso primeiro encontro. Nem preciso dizer... não era assim que eu o imaginava." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_033", "hash": "755019571E91F3E3", "target": "Mestre Alphinaud, não deve se entregar ao desespero. Isso só faria o jogo dos nossos inimigos! Enquanto o senhor e <split(<string(gstr1)>, ,1)> estiverem livres, ainda podemos endireitar as coisas." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_ALPHINAUD_000_034", "hash": "8B7113FCA662A07C", "target": "Perdoe-me, Marechal Tarupin, mas eu─" },
-    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_035", "hash": "C371E6DB7D967898", "target": "Alphinaud, meu rapaz─desculpe a demora!" },
+    { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_035", "hash": "EC9D4A893AB4B5A3", "target": "(-???-)Alphinaud, meu rapaz─desculpe a demora!" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_ALPHINAUD_000_036", "hash": "099B6B682415D8E1", "target": "Cid? O que faz aqui?" },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_CID_000_037", "hash": "0B201645039DFCFE", "target": "Tirando vocês do fogo, como sempre! Seu amigo mercador me contou tudo." },
     { "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_038", "hash": "ABB8F18AE0C17EEE", "target": "Sério? Então ele não é mercador nenhum, é um anjo em trajes de mascate... Mas diga─como pretende levar nossos amigos para um lugar seguro?" },

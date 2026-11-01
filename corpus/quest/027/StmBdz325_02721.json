@@ -34,7 +34,7 @@
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_100_030", "hash": "5BE5DF8639C08F89", "target": "Lá vamos nós!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_031", "hash": "668083AF3533C2BF", "target": "Maldição! É outra fera!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_040", "hash": "8471AF1F06AF6515", "target": "Tentei duas vezes e fracassei nas duas. \\<suspiro> Esta isca era minha última esperança..." },
-    { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_041", "hash": "E7EB671F13FF6C26", "target": "Nayoshi, já está na hora de encarar a verdade! Você não consegue pescar nada no mar além de monstros!" },
+    { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_041", "hash": "9F01D7D4B9029BE7", "target": "(-Voz feminina furiosa-)Nayoshi, já está na hora de encarar a verdade! Você não consegue pescar nada no mar além de monstros!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_042", "hash": "DAD4DB0116D3521A", "target": "Por sorte, <if(gnum4,a Senhora,o Mestre)> <split(<string(gstr1)>, ,2)> estava aqui para dar conta do bombfish, mas você precisa limpar essa sujeira depressa! O cheiro de sangue vai começar a atrair todo tipo de fera!" },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_NAYOSHI_000_043", "hash": "F99B5C4B88D5FF27", "target": "Muito bem. O cadáver desta criatura maldita vai arder em chamas... junto com todos os meus sonhos." },
     { "gameKey": "quest/027/StmBdz325_02721#TEXT_STMBDZ325_02721_KORURI_000_044", "hash": "821D3010BDFFD538", "target": "E me diga: como exatamente você pretende queimar o corpo sem óleo?" },

@@ -2,19 +2,19 @@
   "conversation": "quest/036/FesSum504_03666",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_00", "hash": "807CF578518D8E70", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_01", "hash": "19590E6629DEF93E", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_02", "hash": "80ADB60FD2B4D25E", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_TODO_00", "hash": "1C45BDF983C65BB4", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_000", "hash": "A70DEBFBBA351FBB", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_001", "hash": "B6148C5E6DB3FD12", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_002", "hash": "842A646204AA3C07", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_003", "hash": "9DD62E8124E62450", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_004", "hash": "C0C529AAB8C58E18", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_005", "hash": "183C051E8CF22072", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_006", "hash": "D6E1F1D1A78FEE31", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_010", "hash": "BB970CBA549EFD7F", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_011", "hash": "BDD87F32A492025B", "target": "" },
-    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_012", "hash": "AE6F9105FAEAB1E0", "target": "" }
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_00", "hash": "807CF578518D8E70", "target": "Hildelana está procurando bons cozinheiros." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_01", "hash": "19590E6629DEF93E", "target": "Você recebeu um convite para o Desafio do Cozinheiro de Ferro, parte das festividades do Festival do Fogo Lunar. Consiga um haddock fresco, cubra-o com massa e frite até dourar. Depois, entregue sua obra-prima culinária a Hildelana, que cuidará para que ela encontre um bom lar na barriga de alguém com fome.<br><br>※Você não poderá concluir esta missão após o término do evento sazonal. Para mais detalhes, consulte o Lodestone." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_SEQ_02", "hash": "80ADB60FD2B4D25E", "target": "Você usa suas habilidades culinárias para preparar uma serving of battered fish com sabor e textura dignos da realeza e a entrega a Hildelana, que fica impressionada. Ela recompensa sua habilidade com a frigideira dando um Faire voucher e convida você a participar do desafio de novo, se quiser." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_TODO_00", "hash": "1C45BDF983C65BB4", "target": "<if([lnum1<lnum2],Obter uma serving of battered fish,Entregar a serving of battered fish a Hildelana)>" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_000", "hash": "A70DEBFBBA351FBB", "target": "Olá! Vejo que você aprecia a boa mesa. Como veio falar comigo, imagino que queira participar do inigualável Desafio do Cozinheiro de Ferro? Ah, que alegria!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_001", "hash": "B6148C5E6DB3FD12", "target": "Não se preocupe se for sua primeira vez, pois as regras são simples. Primeiro, vou indicar um prato. Depois, você reúne os ingredientes e prepara a receita. Por fim, traz sua criação para eu avaliar. Se o resultado estiver à altura, você ganha um Faire voucher pelo esforço!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_002", "hash": "842A646204AA3C07", "target": "E agora, sem mais demora, o prato que você vai preparar é... battered fish! Não esperava essa, não é?" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_003", "hash": "9DD62E8124E62450", "target": "É uma delícia simples que faz o maior sucesso entre o público nesta época do ano. Crocante por fora, macio e delicado por dentro... Se nunca provou, você precisa experimentar!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_004", "hash": "C0C529AAB8C58E18", "target": "Voltou para participar do Desafio do Cozinheiro de Ferro? Então veio ao lugar certo! Vou poupar os detalhes, pois sei que você já tem experiência." },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_005", "hash": "183C051E8CF22072", "target": "Se precisar de haddock fresco, aquele pescador simpático ali terá prazer em vender um dos peixes que pegou... pelo preço certo, claro. Agora vá e prepare uma criação culinária que conquiste o coração de quem provar!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_006", "hash": "D6E1F1D1A78FEE31", "target": "Mal posso esperar para ver o battered fish que você vai preparar para nós!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_010", "hash": "BB970CBA549EFD7F", "target": "Sinta só esse aroma delicioso! Imagino que você tenha trazido o que estou pensando, não é?" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_011", "hash": "BDD87F32A492025B", "target": "Mas veja só! Hadoque fresquinho, empanado e frito até dourar! Se eu já não tivesse devorado dez porções só hoje, acho que não resistiria a comer tudo agora mesmo!" },
+    { "gameKey": "quest/036/FesSum504_03666#TEXT_FESSUM504_03666_HILDELANA_000_012", "hash": "AE6F9105FAEAB1E0", "target": "Mas estou brincando. Pode ter certeza de que sua criação de dar água na boca vai encontrar um bom lar na barriga de alguém do festival. Aceite este Faire voucher como recompensa e tenha orgulho do belo trabalho. Até mais! E, se quiser mostrar seu talento com a frigideira outra vez, sabe onde me encontrar!" }
   ]
 }

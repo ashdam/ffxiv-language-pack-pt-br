@@ -1,5 +1,14 @@
 {
   "entries": [
+    {"gameKey":"PlaceName#95.0","en":"Galvanth's Spire","pt-br":"Torre de Galvanth","protect":false,"note":"Physical watchtower. Keep the separate Tomb of King Galvanth the Dominator name distinct."},
+    {"gameKey":"PlaceName#229.0","en":"Isle of Endless Summer","pt-br":"Ilha do Verão Eterno","protect":false,"note":"Physical resort island. Keep the separate full FishingSpot156 label North Isle of Endless Summer in English."},
+    {"gameKey":"PlaceName#135.0","en":"Yellow Serpent Gate","pt-br":"Portão da Serpente Amarela","protect":false,"note":"Physical gate in prose. Keep the qualified Aethernet destination Yellow Serpent Gate (North Shroud) in English."},
+    {"gameKey":"PlaceName#598.0","en":"Yellow Serpent Gate (North Shroud)","pt-br":"Yellow Serpent Gate (North Shroud)","protect":true,"note":"Complete untranslated Aetheryte32 destination label. The separate physical gate name follows PlaceName135."},
+    {"gameKey":"PlaceName#641.0","en":"Wellhead Lift","pt-br":"Elevador do Poço","protect":false,"note":"Physical lift. Use no, ao and do in prose."},
+    {"gameKey":"PlaceName#211.0","en":"Hidden Falls","pt-br":"Hidden Falls","protect":true,"note":"Complete untranslated FishingSpot54 location label."},
+    {"gameKey":"PlaceName#788.0","en":"Goldsmiths' Guild","pt-br":"Goldsmiths' Guild","protect":true,"note":"Complete untranslated Aetheryte50 destination label."},
+    {"gameKey":"PlaceName#144.0","en":"Gelmorra Ruins","pt-br":"Ruínas de Gelmorra","protect":false,"note":"Physical ruins. Do not add a region omitted by the source."},
+    {"gameKey":"PlaceName#1499.0","en":"The Manderville Lounge","pt-br":"Salão Manderville","protect":false,"note":"Physical lounge. Use no, ao and do in prose."},
     {"gameKey":"PlaceName#270.0","en":"Royal Allagan Sunway","pt-br":"Via Solar Real Alagana","protect":false,"note":"Named road. Short Sunway is Via Solar. Valid prose variants Estrada Solar Real Alagana and Real Via Solar Alagana may remain."},
     {"gameKey":"PlaceName#288.0","en":"Royal Allagan Sunway","pt-br":"Via Solar Real Alagana","protect":false,"note":"Named road. Short Sunway is Via Solar. Valid prose variants Estrada Solar Real Alagana and Real Via Solar Alagana may remain."},
     {"gameKey":"PlaceName#299.0","en":"Royal Allagan Sunway","pt-br":"Via Solar Real Alagana","protect":false,"note":"Named road. Short Sunway is Via Solar. Valid prose variants Estrada Solar Real Alagana and Real Via Solar Alagana may remain."},

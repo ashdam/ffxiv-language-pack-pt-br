@@ -55,7 +55,7 @@
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_KYOKUHO_000_100", "hash": "E19A49B264604B42", "target": "Eu estava com medo de você perguntar isso." },
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_KYOKUHO_000_110", "hash": "DE3B3504C0B8E806", "target": "O que <italic(1)>você<italic(0)> acha que devemos fazer?" },
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_KYOKUHO_000_111", "hash": "FFD264F52E155AE2", "target": "Sou só um humilde estudante das artes da geomancia. Entendo pouco de assuntos do coração." },
-    { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_LEVEVA_000_112", "hash": "27F2507923495086", "target": "E o que, digam lá, vocês dois estão fazendo aqui?" },
+    { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_LEVEVA_000_112", "hash": "98A2F4A0486EF5D1", "target": "(-Leveva-)E o que, digam lá, vocês dois estão fazendo aqui?" },
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_KYOKUHO_000_113", "hash": "3A3A6D5C35A453F9", "target": "Eu, ah... saudações e cumprimentos, minha caríssima Leveva! Como está resplandecente <if([gnum11<12],<if([gnum11<4],nesta bela noite,nesta bela manhã)>,<if([gnum11<17],nesta bela tarde,nesta bela noite)>)>!" },
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_LEVEVA_000_114", "hash": "0F8935C9A1AD6108", "target": "Resplandecente? Passou algumas badaladas com os livros, foi?" },
     { "gameKey": "quest/032/LucKbc013_03222#TEXT_LUCKBC013_03222_LEVEVA_000_115", "hash": "763764FC6ABAD5BC", "target": "O tempo dirá se esse novo vocabulário combina com você, mas tempo é um luxo de que não disponho agora." },

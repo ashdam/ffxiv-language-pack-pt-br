@@ -63,7 +63,7 @@
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_ARYA_000_240", "hash": "B9CB6AAF82822115", "target": "Hum? Eu disse, estou bem. Não há fantasmas aqui... que eu consiga ver. Perfeitamente, completamente bem." },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_SYSTEM_000_250", "hash": "80218D8DFE93FE8D", "target": "Você cava na neve, mas não encontra nada..." },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_SYSTEM_000_255", "hash": "09B09BF532FB7C01", "target": "Um caixão sinistro está enterrado sob a neve!" },
-    { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_LILITH_000_260", "hash": "DD851EEDD83FFB7C", "target": "Só quem carrega minha dádiva de sangue pode romper o selo. Matem <if(gnum4,esta impostora,este impostor)>!" },
+    { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_LILITH_000_260", "hash": "CF3BBBEB7B3D1462", "target": "(-???-)Só quem carrega minha dádiva de sangue pode romper o selo. Matem <if(gnum4,esta impostora,este impostor)>!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_ARYA_000_270", "hash": "2570E87E5358AFA1", "target": "...Você já encontrou!? Precisa contar a X'rhun!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_XRHUNTIA_000_280", "hash": "72ADCEE1EECEE4A8", "target": "Sob um pequeno monte de neve, você disse!? Extraordinário!" },
     { "gameKey": "quest/025/JobRdm680_02586#TEXT_JOBRDM680_02586_XRHUNTIA_000_281", "hash": "AC625C26BAA44D7C", "target": "“Só quem carrega minha dádiva de sangue...” Essa voz misteriosa poderia ser da própria Lilith?" },

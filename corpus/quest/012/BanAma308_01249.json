@@ -21,12 +21,12 @@
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_YADOVVGAH_000_021", "hash": "265C18065C935F9F", "target": "A covardia dos Presas de Fogo não tem medida nem perdão! Que se ofereçam de bom grado é patético. Que sacrifiquem outros é repugnante..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE", "hash": "3AD452B027D1D71E", "target": "Sua presa se aproxima..." },
     { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_POP_MESSAGE_000_000", "hash": "6F2E6B57DAC999CF", "target": "O inimigo ainda está por perto!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "50F9E6BEC7AA1AC5", "target": "G-Graças aos deuses que você veio!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "C195C9F30436D6C7", "target": "Que os deuses abençoem você, <if(gnum4,senhorita,senhor)>, que abençoem!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "6EBE6D5EF21C71E3", "target": "Eu... eu nunca acreditei que... Obrigada!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "F1B0FA6BD8253883", "target": "Estou... estou livre? De verdade?" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "CDF624E4C8919572", "target": "O quê!? Como pelos sete infernos você... Ah, não há tempo para isso!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "AAFCED85F7BD1360", "target": "Vou matar todos eles, eu juro! Foram tolos de se meter com um ala-mhigano!" },
-    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "C8CC303EEDCA62FA", "target": "Isso é um sonho, certo? Você não é real... é?" }
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_001", "hash": "51A4A1DECE994646", "target": "(-Prisioneiro aliviado-)G-Graças aos deuses que você veio!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_002", "hash": "D001EAA2D3588414", "target": "(-Prisioneiro agradecido-)Que os deuses abençoem você, <if(gnum4,senhorita,senhor)>, que abençoem!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_003", "hash": "ED7AAE1FE6EE0320", "target": "(-Prisioneira surpresa-)Eu... eu nunca acreditei que... Obrigada!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_004", "hash": "7242CA4054E1C734", "target": "(-Prisioneira desgrenhada-)Estou... estou livre? De verdade?" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_005", "hash": "AD586C741DB56842", "target": "(-Prisioneira impressionada-)O quê!? Como pelos sete infernos você... Ah, não há tempo para isso!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_006", "hash": "3D5FF78EA206B571", "target": "(-Prisioneiro enfurecido-)Vou matar todos eles, eu juro! Foram tolos de se meter com um ala-mhigano!" },
+    { "gameKey": "quest/012/BanAma308_01249#TEXT_BANAMA308_01249_PRISONER_007", "hash": "1142224E3F3D0AC0", "target": "(-Prisioneiro incrédulo-)Isso é um sonho, certo? Você não é real... é?" }
   ]
 }

@@ -62,7 +62,7 @@
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ZENOS_000_505", "hash": "324787AB990FFBEA", "target": "Ah, o simples prazer da própria carne. Realmente, não há lugar como o lar." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SHADOWHUNTER_000_506", "hash": "0D0B7D39DA8B8FF0", "target": "Aberração..." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ESTINIEN_000_507", "hash": "3CE2CE36092C5ECC", "target": "Seja lá o que for, <italic(1)><split(<string(gstr1)>, ,1)><italic(0)> mal conseguiu enfrentá-lo. Se ficarmos aqui por muito mais tempo..." },
-    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ANNIAQUOSORANUS_000_508", "hash": "AD4B9F33039225A5", "target": "Imperador Varis! Vossa Radiância, está tudo bem!?" },
+    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ANNIAQUOSORANUS_000_508", "hash": "4DD7FE2022662801", "target": "(-???-)Imperador Varis! Vossa Radiância, está tudo bem!?" },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ESTINIEN_000_509", "hash": "5BD8B84C269F5B71", "target": "...Podemos deixar de ser bem-vindos." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_JULIAQUOSORANUS_000_510", "hash": "BC513D2F8BAD369D", "target": "Vossa Radiância... Não!" },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ZENOS_000_512", "hash": "225CA020FADF621E", "target": "\\<suspiro> Até a mais medíocre diversão precisa ser estragada? O mundo conspira para me entediar." },
@@ -84,7 +84,7 @@
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_THIRDLEGIONCENTURION_000_702", "hash": "B5C4ECC2ADD77E21", "target": "Aaah!" },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_FIRSTLEGIONCENTURION_000_703", "hash": "749FA8B8C6D24C08", "target": "Avancem! Antes que este dia termine, a vitória será nossa!" },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ZENOS_000_704", "hash": "8AA7F0C812B65AAD", "target": "Tédio, tédio, tédio..." },
-    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_MYSTERIOUSCOOPERATOR_000_705", "hash": "EBFB0266A6251CBA", "target": "Acha? Eu acho divertido. Como cães conduzindo gado ao matadouro." },
+    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_MYSTERIOUSCOOPERATOR_000_705", "hash": "287F9BB48EE5CE59", "target": "(-???-)Acha? Eu acho divertido. Como cães conduzindo gado ao matadouro." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_ZENOS_000_706", "hash": "9AC837A006DE62E9", "target": "Essa cor. Sua alma é... Quem é você?" },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_MYSTERIOUSCOOPERATOR_000_707", "hash": "AC8D65B2CBD2657D", "target": "Diante de Vossa Majestade, sou apenas mais um cão. Perdido, à procura de um novo dono. Um cão de caça, se assim desejar." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_MYSTERIOUSCOOPERATOR_000_708", "hash": "554BE8C985843D50", "target": "Pois sei muito bem qual presa buscará a seguir." },
@@ -94,8 +94,8 @@
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SHABBYWOMAN_000_752", "hash": "8C5B88C8BBB5DD9E", "target": "Também estão falando em repovoar algumas das velhas aldeias abandonadas. Vão até fornecer Talos de graça para ajudar quem topar se mudar." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_DIRTYMAN_000_753", "hash": "788FD734990F8D76", "target": "<italic(1)>Talos de graça<italic(0)>? Hah! É melhor fazermos as malas." },
     { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_SHABBYWOMAN_000_754", "hash": "CD48A12746D1A152", "target": "Trabalho estável, comida e moradia... Se isso não é receita para esperança, não sei o que é." },
-    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_000_755", "hash": "87A7B97642777D60", "target": "Esperança...?" },
-    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_100_755", "hash": "003593180CBCD5A3", "target": "Sim. Enquanto eu ainda viver, farei reacender essa chama frágil." },
-    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_000_756", "hash": "CB299795DBEB602C", "target": "É meu destino. Ver nosso sonho realizado." }
+    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_000_755", "hash": "B6AA44EF2B078C9A", "target": "(-???-)Esperança...?" },
+    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_100_755", "hash": "BC4DB8C6E037AC5B", "target": "(-Guerreiro errante-)Sim. Enquanto eu ainda viver, farei reacender essa chama frágil." },
+    { "gameKey": "quest/036/LucKmg110_03682#TEXT_LUCKMG110_03682_PALEFACEMAN_000_756", "hash": "293DF4DCC0321815", "target": "(-Guerreiro errante-)É meu destino. Ver nosso sonho realizado." }
   ]
 }
