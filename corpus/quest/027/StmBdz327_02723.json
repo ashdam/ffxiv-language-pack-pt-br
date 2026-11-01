@@ -70,7 +70,7 @@
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_NAYOSHI_000_043", "hash": "DFE40939A12E6BF1", "target": "Isso não deve ser problema para <if(gnum4,a Senhora,o Mestre)> <split(<string(gstr1)>, ,2)>! <if(gnum4,É uma excelente mergulhadora,É um excelente mergulhador)>." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_044", "hash": "F69164110B5C04D2", "target": "Então parece que temos um plano. <split(<string(gstr1)>, ,1)>, você ficará por conta de criar uma distração." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_045", "hash": "9C88DC7999899E32", "target": "Suzume, você vem comigo a Hells' Lid. Juntos vamos dar conta da ameaça dos Kojin Vermelhos e libertar os prisioneiros. Hansaku, você ficará no barco por perto para garantir nossa fuga rápida." },
-    { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_HANSAKU_000_046", "hash": "1D229BA42B6B62E9", "target": "Sim, senhor!!!" },
+    { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_HANSAKU_000_046", "hash": "0E6F3B90141F7EA3", "target": "(-Suzume e Hansaku-)Sim, senhor!!!" },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_TSUKIKAGE_000_047", "hash": "5B0BEAC6DB0829A9", "target": "Ah, e Nayoshi, gostaria que você acompanhasse Suzume e a mim. Ver um rosto conhecido deve impedir que seus amigos entrem em pânico ao nos ver." },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_NAYOSHI_000_048", "hash": "D9AB3F7B85384D2B", "target": "Sim, senhor!!!" },
     { "gameKey": "quest/027/StmBdz327_02723#TEXT_STMBDZ327_02723_FISHER02719_000_049", "hash": "E2A2C344E2E31087", "target": "Se não precisam de mim, vou voltar à aldeia e informar todos sobre a situação." },

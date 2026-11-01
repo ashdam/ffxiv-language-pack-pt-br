@@ -11,10 +11,10 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000070_ERENVILLE", "hash": "D14C898EFE32B22F", "target": "Sim, ela é de lá. Apresento a vocês..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000080_GRAHATIA", "hash": "5074FCFB93B55A3E", "target": "...Parece que você a perdeu." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000090_KRILE", "hash": "03721AAE0B25E9A9", "target": "Será que foi passear?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "56AB93597B1E7398", "target": "Desculpem, desculpem! É tão diferente aqui que não consigo resistir a explorar!" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000110_WUKLAMAT", "hash": "205DF8C27FF2193B", "target": "(-Recém-chegada exuberante-)Desculpem, desculpem! É tão diferente aqui que não consigo resistir a explorar!" },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000120_ERENVILLE", "hash": "111CCC45DEDBBB35", "target": "Bem, enquanto você explorava, sua escolha veio até nós." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000130_ERENVILLE", "hash": "A7BFA50D01E4D35A", "target": "É <if(gnum4,ela,ele)>. <if(gnum4,A aventureira,O aventureiro)> que você atravessou os mares para conhecer." },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "E6D07BF32C1390C5", "target": "Ah... Você não exagerou. Está claro que <if(gnum4,ela não é uma mulher comum,ele não é um homem comum)>." },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000140_WUKLAMAT", "hash": "22E4A16A275F1F14", "target": "(-Recém-chegada exuberante-)Ah... Você não exagerou. Está claro que <if(gnum4,ela não é uma mulher comum,ele não é um homem comum)>." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000150_WUKLAMAT", "hash": "2CC5C386C9F38087", "target": "Sou Wuk Lamat. Pretendente ao trono de Tuliyollal." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000160_KRILE", "hash": "B9D4CFAF594AEAF7", "target": "Tuliyollal..." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_000170_ERENVILLE", "hash": "5C38DE4AE139AC8C", "target": "É a nação que governa Tural. A capital tem o mesmo nome." },
@@ -261,8 +261,8 @@
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002500_URIANGER", "hash": "72C56C5B4D204677", "target": "Então não nos demoremos mais e garantamos passagem numa embarcação." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002510_THANCRED", "hash": "93CF926E031FBA27", "target": "Sim, esta será uma missão memorável." },
     { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002520_THANCRED", "hash": "0FADA44FDD26CC55", "target": "Venha, meu amigo! Vamos a Tural!" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "22A30645F4086571", "target": "Diga, já visitou as ruínas sob as águas do Bounty?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "D66A40F01EDA2C29", "target": "Ou as ilhas dos tesouros além das águas geladas de Blindfrost, no norte de Othard?" },
-    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "120A9F21E381DA91", "target": "As lendárias cidades douradas do Novo Mundo?" }
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002530_EMETSELCH", "hash": "7E8C745BB391629A", "target": "(-Emet-Selch-)Diga, já visitou as ruínas sob as águas do Bounty?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002540_EMETSELCH", "hash": "41FCFA35F4E18080", "target": "(-Emet-Selch-)Ou as ilhas dos tesouros além das águas geladas de Blindfrost, no norte de Othard?" },
+    { "gameKey": "cut_scene/065/VoiceMan_06505#TEXT_VOICEMAN_06505_002550_EMETSELCH", "hash": "80BAA19709DA089E", "target": "(-Emet-Selch-)As lendárias cidades douradas do Novo Mundo?" }
   ]
 }

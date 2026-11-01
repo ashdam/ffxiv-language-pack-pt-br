@@ -61,7 +61,7 @@
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_091", "hash": "F0AC71FF8E3C9D01", "target": "Mas certamente apenas uma amostra do que <if(gnum4,a vencedora,o vencedor)> de Emet-Selch é capaz." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_092", "hash": "7B7358F0EA09B9F5", "target": "Tamanho poder exige uma medida mais justa. Comparar iguais com iguais. Sim..." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_093", "hash": "B5EEFFB443197736", "target": "Terei de testar você pessoalmente." },
-    { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_094", "hash": "BD458DBB5AC9441E", "target": "Vamos, <split(<string(gstr1)>, ,1)>! Mostre do que é capaz!" },
+    { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_094", "hash": "FB03B6DDD0C61EFB", "target": "(-Ardbert-)Vamos, <split(<string(gstr1)>, ,1)>! Mostre do que é capaz!" },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_100", "hash": "E98BD6BD5153F597", "target": "Foi uma manhã agitada, se é que <italic(1)>é<italic(0)> manhã. Não faço ideia de quanto tempo fiquei inconsciente." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_101", "hash": "763342AAE19CA2BB", "target": "De todo modo, fico satisfeita em ver que meus esforços em Anyder deram frutos. Confirmamos a natureza de nosso inimigo e de seu plano." },
     { "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_YSHTOLA_000_102", "hash": "D22DC7E8EFD44CFF", "target": "Então, quais são as novidades da superfície?" },

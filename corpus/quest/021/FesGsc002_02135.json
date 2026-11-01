@@ -2,14 +2,14 @@
   "conversation": "quest/021/FesGsc002_02135",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_00", "hash": "8DEF048D67F1E22B", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_01", "hash": "370A56C646BABF6C", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_02", "hash": "3F0965179EC3C191", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_TODO_00", "hash": "D738EE9104C0F349", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_000", "hash": "E22D0BE03F149D2B", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_001", "hash": "9AAE4DFD5553EFCA", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_002", "hash": "8F7F6826DA8CEA66", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GREGE_000_010", "hash": "3383074B55B067ED", "target": "" },
-    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SYSTEM_000_011", "hash": "1C1BF47F65782AEC", "target": "" }
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_00", "hash": "8DEF048D67F1E22B", "target": "O attentive attendant deseja demonstrar a estima do Gold Saucer por você.<br>※Esta missão só está disponível por tempo limitado." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_01", "hash": "370A56C646BABF6C", "target": "Agora que o mistério do assassinato do Gold Saucer foi resolvido, é hora de receber sua recompensa. O attentive attendant orienta você a falar com Grege na Entrance Square, que está guardando seu prêmio.<br><br>※Você não poderá concluir esta missão depois que o evento sazonal terminar. Para mais informações, consulte o Lodestone." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SEQ_02", "hash": "3F0965179EC3C191", "target": "Depois de agradecer pessoalmente, Grege entrega um presente digno de quem domina a arte da dedução. Use-o sempre que tiver uma inspiração que mereça ser compartilhada com o mundo." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_TODO_00", "hash": "D738EE9104C0F349", "target": "Falar com Grege na Entrance Square" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_000", "hash": "E22D0BE03F149D2B", "target": "Ah, <if(gnum4,a aventureira perspicaz que desvendou,o aventureiro perspicaz que desvendou)> com tanta habilidade o mistério do assassinato do Gold Saucer! Creio falar por todos os envolvidos ao expressar nossa mais profunda gratidão." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_001", "hash": "9AAE4DFD5553EFCA", "target": "Mas, claro, seus esforços merecem mais que palavras. Grege aguarda na Entrance Square com um prêmio que certamente será muito satisfatório." },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GSSTAFF02135_000_002", "hash": "8F7F6826DA8CEA66", "target": "Sua recompensa pelo ótimo trabalho espera na Entrance Square! Ah, se eu pudesse ver seu rosto quando a receber!" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_GREGE_000_010", "hash": "3383074B55B067ED", "target": "Não precisa dizer mais nada, Ollier já explicou tudo! Ah, mas você certamente já deduziu isso. Ainda assim, aqui vão meus agradecimentos e a recompensa que tanto merece! Que ela seja útil quando o próximo mistério impenetrável se desfizer diante da sua inteligência!" },
+    { "gameKey": "quest/021/FesGsc002_02135#TEXT_FESGSC002_02135_SYSTEM_000_011", "hash": "1C1BF47F65782AEC", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Eureka<edgecolortype(0)><colortype(0)>!" }
   ]
 }

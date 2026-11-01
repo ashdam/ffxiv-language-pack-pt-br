@@ -28,8 +28,8 @@
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_RECOVER_000_001", "hash": "A22287227739784F", "target": "Uma névoa perfumada envolve você!" },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_NOTRECOVER_000_001", "hash": "D4776A5BE50A69A8", "target": "Não é seguro realizar esta ação enquanto estiver visível. Volte à mysterious sylph para renovar o encantamento." },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_PONNIXIA_000_020", "hash": "2EF33B7DA263AB87", "target": "Graças ao que tem coragem, o esporo lunar continua brilhando na escuridão, e estes aqui ainda podem trazer os tocados de volta à luz. Estes aqui devem muito ao que tem coragem." },
-    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_030", "hash": "165F229376F6D082", "target": "A floresta não é lugar para os que andam. Fora!" },
-    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_031", "hash": "84EB0F07B0889E67", "target": "Hum? A água-límpida acabou!? \\<suspiro> Este aqui precisa voltar à nascente..." },
+    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_030", "hash": "63216A876AE684B5", "target": "(-Silfo hostil-)A floresta não é lugar para os que andam. Fora!" },
+    { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYLPHENEMY_000_031", "hash": "8EB46C61A46FA89F", "target": "(-Silfo hostil-)Hum? A água-límpida acabou!? \\<suspiro> Este aqui precisa voltar à nascente..." },
     { "gameKey": "quest/012/BanSyl207_01273#TEXT_BANSYL207_01273_SYSTEM_000_100", "hash": "6A2B0BAA5E5B4E53", "target": "Revigorado pela água fresca, o esporo lunar cintila e brilha intensamente." }
   ]
 }

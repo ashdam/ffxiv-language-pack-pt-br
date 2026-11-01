@@ -36,7 +36,7 @@
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_TATARU_000_41", "hash": "D36C4773310940CA", "target": "A Antecedente aguarda lá embaixo, na Sala do Amanhecer. Pode entrar quando quiser." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_45", "hash": "3C30D49D2419A68B", "target": "Imagino que você seja <string(gstr1)>. Tataru avisou que tinha chegado." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_GUIDE_000_46", "hash": "97904A3E10B61193", "target": "Lady Minfilia aguardava ansiosa a sua chegada. Por aqui, por favor." },
-    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "5732BEA667C5D5EA", "target": "Então você é <if(gnum4,a aventureira,o aventureiro)> de quem tanto ouvi falar." },
+    { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100010_MINFILIA", "hash": "B2DB2EFC15785C23", "target": "(-???-)Então você é <if(gnum4,a aventureira,o aventureiro)> de quem tanto ouvi falar." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100020_MINFILIA", "hash": "5AD89690C12CDCD2", "target": "É um prazer conhecer você. Meu nome é Minfilia e lidero os Herdeiros do Sétimo Amanhecer." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100030_MINFILIA", "hash": "25B51B481EAF5D9D", "target": "Eu aguardava a sua chegada." },
     { "gameKey": "quest/005/ManFst206_00509#TEXT_MANFST206_00509_100040_MINFILIA", "hash": "76CA7A48A588EB93", "target": "Depois de cinco longos anos... você voltou para nós, exatamente como Louisoix disse que voltaria..." },

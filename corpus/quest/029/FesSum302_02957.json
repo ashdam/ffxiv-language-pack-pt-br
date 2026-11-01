@@ -2,18 +2,18 @@
   "conversation": "quest/029/FesSum302_02957",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "" },
-    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "" }
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_00", "hash": "59F8B097633C8D1D", "target": "P'obyano precisa de ajuda para os fogos de artifício do Festival do Fogo Lunar.<br>※Esta missão está disponível por tempo limitado." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_01", "hash": "80A7E43A7A580B4D", "target": "P'obyano pede que você ajude a lançar fogos de artifício para o Festival do Fogo Lunar. Use o fogo de artifício de verão em três firework mortars nos arredores da Ilha do Verão Eterno.<br><br>※Você não poderá concluir esta missão após o término do evento sazonal. Para mais detalhes, consulte o Lodestone." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_02", "hash": "07BB4E604BF4A42C", "target": "Você usou o fogo de artifício de verão nos firework mortars. Volte a falar com P'obyano na Ilha do Verão Eterno." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_SEQ_03", "hash": "069A963A7A5C590D", "target": "Você contou a P'obyano o que fez. Fale com ela novamente se quiser continuar ajudando com os fogos de artifício do Festival do Fogo Lunar." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_00", "hash": "CE7F078298A6F130", "target": "Usar o fogo de artifício de verão num firework mortar" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_TODO_01", "hash": "7C2F61DF5234384D", "target": "Voltar a falar com P'obyano" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_000", "hash": "DD166AE651D1A60F", "target": "Voltou para mais, é? Não vou recusar ajuda. Poderia lançar mais alguns fogos de artifício para nós?" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_001", "hash": "95571C65C3875538", "target": "Caso tenha esquecido como fazer, basta jogar um fogo de artifício de verão num firework mortar perto de onde os visitantes estão reunidos." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_002", "hash": "FFFBD07625C72D59", "target": "Não precisa mais falar com Jiriri. Mas desta vez peço que lance fogos de artifício em três lugares, em vez de um só. Cuidado para não passar mal com o calor!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_010", "hash": "8A13DFE69A9B44BE", "target": "Você não se cansa desses fogos de artifício, não é, <split(<string(gstr1)>, ,1)>? Muito bem, não vou reclamar." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_011", "hash": "FA3D8C9A5FFFD401", "target": "A tarefa é a mesma de antes. Lance os fogos jogando um fogo de artifício de verão num firework mortar perto de onde nossos visitantes estão reunidos. Vou ficar de olho no céu." },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_020", "hash": "2D818A44B53B653A", "target": "Lembre-se: precisa jogar os fogos de artifício de verão em três firework mortars. Os visitantes estão esperando. Vá depressa!" },
+    { "gameKey": "quest/029/FesSum302_02957#TEXT_FESSUM302_02957_POBYANO_000_030", "hash": "B784FE3B151616DE", "target": "Mais um trabalho bem-feito. Obrigada, <split(<string(gstr1)>, ,1)>. Se quiser continuar ajudando, sabe onde me encontrar. Até lá, tenha um feliz Festival do Fogo Lunar!" }
   ]
 }

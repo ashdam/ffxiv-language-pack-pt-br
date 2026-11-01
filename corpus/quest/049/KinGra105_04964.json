@@ -38,9 +38,9 @@
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_EUTROPE_000_212", "hash": "49FA3121A625FAD8", "target": "Vou tomar sua alma! Se prepare!" },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_213", "hash": "7D7DB33395089577", "target": "O que é isso!? Wicked Thunder acaba de desafiar <if(gnum4,a novata,o novato)> imparável!" },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_214", "hash": "656FF3C6C18493C3", "target": "Infelizmente, por mais que eu queira testemunhar esse confronto, a licença de Wicked Thunder foi revogada quando ela desapareceu. Não posso autorizar esse combate..." },
-    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_215", "hash": "78BAE1E4B3CC7120", "target": "Intrigante... Muito intrigante..." },
+    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_215", "hash": "BF69B6C0FF743D6F", "target": "(-Voz reverberante-)Intrigante... Muito intrigante..." },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_216", "hash": "6ABF92BE26F99C6D", "target": "E-essa voz! É o presidente!" },
-    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_217", "hash": "DEB28FF234917069", "target": "Vou permitir um combate especial de exibição. Preparem o ringue de Wicked Thunder... e se prepare, <if(gnum4,novata,novato)>." },
+    { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_ARCADIAOWNER_000_217", "hash": "D806C601DFCE7613", "target": "(-Presidente da Ascension Arcadia-)Vou permitir um combate especial de exibição. Preparem o ringue de Wicked Thunder... e se prepare, <if(gnum4,novata,novato)>." },
     { "gameKey": "quest/049/KinGra105_04964#TEXT_KINGRA105_04964_METEM_000_218", "hash": "6EB35DB6C40051C8", "target": "Vocês ouviram, pessoal! Com a permissão do presidente, teremos um combate! Quem sairá com a vitória: a bruxa de nova geração ou <if(gnum4,a guerreira sem aprimoramentos,o guerreiro sem aprimoramentos)>!? Este é um evento que vocês não podem perder!" }
   ]
 }

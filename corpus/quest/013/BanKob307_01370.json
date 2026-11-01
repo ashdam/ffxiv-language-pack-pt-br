@@ -25,9 +25,9 @@
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_BOBU_000_031", "hash": "767281AE2F00A93A", "target": "É só questão de tempo─luas, dias, tempo─até Bo Bu subir à posição de poder que lhe cabe por direito. Sim, sim, logo você vai me chamar de Exemplar da 1ª Ordem Bo Bu!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_POPMESSAGE_000_000", "hash": "488F242A51F4D0D9", "target": "Você sente uma presença hostil!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_POPMESSAGE_000_002", "hash": "72393F3ABEFB19EC", "target": "O inimigo ainda está por perto!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_040", "hash": "E0C6D167C305FD09", "target": "Isso é de Zo Ga! Tire suas patas sujas daí!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_041", "hash": "144AB990838ADF65", "target": "Tire as mãos! Não toque! Afaste-se!" },
-    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_042", "hash": "0D123D30A225FA37", "target": "<if(gnum4,Sobremoradora,Sobremorador)>! Vou levar sua cabeça a Zo Ga numa travessa─num prato, numa bandeja, numa travessa!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_040", "hash": "57A6ADCC80186410", "target": "(-Patrulheiro da 13ª Ordem-)Isso é de Zo Ga! Tire suas patas sujas daí!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_041", "hash": "8CA6FBC6B876D70F", "target": "(-Patrulheiro da 13ª Ordem-)Tire as mãos! Não toque! Afaste-se!" },
+    { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_KOBOLD01370_000_042", "hash": "EF03CB1222DBCE44", "target": "(-Patrulheiro da 13ª Ordem-)<if(gnum4,Sobremoradora,Sobremorador)>! Vou levar sua cabeça a Zo Ga numa travessa─num prato, numa bandeja, numa travessa!" },
     { "gameKey": "quest/013/BanKob307_01370#TEXT_BANKOB307_01370_BALLOON_000_050", "hash": "5C83AACF93D6F5CE", "target": "Você não vai voltar com vida!<br>Não, não, não vai!" }
   ]
 }

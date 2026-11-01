@@ -26,7 +26,7 @@
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_025", "hash": "2CA9E964309636C4", "target": "O encontro será em Steps of Thal, em frente à Joalheria de Eshtaime. Por favor, vá à frente. Não vou demorar." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_040", "hash": "59213CF21883F790", "target": "Não precisa me esperar. Parta quando quiser e me encontre em frente à Joalheria de Eshtaime, em Steps of Thal." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_060", "hash": "DBBAE98AFD7073C4", "target": "Espero não ter feito você esperar demais." },
-    { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_061", "hash": "958663FE814EA4F5", "target": "F'lhaminn! Obrigado por vir tão depressa." },
+    { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_061", "hash": "CF1963D9529E34C8", "target": "(-???-)F'lhaminn! Obrigado por vir tão depressa." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_062", "hash": "0E77B288760BD127", "target": "E quem é você? Se não se importa, nós e a dama aqui temos assuntos particulares a tratar." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_FLHAMINN_000_062", "hash": "A679A4FA7CE001A4", "target": "Não, está tudo bem, Popokkuli. <if(gnum4,Ela,Ele)> estava com Minfilia em seus últimos momentos, e achei justo que estivesse aqui." },
     { "gameKey": "quest/037/LucKzk991_03750#TEXT_LUCKZK991_03750_POPOKKULI_000_063", "hash": "84F76C6972E79A94", "target": "<split(<string(gstr1)>, ,1)>, que coincidência. O que traz você aqui?" },

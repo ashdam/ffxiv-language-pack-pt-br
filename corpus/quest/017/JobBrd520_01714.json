@@ -51,7 +51,7 @@
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_055", "hash": "8B938F73A3F0AE75", "target": "E você, <if(gnum4,minha amiga,meu amigo)>? Os acontecimentos recentes acenderam um verso em seu coração?" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_GUYDELOT_000_056", "hash": "12246FA3885CF5F1", "target": "Viu? <split(<string(gstr1)>, ,1)> também sentiu vontade de compor uma bela cantiguinha!" },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_057", "hash": "F1B15273F7D6AEDC", "target": "Sim, sim, foi muito bonito... mas eu estava falando sobre o que significa ser um grupo! Temos muito trabalho, e espero que você faça sua parte, a começar por nossas perguntas!" },
-    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "F92495B853202F20", "target": "Eu estou perguntando, não estou? Como já provei, dá pra aprender muito com o povo comum. Deixo você cuidar da sua gente: os nobres empolados." },
+    { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_058", "hash": "E98035F220DE2F1E", "target": "(-Guydelot-)Eu estou perguntando, não estou? Como já provei, dá pra aprender muito com o povo comum. Deixo você cuidar da sua gente: os nobres empolados." },
     { "gameKey": "quest/017/JobBrd520_01714#TEXT_JOBBRD520_01714_SANSON_000_060", "hash": "EB751B58ECF77F44", "target": "Ainda não tivemos notícias de Sor Alamenain. Até lá, continuarei minha própria busca por informações. Como antes, por favor, mantenha suas forças para a jornada que temos pela frente." }
   ]
 }

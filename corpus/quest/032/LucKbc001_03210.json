@@ -26,7 +26,7 @@
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_MYLLA_000_012", "hash": "6A75BC705DC067CC", "target": "M-Mas o que é isso de repente? É claro que estou... \\<suspiro> Não, não vou insultar sua inteligência mentindo." },
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_MYLLA_000_013", "hash": "5E6C64BF1B117626", "target": "É que Aldis... Ele voltou a Ul'dah. Foi perdoado, então tem todo o direito de estar aqui." },
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_MYLLA_000_014", "hash": "C3C81DDAF3EDFB64", "target": "Mas é só que... eu simplesmente não entendo o que passa pela cabeça dele." },
-    { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_015", "hash": "68CE239B3FF692B2", "target": "Oho, se não é justamente <if(gnum4,a mulher,o homem)> que eu estava louco para ver!" },
+    { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_015", "hash": "3C57AE8C8949B67D", "target": "(-???-)Oho, se não é justamente <if(gnum4,a mulher,o homem)> que eu estava louco para ver!" },
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_016", "hash": "3114AD24C5DAE696", "target": "Saudações, <split(<string(gstr1)>, ,1)>! Você parece bem, para quem anda tocando o terror pelo mundo!" },
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_017", "hash": "8DEAF65AF7E1FB3D", "target": "...Hm? Vejo que meu traje despertou sua curiosidade." },
     { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_018", "hash": "A8E266AA7D426034", "target": "Quando parti depois da Copa Ul, acho que disse algo como ainda ter muito a aprender. Foi o que fiz: aprendi." },

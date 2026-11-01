@@ -2,17 +2,17 @@
   "conversation": "quest/021/FesEst203_02130",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "" },
-    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "" }
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_00", "hash": "28AF77DC786BAAC6", "target": "O cultured collector abre um sorriso para você.<br>※Esta missão só está disponível por tempo limitado." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_01", "hash": "7ABD6D7386A86F2F", "target": "O cultured collector conta que o enorme benediction egg que rola pelos bairros de Old Gridania é, na verdade, fruto de um encantamento dos silfos. Embora pareça quase intacto apesar da velocidade com que atravessa a multidão, o coletor pede que você solte um pedaço de sua casca esfregando nela um pó mágico. Vá atrás desse ovo digno de um rei. <br><br>※Você não poderá concluir esta missão depois que o evento sazonal terminar. Para mais informações, consulte o Lodestone." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_02", "hash": "29B0E2CFAB63CA6E", "target": "Você consegue soltar um pedaço do benediction egg. Volte ao Mih Khetto's Amphitheatre e entregue-o ao cultured collector." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_SEQ_03", "hash": "943300F4C6F61E1C", "target": "O cultured collector fica satisfeito com o belo fragmento que você conseguiu soltar e entrega seu prêmio. Você espera pacientemente por algum trocadilho sobre ovos, mas descobre que o coletor prefere deixá-los para os colegas." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_00", "hash": "AB29D3F6188B5C5C", "target": "Usar o pó de escamas cintilante no benediction egg para obter um fragmento de casca de ovo" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_TODO_01", "hash": "D724B6BD649F0A81", "target": "Entregar o fragmento de casca de ovo ao cultured collector" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_001", "hash": "D2E09E4F6BDD957D", "target": "Você certamente viu o ovo enorme saltando pelas ruas de Old Gridania. Nossos amigos silfos o encantaram especialmente para esta ocasião. Embora passe por cima de raízes, pedras e pessoas, ele não tem um arranhão sequer!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_002", "hash": "A0C88318EC5B0954", "target": "E aí está o desafio. Vou dar um pó mágico que, bem esfregado num ponto do ovo, enfraquece sua casca. Se conseguir alcançá-lo e soltar um fragmento, traga-o aqui e troque comigo por uma recompensa mais afortunada!" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_003", "hash": "2CE6CD732CBF8774", "target": "Lembre-se de que o momento certo é tudo. Nunca se sabe quando o ovo voltará a se mover, então meu conselho é partir para cima assim que ele parar." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_100_010", "hash": "92657293FEB324CA", "target": "Correr atrás do ovo pode cansar bem depressa. Veio descansar um pouco?" },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_010", "hash": "90BFA17748F83704", "target": "Ah, parece que sua determinação venceu. Isso é mesmo um pedaço do benediction egg. Vou entregar sua recompensa, como prometi." },
+    { "gameKey": "quest/021/FesEst203_02130#TEXT_FESEST203_02130_EGGHUNTINGSTAFFB02130_000_011", "hash": "747A8161F6A5ECD9", "target": "Excelente trabalho, <if(gnum4,senhora,senhor)>, e volte sempre! ...Ah, percebeu que não disse <italic(1)>ovotimo<italic(0)> nem nada parecido, não é? Posso ser um Sonhador, mas, como outros, acho o humor dos meus companheiros um pouco... cansativo às vezes." }
   ]
 }

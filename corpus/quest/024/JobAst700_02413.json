@@ -41,7 +41,7 @@
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_KYOKUHO_000_029", "hash": "27C06EF1E4B8A84D", "target": "Parar de pensar nos vínculos e olhar para a raposa? Como assim, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_030", "hash": "42FCDA5DFFBD6457", "target": "O que <if(gnum4,ela,ele)> quer dizer?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_031", "hash": "14A991F42C424B26", "target": "Vou dizer <italic(1)>exatamente<italic(0)> o que <if(gnum4,ela,ele)> quer dizer!" },
-    { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_032", "hash": "87FA95059AE15475", "target": "Enquanto eu estiver aqui, não!" },
+    { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_032", "hash": "713216C339B52C40", "target": "(-???-)Enquanto eu estiver aqui, não!" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_100_032", "hash": "36BAA06BD152E785", "target": "Há uma solução muito mais fácil para toda essa bobagem... mas só se vocês pararem de pensar nos vínculos e voltarem sua atenção para a raposa!" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_KYOKUHO_000_033", "hash": "40F8338B1915133F", "target": "Lady Leveva! Como a... Onde a... Por que a... Lady Leveva...?" },
     { "gameKey": "quest/024/JobAst700_02413#TEXT_JOBAST700_02413_LEVEVA_000_034", "hash": "1B2E9B451A180543", "target": "Sua capacidade de observação nunca deixa de me surpreender, Kyokuho. Sim, sou eu, em carne e osso. Acabei de desembarcar de uma galé que atracou esta manhã." },

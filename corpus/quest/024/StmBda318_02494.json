@@ -25,7 +25,7 @@
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_053", "hash": "DF14BDD5BD782A80", "target": "Nós os enterramos num penhasco a oeste da vila. Tem um caminho pelos terraços. Vou mostrar!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_060", "hash": "68B4B5F2045D831B", "target": "Chegamos! Só um momento para colocar as flores, e vou apresentar vocês..." },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_061", "hash": "FF429BBE6061C9C2", "target": "Eles adoravam conhecer viajantes e ouvir histórias de lugares distantes. Pode contar uma da sua terra?" },
-    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "16C8F81BE0191BC9", "target": "Azami! Azami! Está aí? Azami!" },
+    { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_062", "hash": "A950EAB3A772C979", "target": "(-???-)Azami! Azami! Está aí? Azami!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_063", "hash": "E3DDB5BCD3DD3284", "target": "Mas que... Você não devia estar aqui! Fique longe da minha irmã!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_AZAMI_000_064", "hash": "A5971E38AB73FF1F", "target": "Não seja grosseiro! <if(gnum4,Ela,Ele)> me salvou dos monstros, mano! <if(gnum4,Ela,Ele)> até me ajudou a colher flores para mamãe e papai!" },
     { "gameKey": "quest/024/StmBda318_02494#TEXT_STMBDA318_02494_ISSE_000_065", "hash": "D753B776B1FB506E", "target": "Volte para a vila. Agora." },
