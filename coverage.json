@@ -1,8 +1,8 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 244399,
+  "translated": 290735,
   "total": 590508,
-  "percent": 41.4,
+  "percent": 49.2,
   "chars": 52748518,
   "unresolved": 5779,
   "groups": [
@@ -14,33 +14,21 @@
     },
     {
       "expansion": null,
-      "content": "Crafting and gathering",
-      "translated": 0,
-      "total": 8560
-    },
-    {
-      "expansion": null,
-      "content": "Items",
-      "translated": 0,
-      "total": 1186
-    },
-    {
-      "expansion": null,
-      "content": "Collections and customization",
-      "translated": 0,
-      "total": 14841
-    },
-    {
-      "expansion": null,
       "content": "Quests",
-      "translated": 26336,
+      "translated": 26798,
       "total": 34843
     },
     {
       "expansion": null,
-      "content": "Duties and field operations",
+      "content": "Internal UI catalogs",
       "translated": 0,
-      "total": 23091
+      "total": 2365
+    },
+    {
+      "expansion": null,
+      "content": "Crafting and gathering",
+      "translated": 0,
+      "total": 8560
     },
     {
       "expansion": null,
@@ -56,9 +44,15 @@
     },
     {
       "expansion": null,
-      "content": "Chat and system messages",
+      "content": "Floating names",
+      "translated": 2,
+      "total": 80743
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
       "translated": 0,
-      "total": 12958
+      "total": 23091
     },
     {
       "expansion": null,
@@ -68,9 +62,27 @@
     },
     {
       "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 0,
+      "total": 12958
+    },
+    {
+      "expansion": null,
+      "content": "Collections and customization",
+      "translated": 0,
+      "total": 14841
+    },
+    {
+      "expansion": null,
       "content": "Dialogue and world lore",
       "translated": 0,
       "total": 43184
+    },
+    {
+      "expansion": null,
+      "content": "Items",
+      "translated": 0,
+      "total": 1186
     },
     {
       "expansion": null,
@@ -79,52 +91,40 @@
       "total": 10520
     },
     {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 0,
-      "total": 80743
-    },
-    {
       "expansion": "A Realm Reborn",
       "content": "Quests",
-      "translated": 56637,
+      "translated": 77273,
       "total": 79068
     },
     {
       "expansion": "Heavensward",
       "content": "Quests",
-      "translated": 32903,
+      "translated": 34496,
       "total": 35316
     },
     {
       "expansion": "Stormblood",
       "content": "Quests",
-      "translated": 36231,
+      "translated": 37199,
       "total": 37941
     },
     {
       "expansion": "Shadowbringers",
       "content": "Quests",
-      "translated": 30166,
+      "translated": 36333,
       "total": 37060
     },
     {
       "expansion": "Endwalker",
       "content": "Quests",
-      "translated": 36032,
+      "translated": 43303,
       "total": 43988
     },
     {
       "expansion": "Dawntrail",
       "content": "Quests",
-      "translated": 26076,
+      "translated": 35313,
       "total": 35917
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 0,
-      "total": 2365
     }
   ],
   "excludedFromLocalization": [
@@ -144,65 +144,9 @@
   "inventoryExclusions": [
     {
       "expansion": null,
-      "content": "EventItemHelp",
-      "translated": 0,
-      "total": 3530,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3397,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "ClassJob",
-      "translated": 0,
-      "total": 130,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "Trait",
-      "translated": 0,
-      "total": 682,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
       "content": "TraitTransient",
       "translated": 0,
       "total": 682,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "EventItem",
-      "translated": 0,
-      "total": 10593,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "Action",
-      "translated": 0,
-      "total": 44412,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "Pet",
-      "translated": 0,
-      "total": 90,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
-      "content": "Item",
-      "translated": 0,
-      "total": 173452,
       "wholeSheet": true
     },
     {
@@ -214,9 +158,65 @@
     },
     {
       "expansion": null,
+      "content": "ActionTransient",
+      "translated": 0,
+      "total": 3397,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "EventItemHelp",
+      "translated": 0,
+      "total": 3530,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "Action",
+      "translated": 0,
+      "total": 44412,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "EventItem",
+      "translated": 0,
+      "total": 10593,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "Item",
+      "translated": 0,
+      "total": 173452,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
       "content": "Status",
       "translated": 0,
       "total": 9343,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "Pet",
+      "translated": 0,
+      "total": 90,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "Trait",
+      "translated": 0,
+      "total": 682,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
+      "content": "ClassJob",
+      "translated": 0,
+      "total": 130,
       "wholeSheet": true
     },
     {
@@ -236,13 +236,13 @@
       "sheets": [],
       "counts": {
         "total": 304133,
-        "translated": 244381,
-        "pending": 59752,
+        "translated": 290715,
+        "pending": 13418,
         "stale": 0,
         "excluded": 39,
         "excludedTranslated": 7,
         "chars": 36153728,
-        "percent": 80.4
+        "percent": 95.6
       },
       "children": [
         {
@@ -258,13 +258,13 @@
           ],
           "counts": {
             "total": 264760,
-            "translated": 218426,
-            "pending": 46334,
+            "translated": 264760,
+            "pending": 0,
             "stale": 0,
             "excluded": 7,
             "excludedTranslated": 7,
             "chars": 33750096,
-            "percent": 82.5
+            "percent": 100
           },
           "children": [
             {
@@ -277,13 +277,13 @@
               ],
               "counts": {
                 "total": 264259,
-                "translated": 218387,
-                "pending": 45872,
+                "translated": 264259,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 7,
                 "excludedTranslated": 7,
                 "chars": 33720660,
-                "percent": 82.6
+                "percent": 100
               },
               "children": [
                 {
@@ -369,13 +369,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 77273,
-                    "translated": 56637,
-                    "pending": 20636,
+                    "translated": 77273,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 7,
                     "excludedTranslated": 7,
                     "chars": 10784447,
-                    "percent": 73.3
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -386,13 +386,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 6303,
-                        "translated": 4772,
-                        "pending": 1531,
+                        "translated": 6303,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 913736,
-                        "percent": 75.7
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -605,13 +605,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 956,
-                            "translated": 0,
-                            "pending": 956,
+                            "translated": 956,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 132508,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -622,13 +622,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 533,
-                                "translated": 0,
-                                "pending": 533,
+                                "translated": 533,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 71843,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -640,13 +640,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 423,
-                                "translated": 0,
-                                "pending": 423,
+                                "translated": 423,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 60665,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -660,13 +660,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 846,
-                            "translated": 271,
-                            "pending": 575,
+                            "translated": 846,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 103570,
-                            "percent": 32
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -677,13 +677,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 553,
-                                "translated": 271,
-                                "pending": 282,
+                                "translated": 553,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 66227,
-                                "percent": 49
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -695,13 +695,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 293,
-                                "translated": 0,
-                                "pending": 293,
+                                "translated": 293,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 37343,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -1538,13 +1538,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 1073,
-                        "translated": 0,
-                        "pending": 1073,
+                        "translated": 1073,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 138103,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -1555,13 +1555,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1073,
-                            "translated": 0,
-                            "pending": 1073,
+                            "translated": 1073,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 138103,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -1572,13 +1572,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1073,
-                                "translated": 0,
-                                "pending": 1073,
+                                "translated": 1073,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 138103,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -1687,13 +1687,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 791,
-                        "translated": 119,
-                        "pending": 672,
+                        "translated": 791,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 124856,
-                        "percent": 15
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -1704,13 +1704,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 791,
-                            "translated": 119,
-                            "pending": 672,
+                            "translated": 791,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 124856,
-                            "percent": 15
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -1721,13 +1721,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 791,
-                                "translated": 119,
-                                "pending": 672,
+                                "translated": 791,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 124856,
-                                "percent": 15
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -1743,13 +1743,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 21718,
-                        "translated": 11215,
-                        "pending": 10503,
+                        "translated": 21718,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 3157655,
-                        "percent": 51.6
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -1760,13 +1760,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 21718,
-                            "translated": 11215,
-                            "pending": 10503,
+                            "translated": 21718,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 3157655,
-                            "percent": 51.6
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -1777,13 +1777,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2828,
-                                "translated": 1299,
-                                "pending": 1529,
+                                "translated": 2828,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 388645,
-                                "percent": 45.9
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1795,13 +1795,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2023,
-                                "translated": 673,
-                                "pending": 1350,
+                                "translated": 2023,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 250043,
-                                "percent": 33.3
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1813,13 +1813,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2269,
-                                "translated": 1464,
-                                "pending": 805,
+                                "translated": 2269,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 333788,
-                                "percent": 64.5
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1831,13 +1831,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1935,
-                                "translated": 1266,
-                                "pending": 669,
+                                "translated": 1935,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 279013,
-                                "percent": 65.4
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1849,13 +1849,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 189,
-                                "translated": 0,
-                                "pending": 189,
+                                "translated": 189,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 23663,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1867,13 +1867,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2151,
-                                "translated": 1010,
-                                "pending": 1141,
+                                "translated": 2151,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 312091,
-                                "percent": 47
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1885,13 +1885,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2316,
-                                "translated": 1034,
-                                "pending": 1282,
+                                "translated": 2316,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 344655,
-                                "percent": 44.6
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1903,13 +1903,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2239,
-                                "translated": 1479,
-                                "pending": 760,
+                                "translated": 2239,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 323509,
-                                "percent": 66.1
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1921,13 +1921,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 3015,
-                                "translated": 1132,
-                                "pending": 1883,
+                                "translated": 3015,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 410042,
-                                "percent": 37.5
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1939,13 +1939,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 204,
-                                "translated": 0,
-                                "pending": 204,
+                                "translated": 204,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 26015,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -1957,13 +1957,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2549,
-                                "translated": 1858,
-                                "pending": 691,
+                                "translated": 2549,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 466191,
-                                "percent": 72.9
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -1979,13 +1979,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 4426,
-                        "translated": 3881,
-                        "pending": 545,
+                        "translated": 4426,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 1,
                         "excludedTranslated": 1,
                         "chars": 650309,
-                        "percent": 87.7
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -2218,13 +2218,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 697,
-                            "translated": 152,
-                            "pending": 545,
+                            "translated": 697,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 106586,
-                            "percent": 21.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2235,13 +2235,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 697,
-                                "translated": 152,
-                                "pending": 545,
+                                "translated": 697,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 106586,
-                                "percent": 21.8
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2257,13 +2257,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 8940,
-                        "translated": 6343,
-                        "pending": 2597,
+                        "translated": 8940,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 1271975,
-                        "percent": 71
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -2422,13 +2422,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 2509,
-                            "translated": 1449,
-                            "pending": 1060,
+                            "translated": 2509,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 413466,
-                            "percent": 57.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2439,13 +2439,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2266,
-                                "translated": 1449,
-                                "pending": 817,
+                                "translated": 2266,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 378357,
-                                "percent": 63.9
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -2457,13 +2457,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 243,
-                                "translated": 0,
-                                "pending": 243,
+                                "translated": 243,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 35109,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2477,13 +2477,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1923,
-                            "translated": 386,
-                            "pending": 1537,
+                            "translated": 1923,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 244895,
-                            "percent": 20.1
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2494,13 +2494,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1923,
-                                "translated": 386,
-                                "pending": 1537,
+                                "translated": 1923,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 244895,
-                                "percent": 20.1
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2516,13 +2516,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 569,
-                        "translated": 271,
-                        "pending": 298,
+                        "translated": 569,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 94627,
-                        "percent": 47.6
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -2606,13 +2606,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 298,
-                            "translated": 0,
-                            "pending": 298,
+                            "translated": 298,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 46259,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2623,13 +2623,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 298,
-                                "translated": 0,
-                                "pending": 298,
+                                "translated": 298,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 46259,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2645,13 +2645,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 3874,
-                        "translated": 457,
-                        "pending": 3417,
+                        "translated": 3874,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 573111,
-                        "percent": 11.8
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -2662,13 +2662,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 3874,
-                            "translated": 457,
-                            "pending": 3417,
+                            "translated": 3874,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 573111,
-                            "percent": 11.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2679,13 +2679,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 3874,
-                                "translated": 457,
-                                "pending": 3417,
+                                "translated": 3874,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 573111,
-                                "percent": 11.8
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -2703,13 +2703,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 35313,
-                    "translated": 26076,
-                    "pending": 9237,
+                    "translated": 35313,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 3971134,
-                    "percent": 73.8
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -2720,13 +2720,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 3729,
-                        "translated": 2548,
-                        "pending": 1181,
+                        "translated": 3729,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 497324,
-                        "percent": 68.3
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -2884,13 +2884,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1181,
-                            "translated": 0,
-                            "pending": 1181,
+                            "translated": 1181,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 170494,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -2901,13 +2901,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 650,
-                                "translated": 0,
-                                "pending": 650,
+                                "translated": 650,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 94453,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -2919,13 +2919,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 531,
-                                "translated": 0,
-                                "pending": 531,
+                                "translated": 531,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 76041,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3034,13 +3034,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 7958,
-                        "translated": 5478,
-                        "pending": 2480,
+                        "translated": 7958,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 976395,
-                        "percent": 68.8
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -3143,13 +3143,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 3444,
-                            "translated": 964,
-                            "pending": 2480,
+                            "translated": 3444,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 446430,
-                            "percent": 28
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3160,13 +3160,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 576,
-                                "translated": 0,
-                                "pending": 576,
+                                "translated": 576,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 73109,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3178,13 +3178,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 593,
-                                "translated": 493,
-                                "pending": 100,
+                                "translated": 593,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 87264,
-                                "percent": 83.1
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3196,13 +3196,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 560,
-                                "translated": 0,
-                                "pending": 560,
+                                "translated": 560,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 70376,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3214,13 +3214,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 474,
-                                "translated": 0,
-                                "pending": 474,
+                                "translated": 474,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 62304,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3232,13 +3232,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 560,
-                                "translated": 71,
-                                "pending": 489,
+                                "translated": 560,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 64617,
-                                "percent": 12.7
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3250,13 +3250,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 681,
-                                "translated": 400,
-                                "pending": 281,
+                                "translated": 681,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 88760,
-                                "percent": 58.7
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3399,13 +3399,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 182,
-                        "translated": 0,
-                        "pending": 182,
+                        "translated": 182,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 22943,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -3416,13 +3416,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 182,
-                            "translated": 0,
-                            "pending": 182,
+                            "translated": 182,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 22943,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3433,13 +3433,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 182,
-                                "translated": 0,
-                                "pending": 182,
+                                "translated": 182,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 22943,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3585,13 +3585,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 911,
-                        "translated": 0,
-                        "pending": 911,
+                        "translated": 911,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 116172,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -3602,13 +3602,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 911,
-                            "translated": 0,
-                            "pending": 911,
+                            "translated": 911,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 116172,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3619,13 +3619,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 911,
-                                "translated": 0,
-                                "pending": 911,
+                                "translated": 911,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 116172,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3641,13 +3641,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 3447,
-                        "translated": 1865,
-                        "pending": 1582,
+                        "translated": 3447,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 421275,
-                        "percent": 54.1
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -3731,13 +3731,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 154,
-                            "translated": 0,
-                            "pending": 154,
+                            "translated": 154,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 20763,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3748,13 +3748,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 154,
-                                "translated": 0,
-                                "pending": 154,
+                                "translated": 154,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 20763,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3768,13 +3768,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 393,
-                            "translated": 83,
-                            "pending": 310,
+                            "translated": 393,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 48267,
-                            "percent": 21.1
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3785,13 +3785,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 100,
-                                "translated": 0,
-                                "pending": 100,
+                                "translated": 100,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 11568,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3803,13 +3803,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 212,
-                                "translated": 83,
-                                "pending": 129,
+                                "translated": 212,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 24841,
-                                "percent": 39.2
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3821,13 +3821,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 81,
-                                "translated": 0,
-                                "pending": 81,
+                                "translated": 81,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 11858,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3841,13 +3841,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1557,
-                            "translated": 439,
-                            "pending": 1118,
+                            "translated": 1557,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 203628,
-                            "percent": 28.2
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -3858,13 +3858,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 153,
-                                "translated": 0,
-                                "pending": 153,
+                                "translated": 153,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 21829,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3876,13 +3876,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 433,
-                                "translated": 176,
-                                "pending": 257,
+                                "translated": 433,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 55962,
-                                "percent": 40.6
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3894,13 +3894,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 538,
-                                "translated": 263,
-                                "pending": 275,
+                                "translated": 538,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 71779,
-                                "percent": 48.9
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -3912,13 +3912,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 433,
-                                "translated": 0,
-                                "pending": 433,
+                                "translated": 433,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 54058,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -3934,13 +3934,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 4917,
-                        "translated": 2156,
-                        "pending": 2761,
+                        "translated": 4917,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 580932,
-                        "percent": 43.8
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -4025,13 +4025,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 180,
-                            "translated": 0,
-                            "pending": 180,
+                            "translated": 180,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 22012,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -4042,13 +4042,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 180,
-                                "translated": 0,
-                                "pending": 180,
+                                "translated": 180,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 22012,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -4062,13 +4062,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1424,
-                            "translated": 477,
-                            "pending": 947,
+                            "translated": 1424,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 168033,
-                            "percent": 33.5
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -4079,13 +4079,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 372,
-                                "translated": 135,
-                                "pending": 237,
+                                "translated": 372,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 44120,
-                                "percent": 36.3
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4097,13 +4097,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 710,
-                                "translated": 0,
-                                "pending": 710,
+                                "translated": 710,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 86247,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4135,13 +4135,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1930,
-                            "translated": 296,
-                            "pending": 1634,
+                            "translated": 1930,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 238429,
-                            "percent": 15.3
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -4152,13 +4152,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 750,
-                                "translated": 0,
-                                "pending": 750,
+                                "translated": 750,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 99463,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4170,13 +4170,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 482,
-                                "translated": 27,
-                                "pending": 455,
+                                "translated": 482,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 57265,
-                                "percent": 5.6
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4188,13 +4188,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 364,
-                                "translated": 269,
-                                "pending": 95,
+                                "translated": 364,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 43441,
-                                "percent": 73.9
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4206,13 +4206,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 334,
-                                "translated": 0,
-                                "pending": 334,
+                                "translated": 334,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 38260,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -4228,13 +4228,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 140,
-                        "translated": 0,
-                        "pending": 140,
+                        "translated": 140,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 16349,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -4245,13 +4245,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 140,
-                            "translated": 0,
-                            "pending": 140,
+                            "translated": 140,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 16349,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -4262,13 +4262,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 140,
-                                "translated": 0,
-                                "pending": 140,
+                                "translated": 140,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 16349,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -4286,13 +4286,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 43303,
-                    "translated": 36032,
-                    "pending": 7271,
+                    "translated": 43303,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 5012156,
-                    "percent": 83.2
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -4672,13 +4672,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 7339,
-                        "translated": 4114,
-                        "pending": 3225,
+                        "translated": 7339,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 888052,
-                        "percent": 56.1
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -4763,13 +4763,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 3822,
-                            "translated": 597,
-                            "pending": 3225,
+                            "translated": 3822,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 470606,
-                            "percent": 15.6
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -4780,13 +4780,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 672,
-                                "translated": 214,
-                                "pending": 458,
+                                "translated": 672,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 85033,
-                                "percent": 31.8
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4798,13 +4798,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 591,
-                                "translated": 0,
-                                "pending": 591,
+                                "translated": 591,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 70421,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4816,13 +4816,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 837,
-                                "translated": 383,
-                                "pending": 454,
+                                "translated": 837,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 93797,
-                                "percent": 45.8
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4834,13 +4834,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 567,
-                                "translated": 0,
-                                "pending": 567,
+                                "translated": 567,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 71835,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4852,13 +4852,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 469,
-                                "translated": 0,
-                                "pending": 469,
+                                "translated": 469,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 55477,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -4870,13 +4870,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 686,
-                                "translated": 0,
-                                "pending": 686,
+                                "translated": 686,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 94043,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -5168,13 +5168,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 6346,
-                        "translated": 5113,
-                        "pending": 1233,
+                        "translated": 6346,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 809550,
-                        "percent": 80.6
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -5516,13 +5516,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 710,
-                            "translated": 152,
-                            "pending": 558,
+                            "translated": 710,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 87039,
-                            "percent": 21.4
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -5533,13 +5533,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 226,
-                                "translated": 81,
-                                "pending": 145,
+                                "translated": 226,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 23245,
-                                "percent": 35.8
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -5551,13 +5551,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 484,
-                                "translated": 71,
-                                "pending": 413,
+                                "translated": 484,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 63794,
-                                "percent": 14.7
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -5571,13 +5571,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 689,
-                            "translated": 14,
-                            "pending": 675,
+                            "translated": 689,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 84224,
-                            "percent": 2
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -5588,13 +5588,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 26,
-                                "translated": 0,
-                                "pending": 26,
+                                "translated": 26,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 2529,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -5606,13 +5606,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 663,
-                                "translated": 14,
-                                "pending": 649,
+                                "translated": 663,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 81695,
-                                "percent": 2.1
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -5665,13 +5665,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 8462,
-                        "translated": 5735,
-                        "pending": 2727,
+                        "translated": 8462,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 971702,
-                        "percent": 67.8
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -5903,13 +5903,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1385,
-                            "translated": 564,
-                            "pending": 821,
+                            "translated": 1385,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 165396,
-                            "percent": 40.7
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -5920,13 +5920,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 906,
-                                "translated": 213,
-                                "pending": 693,
+                                "translated": 906,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 105747,
-                                "percent": 23.5
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -5938,13 +5938,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 479,
-                                "translated": 351,
-                                "pending": 128,
+                                "translated": 479,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 59649,
-                                "percent": 73.3
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -5958,13 +5958,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1287,
-                            "translated": 0,
-                            "pending": 1287,
+                            "translated": 1287,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 159833,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -5975,13 +5975,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1287,
-                                "translated": 0,
-                                "pending": 1287,
+                                "translated": 1287,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 159833,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -5995,13 +5995,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 757,
-                            "translated": 138,
-                            "pending": 619,
+                            "translated": 757,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 85764,
-                            "percent": 18.2
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -6012,13 +6012,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 492,
-                                "translated": 138,
-                                "pending": 354,
+                                "translated": 492,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 54812,
-                                "percent": 28
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -6030,13 +6030,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 265,
-                                "translated": 0,
-                                "pending": 265,
+                                "translated": 265,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 30952,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -6089,13 +6089,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 86,
-                        "translated": 0,
-                        "pending": 86,
+                        "translated": 86,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 11230,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -6106,13 +6106,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 86,
-                            "translated": 0,
-                            "pending": 86,
+                            "translated": 86,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 11230,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -6123,13 +6123,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 86,
-                                "translated": 0,
-                                "pending": 86,
+                                "translated": 86,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 11230,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -6147,13 +6147,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 34496,
-                    "translated": 32903,
-                    "pending": 1593,
+                    "translated": 34496,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 4936001,
-                    "percent": 95.4
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -7190,13 +7190,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 1115,
-                        "translated": 393,
-                        "pending": 722,
+                        "translated": 1115,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 198894,
-                        "percent": 35.2
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -7207,13 +7207,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1115,
-                            "translated": 393,
-                            "pending": 722,
+                            "translated": 1115,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 198894,
-                            "percent": 35.2
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -7224,13 +7224,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1115,
-                                "translated": 393,
-                                "pending": 722,
+                                "translated": 1115,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 198894,
-                                "percent": 35.2
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -7688,13 +7688,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 7642,
-                        "translated": 6975,
-                        "pending": 667,
+                        "translated": 7642,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 1054750,
-                        "percent": 91.3
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -8036,13 +8036,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1018,
-                            "translated": 351,
-                            "pending": 667,
+                            "translated": 1018,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 172460,
-                            "percent": 34.5
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -8053,13 +8053,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1018,
-                                "translated": 351,
-                                "pending": 667,
+                                "translated": 1018,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 172460,
-                                "percent": 34.5
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -8075,13 +8075,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 204,
-                        "translated": 0,
-                        "pending": 204,
+                        "translated": 204,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 28187,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -8092,13 +8092,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 204,
-                            "translated": 0,
-                            "pending": 204,
+                            "translated": 204,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 28187,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -8109,13 +8109,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 204,
-                                "translated": 0,
-                                "pending": 204,
+                                "translated": 204,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 28187,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -8133,13 +8133,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 36333,
-                    "translated": 30166,
-                    "pending": 6167,
+                    "translated": 36333,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 4290993,
-                    "percent": 83
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -8334,13 +8334,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 4249,
-                        "translated": 2802,
-                        "pending": 1447,
+                        "translated": 4249,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 457685,
-                        "percent": 65.9
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -8425,13 +8425,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1447,
-                            "translated": 0,
-                            "pending": 1447,
+                            "translated": 1447,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 142210,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -8442,13 +8442,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1447,
-                                "translated": 0,
-                                "pending": 1447,
+                                "translated": 1447,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 142210,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -8464,13 +8464,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 6891,
-                        "translated": 5166,
-                        "pending": 1725,
+                        "translated": 6891,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 903610,
-                        "percent": 75
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -8970,13 +8970,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 2125,
-                            "translated": 400,
-                            "pending": 1725,
+                            "translated": 2125,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 280909,
-                            "percent": 18.8
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -8987,13 +8987,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 437,
-                                "translated": 0,
-                                "pending": 437,
+                                "translated": 437,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 51759,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -9005,13 +9005,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 538,
-                                "translated": 97,
-                                "pending": 441,
+                                "translated": 538,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 76228,
-                                "percent": 18
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -9023,13 +9023,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 472,
-                                "translated": 303,
-                                "pending": 169,
+                                "translated": 472,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 66821,
-                                "percent": 64.2
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -9041,13 +9041,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 232,
-                                "translated": 0,
-                                "pending": 232,
+                                "translated": 232,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 32398,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -9059,13 +9059,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 446,
-                                "translated": 0,
-                                "pending": 446,
+                                "translated": 446,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 53703,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -9211,13 +9211,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 2527,
-                        "translated": 503,
-                        "pending": 2024,
+                        "translated": 2527,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 319113,
-                        "percent": 19.9
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -9228,13 +9228,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 2527,
-                            "translated": 503,
-                            "pending": 2024,
+                            "translated": 2527,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 319113,
-                            "percent": 19.9
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -9245,13 +9245,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 2527,
-                                "translated": 503,
-                                "pending": 2024,
+                                "translated": 2527,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 319113,
-                                "percent": 19.9
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -9267,13 +9267,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 2735,
-                        "translated": 2714,
-                        "pending": 21,
+                        "translated": 2735,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 348295,
-                        "percent": 99.2
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -9505,13 +9505,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 573,
-                            "translated": 552,
-                            "pending": 21,
+                            "translated": 573,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 59796,
-                            "percent": 96.3
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -9522,13 +9522,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 573,
-                                "translated": 552,
-                                "pending": 21,
+                                "translated": 573,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 59796,
-                                "percent": 96.3
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -9618,13 +9618,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 5609,
-                        "translated": 4984,
-                        "pending": 625,
+                        "translated": 5609,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 627979,
-                        "percent": 88.9
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -9893,13 +9893,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 731,
-                            "translated": 355,
-                            "pending": 376,
+                            "translated": 731,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 64926,
-                            "percent": 48.6
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -9910,13 +9910,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 731,
-                                "translated": 355,
-                                "pending": 376,
+                                "translated": 731,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 64926,
-                                "percent": 48.6
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -9930,13 +9930,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 249,
-                            "translated": 0,
-                            "pending": 249,
+                            "translated": 249,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 26857,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -9947,13 +9947,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 249,
-                                "translated": 0,
-                                "pending": 249,
+                                "translated": 249,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 26857,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -10006,13 +10006,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 325,
-                        "translated": 0,
-                        "pending": 325,
+                        "translated": 325,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 38027,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -10023,13 +10023,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 325,
-                            "translated": 0,
-                            "pending": 325,
+                            "translated": 325,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 38027,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -10040,13 +10040,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 325,
-                                "translated": 0,
-                                "pending": 325,
+                                "translated": 325,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 38027,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -10064,13 +10064,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 37199,
-                    "translated": 36231,
-                    "pending": 968,
+                    "translated": 37199,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 4698849,
-                    "percent": 97.4
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -11013,13 +11013,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 152,
-                        "translated": 0,
-                        "pending": 152,
+                        "translated": 152,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 16586,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -11030,13 +11030,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 152,
-                            "translated": 0,
-                            "pending": 152,
+                            "translated": 152,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 16586,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11047,13 +11047,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 152,
-                                "translated": 0,
-                                "pending": 152,
+                                "translated": 152,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 16586,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -11162,13 +11162,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 59,
-                        "translated": 0,
-                        "pending": 59,
+                        "translated": 59,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 9415,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -11179,13 +11179,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 59,
-                            "translated": 0,
-                            "pending": 59,
+                            "translated": 59,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 9415,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11196,13 +11196,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 59,
-                                "translated": 0,
-                                "pending": 59,
+                                "translated": 59,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 9415,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -11218,13 +11218,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 4113,
-                        "translated": 4041,
-                        "pending": 72,
+                        "translated": 4113,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 523245,
-                        "percent": 98.2
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -11437,13 +11437,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1190,
-                            "translated": 1118,
-                            "pending": 72,
+                            "translated": 1190,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 146571,
-                            "percent": 93.9
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11454,13 +11454,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 121,
-                                "translated": 49,
-                                "pending": 72,
+                                "translated": 121,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 15551,
-                                "percent": 40.5
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -11567,13 +11567,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 5187,
-                        "translated": 4554,
-                        "pending": 633,
+                        "translated": 5187,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 602296,
-                        "percent": 87.8
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -11749,13 +11749,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 2819,
-                            "translated": 2299,
-                            "pending": 520,
+                            "translated": 2819,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 318932,
-                            "percent": 81.6
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11766,13 +11766,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1280,
-                                "translated": 760,
-                                "pending": 520,
+                                "translated": 1280,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 127221,
-                                "percent": 59.4
+                                "percent": 100
                               },
                               "children": []
                             },
@@ -11822,13 +11822,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 113,
-                            "translated": 0,
-                            "pending": 113,
+                            "translated": 113,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 11379,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11839,13 +11839,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 113,
-                                "translated": 0,
-                                "pending": 113,
+                                "translated": 113,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 11379,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -11861,13 +11861,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 52,
-                        "translated": 0,
-                        "pending": 52,
+                        "translated": 52,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 8485,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -11878,13 +11878,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 52,
-                            "translated": 0,
-                            "pending": 52,
+                            "translated": 52,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 8485,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -11895,13 +11895,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 52,
-                                "translated": 0,
-                                "pending": 52,
+                                "translated": 52,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 8485,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -11996,13 +11996,13 @@
               "sheets": [],
               "counts": {
                 "total": 119,
-                "translated": 0,
-                "pending": 119,
+                "translated": 119,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 7865,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -12014,13 +12014,13 @@
               "sheets": [],
               "counts": {
                 "total": 232,
-                "translated": 0,
-                "pending": 232,
+                "translated": 232,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 7952,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -12032,13 +12032,13 @@
               "sheets": [],
               "counts": {
                 "total": 94,
-                "translated": 0,
-                "pending": 94,
+                "translated": 94,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 10074,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -12050,13 +12050,13 @@
               "sheets": [],
               "counts": {
                 "total": 17,
-                "translated": 0,
-                "pending": 17,
+                "translated": 17,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 184,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             }
@@ -25851,8 +25851,8 @@
       "sheets": [],
       "counts": {
         "total": 80743,
-        "translated": 0,
-        "pending": 80743,
+        "translated": 2,
+        "pending": 80741,
         "stale": 0,
         "excluded": 29871,
         "excludedTranslated": 0,
@@ -25952,8 +25952,8 @@
           ],
           "counts": {
             "total": 16268,
-            "translated": 0,
-            "pending": 16268,
+            "translated": 2,
+            "pending": 16266,
             "stale": 0,
             "excluded": 164,
             "excludedTranslated": 0,
@@ -25987,8 +25987,8 @@
               "sheets": [],
               "counts": {
                 "total": 16208,
-                "translated": 0,
-                "pending": 16208,
+                "translated": 2,
+                "pending": 16206,
                 "stale": 0,
                 "excluded": 74,
                 "excludedTranslated": 0,
