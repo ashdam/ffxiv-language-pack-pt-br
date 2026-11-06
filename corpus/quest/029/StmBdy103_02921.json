@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy103_02921",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "" },
-    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "" }
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_000", "hash": "4DD6FB61B9C9A6AB", "target": "Diga, você não é de Eorzea? E, pelo jeito, também se dedica à aventura?" },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_001", "hash": "462DE69E69324176", "target": "Maravilhoso! A Guilda dos Aventureiros me enviou para divulgar nossa instituição e nos ajudar a estabelecer uma presença aqui no Extremo Oriente." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_002", "hash": "AF005720B9800532", "target": "E que jeito melhor de conquistar os moradores do que oferecer ajuda? Por meio de guildleves, claro. Já temos muito trabalho para quem tem habilidade, e espero poder contar com as suas também." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_003", "hash": "2E1EFFDFD84C7568", "target": "Você já tem acesso a guildleves em Kugane. Fale com Keltraeng para aceitar tarefas para Disciples of the Hand e Disciples of the Land." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_KELTRAENG_000_010", "hash": "F741612435F7A4FE", "target": "Espero encontrar aventureiros habilidosos por aqui, e em número suficiente para atender à demanda..." },
+    { "gameKey": "quest/029/StmBdy103_02921#TEXT_STMBDY103_02921_SYSTEM_000_011", "hash": "EC31C59990EBF473", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Hand ou aos Disciples of the Land e estar no nível 60 ou superior." }
   ]
 }

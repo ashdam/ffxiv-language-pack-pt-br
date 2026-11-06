@@ -2,19 +2,19 @@
   "conversation": "quest/027/StmBdz525_02776",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_SEQ_00", "hash": "7B28D93F56E3A66C", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_100_003", "hash": "D5E9643F79D604CF", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_004", "hash": "C4F3AF4AF758866F", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_005", "hash": "785556D8141CF911", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_010", "hash": "D37BDCDD3ACA2A18", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_011", "hash": "F041841D2D562C26", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_012", "hash": "48E77DED50D94C4D", "target": "" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_013", "hash": "0DB0C3C2285C612D", "target": "" }
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_SEQ_00", "hash": "7B28D93F56E3A66C", "target": "Charakha encara você com admiração." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "Usar o kumis dos Oronir nos locais indicados" },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "Falar com Charakha" },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Ahá! Reconheço você! É <if(gnum4,a mulher,o homem)> que venceu Bardam's Mettle. Sua força deve ser sobre-humana." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "São raros os forasteiros que conquistam o respeito dos filhos e filhas de Azim." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "Precisamos celebrar sua vitória nessa prova tão árdua à maneira dos Oronir: você deve realizar um ritual sagrado." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "Não é complicado. Para completá-lo, basta visitar cinco pedras na região e borrifar um pouco de kumis nelas." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_100_003", "hash": "D5E9643F79D604CF", "target": "Mas não faça isso de maneira leviana. A cada gota que atingir a pedra, pense em uma meta que deseja alcançar e prometa a si <if(gnum4,mesma,mesmo)> que vai realizá-la." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_004", "hash": "C4F3AF4AF758866F", "target": "Quando terminar, volte para falar comigo. Boa sorte!" },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_005", "hash": "785556D8141CF911", "target": "Acima de tudo, mantenha suas metas bem vivas na mente enquanto borrifa o kumis nas pedras. Afinal, essa é a parte mais importante." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_010", "hash": "D37BDCDD3ACA2A18", "target": "Então terminou o ritual? Muito bem. Agora, permita-me explicar o significado dessa prática." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_011", "hash": "F041841D2D562C26", "target": "As cinco pedras nas quais você derramou o kumis também são chamadas de “dedos de Azim”. Esse ritual é uma forma de mostrar nosso respeito por ele e nos permite receber sua orientação." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_012", "hash": "48E77DED50D94C4D", "target": "Se ele considerar nosso desejo grandioso o bastante, abrirá um caminho para realizá-lo. Mas isso não quer dizer que podemos simplesmente cruzar os braços. Também precisamos trabalhar duro para realizar nossos sonhos." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_013", "hash": "0DB0C3C2285C612D", "target": "O Pai Azim tudo vê e tudo ouve. Seus desejos chegaram até ele, e, se julgar que você merece, ele os realizará." }
   ]
 }

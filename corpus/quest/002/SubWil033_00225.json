@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubWil033_00225",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "" },
-    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "" }
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_00", "hash": "6732C626E83B29FE", "target": "Alguma coisa deixou Fafafono, de Silver Bazaar, muito agitado." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_01", "hash": "F9D138B9157F5037", "target": "Fafafono é a infeliz vítima de carregadores que deixaram o serviço pela metade. Suas mercadorias estão além dos portões, sem entrega e sem vigilância. Recolha os três volumes e entregue-os ao proprietário preocupado." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_02", "hash": "DD8A8D38EB94B796", "target": "Você recolheu todos os volumes abandonados. Leve-os em segurança de volta ao aflito Fafafono." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_SEQ_03", "hash": "E6477BC32D1A1AA1", "target": "Os volumes de Fafafono contêm roupas com defeitos de tecelagem das Tapeçarias de Seda Solar. Para a população isolada de Silver Bazaar, porém, só importa que sejam produtos de marca." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_00", "hash": "6FCB4E1A877B5EBC", "target": "Recolher os volumes de Fafafono" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_TODO_01", "hash": "7E4FE037F902B881", "target": "Entregar os volumes a Fafafono" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_001", "hash": "B790D076DA00BE06", "target": "Malditos carregadores! Quem eles pensam que são!? Paguei um bom dinheiro pra... Ah, você aí! Você é dessas pessoas que vivem de aventuras e procuram serviço, não é?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_002", "hash": "5D643DAAF3875E9F", "target": "Chegaram umas mercadorias que encomendei de um comerciante uldahno, mas aqueles carregadores inúteis simplesmente largaram tudo do lado de fora do portão e foram embora." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_003", "hash": "1C624ED6D944478D", "target": "“Não somos obrigados a levar mais longe”, disseram os vagabundos. “O portão do Bazaar ainda é o Bazaar. O pedido não falava nada de entregar em casa.” Que desaforo! \\<suspiro> São três volumes ao todo. Você faria a gentileza de trazer pra mim?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_011", "hash": "2F463C50C47D650F", "target": "Pelos deuses, espero que aqueles brutamontes não tenham estragado meus pacotes... Então? Já encontrou?" },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_012", "hash": "1F472D06CFBE5689", "target": "Vamos ver... Sim, sim e sim. Excelente! Está tudo aqui! Estes pacotes contêm roupas das Tapeçarias de Seda Solar, embora cada uma tenha... algum defeito." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_013", "hash": "5A279A1D32426B14", "target": "Em Ul'dah, um fiozinho fora do lugar basta pra mandar o vestido mais luxuoso pra fornalha. Mas aqui não. Desde que a roupa tenha um nome famoso, o povo de Silver Bazaar não liga pra qualidade." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_014", "hash": "C7D7A69A11900AB4", "target": "\\<suspiro> Os tempos já foram melhores. Nunca tivemos que descer tanto... Mas agora é cada vez mais difícil conseguir Gil. Só restam neste Bazaar pessoas com orgulho demais e gosto de menos." },
+    { "gameKey": "quest/002/SubWil033_00225#TEXT_SUBWIL033_00225_FAFAFONO_015", "hash": "E722D5315C27B584", "target": "Todo mundo se agarra às glórias do passado dourado, mas ninguém faz nada pra mudar este presente miserável. Rezo para que um dia este maldito Bazaar afunde nas areias que o sufocam. Quanto antes, melhor." }
   ]
 }

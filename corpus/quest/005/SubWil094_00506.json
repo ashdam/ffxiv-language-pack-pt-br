@@ -2,16 +2,16 @@
   "conversation": "quest/005/SubWil094_00506",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_00", "hash": "5FB3FBB29B5F00E2", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_01", "hash": "EA4C4CA941EE6EB5", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "" },
-    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "" }
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_00", "hash": "9D73BA567C8CA874", "target": "Edalene, de Crescent Cove, precisa de ajuda para remover os detritos presos em suas redes." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_01", "hash": "E650F6156B537D2A", "target": "As redes de arrasto de Edalene ficaram cheias de detritos do fundo do mar. Ajude-a removendo tudo o que encontrar preso nelas." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_02", "hash": "A1FEE661EC977492", "target": "Você limpou as redes. Fale novamente com Edalene." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_SEQ_03", "hash": "709B166BCC8B6BE7", "target": "Depois de agradecer, Edalene explica que a vida de esposa de pescador é consertar redes e rezar por águas calmas e pescarias fartas." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_00", "hash": "5FB3FBB29B5F00E2", "target": "Remover os detritos das redes de arrasto" },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_TODO_01", "hash": "EA4C4CA941EE6EB5", "target": "Falar com Edalene" },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_000", "hash": "0CC82F349B66FA58", "target": "Tem um tempinho para uma velha esposa de pescador? Como deve ter notado, tenho umas redes precisando de cuidados." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_001", "hash": "CF64ACE03D089656", "target": "Estas redes penduradas aqui servem para pegar peixes. O problema é que acabam trazendo todo tipo de tralha do fundo do mar." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_002", "hash": "DED1AC8DA630E76A", "target": "Eu agradeceria se você tirasse os detritos que encontrar presos nelas." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_010", "hash": "8FEFAA01091B40B6", "target": "Obrigada, meu bem. Uma tarefa a menos para fazer." },
+    { "gameKey": "quest/005/SubWil094_00506#TEXT_SUBWIL094_00506_EDALENE_011", "hash": "0A8F20CC9EA5FA12", "target": "Eu digo, não é fácil ser esposa de pescador. Quando não estou remendando redes e velas, estou pedindo a Llymlaen águas calmas e uma pescaria farta. Mesmo assim, não trocaria essa trabalheira por nada." }
   ]
 }

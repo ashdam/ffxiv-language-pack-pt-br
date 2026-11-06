@@ -2,14 +2,14 @@
   "conversation": "quest/041/AktKyr101_04170",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "" },
-    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "" }
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_000", "hash": "D23C57E03F02056A", "target": "Hum... Você parece não ter medo de sujar as mãos, e digo isso no sentido literal. Que tal um pouco de trabalho duro à moda antiga?" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_001", "hash": "F91ED0503112BFDC", "target": "...Mas talvez eu esteja me adiantando. Sou Grigge, um dos coletores de Sharlayan. Nosso papel é obter materiais, amostras, conhecimento... Tudo que você puder imaginar, e muito mais." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_002", "hash": "A3978A5B3250C66B", "target": "Naturalmente, seria difícil uma pessoa vasculhar o mundo toda vez que nossos conterrâneos nos pedem algo. Por isso formamos uma guilda, para compartilhar informações e encaminhar os pedidos a quem tem mais aptidão para atendê-los." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_003", "hash": "D2332D0670A0EA2F", "target": "Alguns pedidos, por exemplo, são mais adequados a quem demonstra certa habilidade e persistência... E os calos nas suas mãos me dizem que você é uma dessas pessoas." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_004", "hash": "A6C439C9CD6C042E", "target": "Entendo que você possa ficar com um pé atrás, dado o... hum, processo de seleção pouco rigoroso. Como deve imaginar, o Fórum jamais reconheceria oficialmente alguém de outra nação como coletor." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_005", "hash": "360218E1923A4457", "target": "...Extraoficialmente, porém, estamos atolados de pedidos, e eles chegam mais rápido que nunca. Aceitamos todo talento disponível, e pagamos bem por ele. Então, por favor, diga que tem interesse!" },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_006", "hash": "C43788B2BEFD3D16", "target": "Você já pode aceitar leves de coletor falando com Grigge." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_GRIGGE_000_010", "hash": "05A0E71DBAF5A2B8", "target": "De Sharlayan ou não, precisamos muito de ajuda qualificada neste momento..." },
+    { "gameKey": "quest/041/AktKyr101_04170#TEXT_AKTKYR101_04170_SYSTEM_000_011", "hash": "8BB2445A9E88D799", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Hand ou aos Disciples of the Land e estar no nível 80 ou superior." }
   ]
 }

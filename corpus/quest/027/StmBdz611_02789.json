@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz611_02789",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_SEQ_00", "hash": "E200EC77ACFAC3E1", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_000", "hash": "1FEDCAF463206A4A", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_001", "hash": "F6628F834DAE0BD8", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_002", "hash": "4B82BC80F39522F8", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_003", "hash": "DCA628A146C00E7F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_004", "hash": "3C278A0E2DBAE391", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_010", "hash": "64D6D777A8173D48", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_011", "hash": "EB2C0CE63F4A305F", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_012", "hash": "44DDB1361B2B3275", "target": "" },
-    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_013", "hash": "00FD1C0CD15F87E0", "target": "" }
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_SEQ_00", "hash": "E200EC77ACFAC3E1", "target": "Agujam se preocupa com o que espreita sob a areia." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_00", "hash": "61DF693677CBF920", "target": "Derrotar os ácaros que aparecerem na área rochosa a oeste" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_TODO_01", "hash": "42BCB9AE9D3E710F", "target": "Falar com Agujam" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_000", "hash": "1FEDCAF463206A4A", "target": "Essas criaturas malditas não descansam!?" },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_001", "hash": "F6628F834DAE0BD8", "target": "Ah, você aí, <if(gnum4,aventureira,aventureiro)>. Se aceitar, gostaria da sua ajuda com uma coisa." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_002", "hash": "4B82BC80F39522F8", "target": "Tenho visto um número incomum de ácaros na região ultimamente. Sempre aparecem depois das tempestades de areia. Não seria um problema se lutassem de forma justa. Mas preferem se esconder debaixo da areia e esperar um momento de vulnerabilidade para atacar." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_003", "hash": "DCA628A146C00E7F", "target": "Derrote os que encontrar perto da área rochosa a oeste, e vou garantir uma recompensa à altura. Dou minha palavra." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_004", "hash": "3C278A0E2DBAE391", "target": "Derrote os que encontrar perto da área rochosa a oeste, e vou garantir uma recompensa à altura. Dou minha palavra." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_010", "hash": "64D6D777A8173D48", "target": "As feras foram derrotadas? Agradeço a você." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_011", "hash": "EB2C0CE63F4A305F", "target": "Se os ácaros atacassem apenas guerreiros como nós, não seria um problema tão grande. Mas atacam qualquer pessoa. Mulheres, crianças, para eles não faz diferença." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_012", "hash": "44DDB1361B2B3275", "target": "Não vou tolerar isso. Não podemos descansar até que sejam erradicados desta região." },
+    { "gameKey": "quest/027/StmBdz611_02789#TEXT_STMBDZ611_02789_AGUJAM_000_013", "hash": "00FD1C0CD15F87E0", "target": "Obrigado por me ajudar a acabar com os primeiros. Nós cuidaremos do resto." }
   ]
 }

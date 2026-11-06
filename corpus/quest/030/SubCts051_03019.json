@@ -2,17 +2,17 @@
   "conversation": "quest/030/SubCts051_03019",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_000", "hash": "5806C9BEA10088F6", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_001", "hash": "BBA327EDC950D797", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_002", "hash": "FF4B0A64C3A8FB6A", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_003", "hash": "F36FFAEE232CB4A2", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_004", "hash": "2DB73D5279C15265", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_005", "hash": "1EBBDA002341B260", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_006", "hash": "13A011B2E50C0B0B", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_007", "hash": "D04C7ACC6F7E1F46", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_010", "hash": "2CF61EFAA33DC6FF", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_020", "hash": "0873E30CDA51234A", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_100", "hash": "2CD9C4D10AEDF2CF", "target": "" },
-    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_101", "hash": "AB39095B28CD980F", "target": "" }
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_000", "hash": "5806C9BEA10088F6", "target": "Veio ouvir as cordas sedosas de Simpkin, trovador viajante e mestre menestrel? Não?" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_001", "hash": "BBA327EDC950D797", "target": "Mas você tem o jeito de quem vive na estrada. E, sobre viagens maravilhosas e sua expressão musical, talvez eu tenha uma pequena sabedoria a oferecer." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_002", "hash": "FF4B0A64C3A8FB6A", "target": "Quando um espetáculo da natureza ou um ato inspirador de bravura toca meu coração de repente, simplesmente deixo a emoção do momento fluir pelos dedos até a harpa. Nunca encontrei som de beleza tão pungente quanto aquele nascido de um instante de alegria verdadeira ou tristeza saudosa." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_003", "hash": "F36FFAEE232CB4A2", "target": "Não é preciso treinamento ou conhecimento especial para dar voz à música do coração, apenas disposição para tocar a partitura enquanto ela se escreve na alma." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_004", "hash": "2DB73D5279C15265", "target": "Se conseguir se entregar assim, terá criado uma peça só sua. E que melodia poderia ser mais preciosa!?" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_005", "hash": "1EBBDA002341B260", "target": "Sim, soube desde que pus os olhos em você: eis <if(gnum4,uma mulher cujo espírito pede interpretação instrumental,um homem cujo espírito pede interpretação instrumental)>. Deixe suas inibições para trás e presenteie o mundo com sua apresentação!" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_006", "hash": "13A011B2E50C0B0B", "target": "Para começar, toque as notas que lhe derem vontade. Deixe o capricho levar você pelas escalas, deleitando-se nos agudos elevados e nos graves profundos, até encontrar uma canção que ressoe com seu ser." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_007", "hash": "D04C7ACC6F7E1F46", "target": "Coloridos pela experiência de suas aventuras, o timbre e o tom serão seus, e de mais ninguém. Ah, que tipo de música preencherá o ar...? Que o vento carregue sua composição e a entregue aos meus ouvidos ávidos!" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_010", "hash": "2CF61EFAA33DC6FF", "target": "Você aprendeu “Perform”! Ao jogar como Bard, as <colortype(500)><edgecolortype(501)>Performance Actions<edgecolortype(0)><colortype(0)> ficam na janela <colortype(500)><edgecolortype(501)>Actions & Traits<edgecolortype(0)><colortype(0)>, acessada em <colortype(500)><edgecolortype(501)>Character<edgecolortype(0)><colortype(0)> no menu principal." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_020", "hash": "0873E30CDA51234A", "target": "Entendo, a coragem para se entregar assim não vem facilmente. Minha harpa e eu ficaremos na cidade por algum tempo, então volte quando quiser seguir meus ensinamentos musicais." },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SIMPKIN_000_100", "hash": "2CD9C4D10AEDF2CF", "target": "Você tem certo ar. Um ar <italic(1)>musical<italic(0)>. Já pensou em aprender a tocar um instrumento...?" },
+    { "gameKey": "quest/030/SubCts051_03019#TEXT_SUBCTS051_03019_SYSTEM_000_101", "hash": "AB39095B28CD980F", "target": "Para iniciar esta missão, você precisa mudar seu job atual para Bard." }
   ]
 }

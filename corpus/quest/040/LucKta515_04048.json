@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKta515_04048",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "" },
-    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "" }
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_001", "hash": "5D858C5874BE4661", "target": "Lali-chegou-mais-um-dispositivo-de-registro-ho. Seja lá o que Konogg estiver fazendo, enquanto continuar mandando isso, podemos imaginar que está são e salvo. Enfim, tome." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_002", "hash": "368DDB570931DD63", "target": "Hum, chefe? Posso falar com você um momento?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_003", "hash": "4B3F858C8B500199", "target": "Claro, o que foi?" },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_004", "hash": "F003BD020CE299F3", "target": "É Glagg. Acabei de encontrar com ele, e estava agindo de um jeito estranho..." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_VILLAGERD03954_000_005", "hash": "B3290EC26F41F3A5", "target": "Quando você acha que ele está com raiva, de repente começa a chorar. E logo depois está falando com você como um velho amigo." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_006", "hash": "7E7D602933CE5638", "target": "Ah, isso... Ele está assim desde a reunião." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_007", "hash": "A22F15A6151313F9", "target": "Mas eu cuido dele, não se preocupe. Obrigado por avisar, e me conte se notar mais alguma coisa." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_008", "hash": "C85CB4977773BFB9", "target": "Parece que nem todos sabem do estado de Glagg. Mas é só questão de tempo se ele continuar piorando como parece estar." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_DWARFMASTER03671_000_009", "hash": "7DD97790CA483C47", "target": "Desculpe, estou pensando alto, mas esse problema não é seu. Continue se concentrando na reconstrução. É assim que pode nos ajudar melhor." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_010", "hash": "543AD7038320EEE4", "target": "Você recebe uma mensagem de Konogg." },
+    { "gameKey": "quest/040/LucKta515_04048#TEXT_LUCKTA515_04048_SYSTEM_000_011", "hash": "74FD0693FB8F6324", "target": "A mensagem pode ser vista no <colortype(500)><edgecolortype(501)>Portable Archive<edgecolortype(0)><colortype(0)>, disponível em Collection, na seção Duty do menu principal." }
   ]
 }

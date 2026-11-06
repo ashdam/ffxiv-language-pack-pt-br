@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl201_01267",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "" },
-    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "" }
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_00", "hash": "3BC45910258E6F8D", "target": "Ponnixia está preocupada com uma nova ameaça à segurança de seu povo." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_01", "hash": "BC1B98A4E07314F5", "target": "Os silfos tocados estão causando problemas de novo, desta vez treinando a fauna local para perseguir e ferir seus parentes pacíficos. Vá a Sylphlands, mate os dois condores e cuide dos silfos responsáveis por treinar as aves para serem assassinas cruéis." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_02", "hash": "6E682ADC7BC0A70A", "target": "Você eliminou a ameaça alada. Relate seus feitos a Ponnixia." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_SEQ_03", "hash": "18F9CDB199C1DA05", "target": "Ponnixia agradece por seu empenho em eliminar a nova ameaça à floresta e expressa a esperança de que um dia as aves possam ser treinadas para ser menos hostis." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_00", "hash": "9797D138CC8AA8D0", "target": "Derrotar Sylphlands condors" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_01", "hash": "92A4FEDBDC97FFF2", "target": "Derrotar sylpheed snarls" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_TODO_02", "hash": "1D3752DD3476ACF5", "target": "Relatar a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_000", "hash": "50FC662E8777F09B", "target": "Os tocados estão aprontando de novo. Roubam os bicudos dos ninhos e ensinam os bicudos a maltratar estes aqui." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_001", "hash": "4B475258FD730FF0", "target": "Este aqui foi colher flores perto de Sylphlands, e um bicudo malvado quase arrancou a cabeça deste aqui a bicadas!" },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_002", "hash": "CA19FF40FB80D217", "target": "Este aqui nunca ficou tão bravo. Esta floresta devia ser para todos! Por favor, amigável, que impeça os tocados e os bicudos malvados." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_010", "hash": "6FBD454DD64D1606", "target": "Por favor, amigável! Que vá a Sylphlands e impeça os tocados e os bicudos malvados." },
+    { "gameKey": "quest/012/BanSyl201_01267#TEXT_BANSYL201_01267_PONNIXIA_000_020", "hash": "6680CAB9395187C3", "target": "Este aqui agradece ao que é amigável. Talvez um dia este aqui possa ensinar os bicudos a serem amigáveis..." }
   ]
 }

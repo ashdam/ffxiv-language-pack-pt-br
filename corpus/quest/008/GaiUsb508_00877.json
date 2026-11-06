@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb508_00877",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "" },
-    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "" }
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_00", "hash": "6A4090ADEBECFE00", "target": "A Irmã Eluned tem uma notícia difícil para compartilhar." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_01", "hash": "C0881A97D98709DD", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Eluned na Igreja de Santo Adama Landama.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_02", "hash": "9D448C65D13304F8", "target": "Em memória de seus companheiros mortos, você se ajoelha diante da marca da Guardiã. Volte à Irmã Eluned na Igreja de Santo Adama Landama." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SEQ_03", "hash": "16BE234046B87B5A", "target": "Jamais será possível saber ao certo o resultado de sua peregrinação. Ainda assim, a Irmã Eluned acredita que suas ações confortarão as almas dos Herdeiros falecidos." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_00", "hash": "03433267A5B6DC06", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Eluned na Igreja de Santo Adama Landama.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_TODO_01", "hash": "6D0187D250A030C0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Eluned na Igreja de Santo Adama Landama.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_000", "hash": "1205AE430EE9508C", "target": "Lamento informar uma coisa: embora quiséssemos sepultar seus companheiros no terreno da igreja, o número de Herdeiros mortos excedeu muito nossas estimativas." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_001", "hash": "56D25497D79F5A90", "target": "Depois de discutir o assunto com o Padre Iliud, concluímos que não temos escolha senão enterrar os mortos nos mesmos túmulos dos que pereceram na Calamidade." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_002", "hash": "D5A98C6A71C9228B", "target": "Por favor, nos perdoe. Não queremos desonrar a memória dos mortos. Mas, como responsáveis pelo cemitério, são realidades que precisamos enfrentar." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_003", "hash": "0F1A95169731B5FF", "target": "<split(<string(gstr1)>, ,1)>... O que aconteceu à sua ordem foi um crime imperdoável. Se deseja que esses vilões enfrentem a justiça, considere fazer uma peregrinação à marca da Guardiã." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_004", "hash": "9A05D07ACB24932A", "target": "Embora eu não siga os ensinamentos de Azeyma, dizem que rezar diante de Sua marca invoca Seu julgamento divino. Seja qual for sua fé, talvez valha o esforço." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_SYSTEM_000_010", "hash": "B786E9D48911C343", "target": "Ao se ajoelhar diante da marca da Guardiã num momento de quieta solidão, você inspira fundo o ar seco do deserto. O rugido das águas é pontuado pelo fraco cricrilar dos insetos e pelos gritos agudos de um falcão. Os deuses, porém, permanecem em silêncio..." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_020", "hash": "24ADAA8E7BB535FC", "target": "Honrou os mortos com sua peregrinação, <split(<string(gstr1)>, ,1)>. Mesmo que Azeyma não tenha ouvido suas preces, creio que elas confortaram seus companheiros falecidos." },
+    { "gameKey": "quest/008/GaiUsb508_00877#TEXT_GAIUSB508_00877_ELUNED_000_021", "hash": "308A5D5F68BC6600", "target": "Lembre que, embora o corpo seja apenas um receptáculo que um dia deve retornar à Corrente Vital, nossas almas perdurarão, e os justos encontrarão consolo no reino de Thal." }
   ]
 }

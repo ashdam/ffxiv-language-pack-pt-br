@@ -2,12 +2,12 @@
   "conversation": "quest/037/SubCts502_03759",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_000", "hash": "FCAF571222CB7301", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_001", "hash": "ECC7A877C6A08F1C", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_002", "hash": "339145C1E17A2794", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_003", "hash": "D1D6D5393B103B81", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_004", "hash": "698C9C43F6218561", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_005", "hash": "FB2877AF87FF1A93", "target": "" },
-    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_006", "hash": "B5A1ABA591C9ED91", "target": "" }
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_000", "hash": "FCAF571222CB7301", "target": "Ah! Nada como olhar o mar para levar um velho de volta aos dias de glória. Sim, os bons tempos em que a vida inteira ainda estava pela frente, e as maiores aventuras ainda estavam por vir..." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_001", "hash": "ECC7A877C6A08F1C", "target": "...Ah! Não sabe que não deve chegar de mansinho assim perto dos mais velhos, jovem? Quer me levar antes da hora para a cova? Bem, não exatamente <italic(1)>antes da hora<italic(0)>..." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_002", "hash": "339145C1E17A2794", "target": "Mas nem precisa dizer... Sim, dá para ver só de olhar. Você vive de aventuras, e com muito sucesso, não é? Pode não ter a minha barba branca, mas aposto que tem uma ou duas lembranças que gostaria de reviver." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_OLDPERSON03759_000_003", "hash": "D1D6D5393B103B81", "target": "Que tal me fazer companhia por um tempo antes de voltar à estrada? Afinal, às vezes refletir sobre o passado é exatamente o que falta para descobrir o caminho que se quer abrir no futuro." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_004", "hash": "698C9C43F6218561", "target": "Você agora tem acesso ao sistema New Game+. Com ele, é possível reviver aventuras passadas jogando missões anteriores com os dados atuais do seu personagem." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_005", "hash": "FB2877AF87FF1A93", "target": "Para repetir missões antigas com New Game+, abra a interface <colortype(500)><edgecolortype(501)>New Game+<edgecolortype(0)><colortype(0)>, em <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> no menu principal, e selecione o capítulo que deseja vivenciar novamente." },
+    { "gameKey": "quest/037/SubCts502_03759#TEXT_SUBCTS502_03759_SYSTEM_000_006", "hash": "B5A1ABA591C9ED91", "target": "Regras e condições especiais se aplicam ao repetir missões com New Game+. Para mais informações, consulte o texto de ajuda no menu New Game+." }
   ]
 }

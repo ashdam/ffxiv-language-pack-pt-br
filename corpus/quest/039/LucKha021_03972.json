@@ -2,10 +2,10 @@
   "conversation": "quest/039/LucKha021_03972",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_002", "hash": "D1B9132CEE64887A", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_003", "hash": "B20BD11E990DB9BE", "target": "" },
-    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_004", "hash": "C69C236424FC35C4", "target": "" }
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_000", "hash": "C6E4DAC165410331", "target": "Ora, se não é <split(<string(gstr1)>, ,1)>! Olhe ao redor e admire Featherfall, o mais novo bairro do Firmament, já aberto para negócios! Nem preciso dizer que não teríamos conseguido sem você." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_001", "hash": "4597DC2B287D221E", "target": "Como você já deve saber, Featherfall será o bairro comercial do Firmament. Aqui temos uma filial da Skysteel Manufactory, uma residência imponente chamada Hoarfrost Hall e um mercado animado, com comerciantes vendendo mercadorias de todas as terras." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_002", "hash": "D1B9132CEE64887A", "target": "É, não param de chegar comerciantes, artesãos e trabalhadores querendo morar aqui. Não posso culpá-los. Até eu estou pensando em me mudar!" },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_003", "hash": "B20BD11E990DB9BE", "target": "Lorde Francel acredita que é só questão de tempo até Featherfall virar o coração pulsante do Firmament. Pelo jeito, acho que já está quase lá." },
+    { "gameKey": "quest/039/LucKha021_03972#TEXT_LUCKHA021_03972_AUGEBERT_000_004", "hash": "C69C236424FC35C4", "target": "Claro, ainda há muito trabalho de construção e restauração pela frente. Se você puder nos ajudar a manter um fluxo constante de suprimentos, seremos muito gratos, como sempre." }
   ]
 }

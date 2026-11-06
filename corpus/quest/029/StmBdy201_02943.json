@@ -2,13 +2,13 @@
   "conversation": "quest/029/StmBdy201_02943",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_002", "hash": "FF922EC771E4FAAB", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_003", "hash": "995173518C7607AC", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_004", "hash": "3C4164F714500EA1", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_005", "hash": "9CDE7BFA1E7CDCB7", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_006", "hash": "78D6A32F7FAAC3A6", "target": "" },
-    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_007", "hash": "53E78EA53C394C6D", "target": "" }
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "Ah, quem vejo diante de mim senão <if(gnum4,a heroína,o herói)> que rompeu os grilhões da opressão em Doma e Ala Mhigo! Apesar de sua fama crescente, sinto-me honrado por você dedicar seu precioso tempo a este humilde menestrel." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "Se me permite perguntar, como está gostando do Extremo Oriente? Com tantos encantos, é fácil se apaixonar por ele. Tem um lugar especial no meu coração. Quase uma segunda casa, de tanto que venho em minha busca sem fim por versos." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_002", "hash": "FF922EC771E4FAAB", "target": "E, nesta visita, o dono do teatro me ouviu cantar por acaso e gostou do meu trabalho. Uma coisa levou a outra, e várias canções minhas foram adaptadas para o palco!" },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_003", "hash": "995173518C7607AC", "target": "Atraíram tanto público que me encomendaram peças para uma nova produção." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_004", "hash": "3C4164F714500EA1", "target": "Não digo isso para me gabar, longe disso. Embora fique feliz com a aprovação, a verdade é que tenho dificuldade de encontrar inspiração para alimentar minha criatividade." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_005", "hash": "9CDE7BFA1E7CDCB7", "target": "...Mas é claro! Seus feitos recentes podem muito bem me dar a inspiração de que preciso!" },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_006", "hash": "78D6A32F7FAAC3A6", "target": "Quantos acontecimentos deve ter presenciado, quantas emoções sentido na luta para libertar Doma e Ala Mhigo das garras do Império! As histórias se espalharam, mas nada substitui um relato em primeira mão. Quero ver pelos olhos de quem esteve no centro de tudo e conhecer as profundezas do seu coração." },
+    { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_007", "hash": "53E78EA53C394C6D", "target": "Ficarei em Kugane enquanto componho para o Mujikoza. Quando tiver um momento, peço que me conte suas aventuras recentes. Cuidarei para que sejam imortalizadas nestes salões!" }
   ]
 }

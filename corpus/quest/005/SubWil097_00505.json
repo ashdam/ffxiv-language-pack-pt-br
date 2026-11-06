@@ -2,17 +2,17 @@
   "conversation": "quest/005/SubWil097_00505",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "" },
-    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "" }
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_00", "hash": "FFD9473BBFC731EE", "target": "Totoruna quer que você elimine orobon no Vale das Pegadas." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_01", "hash": "CB6941389A3D8AF7", "target": "Totoruna pediu que você mate seis orobon que infestam as águas do Vale das Pegadas. Procure as criaturas horrendas e dê cabo delas." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_02", "hash": "5967FC966B22FF03", "target": "Você massacrou sem piedade seis das feras viscosas. Diga a Totoruna que o trabalho está concluído." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_SEQ_03", "hash": "54AB9D651F449375", "target": "Embora os orobon não representem uma ameaça real, Totoruna fica feliz de se livrar das feras. Se um taumaturgo sofrer até um ferimento leve, as consequências para as Lâminas de Latão serão terríveis." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_00", "hash": "BF0F7D1357EEF84B", "target": "Matar orobon" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TODO_01", "hash": "FC9E23E0D9FEE861", "target": "Informar Totoruna" },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_000", "hash": "A44896CE8C419676", "target": "Já que está aqui, pode fazer alguma coisa útil." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_001", "hash": "11753E503DE3314C", "target": "Os orobon nadando pelo local estão atrapalhando o trabalho dos taumaturgos. Isso significa que temos que matar todos eles." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_002", "hash": "63C1FBD7B4BB4B22", "target": "Pode ajudar matando seis dessas feras. Me avise quando terminar." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_010", "hash": "59004FA393A5E56F", "target": "Muito obrigado. São seis orobon a menos para incomodar nossos convidados." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_011", "hash": "08642CA6E2690649", "target": "Para falar a verdade, os taumaturgos podiam ter trazido a própria escolta da cidade. Mas, como queriam dar uma olhada em ruínas tão perto de Horizon, os oficiais acharam que a culpa de qualquer incidente ia cair na gente de todo jeito. Então aqui estamos." },
+    { "gameKey": "quest/005/SubWil097_00505#TEXT_SUBWIL097_00505_TOTORUNA_012", "hash": "3CBF94D5227C98B2", "target": "Não dá tanto trabalho, mas precisamos ficar de guarda. Se um orobon der uma mordidinha num dedo do pé deles, a gente pode acabar perdendo todos os nossos." }
   ]
 }

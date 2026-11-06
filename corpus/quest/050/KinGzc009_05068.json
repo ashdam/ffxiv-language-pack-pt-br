@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzc009_05068",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "" },
-    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "" }
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_SEQ_00", "hash": "B8B3A26A58963DC1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O carpinteiro dedicado procura mais um par de garras, mas, na falta delas, mãos servem." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_00", "hash": "7F77798D05A0D339", "target": "Coletar os feixes de juncos recém-cortados" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_01", "hash": "C41ADD0F84930F88", "target": "Colocar os feixes de juncos recém-cortados no local indicado" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_TODO_02", "hash": "A7FDEBF97E791823", "target": "Falar com o industrious carpenter" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_000", "hash": "16868998691EBFCC", "target": "Ohokaliy! Teria um tempinho para dar uma mão?" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_001", "hash": "EF781F6AE2DD52E8", "target": "Agora que os juncos brotam com mais vigor do que nunca, chegou a hora de consertar nossos telhados desgastados." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_002", "hash": "F9D3282505492F2B", "target": "Mas juncos molhados não servem, de jeito nenhum! Primeiro eles precisam secar bem, ou os telhados podem desabar à primeira gota de chuva." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_003", "hash": "DDCC929451513936", "target": "Peço que pegue os juncos recém-cortados perto de uma construção a leste e os leve a Kozanuakiy, onde a brisa suave vai secá-los. Ajude nessa tarefa, e prometo que a recompensa vai agradar!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_004", "hash": "8DFD74BA18EF7A2B", "target": "Os juncos podem mofar se ficarem onde estão. Os ventos suaves de Kozanuakiy vão secá-los e deixá-los prontos para o trabalho que nos espera." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_005", "hash": "BF0BA9D69F5C5DCB", "target": "Terminou? Sim? Obrigado, nossas casas vão ficar muito mais seguras graças a você!" },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_006", "hash": "D9286E1B922C9D8B", "target": "Imagino que queira saber por que pedi para levar os juncos através de toda a floresta. Bem, Kozanuakiy significa “terra do santuário árido” na nossa língua." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_007", "hash": "7A43EF1225791668", "target": "Dizem as lendas que a brisa perto do santuário é tão reconfortante que Kixaihih certa vez descansou suas asas cansadas ali perto." },
+    { "gameKey": "quest/050/KinGzc009_05068#TEXT_KINGZC009_05068_CRAFTSMANHANUHANU05068_000_008", "hash": "5DC23EFF1F4B5456", "target": "Quando os juncos secarem e os telhados estiverem consertados, nossas casas terão mais proteção contra as intempéries. Essa tranquilidade vale qualquer preço. Aqui está sua merecida recompensa!" }
   ]
 }

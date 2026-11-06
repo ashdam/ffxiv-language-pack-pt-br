@@ -44,7 +44,7 @@
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_090", "hash": "0B8043DF7004501E", "target": "<if(gnum4,Bem-vinda,Bem-vindo)>, <if(gnum4,senhora,senhor)>! O que posso oferecer hoje?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_091", "hash": "D0C759B090D5E5DF", "target": "Espere, é a Senhora Alisaie que estou vendo!? Minha nossa, quanto tempo!" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_092", "hash": "8EBFE9147E08A769", "target": "Tempo demais..." },
-    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Este é Dickon, dono do Last Stand. Eu costumava vir ao café de vez em quando, entre as aulas no Studium." },
+    { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_093", "hash": "6A29C3D626ED0D12", "target": "Este é Dickon, dono do Last Stand. Eu costumava vir ao café de vez em quando, entre as aulas em Studium." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_094", "hash": "3A05C04274745221", "target": "Parece que foi há uma eternidade. Lembro de ouvir que você e o Mestre Alphinaud tinham partido para Eorzea, mas depois nunca voltaram." },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_DICKON_000_095", "hash": "712A2022509A98C3", "target": "Ultimamente, andam dizendo que seu pai deserdou vocês dois. Está tudo bem em casa?" },
     { "gameKey": "quest/043/AktKma104_04360#TEXT_AKTKMA104_04360_ALISAIE_000_096", "hash": "9E30CB785BB1F85B", "target": "É... complicado. E eu não esperava que completos desconhecidos já soubessem tanto de nossa situação. Parece que todo mundo tem uma opinião..." },

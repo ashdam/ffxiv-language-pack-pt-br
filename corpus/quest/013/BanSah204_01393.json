@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah204_01393",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "" },
-    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "" }
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_00", "hash": "85459676CD0EC4DF", "target": "As engrenagens da guerra giram sem parar em Sapsa Spawning Grounds, mas Houu espera que uma sabotagem oportuna possa emperrá-las." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_01", "hash": "662DD78093BBEDD9", "target": "Novas máquinas de cerco estão sob guarda em Sapsa Spawning Grounds, prontas para seguir à linha de frente e ceifar inúmeras vidas. Houu escolheu você para destruir pelo menos duas fresh whelk ballistas, custe o que custar." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_02", "hash": "6AC7797A500C851D", "target": "Você destruiu duas balistas, mas não consegue evitar a preocupação de que logo sejam substituídas. Volte imediatamente até Houu para ouvir sua opinião a respeito." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_SEQ_03", "hash": "A2B4FBFC7B293D56", "target": "Embora Houu esteja muito satisfeito com o sucesso da missão, seu entusiasmo diminui ao saber que os Tridentes reuniram na área uma força maior do que ele imaginava. Ele espera que seus feitos os façam hesitar, mas você tem a nítida impressão de que ainda haverá muito a fazer para manter a paz..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_00", "hash": "E8F9E8EDF7450707", "target": "Destruir fresh whelk ballistas" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_TODO_01", "hash": "B8933C18D6C4D884", "target": "Informar Houu" },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_000", "hash": "746A2350C6624D64", "target": "Pshhh... Pshhh... Os Tridentes de Coral construíram novas máquinas de cerco. Um búzio na base com rodas construída pelos Saqueadores da Serpente. Um só devastaria as defesas dos caminhantes da costa, mas há vários..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_001", "hash": "2712E043FC811C14", "target": "Já ouvi falar dessses moluscos. Dizem que é uma visão incrível, os raios de energia que disparam iluminando o Indigo Deep num clarão abrasador." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_002", "hash": "82134341043F6F16", "target": "As balistas acabaram de ser descarregadas, mas logo irão à linha de frente. Precisam ssser destruídas antes que possam ser usadas. Só de pensar na devastação que vão causar, eu tremo. Pshhh..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_003", "hash": "D5B52891FC0D0928", "target": "Cabe a você destruir as balistas. Elas estarão sob guarda, e temo que não ssseja possível evitar o derramamento de sangue. Pshhh..." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_010", "hash": "965E78071A9B92BE", "target": "Pshhh... Destrua pelo menos duas fresh whelk ballistas em Sapsa Spawning Grounds. Haverá guardas, mas... faça o que for necesssário." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_020", "hash": "DF7170E51F29B77B", "target": "Pshhh! Sua volta só pode significar que as balistas foram─<br>...Como é que é? Havia mais do que eu pensssava? São más notícias, caminhante da costa." },
+    { "gameKey": "quest/013/BanSah204_01393#TEXT_BANSAH204_01393_HOUU_000_021", "hash": "86BF3EC8CE0CDA53", "target": "Quero acreditar que suas ações tenham inspirado algum medo nos Tridentes de Coral. É disso que precisamos. Se nem uma arma bem vigiada está sssegura, que segurança terão seus guerreiros? Mas ainda parece que temos um longo caminho pela frente..." }
   ]
 }

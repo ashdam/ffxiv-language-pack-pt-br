@@ -2,18 +2,18 @@
   "conversation": "quest/000/SubWil154_00058",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_00", "hash": "06DE7195BA986F8B", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_01", "hash": "E6B4F358C6C5636A", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_02", "hash": "C07646530F102CE8", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TODO_00", "hash": "B50985507417E238", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TOTONOWA_000_01", "hash": "40156390CFC99E1A", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TOTONOWA_000_02", "hash": "31E99C96AAF15D8F", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_01", "hash": "05F27EC5853DCB14", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_02", "hash": "145C50C6338F0FAB", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_03", "hash": "F63BD152AA9D74D5", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_04", "hash": "4FA2326A9892A34F", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_05", "hash": "3695B8E0C1A35DBD", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_06", "hash": "37AC48AD2F0C2E85", "target": "" },
-    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_07", "hash": "65723251B2992FF3", "target": "" }
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_00", "hash": "06DE7195BA986F8B", "target": "Totonowa acredita que você já pode participar de uma guildhest." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_01", "hash": "E6B4F358C6C5636A", "target": "As guildhests são operações especiais organizadas pelas Guildas dos Aventureiros e supervisionadas por comandantes de operações. Para saber mais sobre elas, fale com Battlewarden Lost Rabbit." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SEQ_02", "hash": "C07646530F102CE8", "target": "Battlewarden Lost Rabbit explica que as guildhests testarão sua capacidade de cooperar com outras pessoas para alcançar um objetivo comum. A menos que você pretenda se aventurar sempre por conta própria, talvez seja uma boa ideia participar dessas operações pelo menos uma vez." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TODO_00", "hash": "B50985507417E238", "target": "Falar com Battlewarden Lost Rabbit" },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TOTONOWA_000_01", "hash": "40156390CFC99E1A", "target": "Embora eu recomende muito que você realize minhas guildleves, se procura outro tipo de desafio, também pode considerar participar de uma guildhest." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_TOTONOWA_000_02", "hash": "31E99C96AAF15D8F", "target": "Se quiser saber mais, fale com Battlewarden Lost Rabbit. Vou informá-la do seu sucesso contra o peiste para que não haja dúvidas quanto à sua capacidade." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_01", "hash": "05F27EC5853DCB14", "target": "Não precisa dizer nada. Deu para ouvir Totonowa muito bem daqui." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_02", "hash": "145C50C6338F0FAB", "target": "Como esta seria sua primeira vez conosco, permita-me explicar em detalhes o que exatamente é uma guildhest." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_03", "hash": "F63BD152AA9D74D5", "target": "Mais do que uma simples levequest, mas sem os grandes impactos de uma missão de Grande Companhia, as guildhests testam sua capacidade de cooperar com um pequeno grupo de companheiros de batalha para superar obstáculos nada pequenos." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_04", "hash": "4FA2326A9892A34F", "target": "A missão é árdua, mas o pagamento é bom. E você ainda ajuda a manter a segurança de Eorzea e o bem-estar de seus habitantes." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_LOSTRABBIT_000_05", "hash": "3695B8E0C1A35DBD", "target": "Se a proposta interessa, fale comigo novamente para participar de uma guildhest." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_06", "hash": "37AC48AD2F0C2E85", "target": "Você desbloqueou o Duty Finder! Esse recurso permite participar de missões multijogador sem precisar formar um grupo por conta própria." },
+    { "gameKey": "quest/000/SubWil154_00058#TEXT_SUBWIL154_00058_SYSTEM_000_07", "hash": "65723251B2992FF3", "target": "Para abrir a interface do Duty Finder, selecione <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> em <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> no <colortype(500)><edgecolortype(501)>menu principal<edgecolortype(0)><colortype(0)>." }
   ]
 }

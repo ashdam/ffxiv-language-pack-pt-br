@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc101_05071",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "" },
-    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "" }
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_SEQ_00", "hash": "B0978C897FFE9F07", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Prestapik está de olhos-molhados por seus potes estilhaçados." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_00", "hash": "0EA36D2576D89EE1", "target": "Coletar a argila de fazer-bompote" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_01", "hash": "F80C21BB96DF7543", "target": "Coletar o feldspato bom-fundente" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_TODO_02", "hash": "CD4433AAB93E9EFD", "target": "Entregar a argila de fazer-bompote e o feldspato bom-fundente a Prestapik" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_000", "hash": "00BBA7264E7C407A", "target": "Pfff... Pfffkohhh... Pobre Prestapik... Quem pode ajudar pobre Prestapik?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_001", "hash": "C822F165CEF84FAE", "target": "Pessoa das terras baixas pode ajudar pobre Prestapik! Pessoa das terras baixas <italic(1)>precisa<italic(0)> ajudar pobre Prestapik!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_002", "hash": "6F3AC591C0F44DF2", "target": "Empresta-ouvido, pessoa das terras baixas. Prestapik tem uma das melhores coleções de cerâmica de toda Earthenshire... mas aí tempestade vem, e todos os potes preciosos viram quebra-cacos!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_003", "hash": "664E9FF1C4689137", "target": "Precisa fazer-criar potes novos, mas Prestapik está ocupado demais varrendo-cacos para voltar à escavação e coletar coisas-de-cavar." },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_004", "hash": "DBD5C2D900546583", "target": "Pessoa das terras baixas vai coletar coisas-de-cavar para Prestapik? Precisa de argila de fazer-bompote e feldspato bom-fundente. Já está tudo desenterrado e ensacado-de-carregar, só pede que traga da caverna perto do lugar-de-rezar dos Yok Huy!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_005", "hash": "06C8611C21499AC9", "target": "Prestapik tinha acabado de cavar material-de-pote novo quando tempestade veio. Ele volta de pés-velozes à aldeia, mas é tarde demais! Potes de casa já viram mar-de-cacos... Por favor, pessoa das terras baixas! Vá à caverna atrás do lugar-de-rezar dos Yok Huy e traga preciosas coisas-de-cavar de Prestapik!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_006", "hash": "E77A11B04947A742", "target": "Pfffkohhh...? Encontrou coisas-de-cavar de Prestapik?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_007", "hash": "4E7BC4392C4E8C18", "target": "Grande-agradecimento, pessoa das terras baixas! Prestapik vai fazer-criar potes novos agora mesmo!" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_008", "hash": "254DBB27983A902D", "target": "Todo Moblin precisa de potes, e muitos. Onde mais guardaria coisas-próprias?" },
+    { "gameKey": "quest/050/KinGzc101_05071#TEXT_KINGZC101_05071_PRESTAPIK_000_009", "hash": "44686F50551D38BF", "target": "Por isso todo Moblin aqui é faz-potes! Não precisa pedir a mãos-artesãs se mãos-Moblin servem! Mas acabou hora de abana-lábios, começou hora de fazer-potes!" }
   ]
 }

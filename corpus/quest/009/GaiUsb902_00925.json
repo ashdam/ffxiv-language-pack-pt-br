@@ -2,17 +2,17 @@
   "conversation": "quest/009/GaiUsb902_00925",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "" },
-    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "" }
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_00", "hash": "BF7324774D54EAB0", "target": "Sor Benedict parece conter uma risada." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_01", "hash": "34AAE9D1129CEF22", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Haustefort ou Cid no Posto Avançado de Whitebrim, conforme seu progresso.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_02", "hash": "663D48000D20DA1A", "target": "Seria tentador dizer que aqueles crocodilos lutaram bem. Que ofereceram um desafio memorável, digno de ser contado com orgulho aos companheiros diante de uma caneca de cerveja. Mas Eorzea não é um conto de fadas, e a vida não é uma canção. Às vezes você mata um primordial, às vezes não. Mas talvez Sor Clotairion dê mais valor aos seus feitos." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_SEQ_03", "hash": "7C039ECEA7B9CD0E", "target": "Sor Clotairion agradece seu serviço, embora saiba muito bem que você só queria conquistar sua simpatia. Mesmo assim, promete que Lorde Drillemont saberá de seus feitos." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_00", "hash": "B7AB3C1B8C06CCA3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e aceite-a novamente para reiniciar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_TODO_01", "hash": "23030F0E73CD1E2F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e aceite-a novamente para reiniciar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_000", "hash": "9D906E8D77AD4A9C", "target": "Ora, não achou que seria <italic(1)>tão<italic(0)> fácil ganhar a confiança de Lorde Drillemont, achou? Mesmo que seja quem diz ser, seria imprudente da parte dele acreditar em sua história sem questionar." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_001", "hash": "1331569AE9736D06", "target": "No mínimo, devia demonstrar seu apoio à Casa Durendaire eliminando feral crocs em nosso lugar." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_BENEDICT_000_002", "hash": "9D151CF431E23EC8", "target": "Um gesto simples assim provavelmente ganharia o respeito de Sor Clotairion, pois ele sempre tem dificuldade para encontrar homens para a tarefa. Por que não tenta?" },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_020", "hash": "9F4520BD6D6E4D0A", "target": "Um passarinho me contou que você matou uns crocodilos para conquistar minha simpatia. Temo que tenham passado a perna em você, <if(gnum4,senhorita,senhor)>. Aquele rapaz só queria fugir dos próprios deveres." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_021", "hash": "991233CFA62D74F3", "target": "Ainda assim, suas intenções eram boas, e não se pode negar que o povo de Coerthas fica melhor sem aquelas feras. Muito bem, vou garantir que Lorde Drillemont saiba de seus feitos." },
+    { "gameKey": "quest/009/GaiUsb902_00925#TEXT_GAIUSB902_00925_CLOTAIRION_000_022", "hash": "78D345E31301CD24", "target": "Mas tente entender a posição do meu senhor. Cabe a ele garantir que o Posto Avançado de Whitebrim esteja preparado para qualquer eventualidade, seja uma nevasca sem fim ou um ataque dravaniano. Não vai pôr em risco nossos esforços para retomar Stone Vigil sem uma boa razão, e você ainda não deu nenhuma." }
   ]
 }

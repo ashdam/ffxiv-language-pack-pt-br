@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil067_00321",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_2", "hash": "A60346882D971A49", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_10", "hash": "5E4155A0E4B42F08", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_11", "hash": "6FA387A7DE8C54CE", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "" },
-    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "" }
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_00", "hash": "376DFD3CCD452201", "target": "Hihiyaja precisa de ajuda para reduzir a população de snipping shrews." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_01", "hash": "2BE419CAB210D2AB", "target": "Nas Hortas Reais, minhocas são usadas para melhorar a qualidade do solo e a produção. Porém, snipping shrews ameaçam exterminá-las. Encontre os montículos das tocas e abata os musaranhos lá dentro." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_02", "hash": "CD08713C6A53413E", "target": "Com o último de seus predadores eliminado, as minhocas podem se concentrar na humilde tarefa de enriquecer o solo. Leve a boa notícia a Hihiyaja." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_SEQ_03", "hash": "DD936B42E4D9DE37", "target": "Agora que as minhocas estão a salvo, Hihiyaja pode se dedicar a cultivar legumes que talvez um dia enfeitem a mesa da própria Sultana." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_00", "hash": "7667EC8F40193E85", "target": "Abater os snipping shrews" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_TODO_01", "hash": "6AEE59ECBFE2BE13", "target": "Apresentar-se a Hihiyaja" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_1", "hash": "5754FCB835D2BAAD", "target": "Thanalan sempre foi uma região árida. Acredite quando digo que é preciso muito esforço pra fazer alguma coisa crescer aqui." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_2", "hash": "A60346882D971A49", "target": "Até introduzimos minhocas no solo pra deixá-lo mais fértil." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_3", "hash": "E2F3C4E5005B3CFA", "target": "Infelizmente, elas foram quase exterminadas por snipping shrews, bichinhos escavadores nativos daqui." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_4", "hash": "757CE881C6B9EBE7", "target": "Se não salvarmos as minhocas, este terreno inteiro não vai dar nem uma abóbora na próxima colheita. Pode nos ajudar a diminuir a população de musaranhos? Os montículos das tocas são o melhor lugar pra começar." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_10", "hash": "5E4155A0E4B42F08", "target": "Obrigado! Você é mesmo <if(gnum4,a campeã,o campeão)> das minhocas!" },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_11", "hash": "6FA387A7DE8C54CE", "target": "Agora podemos esperar uma colheita farta de abóboras." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_HIHIYAJA_000_12", "hash": "FE24AB23E4EF28BE", "target": "Fico pensando em quais delas vão enfeitar o prato da Sultana..." },
+    { "gameKey": "quest/003/SubWil067_00321#TEXT_SUBWIL067_00321_POP_MESSAGE", "hash": "9718934683475D2F", "target": "Um guincho agudo corta o ar!" }
   ]
 }

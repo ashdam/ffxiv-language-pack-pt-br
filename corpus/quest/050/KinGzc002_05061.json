@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc002_05061",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "" },
-    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "" }
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_SEQ_00", "hash": "9C836BB759542217", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zanuhanu mexe as garras nervosamente." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_00", "hash": "95F50BE2BAE533F0", "target": "Examinar o local indicado e abater um marbled beetle para obter sua carapaça" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_TODO_01", "hash": "56E499B9B26D4AE0", "target": "Entregar a carapaça marmorizada a Zanuhanu" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_000", "hash": "8257E1FBDF3DA039", "target": "Ah, simplesmente não tenho o bastante. Nesse ritmo, nunca vou terminar..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_001", "hash": "D05525865E9F62F1", "target": "Oh? Mas uma alma bondosa pode mudar isso! Bondosa e forte, forte o bastante para me ajudar com um probleminha, eu diria." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_002", "hash": "33BCD2A7F322AFDA", "target": "Logo nós, os Hanu, vamos trocar as penas, mas a grande tempestade levou nosso estoque de pentes. Não podemos usar as <italic(1)>garras<italic(0)>, então passei todo o meu tempo livre fazendo tantos pentes quanto pude. Agora os materiais estão acabando..." },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_003", "hash": "EA7B28196B43FA9C", "target": "Mas, com a carapaça de um marbled beetle adulto, eu poderia fazer pentes para todos. Por favor, vá depressa à floresta a sudoeste e cace um, sinto minhas penas caindo enquanto conversamos!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_004", "hash": "8D557BCD6BA80CBC", "target": "Os besouros mais velhos têm as carapaças mais resistentes, que, naturalmente, dão os melhores pentes. Você os encontra a sudoeste daqui. Ah, e cuidado para não se cortar nas mandíbulas deles!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_005", "hash": "8A4F9E1C6975A3A2", "target": "Já voltou? Você caçou <italic(1)>mesmo<italic(0)> um besouro adulto, certo? Não um que acabou de sair do ovo?" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_006", "hash": "DF81965E773283C3", "target": "Nossa, está em perfeito estado! Vou fazer pentes dignos de Kixaihih!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_007", "hash": "FE6D231305F6B069", "target": "Como pode imaginar, na época da muda o chão fica coberto de penas caídas. Se não trocarmos a plumagem direito, o problema vai além da aparência, penas velhas podem nos deixar doentes!" },
+    { "gameKey": "quest/050/KinGzc002_05061#TEXT_KINGZC002_05061_ZANUHANU_000_009", "hash": "04B947EEF77C8D98", "target": "Por isso um bom pente é tão essencial para nós quanto uma boa lança. E por isso você merece uma recompensa à altura da sua contribuição para nossa saúde e beleza!" }
   ]
 }

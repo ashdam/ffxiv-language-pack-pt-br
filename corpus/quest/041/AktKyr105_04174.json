@@ -2,18 +2,18 @@
   "conversation": "quest/041/AktKyr105_04174",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_000", "hash": "6E1D45F75BDF002F", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_001", "hash": "A0C8D7541767ED66", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_002", "hash": "1D10B39E333A25A1", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_003", "hash": "5E56B3C864C0F11E", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_004", "hash": "4D1C8643077D3885", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_005", "hash": "8F574A9F59B46C24", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_006", "hash": "E57B724F87173EE8", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_007", "hash": "661994F596F8B2C6", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_008", "hash": "91D693EBFBDC0A73", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_008", "hash": "FF284E756223C66C", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_009", "hash": "51734F436D51C2C6", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_100_020", "hash": "49BE5862EED03655", "target": "" },
-    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_021", "hash": "B0BA24A0B6E4358F", "target": "" }
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_000", "hash": "6E1D45F75BDF002F", "target": "Com licença, <if(gnum4,minha senhora,meu senhor)>. Não pude deixar de notar esse seu caderno de exploração. Você não seria a pessoa de quem minha sobrinha escreveu... seria?" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_001", "hash": "A0C8D7541767ED66", "target": "...Ahá! Então <italic(1)>é<italic(0)> você. Muito prazer. Sou Babeth Ironheart, tia de Millith e exploradora experiente." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_002", "hash": "1D10B39E333A25A1", "target": "Faça a gentileza de me passar seu caderno. Millith me contou como ajudou você a começar suas próprias explorações. Nada mais justo que eu também compartilhe um pouco da minha sabedoria." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_003", "hash": "5E56B3C864C0F11E", "target": "Deixe-me ver... Ah, não posso esquecer de mencionar isso... Pronto!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_004", "hash": "4D1C8643077D3885", "target": "Está tudo pronto. Anotei tudo que ouvi sobre as paisagens mais extraordinárias que estas terras têm a oferecer." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_005", "hash": "8F574A9F59B46C24", "target": "Claro, algumas das minhas notas não passam de rumores. Certos lugares parecem tão fantásticos que mal acredito que existam. Mas, como sempre digo, a verdadeira alegria da exploração está na jornada, não no destino." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_000_006", "hash": "E57B724F87173EE8", "target": "Então vá em frente e veja a que jornada essas pistas vão levar você. Esse seu caderno de exploração não vai se preencher sozinho, sabe?" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_007", "hash": "661994F596F8B2C6", "target": "Entradas de Endwalker foram adicionadas ao Sightseeing Log!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_008", "hash": "91D693EBFBDC0A73", "target": "Você precisa estar no nível 80 ou superior para registrar paisagens de Endwalker. Vá ao local indicado e cumpra as condições necessárias para concluir a entrada e ganhar pontos de experiência." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_008", "hash": "FF284E756223C66C", "target": "Os locais recém-adicionados ao Sightseeing Log serão marcados por uma esfera de luz. Se encontrar uma dessas esferas em suas aventuras, pare um instante para registrar a entrada." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_000_009", "hash": "51734F436D51C2C6", "target": "Use sua perspicácia e as notas de Babeth para identificar essas paisagens deslumbrantes e o modo certo de apreciá-las. Veja Thavnair, Sharlayan e além como só os maiores exploradores viram!" },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_BABETHIRONHEART_100_020", "hash": "49BE5862EED03655", "target": "Com licença, <if(gnum4,minha senhora,meu senhor)>, você se dedica à aventura, não é? Hum... Talvez ainda não tenha a experiência necessária para a exploração que tenho em mente." },
+    { "gameKey": "quest/041/AktKyr105_04174#TEXT_AKTKYR105_04174_SYSTEM_100_021", "hash": "B0BA24A0B6E4358F", "target": "Para iniciar esta missão, você precisa ter pelo menos uma classe ou job no nível 80 ou superior." }
   ]
 }

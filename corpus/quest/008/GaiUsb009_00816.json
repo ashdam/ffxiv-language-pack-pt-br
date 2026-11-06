@@ -2,19 +2,19 @@
   "conversation": "quest/008/GaiUsb009_00816",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "" }
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_00", "hash": "C63CA4CCDE21B0C5", "target": "Landenel tem um pedido urgente para quem se dispuser a ajudar." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_01", "hash": "D778FA8699E43C97", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Landenel em Camp Tranquil.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_02", "hash": "A7AFAF538584A40E", "target": "As três sentinelas partiram para os Lower Paths. Volte a Camp Tranquil e fale com Landenel." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_SEQ_03", "hash": "6DCAEFB32946D23F", "target": "O local de reprodução das adamantoises não ficará desprotegido por muito tempo. Landenel pede que aja depressa se pretende obter um dos preciosos ovos gigantes." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_00", "hash": "262FC3445E738736", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Landenel em Camp Tranquil.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_TODO_01", "hash": "01C5CCE424981C12", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Landenel em Camp Tranquil.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_000", "hash": "EC00EE4661C633BF", "target": "Esta infestação de agaric flies exige toda a nossa atenção. Agradeço por me avisar." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_001", "hash": "B0522F84C7BB9F08", "target": "Se puder abusar mais um pouco de sua bondade, gostaria que avisasse meus subordinados desse acontecimento terrível." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_002", "hash": "795E636388E4CBBE", "target": "Tenho três Lamentadores de guarda no Lago das Raízes. Avise a cada homem que deve ir aos Lower Paths procurar enxames de agaric flies até segunda ordem." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIA_000_010", "hash": "A2BEBE2808D7D013", "target": "Agaric flies? Nos Lower Paths? Então não posso demorar! Agradeço por transmitir as ordens do Capitão Landenel!" },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIB_000_020", "hash": "5CE77914D6070545", "target": "Uma mensagem do capitão?<br>Droga, esses insetos são um perigo para quem viaja pela estrada. Vou partir imediatamente." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_KIKOKUTAIC_000_030", "hash": "6816FE04AA3390E3", "target": "Como é? Todos devem procurar agaric flies nos Lower Paths? Hmmm... Sei que não tivemos problemas com caçadores ilegais recentemente, mas temo que apareçam na nossa ausência. \\<suspiro> Mas uma ordem é uma ordem." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_040", "hash": "79455EA366E9258C", "target": "...Entendo que avisou meus homens, então? Excelente trabalho, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb009_00816#TEXT_GAIUSB009_00816_LANDENEL_000_041", "hash": "88DA43BA3EE665B7", "target": "Mas não posso distrair os galos por muito tempo. Se quer saquear o galinheiro, precisa fazer isso agora." }
   ]
 }

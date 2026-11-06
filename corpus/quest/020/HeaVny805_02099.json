@@ -2,13 +2,13 @@
   "conversation": "quest/020/HeaVny805_02099",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "" },
-    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "" }
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "Em nome da Casa dos Esplendores, <if(gnum4,senhora,senhor)>, permita-me apresentar as novidades do nosso estoque." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "A Casa entende que até os mais experientes na coleta precisam de uma ajudinha de vez em quando. Por isso, temos orgulho de oferecer uma seleção exclusiva de talismãs imbuídos das bênçãos dos Doze." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_006", "hash": "F3DB8DB3CB3C13DB", "target": "Garantia de uma coleta mais produtiva. Não fazemos reembolsos." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_008", "hash": "0807D5291542BF3A", "target": "Você já pode comprar talismãs com a splendors vendor." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_009", "hash": "F134E311BD126E01", "target": "Os talismãs concedem estados temporários especiais que permitem descobrir pontos de coleta que normalmente ficariam ocultos." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_010", "hash": "F47087DDEEB30FC2", "target": "Cada talismã só funciona na área indicada em seu texto de ajuda. Os pontos de coleta ocultos oferecem itens raros que não podem ser obtidos nos locais normais." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_020", "hash": "0ABC88118B21CFC6", "target": "Saudações, <if(gnum4,senhora,senhor)>. Terei prazer em apresentar as novidades do nosso estoque... assim que confirmar que você tem a qualificação necessária para usá-las." },
+    { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_SYSTEM_000_021", "hash": "7371D0936EEB85FA", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Land e estar no nível 60." }
   ]
 }

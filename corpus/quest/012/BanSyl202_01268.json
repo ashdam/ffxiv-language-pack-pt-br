@@ -2,19 +2,19 @@
   "conversation": "quest/012/BanSyl202_01268",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "" },
-    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "" }
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_00", "hash": "77CB23CB7D351274", "target": "Ponnixia só quer esquecer seus problemas." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_01", "hash": "D7D140C6D10D2EF4", "target": "Ponnixia tem achado difícil se divertir ultimamente e procura gosma dos sonhos para aumentar a potência de sua adorada raiz leitosa. Infelizmente, a substância tão cobiçada está sendo monopolizada pelos tocados egoístas. Obtenha quatro frascos de muco de dreamtoad, direto da fonte ou dos silfos embriagados que já desfrutam de seus prazeres." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_02", "hash": "28F479307AAE43D7", "target": "Você obteve quatro frascos do muco repulsivo, mas muito apreciado. Entregue-os a Ponnixia." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_SEQ_03", "hash": "3020FAC540992920", "target": "Os olhos de Ponnixia brilham ao ver o muco. Embora a potente mistura de raiz leitosa não resolva os muitos problemas de seu povo, pelo menos devolverá sorrisos a seus rostos." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_00", "hash": "FD8556F0A055322E", "target": "Derrotar dreamtoads ou sylpheed sighs para obter frascos de muco de dreamtoad" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_TODO_01", "hash": "B0F5EB8CAA7E785C", "target": "Entregar os frascos de muco de dreamtoad a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_000", "hash": "AC59A77B510C528C", "target": "O que anda sabe do que estes aqui gostam mais que raiz leitosa? Raiz leitosa misturada com gosma dos sonhos! A gosma dos sonhos deixa a raiz leitosa três vezes mais divertida, hi hi!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_001", "hash": "2890C054B7E68BD8", "target": "Mas este aqui não está se divertindo muito hoje. Por quê? Porque os tocados estão criando os gosmentos e juntando toda a gosma dos sonhos só para eles!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_002", "hash": "6B5CAABEC1662FE1", "target": "O que anda precisa castigar os tocados e roubar gosma dos sonhos, ensinar os tocados a não serem gananciosos!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_003", "hash": "D8C5E99A8E4FD055", "target": "...Ou só encontrar o gosmento e trazer gosma dos sonhos para este aqui, para este aqui esquecer as preocupações." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_005", "hash": "54D0C5F160189E35", "target": "Os tocados estão criando os gosmentos e juntando toda a gosma dos sonhos só para eles! O que anda precisa ensinar os tocados a não serem gananciosos. Ou só encontrar o gosmento e trazer gosma dos sonhos para este aqui, para este aqui esquecer as preocupações." },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_010", "hash": "E54E6163D082471C", "target": "Este aqui não está se divertindo, nada, nada! O que é amigável encontrou gosma dos sonhos para este aqui?" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_012", "hash": "88AE12242FDF6C64", "target": "O que é amigável trouxe gosma dos sonhos! Finalmente este aqui pode voltar a sorrir!" },
+    { "gameKey": "quest/012/BanSyl202_01268#TEXT_BANSYL202_01268_PONNIXIA_000_013", "hash": "9EF40827FA80EDEE", "target": "Estes aqui têm muitas preocupações hoje em dia. Sem raiz leitosa e gosma dos sonhos, estes aqui ficariam carrancudos e pensativos, e qual seria a graça? Hi hi!" }
   ]
 }

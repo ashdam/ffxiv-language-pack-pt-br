@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubFst050_00156",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_02", "hash": "940AFD0A3EE41232", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_03", "hash": "F9B53C6548FCC1C2", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_00", "hash": "B3CD7BF71B8902BE", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_01", "hash": "97D98B84E8C9B1E3", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_1", "hash": "FE36B49C4A7247BF", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_2", "hash": "013C5214C8CB0FD1", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_3", "hash": "97880E056D877CF6", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_4", "hash": "296896403E8A20FA", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_5", "hash": "5568678DC57DCFE4", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_10", "hash": "F84EDB5365081E37", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_11", "hash": "2C3D9B521AF376F4", "target": "" },
-    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_12", "hash": "1BAC37A725352B80", "target": "" }
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_00", "hash": "3435A04AB1F4C321", "target": "Keitha, a chefe dos tratadores nos Prados de Bentbranch, quer que você recolha sementes de roselet para extrair um óleo conhecido por acalmar chocobos agitados." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_01", "hash": "4BD46EBB6EAB65DE", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e, conforme seu progresso, fale com Eylgar ou Luquelot nos Prados de Bentbranch, Lothaire na Torre de Galvanth ou Armelle no Embarcadouro do Espelho para recomeçá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_02", "hash": "940AFD0A3EE41232", "target": "Você recolheu seis sementes de roselet. Entregue-as a Keitha nos Prados de Bentbranch." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_SEQ_03", "hash": "F9B53C6548FCC1C2", "target": "Após receber as sementes de roselet, Keitha, a chefe dos tratadores, admite que continua sem saber o que está incomodando seus chocobos. Mesmo assim, espera que o óleo obtido das sementes ajude a acalmar as aves aflitas." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_00", "hash": "B3CD7BF71B8902BE", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e aceite-a novamente para recomeçar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_TODO_01", "hash": "97D98B84E8C9B1E3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e aceite-a novamente para recomeçar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_1", "hash": "FE36B49C4A7247BF", "target": "Já que está aqui, tenho um favor pra pedir: junte seis sementes daqueles monstros que parecem plantas, chamados roselets." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_2", "hash": "013C5214C8CB0FD1", "target": "O óleo dessas sementes de roselet acalma os chocobos ariscos, sabe. Toda boa tratadora costuma ter um pote ou dois por perto." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_3", "hash": "97880E056D877CF6", "target": "Achei que meu estoque fosse durar bastante, mas ultimamente as aves estão mais inquietas que tempestade de verão." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_4", "hash": "296896403E8A20FA", "target": "Chocobos são criaturas sensíveis mesmo quando está tudo bem, e não é estranho ficarem um pouco agitados de repente... Mas isso é outra coisa." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_5", "hash": "5568678DC57DCFE4", "target": "Você vai achar aqueles roselets que mencionei lá perto da Torre de Galvanth. Vá logo, estamos perdendo tempo." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_10", "hash": "F84EDB5365081E37", "target": "Teve algum problema pra conseguir as sementes?" },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_11", "hash": "2C3D9B521AF376F4", "target": "Vamos ver... uma, duas, três... isso, tem as seis. E são bem grandes. Vamos extrair um óleo bom delas." },
+    { "gameKey": "quest/001/SubFst050_00156#TEXT_SUBFST050_00156_KEITHA_000_12", "hash": "1BAC37A725352B80", "target": "Ainda não faço ideia do que anda inquietando as aves, mas, seja o que for, espero que o óleo de roselet ajude a acalmar um pouco..." }
   ]
 }

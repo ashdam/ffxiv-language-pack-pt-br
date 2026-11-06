@@ -2,17 +2,17 @@
   "conversation": "quest/007/GaiUsa801_00785",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "" }
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_00", "hash": "FC2E98C870916C22", "target": "Aideen tem uma proposta sobre sua investigação." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_01", "hash": "E85A73BEC8D288E1", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Aideen na Balsa de Fallgourd.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_02", "hash": "2B51D0E994036A52", "target": "Você abateu seis ziz, como sugerido, e só conseguiu uma bela coleção de mordidas e cortes. Volte à Balsa de Fallgourd e fale com Aideen." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_SEQ_03", "hash": "515664060C9462A3", "target": "Aideen risca os ziz da lista de suspeitos e volta a atenção para o homem mascarado e seu globo ocular alado." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_00", "hash": "60FE57651EE691FC", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Aideen na Balsa de Fallgourd.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_TODO_01", "hash": "4716630C18D0A9E0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Aideen na Balsa de Fallgourd.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_000", "hash": "7AA23B663B07FF68", "target": "Então, isto é o que sei sobre as mortes: todas as vítimas foram encontradas com o rosto em pedaços." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_001", "hash": "815030EC45F6D86B", "target": "Entre a fauna local, só os escamosos conhecidos como ziz poderiam causar ferimentos assim. Por isso alguns suspeitam deles." },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_002", "hash": "FC0473AA3B55D448", "target": "Duvido que a resposta seja tão simples, mas, para não deixar pontas soltas, devemos investigar. Que tal abater umas seis dessas criaturas e procurar alguma prova que as ligue às mortes?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_DUMMY_000_010", "hash": "3AFB4E53F611E13C", "target": "(Derrote seis ziz.)" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_020", "hash": "2C9BEBF07E77682F", "target": "Já cuidou dos ziz? Bom trabalho! Então, achou algo que indique que as criaturas são nossas culpadas?" },
+    { "gameKey": "quest/007/GaiUsa801_00785#TEXT_GAIUSA801_00785_AIDEEN_000_021", "hash": "7B59C3DA3D2C711B", "target": "...Nada? Para falar a verdade, mesmo se houvesse uma prova, eu não saberia reconhecê-la. Enfiiim, acho que podemos riscar os ziz da lista de suspeitos com segurança. O que nos deixa com... o homem mascarado e seu globo ocular alado!" }
   ]
 }

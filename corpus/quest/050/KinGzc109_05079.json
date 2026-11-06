@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc109_05079",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_SEQ_00", "hash": "93640D5E36121AE5", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_00", "hash": "DFF3FF6A8616960F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_01", "hash": "E8FBBB33D5913D8F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_02", "hash": "A676F36E20CAED08", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_000", "hash": "C94FC5C35B07FA11", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_001", "hash": "6E9CF40AB61DF88F", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_002", "hash": "16D83C8F0C3BEF1E", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_003", "hash": "6AD60DF3388B5325", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_004", "hash": "1AB77429B3423149", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_005", "hash": "3E531F07F5443797", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_006", "hash": "C5E8CC07FC17A3D0", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_007", "hash": "0BE025CBE67A06E1", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_008", "hash": "EBA7EE39096B6414", "target": "" },
-    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_009", "hash": "CBA42F4DE729887F", "target": "" }
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_SEQ_00", "hash": "93640D5E36121AE5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Chekochuk parece estar de barriga-faminta." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_00", "hash": "DFF3FF6A8616960F", "target": "Caçar um bird of Ligaka e obter sua carne" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_01", "hash": "E8FBBB33D5913D8F", "target": "Caçar um widowmaker e obter sua carne" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_TODO_02", "hash": "A676F36E20CAED08", "target": "Entregar a carne obtida a Chekochuk" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_000", "hash": "C94FC5C35B07FA11", "target": "Pfffkohhh...? Chekochuk reconhece você. A pessoa das terras baixas que compartilha-jornada com Wuk Lamat. Se estiver de mãos-livres, talvez possa fazer um favor-amigo para Chekochuk?" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_001", "hash": "6E9CF40AB61DF88F", "target": "Como deve ter pega-olhos, Many Fires está aperta-cheio de viajantes esperando conserto da Escadaria dos Sem-Asas... e, para diz-verdade, nossos estoques de comida são quase prateleiras-vazias." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_002", "hash": "16D83C8F0C3BEF1E", "target": "Por boa-sorte, tem muita carne-gostosa nas terras de rio a oeste. Chekochuk só precisa de empresta-espadas com coração-ajuda para coletar! Se puder ajudar a reabastecer carne de fera e carne de ave, Chekochuk fica muito grato!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_003", "hash": "6AD60DF3388B5325", "target": "Carne-perna de bird of Ligaka é de estala-lábios, ainda mais assa-brasa. Carne-barriga de widowmaker pode ser meio mastiga-longa, mas passa por seca-ar e vira carne-seca grande-gostosa!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_004", "hash": "1AB77429B3423149", "target": "Chekochuk já deu afia-gume nas facas e atiça-brasa nos fornos. Trouxe a carne?" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_005", "hash": "3E531F07F5443797", "target": "Sim, sim, vai servir muito-bem! Agora começa tarefa-grande: cozinhar de muitos-jeitos, para todos que passam por Many Fires ficarem de barriga-alegre." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_006", "hash": "C5E8CC07FC17A3D0", "target": "Sabia que o humilde lugar-de-ficar de Chekochuk tem o nome das chamas-jantar dos muitos povos que descansam aqui em suas longas-caminhadas? Cabe aos cozinha-Moblin como ele atender os sente-línguas de todos." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_007", "hash": "0BE025CBE67A06E1", "target": "O que é de estala-lábios para um Tonawawta pode ser cospe-rápido para um Shetona... mas a carne-perna de bird of Ligaka, seja só assa-brasa ou coberta com pó-semente e frita-óleo até dourar, recebe aprova-sabor de todos." },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_008", "hash": "EBA7EE39096B6414", "target": "A carne-barriga de widowmaker dá mais coça-cabeça. Tem um valor-fedor que quase todos menos nós Moblin evitam, mas passa por ferve-bolha com montes-colina de pimentas e vira uma iguaria Mamool Ja!" },
+    { "gameKey": "quest/050/KinGzc109_05079#TEXT_KINGZC109_05079_CHEKOCHUK_000_009", "hash": "CBA42F4DE729887F", "target": "Mas chega de abanalínguas! Chekochuk precisa preparar banquete para hóspedes de barriga-faminta!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/042/AktKzb004_04209",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_00", "hash": "0A45B267E723E245", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_01", "hash": "B0B978A2201E45B5", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_000", "hash": "55F891408D071611", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_001", "hash": "4652630075B2B88F", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_002", "hash": "4DA182599AAF0022", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_003", "hash": "5039C64DA4094E05", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_005", "hash": "928CA99ABB05473A", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_006", "hash": "B1272FF6C8C1457E", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_007", "hash": "4E68098B14CD7614", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_008", "hash": "A48911210B37955F", "target": "" },
-    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_009", "hash": "74AA261CE1A35DCC", "target": "" }
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_SEQ_00", "hash": "87E3A92E1ED5DC1A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kusuma parece hesitar em falar com você." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_00", "hash": "0A45B267E723E245", "target": "Usar a faca de pedra de gigante para obter lascas da casca da árvore na encosta" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_TODO_01", "hash": "B0B978A2201E45B5", "target": "Entregar as lascas de casca e a faca de pedra de gigante a Kusuma" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_000", "hash": "55F891408D071611", "target": "Com licença, <if(gnum4,exploradora... mercenária... aventureira,explorador... mercenário... aventureiro)>! Normalmente, eu nem pensaria em incomodar você, mas esta não parece ser uma boa hora para sobrecarregar os valentes soldados da Hoste Radiante." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_001", "hash": "4652630075B2B88F", "target": "Só preciso de um ingrediente simples para avançar minha pesquisa atual. A parte complicada é colher esse ingrediente sem ser morta pelos animais selvagens da região." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_002", "hash": "4DA182599AAF0022", "target": "Pode fazer a gentileza de ir até as colinas e me trazer algumas lascas da casca das árvores que crescem lá? Aqui, vou emprestar minha faca especial para tirar casca!" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_003", "hash": "5039C64DA4094E05", "target": "Por favor, tome cuidado para não perder a faca. Ela é feita de pedra de gigante e foi caríssima!" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_005", "hash": "928CA99ABB05473A", "target": "Ah, você voltou! Trouxe a casca... e minha faca?" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_006", "hash": "B1272FF6C8C1457E", "target": "Sim, o cheiro está maravilhoso! Já consigo imaginar a fragrância da próxima leva de incenso que eu fizer." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_007", "hash": "4E68098B14CD7614", "target": "Estou estudando vários métodos para potencializar os efeitos do incenso, sabe? Especificamente os aromas que trazem calma e tranquilidade." },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_008", "hash": "A48911210B37955F", "target": "E, com tudo o que está acontecendo, bem, uma dose de calma e tranquilidade faria bem a todos nós, não acha?" },
+    { "gameKey": "quest/042/AktKzb004_04209#TEXT_AKTKZB004_04209_KUSUMA_100_009", "hash": "74AA261CE1A35DCC", "target": "A vida já pode ser difícil nos melhores momentos, e espero que minha pesquisa ajude as pessoas a suportar os piores. Muito obrigada pela ajuda!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/004/SubSea052_00464",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "" },
-    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "" }
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "Gurcant está de olho em novos campos férteis para as Fazendas de Summerford, mas as pragas atrapalham seus arados." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Staelwyrn ou Gurcant nas Fazendas de Summerford, dependendo do seu progresso.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo e desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_02", "hash": "DF311976CAE1D108", "target": "Os campos agora estão prontos para o cultivo. Leve a boa notícia a Gurcant." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_03", "hash": "E5422CC0C4768246", "target": "Gurcant lamenta ter de pedir ajuda a pessoas de fora, especialmente com tantos antigos espadachins dos mares sem fazer nada por ali. Ainda assim, ele agradece sua ajuda." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_00", "hash": "1E1EFCEEB37FFB3F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e aceite-a novamente para reiniciar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_TODO_01", "hash": "BFC1F0F619889E54", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e aceite-a novamente para reiniciar.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_1", "hash": "E3CF0C1D6D46F058", "target": "Droga! Como um botânico vai fazer trabalho de campo sem ter um campo para trabalhar?" },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_2", "hash": "232F4C1C3EB48664", "target": "Piratas decadentes servem muito bem quando se quer um campo saqueado e pilhado, mas não quando se precisa ará-lo." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_3", "hash": "FDF08427645A6981", "target": "Um horticultor sozinho como eu dificilmente põe medo no coração dos monstros, mas seu jeito de andar me faz acreditar que <italic(1)>você<italic(0)> poderia." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_4", "hash": "33A49BEB6D36CD75", "target": "Eu ficaria muito agradecido se você pudesse livrar o campo de algumas mandrágoras. Com cinco desses brotinhos a menos vagando por aí, tenho certeza de que poderia voltar ao trabalho." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_11", "hash": "AFA6E88788BE62A3", "target": "Veja só! Você já fez mais do que aquele bando inteiro de lesmas-do-mar preguiçosas junto." },
+    { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_GURCANT_000_12", "hash": "F7042CFF2EC9AB33", "target": "Quem dera eles passassem metade do tempo provando seu valor em vez de falar dele." }
   ]
 }

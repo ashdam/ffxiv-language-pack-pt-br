@@ -2,18 +2,18 @@
   "conversation": "quest/005/SubWil098_00530",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "" },
-    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "" }
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_00", "hash": "5DA4FC1246E89F50", "target": "Blayves, de Esperança Perdida, está preocupado com um amigo doente." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_01", "hash": "1D0C37841EE54229", "target": "Blayves precisa de secreções de sapo gigante para tratar um amigo doente. Vá ao Herdeiro Profano e obtenha dois frascos dessa substância repugnante dos toxic toads que vivem lá." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_02", "hash": "4F54D2A488037124", "target": "Você obteve os dois frascos de secreções de sapo gigante. Entregue-os a Blayves em Esperança Perdida." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_SEQ_03", "hash": "33A259C5F161933D", "target": "Blayves confia que as secreções de sapo gigante vão ajudar a conter a doença do amigo. Embora a situação em Esperança Perdida seja deplorável, ele parece resignado com seu destino." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_00", "hash": "12F8B9D440B54597", "target": "Obter secreções de sapo gigante dos toxic toads" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_TODO_01", "hash": "CB141600B194A53C", "target": "Entregar as secreções de sapo gigante a Blayves em Esperança Perdida" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_000", "hash": "43012252E2CF03A8", "target": "Você parece já ter derrubado umas boas feras por aí. Se importaria de derrubar mais algumas?" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_001", "hash": "58E646828E09F540", "target": "Um amigo meu adoeceu, e preciso muito das secreções de sapo gigante do fígado de um toxic toad para tratá-lo. Dois frascos bastam. Você encontra essas criaturas nojentas no Herdeiro Profano." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_002", "hash": "C8475357EF83474C", "target": "Faça esse favor, eu imploro. Meu amigo vai morrer sem tratamento. Por favor!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_010", "hash": "AB69D82C6ECB266A", "target": "Preciso de dois frascos de secreções de sapo gigante do fígado de um toxic toad. Por favor, meu amigo não tem muito tempo!" },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_011", "hash": "F64BACAA8F674BE0", "target": "Ah, que os deuses abençoem você! Chegou bem na hora. Depois de um preparo simples, vou poder dar isto ao meu amigo." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_012", "hash": "14723CD8B89E4671", "target": "Ele sempre teve o coração fraco. Se fosse rico, teria a comida e os remédios de que precisa, e não teríamos que usar uma coisa tão imunda quanto bile de sapo." },
+    { "gameKey": "quest/005/SubWil098_00530#TEXT_SUBWIL098_00530_BLAYVES_013", "hash": "3E8F5B0DB870194D", "target": "\\<suspiro> Não é só a esperança que perdemos aqui. Gil e saúde também são raros. Um mal necessário num país como Ul'dah, imagino. Os poucos de cima comem e prosperam, enquanto os muitos de baixo passam fome e sofrem." }
   ]
 }

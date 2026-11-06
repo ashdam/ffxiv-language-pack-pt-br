@@ -2,18 +2,18 @@
   "conversation": "quest/010/GaiUsc910_01045",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_00", "hash": "09DBDF3EFA4183C4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_01", "hash": "DC6AFFA866D7039F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_02", "hash": "03FF8A5685A818EB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_03", "hash": "04E510FBB5F3B143", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_00", "hash": "558EBD72050E765A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_01", "hash": "5BB987C2600F7CAB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_000", "hash": "7B4D115383E83067", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_001", "hash": "AA9B81AC558EC01A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_002", "hash": "83741E54156434C3", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_DUMMY_000_000", "hash": "3605E201301ECBF2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_010", "hash": "FE637368E7873155", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_020", "hash": "5634FF16937018C4", "target": "" },
-    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_021", "hash": "6BEF4324D35309A6", "target": "" }
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_00", "hash": "09DBDF3EFA4183C4", "target": "Memezofu está, mais uma vez, precisando urgentemente de reagentes." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_01", "hash": "DC6AFFA866D7039F", "target": "Memezofu precisa de duas córneas de ahriman para continuar preparando remédios. Mate ahrimans para obter o reagente." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_02", "hash": "03FF8A5685A818EB", "target": "Você tem duas córneas de ahriman. Entregue-as a Memezofu." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_SEQ_03", "hash": "04E510FBB5F3B143", "target": "Memezofu comenta que basta um pouco do reagente para tratar muitos ferimentos, mas o alquimista sabe muito bem que é melhor prevenir do que remediar." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_00", "hash": "558EBD72050E765A", "target": "Abater ahrimans e obter suas córneas" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_TODO_01", "hash": "5BB987C2600F7CAB", "target": "Entregar as córneas de ahriman a Memezofu" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_000", "hash": "7B4D115383E83067", "target": "Não gosto de pedir mais a quem já fez tanto, mas raramente encontro alguém tão confiável entre os aventureiros." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_001", "hash": "AA9B81AC558EC01A", "target": "Os ventos da mudança sopram sem parar aqui na linha de frente, atiçando as chamas da guerra, que consomem cada vez mais depressa meu estoque de reagentes." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_002", "hash": "83741E54156434C3", "target": "No momento, preciso urgentemente de córneas de ahriman e temo não ter mais ninguém a quem recorrer. Poderia me fazer o favor de consegui-las?" },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_DUMMY_000_000", "hash": "3605E201301ECBF2", "target": "Mate dois ahrimans e obtenha duas córneas de ahriman." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_010", "hash": "FE637368E7873155", "target": "Magnífico! Exatamente o reagente que pedi. Admito que a aparência não é nada apetitosa, mas acredite: sua eficácia medicinal compensa isso de sobra." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_020", "hash": "5634FF16937018C4", "target": "Esta pequena amostra basta para sintetizar uma boa quantidade de coagulante, que serve para estancar sangramentos." },
+    { "gameKey": "quest/010/GaiUsc910_01045#TEXT_GAIUSC910_01045_MEMEZOFU_000_021", "hash": "6BEF4324D35309A6", "target": "Só posso esperar que o derramamento de sangue acabe antes do remédio." }
   ]
 }

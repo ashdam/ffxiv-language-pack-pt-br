@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil074_00388",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_00", "hash": "64D440676A723DC1", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_01", "hash": "B3DE0A633E2FA32F", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_02", "hash": "9540144182A8E2F6", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_TODO_00", "hash": "0AFD1D4EFAA55E63", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_01", "hash": "4F8A772E4F206E10", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_02", "hash": "AA30842D272F5FF4", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_03", "hash": "C21B789ABD902A3F", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_04", "hash": "50631AD6A2854509", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_10", "hash": "F4F4BAD68B2B98F7", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_11", "hash": "E5EE27120F8ABC21", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_12", "hash": "1BB029539F822566", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_13", "hash": "B3B7E67465F353AE", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_14", "hash": "7C60DCF5B1215B18", "target": "" },
-    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_15", "hash": "F42347A7010131FD", "target": "" }
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_00", "hash": "64D440676A723DC1", "target": "Aethelgyth está preocupada com o bem-estar de outro sentinela." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_01", "hash": "B3DE0A633E2FA32F", "target": "Embora Aethelgyth saiba que Osbert está ferido, o teimoso sentinela se recusa a admitir qualquer coisa a ela. Acreditando que ele talvez aceite mais facilmente a ajuda de alguém desconhecido, ela pede que você lhe ofereça uma hi-potion, que pode ser comprada de um comerciante próximo." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_SEQ_02", "hash": "9540144182A8E2F6", "target": "Como Aethelgyth suspeitava, Osbert se mostrou mais receptivo à sua oferta de ajuda, aceitando sua hi-potion com apenas um leve protesto. Talvez da próxima vez ele tome mais cuidado ao praticar seus truques de malabarista." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_TODO_00", "hash": "0AFD1D4EFAA55E63", "target": "Oferecer uma hi-potion a Osbert" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_01", "hash": "4F8A772E4F206E10", "target": "Vê aquele sujeito ali? O nome dele é Osbert, e está bem machucado." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_02", "hash": "AA30842D272F5FF4", "target": "Bom, não é exatamente meu trabalho cuidar da vida dele. Sou uma Tocha, ele é uma Lâmina. Mas, no fim das contas, nós dois somos gente, entende?" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_03", "hash": "C21B789ABD902A3F", "target": "Enfim, fui lá agora há pouco perguntar o que aconteceu. Mas o teimoso se recusa a me contar. Parece que o orgulho vale mais pra ele do que a vida. Por que homem tem essa mania de bancar o durão?" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_AETHELGYTH_000_04", "hash": "50631AD6A2854509", "target": "Digo pra mim mesma que tentei, mas, se o sujeito acabar batendo as botas... Não quero isso na consciência. Sei que é um pedido repentino, mas pode tentar convencê-lo a tomar uma hi-potion? Eu dormiria bem melhor. Não tenho nenhuma comigo, mas um daqueles sujeitos ali vende." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_10", "hash": "F4F4BAD68B2B98F7", "target": "Respire, velho Osbert, só respire. A dor é só a fraqueza saindo do... <italic(1)>maldição<italic(0)>, minha cabeça! Se eu tivesse guardado uma hi-potion. Acho que chegou minha hora..." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_11", "hash": "E5EE27120F8ABC21", "target": "Bem, eu... Não <italic(1)>preciso<italic(0)> mesmo disto, mas, se você insiste... Agradeço a ajuda." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_12", "hash": "1BB029539F822566", "target": "Eu estava resignado a sofrer em silêncio, pois eu, Osbert, o Imortal, veterano de incontáveis batalhas, não podia demonstrar fraqueza aos meus colegas e aliados. Eles se inspiram em mim, sabe?" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_13", "hash": "B3B7E67465F353AE", "target": "Pensar que quase fui derrotado por uma leve pancada na cabeça! Hahaha! Só fiquei incapacitado por alguns instantes... Eu acho." },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_14", "hash": "7C60DCF5B1215B18", "target": "Para recompensar sua discrição neste assunto delicado, vou compartilhar minha sabedoria de guerreiro:" },
+    { "gameKey": "quest/003/SubWil074_00388#TEXT_SUBWIL074_00388_OSBERT_000_15", "hash": "F42347A7010131FD", "target": "Se precisar praticar malabarismo, use pedras pesadas por sua conta e risco." }
   ]
 }

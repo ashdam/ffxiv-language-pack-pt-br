@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl203_01269",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_00", "hash": "397570693F3C0E5D", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_01", "hash": "2A905F20E1BA4C55", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_02", "hash": "12C2C001FC79A47A", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_03", "hash": "86117EC62D621C9E", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_00", "hash": "C5EF124CC0D9C746", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_01", "hash": "5C4C391FF4AC45EE", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_000", "hash": "0233D464388825AE", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_001", "hash": "A50BB48470E9393D", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_002", "hash": "44047CB972D119B4", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_005", "hash": "FD4DB526477EB870", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_010", "hash": "E0586F2825210B7F", "target": "" },
-    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_011", "hash": "28A481B11F35BE75", "target": "" }
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_00", "hash": "397570693F3C0E5D", "target": "Algo no ar deixa Ponnixia aflita." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_01", "hash": "2A905F20E1BA4C55", "target": "Silfos malévolos fizeram travessuras com os cogumelos da floresta, cobrindo-os com um pó venenoso que os faz emitir vapores tóxicos. Lave-os com água de nascente para poupar os silfos do Pequeno Consolo de uma epidemia de tosse." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_02", "hash": "12C2C001FC79A47A", "target": "Você encharcou os cogumelos e removeu suas propriedades venenosas. Informe Ponnixia de que ela pode respirar tranquila novamente." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_SEQ_03", "hash": "86117EC62D621C9E", "target": "Ponnixia respira fundo, saboreando o ar puro e fresco da floresta. Mais uma vez, você provou sua verdadeira amizade pelo Pequeno Consolo e seus habitantes." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_00", "hash": "C5EF124CC0D9C746", "target": "Encharcar os greater banestools com água de nascente" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_TODO_01", "hash": "5C4C391FF4AC45EE", "target": "Relatar a Ponnixia" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_000", "hash": "0233D464388825AE", "target": "Logo quando este aqui achava que os tocados não podiam ficar mais malvados! O que é amigável sente um cheiro estranho no ar?" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_001", "hash": "A50BB48470E9393D", "target": "Este aqui viu os tocados espalhando pó estranho nos cogumelos fedorentos, deixando o fedor ruim ainda mais fedido! Estes aqui não param de fungar e espirrar." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_002", "hash": "44047CB972D119B4", "target": "Por favor, amigável! Que lave o pó ruim dos malvados dos cogumelos fedorentos, antes que todos estes aqui fiquem doentes." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_005", "hash": "FD4DB526477EB870", "target": "Por favor, amigável! Que lave o pó dos cogumelos fedorentos, antes que todos estes aqui fiquem doentes." },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_010", "hash": "E0586F2825210B7F", "target": "O nariz deste aqui parou de coçar. O que é amigável limpou o fedor dos cogumelos fedorentos, sim?" },
+    { "gameKey": "quest/012/BanSyl203_01269#TEXT_BANSYL203_01269_PONNIXIA_000_011", "hash": "28A481B11F35BE75", "target": "Estes aqui respiram aliviados. Ahhhhhh, o que é amigável também não adora os cheiros doces da floresta?" }
   ]
 }

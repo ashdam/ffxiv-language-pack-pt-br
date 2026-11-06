@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst042_00198",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "" },
-    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "" }
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "Pauline, uma conjuradora na Cabana de Gabineaux, procura alguém capaz de reduzir a população local de hoglets." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Pauline na Cabana de Gabineaux para recomeçá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_02", "hash": "F88ECC0CCA3F3FB4", "target": "Você abateu meia dúzia de hoglets. Apresente-se a Pauline na Cabana de Gabineaux." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_03", "hash": "9E7FF7810ED0723C", "target": "Pauline sente a alegria dos elementais com seus esforços para restaurar o equilíbrio natural. Cada pequena vitória traz estabilidade ao ciclo da vida na floresta." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_00", "hash": "D7721CA84826849A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Pauline na Cabana de Gabineaux para recomeçá-la.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_TODO_01", "hash": "87B1C638F5332C49", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Pauline na Cabana de Gabineaux para recomeçá-la.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_1", "hash": "6FC81518F3597B56", "target": "Se tiver um pouco de tempo, <split(<string(gstr1)>, ,1)>, gostaria que reduzisse o número de hoglets em Greentear." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_2", "hash": "86F0DFE7F81400AA", "target": "Embora essas feras sempre tenham vivido na Mata dos Doze, seu apetite se tornou tão insaciável que receio que devorem todas as castanhas do chão da floresta. O ciclo da vida não pode sustentar tamanha gula." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_3", "hash": "E889CC1A8C6EB31D", "target": "Preciso pedir que mate pelo menos seis dessas criaturas. Garanto que seu sacrifício será para o bem maior da Mata dos Doze." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_10", "hash": "45ED3FF5291B887A", "target": "Sim... os elementais se alegram com suas ações." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_11", "hash": "FFBF92109B7461D5", "target": "A vida da floresta depende de um equilíbrio delicado, e a proliferação descontrolada de feras significaria uma morte lenta, mas certa, para a Mata dos Doze. É nosso dever corrigir esse desequilíbrio, e depressa, mesmo que isso exija derramar sangue..." },
+    { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_PAULINE_000_12", "hash": "FECE1DC258F21BCD", "target": "Embora pareça algo pequeno, você prestou um serviço vital hoje. Que os elementais abençoem seus próximos esforços." }
   ]
 }

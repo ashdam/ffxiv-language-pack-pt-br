@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze017_05135",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "" },
-    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "" }
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_SEQ_00", "hash": "24D65E1D57DE6ED8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Quando você achava que a vida no deserto não podia piorar, aparecem as cobras." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_00", "hash": "6C4A0F421D550D58", "target": "Derrotar duas aspis e abater a elder aspis quando aparecer" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_TODO_01", "hash": "FE76781528F3F953", "target": "Entregar a carcaça de elder aspis ao railroad inspector" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_000", "hash": "DC7FF77C251E4ECF", "target": "Como vai? Se tiver um tempinho, tenho um pequeno favor para pedir." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_001", "hash": "5EC83E85C171EFD5", "target": "Logo a noroeste daqui, alguns trabalhadores da ferrovia foram atacados por um bando de cobras. Aspis, para ser exato." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_002", "hash": "F453C127EAC33244", "target": "Sei o que está pensando: “Cobras não caçam em bando, caçam?” Bem, estas caçam, e tem uma enorme que parece ser a líder. Se aceitar, quero que vá lá matá-la!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_003", "hash": "B383569D6BBB1897", "target": "Elimine a líder e o resto vai entender o recado. O difícil é que ela costuma ficar escondida, então recomendo matar umas duas menores para chamar a atenção. Quando terminar, traga uma prova do abate, pode ser?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_004", "hash": "BBE74F849371C6E8", "target": "Além de venenosas, as aspis são grandes pra danar. Tome cuidado por lá!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_005", "hash": "23020D5A5D4B3E8B", "target": "Que bom ver você de volta e com saúde! Então, trouxe algum pedaço de cobra para mostrar?" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_006", "hash": "436F48FD61E66DE9", "target": "Olha só isso! Devia ser uma baita cobra!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_007", "hash": "C3340B812717C650", "target": "Acho que podemos até usar isso para fazer um antídoto. Se alguém for picado, pode salvar uma vida." },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_008", "hash": "2D7D7EAD6A94E26D", "target": "Sabe, até fico sem graça de dizer, mas, se ainda houver mais daquela cobra por lá, podemos vender a pele para fazer couro. A carne também dá para comer, e é surpreendentemente saborosa. Isso pode até render um bom dinheiro para a companhia!" },
+    { "gameKey": "quest/051/KinGze017_05135#TEXT_KINGZE017_05135_WORRYWORKER05135_000_009", "hash": "F625A4E8A26C99FE", "target": "Mas é melhor eu correr, ou os outros bichos do deserto só vão deixar os ossos! Obrigado pela ajuda!" }
   ]
 }

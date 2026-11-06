@@ -2,16 +2,16 @@
   "conversation": "quest/008/GaiUsb106_00825",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "" },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "" }
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "U'khuba Tia parece impaciente." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia precisa de material para pontas de flecha, e no deserto isso só pode significar uma coisa: desmembrar criaturas desprevenidas. Após uma breve explicação sobre as particularidades da ascensão na tribo dos U, ele pede que você arranque seis farpas de russet yarzons." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Seis farpas de yarzon, ainda cobertas de sangue e fúria, repousam na sua mão. Leve-as a U'khuba Tia." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "Você entregou as partes recém-colhidas de yarzon a um agradecido U'khuba Tia, que parece cada vez mais confiante em seu futuro desafio." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Matar russet yarzons e obter farpas" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Dar as farpas de yarzon a U'khuba Tia" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "A lei é clara: para se tornar o Nunh da tribo dos U, é preciso derrotar o Nunh atual. No meu caso, U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Mas, para conquistar o direito de desafiar U'odh, primeiro preciso vencer U'tykha. Ele está no meu caminho, e eu no dele. Assim, o Nunh fica protegido de desafios constantes." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Mas, para derrotar U'tykha, minhas armas precisam ser impecáveis. Ele pode ser tolo, mas não é fraco. Vou fazer novas pontas de flecha, e preciso de farpas de yarzon para isso. Meia dúzia deve bastar." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Trouxe as farpas de yarzon?" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Meus agradecimentos, <if(gnum4,aventureira,aventureiro)>. Talvez se surpreenda com o alvo que elas vão atingir. Observe bem Forgotten Springs hoje. Os velhos costumes estão de partida, tão rápidos quanto flechas no ar." }
   ]
 }

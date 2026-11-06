@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil019_00392",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_00", "hash": "F10AC9D474D5F4C1", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_01", "hash": "D17F426003A43522", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_02", "hash": "8CF129DB4BA47BE1", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_TODO_00", "hash": "C576BDDF7D132F55", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_000", "hash": "904E29E6F6CDB3E3", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_001", "hash": "E3EDB43C0FC4DDF2", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_002", "hash": "9090E2C40ABF12D8", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_003", "hash": "83B9C392F42DB6CF", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_004", "hash": "085041242289ECF8", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_000", "hash": "45F103BAD5600BC4", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_001", "hash": "E3B4929247C2B68B", "target": "" },
-    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_002", "hash": "42494EB98E2A9B5A", "target": "" }
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_00", "hash": "F10AC9D474D5F4C1", "target": "Os olhos de Bitter Snow são os de um homem apaixonado, atormentado por preocupações e dúvidas. Ele parece esperar por alguém que ainda não chegou..." },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_01", "hash": "D17F426003A43522", "target": "Bitter Snow revelou que está esperando por sua amada. Porém, ela não aparece em lugar nenhum, e ele começa a temer o pior. Corra até a Guilda dos Tecelões e procure a atrasada Yellow Moon." },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_SEQ_02", "hash": "8CF129DB4BA47BE1", "target": "Você encontra Yellow Moon após uma rápida busca pela Guilda dos Tecelões. Ela passou as últimas horas aflita, escolhendo uma roupa para seu encontro com Bitter Snow. Você pensa em avisá-lo, mas decide não se meter." },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_TODO_00", "hash": "C576BDDF7D132F55", "target": "Falar com Yellow Moon na Guilda dos Tecelões" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_000", "hash": "904E29E6F6CDB3E3", "target": "O que pode estar demorando tanto?" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_001", "hash": "E3EDB43C0FC4DDF2", "target": "Minha amada Yellow Moon e eu combinamos de nos encontrar exatamente aqui, mas já se passaram duas horas e não tive notícia nenhuma. Pelos deuses, espero que esteja bem..." },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_002", "hash": "9090E2C40ABF12D8", "target": "Por mais que eu queira sair para procurá-la, não posso. E se ela chegar enquanto eu não estiver? Por favor, você poderia procurá-la no meu lugar?" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_003", "hash": "83B9C392F42DB6CF", "target": "Talvez ela esteja perto da Guilda dos Tecelões. Sempre gostou de olhar os..." },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_BITTERSNOW_004", "hash": "085041242289ECF8", "target": "Pelos deuses! Você... acha que ela me trocou por alguém mais... elegante? Tento não parecer um caipira, mas não entendo nada de moda!" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_000", "hash": "45F103BAD5600BC4", "target": "Que Byregot me ajude, olhe só pra mim! Este cabelo... Esta roupa... Não combinam em nada! Estou <italic(1)>horrorosa<italic(0)>! Onde eu estava com a cabeça!?" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_001", "hash": "E3B4929247C2B68B", "target": "Ah, não posso deixar Bitter Snow me ver assim. Talvez aquela última túnica <italic(1)>fosse<italic(0)> a melhor mesmo. Ou não... Quem sabe a azul?" },
+    { "gameKey": "quest/003/SubWil019_00392#TEXT_SUBWIL019_00392_YERROWMOON_002", "hash": "42494EB98E2A9B5A", "target": "Hm? Bitter Snow está me esperando? Mas eu não tenho nada pra vestir!" }
   ]
 }

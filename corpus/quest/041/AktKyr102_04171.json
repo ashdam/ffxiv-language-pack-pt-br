@@ -2,12 +2,12 @@
   "conversation": "quest/041/AktKyr102_04171",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_000", "hash": "10D3ABAB7762A52B", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_001", "hash": "730D0D6286EE0BA6", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_002", "hash": "C1BD51CD3F0BAD07", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_003", "hash": "821C7C9168A96797", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_004", "hash": "0C67828050B0991C", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_005", "hash": "B55C9477CDCDECED", "target": "" },
-    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_006", "hash": "953A8E9035358C62", "target": "" }
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_000", "hash": "10D3ABAB7762A52B", "target": "\\<ofego> Quem vejo diante de mim senão <if(gnum4,a salvadora,o salvador)> do próprio astro, <if(gnum4,a inigualável responsável,o inigualável responsável)> pelo fim do fim! Seus feitos são cantados por toda parte, <if(gnum4,minha amiga,meu amigo)>!" },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_001", "hash": "730D0D6286EE0BA6", "target": "Pelo que entendi, sua busca pela salvação do mundo trouxe você a Sharlayan. Também vim para cá em uma espécie de busca, a busca por inspiração musical." },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_002", "hash": "C1BD51CD3F0BAD07", "target": "Ai de mim, por mais magnífico que seja este repositório de conhecimento, a inspiração que consigo tirar dos livros tem seus limites..." },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_003", "hash": "821C7C9168A96797", "target": "Mas onde os livros não bastam para inspirar, a palavra viva ainda pode despertar a imaginação!" },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_004", "hash": "0C67828050B0991C", "target": "Por isso lhe imploro: poderia me deleitar com o relato de sua busca para salvar o astro? Se uma aventura dessas não merece uma epopeia, não sei o que mereceria!" },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_005", "hash": "B55C9477CDCDECED", "target": "Com seu relato em primeira mão e os conhecimentos que adquirir aqui, creio que poderei tecer os mais maravilhosos versos!" },
+    { "gameKey": "quest/041/AktKyr102_04171#TEXT_AKTKYR102_04171_WANDERINGMINSTREL_000_006", "hash": "953A8E9035358C62", "target": "Se tiver interesse, por favor, me avise. Enquanto isso, continuarei minhas pesquisas por aqui." }
   ]
 }

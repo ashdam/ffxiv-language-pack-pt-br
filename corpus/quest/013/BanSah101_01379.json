@@ -2,16 +2,16 @@
   "conversation": "quest/013/BanSah101_01379",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_00", "hash": "0F21DECF78FAF9B1", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_01", "hash": "D0AFFCAD0E7D2771", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_02", "hash": "06A129C6895868CA", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_TODO_00", "hash": "7A5BA5D4ADC02651", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_000", "hash": "0DB89FF5D313D335", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_001", "hash": "73CBAAFBADA788C5", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_002", "hash": "6266A48D02CFF14A", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_003", "hash": "D9C61C74E91F6BF5", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_010", "hash": "ADCDAF59EA12489A", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_011", "hash": "992C8F64E4FDAFBC", "target": "" },
-    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_012", "hash": "148B34DD98565BC0", "target": "" }
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_00", "hash": "0F21DECF78FAF9B1", "target": "Fyuu quer fazer alguns ajustes letais nos planos de batalha dos Tridentes de Coral." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_01", "hash": "D0AFFCAD0E7D2771", "target": "Fyuu descobriu que Voll the Sharkskinned, um gênio da tática, foi recrutado para a causa dos Tridentes de Coral. Supondo que os Tridentes planejem um grande ataque contra seus inimigos sem nadadeiras, o jovem Sahagin pede que você frustre seus planos matando o novo estrategista. Participe do FATE “Sharknado” em Halfstone e apresente a Fyuu uma prova do seu feito." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_SEQ_02", "hash": "06A129C6895868CA", "target": "Você entrega o coral armband a Fyuu. Satisfeito por saber que Voll the Sharkskinned está morto, o jovem elogia sua coragem ao sabotar os planos dos Tridentes." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_TODO_00", "hash": "7A5BA5D4ADC02651", "target": "Entregar a Fyuu o coral armband obtido no FATE “Sharknado”" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_000", "hash": "0DB89FF5D313D335", "target": "Pshhh... A situação piorou, caminhante da costa. Os Tridentes de Coral contrataram Voll the Sharkskinned, um Sahagin conhecido pelo brilhantismo tático." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_001", "hash": "73CBAAFBADA788C5", "target": "Só contratariam um estrategista desse calibre para planejar um grande ataque à posição dos caminhantes da costa." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_002", "hash": "6266A48D02CFF14A", "target": "Felizmente, é fácil frustrar esses planos. Mate Voll, e o ambicioso ataque estará fadado ao fracasso." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_003", "hash": "D9C61C74E91F6BF5", "target": "O tático deve ter um coral armband, símbolo físico da sua nova aliança. Traga o bracelete para mim e saberei que cumpriu a tarefa." },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_010", "hash": "ADCDAF59EA12489A", "target": "Pshhh... Mate Voll e traga o bracelete que ele usa!" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_011", "hash": "992C8F64E4FDAFBC", "target": "Pshhh! Há manchas escarlates neste bracelete, caminhante da costa. Espero que seja sangue de Voll, não seu!" },
+    { "gameKey": "quest/013/BanSah101_01379#TEXT_BANSAH101_01379_FYUU_000_012", "hash": "148B34DD98565BC0", "target": "Sem seu tático, os Tridentes de Coral não terão escolha além de rever seus planos de ataque. Estou... impressionado. O que falta em nadadeiras, você compensa em coragem." }
   ]
 }

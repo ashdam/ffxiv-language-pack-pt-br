@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzc103_05073",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SEQ_00", "hash": "DA09B30FE8EE03F4", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_TODO_00", "hash": "A852FB1591BB96AE", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_TODO_01", "hash": "201CDE378EAECFD6", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_000", "hash": "E3DC838CCC654504", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_001", "hash": "250F66C2A8DD7D3E", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_002", "hash": "6E219BF01AEA0871", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_004", "hash": "AE3D895FBB6C7EB5", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SYSTEM_000_005", "hash": "54C728FE98A26C3F", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SYSTEM_000_006", "hash": "EF31E6CAF3B2581B", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_006", "hash": "B90A8D2BD9CDD5CC", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_007", "hash": "9887A04805A55AD3", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_008", "hash": "78A808614F4141B8", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_009", "hash": "47CBB3CA581640EE", "target": "" },
-    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_010", "hash": "A12D5A68B09BF818", "target": "" }
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SEQ_00", "hash": "DA09B30FE8EE03F4", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Flaraflik tem uma tarefa-fácil para quem se dispuser a ajudar." },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_TODO_00", "hash": "A852FB1591BB96AE", "target": "Procurar pedras brilhantes nas margens de Miyakabek'zoma" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_TODO_01", "hash": "201CDE378EAECFD6", "target": "Entregar as pedras brilhantes a Flaraflik" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_000", "hash": "E3DC838CCC654504", "target": "Ah, visitante! O que traz você à nossa morada humilde? Amor por coisas de arte e artesanato, talvez? Então quem sabe possa se rebaixar a ajudar com nosso trabalho-artesão." },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_001", "hash": "250F66C2A8DD7D3E", "target": "A tarefa que Flaraflik pede é mamão-açúcar: coletar pedrabrilhos na margem do rio em Miyakabek'zoma. Venha, empreste seu desenho-terra, para ele apontar-dedo onde já encontraram essas maravilhas." },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_002", "hash": "6E219BF01AEA0871", "target": "Mas não é certo-fixo que vai achar. Tudo depende dos sente-volúveis da grande e generosa Ihuykatumu! Flaraflik só pode garantir que, se achar alguma, vai ficar de cara-alegre!" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_004", "hash": "AE3D895FBB6C7EB5", "target": "Ihuykatumu nos abençoa com pedrabrilhos, mas Flaraflik pede que lembre: Ela é senhora de pensa-volúvel! Vá aos lugares marcados no mapa e veja se Ela tem você em Seus bons-pensamentos!" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SYSTEM_000_005", "hash": "54C728FE98A26C3F", "target": "Você remexe as pedrinhas e encontra uma com um belo brilho iridescente. Será uma das pedrabrilhos de que Flaraflik falou?" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_SYSTEM_000_006", "hash": "EF31E6CAF3B2581B", "target": "Você remexe as pedrinhas, mas nenhuma parece brilhar muito." },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_006", "hash": "B90A8D2BD9CDD5CC", "target": "Então, cara-estranha? Generosa Ihuykatumu mostrou sorri-dentes para você hoje?" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_007", "hash": "9887A04805A55AD3", "target": "Incrível! Não só uma pedrabrilho, mas duas! Ihuykatumu deve gosta-alegre de você mesmo!" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_008", "hash": "78A808614F4141B8", "target": "Chamamos essas pedrabrilhos de “Lágrimas de Ihuykatumu”. Elas descem-lavadas desde nascente do rio, lá no alto dos montes-grandes, ficando menores e menores, mais brilhantes e mais brilhantes, até chegarem-lavadas aqui." },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_009", "hash": "47CBB3CA581640EE", "target": "Flaraflik diz “finalmente”, mas é só a primeira etapa da jornada até a grandeza. Nossos jurapotes cortam até os miolos-brilho, polem até brilhar como estrelas e encaixam nos melhores pendura-orelhas e enfeita-pulsos!" },
+    { "gameKey": "quest/050/KinGzc103_05073#TEXT_KINGZC103_05073_FLARAFLIK_000_010", "hash": "A12D5A68B09BF818", "target": "Agora sabe, cara-estranha: nossas obras-artesãs só usam os melhores materiais-de-criar. Veja nossas mercadorias e abra-bolsa de moedas. Mas, faça o que fizer, não deixe escapar-lábios o lugar das pedrabrilhos. É segredo de Earthenshire!" }
   ]
 }

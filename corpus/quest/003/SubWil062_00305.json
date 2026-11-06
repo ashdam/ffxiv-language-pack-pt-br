@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil062_00305",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "" },
-    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "" }
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_00", "hash": "34880F6D042C480B", "target": "Roger tem uma proposta empolgante para aventureiros à procura de trabalho." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_01", "hash": "C5E7C7E4065851D0", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Roger no Cofre e o Caixão.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo e desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_02", "hash": "D1AFCB9F2B5EBD3E", "target": "Depois de uma série de batalhas heroicas, você coletou cinco mandíbulas de formiga. Leve a prova de sua habilidade a Warin, na Estação de Black Brush." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_SEQ_03", "hash": "7A2F74287EA99D32", "target": "Embora surpreso a princípio, Warin reconhece seu potencial e recebe você calorosamente. Ele oferece mais trabalho, caso você tenha disposição e capacidade para fazê-lo." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_00", "hash": "7FF120E9D0060CF8", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Roger no Cofre e o Caixão.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_TODO_01", "hash": "155012339A2F1792", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Roger no Cofre e o Caixão.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_1", "hash": "5BC65AFB0C960395", "target": "Dizem que a Estação de Black Brush está precisando muito de pessoal. As Tochas de Pedra de lá não têm um minuto de sossego." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_2", "hash": "E412E581CDE5B07B", "target": "E não ajuda nada essas formigas estarem se multiplicando sem parar. Para cada bicho que Warin e a turma dele matam, aparecem mais dois no lugar." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_3", "hash": "95906558D4DF8D40", "target": "Estava pensando que talvez você pudesse ser útil na estação matando umas formigas. Não duvido que Warin apreciaria a ajuda." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_ROGER_000_4", "hash": "DDED2136E45A0964", "target": "E, se ganhar a confiança dele, é provável que tenha mais trabalho para você. Mas vai precisar mostrar uma prova dos seus feitos. Umas cinco mandíbulas de formiga devem falar por você." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_10", "hash": "A89660F9E4CD4540", "target": "O quê? Você diz que matou umas formigas? Está longe de ser a primeira pessoa a vir aqui dizendo isso para ganhar dinheiro fácil. Sem uma prova desse feito, você não vai ver um único Gil meu." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_11", "hash": "FC211D79B90E558D", "target": "Pelas bolas de Thal... são mandíbulas de formiga!? Então é verdade, você matou mesmo as feras! Desculpe por duvidar da sua palavra." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_12", "hash": "31BACAB2297ECC17", "target": "Com Ul'dah tão perto, era de se pensar que estaríamos fora de perigo. A verdade é que as formigas estão mais ativas do que nunca. Nunca é demais ter aventureiros capazes para ajudar a preservar a paz na região." },
+    { "gameKey": "quest/003/SubWil062_00305#TEXT_SUBWIL062_00305_WARIN_000_13", "hash": "DFB0339941AD95B1", "target": "Se quiser nos ajudar, terei prazer em passar uma tarefa para você. Os deuses sabem que trabalho é o que não falta aqui." }
   ]
 }

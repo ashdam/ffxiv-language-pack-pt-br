@@ -2,15 +2,15 @@
   "conversation": "quest/039/LucKsa108_03948",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SEQ_00", "hash": "9487C3447F331012", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_100_000", "hash": "76BFE1DF181BAA3F", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_000", "hash": "D572BD9AD5DA08C1", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_001", "hash": "0C7DDB579430BFB9", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_020", "hash": "177D7F80FFB473A2", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_021", "hash": "19E1FE1C63EFA0F4", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_022", "hash": "BEC75A5C316A7C0D", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_030", "hash": "75A3E26DDC7F8353", "target": "" },
-    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_031", "hash": "7F54B5A229BF3C38", "target": "" }
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SEQ_00", "hash": "9487C3447F331012", "target": "Dmitar tem mais boas notícias da frente sul." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_TODO_00", "hash": "43C70BA6D3E183C9", "target": "Falar com Dmitar" },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_100_000", "hash": "76BFE1DF181BAA3F", "target": "É necessário alcançar o Resistance rank <num(lnum1)> para prosseguir com esta missão." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_000", "hash": "D572BD9AD5DA08C1", "target": "Tenho a satisfação de informar que nossos soldados desferiram mais um duro golpe nas forças do Império." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_001", "hash": "0C7DDB579430BFB9", "target": "Nossa linha de frente avançou outra vez e tomou mais um posto avançado em Old Bozja. Meu comandante pediu que eu levasse você até lá. Venha comigo." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_020", "hash": "177D7F80FFB473A2", "target": "Esta é Lunya's Stand. Os garleanos não facilitaram, mas ela finalmente é nossa." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_021", "hash": "19E1FE1C63EFA0F4", "target": "Se continuarmos pressionando as forças do Império, imagino que logo não terão escolha a não ser recuar até o castrum." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_DMITAR_000_022", "hash": "BEC75A5C316A7C0D", "target": "Isso significa que não podemos descansar sobre os louros. Eles farão de tudo para retardar nosso avanço. Espero poder contar com você para continuar lutando por nossa causa." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_030", "hash": "75A3E26DDC7F8353", "target": "A linha de frente da Resistência avançou, permitindo sua participação em novas escaramuças e confrontos críticos." },
+    { "gameKey": "quest/039/LucKsa108_03948#TEXT_LUCKSA108_03948_SYSTEM_000_031", "hash": "7F54B5A229BF3C38", "target": "Você pode aceitar a próxima missão falando com Mikoto após alcançar o Resistance rank <num(lnum1)> ou superior." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/040/LucKsa321_04094",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "" },
-    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "" }
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_000", "hash": "50AE50959E527C83", "target": "Lâmina <split(<string(gstr1)>, ,2)>. Posso falar com você?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_001", "hash": "0C1716FC130FBB95", "target": "Sua bravura no campo de batalha continua sendo um ideal para todos os nossos soldados. Depois que consultei meus superiores, eles pediram que eu apresentasse a você as maiores honrarias da Resistência." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_002", "hash": "E3BAE0598C8BD0D7", "target": "São condecorações dadas apenas aos nossos soldados mais valentes, abençoadas para proteger quem as usa daqueles que querem levar Bozja à ruína." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_003", "hash": "2ABA2CA4968EEF4E", "target": "Poucos possuem Mettle suficiente para uma avaliação, mas acreditamos que você, Lâmina <split(<string(gstr1)>, ,2)>, pode merecer essa prestigiosa honraria." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_005", "hash": "D615E727512ED474", "target": "Jogadores que receberem honrarias da Resistência terão seus atributos aumentados nos conteúdos de Save the Queen." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_006", "hash": "6B31621349599F26", "target": "É preciso acumular uma grande quantidade de Mettle para receber honrarias da Resistência. Além disso, não há outras recompensas além do aumento dos atributos." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_Q1_000_100", "hash": "33BE2BBFC2703C0C", "target": "Passar pela avaliação para receber honrarias da Resistência?" },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_010", "hash": "45E31612B39722D8", "target": "Muito bem. Acompanharemos seus feitos no campo de batalha com grande interesse, Lâmina <split(<string(gstr1)>, ,2)>." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_100_011", "hash": "8F8170B3560E468C", "target": "Quando achar que está à altura das nossas honrarias, fale comigo, e avaliarei seu desempenho." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_010", "hash": "08C9D92ABE9FB97E", "target": "Você desbloqueou as honrarias da Resistência. Há três tipos, e cada um aumenta diferentes atributos do personagem." },
+    { "gameKey": "quest/040/LucKsa321_04094#TEXT_LUCKSA321_04094_RESISTANCECOUNCILOR_000_011", "hash": "2225DD679501C2AF", "target": "Para receber honrarias da Resistência, primeiro acumule Mettle suficiente e fale com o Resistance councilor para receber Proofs of Mettle. Depois, troque-as pelas honrarias que escolher. Você pode falar com o Resistance councilor a qualquer momento para saber mais." }
   ]
 }

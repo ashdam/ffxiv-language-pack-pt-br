@@ -2,19 +2,19 @@
   "conversation": "quest/002/SubWil031_00223",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_00", "hash": "D6854D2131DD57DB", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_01", "hash": "42BCF7999A9ADE55", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_02", "hash": "F9E38CF0BA8BB562", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_03", "hash": "01AC7A28583A1F98", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_00", "hash": "60665BC668971BA6", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_01", "hash": "0096C180BE3D13BC", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_001", "hash": "87D484EF4A59D1AB", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_002", "hash": "09563F582FB2846A", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_003", "hash": "F187C76F13994F8A", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_011", "hash": "4DB45EDA6728AE89", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_012", "hash": "EE1311C57236E33B", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_013", "hash": "6B7B52112576D3CA", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_014", "hash": "6B69EC9D1B5D7705", "target": "" },
-    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_015", "hash": "A4BEC4C79F9A55A3", "target": "" }
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_00", "hash": "D6854D2131DD57DB", "target": "O comerciante Guntram revira furiosamente sua carga em Scorpion Crossing, com toda a aparência de quem perdeu alguma coisa." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_01", "hash": "42BCF7999A9ADE55", "target": "Embora os motivos não estejam claros, Guntram afirma precisar urgentemente de quatro garrafas de sangue de cactuar, que pode ser extraído dos corpos de cactuars recém-abatidos." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_02", "hash": "F9E38CF0BA8BB562", "target": "Volte a Scorpion Crossing e entregue a Guntram o sangue de cactuar que você coletou." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_SEQ_03", "hash": "01AC7A28583A1F98", "target": "Guntram pretende usar o sangue de cactuar que você trouxe para reabastecer seu estoque esgotado do cobiçado tônico de Radz<-->at<-->Han, certo de que o produto é tão pouco conhecido em Ul'dah que nenhum cliente perceberá a diferença." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_00", "hash": "60665BC668971BA6", "target": "Abater cactuars e coletar garrafas de sangue de cactuar" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_TODO_01", "hash": "0096C180BE3D13BC", "target": "Entregar as garrafas de sangue de cactuar a Guntram" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_001", "hash": "87D484EF4A59D1AB", "target": "Não, não, não, não, não, não, não, não, não, não! Isso não pode estar acontecendo! Não há tempo para pedir mais, e não...<br>\\<arquejo> Você aí!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_002", "hash": "09563F582FB2846A", "target": "Por favor, você precisa me ajudar. Mate quantos cactuars forem necessários para reunir quatro garrafas do sangue deles. Não me importa se tiver que caçar esses verdinhos desgraçados até a extinção!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_003", "hash": "F187C76F13994F8A", "target": "Por favor, não há tempo para explicar! Só saiba que minha própria vida está em jogo. Pelo amor dos deuses, ande logo, <if(gnum4,mulher,homem)>!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_011", "hash": "4DB45EDA6728AE89", "target": "Trouxe o sangue de cactuar? As quatro garrafas? Mostre!" },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_012", "hash": "EE1311C57236E33B", "target": "Ufa, você salvou minha pele. Parei para conferir a carga a caminho de Ul'dah e vi que todas as minhas garrafas de tônico para a pele de Radz<-->at<-->Han estavam tão vazias quanto uma promessa garleana." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_013", "hash": "6B7B52112576D3CA", "target": "Parece que as tampas se soltaram no transporte e todo o conteúdo derramou. Mas me recuso a deixar que digam que Guntram não cumpriu uma entrega." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_014", "hash": "6B69EC9D1B5D7705", "target": "Dizem que sangue de cactuar ajuda a manter a pele macia. Vou usar o que você trouxe para encher as garrafas vazias, e aquelas belas senhoras uldahnas não vão perceber nada." },
+    { "gameKey": "quest/002/SubWil031_00223#TEXT_SUBWIL031_00223_GUNTRAM_015", "hash": "A4BEC4C79F9A55A3", "target": "Ah, não se preocupe com a possibilidade de descobrirem. O tônico para a pele de Radz<-->at<-->Han ainda é raro, mais ainda tão ao sul. Aposto que ninguém em Ul'dah saberia distinguir aquilo de uma ampola do próprio mijo." }
   ]
 }

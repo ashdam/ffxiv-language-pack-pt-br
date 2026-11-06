@@ -56,7 +56,7 @@
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_030", "hash": "8DADCFFA362CE8B1", "target": "Com licença, <split(<string(gstr1)>, ,1)>, mas posso pedir um momento antes da partida?" },
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_031", "hash": "3C1A17F57B8794FF", "target": "Ah, você já vai <if(gnum4,dar a coisa a ela,dar a coisa a ele)>?" },
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_032", "hash": "C9B87E6E230FB1A9", "target": "Sim. Eu pensava em deixar para depois, mas, diante desses acontecimentos, sinto que agora é a hora." },
-    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_033", "hash": "1A1A5909407ABFF1", "target": "Como Lamaty'i disse, tenho algo para você. Por favor, me acompanhe até Bayside Bevy." },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_033", "hash": "1A1A5909407ABFF1", "target": "Como Lamaty'i disse, tenho algo para você. Por favor, me acompanhe até o Bazar da Baía." },
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GULOOLJA_000_035", "hash": "9E99C4C2AA3E6EFF", "target": "Isso tudo são lojas? É tão diferente de Solution Nine!" },
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_040", "hash": "582433289CDDBB23", "target": "Hehe, espero que goste!" },
     { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_050", "hash": "0E67ECC1F406FE86", "target": "Tuliyollal está segura em grande parte graças à sua bravura. Como símbolo de gratidão, encomendei um equipamento especial para você." },

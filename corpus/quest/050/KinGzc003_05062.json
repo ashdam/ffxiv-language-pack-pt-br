@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc003_05062",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "" },
-    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "" }
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_SEQ_00", "hash": "35CE22C96BFD7878", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lenuhali procura alguém com força para derrubar árvores ou, pelo menos, esmagar pragas." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_00", "hash": "401595B745657092", "target": "Examinar o local indicado e abater as u'outs que aparecerem" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_TODO_01", "hash": "CF177CB1D740A1D5", "target": "Falar com Lenuhali" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_000", "hash": "A7591BF5CB1984AD", "target": "Ora, que pernas robustas, como uma árvore imponente. Que braços musculosos, como galhos retorcidos. Poderia me emprestar sua força para uma simples caçada?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_002", "hash": "4800B3DB364DB382", "target": "A tempestade deixou mais do que destruição por onde passou. Feras temíveis agora infestam a floresta, e abatê-las é uma tarefa sem fim." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_004", "hash": "EEE82D80D29DC1A8", "target": "Dizem que três u'outs foram vistas à espreita perto das docas a leste, presas fáceis para alguém como você. Poderia exterminá-las para voltarmos a navegar em segurança?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_006", "hash": "ED5494F5FDD9AA0F", "target": "As u'outs tornaram as docas a leste perigosas. Abata essas criaturas para podermos navegar por aquelas águas de novo!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_007", "hash": "9287982A7114BFB9", "target": "Ah, <if(gnum4,a poderosa caçadora voltou,o poderoso caçador voltou)>! As u'outs viraram cipós picados?" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_008", "hash": "33A08BE555E6DA95", "target": "Eu sabia que você daria conta! Vou avisar a todos que as docas estão abertas para uma travessia segura." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_009", "hash": "C6984089D9D2A623", "target": "A grande tempestade afetou toda a vida na floresta, levando o que havia e deixando apenas incertezas. Ainda há muitas estradas pouco usadas onde monstros desesperados espreitam..." },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_010", "hash": "7C326FA74C60B486", "target": "Com o desabamento da grande escadaria, passamos a usar os rios e outras rotas incomuns para nos deslocar, até terminarmos os reparos. Esse dia não pode chegar logo o bastante!" },
+    { "gameKey": "quest/050/KinGzc003_05062#TEXT_KINGZC003_05062_LENUHALI_000_011", "hash": "A77224DC49932869", "target": "Até lá, temos que nos virar. Agradeço sua bravura!" }
   ]
 }

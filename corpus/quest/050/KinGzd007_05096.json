@@ -2,19 +2,19 @@
   "conversation": "quest/050/KinGzd007_05096",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SEQ_00", "hash": "06889A090C93C360", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_00", "hash": "D2141BEF22BEBF2F", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_01", "hash": "77CA732A4FF360B1", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_001", "hash": "1E084AB4764A0575", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_002", "hash": "D4329B839EE72215", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_003", "hash": "70154F6CB78A5B92", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_006", "hash": "3AD73263BC7FC0E8", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_007", "hash": "E9B4CA8F21AAEF1F", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SYSTEM_000_010", "hash": "CB665D54F7157BDD", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_020", "hash": "D3873068F30496AD", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_021", "hash": "A286608AB4DA0145", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_022", "hash": "545B78C96AC383BD", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_023", "hash": "F272F3AC70BF6678", "target": "" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_024", "hash": "F1409375F9A28619", "target": "" }
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SEQ_00", "hash": "06889A090C93C360", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O unnerved hunter parece assustado demais para se mexer." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_00", "hash": "D2141BEF22BEBF2F", "target": "Vigiar os locais indicados e abater as feras que aparecerem" },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_01", "hash": "77CA732A4FF360B1", "target": "Falar com o unnerved hunter" },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_001", "hash": "1E084AB4764A0575", "target": "V-Você viaja com Wuk Lamat, não é? Então deve ser forte, e é de força que preciso agora!" },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_002", "hash": "D4329B839EE72215", "target": "Estas ruínas costumam atrair feras, então mandamos patrulhas para conferir a situação de tempos em tempos. Mas, assim que cheguei aqui, elas me cercaram!" },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_003", "hash": "70154F6CB78A5B92", "target": "Consegui me defender e fugir, mas minhas armas quebraram na luta. Não tenho como terminar a ronda agora, a menos que queira virar almoço de algum monstro..." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_006", "hash": "3AD73263BC7FC0E8", "target": "Odeio fugir do dever assim, mas só me resta pedir que patrulhe a área no meu lugar. Aqueles bichos ainda podem estar por aí. Se os encontrar, acho que sabe o que fazer." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_007", "hash": "E9B4CA8F21AAEF1F", "target": "Estou indefeso sem minhas armas. Por favor, patrulhe a área no meu lugar e fique de olho nos monstros que restarem." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SYSTEM_000_010", "hash": "CB665D54F7157BDD", "target": "Você não sente nenhuma presença hostil por perto." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_020", "hash": "D3873068F30496AD", "target": "Você voltou. Ouvi os sons da batalha, mas agora parece tudo tranquilo... Obrigado." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_021", "hash": "A286608AB4DA0145", "target": "Vendo estas ruínas, é difícil imaginar que aqui havia uma aldeia cheia de vida, habitada por coletores. Eles tiravam seu sustento da natureza exuberante ao redor." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_022", "hash": "545B78C96AC383BD", "target": "Mas não eram um povo guerreiro e, conforme nosso conflito com os Mamool Ja se agravava, foram buscar segurança em outros lugares, um por um...até seu lar ser completamente abandonado." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_023", "hash": "F272F3AC70BF6678", "target": "Ilyon Asoh significa “cicatrizes que permanecem”. E este lugar é uma cicatriz que todos carregamos. Mantemos as construções antigas como lembrança do preço que a guerra cobra de todos nós, para não repetirmos os erros do passado." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_024", "hash": "F1409375F9A28619", "target": "Bom, é melhor eu avisar aos caçadores que está tudo bem. Tome, aceite esta prova da minha gratidão!" }
   ]
 }

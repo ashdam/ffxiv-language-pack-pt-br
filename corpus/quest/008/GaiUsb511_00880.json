@@ -2,18 +2,18 @@
   "conversation": "quest/008/GaiUsb511_00880",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "" },
-    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "" }
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "Dedeju precisa de sua ajuda para remendar uma humilde veste de linho." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "Dedeju, uma tecelã trabalhando na Igreja de Santo Adama Landama, recebeu a tarefa de remendar uma veste do padre Iliud. Infelizmente, há mais desgaste na roupa do que pano nas mãos dela. Afiada como agulha e firme como ponto atrás, ela manda você à Estação de Black Brush, em Central Thanalan, buscar linho usado com um mercador de confiança." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "O mercador entrega o linho e uma breve explicação sobre a curiosa arte de remendar. Leve o tecido a Dedeju e veja o que mais pode aprender. " },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "Dedeju recebe o tecido com palavras de agradecimento. Enquanto seus dedos habilidosos reconstroem a veste rapidamente, ela comenta que certa vez consertou uma roupa chamuscada que parecia pertencer ao coveiro Marques..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "Receber um pedaço de linho esfarrapado de um mercador escrupuloso na Estação de Black Brush" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "Dar o linho a Dedeju" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "Psiu! Você é quem faz milagres nas aventuras? Pode fazer uns para mim hoje. O padre pediu para eu remendar esta veste, mas olhe, a trama e a urdidura já se foram aqui e aqui. Vou precisar de mais tecido do que tenho." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "Tem um mercador na Estação de Black Brush agora que vai dar o que preciso. Depressa, vá para Central Thanalan!" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "Dedeju mandou você, foi? Estava me perguntando onde ela tinha se metido. Passei na loja dela outro dia, ia oferecer uma xícara de chá. Perdeu um dos bons, de pontas âmbar de Coerthas." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "O de sempre, imagino? O linho esfarrapado, sim, <if(gnum4,senhora,senhor)>. Mas não vá entender errado. É bem macio, então ela pode puxar os fios e refazer o tecido que está consertando. Aqui está." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "Aí está você! Trouxe o que preciso?" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "Muito obrigada! Agora vamos ver como estes dedos são ágeis. O padre disse que precisa disso logo. Vai sair para tratar de assuntos da igreja..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "Mas isto é fácil pra cacete perto da última encomenda, desculpe o linguajar! Era grande como uma casa e queimada como jantar de cozinheira relaxada. O padre Iliud trouxe, mas parecia ser daquele coveiro." }
   ]
 }

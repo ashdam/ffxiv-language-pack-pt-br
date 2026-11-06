@@ -2,18 +2,18 @@
   "conversation": "quest/014/BanSah302_01401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "" },
-    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "" }
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_00", "hash": "2D238B1FAD6CAE2E", "target": "Seww quer que você se aventure nas profundezas das áreas de desova." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_01", "hash": "21B86888779249C1", "target": "Segundo Seww, os Tridentes de Coral vêm trabalhando duro para aperfeiçoar uma versão ainda mais poderosa das suas armas de cerco feitas com moluscos. Ele pede que você aja imediatamente para proteger as comportas da força devastadora dessas criações antinaturais. Avance até o fundo das áreas de desova e destrua as reinforced whelk ballistas antes que sejam levadas à linha de frente." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_02", "hash": "5A9289742DBC167E", "target": "Você destruiu as versões mais novas e poderosas das balistas de búzios. Volte ao Berçário de Novv e informe Seww." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEQ_03", "hash": "8508BCD9F945F1C0", "target": "Após ouvir seu relato, Seww, aliviado, reitera a importância das comportas para manter separados os povos em conflito. Mas, embora você tenha frustrado os Tridentes de Coral mais uma vez, eles parecem decididos a se estrangular com a corrente de retaliação que Seww descreveu de forma tão vívida." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_00", "hash": "5EA07021689E1116", "target": "Destruir reinforced whelk ballistas" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_TODO_01", "hash": "B97492CA900EFFD3", "target": "Informar Seww" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_000", "hash": "A2787CCA37D7ECEB", "target": "Pshhh... Dizem que os Tridentes de Coral aperfeiçoaram versões mais poderosas das suas antinaturais balistas de búzios." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_001", "hash": "60EFF081B5D04AA5", "target": "Parece que se empenharam muito em criar moluscos maiores e mais robustos. Os Tridentes não querem correr rissscos no próximo ataque às comportas." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_002", "hash": "2972AC9F6154B166", "target": "Felizmente, essas armas antinaturais ainda estão sendo testadas no fundo das áreas de desova. É a nossa chance de dessstruí-las antes que sejam levadas à linha de frente!" },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_003", "hash": "8A61E72EC113DB3D", "target": "Qualquer ataque às balistas deve provocar uma reação imediata, então se prepare para se defender dos guardasss." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_004", "hash": "ED11F248F8FA26E3", "target": "Esta é a chance perfeita de destruir as armas de cerco antes que sejam usadas contra as comportas! Mas cuidado─as balistas não vão ficar sem guardasss." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_010", "hash": "8A56A17285526E1A", "target": "Pshhh! Outra vitória para nossa causa! Se as comportas caírem, nossas batalhas com os caminhantes da costa nunca terão fim." },
+    { "gameKey": "quest/014/BanSah302_01401#TEXT_BANSAH302_01401_SEWW_000_011", "hash": "FAFEAF1F7938A0E1", "target": "Nós atacamos, eles contra-atacam, e a corrente sem fim da retaliação aperta cada vez mais o pescoço de todos nós. Uma verdade sssimples, mas que meus semelhantes fanáticos parecem incapazes de entender..." }
   ]
 }

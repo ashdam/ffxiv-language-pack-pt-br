@@ -2,18 +2,18 @@
   "conversation": "quest/002/SubWil030_00222",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "" },
-    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "" }
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_00", "hash": "5EEAEDBE191EB4ED", "target": "Oswell precisa da sua ajuda para encontrar uma remessa extraviada." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_01", "hash": "BDE97C3AD6E215E9", "target": "Oswell não consegue encontrar três caixotes que devem ser enviados à Companhia Comercial do Aldenard Oriental. Procure os caixotes desaparecidos em Scorpion Crossing." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_02", "hash": "A521FC9832C92BA2", "target": "Você encontrou os três caixotes extraviados. Entregue-os a Oswell e deixe-o tranquilo." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_SEQ_03", "hash": "CB9E2EF5D4EE5065", "target": "Oswell agradece sua ajuda para encontrar os caixotes. Infelizmente, apesar dos seus esforços, o atarefado trabalhador não terá descanso tão cedo." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_00", "hash": "7DEDBE3564E5D596", "target": "Encontrar os caixotes de carga desaparecidos" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_TODO_01", "hash": "BA0D605915A40302", "target": "Entregar os caixotes a Oswell" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_001", "hash": "37DAA9D8D40BF0D3", "target": "Você tem tempo de sobra, não tem? Faça alguma coisa útil e me ajude a encontrar meus caixotes desaparecidos!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_002", "hash": "BEA3CB6D4D666986", "target": "O manifesto diz claramente que três caixotes com destino à Companhia Comercial do Aldenard Oriental vieram na última remessa da Baía das Vésperas, mas não encontro essas malditas caixas." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_003", "hash": "77AA6076A8DCBE27", "target": "Devem estar por aqui em algum lugar, mas não posso perder mais tempo procurando. Se encontrar os caixotes, traga pra mim!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_010", "hash": "B82AEAC8399301FD", "target": "Encontrou meus caixotes?" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_011", "hash": "A04FD3F8334D4115", "target": "Ótimo trabalho! Graças a você, eles vão na próxima carroça!" },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_012", "hash": "411F98E37B33D2FE", "target": "As remessas não param de chegar, dia após dia. Só de acompanhar tudo já fico com enxaqueca." },
+    { "gameKey": "quest/002/SubWil030_00222#TEXT_SUBWIL030_00222_OSWELL_013", "hash": "3BF5F352D0D8987F", "target": "Os negócios vão bem, é verdade, mas de que adianta dinheiro sem tempo pra gastar? Faz semanas que não tomo uma cerveja com os amigos!" }
   ]
 }

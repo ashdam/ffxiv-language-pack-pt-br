@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubWil072_00326",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "" },
-    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "" }
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_00", "hash": "D2AA8C489380D7EB", "target": "Zezeda precisa de alguém que consiga costelas de hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_01", "hash": "F4BED1DA0944D6CD", "target": "Os Lapidários de Eshtaime encomendaram lingotes de prata para produzir prataria cerimonial. Porém, faz tempo que Zezeda não repõe o estoque de costelas de hammer beak, necessárias para refinar o minério de prata. Ajude-a abatendo hammer beaks e coletando suas costelas." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_02", "hash": "852F8FD43818DC8C", "target": "Você obteve a quantidade solicitada de costelas. Entregue-as a Beringaer na Estação de Black Brush." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_SEQ_03", "hash": "3DA92CC3AA473296", "target": "Segundo Beringaer, usar as costelas para refinar prata é demorado e desnecessariamente caro. Os ritos funerários devem ser mesmo lucrativos para que o Ossuário de Arrzaneth aceite pagar por esse método." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_00", "hash": "D59F8BCE1ACD45F6", "target": "Abater hammer beaks e obter suas costelas" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_TODO_01", "hash": "3852755BF5882459", "target": "Entregar as costelas de hammer beak a Beringaer" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_1", "hash": "F9E7CE4BEFF821C1", "target": "Quer ajudar aqui na estação? Então, que tal caçar alguns hammer beaks?" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_2", "hash": "101B1F71F0DF6202", "target": "Acabamos de receber uma encomenda de lingotes de prata dos Lapidários de Eshtaime. Pelo que me disseram, precisam deles para fazer prataria cerimonial." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_3", "hash": "3F767BBEF067C9DE", "target": "Porém, recebemos instruções para refinar o minério derretendo-o em um forno revestido com uma camada de cinzas de ossos. Como normalmente não fundimos prata assim, faz tempo que não reponho nosso estoque de costelas de hammer beak." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_ZEZEDA_000_4", "hash": "A5F3B07C283D523E", "target": "Infelizmente, não há tempo para encomendar mais. Se você abatesse alguns desses bichos e levasse os ossos a Beringaer por mim, eu ficaria eternamente grata." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_10", "hash": "337CF020F9B0C98B", "target": "Eu avisei, eu avisei! O que aquela tampinha incompetente está fazendo, pelos infernos!? Por mais raras que sejam encomendas assim, devíamos sempre ter costelas de hammer beak à mão!" },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_11", "hash": "FC0EFCF8FB1C00CA", "target": "Que eu seja amaldiçoado... Parece que a garota deu um jeito, afinal. Obrigado pela ajuda." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_12", "hash": "1CEC69DB68F94EB1", "target": "Também não entendo muito bem, mas os sujeitos mandaram fazer do jeito antigo, mesmo podendo usar fragmentos pra refinar a prata mais rápido e mais barato." },
+    { "gameKey": "quest/003/SubWil072_00326#TEXT_SUBWIL072_00326_BERINGAER_000_13", "hash": "E56337C4C97F3DE4", "target": "Bom, os Gil não são meus, então, se é assim que querem... Só mostra que a Guilda dos Taumaturgos tem mais dinheiro do que sabe gastar. Pelos deuses, o que eu não daria pra ter esse tipo de problema!" }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "quest/026/StmBdy404_02613",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_000", "hash": "D9A4168D1F2E97C8", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_100_000", "hash": "BC65F0B66DA74B72", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_001", "hash": "C7D1A124E65E26CD", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_010", "hash": "BCB29CE4DAB9C2AB", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_011", "hash": "6958A0E4901AB786", "target": "" },
-    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_012", "hash": "527CFBFFA7CB4123", "target": "" }
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_000", "hash": "D9A4168D1F2E97C8", "target": "Ah, <if(gnum4,aventureira,aventureiro)>, você chegou na melhor hora! Fico feliz em informar que os preparativos para restaurar a barreira estão prontos. E, com nossa eficiência de costume, estabelecemos um acampamento praticamente à porta da sede dos Estudantes!" },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_100_000", "hash": "BC65F0B66DA74B72", "target": "Agora, seguindo a tradição, a região onde está o acampamento recebeu um nome: Hydatos, por sua natureza aquática. Queiram os deuses que seja o último canto da ilha que a expedição precise enfrentar." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_001", "hash": "C7D1A124E65E26CD", "target": "Mas, sem mais demora, me avise quando quiser ir. A Senhora Krile está muito ansiosa para retomar os trabalhos com sua ajuda!" },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_010", "hash": "BCB29CE4DAB9C2AB", "target": "Você já tem acesso a The Forbidden Land, Eureka Hydatos. Como Anemos, Pagos e Pyros, Hydatos pode ser explorada individualmente ou em grupos de até oito jogadores." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_011", "hash": "6958A0E4901AB786", "target": "Para começar sua jornada a Hydatos, fale com Rodney no Pier #1, em Kugane." },
+    { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_SYSTEM_000_012", "hash": "527CFBFFA7CB4123", "target": "Todas as expedições a <sheet(ContentFinderCondition,lnum2,43)> têm sincronização de nível de item. Equipamentos acima do nível de item <sheet(ContentFinderCondition,lnum1,20)> serão ajustados." }
   ]
 }

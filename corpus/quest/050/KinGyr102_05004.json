@@ -2,13 +2,13 @@
   "conversation": "quest/050/KinGyr102_05004",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_000", "hash": "A0765AD7FA947B65", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_001", "hash": "9DB8380168BD287F", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_002", "hash": "75781FB7CC56DA3B", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_003", "hash": "F386BC749913996B", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_004", "hash": "0B86E9EDF1919C3D", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_005", "hash": "0F1D6FA6B1A831A7", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_006", "hash": "8D4D685F17D3712C", "target": "" },
-    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_007", "hash": "D8EBB4201CF87464", "target": "" }
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_000", "hash": "A0765AD7FA947B65", "target": "Ora, é você, <split(<string(gstr1)>, ,1)>!? Fico felicíssimo que o destino tenha arranjado este encontro, embora não me surpreenda. Quando ouvi falar de sua jornada com Wuk Lamat, senti que era só questão de tempo até nossos caminhos se cruzarem." },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_001", "hash": "9DB8380168BD287F", "target": "O que faço em Tural, você pergunta? Ora, vim buscar histórias incomuns e fantásticas para tecer canções e narrar contos que encantarão plateias pelo mundo inteiro." },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_002", "hash": "75781FB7CC56DA3B", "target": "E esta terra se mostrou um tesouro de contos populares e lendas sem igual do outro lado do mar. Guardei cada um na memória, e minha cabeça está cheia de novos versos..." },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_003", "hash": "F386BC749913996B", "target": "Mas, apesar de todos os mitos novos no meu repertório, ainda anseio por relatos de aventuras recentes. Relatos de pessoas ainda vivas, de preferência contados por quem os vivenciou!" },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_004", "hash": "0B86E9EDF1919C3D", "target": "...E <italic(1)>você<italic(0)> é justamente <if(gnum4,essa mulher,esse homem)>! Conte tudo o que aconteceu desde que pôs os pés em Tural, e transformarei sua história em canção." },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_005", "hash": "0F1D6FA6B1A831A7", "target": "Cada prova que enfrentou durante o rito de sucessão, cada instante de arrepiar na investida contra a cúpula envolta em raios... imploro que não poupe nenhum detalhe." },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_006", "hash": "8D4D685F17D3712C", "target": "Suas palavras darão textura às minhas melodias e substância às minhas letras! Ah, sinto que minha obra mais memorável está por vir!" },
+    { "gameKey": "quest/050/KinGyr102_05004#TEXT_KINGYR102_05004_WANDERINGMINSTREL_000_007", "hash": "D8EBB4201CF87464", "target": "É claro que entendo se não tiver tempo agora. Ficarei aqui mais um pouco, polindo minha prosa até que brilhe como um espelho. Venha quando tiver uma história para compartilhar, e ouvirei com toda a atenção." }
   ]
 }

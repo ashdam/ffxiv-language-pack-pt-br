@@ -2,17 +2,17 @@
   "conversation": "quest/027/StmBdz523_02774",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_SEQ_00", "hash": "0FC7EB858BA39262", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_TODO_00", "hash": "EEB83B7B4E98A974", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_TODO_01", "hash": "4181BF8F32D27313", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_000", "hash": "9A830BE04DB48421", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_001", "hash": "D1859B8F14807EE9", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_002", "hash": "44CD4771195B5FB6", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_003", "hash": "4A6F07DFDF70FF13", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_004", "hash": "8AF315C5CDD98BBA", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_010", "hash": "937FC038AEB1E512", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_011", "hash": "13F40C9D597BF83C", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_012", "hash": "EFFDAB392CEB28F4", "target": "" },
-    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_013", "hash": "289FF212845CFEC1", "target": "" }
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_SEQ_00", "hash": "0FC7EB858BA39262", "target": "Abaka olha para você com um brilho de incredulidade nos olhos." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_TODO_00", "hash": "EEB83B7B4E98A974", "target": "Derrotar khun chuluu" },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_TODO_01", "hash": "4181BF8F32D27313", "target": "Falar com Abaka" },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_000", "hash": "9A830BE04DB48421", "target": "Ei, você! Pare aí. Você é <if(gnum4,a mulher,o homem)> que dizem ter vencido Bardam's Mettle, não é?" },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_001", "hash": "D1859B8F14807EE9", "target": "Me custa acreditar que <italic(1)>você<italic(0)>, alguém de fora, tenha passado pela prova que até guerreiros treinados da Estepe lutam para superar. Se é tudo isso que dizem, não deve ter dificuldade para passar pelo meu pequeno teste." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_002", "hash": "44CD4771195B5FB6", "target": "Há khun chuluu a noroeste. Derrote quatro, e talvez esses boatos tenham um fundo de verdade. Mas, se falhar, saberei que você não passa de <if(gnum4,uma farsante,um farsante)>." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_003", "hash": "4A6F07DFDF70FF13", "target": "Derrotar quatro khun chuluu é brincadeira de criança para um filho de Azim. Se você tiver metade da força que me disseram, não terá problemas." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_004", "hash": "8AF315C5CDD98BBA", "target": "Ha! Já voltou com o rabo entre as pernas? Eu sabia que você não era <if(gnum4,a guerreira,o guerreiro)> que diziam." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_010", "hash": "937FC038AEB1E512", "target": "Você aceitou o desafio e enfrentou quatro monstros mortais, mesmo sabendo que ninguém estaria lá para dar os parabéns pela vitória. Isso é ser <if(gnum4,uma guerreira,um guerreiro)> no sentido mais verdadeiro da palavra." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_011", "hash": "13F40C9D597BF83C", "target": "Quer saber como eu sei? Eu observei você do céu, montado no meu yol." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_012", "hash": "EFFDAB392CEB28F4", "target": "...Parece que devo desculpas a você. Eu não deveria ter duvidado das suas habilidades." },
+    { "gameKey": "quest/027/StmBdz523_02774#TEXT_STMBDZ523_02774_ABAKA_000_013", "hash": "289FF212845CFEC1", "target": "Ao provar sua força, você conquistou meu respeito. Farei questão de contar aos outros histórias da sua habilidade em combate." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "quest/001/SubWil015_00163",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "" },
-    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "" }
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_00", "hash": "772EDAFEF999AE99", "target": "O comerciante Jajakuta está visivelmente perturbado e precisa de ajuda." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_01", "hash": "8BD0CCDDB0581515", "target": "Jajakuta recebeu uma encomenda de várias luvas e peitorais da Guilda dos Pugilistas, mas não tem os materiais necessários para fabricá-los. Vá a Central Thanalan e abata snapping shrews para obter as peles de que ele precisa." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_02", "hash": "BC930B2C2E7F4590", "target": "Você reuniu as cinco peles de musaranho que Jajakuta pediu. Entregue-as a ele do lado de fora da Guilda dos Pugilistas." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_SEQ_03", "hash": "3084C150F917B20D", "target": "Agora que entregou as peles, você pode dormir em paz sabendo que aqueles pobres musaranhos viverão para sempre nos instrumentos de guerra que suas peles estão destinadas a se tornar." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_00", "hash": "653EB4FD931D8F2F", "target": "Obter peles de musaranho de snapping shrews em Central Thanalan" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_TODO_01", "hash": "785611DE44E94EA9", "target": "Apresentar-se a Jajakuta fora da Guilda dos Pugilistas" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_000", "hash": "B50DC2AE9A704A20", "target": "Diga, o que traz você aqui, hein? Procurando trabalho, talvez? Um servicinho para dar mais peso a essa bolsa de moedas, hm?" },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_001", "hash": "40397B3A16E98511", "target": "Pois você deu sorte! Os pugilistas acabaram de encomendar várias das luvas e dos peitorais de couro que usam nos treinos." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_002", "hash": "45C56C6EEF05AC71", "target": "Mas os Mercadores são cruéis: faltam as peles necessárias. Ah, se eu tivesse algumas peles de snapping shrews..." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_003", "hash": "AD80098B76AF07B8", "target": "O que me diz, hein? Que tal ajudar um comerciante sem sorte? Traga cinco peles de snapping shrews e prometo que vai valer a pena. Você encontra essas criaturas por Central Thanalan." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_013", "hash": "0CC450868A18F1A2", "target": "Já voltou? Vamos ver o que trouxe." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_010", "hash": "8F36FBBCFEFBB706", "target": "Excepcional! São mesmo ótimas peles de musaranho! Excelente trabalho." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_011", "hash": "9E6A0D86D2739003", "target": "A Guilda dos Pugilistas é um dos meus maiores clientes. Nem quero pensar no que teria acontecido se essa encomenda atrasasse mais." },
+    { "gameKey": "quest/001/SubWil015_00163#TEXT_SUBWIL015_00163_JAJAKUTA_012", "hash": "1A054F1A58C03E18", "target": "Tome, hm? Você fez mais do que merecer." }
   ]
 }

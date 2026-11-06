@@ -2,19 +2,19 @@
   "conversation": "quest/051/KinGzd103_05102",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_SEQ_00", "hash": "2526D86E0DC0BFF1", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_00", "hash": "6019FCD99CE267BB", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_01", "hash": "4B394805DA1ECAD3", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_02", "hash": "08C50813CDD7CE92", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_000", "hash": "470C661C24D6176F", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_001", "hash": "90640D5BA2FB714E", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_002", "hash": "D6B9B753A3FDDFEF", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_003", "hash": "F40530BEC24F8631", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_004", "hash": "FCFC361DEE5B2B24", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_005", "hash": "D33DD39C2A9BA334", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_006", "hash": "944FAFB22A654C06", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_007", "hash": "576A92E916F00BC8", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_008", "hash": "50EC4B062D37E4E1", "target": "" },
-    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_009", "hash": "5F4CC3A8747AA60C", "target": "" }
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_SEQ_00", "hash": "2526D86E0DC0BFF1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Este homem dedica uma atenção especial a uma estátua." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_00", "hash": "6019FCD99CE267BB", "target": "Colher tufos de folha de Hoobigo" },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_01", "hash": "4B394805DA1ECAD3", "target": "Colher tufos de sarça de Boonewa" },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_TODO_02", "hash": "08C50813CDD7CE92", "target": "Entregar a folha de Hoobigo e a sarça de Boonewa a Goteel Ja" },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_000", "hash": "470C661C24D6176F", "target": "Ei, você, de fora. Já está em Mamook há algum tempo, mas já prestou as devidas homenagens?" },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_001", "hash": "90640D5BA2FB714E", "target": "Os espíritos dos nossos maiores guerreiros habitam as estátuas guardiãs espalhadas pela cidade. Se não demonstrar sua boa vontade, podem considerar você uma ameaça ao povo." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_002", "hash": "D6B9B753A3FDDFEF", "target": "É bom fazer uma oferenda antes que isso aconteça. Vá me trazer um pouco da folha de Hoobigo e da sarça de Boonewa que crescem aqui perto." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_003", "hash": "F40530BEC24F8631", "target": "Vou até marcar no seu mapa onde encontrá-las. É mais fácil vê-las onde a luz brilha mais forte. Nem alguém de fora como você teria como errar." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_004", "hash": "FCFC361DEE5B2B24", "target": "Preciso mesmo explicar de novo? Vá buscar folha de Hoobigo e sarça de Boonewa no lugar que marquei no seu mapa. Até quem é de fora deve ser capaz disso..." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_005", "hash": "D33DD39C2A9BA334", "target": "E então? Encontrou as plantas certas?" },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_006", "hash": "944FAFB22A654C06", "target": "Ótimo. Com isto, fazemos oferendas de incenso às respectivas estátuas de Hoobigo e Boonewa." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_007", "hash": "576A92E916F00BC8", "target": "Houve um tempo em que oferecíamos comida, mas a escassez da guerra levou muitos a arriscar a ira dos guardiões por mais um bocado. Alguns dos mais devotos chegaram a envenenar as oferendas para punir os ladrões." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_008", "hash": "50EC4B062D37E4E1", "target": "Claro, isso só fez germinar as sementes da desconfiança entre nosso povo, até que o Autarca da época decretou que, dali em diante, só se oferecesse fumaça." },
+    { "gameKey": "quest/051/KinGzd103_05102#TEXT_KINGZD103_05102_GOTEELJA_000_009", "hash": "5F4CC3A8747AA60C", "target": "...Subestimei você. Em troca do seu esforço, vou garantir pessoalmente que seu incenso queime nos pedestais de nossos heróis e que seu nome seja lembrado por sua amizade com Mamook." }
   ]
 }

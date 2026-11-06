@@ -2,16 +2,16 @@
   "conversation": "quest/039/LucKsa105_03945",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SEQ_00", "hash": "A16262DAF6E00E0A", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_100_000", "hash": "4674C234DD8AEDC1", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_000", "hash": "DDAA2E0275E175CA", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_001", "hash": "E54084CA95E41E7E", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_002", "hash": "0F4190F5E48C296E", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_020", "hash": "92CA6D2AEBFB0F21", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_021", "hash": "9CFFEEA0F06E933F", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_022", "hash": "854642038186891F", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_030", "hash": "B1D70EA6E7984CB4", "target": "" },
-    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_031", "hash": "B30D9CBD176867C1", "target": "" }
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SEQ_00", "hash": "A16262DAF6E00E0A", "target": "Dmitar tem notícias animadoras da frente sul." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_TODO_00", "hash": "9D6700202B208677", "target": "Falar com Dmitar" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_100_000", "hash": "4674C234DD8AEDC1", "target": "É necessário alcançar o Resistance rank <num(lnum1)> para prosseguir com esta missão." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_000", "hash": "DDAA2E0275E175CA", "target": "Lâmina <split(<string(gstr1)>, ,2)>! Recebemos notícias do campo de batalha: as forças do Império recuaram!" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_001", "hash": "E54084CA95E41E7E", "target": "Nossas tropas avançaram o suficiente para tomar um acampamento inimigo perto do Southern Entrenchment." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_002", "hash": "0F4190F5E48C296E", "target": "Meu comandante me instruiu a mostrar o local assim que você puder ir. Vou esperar por você lá." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_020", "hash": "92CA6D2AEBFB0F21", "target": "Boas-vindas a Olana's Stand. Se quiser viajar entre aqui e Utya's Aegis, pode usar aquele fragmento de eterita ali. Sugiro se sintonizar com ele antes de partir." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_021", "hash": "9CFFEEA0F06E933F", "target": "E mais uma coisa: embora tenhamos avançado bastante na luta contra o Império, ainda há muito a fazer antes de retomarmos Castrum Lacus Litore." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_DMITAR_000_022", "hash": "854642038186891F", "target": "Acredito que o inimigo só ficará mais determinado conforme avançamos, mas precisamos seguir em frente. Por Bozja!" },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_030", "hash": "B1D70EA6E7984CB4", "target": "A linha de frente da Resistência avançou, permitindo sua participação em novas escaramuças e confrontos críticos." },
+    { "gameKey": "quest/039/LucKsa105_03945#TEXT_LUCKSA105_03945_SYSTEM_000_031", "hash": "B30D9CBD176867C1", "target": "Você pode aceitar a próxima missão falando com Mikoto após alcançar o Resistance rank <num(lnum1)> ou superior." }
   ]
 }
