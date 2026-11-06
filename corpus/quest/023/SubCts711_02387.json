@@ -2,13 +2,13 @@
   "conversation": "quest/023/SubCts711_02387",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "" },
-    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "" }
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_000", "hash": "6B7CDCAA501E0E18", "target": "Que bom ver você, <if(gnum4,aventureira,aventureiro)>. Graças à sua dedicação, ampliamos nossas missões de reconhecimento nas ruínas. Infelizmente, ainda não achamos pistas de quem, ou do que, está causando nossos problemas." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_001", "hash": "9E767A4ECE7B347E", "target": "Você disse que a morta-viva falou de uma figura de manto, certo? Talvez seja o feiticeiro maligno que criou o palácio e seus habitantes." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_002", "hash": "75CB6CF91304F65A", "target": "Criar um labirinto desses e ainda enchê-lo com as almas de tantos inocentes... Estamos enfrentando um inimigo de poder sombrio e terrível." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_003", "hash": "11D68133E360CDF1", "target": "Lamento lhe impor esse fardo, mas, em nome dos Lamentadores da Mata, peço que encontre e elimine quem está por trás de tudo isso. Não consigo pensar em ninguém mais capaz para a tarefa." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_004", "hash": "4138D2277B1E26F6", "target": "Meus homens não têm força para acompanhar você nas ruínas, mas faremos tudo ao nosso alcance para ajudar daqui do Moinho da Pedreira. Vá e expulse o mal do Palace of the Dead, antes que os mortos encontrem uma saída para a Mata dos Doze." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_010", "hash": "4B5D4004A2B88141", "target": "Você já pode explorar além do andar 50 do Palace of the Dead." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_WOODWAILERCAPTAIN01556_000_100", "hash": "5D3E472FB4232D1D", "target": "Você fez um ótimo trabalho examinando as ruínas tão a fundo, mas o caminho adiante é ainda mais traiçoeiro. Antes de prosseguir, quero ter certeza de que está à altura dos desafios que virão." },
+    { "gameKey": "quest/023/SubCts711_02387#TEXT_SUBCTS711_02387_SYSTEM_000_110", "hash": "4F5E0DEDF68A9BB5", "target": "Para prosseguir nesta missão, primeiro você precisa cumprir os seguintes requisitos:" }
   ]
 }

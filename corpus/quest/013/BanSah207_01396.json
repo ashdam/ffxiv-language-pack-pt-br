@@ -2,16 +2,16 @@
   "conversation": "quest/013/BanSah207_01396",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "" },
-    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "" }
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_00", "hash": "1FAC3DEEBED7B068", "target": "Houu sabe pesar males menores contra benefícios maiores e quer descobrir onde você entra nessa equação." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_01", "hash": "FC890536AD5486B1", "target": "Houu pede que você derrote Worr the Whalefin, um estratego a serviço dos Tridentes de Coral. Vença o FATE “Tail of a Whale” em Sapsa Spawning Grounds para obter o coral band de Worr e entregue-o a Houu como prova do seu feito." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_SEQ_02", "hash": "F272003ECCD33C82", "target": "Houu recebe o coral band e fica muito impressionado com suas habilidades de combate. Ao que parece, você causou uma impressão igualmente forte nos outros Sahagin. Esperemos que eles já não atendam tão prontamente aos apelos dos Tridentes por uma guerra aberta contra os caminhantes da costa..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_TODO_00", "hash": "0507E51F6F6EFF05", "target": "Entregar a Houu o coral band obtido no FATE “Tail of a Whale”" },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_000", "hash": "D82B8DDD187D309E", "target": "Pshhh... Já ouviu falar dos estrategos de Sapsa Spawning Grounds? São líderes entre os guerreiros Sahagin e têm grande influência." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_001", "hash": "C8B8DFCCFFCF7936", "target": "Infelizmente, o Diabo Marinho Escarlate vem atiçando o orgulho deles com promessas de vitória fácil. Os Tridentes de Coral são sutis e traiçoeiros. Se nada for feito, sua agressividade logo levará a uma guerra total contra vocês, caminhantes da costa..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_002", "hash": "E128593045C93F23", "target": "Os estrategos precisam ver que os caminhantes da costa são inimigos hábeis e perigosos. Você vai enfrentar o mais arrogante deles. Seu nome é Worr the Whalefin, e ele deve morrer hoje. Pshhh..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_003", "hash": "DAB3FBE293AE93DE", "target": "Worr tem um coral band, que recebeu ao jurar aliança aos Tridentes de Coral. Traga essa bugiganga como prova de que morreu de forma tão vergonhosssa quanto viveu. Pshhh..." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_010", "hash": "F453FB9C4E7D792F", "target": "Pshhh... Mate Worr the Whalefin e tome dele o coral band dos Tridentes." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_011", "hash": "52118FEDCBBD2A1F", "target": "Pshhh... O coral band de Worr, por tudo que é índigo! O pai da ninhada sempre escolhe bem... Mal imaginava que alguém da costa derrotaria o Barbatana de Baleia." },
+    { "gameKey": "quest/013/BanSah207_01396#TEXT_BANSAH207_01396_HOUU_000_012", "hash": "8CC49A609E0EDEE6", "target": "Um estratego lidera mentes e lanças. A derrota de Worr nas mãos de alguém da costa é uma lição que vai se essspalhar por Sapsa Spawning Grounds. Pshhh..." }
   ]
 }

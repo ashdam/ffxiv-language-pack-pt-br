@@ -2,16 +2,16 @@
   "conversation": "quest/005/SubWil099_00531",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_00", "hash": "AB79F6CB75CF8875", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_01", "hash": "0B565334B8D7D139", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_02", "hash": "3F4DD5C2A7017A38", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_TODO_00", "hash": "6C8D1FC249A607DE", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_000", "hash": "B002767D03C1A3B2", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_001", "hash": "B754062FA769F364", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_002", "hash": "ACAAD4343381F7E3", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_010", "hash": "D08BBC5CDC0E20B6", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_011", "hash": "C555D7571A201BC2", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_012", "hash": "83419B7DBB7CEFA7", "target": "" },
-    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_013", "hash": "4C6925C4D460B9F4", "target": "" }
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_00", "hash": "AB79F6CB75CF8875", "target": "Hamund procura alguém para fazer uma entrega." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_01", "hash": "0B565334B8D7D139", "target": "Parece que a Estação de Black Brush procura mineradores para trabalho temporário. Leve a candidatura de Hamund a Beringaer em Black Brush." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_SEQ_02", "hash": "3F4DD5C2A7017A38", "target": "Beringaer incluiu Hamund na lista, mas o trabalho promete ser exaustivo e mal pago. Será que os refugiados de Thanalan estão destinados à exploração e ao descarte?" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_TODO_00", "hash": "6C8D1FC249A607DE", "target": "Entregar a candidatura de Hamund a Beringaer na Estação de Black Brush" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_000", "hash": "B002767D03C1A3B2", "target": "Será que você faria um favor para um minerador sem sorte?" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_001", "hash": "B754062FA769F364", "target": "Ouvi dizer que um tal de Beringaer, na Estação de Black Brush, está contratando mineradores. Eu iria falar com ele, mas minha esposa adoeceu e precisa de cuidados." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_HAMUND_002", "hash": "ACAAD4343381F7E3", "target": "Se puder levar minha candidatura a esse Beringaer, vou ficar devendo essa." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_010", "hash": "D08BBC5CDC0E20B6", "target": "Diga o que quer, depressa. Estou ocupado." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_011", "hash": "C555D7571A201BC2", "target": "Outro minerador procurando trabalho, é? Vamos ver... Parece estar tudo em ordem. Muito bem, vou incluir o nome dele na lista." },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_012", "hash": "83419B7DBB7CEFA7", "target": "Esses refugiados são uma dádiva dos Doze. Se matam de trabalhar por quase nada. E, quando não aguentam mais, sempre tem outro para tomar o lugar!" },
+    { "gameKey": "quest/005/SubWil099_00531#TEXT_SUBWIL099_00531_BERINGAER_013", "hash": "4C6925C4D460B9F4", "target": "Os pobres tolos cavam pedrinhas que valem mais do que vão ganhar na vida inteira. Eorzea às vezes é cruel mesmo, mas eu não vou mexer no que funciona." }
   ]
 }

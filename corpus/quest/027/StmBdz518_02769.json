@@ -2,16 +2,16 @@
   "conversation": "quest/027/StmBdz518_02769",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_003", "hash": "47D81111ABE7D058", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_010", "hash": "A5C3864438711A23", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_011", "hash": "58BD973C1354C384", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_012", "hash": "09CB8F8176431F1C", "target": "" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_013", "hash": "7B5132DCB291C82E", "target": "" }
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "Caur precisa da ajuda de <if(gnum4,uma mulher forte,um homem forte)>." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Obter um pilar da tenda em ruínas" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Entregar o pilar da tenda a Caur" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "Posso pedir sua ajuda para consertar nossa tenda?" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "O pilar central que a sustenta vem enfraquecendo nos últimos meses, e tenho medo de que não aguente por muito mais tempo." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "Mas outro dia vi um pilar em perfeito estado um pouco ao sul daqui. Você vai encontrá-lo entre os restos de uma tenda dos Kahkol que os Buduga destruíram." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_003", "hash": "47D81111ABE7D058", "target": "Há outro pilar um pouco ao sul daqui. Você vai encontrá-lo entre os restos de uma tenda dos Kahkol que os Buduga destruíram." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_010", "hash": "A5C3864438711A23", "target": "Conseguiu encontrar o pilar?" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_011", "hash": "58BD973C1354C384", "target": "Ah, obrigada! Este deve durar muitos anos ainda." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_012", "hash": "09CB8F8176431F1C", "target": "Nunca falta lã para fazer a cobertura das tendas, mas encontrar troncos resistentes para servir de pilares não é tão simples." },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_013", "hash": "7B5132DCB291C82E", "target": "Você nos prestou um grande serviço. Obrigada." }
   ]
 }

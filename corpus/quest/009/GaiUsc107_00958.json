@@ -2,16 +2,16 @@
   "conversation": "quest/009/GaiUsc107_00958",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "" },
-    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "" }
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_00", "hash": "40A4ED1B6712D3D4", "target": "Alguém que vive de um lugar para outro como você certamente encontrará negócios em comum com um sujeito chamado Floating Stone. Basta falar com o minerador." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_01", "hash": "B5BD2F056F63B53A", "target": "A região das Cataratas Borgonha abriga uma espécie peculiar de coblyn chamada quartz doblyn, encontrada apenas em certas partes de Thanalan. Floating Stone pede que você mate cinco dessas criaturas raras com o único intuito de obter quartzo transparente." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_02", "hash": "FD972916A8003172", "target": "Você tem quartzo transparente suficiente para saciar a sede de Floating Stone por cristais. Volte às Cataratas Borgonha e entregue o material ao minerador roegadyn." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_SEQ_03", "hash": "51592654CDFE64CB", "target": "Floating Stone não parece muito abalado com a Calamidade, uma mudança agradável em relação a quase todas as outras pessoas que falam do assunto. As colinas continuam sendo uma loja de doces, e ele, uma criança gulosa com uma picareta..." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_00", "hash": "76505868D0FC1664", "target": "Abater quartz doblyns e obter quartzo transparente" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_TODO_01", "hash": "337FD43CCC87D379", "target": "Entregar o quartzo transparente a Floating Stone" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_000", "hash": "FB79BCBE1CD64AFF", "target": "Conhece os quartz doblyns? Não esperava que conhecesse. Só existem nas partes mais perigosas de Thanalan. São um tipo de coblyn, só que meio... mais crocante." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_001", "hash": "41A87209A3FB67DA", "target": "Ah, sim, eles comem cristais, sabe? E por aqui têm um banquete de rei. Isso faz crescer quartzo puro e transparente no corpo deles. Será que você consegue um pouco pra mim?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_010", "hash": "0CC27A54300F31F5", "target": "A caça foi boa? Conseguiu algum quartzo transparente?" },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_020", "hash": "52D1B2F362C55A3E", "target": "Era isso mesmo que eu queria! Transparente como mijo de deus, sem querer ofender, e com um som de sino." },
+    { "gameKey": "quest/009/GaiUsc107_00958#TEXT_GAIUSC107_00958_FLOATINGSTONE_000_021", "hash": "B0B1B441AEA0BE1C", "target": "A Calamidade mudou muita coisa por aqui, isso é verdade, mas o lugar continua cheio de tesouros. Um minerador não podia pedir mais!" }
   ]
 }

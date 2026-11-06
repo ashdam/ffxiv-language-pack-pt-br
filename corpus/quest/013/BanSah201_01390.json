@@ -2,17 +2,17 @@
   "conversation": "quest/013/BanSah201_01390",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_00", "hash": "2145614F3D82F1B2", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_01", "hash": "950CCA2D265E79FB", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_02", "hash": "FDD8CBAC2B59C290", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_03", "hash": "690FEEF5B4A54AA7", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_00", "hash": "480173F87F2D9829", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_01", "hash": "03D13B474231C7F3", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_000", "hash": "AA3DC63002CF88B2", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_001", "hash": "8427CB1087D0A15D", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_002", "hash": "A74B744B357339FA", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_010", "hash": "AB3D21414CE14F81", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_020", "hash": "F018FCE0DA5356A0", "target": "" },
-    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_021", "hash": "8A73DE28DEC422F5", "target": "" }
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_00", "hash": "2145614F3D82F1B2", "target": "Houu recebeu notícias preocupantes e quer a ajuda de um caminhante da costa para acalmar as águas." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_01", "hash": "950CCA2D265E79FB", "target": "A guerra exige mãos que curem, e os Tridentes de Coral acrescentaram mais feiticeiros às suas fileiras. Houu pede que você elimine pelo menos três deles, atrapalhando assim os planos belicosos dos Tridentes." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_02", "hash": "FDD8CBAC2B59C290", "target": "Abandonar a prática da medicina é uma experiência dolorosa, e você se alegra por os curandeiros não estarem vivos para pensar nisso. O pacato Houu certamente compartilhará seu alívio quando você voltar ao Berçário de Novv e relatar tudo." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_SEQ_03", "hash": "690FEEF5B4A54AA7", "target": "Houu parece feliz ao saber da partida dos três feiticeiros, embora nunca seja fácil ter certeza com um Sahagin. Sem curandeiros para tratar seus feridos, os Tridentes de Coral certamente terão menos vontade de atacar no futuro próximo, mais uma trégua para o povo de Novv." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_00", "hash": "480173F87F2D9829", "target": "Matar shoaltooth Sahagin" },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_TODO_01", "hash": "03D13B474231C7F3", "target": "Informar Houu" },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_000", "hash": "AA3DC63002CF88B2", "target": "Pshhh... Meus olhos e ouvidos entre as ondas dizem que os Tridentes de Coral trouxeram feiticeiros do Indigo Deep." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_001", "hash": "8427CB1087D0A15D", "target": "Com curandeiros tão poderosos nas suas fileiras, certamente lançarão um ataque ainda maior. Não podemos permitir isso... nem eu, nem meus irmãos de ninhada, e muito menos o pai." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_002", "hash": "A74B744B357339FA", "target": "Caminhante da costa, você precisa convencer esses feiticeiros a partir. Pshhh... Não entendo por que não querem ficar mais perto de casa." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_010", "hash": "AB3D21414CE14F81", "target": "Pshhh... Entre nas águas de Sapsa Spawning Grounds e mande embora os novos curandeiros dos Tridentes de Coral. Nunca deviam ter saído do Indigo Deep..." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_020", "hash": "F018FCE0DA5356A0", "target": "As ondas trouxeram notícias do seu sucesso. Somos gratos. Como você se vira no mar sem... sem nada, está além da minha compreensão. Pshhh..." },
+    { "gameKey": "quest/013/BanSah201_01390#TEXT_BANSAH201_01390_HOUU_000_021", "hash": "8A73DE28DEC422F5", "target": "Sem a ajuda dos feiticeiros, os Tridentes de Coral não ousam atacar com força. As águas ficarão mais agradáveis para o pai da ninhada." }
   ]
 }

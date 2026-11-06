@@ -2,15 +2,15 @@
   "conversation": "quest/040/LucKta513_04046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_001", "hash": "8507F8678430C3C6", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_002", "hash": "41F0A5EC3CF9022F", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_003", "hash": "2923B40C56241254", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_004", "hash": "20C5914D24423C7F", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_005", "hash": "C75336A17A89A137", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_006", "hash": "CA5A3EF76E07B507", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_007", "hash": "E11E17A4400C251A", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_008", "hash": "8EE38D5F953A7718", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_SYSTEM_000_030", "hash": "1C5BC28A17DFD01A", "target": "" },
-    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_SYSTEM_000_031", "hash": "13E2A9027487D56D", "target": "" }
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_001", "hash": "8507F8678430C3C6", "target": "Lali-você-já-deve-ter-adivinhado-ho, mas chegou mais um dispositivo de registro de Konogg. Tome." },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_002", "hash": "41F0A5EC3CF9022F", "target": "Pelo que vejo, ele manda em intervalos regulares. O que será que o rapaz está fazendo?" },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_003", "hash": "2923B40C56241254", "target": "Hmpf, eu poderia perguntar o mesmo a vocês. Que plano traiçoeiro estão tramando?" },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_004", "hash": "20C5914D24423C7F", "target": "Bom, seja o que for, não vão conseguir! Esta aldeia é minha, e não vou deixar que façam o que bem entendem com ela!" },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_GLAGG_000_005", "hash": "C75336A17A89A137", "target": "...Hum? Por que eu disse isso? Por que fiquei com tanta raiva? E-Esqueçam o que eu disse..." },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_006", "hash": "CA5A3EF76E07B507", "target": "Como vê, Glagg continua agindo de um jeito estranho." },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_007", "hash": "E11E17A4400C251A", "target": "Quando tentei falar com ele mais cedo, quase me mandou à merda. À primeira vista, parece que não gostou do que fiz na reunião, mas isso está estranho <italic(1)>demais<italic(0)>..." },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_DWARFMASTER03671_000_008", "hash": "8EE38D5F953A7718", "target": "De qualquer forma, esse problema é meu. Você só se concentre em fazer sua parte pela causa, hein?" },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_SYSTEM_000_030", "hash": "1C5BC28A17DFD01A", "target": "Você recebe uma mensagem de Konogg." },
+    { "gameKey": "quest/040/LucKta513_04046#TEXT_LUCKTA513_04046_SYSTEM_000_031", "hash": "13E2A9027487D56D", "target": "A mensagem pode ser vista no <colortype(500)><edgecolortype(501)>Portable Archive<edgecolortype(0)><colortype(0)>, disponível em Collection, na seção Duty do menu principal." }
   ]
 }

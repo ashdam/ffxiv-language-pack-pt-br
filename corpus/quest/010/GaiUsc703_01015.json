@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc703_01015",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_00", "hash": "192B29E15B6E0157", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_01", "hash": "A28E2C924E3AB3D8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_02", "hash": "3EBFAE68BEC115ED", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_TODO_00", "hash": "91185D0B9F803371", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_000", "hash": "A1A1B26BFCF9C4EE", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_001", "hash": "2F59822170893970", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_002", "hash": "A1D842E2DAB9178B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_003", "hash": "90269FB4AB566CF5", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_004", "hash": "4C3DEE4BBC7AB17B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_005", "hash": "0379EB258709F7A8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_010", "hash": "401738A403337511", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_011", "hash": "C7728A60374B7E34", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_012", "hash": "B0AD84E5DA597630", "target": "" },
-    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_013", "hash": "9308629AB953C4C2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_00", "hash": "192B29E15B6E0157", "target": "Slafswys tem um plano que requer ajuda de aventureiros." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_01", "hash": "A28E2C924E3AB3D8", "target": "Slafswys pretende realizar um ataque preventivo contra os Kobold e recrutar os piratas de Limsa para a causa. Leve sua mensagem ao comandante Bloeidin no Camp Overlook." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SEQ_02", "hash": "3EBFAE68BEC115ED", "target": "O comandante Bloeidin expressa sua admiração pela coragem e engenhosidade de Slafswys e parece disposto a ajudar na operação." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_TODO_00", "hash": "91185D0B9F803371", "target": "Falar com Bloeidin no Camp Overlook" },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_000", "hash": "A1A1B26BFCF9C4EE", "target": "Leia as correntezas e os ventos e se prepare pra tempestade que vem aí... Foi isso que aprendi quando navegava como Jaqueta Amarela." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_001", "hash": "2F59822170893970", "target": "A sabedoria dos mares me serviu muito bem em terra também. As tribos bestiais são uma tempestade se formando, e nem os Herdeiros nem as cidades<-->Estado podem se dar ao luxo de serem pegos de surpresa." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_002", "hash": "A1D842E2DAB9178B", "target": "Não, temos que atacar primeiro e cortar o mal pela raiz. Eu começaria pelos Kobold. Acho que andam se achando grandes demais pro próprio tamanho." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_003", "hash": "90269FB4AB566CF5", "target": "Outra coisa que aprendi nos Jaquetas Amarelas é que o navio só é firme se a tripulação for. Antes de enfrentar os Kobold, quero reunir novos aliados." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_004", "hash": "4C3DEE4BBC7AB17B", "target": "No Camp Overlook, você vai encontrar uma tripulação de piratas que abandonou os saques e agora navega sob a bandeira do Maelstrom." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_SLAFSWYS_000_005", "hash": "0379EB258709F7A8", "target": "Quero trazê-los a bordo pra combater a ameaça dos Kobold, mas acho que um pedido sincero vindo de você seria mais convincente. Poderia ir ao Camp Overlook e falar com o comandante Bloeidin no meu lugar? Você nos faria um grande favor." },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_010", "hash": "401738A403337511", "target": "<if(gnum4,Aventureira,Aventureiro)>, hein? Com uma mensagem de Slafswys, é isso?" },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_011", "hash": "C7728A60374B7E34", "target": "Hein? Um ataque preventivo pra tirar o vento das velas dos Kobold antes que eles preparem um ataque?" },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_012", "hash": "B0AD84E5DA597630", "target": "E ela quer recrutar velhos bucaneiros como <italic(1)>nós<italic(0)> pra tarefa? Quando até a Almirante Merlwyb tem as mãos cheias com essas malditas feras? Ora, essa é a ideia mais cheia de craca que já ouvi... ou a mais genial, pelos diabos!" },
+    { "gameKey": "quest/010/GaiUsc703_01015#TEXT_GAIUSC703_01015_BLOEIDIN_000_013", "hash": "9308629AB953C4C2", "target": "Gahaha! Confesso que tive minhas dúvidas quando soube que ela ia deixar os Jaquetas Amarelas, mas vejo que aquela mulher continua uma loba do mar de primeira. Sim, isso vai ser interessante." }
   ]
 }

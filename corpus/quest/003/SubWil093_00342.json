@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil093_00342",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_00", "hash": "0A8A1FEF9C974EDF", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_01", "hash": "0967A1D35DC23E50", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_02", "hash": "0990FA4F5C05ED3C", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_03", "hash": "D5F9ED5502F08EF3", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_00", "hash": "709B83DE8408C192", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_01", "hash": "B7961991EC6DF85D", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_000", "hash": "1468F8B4E06B1BD1", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_001", "hash": "311D00AD70CCFC25", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_002", "hash": "73103A2D8FA516AD", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_003", "hash": "27A6A5940BBD4745", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_010", "hash": "41E26BC08D74E9B5", "target": "" },
-    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_011", "hash": "F4A9F30F1C481E9A", "target": "" }
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_00", "hash": "0A8A1FEF9C974EDF", "target": "Osment, em Crescent Cove, está irritado com o lixo espalhado pela área." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_01", "hash": "0967A1D35DC23E50", "target": "Um comerciante de Limsa Lominsa deixou lixo espalhado pelas docas. Limpe o lugar para ajudar o aflito Osment." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_02", "hash": "0990FA4F5C05ED3C", "target": "Você terminou de recolher o lixo espalhado pelas docas. Fale com Osment mais uma vez." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_SEQ_03", "hash": "D5F9ED5502F08EF3", "target": "Embora a limpeza tenha sido restabelecida, Osment já lamenta o próximo preguiçoso lominsano que aparecerá em suas docas." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_00", "hash": "709B83DE8408C192", "target": "Recolher o lixo nas docas" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_TODO_01", "hash": "B7961991EC6DF85D", "target": "Falar com Osment" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_000", "hash": "1468F8B4E06B1BD1", "target": "Ugggh, que maldita dor de cabeça. Quem esses lominsanos pensam que são, afinal?" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_001", "hash": "311D00AD70CCFC25", "target": "Olha só pra isso. Um comerciante de Limsa Lominsa largou essa porcaria quando partiu. Disse que não dava pra vender, então simplesmente foi embora e deixou tudo!" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_002", "hash": "73103A2D8FA516AD", "target": "Bárbaros! O que chamam de bons modos do outro lado do Estreito de Merlthor?" },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_003", "hash": "27A6A5940BBD4745", "target": "Será que posso pedir pra você limpar o resto pra mim, hein? Por favor? Já recolhi tanta porcaria que só de olhar me dá ânsia." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_010", "hash": "41E26BC08D74E9B5", "target": "Obrigado. Ver este lugar limpo de novo faz bem pro meu espírito." },
+    { "gameKey": "quest/003/SubWil093_00342#TEXT_SUBWIL093_00342_OSMENT_011", "hash": "F4A9F30F1C481E9A", "target": "Mas acho que logo outro comerciante lominsano vai passar por aqui e deixar mais sujeira. \\<suspiro> Odeio minha vida." }
   ]
 }

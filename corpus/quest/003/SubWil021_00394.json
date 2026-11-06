@@ -2,16 +2,16 @@
   "conversation": "quest/003/SubWil021_00394",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "" },
-    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "" }
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_00", "hash": "A58A7C1D080EF9E6", "target": "Alewyn precisa de alguém para ajudá-lo a testar um novo remédio revolucionário." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_01", "hash": "7296DCC28685EA18", "target": "Alewyn acabou de desenvolver o que afirma ser um novo remédio revolucionário, capaz de tratar todo tipo de enfermidade. Porém, ainda não testou sua eficácia e pede que você ofereça o tônico a Landebert, um líder entre os refugiados de Ala Mhigo que vivem na Viela da Pérola." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_SEQ_02", "hash": "BEBCB05DD013581C", "target": "Landebert conhece bem os verdadeiros motivos de Alewyn. Mas, apesar do perigo de recorrer a misturas alquímicas não testadas, os refugiados não têm escolha a não ser aceitar a suposta boa vontade dele." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_TODO_00", "hash": "DB3A467A7902D01D", "target": "Oferecer o tônico de Alewyn a Landebert" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_1", "hash": "76800D2597057424", "target": "Sim, sim... <italic(1)>Sim<italic(0)>! Finalmente, meu trabalho está concluído!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_2", "hash": "7EFC274E67DD00FE", "target": "Pode anotar: esta fórmula vai revolucionar a alquimia como a conhecemos! Com apenas um gole deste tônico, até as febres mais intensas serão extintas na hora!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_3", "hash": "CD233FFA2A32536A", "target": "Mas preciso testá-lo! Enquanto produzo mais, peço que você leve este lote à Viela da Pérola, para um homem chamado Landebert. Os outros refugiados confiam nele." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_ALEWYN_000_4", "hash": "23E1A1714EBCBDB3", "target": "Convença esse Landebert a aceitar meu tônico e distribuí-lo ao seu povo. Não exijo nada em troca. Afinal, se ele realmente funcionar, será uma grande contribuição para o avanço das artes alquímicas... e, hum, da humanidade em geral!" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_10", "hash": "922D96639BD64E6D", "target": "Hein? Remédio pros doentes?" },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_11", "hash": "228492F4FEB3691F", "target": "Há! Não somos idiotas, <if(gnum4,moça,rapaz)>. Sabemos muito bem o que aquele desgraçado do Alewyn está tramando." },
+    { "gameKey": "quest/003/SubWil021_00394#TEXT_SUBWIL021_00394_LANDEBERT_000_12", "hash": "4BD04C397F71AE00", "target": "...Mas vamos aceitar o remédio mesmo assim. Olhe pra nós: quem pede não escolhe. Pra ele pode ser só uma experiência, mas pra nós é questão de vida ou morte. Se temos que escolher entre a gororoba desse desgraçado e nada, dá pra chamar isso de escolha?" }
   ]
 }

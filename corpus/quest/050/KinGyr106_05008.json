@@ -2,13 +2,13 @@
   "conversation": "quest/050/KinGyr106_05008",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "" },
-    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "" }
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_000", "hash": "CB3EAA5DDDCE338F", "target": "Ora, ora, o que temos aqui? Achei que conhecesse todos os profissionais de destaque que passam por Solution Nine. Veio assinar um contrato, imagino?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_001", "hash": "EC44C5BD03064C51", "target": "Não precisa se preocupar com os detalhes, o acordo é maravilhosamente simples. Você me fornece produtos, e eu pago por eles com scrips. Alguém com sua experiência certamente reconhece uma oferta lucrativa quando a ouve." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_002", "hash": "6F8E9F8CA0EFF913", "target": "Na verdade, foram os turalis que me apresentaram as muitas conveniências do comércio com scrips. Um sistema trazido a eles por uma comerciante chamada Rowena. Mas isso não vem ao caso." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_003", "hash": "228A18FD905190AB", "target": "Você receberá um bom pagamento pelas contribuições, em scrips, é claro, e poderá usar o que ganhar para comprar qualquer mercadoria nossa que lhe agrade. Então, o que me diz?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_004", "hash": "41E4AA0168CFBA9C", "target": "Esplêndido! Simplesmente esplêndido. E, para não se preocupar, não haverá cotas. Basta fazer entregas quando a inspiração vier!" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_006", "hash": "70F0A72BF3144F73", "target": "A uma parceria belíssima e lucrativa! Estou ansiosa para fazer negócios com você." },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_RHODINA_000_007", "hash": "2B3277573BCA72F9", "target": "\\<suspiro> O que eu não daria por <if(gnum4,uma profissional competente,um profissional competente)>. Como vou vender toda esta mercadoria agora?" },
+    { "gameKey": "quest/050/KinGyr106_05008#TEXT_KINGYR106_05008_SYSTEM_000_008", "hash": "62A15AB3BED7C7BE", "target": "Para iniciar esta missão, você precisa ser Disciple of the Hand ou Disciple of the Land de nível 90 ou superior." }
   ]
 }

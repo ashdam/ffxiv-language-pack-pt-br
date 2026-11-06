@@ -2,15 +2,15 @@
   "conversation": "quest/046/AktKua102_04644",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "" },
-    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "" }
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "Após uma explicação breve e aparentemente relutante sobre os santuários insulares, Baldin ofereceu seus serviços. Fale com ele quando quiser visitar a ilha de um aliado." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "Ahoy, <if(gnum4,moça,rapaz)>. Quer visitar um daqueles santuários insulares, imagino?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_002", "hash": "CEF0969322B20C5F", "target": "Caramba, não sabe de toda a agitação em torno desse negócio?" },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_003", "hash": "FB2A6F65337B7FAA", "target": "\\<suspiro> Se seguir para sudeste daqui, da ilha de Vylbrand, quero dizer, vai chegar a Cieldalaes. Aventureiros como você receberam o direito de desenvolver algumas das ilhas desertas de lá." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_004", "hash": "3535BBA200B27079", "target": "Mas não crie muita esperança. Não é qualquer um que consegue uma autorização para um desses santuários. Pelo que sei, o projeto todo ainda está começando, e a Almirante é exigente pra caramba com os candidatos." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_005", "hash": "51CEF60916862181", "target": "Quer saber? Como gostei de você, levo você em segurança à ilha de qualquer amigo seu. É só pedir." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_010", "hash": "B4FDC7D935857F09", "target": "Agora você pode visitar o santuário insular de um membro do grupo, da Free Company ou de um amigo que tenha desbloqueado o recurso. Para isso, fale com Baldin nas Moraby Drydocks." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_011", "hash": "D0469D9D47F6C7BE", "target": "Não será possível visitar um santuário insular se seu responsável tiver proibido o acesso, se não houver ninguém na ilha ou se ela já tiver atingido a lotação máxima." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_100_012", "hash": "CD30F950C78DAA35", "target": "Além disso, você precisa estar no Home World da pessoa cuja ilha deseja visitar." },
+    { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SYSTEM_000_010", "hash": "320E5EDE9D8D82B6", "target": "Para desbloquear seu santuário insular pessoal, primeiro conclua a missão do cenário principal “Endwalker” e avance na missão “Seeking Sanctuary”." }
   ]
 }

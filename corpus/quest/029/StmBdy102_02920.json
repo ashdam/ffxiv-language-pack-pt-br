@@ -2,18 +2,18 @@
   "conversation": "quest/029/StmBdy102_02920",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "" },
-    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "" }
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_000", "hash": "BBF73346DCCEEB78", "target": "Hum? Isso é um caderno de exploração, se não me engano. Por acaso conhece uma mulher chamada Millith?" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_001", "hash": "B3AC92DD06C5F2A7", "target": "Ha, que coincidência! Millith é minha sobrinha, caso se pergunte, e me contou muito sobre você nas cartas." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_002", "hash": "BF76FEEB88261644", "target": "Ah, mas onde estão meus modos? Ulger Ironheart, ao seu dispor. Sou explorador, como quase todo o clã, e minha sobrinha pediu que compartilhasse meus conhecimentos com você. Aqui, me empreste seu caderno." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_003", "hash": "FED41C215C4D3219", "target": "Vamos ver... Aqui, com certeza... e aqui... e aqui... e <italic(1)>aqui<italic(0)>! Sim, deve bastar." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_004", "hash": "B6B1458489FAAE3C", "target": "Minhas explorações me levaram a toda parte, mas guardo um carinho especial pelas regiões de Ala Mhigo, belas em sua rusticidade, e pelas terras do Extremo Oriente, gloriosas em sua diversidade." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_005", "hash": "07D4B89E28444AA6", "target": "Há muitas paisagens maravilhosas nesses lugares, e anotei como chegar a elas. Algumas serão mais difíceis de alcançar, mas, se você tiver metade da engenhosidade que Millith diz, tenho certeza de que encontrará todas." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_006", "hash": "58F8F945A73D3BE7", "target": "Com isso, deixo você retomar suas aventuras. Vá em frente e contemple paisagens de tirar o fôlego que nem meu pai, o grande Roddard Ironheart, conseguiu ver em vida!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_007", "hash": "62F98FEEB187F029", "target": "Entradas de Stormblood foram adicionadas ao Sightseeing Log!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_008", "hash": "F536444BE9BBE288", "target": "Você precisa estar no nível 60 ou superior para registrar paisagens de Stormblood. Vá ao local indicado e cumpra as condições necessárias para concluir a entrada e ganhar pontos de experiência." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_100_008", "hash": "9869D52CD26FBB73", "target": "Os locais recém-adicionados ao Sightseeing Log serão marcados por uma esfera de luz. Se encontrar uma dessas esferas em suas aventuras, pare um instante para registrar a entrada." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_009", "hash": "B7891C22F6685A76", "target": "Use sua perspicácia e as notas de Ulger para identificar essas paisagens deslumbrantes e o modo certo de apreciá-las. Veja Ala Mhigo e o Extremo Oriente como só os maiores exploradores viram!" },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_ULGERIRONHEART_000_020", "hash": "D09B2691063FEE63", "target": "Como explorador, devo informar que as terras adiante estão repletas de perigos. Se pretende se aventurar por elas, é melhor ter como se defender." },
+    { "gameKey": "quest/029/StmBdy102_02920#TEXT_STMBDY102_02920_SYSTEM_000_021", "hash": "AAFAFEBAEF7D7DBF", "target": "Para iniciar esta missão, você precisa ter pelo menos uma classe ou job no nível 60 ou superior." }
   ]
 }

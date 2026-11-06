@@ -2,10 +2,10 @@
   "conversation": "quest/038/LucKha011_03841",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "" },
-    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "" }
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_000", "hash": "16014969AB8FF4C1", "target": "Está pronto, <split(<string(gstr1)>, ,1)>! New Nest! Não ficou uma beleza?" },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_001", "hash": "EC1EFF5D0F0FB16A", "target": "Estamos avançando mais rápido do que eu ousava esperar, e é graças a gente boa como você." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_002", "hash": "CF67E497136625E7", "target": "Como sabe, a área será um bairro residencial para os ishgardeses, com prioridade para quem perdeu a casa na guerra." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_003", "hash": "57671BEFE1932FA2", "target": "Esse sempre foi o principal objetivo de Francel: garantir que nenhum cidadão passe frio ou fome." },
+    { "gameKey": "quest/038/LucKha011_03841#TEXT_LUCKHA011_03841_AUGEBERT_000_004", "hash": "266E553C7418E085", "target": "É claro que ainda vamos precisar de suprimentos. Então continue trazendo, hein?" }
   ]
 }

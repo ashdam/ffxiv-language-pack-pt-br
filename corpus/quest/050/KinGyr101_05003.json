@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGyr101_05003",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "" },
-    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "" }
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "Com licença, <if(gnum4,moça,senhor)>, por acaso trabalha com ofícios? Suas mãos são de quem tem uma carreira longa e cheia de histórias. Peço que as empreste ao bom povo de Tural." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "Aqui recebemos pedidos de ajuda em nome da Ala da Reflexão. Sejam de cidadãos comuns ou de outros artesãos, usamos todas as ferramentas de trabalho ao nosso alcance para atender às necessidades de Tural." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_002", "hash": "5F2A701B09EF1A94", "target": "Desde sua fundação, inúmeras tribos se reuniram aqui em Tuliyollal, e o comércio floresceu com o passar dos anos. Mas, como é de esperar de um povo tão diverso, as práticas comerciais também variavam muito de uma tribo para outra." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_003", "hash": "CE4E88C416F0750A", "target": "Embora ainda haja dificuldades comerciais a superar, muitos problemas foram resolvidos quando o Servidor da Aurora estabeleceu o sistema de wingleves." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_004", "hash": "9BA2C98A7B858116", "target": "Atuamos como intermediários entre quem precisa de ajuda e os profissionais com as habilidades necessárias para atender a esses pedidos na forma de leves." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_005", "hash": "2F5424D2DC60279A", "target": "Você conhece as leves? Como veio de além-mar, imagino que sim." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_006", "hash": "9EF23993252C476D", "target": "A Cabeça da Razão adotou o sistema a partir das guildleves usadas em Eorzea." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_007", "hash": "C11DE1F6BC25BD79", "target": "As placas das leves retratam a jornada do Servidor da Aurora para fundar esta nação e as lições que aprendeu com seus companheiros pelo caminho. Um lembrete de que só juntos podemos fazer Tuliyollal prosperar." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_008", "hash": "C00B378407BD2695", "target": "É claro que esse sentimento de solidariedade também se estende aos aliados vindos do exterior, como você. Ou seja, seria uma honra contar com sua ajuda." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_009", "hash": "282C54AF9C319B1C", "target": "Agora você pode aceitar wingleves falando com Malihali." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_010", "hash": "8CCE8E25D71D9D74", "target": "Como vamos dar conta de todos estes pedidos? \\<suspiro> Precisamos de alguém com experiência em ofícios." },
+    { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_SYSTEM_000_011", "hash": "FA1ADB85F5E60727", "target": "Para iniciar esta missão, você precisa ser Disciple of the Hand ou Disciple of the Land de nível 90 ou superior." }
   ]
 }

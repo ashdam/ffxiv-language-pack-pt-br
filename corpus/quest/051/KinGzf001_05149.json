@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGzf001_05149",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "" },
-    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "" }
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_SEQ_00", "hash": "4318527A4F3A4FAE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Uaauashe tem um borrifador reservado para você." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_00", "hash": "2344120CDD71E895", "target": "Borrifar o inseticida extraforte nos locais indicados" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_TODO_01", "hash": "AD20B66CF12A0CA9", "target": "Falar com Uaauashe" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_000", "hash": "D0E1BFBE88BEB53B", "target": "Ei, eu conheço você! Visitou as plantações com Sua Majestade, não foi? Que tal colocar um pouco a mão na massa?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_001", "hash": "C53DDE9D06CECB05", "target": "Fui designada como profissional de limpeza, e uma das minhas tarefas é a aplicação periódica de inseticida." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_002", "hash": "3478B9B75691621E", "target": "Veja, marquei no seu mapa algumas áreas que precisam de tratamento. Pegue este inseticida extraforte e borrife bastante em cada uma. Me avise quando terminar, está bem?" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_003", "hash": "4AE0CACCD4B2FCD4", "target": "Cada uma dessas áreas precisa ser bem borrifada para afastar os bichinhos. Me avise quando terminar!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_005", "hash": "A046FE51BBB0939A", "target": "Você voltou! Obrigada por cuidar disso. Vai levar um bom tempo até precisarmos nos preocupar com oglops de novo!" },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_006", "hash": "049BE5617CA6D640", "target": "Como profissionais de limpeza, cuidamos da higienização, da coleta de lixo, da reciclagem, até da manutenção dos terrenos, tudo para manter nossas casas livres de bactérias." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_007", "hash": "8BBF57B280A520BC", "target": "E, ao contrário de Everkeep, que é inteiramente artificial, temos <italic(1)>muitos<italic(0)> insetos aqui nos arredores. Pode acreditar, eles tomam conta se a gente deixar." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_008", "hash": "99DB2723C1AD7314", "target": "Os oglops são os piores. Eles transmitem doenças com os germes que carregam, então precisam ser exterminados. O problema é que são geneticamente preparados para resistir até aos ambientes mais hostis, o que dificulta muito matá-los." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_009", "hash": "026263AEAAD24E97", "target": "Pessoalmente, até acho eles bonitinhos, mas, como profissionais de limpeza, temos um trabalho a fazer." },
+    { "gameKey": "quest/051/KinGzf001_05149#TEXT_KINGZF001_05149_UAAUASHE_000_010", "hash": "3B7BFDDFFF0EFD57", "target": "Nunca vamos conseguir erradicá-los completamente, de tanto que se reproduzem. Mas, graças ao seu esforço, temos mais algumas luas até precisarmos nos preocupar de novo. Aqui, pelo bom trabalho." }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "quest/014/BanSah310_01409",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "" },
-    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "" }
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_00", "hash": "AA75303BB1CFD932", "target": "Seww quer que você elimine uma perigosa ameaça à paz das áreas de desova." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_01", "hash": "03D7ADBED3FD583C", "target": "Segundo Seww, uma notória capitã dos Saqueadores da Serpente chamada Aermswys the Stained vem tramando com os líderes dos Tridentes de Coral. O jovem Sahagin teme que ficar de braços cruzados enquanto põem seus planos nefastos em prática seja atrair a ruína para seu povo. Participe do FATE “Watch Your Tongue” na Língua da Serpente e apresente a Seww uma prova do seu feito." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEQ_02", "hash": "4C77790E032EAE37", "target": "Você venceu a terrível capitã e entregou seu coral necklace a Seww. O filho de Novv confirma a autenticidade do adorno e elogia a grandeza do seu feito. Mas, embora você tenha frustrado os planos dos Tridentes de Coral, nada os impedirá de recorrer aos vis serviços do próximo capitão que surgir entre os Saqueadores da Serpente..." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_TODO_00", "hash": "8F955B8358C22E1C", "target": "Entregar a Seww o coral necklace obtido no FATE “Watch Your Tongue”" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_000", "hash": "1AAC9670F0804E07", "target": "Pshhh... Uma notória capitã dos Saqueadores da Serpente chamada Aermswys the Stained foi vista em reunião com os líderes dos Tridentes de Coral." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_001", "hash": "D5B63501724645DF", "target": "Não sabemos que planos perversos estão tramando, mas nada que envolva aquela bruta sem barbatanas pode trazer boas novas à paz das áreas de desova." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_002", "hash": "F52B80D2B000AACB", "target": "Não acho sensato ficar de lado esperando os acontecimentos. Se a morte de uma pirata desprezível poupar meu povo de uma tragédia futura, que assim ssseja!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_003", "hash": "95BCEC1AE73DD11E", "target": "Pshhh... A capitã costuma se trancar nos seus aposentos, mas talvez você a encontre andando pela Língua da Serpente. Mate essa mulher perigosa, <split(<string(gstr1)>, ,1)>, e traga o coral necklace que simboliza sua lealdade aos Tridentes de Coral." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_010", "hash": "BE07EC2D6F8E20F1", "target": "Aermswys the Stained é uma das lacaias mais vis dos Tridentes. Traga seu coral necklace para sabermos que essa terrível caminhante da costa não existe maisss!" },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_011", "hash": "8BAD0BB5FC9E8BAE", "target": "Sim, essa bugiganga prova que a pirata que você derrotou era mesmo a capitã. Os Saqueadores terão pouco tempo para maldades enquanto disputam sua sucesssão." },
+    { "gameKey": "quest/014/BanSah310_01409#TEXT_BANSAH310_01409_SEWW_000_012", "hash": "BF3DBA4947DA6D11", "target": "Pshhh... Não entendo por que os Tridentes se associam a essa escória. Parece que nosso pai da ninhada tem muito mais bom gosto ao escolher seus aliados da costa!" }
   ]
 }

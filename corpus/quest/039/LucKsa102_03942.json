@@ -2,16 +2,16 @@
   "conversation": "quest/039/LucKsa102_03942",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_000", "hash": "DD8A13DC733A5586", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_002", "hash": "D633FA496201E07A", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_003", "hash": "A3EADD6219B43B4E", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_004", "hash": "0E68E9F73C9C9AA8", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_005", "hash": "A469320A286FD9ED", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_006", "hash": "7CAF0DDF1FCBCDDA", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_100_030", "hash": "69756E1BD44F20A9", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_030", "hash": "F8C5F3A07C16F812", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_031", "hash": "DEEF77CA3094BC3C", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_032", "hash": "42118449B58401E3", "target": "" },
-    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_050", "hash": "800BEEAE0207124A", "target": "" }
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_000", "hash": "DD8A13DC733A5586", "target": "Lâmina <split(<string(gstr1)>, ,2)>. Um momento, por favor. Sou historiadora de guerra da Resistência Bozjana, e Marsak disse que você pode ajudar no meu trabalho." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_002", "hash": "D633FA496201E07A", "target": "Não preciso explicar como as atrocidades da guerra desgastam um soldado. Por isso, é cada vez mais difícil encontrar alguém são de corpo e mente que consiga relatar com precisão suas experiências no campo de batalha." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_003", "hash": "A3EADD6219B43B4E", "target": "Para alguém com sua experiência em combate, imagino que registrar os inimigos enfrentados seja uma tarefa bem simples." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_004", "hash": "0E68E9F73C9C9AA8", "target": "Não que eu espere um registro detalhado de <italic(1)>cada<italic(0)> interação sua. Mas, se trocar golpes com alguma figura notável, gostaria de saber." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_005", "hash": "A469320A286FD9ED", "target": "Todas as informações da batalha por Bozja serão reunidas nos meus registros de campo. Aqui, use isto para anotar qualquer encontro memorável no campo de batalha." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_006", "hash": "7CAF0DDF1FCBCDDA", "target": "Entendo o peso dessa tarefa, por isso vou garantir pessoalmente que você receba a devida recompensa pelos seus esforços." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_100_030", "hash": "69756E1BD44F20A9", "target": "O <colortype(500)><edgecolortype(501)>Field Record<edgecolortype(0)><colortype(0)> já está disponível em Collection, na seção Duty do menu principal." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_030", "hash": "F8C5F3A07C16F812", "target": "Ao concluir certas missões, escaramuças e confrontos críticos na Bozjan Southern Front, você obterá um maço de notas." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_031", "hash": "DEEF77CA3094BC3C", "target": "Essas notas podem ser usadas para adicionar entradas ao Field Record." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_SYSTEM_000_032", "hash": "42118449B58401E3", "target": "Notas não utilizadas podem ser trocadas por diversas recompensas ao falar com a Resistance historian." },
+    { "gameKey": "quest/039/LucKsa102_03942#TEXT_LUCKSA102_03942_RESISTANCERECORDER_000_050", "hash": "800BEEAE0207124A", "target": "Um último conselho, se me permite. Não há como saber o que você enfrentará na frente sul, mas Dmitar, ali, talvez possa ajudar a encontrar batalhas relevantes para nossos registros de campo." }
   ]
 }

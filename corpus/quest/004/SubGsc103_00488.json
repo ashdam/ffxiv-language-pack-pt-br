@@ -2,19 +2,19 @@
   "conversation": "quest/004/SubGsc103_00488",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_000", "hash": "52D9C8AE1BDFB33D", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_Q1_000_000", "hash": "FAB5986F35509136", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_001", "hash": "F9B995970FCC0F01", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_031", "hash": "54208FF01C88ECAA", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_032", "hash": "8236C8513A65A17A", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_033", "hash": "FC030C1FC2311F34", "target": "" },
-    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_034", "hash": "C2F68A158D5EFED0", "target": "" }
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_000", "hash": "52D9C8AE1BDFB33D", "target": "Boas-vindas, ilustre viajante! Que tal testar sua sorte com um bilhete de Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_Q1_000_000", "hash": "FAB5986F35509136", "target": "Experimentar o Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_001", "hash": "F9B995970FCC0F01", "target": "Sim" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "Não" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "Muito bem, <if(gnum4,senhorita,senhor)>. Mas lembre-se: com o Mini Cactpot, basta uma raspadinha para chegar à prosperidade!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "Esplêndido, <if(gnum4,senhorita,senhor)>! Agora, permita-me explicar: Mini Cactpot é um jogo de sorte do qual você pode participar três vezes por dia." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "Jogar é muito simples: basta adivinhar o valor dos números cobertos para ganhar muito. Se a graça de Nymeia estiver com você, a recompensa será uma fartura de pontos do Manderville Gold Saucer!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "Então, <if(gnum4,senhorita,senhor)>... sente que a sorte está com você?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "Agora você pode comprar bilhetes de Mini Cactpot." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "Agora você pode comprar até três bilhetes de Mini Cactpot por dia." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_031", "hash": "54208FF01C88ECAA", "target": "O contador de bilhetes de Mini Cactpot é reiniciado diariamente às <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (horário da Terra)." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_032", "hash": "8236C8513A65A17A", "target": "Cada bilhete de Mini Cactpot tem nove espaços dispostos em uma grade de três por três. Cada espaço recebe aleatoriamente um número de um a nove. Ao comprar um bilhete, um único número será revelado." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_033", "hash": "FC030C1FC2311F34", "target": "Para jogar, descubra outros três números. Com base nessas informações, tente adivinhar a soma de cada linha." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_034", "hash": "C2F68A158D5EFED0", "target": "Por fim, selecione uma única linha. A quantia de MGP recebida dependerá da soma total da linha escolhida." }
   ]
 }

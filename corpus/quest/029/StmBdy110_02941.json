@@ -2,11 +2,11 @@
   "conversation": "quest/029/StmBdy110_02941",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "" },
-    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "" }
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_000", "hash": "61225796BE869C32", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Sou Galiena e trabalho na Casa dos Esplendores para minha tia Rowena." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_001", "hash": "43323A8971842238", "target": "Depois de expandir os negócios com sucesso para Idyllshire e as três cidades-estado, ela decidiu trazer suas atividades para Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_002", "hash": "2116BA51AF6E0CF2", "target": "Nossa presença ajuda na recuperação, criando empregos para refugiados e estimulando a economia. Com suas habilidades, você nos seria de grande ajuda." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_003", "hash": "A3D55FEC3CBF64C7", "target": "E, claro, se tiver colecionáveis, terei prazer em recebê-los em troca de scrips. Com filiais por toda parte, nunca foi tão fácil fazer negócios com a Casa dos Esplendores!" },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_GALIENA_000_010", "hash": "E604053EC2D8D345", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Se conhecer bons artesãos ou coletores, ficaria grata se nos apresentasse." },
+    { "gameKey": "quest/029/StmBdy110_02941#TEXT_STMBDY110_02941_SYSTEM_000_011", "hash": "A7597B43C265672B", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Hand ou aos Disciples of the Land e estar no nível 60 ou superior." }
   ]
 }

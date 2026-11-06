@@ -6,7 +6,7 @@
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_SEQ_01", "hash": "FFD63978D470B597", "target": "O cavaleiro dragão encarregado do reconhecimento da região nordeste perdeu dois eterômetros inestimáveis, ferramentas essenciais para medir os níveis de éter de Churning Mists. Ele pede sua ajuda para procurar os instrumentos, para que os esforços de reconhecimento da região não tenham sido em vão." },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_SEQ_02", "hash": "5B13EF3C39851C05", "target": "Depois de enfrentar ataques de blood dragons e um clima rigoroso, você consegue encontrar os dois eterômetros perdidos. Leve-os de volta ao cavaleiro dragão do grupo de reconhecimento para saber o que fazer com eles em seguida." },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_SEQ_03", "hash": "BFD4DCC0DE18AAAC", "target": "O cavaleiro dragão do grupo de reconhecimento agradece sua ajuda, aliviado por as medições continuarem intactas. Ele pede que você entregue os aparelhos a Maenne para que possa ficar e continuar suas tarefas." },
-    { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_SEQ_04", "hash": "E369F73D32E8A935", "target": "Maenne fica impressionada com as medições de éter indicadas nos eterômetros e vai enviá-las à Congregation para ajudar na pesquisa sobre Churning Mists." },
+    { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_SEQ_04", "hash": "E369F73D32E8A935", "target": "Maenne fica impressionada com as medições de éter indicadas nos eterômetros e vai enviá-las à Congregação para ajudar na pesquisa sobre Churning Mists." },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_TODO_00", "hash": "54BB67E53DE79A45", "target": "Obter eterômetros" },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_TODO_01", "hash": "AD90DB0DC4B471C7", "target": "Apresentar-se ao northeastern scouting party dragoon" },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_TODO_02", "hash": "1AE029E195F4A39F", "target": "Entregar os eterômetros a Maenne" },
@@ -22,6 +22,6 @@
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_MAENNE_000_030", "hash": "250225EB7C888A7B", "target": "Então, como estão os batedores a nordeste? Imagino que, com sua ajuda, não tenha havido contratempos." },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_MAENNE_000_031", "hash": "C5FAAEFCF123C1DC", "target": "Ah, as medições dos eterômetros já foram concluídas? Vejamos..." },
     { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_MAENNE_000_032", "hash": "2CD51A9A7133C025", "target": "Que os deuses sejam bondosos. O relatório de Sor Estinien mencionou Aery, mas não esperávamos que a energia etérea fosse <italic(1)>tão<italic(0)> poderosa." },
-    { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_MAENNE_000_033", "hash": "822988802A66A7BD", "target": "Se enviarmos isto à Congregation, devem conseguir extrair ainda mais informações na análise. Muito obrigada, <split(<string(gstr1)>, ,1)>!" }
+    { "gameKey": "quest/018/HeaVnz614_01882#TEXT_HEAVNZ614_01882_MAENNE_000_033", "hash": "822988802A66A7BD", "target": "Se enviarmos isto à Congregação, devem conseguir extrair ainda mais informações na análise. Muito obrigada, <split(<string(gstr1)>, ,1)>!" }
   ]
 }

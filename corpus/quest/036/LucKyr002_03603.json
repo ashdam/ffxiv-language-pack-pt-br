@@ -2,14 +2,14 @@
   "conversation": "quest/036/LucKyr002_03603",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "" },
-    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "" }
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_001", "hash": "7885EAE9D6228CBD", "target": "Você é <string(gstr1)>, cuja reputação tanto admiro, certo? Permita que eu me apresente. Sou Mowen, fundadora e presidente da Casa dos Esplendores." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_002", "hash": "1123AAB1D64B429B", "target": "Mestre Alphinaud falou muito bem de você e do seu talento artístico incomparável. Muito bem mesmo..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_003", "hash": "47068406C067BCBC", "target": "Perdoe minha ousadia, mas seria uma honra ter você no nosso cadastro de fornecedores de colecionáveis. Como recompensa, podemos oferecer uma grande variedade de mercadorias que certamente serão do seu agrado." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_004", "hash": "2E82E1BD8900DE53", "target": "Para esclarecer, não é uma recompensa direta. Adotamos um sistema que você certamente conhece, e sobre o qual só fiquei sabendo há pouco por Mestre Alphinaud." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_005", "hash": "62A2A0FD59211E8B", "target": "A cada entrega, você receberá scrips como pagamento. Essa moeda exclusiva só pode ser usada na Casa dos Esplendores. Talvez pareça limitante, mas nossos equipamentos e materiais compensam qualquer inconveniência." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_006", "hash": "78F03FFFE49C1509", "target": "A mulher que criou esse método era brilhante, não acha? Uma verdadeira visionária, capaz de unir pessoas de todas as origens e transformar o mundo com sua compaixão e generosidade sem limites..." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_007", "hash": "C019E44901144970", "target": "Ah, devo mencionar que uma parcela insignificante do valor de todos os colecionáveis processados será retida para cobrir despesas gerais e outros custos operacionais. Certamente não preciso explicar por que isso é necessário." },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_MOWEN_000_008", "hash": "1661F55ECF4994E6", "target": "A Casa dos Esplendores está sempre à procura de novos artesãos que queiram compartilhar seus talentos com o mundo! Se conhecer alguém assim, por favor, nos indique!" },
+    { "gameKey": "quest/036/LucKyr002_03603#TEXT_LUCKYR002_03603_SYSTEM_000_009", "hash": "3FC4627683610D0C", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Hand ou aos Disciples of the Land e estar no nível 70 ou superior." }
   ]
 }

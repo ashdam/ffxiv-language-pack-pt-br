@@ -2,18 +2,18 @@
   "conversation": "quest/054/KinGva199_05459",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "" },
-    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "" }
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_000", "hash": "FA4C847EDD53344B", "target": "Para iniciar esta missão, primeiro cumpra os seguintes requisitos:" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_000", "hash": "BD2D633A4A6A9028", "target": "1. FINAL FANTASY XIV: Dawntrail deve estar registrado na sua conta de serviço.<br>2. Você precisa ter concluído a missão “A Spellbinding Read”." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_000", "hash": "DE1EDE536721A878", "target": "3. Você precisa ser Disciple of War ou Disciple of Magic de nível 100 ou superior. Jobs limitados não são permitidos." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_000", "hash": "494424690BDC8697", "target": "SaUdAçÕeS a VoCê QuE sE aVeNtUrA! aGrAdEçO a AjUdA cOm Os PeQuEnOs TrAbAlHoS. sOu mEmOlIvIa, e MiNhA fUnÇãO é ReGiStRaR sUaS eXpEdIçÕeS." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_001", "hash": "D1098A32EBDF1564", "target": "VoCê TeM uMa HiStÓrIa PaRa Me CoNtAr?" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_002", "hash": "32DEC8AED8EFE73D", "target": "AnOtAnDo CaDa PaLaVrA sUa... CoRtAnDo DeTaLhEs DeSnEcEsSáRiOs." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_003", "hash": "415B5A795AF85016", "target": "SuA jOrNaDa PeLaS pÁgInAs De <italic(1)>tHe MeRcHaNt'S tAlE<italic(0)> FoI rEgIsTrAdA! fIqUe À vOnTaDe PaRa LeR. nÃo EnCoNtRaRá Um ErRo SeQuEr, Eu GaRaNtO!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_000_004", "hash": "D584715D4DA11114", "target": "A versão altamente condensada de Memolivia do seu relato contém apenas os registros de suas batalhas mais ferozes." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SHORTHANDDOLL_000_005", "hash": "F4BA16E5236FB564", "target": "Se QuIsEr ReGiStRaR mAiS jOrNaDaS, mInHa PeNa EsTá A pOsToS!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_100_005", "hash": "59681164681D8645", "target": "Agora você pode entrar em <italic(1)>The Merchant's Tale<italic(0)> (Advanced)!" },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_110_005", "hash": "67B958F86CB6336B", "target": "As variant dungeons (advanced) não contêm exploração, apenas uma série de chefes da variant dungeon correspondente." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_120_005", "hash": "4AE0237951869E5B", "target": "A ordem dos chefes é determinada pelos jogadores, e cada chefe pode ser enfrentado repetidamente até a vitória." },
+    { "gameKey": "quest/054/KinGva199_05459#TEXT_KINGVA199_05459_SYSTEM_130_005", "hash": "342CF846AEB79478", "target": "Há mais informações no canto inferior esquerdo do V&C Dungeon Finder." }
   ]
 }

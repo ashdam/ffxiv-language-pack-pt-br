@@ -2,13 +2,13 @@
   "conversation": "quest/040/FesGsc502_04055",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_00", "hash": "9AE23825BFB8BD2F", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_01", "hash": "FBC06665087B31E5", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_02", "hash": "020A7E1A4BBDE1B7", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_TODO_00", "hash": "5881F2C1957C40CF", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_000", "hash": "0B37DF9538B6F17F", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_001", "hash": "9F602D2EBBDF262B", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_002", "hash": "50F9CC4709D86C4F", "target": "" },
-    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GREGE_000_010", "hash": "C00A699EDC9F0B45", "target": "" }
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_00", "hash": "9AE23825BFB8BD2F", "target": "O atendente do Gold Saucer está decidido a garantir que você receba a devida recompensa por seus esforços em favor dos colegas dele.<br>※Esta missão está disponível por tempo limitado." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_01", "hash": "FBC06665087B31E5", "target": "O atendente de expressão séria agradece seus esforços na investigação, sobre os quais Ollier lhe contou tudo. Ele pede que você fale com Grege, seu colega que cuida da entrada, para receber o presente preparado pela equipe do Saucer.<br><br>※Você não poderá concluir esta missão após o fim do evento sazonal. Para mais detalhes, consulte o Lodestone." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_SEQ_02", "hash": "020A7E1A4BBDE1B7", "target": "Expressando admiração por sua habilidade de investigação, o atendente Grege entrega sua merecida recompensa. Com ela em mãos, você segue pelos salões do Saucer com orgulho, sabendo que a justiça foi feita neste dia." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_TODO_00", "hash": "5881F2C1957C40CF", "target": "Falar com Grege" },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_000", "hash": "0B37DF9538B6F17F", "target": "Ollier me informou que você teve a gentileza de ajudar na investigação. Em nome de toda a equipe do Manderville Gold Saucer, muito obrigado." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_001", "hash": "9F602D2EBBDF262B", "target": "Preparamos um presente em sinal da nossa gratidão. Peço que o receba do meu colega Grege, na Entrance Square." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GSSTAFF04055_000_002", "hash": "50F9CC4709D86C4F", "target": "Já recebeu sua recompensa de Grege? Não seria justo deixar seus esforços por nós sem recompensa." },
+    { "gameKey": "quest/040/FesGsc502_04055#TEXT_FESGSC502_04055_GREGE_000_010", "hash": "C00A699EDC9F0B45", "target": "Deixe eu adivinhar... veio buscar sua recompensa. Viu? Sou um grande detetive, igual a você! Mas é brincadeira, ouvi tudo de Ollier. Enfim, aqui está nosso agradecimento pelo seu esforço. Que seja útil da próxima vez que você encarar um caso intrigante!" }
   ]
 }

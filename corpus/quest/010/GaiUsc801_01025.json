@@ -2,14 +2,14 @@
   "conversation": "quest/010/GaiUsc801_01025",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_00", "hash": "74DCA06E26B54F33", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_01", "hash": "787498CB537A898F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_02", "hash": "320F1B5E9EDE5DBC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_TODO_00", "hash": "10656219ABD4CCA7", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_000", "hash": "3892412E08A1401D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_001", "hash": "2A373C92AF0754EC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_002", "hash": "942C07DD86777BBA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_010", "hash": "7650135FAB199EE0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_011", "hash": "3EC1F646F2042F3C", "target": "" }
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_00", "hash": "74DCA06E26B54F33", "target": "Radolf gostaria que você ajudasse a causa do Maelstrom." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_01", "hash": "787498CB537A898F", "target": "Nas Areias Despertas, Radolf informa que o Maelstrom precisa da ajuda dos Herdeiros. Fale com Falkbryda no Acampamento de Skull Valley sobre a necessidade de conter a ameaça dos Sahagin." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_02", "hash": "320F1B5E9EDE5DBC", "target": "Falkbryda acolhe sua ajuda, diante do perigo iminente de estar na linha de frente contra a temível tribo bestial." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_TODO_00", "hash": "10656219ABD4CCA7", "target": "Falar com Falkbryda no Acampamento de Skull Valley" },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_000", "hash": "3892412E08A1401D", "target": "Como companheiro dos Herdeiros, peço a você, <split(<string(gstr1)>, ,1)>, que ajude nossos aliados a alcançar um objetivo em comum." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_001", "hash": "2A373C92AF0754EC", "target": "O Maelstrom precisa de toda espada disponível para conter o avanço dos Sahagin." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_002", "hash": "942C07DD86777BBA", "target": "Imploro que vá ao Acampamento de Skull Valley, discuta o assunto com Falkbryda e faça o que puder para ajudar." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_010", "hash": "7650135FAB199EE0", "target": "Se veio procurar Falkbryda do Maelstrom, parabéns: encontrou. Embora, na verdade, creio que fosse eu quem estivesse procurando você." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_011", "hash": "3EC1F646F2042F3C", "target": "O Acampamento de Skull Valley fica de frente para a vanguarda Sahagin, com aquelas hordas de bebedores de água salgada bem debaixo de seu nariz ossudo. Somos a barragem contra a maré crescente de selvageria." }
   ]
 }

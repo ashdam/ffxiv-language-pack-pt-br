@@ -2,18 +2,18 @@
   "conversation": "quest/050/KinGzd001_05090",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_SEQ_00", "hash": "5948A9FBC951E46C", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_000", "hash": "7542FD674B2A9669", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_001", "hash": "C694717BF6F5BF20", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_002", "hash": "18214F603F5DCF8A", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_003", "hash": "49AE213D38127127", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_005", "hash": "B61140CA11860B0C", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_010", "hash": "22A8EF18413B7419", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_011", "hash": "842953DA3D99AE8E", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_012", "hash": "01144D52118829DD", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_013", "hash": "B74E704F5BFBFDB5", "target": "" },
-    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_014", "hash": "6F612305DB870CCF", "target": "" }
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_SEQ_00", "hash": "5948A9FBC951E46C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Rral Ty'ukuk tem uma infestação para resolver." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_00", "hash": "D36BAC5C110886E1", "target": "Derrotar os leaf mantises" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_TODO_01", "hash": "85C4933B8DD759BF", "target": "Falar com Rral Ty'ukuk" },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_000", "hash": "7542FD674B2A9669", "target": "Você acompanha Wuk Lamat, não é? Braços fortes, expressão feroz...sim, acho que é justamente de você que preciso para cuidar de um probleminha com pragas." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_001", "hash": "C694717BF6F5BF20", "target": "Desde que a tempestade passou por estas terras, notamos um grande aumento no número de louva-a-deus agressivos. Se não os controlarmos, podem ameaçar o equilíbrio natural da floresta." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_002", "hash": "18214F603F5DCF8A", "target": "Normalmente, eu mandaria um grupo dos nossos cuidar deles, mas estamos com pouca gente no momento. Acho que você consegue fazer o trabalho de dois caçadores." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_003", "hash": "49AE213D38127127", "target": "Então vou pedir que nos livre de dois desses incômodos. Eles estão ao sul da aldeia. Boa sorte, embora eu duvide que precise." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_005", "hash": "B61140CA11860B0C", "target": "Por mais que dê vontade de eliminar todos, dois devem bastar para manter a população sob controle." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_010", "hash": "22A8EF18413B7419", "target": "Você voltou, e bem mais rápido do que eu imaginava! Sua ajuda fez a diferença hoje, mesmo que isso não seja visível à primeira vista." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_011", "hash": "842953DA3D99AE8E", "target": "Esses bichos são vorazes e devoram presas menores sem pensar para saciar uma fome sem fim." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_012", "hash": "01144D52118829DD", "target": "Normalmente, animais maiores controlariam a população deles, mas há muito menos predadores na mata desde a tempestade. Isso permitiu que os louva-a-deus prosperassem à custa de todo o resto." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_013", "hash": "B74E704F5BFBFDB5", "target": "Claro, a tendência natural dos seres vivos é se reproduzir, mas a natureza depende de um equilíbrio delicado. Manter esse equilíbrio é apenas um dos deveres de um caçador." },
+    { "gameKey": "quest/050/KinGzd001_05090#TEXT_KINGZD001_05090_RRALTYUKUK_000_014", "hash": "6F612305DB870CCF", "target": "Hoje você nos ajudou a devolver um pouco de harmonia à floresta, e espero que tenha entendido melhor nossa relação com a terra que chamamos de lar. Foi uma honra trabalhar com alguém tão próximo de Wuk Lamat!" }
   ]
 }

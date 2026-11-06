@@ -2,19 +2,19 @@
   "conversation": "quest/036/LucKyr003_03604",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_000", "hash": "F7735B96996EE2FF", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_001", "hash": "0F655C385AB3E869", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_002", "hash": "134E27D752B536A9", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_003", "hash": "BAF35311CF0FD57A", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_004", "hash": "182A80EC165AC450", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_005", "hash": "84B3DC34B734F00B", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_006", "hash": "7258D586CC474B1E", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_007", "hash": "BEEDEE4D937E64CB", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_008", "hash": "F8904943EFFE6059", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_009", "hash": "B3CB0661A7BB9576", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_100_009", "hash": "9C275A09DD544905", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_010", "hash": "4A87CA77A59634C2", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_020", "hash": "C278F6C872C966F6", "target": "" },
-    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_021", "hash": "FBE0879E83254B69", "target": "" }
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_000", "hash": "F7735B96996EE2FF", "target": "Espere um instante, <if(gnum4,pecadora,pecador)>. Você não é daqui, é? Mais uma alma errante? Alguém que vive na estrada? Bem que pensei!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_001", "hash": "0F655C385AB3E869", "target": "Meu nome é Eirlalth. Meu sonho é percorrer o mundo inteiro. Embora ele esteja bem menor do que antes, então, pensando bem, é um sonho muito mais realista do que parece." },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_002", "hash": "134E27D752B536A9", "target": "Mas o perigo ainda espreita em cada canto, em cada curva. Mesmo assim, este pecador tem nervos de aço! Eirlalth, explorador nato! Nenhuma terra é distante demais, nenhum lugar é proibido demais!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_003", "hash": "BAF35311CF0FD57A", "target": "Mas o que é isso saindo da sua mochila? Um caderno, se não me engano. Pode me passar...?" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_004", "hash": "182A80EC165AC450", "target": "Ahá, como pensei! Um registro de panoramas fantásticos e paisagens inesquecíveis! Somos almas afins, amaros da mesma plumagem! Excelente, excelente!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_005", "hash": "84B3DC34B734F00B", "target": "Nada mais justo que eu compartilhe experiências tão maravilhosas quanto as suas. Uma coleção de paisagens incríveis que cataloguei pessoalmente e que, garanto, rivalizam com as melhores que você já viu!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_006", "hash": "7258D586CC474B1E", "target": "Norvrandt pode ser só uma sombra de sua antiga glória, mas ainda há alegria e emoção para quem sabe onde olhar. Então eu imploro: olhe, olhe, olhe!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_007", "hash": "BEEDEE4D937E64CB", "target": "Siga meus passos. Saboreie cada momento da jornada. E, quando achar que descobriu todos os segredos destas terras, comece de novo. Prometo que não vai se decepcionar!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_008", "hash": "F8904943EFFE6059", "target": "Entradas de Shadowbringers foram adicionadas ao Sightseeing Log!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_009", "hash": "B3CB0661A7BB9576", "target": "Para registrar paisagens de Shadowbringers, você deve pertencer aos Disciples of War ou aos Disciples of Magic e estar no nível 70 ou superior. Vá ao local indicado e cumpra as condições necessárias para concluir a entrada e ganhar pontos de experiência." },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_100_009", "hash": "9C275A09DD544905", "target": "Os locais recém-adicionados ao Sightseeing Log serão marcados por uma esfera de luz. Se encontrar uma dessas esferas em suas aventuras, pare um instante para registrar a entrada." },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_010", "hash": "4A87CA77A59634C2", "target": "Use sua perspicácia e as notas de Eirlalth para identificar essas paisagens deslumbrantes e o modo certo de apreciá-las. Veja Norvrandt como só os maiores exploradores viram!" },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_020", "hash": "C278F6C872C966F6", "target": "Você acabou de chegar, não é? Hum... Pensando bem, deixe para lá. O que tenho em mente provavelmente é perigoso demais para gente como você." },
+    { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_SYSTEM_000_021", "hash": "FBE0879E83254B69", "target": "Para iniciar esta missão, você precisa ter pelo menos uma classe ou job no nível 70 ou superior." }
   ]
 }

@@ -2,13 +2,13 @@
   "conversation": "quest/041/AktKyr106_04175",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "" },
-    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "" }
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_000", "hash": "F0816CDD29DAF315", "target": "Oh! Você deve ser <split(<string(gstr1)>, ,1)>. A Senhora Rowena me contou tudo sobre você. Disse que você tem uma bela reputação como <sheet(ClassJob,gnum68,0)>!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_001", "hash": "BC2E99FA345B883E", "target": "Aliás, meu nome é Ofpilona. A patroa me encarregou de administrar a filial de Radz<-->at<-->Han. Espero fazer bons negócios com você!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_002", "hash": "41188FA72C85152A", "target": "...Não que eu tenha algum pedido especial. Só quero dizer que seus negócios são tão bem-vindos aqui quanto em qualquer outra Casa dos Esplendores." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_003", "hash": "54CB6610470A3BD6", "target": "Claro que eu preferiria que você fizesse mais negócios aqui do que em qualquer outro lugar. Clientes de prestígio como você atraem ainda mais fregueses, entende?" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_004", "hash": "956A64A493C8C368", "target": "E, se o movimento continuar crescendo assim, logo teremos que mudar o nome para Casa dos Esplendores de Ofpilona... Aquela bruxa velha nem vai saber o que a atingiu..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_005", "hash": "4E0C0364AF02BE3C", "target": "...Hum, esqueça essa última parte. Dê uma olhada nas mercadorias e compre o que chamar sua atenção!" },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_OFPILONA_000_010", "hash": "8F1064892A820B54", "target": "\\<suspiro> O que eu não daria para encontrar alguém com um talento excepcional para o artesanato..." },
+    { "gameKey": "quest/041/AktKyr106_04175#TEXT_AKTKYR106_04175_SYSTEM_000_011", "hash": "AC060166C4559D23", "target": "Para iniciar esta missão, você deve pertencer aos Disciples of the Hand ou aos Disciples of the Land e estar no nível 80 ou superior." }
   ]
 }

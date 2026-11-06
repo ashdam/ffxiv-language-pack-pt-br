@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGzc004_05063",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_SEQ_00", "hash": "83F9735F91293A4E", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_00", "hash": "7FA3596953E2C036", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_01", "hash": "86955C5029223C08", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_000", "hash": "9EE5CAB415ED5F9D", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_001", "hash": "3103989909101279", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_002", "hash": "47DC203FAFC1B0E3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_003", "hash": "5D68FCE14C765CE3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_004", "hash": "4951E475166745C3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_005", "hash": "447AC8D17F31F62B", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_006", "hash": "163369BC4A94A4B3", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_007", "hash": "73574CC4D913063D", "target": "" },
-    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_008", "hash": "B6612192AEF6FAD0", "target": "" }
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_SEQ_00", "hash": "83F9735F91293A4E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Gonahanu precisa de alguém que aceite molhar os pés." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_00", "hash": "7FA3596953E2C036", "target": "Coletar folhas viçosas de junco" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_TODO_01", "hash": "86955C5029223C08", "target": "Entregar as folhas viçosas de junco a Munahanu" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_000", "hash": "9EE5CAB415ED5F9D", "target": "Olá! Já viu tudo o que nossa humilde aldeia tem a oferecer? Se estiver a caminho do Respiro Intermediário, há uma tarefa para a qual preciso da sua ajuda." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_001", "hash": "3103989909101279", "target": "Você tem mesmo a bondade de que todos falam! Me pediram para entregar folhas novas de junco para usar como isca, mas ando tão ocupado com o trabalho que quase não tive tempo para cuidar do pedido." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_002", "hash": "47DC203FAFC1B0E3", "target": "Os campos aqui perto têm os melhores juncos. Ficaria muito agradecido se você colhesse algumas folhas e as levasse a Munahanu. Pode ficar com o pagamento dele pelo trabalho!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_GONAHANU_000_003", "hash": "5D68FCE14C765CE3", "target": "Munahanu pediu folhas frescas dos juncos aqui perto. Entregue-as por mim, e o pagamento dele é seu!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_004", "hash": "4951E475166745C3", "target": "Ora, que surpresa. Não esperava encontrar alguém que visita nossa aldeia justo aqui. Veio pescar?" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_005", "hash": "447AC8D17F31F62B", "target": "Ah, são as folhas que pedi para Gonahanu entregar. Você colheu pessoalmente? Que bom olho, elas vão servir muito bem!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_006", "hash": "163369BC4A94A4B3", "target": "Não atingimos um tamanho tão prodigioso comendo só junco, sabe. Os peixes destas águas são a base de muitos pratos Hanu." },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_007", "hash": "73574CC4D913063D", "target": "Descobrimos que eles gostam de junco quase tanto quanto nós! Como comemos principalmente os caules, podemos usar as folhas frescas dos juncos ainda não colhidos como isca. Todo mundo ganha um banquete!" },
+    { "gameKey": "quest/050/KinGzc004_05063#TEXT_KINGZC004_05063_MUNAHANU_000_008", "hash": "B6612192AEF6FAD0", "target": "Talvez você também consiga um banquete com estas moedas. Fez por merecer!" }
   ]
 }

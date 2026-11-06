@@ -2,19 +2,19 @@
   "conversation": "quest/003/SubFst047_00374",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_00", "hash": "463A4323B041EB37", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_01", "hash": "DFA5A089FDD94C3E", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_02", "hash": "8D8C4924769692C8", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_03", "hash": "8D230B644B91F0D5", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_04", "hash": "AED4CA8B3A8EF760", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_00", "hash": "5C0FCD0A8232DA32", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_01", "hash": "B760DC2FB119A6AF", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_02", "hash": "998F3D5BCC8D31EF", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_1", "hash": "A180F83CB4CCC439", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_2", "hash": "B922BE6EAFF947AB", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_3", "hash": "6BE576876CDD3020", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_11", "hash": "612EB3BA71A83BC6", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_12", "hash": "41A49F4F97AF9799", "target": "" },
-    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_13", "hash": "F29DEE1FBBE2A07A", "target": "" }
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_00", "hash": "463A4323B041EB37", "target": "Keitha, a tratadora-chefe dos Prados de Bentbranch, tem trabalho para você no rancho." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_01", "hash": "DFA5A089FDD94C3E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Keitha nos Prados de Bentbranch.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo e desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_02", "hash": "8D8C4924769692C8", "target": "Você juntou uma braçada de verduras de Gysahl de folhas largas. Percorra os Prados de Bentbranch e reabasteça todos os cochos dos chocobos." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_03", "hash": "8D230B644B91F0D5", "target": "Você reabasteceu todos os cochos dos chocobos. Volte a Keitha e avise que a tarefa está concluída." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_SEQ_04", "hash": "AED4CA8B3A8EF760", "target": "Keitha explica que os chocobos dos Prados de Bentbranch recebem cuidados atentos desde que saem dos ovos até o início da idade adulta. Ofereça ajuda aos trabalhadores do rancho e contribua para manter as aves felizes e saudáveis." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_00", "hash": "5C0FCD0A8232DA32", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Keitha nos Prados de Bentbranch.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_01", "hash": "B760DC2FB119A6AF", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Keitha nos Prados de Bentbranch.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_TODO_02", "hash": "998F3D5BCC8D31EF", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Keitha nos Prados de Bentbranch.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_1", "hash": "A180F83CB4CCC439", "target": "Como você acabou de chegar por aqui, vamos começar com um trabalho fácil para ajudar você a se orientar, hein?" },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_2", "hash": "B922BE6EAFF947AB", "target": "Por acaso, está na hora de alimentar os chocobos. Pegue uns maços de verduras de Gysahl de folhas largas daquela pilha ao lado do campo e ponha nos cochos." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_3", "hash": "6BE576876CDD3020", "target": "Bentbranch é grande, viu, então não deixe nenhum para trás. Vamos, andando." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_11", "hash": "612EB3BA71A83BC6", "target": "Obrigada por distribuir as verduras, <split(<string(gstr1)>, ,1)>. Deu para ter uma ideia de como é o lugar enquanto fazia isso? Ótimo." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_12", "hash": "41A49F4F97AF9799", "target": "Aqui em Bentbranch, cuidamos dos nossos chocobos desde o ovo até o início da idade adulta. Então, pode-se dizer que eles passam os “anos de formação” conosco." },
+    { "gameKey": "quest/003/SubFst047_00374#TEXT_SUBFST047_00374_KEITHA_000_13", "hash": "F29DEE1FBBE2A07A", "target": "É um trabalho de quebrar as costas manter as aves livres de doenças e ferimentos, e tenho certeza de que meus colegas vão apreciar qualquer ajuda que você puder dar." }
   ]
 }

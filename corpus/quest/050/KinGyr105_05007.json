@@ -2,17 +2,17 @@
   "conversation": "quest/050/KinGyr105_05007",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_000", "hash": "6148C025D2D06B44", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_001", "hash": "1A7B838E29FF5899", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_002", "hash": "B08FAD5006326F64", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_003", "hash": "E77F81225160ED67", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_100_004", "hash": "5C9F7CBE70AC35AC", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_005", "hash": "8915A85C8561CABA", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_006", "hash": "7E761AA4F9ACEFE4", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_007", "hash": "0FBFBF4C899D9721", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_008", "hash": "603BBCB5D6370A79", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_SYSTEM_000_009", "hash": "81C65D5240C82D9B", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_100_020", "hash": "6E2506E142BA4CA3", "target": "" },
-    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_SYSTEM_100_021", "hash": "B8045D75DD8202CA", "target": "" }
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_000", "hash": "6148C025D2D06B44", "target": "Esse tomo... por acaso seria um registro de exploração?" },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_001", "hash": "1A7B838E29FF5899", "target": "Millith! Faz muito tempo que não ouço esse nome. E minha querida Elsebee..." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_002", "hash": "B08FAD5006326F64", "target": "Ela é minha irmã gêmea, sabe, e faz trinta longos anos que não a vejo. Desde que fiquei presa durante minha exploração de Yyasulani." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_003", "hash": "E77F81225160ED67", "target": "É uma grande alegria saber que ela está bem. Desculpe pedir, mas... posso ver as observações que ela acrescentou ao seu registro?" },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_100_004", "hash": "5C9F7CBE70AC35AC", "target": "Ela sempre escreveu com traços tão firmes... Aqui." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_005", "hash": "8915A85C8561CABA", "target": "Acrescentei minhas próprias observações. Algumas informações podem parecer improváveis, para dizer o mínimo, mas acredito que haja verdade em cada entrada." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_006", "hash": "7E761AA4F9ACEFE4", "target": "Se fosse mais jovem, eu mesma sairia em busca dessas paisagens fantásticas, mas, infelizmente, meu corpo já não aguenta tais viagens." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_007", "hash": "0FBFBF4C899D9721", "target": "Mas, graças a você, sinto uma leveza que não sentia há muito tempo. Se há uma coisa que desejo, é rever minha irmã antes de morrer. Há tanto que gostaria de compartilhar com ela..." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_000_008", "hash": "603BBCB5D6370A79", "target": "Mas você tem coisas melhores a fazer do que ouvir as reflexões de uma velha. Cuide-se, <if(gnum4,gentil aventureira,gentil aventureiro)>. E que sua jornada leve a paisagens luminosas e inesquecíveis." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_SYSTEM_000_009", "hash": "81C65D5240C82D9B", "target": "Novas entradas de Dawntrail foram adicionadas ao seu Sightseeing Log!" },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_EMELINEIRONHEART_100_020", "hash": "6E2506E142BA4CA3", "target": "Você não conhece exploradores experientes, por acaso? Procuro alguém para buscar as paisagens que já não posso alcançar..." },
+    { "gameKey": "quest/050/KinGyr105_05007#TEXT_KINGYR105_05007_SYSTEM_100_021", "hash": "B8045D75DD8202CA", "target": "Para iniciar esta missão, você precisa estar no nível 90 ou superior." }
   ]
 }

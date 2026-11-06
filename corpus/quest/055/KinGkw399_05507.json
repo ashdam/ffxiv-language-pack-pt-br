@@ -2,19 +2,19 @@
   "conversation": "quest/055/KinGkw399_05507",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_000", "hash": "340D16014A3CF03C", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_001", "hash": "C438632B364BA457", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_Q1_000_100", "hash": "ADFBE956C1DB93CE", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A1_000_100", "hash": "1762CF3284297051", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A2_000_100", "hash": "6A69D25507AD8CC9", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A3_000_100", "hash": "F2EB2FD290A58DD2", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_010", "hash": "105FC1A0288349D5", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_011", "hash": "D57C7DB64851B5E0", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_012", "hash": "B260683951585D4B", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_020", "hash": "E58D74ACEBC16D06", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_021", "hash": "8C10B3B3DF8DA77B", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_030", "hash": "AD9EF2482B7B2584", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_040", "hash": "31FE44535718A6BE", "target": "" },
-    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_106", "hash": "6E4AC061EE75DCCE", "target": "" }
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_000", "hash": "340D16014A3CF03C", "target": "Brigid pode reajustar os atributos do seu armamento fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_001", "hash": "C438632B364BA457", "target": "Quer alterar os atributos da sua arma fantasma? Uma tarefa bem simples, com recursos suficientes." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_Q1_000_100", "hash": "ADFBE956C1DB93CE", "target": "O que você vai fazer?" },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A1_000_100", "hash": "1762CF3284297051", "target": "Reajustar os atributos do armamento fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A2_000_100", "hash": "6A69D25507AD8CC9", "target": "Saber mais sobre o reajuste dos atributos do armamento fantasma." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_A3_000_100", "hash": "F2EB2FD290A58DD2", "target": "Nada." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_010", "hash": "105FC1A0288349D5", "target": "Os três atributos que você adicionou ao armamento fantasma podem ser escolhidos novamente ou reequilibrados. Como na melhoria inicial, um deles terá um valor menor que os outros dois." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_011", "hash": "D57C7DB64851B5E0", "target": "Depois de reajustar os valores como desejar, selecione “Confirm” para finalizar sua decisão." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_012", "hash": "B260683951585D4B", "target": "Redefinir os atributos do armamento exige um chunk of ecliptic arcanite adicional, então considere suas escolhas com cuidado." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_020", "hash": "E58D74ACEBC16D06", "target": "Preciso de um único chunk of ecliptic arcanite para realizar o reajuste. Deixo sua obtenção em suas mãos competentes." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_021", "hash": "8C10B3B3DF8DA77B", "target": "Chunks of ecliptic arcanite podem ser obtidos com Ermina na Phantom Village." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_030", "hash": "AD9EF2482B7B2584", "target": "Receio que o processo sirva especificamente para armamento fantasma. Pode equipar armas adequadas antes de começar?" },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_BRIGID_000_040", "hash": "31FE44535718A6BE", "target": "Um reajuste plenamente bem-sucedido! É claro que, se quiser experimentar uma configuração ligeiramente diferente no futuro, basta pedir." },
+    { "gameKey": "quest/055/KinGkw399_05507#TEXT_KINGKW399_05507_SYSTEM_000_106", "hash": "6E4AC061EE75DCCE", "target": "Seu armamento fantasma (<if([gnum68<8],<sheet(ClassJob,gnum68,0)>,<if([gnum68>18],<sheet(ClassJob,gnum68,0)>,)>)>) foi reajustado." }
   ]
 }

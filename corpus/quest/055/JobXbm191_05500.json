@@ -2,15 +2,15 @@
   "conversation": "quest/055/JobXbm191_05500",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_100_000", "hash": "3701BAAD45E5C635", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_110_000", "hash": "440FBF266E3F0B3C", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_000", "hash": "E46AD913C94CB4E2", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_001", "hash": "662C403196F5F7EF", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_002", "hash": "35D9FCC5BD28D08E", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_003", "hash": "F15721599ED21FDE", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_004", "hash": "9BD432BD62A809DD", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_005", "hash": "E07B189F5C0D1564", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_020", "hash": "E4D02DFD8CA7618D", "target": "" },
-    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_021", "hash": "B43257AE25C46EFA", "target": "" }
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_100_000", "hash": "3701BAAD45E5C635", "target": "Para iniciar esta missão, primeiro cumpra os seguintes requisitos:" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_110_000", "hash": "440FBF266E3F0B3C", "target": "1. FINAL FANTASY XIV: Dawntrail deve estar registrado na sua conta de serviço.<br>2. Seu job atual deve ser Beastmaster.<br>3. Você precisa ter feito amizade com pelo menos vinte e cinco feras." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_000", "hash": "E46AD913C94CB4E2", "target": "<if(gnum4,Lady,Sor)> <split(<string(gstr1)>, ,1)>! Tenho novidades empolgantes sobre o Crucible." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_001", "hash": "662C403196F5F7EF", "target": "Um novo tabuleiro foi adicionado! Um digno apenas dos mestres de combate mais talentosos." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_002", "hash": "35D9FCC5BD28D08E", "target": "Lady Lauda parece mais feliz do que nunca. Ela diz que as almas do Crucible estão prosperando, e esse novo tabuleiro dá às feras ambiciosas espaço para abrir as asas, literalmente, quando for o caso!" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_003", "hash": "F15721599ED21FDE", "target": "Além disso, ouvi <italic(1)>claramente<italic(0)> ela mencionar que o último desafiante será um dragão formidável chamado “Borgny the Venomous”." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_004", "hash": "9BD432BD62A809DD", "target": "Que tal minha observação? Posso ser um iniciante no ofício, mas você tem de admitir que tenho um olhar atento aos detalhes!" },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYLMOND_000_005", "hash": "E07B189F5C0D1564", "target": "Um dia entrarei no Crucible ao seu lado, <if(gnum4,Lady,Sor)> <split(<string(gstr1)>, ,1)>! Ah, que dia será... Até lá, continue nos enchendo de orgulho! " },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_020", "hash": "E4D02DFD8CA7618D", "target": "O First Master's Board foi desbloqueado. Para desafiá-lo, fale com Lauda nos Prados de Bentbranch." },
+    { "gameKey": "quest/055/JobXbm191_05500#TEXT_JOBXBM191_05500_SYSTEM_000_021", "hash": "B43257AE25C46EFA", "target": "Além disso, novas mercadorias estão disponíveis com o comerciante Kornago." }
   ]
 }

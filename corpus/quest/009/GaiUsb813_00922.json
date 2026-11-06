@@ -2,14 +2,14 @@
   "conversation": "quest/009/GaiUsb813_00922",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "" },
-    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "" }
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "Papawazu quer oferecer outra tarefa e uma chance de você admirá-lo, se estiver no clima." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "As remessas de ceruleum processado finalmente serão retomadas, para a satisfação de todos. Bem, menos dos coblyns, mas criaturas assim não têm voz, ainda menos quando mortas. Leve a notícia a Syntgoht no Mercado da Avenida Safira." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "Syntgoht fica aliviado, embora irritado com o aumento do preço. Quando a mercadoria chegar em alguns dias, ele enfim poderá atender seus pedidos." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "Falar com Syntgoht no Mercado da Avenida Safira" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "<italic(1)>En<italic(0)>fim! O ceruleum precisa fluir. Chega de atrasos nas remessas, mais um golpe de mestre de Papawazu! Ah, uma medalha? Para mim? Ora, muito obrigado!" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "Beeem, pode dizer a Syntgoht que a remessa chega em poucos dias. <italic(1)>In<italic(0)>felizmente, haverá um pequeno aumento no preço. Taxa de segurança, sabe! Todo mundo faz isso." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "Boas-vindas, <italic(1)>boas-vindas<italic(0)>! O que uma pessoa de bom gosto... ah, é você, <split(<string(gstr1)>, ,1)>. Falou com Papawazu? É mesmo! Ele disse que é questão de dias?" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "Então, <if(gnum4,minha cara,meu caro)>, está dizendo que vão enviar o que me devem, mas cobrando mais por isso. Desejo a Amajina e a <italic(1)>todos<italic(0)> os filhos dele muita alegria com meus gil. Tomara que dê gota neles." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "Agradeço por resolver isso, ainda mais com aquele abutre do Papawazu. Um intermediário de bom gosto como eu com certeza vai lembrar de você para futuros serviços!" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil090_00339",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "" },
-    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "" }
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_00", "hash": "31F36F9764E066D5", "target": "Zuzutyro tem uma proposta lucrativa para você." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_01", "hash": "F0658621908E3D1E", "target": "Zuzutyro pede que você lhe traga quatro olhos da serpente, que são literalmente os globos oculares de peistes. Abata quantas criaturas forem necessárias para obter a quantidade solicitada." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_02", "hash": "E574BF4A331F5BE2", "target": "Você obteve a quantidade solicitada de olhos da serpente. Entregue-os a Zuzutyro em Horizon." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_SEQ_03", "hash": "316F6EC5E7931BE2", "target": "Ao receber os quatro olhos com alegria, Zuzutyro informa que mergulhá-los em uma solução alquímica produzirá belas pedras preciosas vermelhas. A próxima parada do comerciante é Gridania, onde ele espera vendê-los por um belo preço." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_00", "hash": "39B2707D37CEF593", "target": "Abater desert peistes e obter olhos da serpente" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_TODO_01", "hash": "9FDAECDE4DC3A4DE", "target": "Entregar os olhos da serpente a Zuzutyro" },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_000", "hash": "7851690094A2DC55", "target": "Saudações. Se tiver um tempinho, tenho uma proposta com lucro garantido <italic(1)>e<italic(0)> totalmente legítima." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_001", "hash": "771E8E2D971302F7", "target": "Diga, sabe o que é um peiste? É aquele escamoso que parece uma cobra, mas anda sobre quatro patas. Essas criaturas costumam petrificar a presa com seu olhar terrível antes de chegar perto para matar." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_002", "hash": "359B1F79B1196AAB", "target": "Quero pôr as mãos nos olhos deles, chamados de “olhos da serpente”, e preciso de alguém que saiba lidar com animais mortais para consegui-los. Se você abater alguns bichos e me trouxer quatro olhos, garanto uma boa recompensa." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_010", "hash": "BB14224FE80E8274", "target": "Quero quatro olhos da serpente. Mate quantos peistes forem necessários para conseguir." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_011", "hash": "786D20C64AA4DB1C", "target": "Os olhos! Muito obrigado!<br>...Hm? O que pretendo fazer com isso? Ora, vender, é claro! Podem não parecer grande coisa de início, mas, se você os mergulhar numa mistura alquímica, eles viram belas pedras preciosas vermelhas." },
+    { "gameKey": "quest/003/SubWil090_00339#TEXT_SUBWIL090_00339_ZUZUTYRO_012", "hash": "9B416CF79281F426", "target": "E essas pedras rendem um preço <italic(1)>excelente<italic(0)> em Gridania. Não existem peistes na Mortalha Negra, sabe? Como comerciante, é meu trabalho saber dessas coisas." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/001/SubFst039_00196",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "" },
-    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "" }
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "Galfrid, instrutor-chefe de Bannock, quer sua ajuda no treinamento de novos recrutas." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Galfrid em Bannock para recomeçá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_02", "hash": "0D55F9C0E5A554A6", "target": "Você matou os black efts. Apresente-se a Galfrid em Bannock." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_03", "hash": "EC3C2829A84E8368", "target": "Depois de testemunhar sua habilidade, os recrutas retomam o treinamento com entusiasmo renovado. Continue aprimorando suas habilidades para que os feitos dos soldados de Bannock não superem os seus um dia." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_00", "hash": "8487593BE0FD51B5", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Galfrid em Bannock para recomeçá-la.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_TODO_01", "hash": "84A606D7C1ED8F5E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Galfrid em Bannock para recomeçá-la.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_1", "hash": "9F51B9FD486ED388", "target": "Uma palavra, se me permite? Há um assunto difícil em que sua ajuda seria útil." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_2", "hash": "0F60695603F6D0E3", "target": "Deixe eu explicar. O rio aqui perto abriga uma colônia de black efts, e mandei um grupo de recrutas matá-los. Mas, mal passou uma badalada, os jovens voltaram, histéricos e sem um arranhão, reclamando aos gritos da má sorte de terem sido mandados enfrentar tais “horrores saídos dos infernos”." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_3", "hash": "213D2DB477BD6A18", "target": "Patético. Minha bisavó daria conta de um tritão com uma bengala e uma bronca. É inacreditável que uma tarefa dessas assuste um grupo inteiro de homens e mulheres saudáveis. Quero que mostre a esses molengas tremelicantes como se faz: vá até o rio e mate quatro dessas criaturas." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_10", "hash": "2C7A27C064ABA1A8", "target": "<if(gnum4,Bem-vinda de volta,Bem-vindo de volta)>, <split(<string(gstr1)>, ,1)>. Seu desempenho foi admirável." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_11", "hash": "A21BD69FDCB5C5AE", "target": "Mandei meus recrutas observarem da margem enquanto você matava os tritões. Parece que sua habilidade em combate os inspirou." },
+    { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_GALFRID_000_12", "hash": "CEBF4A58A646A4AA", "target": "Ou então não querem perder espaço para <if(gnum4,uma aventureira,um aventureiro)>, pouco importa. O que <italic(1)>importa<italic(0)> é que retomaram o treinamento com entusiasmo renovado, e tenho você a agradecer por isso. Estou em dívida." }
   ]
 }

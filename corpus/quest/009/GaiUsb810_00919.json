@@ -2,15 +2,15 @@
   "conversation": "quest/009/GaiUsb810_00919",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_00", "hash": "E0501FFB66CF2AFE", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_01", "hash": "93D53550C8757A24", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_02", "hash": "A24C07363142E2CA", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_TODO_00", "hash": "5CD6292E77AA370F", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_000", "hash": "A2A10743BDB35434", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_001", "hash": "935EABA53662BB8C", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_003", "hash": "F019151A4BE3AF7A", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_004", "hash": "EF29F91CECA537E7", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_010", "hash": "4F5FF1FBF0F57B48", "target": "" },
-    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_011", "hash": "CDECC8F3D8966061", "target": "" }
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_00", "hash": "E0501FFB66CF2AFE", "target": "Entre a cruz e a espada, um intermediário sempre encontra uma maneira de lubrificar as engrenagens. Descubra o que Syntgoht tem em mente." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_01", "hash": "93D53550C8757A24", "target": "Syntgoht reclama que as remessas de ceruleum processado das minas da Amajina & Filhos pararam. Você se pergunta por que ele continuou aceitando pedidos dos clientes nesse caso, mas isso não é da sua conta. Vá a Camp Bluefog e converse com Papawazu, representante da Companhia Mineradora." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SEQ_02", "hash": "A24C07363142E2CA", "target": "Você ouve o lado de Papawazu, embora não tenha certeza de que ele estivesse falando com <italic(1)>você<italic(0)> em metade do tempo. Presumivelmente, ele também tem sua cruz para carregar." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_TODO_00", "hash": "5CD6292E77AA370F", "target": "Falar com Papawazu em Camp Bluefog" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_000", "hash": "A2A10743BDB35434", "target": "Ele está zangado com o atraso do ceruleum? <if(gnum4,Amiga,Amigo)>, perdão, <split(<string(gstr1)>, ,1)>, eu entendo a situação dele, entendo mesmo. Mandaria a mercadoria se tivesse alguma!" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_001", "hash": "935EABA53662BB8C", "target": "O fato é que está dificílimo conseguir ceruleum processado da Amajina & Filhos há muitas luas, e agora eles pararam completamente de negociar com a maioria dos vendedores." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_003", "hash": "F019151A4BE3AF7A", "target": "A vida de intermediário é dura, <if(gnum4,minha cara,meu caro)>. Pagamos pelos pecados de produtores como a Amajina e o que recebemos em troca? Nem um bom-dia. A briga de Edwyn é com eles, não comigo." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_SYNTGOHT_000_004", "hash": "EF29F91CECA537E7", "target": "Tsc, não sabe? A Companhia Mineradora tem o direito exclusivo de extrair ceruleum em Northern Thanalan. Fazem o que querem. Pode tentar falar direto com eles. Procure Papawazu em Camp Bluefog, mas aviso que ele é um sapinho convencido!" },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_010", "hash": "4F5FF1FBF0F57B48", "target": "Eee quem é você? <if(gnum4,Aventureira\\, aventureira,Aventureiro\\, aventureiro)>, hmmm... não, não me lembro de ter encomendado ninguém. E eu <italic(1)>lembraria<italic(0)> de algo assim, pois sou o Funcionário da Lua pela nona vez... obrigado, obrigado... silêncio agora, estou ouvindo <if(gnum4,a senhora maltrapilha,o senhor maltrapilho)>." },
+    { "gameKey": "quest/009/GaiUsb810_00919#TEXT_GAIUSB810_00919_PAPAWAZU_000_011", "hash": "CDECC8F3D8966061", "target": "Uma <italic(1)>in<italic(0)>dagação sobre a remessa de ceruleum processado? De Syntgoht, em Ul'dah... hm, hm, hmmm. <italic(1)>In<italic(0)>teressante." }
   ]
 }

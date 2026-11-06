@@ -2,18 +2,18 @@
   "conversation": "quest/013/BanSah102_01380",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "" },
-    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "" }
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_00", "hash": "C5F7A71680A9B6E1", "target": "Fyuu quer conter as ações agressivas dos Tridentes de Coral." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_01", "hash": "C5A81A95DD55343F", "target": "Fyuu teme que os estandartes de batalha erguidos pelos Tridentes de Coral provoquem demais os soldados que defendem os diques. Leve as pedras de sílex recebidas do jovem à Base Terrestre dos Sahagin e queime esses símbolos de guerra e violência." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_02", "hash": "C0D7411E2E2B554C", "target": "Você incendiou os estandartes de batalha dos Tridentes de Coral. Volte a Fyuu no Berçário de Novv e informe seu sucesso." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_SEQ_03", "hash": "E7ABE1B5BE009E5E", "target": "Fyuu está certo de que seu pequeno ato de vandalismo contribuiu discretamente para a campanha de paz de Novv. Embora sua ninhada prefira a diplomacia sempre que possível, o jovem Sahagin acredita que uma abordagem mais direta é a única opção para lidar com seus parentes fanáticos." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_00", "hash": "24D896AA5CEC732C", "target": "Queimar os estandartes de batalha Sahagin diante dos diques" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_TODO_01", "hash": "216CC7CC48043748", "target": "Informar Fyuu" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_000", "hash": "A61A2E6B2D6444EB", "target": "Pshhh... Os Tridentes de Coral ergueram estandartes de batalha a poucos passos dos diques. Acho perigoso deixar que provoquem assim os soldados nas muralhas." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_001", "hash": "F0EA6A2E4CF77679", "target": "Sei que o pai da ninhada aconselha a conversa em vez da destruição, mas, ao contrário do meu irmão de ninhada Pyuu, não acho que os Tridentes reagiriam bem a um pedido educado." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_002", "hash": "6D5E8FEB35DFAEF0", "target": "Acho que um pequeno ato de vandalismo é apropriado. Pegue estas pedras de sílex e faça saltar faíscas sobre os estandartes de guerra. Devem queimar muito bem." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_003", "hash": "41E4EE6F7DAD9CF7", "target": "Pegue as pedras de sílex que dei a você e queime aqueles estandartes! Todos sabem o que os Tridentes pensam de uma conversa racional. Se não podemos desviá-los do seu caminho com palavras, precisamos conter sua hostilidade!" },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_020", "hash": "805B5A9C69BDC505", "target": "Muito bem, caminhante da costa! Foi um ato simples, sem dúvida, mas você contribuiu discretamente para nossa causa." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_021", "hash": "75847D204F0B23EA", "target": "Pshhh. Meus irmãos de ninhada me acham esquentado, e o pai da ninhada Novv vive me dando bronca pelo meu temperamento..." },
+    { "gameKey": "quest/013/BanSah102_01380#TEXT_BANSAH102_01380_FYUU_000_022", "hash": "F1C2A6A5BDDF4F0E", "target": "Mas a abordagem direta é a <italic(1)>única<italic(0)> possível com os Tridentes de Coral. E não esqueça: tudo que fazemos é para evitar um conflito maior com seus povos sem nadadeiras." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc607_01007",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "" },
-    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "" }
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "Urianger olha em sua direção com ar suplicante e medo nos olhos." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "Rumores de que um primordial foi avistado na Mortalha Negra preocupam profundamente Urianger, que pede que você descubra sua identidade. Primeiro, procure o conselho do Arqueiro-Mor Lewin." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "O Arqueiro-Mor Lewin dá as boas-vindas e agradece sua ajuda na investigação do primordial." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "Falar com Lewin na Sede do Primeiro Arco" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "<if(gnum4,Amiga,Amigo)> do amanhecer, ouvi minha súplica. Notícias deveras funestas chegam de Gridania: um primordial percorre a Mortalha Negra." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "Aqueles que contemplaram o espírito arcano e regressaram para relatar o ocorrido afirmam jamais ter visto semelhante criatura." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "A Aljava dos Deuses conduz suas investigações neste instante, e parece-me que o Arqueiro-Mor Lewin acolheria de bom grado vossa valiosa ajuda. Rogo-vos que vos dirijais à Sede do Primeiro Arco e lanceis vossa luz sobre o assunto." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "<split(<string(gstr1)>, ,2)>. Ouvi falar muito de seus feitos nestes últimos dias." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "Veio oferecer sua força à investigação do primordial, certo? Sua ajuda é muito bem-vinda." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "Ir à Sede do Primeiro Arco?" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "Sim" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "Não" }
   ]
 }

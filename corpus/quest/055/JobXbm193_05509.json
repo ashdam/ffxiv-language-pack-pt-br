@@ -2,15 +2,15 @@
   "conversation": "quest/055/JobXbm193_05509",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_100_000", "hash": "29328F32CD6682CF", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_110_000", "hash": "D3742F448E9CE2C9", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_001", "hash": "A36DB0DF762E24DE", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_002", "hash": "B5132C3BB0A23B73", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_003", "hash": "901FFF9DFB10A46A", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_004", "hash": "9AEFC9E222F1AE5D", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_005", "hash": "B812FD68E30D0A21", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_006", "hash": "AF38EA0D11A8D237", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_007", "hash": "F6327C535C0ED7D2", "target": "" },
-    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_008", "hash": "BC0FED271A696693", "target": "" }
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_100_000", "hash": "29328F32CD6682CF", "target": "Para iniciar esta missão, primeiro cumpra os seguintes requisitos:" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_110_000", "hash": "D3742F448E9CE2C9", "target": "1. FINAL FANTASY XIV: Dawntrail deve estar registrado na sua conta de serviço.<br>2. Seu job atual deve ser Beastmaster.<br>3. Você precisa ter concluído o Second Master's Board." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_001", "hash": "A36DB0DF762E24DE", "target": "Eu sabia! Sabia que venceria, <if(gnum4,Lady,Sor)> <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_002", "hash": "B5132C3BB0A23B73", "target": "Embora Lady Lauda parecesse renovada, Sor Guttler teve palavras amargas sobre a derrota deles. “Por que se mostrou insuficiente nosso vínculo?” ...Ou algo assim." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_003", "hash": "901FFF9DFB10A46A", "target": "Enfim, depois de tranquilizar Sor Guttler quanto ao seu desempenho admirável, Lady Lauda admitiu que era hora de você receber um treinamento especial." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_004", "hash": "9AEFC9E222F1AE5D", "target": "Como você concluiu todos os tabuleiros com facilidade, ela tomou providências para dar um desafio à altura do seu Gil, por assim dizer." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_005", "hash": "B812FD68E30D0A21", "target": "Três graus de dificuldade, cada um mais exigente que o anterior. Como me diz o Mestre J'yhuh Tia, o caminho de um domador de feras raramente é fácil... mas a alegria de encontrar seu rumo compensa todo o esforço. Vamos em frente, <if(gnum4,minha amiga,meu amigo)>!" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_006", "hash": "AF38EA0D11A8D237", "target": "Os graus foram desbloqueados para o Crucible of the Unbroken. Para ajustar a dificuldade dos diferentes tabuleiros, fale com Lauda nos Prados de Bentbranch." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_007", "hash": "F6327C535C0ED7D2", "target": "Além disso, Crucible Rankings foi desbloqueado. Dispute com jogadores do mundo inteiro para alcançar a maior pontuação." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_008", "hash": "BC0FED271A696693", "target": "Você só poderá entrar na classificação ao desafiar tabuleiros no terceiro grau. Para mais informações, fale com Lauda nos Prados de Bentbranch." }
   ]
 }

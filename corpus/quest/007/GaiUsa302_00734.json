@@ -2,18 +2,18 @@
   "conversation": "quest/007/GaiUsa302_00734",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_00", "hash": "746063CB7E7311C4", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_01", "hash": "7C68AE03C4244426", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_02", "hash": "32FDF53AB872CCCA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_03", "hash": "A9F5ECA34FB39F05", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_00", "hash": "AFFC96A85F77A95B", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_01", "hash": "69734B6F326D19FB", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_02", "hash": "465D9954296F1E9E", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_000", "hash": "674D442C809154C6", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_001", "hash": "854B358786E5F203", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_002", "hash": "F7AEB907D6C1E94F", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_020", "hash": "236B0BAA7CDF4D29", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_021", "hash": "959E675EC30011AA", "target": "" },
-    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_022", "hash": "C9377426C7167AC6", "target": "" }
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_00", "hash": "746063CB7E7311C4", "target": "Teteroon tem lugares para você ir e coisinhas para você pegar." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_01", "hash": "7C68AE03C4244426", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Teteroon no Posto Comercial de Memeroon.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_02", "hash": "32FDF53AB872CCCA", "target": "Você conseguiu os ingredientes necessários. Leve-os a Teteroon." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_SEQ_03", "hash": "A9F5ECA34FB39F05", "target": "Teteroon começou a preparar sua aguardente Qiqirn com os ingredientes que você forneceu. Mas uma boa aguardente leva tempo. Fale com ele mais tarde para saber como ficou a mistura." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_00", "hash": "AFFC96A85F77A95B", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Teteroon no Posto Comercial de Memeroon.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_01", "hash": "69734B6F326D19FB", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Teteroon no Posto Comercial de Memeroon.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TODO_02", "hash": "465D9954296F1E9E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Teteroon no Posto Comercial de Memeroon.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_000", "hash": "674D442C809154C6", "target": "Bom Buscaroon ajuda Teteroon. Teteroon morto sem bom Buscaroon. Tem que dar agradecinhos. Muitos, muitos agradecinhos. Teteroon faz aguardente Qiqirn para Buscaroon! Buscaroon ama aguardente!" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_001", "hash": "854B358786E5F203", "target": "Você ajuda Teteroon fazer aguardente? Precisa de coisinhas para fazer. Precisa de muitas, muitas coisinhas." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_002", "hash": "F7AEB907D6C1E94F", "target": "Precisa de água boa. Água boa da Cascata dos Tolos. E precisa de bigodes de coeurl. Precisa de cinco bigodes de coeurl bons." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_020", "hash": "236B0BAA7CDF4D29", "target": "Teteroon faz aguardente para Buscaroon. Você traz coisinhas que Teteroon precisa?" },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_021", "hash": "959E675EC30011AA", "target": "Você trouxe todas coisinhas! Teteroon faz aguardente agora. Faz aguardente boa para bom Buscaroon." },
+    { "gameKey": "quest/007/GaiUsa302_00734#TEXT_GAIUSA302_00734_TETEROON_000_022", "hash": "C9377426C7167AC6", "target": "Teteroon começa fazer aguardente agora. Aguardente boa leva tempo. Mais tempo, mais boa. Você volta mais tarde." }
   ]
 }

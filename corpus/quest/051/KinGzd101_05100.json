@@ -2,17 +2,17 @@
   "conversation": "quest/051/KinGzd101_05100",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SEQ_00", "hash": "5C20328E031F78A0", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_00", "hash": "2730E79354FBFD03", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_01", "hash": "390E967C9CC7AB82", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_000", "hash": "D80ADED9EDBEBCC7", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_001", "hash": "70B48250A178627F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_002", "hash": "B05D104827582B0F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_003", "hash": "334CCA58A5D3FFE7", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SYSTEM_000_100", "hash": "E47850A2AF522831", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_004", "hash": "81E5937D1A40796B", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_005", "hash": "3666AE01FF07284F", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_006", "hash": "52127E8441120396", "target": "" },
-    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_007", "hash": "C7A4557BC3E2104D", "target": "" }
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SEQ_00", "hash": "5C20328E031F78A0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Quroll Ja quer ensinar você sobre os irmãos abençoados." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_00", "hash": "2730E79354FBFD03", "target": "Examinar a estátua dos irmãos abençoados" },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_TODO_01", "hash": "390E967C9CC7AB82", "target": "Falar com Quroll Ja" },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_000", "hash": "D80ADED9EDBEBCC7", "target": "Você faz parte da comitiva da Terceira Promessa, não é? Fiquei feliz ao ouvir seu interesse por nossos costumes." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_001", "hash": "70B48250A178627F", "target": "Talvez queira saber mais sobre nossa cultura? Posso ensinar, se quiser." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_002", "hash": "B05D104827582B0F", "target": "A estátua atrás de mim tem grande importância cultural para nosso povo. Fique à vontade para perguntar sobre qualquer coisa que desperte seu interesse." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_003", "hash": "334CCA58A5D3FFE7", "target": "A estátua atrás de mim representa muita coisa sobre Mamook. Observe dali e eu explico o que despertar sua curiosidade." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_SYSTEM_000_100", "hash": "E47850A2AF522831", "target": "Examine a estátua dos irmãos abençoados. Você pode mover a câmera e aproximar ou afastar a imagem. Selecione uma parte e veja mais detalhes com <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_004", "hash": "81E5937D1A40796B", "target": "Em resumo, esta estátua simboliza o coração de Mamook, até na pedra em que foi esculpida, a mesma deixada pelos Yok Huy que governaram estas terras há muito tempo." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_005", "hash": "3666AE01FF07284F", "target": "Nossos antepassados deram novas formas às estruturas abandonadas aqui e construíram a cidade que você vê hoje, criando seu próprio futuro." },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_006", "hash": "52127E8441120396", "target": "...Ao contrário de seus descendentes, agora presos a um passado, uma terra e uma prática que envenenaram as perspectivas de Mamook. Será que somos mesmo capazes de mudar?" },
+    { "gameKey": "quest/051/KinGzd101_05100#TEXT_KINGZD101_05100_QUROLLJA_000_007", "hash": "C7A4557BC3E2104D", "target": "Mas não, assim como nossos ancestrais encontraram seu caminho, nós também encontraremos. Enquanto buscamos descobrir o que ainda podemos nos tornar, peço que nunca se esqueça de tudo o que Mamook já foi." }
   ]
 }

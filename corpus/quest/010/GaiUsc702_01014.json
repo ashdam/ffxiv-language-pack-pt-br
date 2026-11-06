@@ -2,17 +2,17 @@
   "conversation": "quest/010/GaiUsc702_01014",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_02", "hash": "6D97BDC0E1A6EE3C", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_TODO_00", "hash": "8E22D06DF2B27721", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_000", "hash": "22C5D97E7D4DFF52", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_001", "hash": "FD7C39910D22E4AB", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_020", "hash": "08E6E765FA36FAF2", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_021", "hash": "BDDD32A37AC1B6FD", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_022", "hash": "A8D4664AE574176D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_023", "hash": "F1D4CD1F7DC04298", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030", "hash": "C313CE7C8BB696A0", "target": "" },
-    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031", "hash": "3DE48FF93F83F9C8", "target": "" }
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_00", "hash": "02D1B311B5D808FA", "target": "Nedrick conhece um lugar onde alguém com sua experiência poderia aprimorar suas habilidades." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_01", "hash": "CD44207A035E47CA", "target": "Segundo Nedrick, uma região conhecida como Aurum Vale pode oferecer um desafio à altura de seus feitos. O vale fica no sudoeste das terras altas centrais de Coerthas. Vá até lá e procure um homem chamado Willielmus." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SEQ_02", "hash": "6D97BDC0E1A6EE3C", "target": "Willielmus permite, a contragosto, sua entrada em Aurum Vale. Aceite o desafio, mas tome cuidado com os vapores mortais lá dentro!<br><br>※Você pode acessar Aurum Vale pelo Duty Finder." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_TODO_00", "hash": "8E22D06DF2B27721", "target": "Falar com Willielmus em Aurum Vale" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_000", "hash": "22C5D97E7D4DFF52", "target": "Não dou dois passos por aqui sem ouvir <split(<string(gstr1)>, ,1)> pra cá, <split(<string(gstr1)>, ,1)> pra lá. Até parece que você é <if(gnum4,uma heroína,um herói)> dos diabos!" },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_NEDRICK_000_001", "hash": "FD7C39910D22E4AB", "target": "...Mas estou brincando. Até eu vejo que você está se coçando pra achar um novo campo de batalha e aperfeiçoar suas habilidades. Por sorte, conheço o lugar perfeito: Aurum Vale. Vá para sudoeste pelas terras altas centrais de Coerthas e procure um homem chamado Willielmus. Diga que Nedrick mandou você." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_020", "hash": "08E6E765FA36FAF2", "target": "Saudações. Espere, não diga nada: Nedrick mandou você." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_021", "hash": "BDDD32A37AC1B6FD", "target": "Diga, você sabe como Aurum Vale ganhou esse nome tão atraente? Bem, permita-me esclarecer." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_022", "hash": "A8D4664AE574176D", "target": "A caverna é rica em enxofre e minério de mitril que, ao reagirem com a água subterrânea, liberam vapores dourados. É uma visão belíssima... até você perceber que aquelas malditas nuvens mortais estão queimando seu peito por dentro." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_WILLIELMUS_000_023", "hash": "F1D4CD1F7DC04298", "target": "Se ainda quiser arriscar a vida, não serei eu quem vai impedir. Mas tente não morrer. Já arrastei cadáveres suficientes para fora do vale por uma vida inteira." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_030", "hash": "C313CE7C8BB696A0", "target": "Você desbloqueou o Duty Finder! Esse recurso permite participar de missões com outros jogadores sem precisar formar um grupo por conta própria." },
+    { "gameKey": "quest/010/GaiUsc702_01014#TEXT_GAIUSC702_01014_SYSTEM_000_031", "hash": "3DE48FF93F83F9C8", "target": "Para abrir a interface do Duty Finder, selecione <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> em <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> no <colortype(500)><edgecolortype(501)>menu principal<edgecolortype(0)><colortype(0)>." }
   ]
 }

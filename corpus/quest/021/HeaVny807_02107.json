@@ -2,18 +2,18 @@
   "conversation": "quest/021/HeaVny807_02107",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "" },
-    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "" }
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_000", "hash": "520965EFBBFC76FE", "target": "Pode me pintar de amarelo e me chamar de chocobo! Esse aí é o caderno de exploração de Millith!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_001", "hash": "7CB9D95929F6A38C", "target": "Ahã. Desculpe, me empolguei por um instante. Sou Kester Ironheart, primo de Millith e uma espécie de explorador, como quase toda a minha família." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_002", "hash": "2DCB0EE3B214FEBA", "target": "Na última conversa com Millith, ela me falou de alguém com uma sede insaciável de aventuras. Agora sei que era você. Pode me emprestar seu caderno por um instante? Não se preocupe, não vou comê-lo nem nada." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_003", "hash": "CD61A35902A09D9B", "target": "Aqui, aqui e, sim, aqui! Acho que está pronto." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_004", "hash": "33096AB7E14A151E", "target": "Não é segredo que Ishgard tem algumas das paisagens mais extraordinárias destas terras. Veja bem, ainda não vi todas, mas sei onde encontrá-las. E agora você também sabe, graças às notas e aos rumores que anotei no seu caderno de exploração." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_005", "hash": "29AA27DBFC065196", "target": "Sim, há dezenas de paisagens deslumbrantes esperando por você. Mas suas pernas não vão levar você a todas elas. Se algum lugar parecer fora de alcance, talvez seja hora de subir aos céus no lombo de uma ave de penas negras." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_007", "hash": "8D15708521893E8B", "target": "...Opa, se eu disser mais, vou roubar sua alegria de descobrir essas vistas espetaculares por conta própria. Que os deuses acompanhem você, <if(gnum4,colega exploradora,colega explorador)>, e que este momento marque o começo de uma jornada de maravilhas!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_008", "hash": "330E22183DABDCD5", "target": "Entradas de Heavensward foram adicionadas ao Sightseeing Log!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_009", "hash": "9CAF91FF27503EFD", "target": "Você precisa estar no nível 50 ou superior para registrar paisagens de Heavensward. Vá ao local indicado e cumpra as condições necessárias para concluir a entrada e ganhar pontos de experiência." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_100_009", "hash": "AEBABCC836F8FE9F", "target": "Os locais recém-adicionados ao Sightseeing Log serão marcados por uma esfera de luz. Se encontrar uma dessas esferas em suas aventuras, pare um instante para registrar a entrada." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_010", "hash": "01DCAF57FFA41E2A", "target": "Use sua perspicácia e as notas de Kester para identificar essas paisagens deslumbrantes e o modo certo de apreciá-las. Veja Ishgard como só os maiores exploradores viram!" },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_KESTERIRONHEART_000_020", "hash": "6043B469EEB4B4E0", "target": "Há muitas paisagens maravilhosas nestas terras, mas o caminho é perigoso. Quem me dera ter mais habilidade nas artes marciais, para ver tudo que há para ver..." },
+    { "gameKey": "quest/021/HeaVny807_02107#TEXT_HEAVNY807_02107_SYSTEM_000_021", "hash": "FB88BF105C29E83F", "target": "Para iniciar esta missão, você precisa ter pelo menos uma classe ou job no nível 52 ou superior." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGzd102_05101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_SEQ_00", "hash": "D494A0ADB9D9F43A", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_00", "hash": "DC0038DA8656336B", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_01", "hash": "56DF01FD6AFA0314", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_000", "hash": "C3D4C05165BBB67A", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_001", "hash": "8776BF06C223AA8D", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_002", "hash": "75AD894CF9EBAE51", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_003", "hash": "87EEC69C9E99249F", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_004", "hash": "B9E9CA541AD70714", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_005", "hash": "13B3D25EFC4C3E1B", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_006", "hash": "6C5C4326765D395C", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_007", "hash": "14BFE40AA37ADF45", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_008", "hash": "A53386105BFDAC5C", "target": "" },
-    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_009", "hash": "6DB49E000C98A743", "target": "" }
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_SEQ_00", "hash": "D494A0ADB9D9F43A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Liinel Ja gostaria de pedir um favor." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_00", "hash": "DC0038DA8656336B", "target": "Procurar e obter borboletas de Jayunja" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_TODO_01", "hash": "56DF01FD6AFA0314", "target": "Entregar as borboletas de Jayunja a Liinel Ja" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_000", "hash": "C3D4C05165BBB67A", "target": "Ah, que sorte nos encontrarmos! Tenho um favor a pedir a você, que anunciou os ventos da mudança para toda Mamook." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_001", "hash": "8776BF06C223AA8D", "target": "Há borboletas perto do Cenote Jayunja que emitem um suave brilho azul. Não são os monstros gigantes, mas criaturinhas que voejam por aí. Rápidas e espertas." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_002", "hash": "75AD894CF9EBAE51", "target": "Capturá-las pode ser mais trabalhoso do que imagina, mas teria minha eterna gratidão se trouxesse três." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_003", "hash": "87EEC69C9E99249F", "target": "Poderia fazer a gentileza de me trazer três borboletas do Cenote Jayunja? As pequenas, veja bem, não as feras maiores." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_004", "hash": "B9E9CA541AD70714", "target": "Conseguiu encontrar as borboletas?" },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_005", "hash": "13B3D25EFC4C3E1B", "target": "São essas mesmas! Soltamos uma revoada delas durante a troca de votos matrimoniais, para celebrar a nova jornada do casal." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_006", "hash": "6C5C4326765D395C", "target": "O Cenote Jayunja, em particular, é considerado sagrado. Por isso, as borboletas que vivem lá são as mais valorizadas nessas cerimônias." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_007", "hash": "14BFE40AA37ADF45", "target": "Dizem que as asas contrastantes, unidas quando a borboleta repousa, representam a união de dois amantes de clãs diferentes e a devoção eterna entre eles." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_008", "hash": "A53386105BFDAC5C", "target": "Nenhum símbolo poderia ser mais auspicioso, ainda mais vindo das mãos que trouxeram novas possibilidades à nossa cidade." },
+    { "gameKey": "quest/051/KinGzd102_05101#TEXT_KINGZD102_05101_LIINELJA_000_009", "hash": "6DB49E000C98A743", "target": "Você e a Terceira Promessa fizeram por nós mais do que imaginam. Estas borboletas certamente trarão toda a felicidade ao casal que abençoarem." }
   ]
 }

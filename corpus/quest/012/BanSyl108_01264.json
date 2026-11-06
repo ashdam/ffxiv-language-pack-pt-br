@@ -2,17 +2,17 @@
   "conversation": "quest/012/BanSyl108_01264",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_00", "hash": "8D095A97E2CB7041", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_01", "hash": "C94DA09CA3BC5010", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_02", "hash": "B6F313CFA7E05B5B", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TODO_00", "hash": "1A4D5F64FC8122C6", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_000", "hash": "6F29F3BC3A95C964", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_001", "hash": "683224C8FB818BD6", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_002", "hash": "181ABD2BBE7DFD28", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_003", "hash": "F69C57D115BF6A81", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_004", "hash": "3D676368E49F3728", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_020", "hash": "02CE61CF1ADD0942", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_021", "hash": "E89DB527E8B42EAF", "target": "" },
-    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_022", "hash": "1A9845E207935470", "target": "" }
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_00", "hash": "8D095A97E2CB7041", "target": "Tonaxia precisa urgentemente da ajuda de alguém que se aventura." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_01", "hash": "C94DA09CA3BC5010", "target": "A presença constante do Império Garleano na floresta faz Tonaxia e seus companheiros silfos temerem pela vida. Participe do FATE “A Wrench in the Works” no leste de Larkscall e entregue a Tonaxia uma prova da vitória para tranquilizar a pobre sílfide." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_SEQ_02", "hash": "B6F313CFA7E05B5B", "target": "Tonaxia fica profundamente impressionada com sua vitória sobre a tecnologia imperial e parece ansiosa para contar a todos no Pequeno Consolo. Os silfos ainda não podem descansar tranquilos, porém, e ficariam muito mais animados se você permanecesse entre eles mais um pouco." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TODO_00", "hash": "1A4D5F64FC8122C6", "target": "Participar do FATE “A Wrench in the Works” e voltar com uma prova da vitória" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_000", "hash": "6F29F3BC3A95C964", "target": "Amigável, por favor! Estes aqui correm um perigo terrível, terrível!" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_001", "hash": "683224C8FB818BD6", "target": "Os amigos deste aqui viram os de aço na floresta! Viram gigantes espinhosos arrancando árvores do chão! Aqueles mal escaparam com vida!" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_002", "hash": "181ABD2BBE7DFD28", "target": "A floresta não é segura para estes aqui com os espinhosos quebrando e esmagando tudo, e este aqui não pode fazer nada." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_003", "hash": "F69C57D115BF6A81", "target": "O que é amigável é forte, sim? O que é amigável precisa esmagar o espinhoso e mandar o espinhoso embora." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_004", "hash": "3D676368E49F3728", "target": "O que é amigável fará isso, sim? Que traga um pedaço do espinhoso para estes aqui saberem que não há nada a temer." },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_020", "hash": "02CE61CF1ADD0942", "target": "Este aqui não ouve mais estrondos e pancadas. Será que este aqui pode sonhar?" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_021", "hash": "E89DB527E8B42EAF", "target": "O que é isso? O que é amigável esmagou o espinhoso em pedacinhos?" },
+    { "gameKey": "quest/012/BanSyl108_01264#TEXT_BANSYL108_01264_TONAXIA_000_022", "hash": "1A9845E207935470", "target": "Este aqui admira a força do que é amigável! Este aqui precisa mostrar isso a todos estes aqui, para saberem que o que é amigável é <if(gnum4,heroína,herói)> destes aqui!" }
   ]
 }

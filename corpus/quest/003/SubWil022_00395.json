@@ -2,17 +2,17 @@
   "conversation": "quest/003/SubWil022_00395",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_00", "hash": "B1987F38E708E2AA", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_01", "hash": "98E11731E844C26F", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_02", "hash": "35B22A1841EE0CB3", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_TODO_00", "hash": "32FF2C02BE726205", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_1", "hash": "160A2909CD944258", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_2", "hash": "F6CF080D160CD926", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_3", "hash": "9B7858870402889A", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_4", "hash": "F10E1BDD3958C301", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_10", "hash": "62D5343E1D844C06", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_11", "hash": "4F93159654E1067E", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_12", "hash": "BAC2EC5D5985625E", "target": "" },
-    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_13", "hash": "D30AE3F5313EC638", "target": "" }
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_00", "hash": "B1987F38E708E2AA", "target": "Landebert deseja lhe oferecer uma pequena demonstração de gratidão." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_01", "hash": "98E11731E844C26F", "target": "Para agradecer pela entrega do remédio, Landebert lhe oferece um vaso rachado de valor desconhecido. Talvez alguém no Mercado da Avenida Safira possa avaliá-lo." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SEQ_02", "hash": "35B22A1841EE0CB3", "target": "Uma rápida olhada basta para Syntgoht declarar que o vaso não vale nada. Ele aconselha você a acompanhar de perto as tendências do mercado, pois até os comerciantes de maior sucesso podem cair em desgraça, como aconteceu com ele." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_TODO_00", "hash": "32FF2C02BE726205", "target": "Encontrar um comerciante que avalie o vaso" },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_1", "hash": "160A2909CD944258", "target": "Poucos vêm aqui por vontade própria, menos ainda trazendo remédio. Sua bondade não devia ficar sem recompensa." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_2", "hash": "F6CF080D160CD926", "target": "Este vaso é importante pra nós, mas quero que fique com ele." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_3", "hash": "9B7858870402889A", "target": "Sei que é só uma cerâmica velha, mas pode ter valor para... colecionadores de artefatos culturais." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_LANDEBER_000_4", "hash": "F10E1BDD3958C301", "target": "Tem gente que paga um bom dinheiro por objetos assim. Se for ao Mercado da Avenida Safira, é bem capaz de encontrar alguém." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_10", "hash": "62D5343E1D844C06", "target": "Que bom ver você, <italic(1)>que bom<italic(0)>! O que <if(gnum4,uma dama,um cavalheiro)> de tão bom gosto procura hoje?" },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_11", "hash": "4F93159654E1067E", "target": "Hmmm... Permita-me examinar esse vaso." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_12", "hash": "BAC2EC5D5985625E", "target": "...Espero que não tenha gastado muito dinheiro nesse lixo! Uma enxurrada de objetos parecidos trazidos por refugiados acabou com a procura que existia." },
+    { "gameKey": "quest/003/SubWil022_00395#TEXT_SUBWIL022_00395_SYNTGOHT_000_13", "hash": "D30AE3F5313EC638", "target": "Os mercados são volúveis. Se perder de vista as tendências, você pode perder tudo, como aconteceu comigo. Houve mercados inteiros com meu nome, até que o destino e a arrogância me reduziram a isto. Pelo seu bem, espero que não precise aprender essa lição como eu aprendi." }
   ]
 }

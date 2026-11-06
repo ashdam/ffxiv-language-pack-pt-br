@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_00", "hash": "40F05B49DD48D068", "target": "Varshahn tem uma mensagem de Sharlayan." },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_01", "hash": "D0B6C4AEE895F7D4", "target": "Enquanto aproveita sua estadia em Radz-at-Han, você descobre por Varshahn que os Estudantes de Baldesion solicitam sua presença em Sharlayan. Assim, parte para o Baldesion Annex, onde Ojika Tsunjika aguarda." },
-    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_02", "hash": "E5404F2B7E087B93", "target": "Krile e G'raha Tia contam que chamaram você a pedido de Erenville. O coletor voltou da expedição no exterior antes do previsto, e a mudança parece ligada a uma visitante que quer apresentar. Enquanto aguardava sua chegada, Erenville foi ao Studium, e vocês decidem procurá-lo lá." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_02", "hash": "E5404F2B7E087B93", "target": "Krile e G'raha Tia contam que chamaram você a pedido de Erenville. O coletor voltou da expedição no exterior antes do previsto, e a mudança parece ligada a uma visitante que quer apresentar. Enquanto aguardava sua chegada, Erenville foi a Studium, e vocês decidem procurá-lo lá." },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_03", "hash": "690B8E9926A598BB", "target": "Após uma breve busca, você encontra Erenville e a visitante: Wuk Lamat, pretendente ao trono de Tuliyollal, no continente de Tural, no extremo oeste. Sociável, ela logo revela seu propósito: quer que a acompanhe à terra natal e a ajude a vencer o rito de sucessão, disputa que determinará o próximo governante. Sendo um pedido brusco a alguém que acaba de conhecer, propõe uma caçada juntos para se conhecerem melhor." },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_TODO_00", "hash": "0AD463C6EA8F11D6", "target": "Falar com Ojika Tsunjika no Baldesion Annex" },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_TODO_01", "hash": "4834401656641C76", "target": "Falar com Krile" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_105", "hash": "69A738221D138773", "target": "Imagino que esteja tão <if(gnum4,surpresa,surpreso)> quanto nós, pois ele deveria estar numa longa expedição." },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_GRAHATIA_000_106", "hash": "415DE49C32EF8618", "target": "Algo deve ter exigido uma mudança de planos." },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_108", "hash": "BBDE725754BD561A", "target": "Só me disse que quer apresentar alguém a <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_109", "hash": "1B11C14F3E63BE6F", "target": "Também disse que cuidaria de assuntos no Studium. Vamos procurá-lo lá?" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_109", "hash": "1B11C14F3E63BE6F", "target": "Também disse que cuidaria de assuntos em Studium. Vamos procurá-lo lá?" },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_GRAHATIA_000_115", "hash": "C9543C1F4464F159", "target": "A volta antecipada de Erenville deve ter relação com a visitante. Quem será...?" },
     { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_200", "hash": "035208E3DE74DACD", "target": "Bem, onde está Erenville?" }
   ]

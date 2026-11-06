@@ -2,16 +2,16 @@
   "conversation": "quest/001/SubWil002_00151",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "" },
-    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "" }
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_00", "hash": "B9CFE62A73A5A75D", "target": "Didilata precisa de ajuda para pagar uma dívida há muito vencida." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_01", "hash": "78B1B342FCDDCC76", "target": "Para pagar a dívida, Didilata está disposto a vender a aliança de sua falecida mãe, apesar de seu imenso valor sentimental. Leve o anel ao Ossuário de Arrzaneth para que Mamane o avalie." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_SEQ_02", "hash": "E792A3E7979FF24F", "target": "Mamane declara friamente que o anel é falso e passa a cobrar por seus serviços de avaliação. Porém, está disposta a abrir uma exceção e dispensar o pagamento, além de “se livrar” do anel de graça. Isso quita sua dívida com o Ossuário, mas não ajuda em nada Didilata." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_TODO_00", "hash": "3E301FA0E2E25788", "target": "Levar o anel a Mamane para avaliação" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_1", "hash": "CD5DC09C685307CC", "target": "Olha, não t-t-tenho os Gil aqui comigo, mas tenho este anel!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_2", "hash": "D90D95E4BD24542B", "target": "Não parece g-g-grande coisa, mas com certeza vale uma fortuna. Era a aliança da minha querida e falecida mãe, que os d-d-deuses a tenham. Mas ela vai entender!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_DIDILATA_000_3", "hash": "557640E41ACF7E26", "target": "Mostra pra Mamane, lá no Ossuário, e você vai c-c-conseguir seu dinheiro!" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_5", "hash": "DC0DD0791D1CE7AA", "target": "Saudações. O que traz você ao Ossuário de Arrzaneth?" },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_6", "hash": "379B86877931856F", "target": "Você deseja vender esta herança de família em nome de um tal Didilata? Muito bem. É uma pena quando medidas tão drásticas se fazem necessárias..." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_7", "hash": "747EFBDE6A5733E2", "target": "...e mais ainda quando o objeto em questão é uma <italic(1)>falsificação<italic(0)>. E tão espalhafatosa e malfeita! Além disso, você <italic(1)>sabe<italic(0)> que nossas avaliações não são gratuitas? Normalmente, a taxa é descontada do valor combinado." },
+    { "gameKey": "quest/001/SubWil002_00151#TEXT_SUBWIL002_00151_MAMANE_000_8", "hash": "DBDA407185C53513", "target": "Infelizmente, considerando o valor insignificante deste anel, você ainda ficaria nos devendo. Mas, como esta é uma situação um tanto incomum, vamos dispensar a taxa desta vez. Não se preocupe com a bugiganga. Eu mesma vou cuidar de seu descarte." }
   ]
 }

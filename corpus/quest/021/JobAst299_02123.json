@@ -2,19 +2,19 @@
   "conversation": "quest/021/JobAst299_02123",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_000", "hash": "2E316D61778D4A8A", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q1_000_000", "hash": "0FE2C2D5DDDE38B9", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_001", "hash": "7F1206FC323C0958", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_002", "hash": "E9853E2B0B83A44B", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_001", "hash": "9438D604EF4DE991", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_002", "hash": "E2F4B87021A7E7DC", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_003", "hash": "94B194317533E743", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_004", "hash": "5F9BDEE844BF51E0", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q2_000_000", "hash": "FC70C75225A48E0A", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_001", "hash": "ACA3B1D60159036B", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_002", "hash": "38E1CA6CD38A0628", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_010", "hash": "320C07491D233B1A", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_0011", "hash": "39C3A5FBFDA57355", "target": "" },
-    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_015", "hash": "7F61F431CD2E680B", "target": "" }
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_000", "hash": "2E316D61778D4A8A", "target": "Saudações, que bom receber você no Athenaeum Astrologicum. Talvez o destino tenha trazido você a este lugar de aprendizado... Ou talvez queira saber mais sobre o próprio destino?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q1_000_000", "hash": "0FE2C2D5DDDE38B9", "target": "Quer saber mais sobre o destino?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_001", "hash": "7F1206FC323C0958", "target": "Sim" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_002", "hash": "E9853E2B0B83A44B", "target": "Não" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_001", "hash": "9438D604EF4DE991", "target": "Então foi sensato vir até aqui. Pois nas estrelas está escrito o destino de cada mulher e de cada homem de Hydaelyn." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_002", "hash": "E2F4B87021A7E7DC", "target": "Você diz isso, mas aqui está. Basta aprender a abrir os olhos e enxergar as respostas acima de nós, no firmamento infinito." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_003", "hash": "94B194317533E743", "target": "Foi nas estrelas que li que <if(gnum4,uma mulher,um homem)> visitaria o Athenaeum neste exato dia. <if(gnum4,Uma mulher,Um homem)> que teria um papel importante na <italic(1)>minha<italic(0)> vida." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_004", "hash": "5F9BDEE844BF51E0", "target": "Ah, mas perdoe-me. Nem o mais habilidoso leitor consegue adivinhar um nome nos céus. Poderia me dizer o seu, para que eu saiba quem será <if(gnum4,minha mais nova protegida,meu mais novo protegido)>?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q2_000_000", "hash": "FC70C75225A48E0A", "target": "Dizer seu nome a Jannequinard e aceitar sua tutela?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_001", "hash": "ACA3B1D60159036B", "target": "Sim" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_002", "hash": "38E1CA6CD38A0628", "target": "Não" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_010", "hash": "320C07491D233B1A", "target": "<split(<string(gstr1)>, ,1)>. Bem... Eu não esperava por isso. Mas o que é um nome, senão uma tentativa dos nossos progenitores de controlar a vida de seus filhos? Vidas cujos caminhos já foram previstos! De certa forma, é claro." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_0011", "hash": "39C3A5FBFDA57355", "target": "Meu nome é Jannequinard de Durendaire, e sou um Astrologian da Santa Sé. Guarde esse nome, pois ecoará para sempre nos anais da história ishgardesa. Bem... assim que eu o puser lá. Assim que <italic(1)>nós<italic(0)> o pusermos lá!" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_015", "hash": "7F61F431CD2E680B", "target": "Bem... hum... Que constrangedor. Não seria bem verdade dizer que é a primeira vez que recusam minha oferta hoje... Mas, maldição dos Doze, eu tinha certeza de que você era a pessoa da minha visão!" }
   ]
 }

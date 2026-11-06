@@ -2,18 +2,18 @@
   "conversation": "quest/043/AktKzi019_04334",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_002", "hash": "5BF616955E377033", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_003", "hash": "20802EAC5BBF6265", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_010", "hash": "08D3D381B35FAFA4", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_011", "hash": "CA40390A12B16305", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_012", "hash": "E2DF72226439E3D8", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_013", "hash": "A88EC1BE3A1901AE", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_014", "hash": "2FA672E80263E553", "target": "" },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_015", "hash": "19D50BC7B2AF25D6", "target": "" }
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Marvene pensa demoradamente na melhor forma de conseguir o que precisa." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Obter cristais de gelo de center somas" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "Entregar os cristais de gelo de soma a Marvene" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "Ora, olá. Hum, deixe eu adivinhar... você é <if(gnum4,aventureira,aventureiro)>? <if(gnum4,Uma mercenária,Um mercenário)> que aceita enfrentar qualquer fera, desde que a recompensa esteja à altura?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "Pois bem, tenho um serviço para você e uma recompensa à altura." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_002", "hash": "5BF616955E377033", "target": "Preciso de dois cristais muito peculiares, obtidos de somas, gigantes de gelo famosos pela ferocidade. Encontrará esses monstros gélidos andando pesadamente a sudeste daqui. Então, pode fazer esse favor?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_003", "hash": "20802EAC5BBF6265", "target": "Traga os cristais que pedi e receberá sua recompensa. Imagino que seja um trabalho fácil para você. Parece ser <if(gnum4,uma mulher,um homem)> que já passou por muitos apertos." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_010", "hash": "08D3D381B35FAFA4", "target": "Ainda está <if(gnum4,inteira,inteiro)>? Muito bem. Agora, trouxe os cristais?" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_011", "hash": "CA40390A12B16305", "target": "Sim, exatamente o que eu procurava. Excelente trabalho." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_012", "hash": "E2DF72226439E3D8", "target": "Estou vendo esse brilho nos seus olhos. Quer saber como pretendo usá-los, não? Então deixe eu satisfazer sua curiosidade. Como sabe, Kokkol e seus colegas tolos acharam por bem amplificar o éter de fogo usando o reator." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_013", "hash": "A88EC1BE3A1901AE", "target": "Estou vendo esse brilho nos seus olhos. Quer saber como pretendo usá-los, não? Então deixe eu satisfazer sua curiosidade até onde posso. Tem algo errado com o reator. Ouvi dizer que planos perigosos estão em andamento neste instante." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_014", "hash": "2FA672E80263E553", "target": "Detectamos sinais de calor anormal numa parte do condutor de éter sob nossos pés. Estes cristais de gelo podem conter os picos indevidos de temperatura ao resfriar as áreas afetadas à força." },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_015", "hash": "19D50BC7B2AF25D6", "target": "Mas chega dos meus problemas. Você fez mais do que o necessário para merecer sua recompensa, <if(gnum4,aventureira,aventureiro)>. Se precisar de ajuda no futuro, certamente vou recorrer a você e à sua experiência." }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "quest/051/KinGzd107_05106",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_003", "hash": "6EFA6AA1105A8858", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_006", "hash": "4DC919C7AD8D8CEE", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_007", "hash": "38E245ACEE68C6BF", "target": "" },
-    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "" }
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_SEQ_00", "hash": "FD3908AE18851C35", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Kiishel Ja precisa de mais braços e gostaria de contar com os seus." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_00", "hash": "F1B4FF4D6439767B", "target": "Usar o martelo de Kiishel Ja para obter pedaços de cristal azul" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_TODO_01", "hash": "A6414829F0058F85", "target": "Entregar o martelo de Kiishel Ja e os pedaços de cristal azul a Kiishel Ja" },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_000", "hash": "73658C8D446AB505", "target": "Você não parece ter medo de um pouco de trabalho braçal." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_001", "hash": "9CDFE5BA43A4A61C", "target": "Precisamos de cristais azuis do Cenote Neyozzote, mas nossos ajudantes de sempre estão ocupados reformando a cidade." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_002", "hash": "B052C01CF5D13EB8", "target": "Independentemente do que a cidade faça, ainda temos najool para cultivar. Vou emprestar meu martelo. Se puder ir quebrar dois pedaços de cristal azul para mim, ficarei muito agradecida." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_003", "hash": "6EFA6AA1105A8858", "target": "Você vai encontrar os cristais de que precisamos perto das árvores de luz viva. Ah, e nem <italic(1)>pense<italic(0)> em perder meu martelo. Ele vale mais que você." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_004", "hash": "F28204AF228DE510", "target": "Encontrou os cristais? E vou querer meu martelo de volta, por favor." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_005", "hash": "9CA4066EA97DD103", "target": "Perfeito. Colocar estes cristais no reservatório intensifica as energias da água e deixa os najool mais doces." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_006", "hash": "4DC919C7AD8D8CEE", "target": "Por sinal, a água intensificada também faz as cascas brilharem mais. Pode ser influência da árvore de luz viva." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_007", "hash": "38E245ACEE68C6BF", "target": "Quem é de fora pode estranhar as cascas brilhantes, mas elas não fazem mal. Comemos najool há séculos sem nenhum efeito adverso." },
+    { "gameKey": "quest/051/KinGzd107_05106#TEXT_KINGZD107_05106_KIISHELJA_000_008", "hash": "B617ACDC46A4FDA4", "target": "De qualquer forma, o que tem por dentro importa mais que a aparência. E, enquanto tivermos tão pouco além deles para comer, é bom que meus najool sejam os mais deliciosos que existem." }
   ]
 }

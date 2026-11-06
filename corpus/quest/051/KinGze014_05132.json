@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze014_05132",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "" },
-    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "" }
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Uma praga na plantação já é um problema. Mas e quando as plantas <italic(1)>são<italic(0)> a praga?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "Espalhar repelente de flying popoto nos locais indicados e derrotar os inimigos que aparecerem" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "Falar com o troubled civilian" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, viajante. He, você parece conhecer bem o perigo. Se for o caso, tenho um trabalho para você." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "Ultimamente estamos cheios de flying popotoes. Não se deixe enganar pelo nome, são uns bichinhos terríveis. Espalhamos repelente há um tempo, mas o efeito parece estar passando." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "Desde que aquele domo enorme apareceu, tivemos todo tipo de problema, e eu não consigo arranjar tempo para espalhar repelente. Deve ser por isso que essas malditas batatas estão aparecendo aos montes. Desse jeito, vão tomar conta de tudo!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "Eu mesmo iria espalhar o repelente, mas elas me devorariam num instante. Será que você pode cuidar disso por mim?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "Ah, o repelente não faz efeito na hora. Então as flying popotoes que já estiverem lá provavelmente vão ter que ser eliminadas do jeito tradicional. Se puder cuidar disso também, vai fazer um grande favor a todos nós!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "Puxa, a última coisa que quero no meu obituário é “Devorado por batatas...”" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "Terminou? Isso deve mantê-las longe por um tempo, pelo menos." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "Até descobrirmos como fazer um repelente com sucos de cheiro amargo, aquelas batatas arrasavam nossas plantações e comiam nossos rroneek... Até tentaram morder vários moradores!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "Pedimos à Vigília da Poeira que viesse resolver, mas eles não quiseram se meter no abate de... hã, tubérculos selvagens. Uma cerca em volta daqui era outra opção, só que faltam gente e materiais. Foi por isso que criamos o repelente." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "Enfim, não preciso ficar enchendo seus ouvidos com isso! Você fez um grande favor para nós, e eu não vou esquecer tão cedo." }
   ]
 }

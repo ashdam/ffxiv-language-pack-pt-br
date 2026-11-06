@@ -2,19 +2,19 @@
   "conversation": "quest/010/GaiUsc906_01041",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_002", "hash": "DCE7269278EDA131", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_003", "hash": "23B38C2806B2344D", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_010", "hash": "11E685DF134A29DF", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_011", "hash": "9E462B2D39BCC655", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_012", "hash": "BE32420C9B845134", "target": "" },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_POP_MESSAGE_000", "hash": "105EACBA779B22E2", "target": "" }
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "Rafold espera transformar uma praga em remédio." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "Rafold pediu que você obtenha uma garra de grenade. Fique de tocaia nas Garras de Dalamud e mate a criatura para obter seu apêndice." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "Você obteve uma garra de grenade. Entregue-a a Memezofu na Usina de Ceruleum." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "Memezofu agradece sua entrega, pois acabara de esgotar seu estoque de garras de grenade." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "Esperar no local indicado e abater um grenade para obter sua garra" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "Entregar a garra de grenade a Memezofu" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "O perigo espreita perto das Garras de Dalamud. Os ventos sussurram a presença de grenades." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "Não é uma simples praga para eliminar, mas o risco rende uma recompensa: garras de grenade." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_002", "hash": "DCE7269278EDA131", "target": "Não conheço o efeito medicinal exato desse reagente, mas sei que ele acalma meu alquimista. Só esse efeito já me parece inestimável." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_003", "hash": "23B38C2806B2344D", "target": "E certamente precisaremos de unguentos nos próximos dias. Quando matar o grenade e recolher sua garra, peço que a entregue diretamente a Memezofu." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_010", "hash": "11E685DF134A29DF", "target": "Não, não, não... Assim não dá. Como alguém vai praticar alquimia sem reagentes? Não posso simplesmente criar algo do nada!" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_011", "hash": "9E462B2D39BCC655", "target": "Ah, sim, uma garra de grenade, bem quando as minhas acabaram! Que bom saber que meus apelos a Rafold não foram inteiramente em vão." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_MEMEZOFU_000_012", "hash": "BE32420C9B845134", "target": "Vou começar a preparar as poções imediatamente. Em nome de todas as vidas que você salvou ao me trazer isto, muito obrigado." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_POP_MESSAGE_000", "hash": "105EACBA779B22E2", "target": "Você sente uma presença hostil!" }
   ]
 }

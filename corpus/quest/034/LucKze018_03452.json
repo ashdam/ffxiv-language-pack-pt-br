@@ -2,17 +2,17 @@
   "conversation": "quest/034/LucKze018_03452",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_00", "hash": "EEFCB138096D0FF7", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_000", "hash": "59A984543190C268", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_001", "hash": "B59E01B9477366FF", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_002", "hash": "A6DEDB817A48A80A", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_010", "hash": "BE88B3A244208A4A", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_011", "hash": "234979063C89E389", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_020", "hash": "336578C3E0FC2F84", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_021", "hash": "51FDADD461E63357", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_022", "hash": "ED9B9CD4A4D62056", "target": "" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_023", "hash": "47806F4948E08422", "target": "" }
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Este well-meaning mentor gostaria de pedir sua ajuda para resolver uma pendência." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_00", "hash": "EEFCB138096D0FF7", "target": "Examinar as áreas indicadas e abater a anêmona se ela aparecer" },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "Entregar o cadáver da anêmona ao well-meaning mentor" },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_000", "hash": "59A984543190C268", "target": "Vejo que suas viagens trouxeram você de volta a Slitherbough. Chegou em boa hora. Os preparativos para a caça à anêmona estão completos. Se quiser se juntar a mim, sua ajuda será muito bem-vinda." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_001", "hash": "B59E01B9477366FF", "target": "Ela foi vista pela última vez na região sudoeste do Clérigo. A caçada será difícil, porém, pois foi lá que os Filhos decidiram instalar seu ninho de aranhas." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_002", "hash": "A6DEDB817A48A80A", "target": "Avance com cuidado e não hesite em abatê-la assim que a vir. Só peço que recolha o cadáver se você a encontrar primeiro." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_010", "hash": "BE88B3A244208A4A", "target": "Não há sinal da anêmona. Talvez você deva procurar em outro lugar." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SYSTEM_000_011", "hash": "234979063C89E389", "target": "Você encontra o cadáver de um animal, mas não há sinais de luta. Talvez tenha morrido envenenado..." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_020", "hash": "336578C3E0FC2F84", "target": "Você voltou. Espero que tenha tido mais sorte que eu." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_021", "hash": "51FDADD461E63357", "target": "A anêmona. Você a encontrou..." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_022", "hash": "ED9B9CD4A4D62056", "target": "\\<suspiro> Queria que houvesse outra saída, mas não podíamos ignorar a ameaça que ela representava para Greatwood." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_023", "hash": "47806F4948E08422", "target": "Guarde minhas palavras: isso <italic(1)>não vai<italic(0)> acontecer de novo." }
   ]
 }

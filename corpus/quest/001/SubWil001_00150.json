@@ -2,14 +2,14 @@
   "conversation": "quest/001/SubWil001_00150",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_00", "hash": "C282EDB8A76B23DD", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_01", "hash": "EBEFC4ACBB430F80", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_02", "hash": "31DE09CC99AD5C6F", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_TODO_00", "hash": "0F959AE7AA1016DE", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_1", "hash": "5E82B85F0C2F43F0", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_2", "hash": "BB19B8B6E60083F2", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_3", "hash": "CFCD0E976130B56F", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_5", "hash": "9530836B4DA65839", "target": "" },
-    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_6", "hash": "82B5470CD88B7AAA", "target": "" }
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_00", "hash": "C282EDB8A76B23DD", "target": "Gelther não gosta do jeito que você olha para ele, mas vai deixar passar se você entregar uma mensagem em seu nome." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_01", "hash": "EBEFC4ACBB430F80", "target": "Um Gelther bastante irritado exigiu que você entregasse um ultimato nada delicado a Didilata, que não pagou o que devia. Encontre Didilata e deixe bem clara a gravidade da situação." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_SEQ_02", "hash": "31DE09CC99AD5C6F", "target": "Sem hesitar, o Lalafell promete devolver o dinheiro que deve. Diante de sua gagueira desesperada, você tem poucos motivos para duvidar de sua sinceridade." },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_TODO_00", "hash": "0F959AE7AA1016DE", "target": "Ameaçar Didilata" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_1", "hash": "5E82B85F0C2F43F0", "target": "Ei, você! Vi você me olhando. Tem alguma coisa pra dizer? Hein!?" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_2", "hash": "BB19B8B6E60083F2", "target": "Não? Pois <italic(1)>eu<italic(0)> tenho! Conhece Didilata? Baixinho, quebrado, nunca paga o que deve? Isso, aquele filho da puta! Manda ele pagar, ou juro pelos Doze que vou dar uma surra tão grande que ele vai achar que Dalamud caiu de novo!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_GELTHER_000_3", "hash": "CFCD0E976130B56F", "target": "Se eu vir a cara daquele merdinha, vou acabar arrebentando ele até não sobrar nada. Então vai lá dar o recado!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_5", "hash": "9530836B4DA65839", "target": "Ah, que os d-d-deuses tenham piedade... É <if(gnum4,a c-c-capanga,o c-c-capanga)> do Gelther!" },
+    { "gameKey": "quest/001/SubWil001_00150#TEXT_SUBWIL001_00150_DIDILATA_000_6", "hash": "82B5470CD88B7AAA", "target": "T-Tá bom, tá bom! Vou devolver cada Gil que devo! Eu juro!<br>M-Mas chega de pancada, eu i-i-imploro!" }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "quest/011/SubFst900_01135",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_00", "hash": "909831A7F80ADC12", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_01", "hash": "96A3F337095A55E6", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_02", "hash": "969AD3825FDCB4F3", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_TODO_00", "hash": "23C77B257CA7F3E3", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_000", "hash": "7F16FC17FE0EC1A0", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_001", "hash": "FD1A8047124D5CC6", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_002", "hash": "0E6884A7A1BB0876", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_003", "hash": "E1A602E51D6008CC", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_020", "hash": "79509E5984F0C5EB", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_021", "hash": "68D2F7D9A878134F", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_022", "hash": "BD478FF350CCD2A9", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_030", "hash": "6BB508974BF506FB", "target": "" },
-    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_031", "hash": "F5CD30B225CBC1E4", "target": "" }
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_00", "hash": "909831A7F80ADC12", "target": "Nedrick Ironheart tem informações que certamente farão seu coração disparar." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_01", "hash": "96A3F337095A55E6", "target": "Percebendo que talvez lhe falte emoção, Nedrick Ironheart fala de Amdapor Keep, uma fortaleza em ruínas situada em South Shroud. Se quiser percorrer seus salões e mergulhar no passado, fale com Maxinne, a Lamentadora da Mata que guarda a entrada." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SEQ_02", "hash": "969AD3825FDCB4F3", "target": "Você descobre que Amdapor Keep está tomada pelos Cordeiros de Dalamud e pelas criaturas do vazio que eles passaram a invocar. Convencida de que você pode enfrentar tais inimigos, Maxinne permite sua entrada.<br><br>※Você pode acessar Amdapor Keep pelo Duty Finder." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_TODO_00", "hash": "23C77B257CA7F3E3", "target": "Falar com Maxinne em Amdapor Keep" },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_000", "hash": "7F16FC17FE0EC1A0", "target": "Se me permite dizer, parece que anda faltando emoção na sua vida. Sim, dá quase pra tocar esse ar de apatia à sua volta." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_001", "hash": "FD1A8047124D5CC6", "target": "Aventureiros e exploradores são quase parentes, <if(gnum4,minha amiga,meu amigo)>. Como nós, vocês precisam de doses regulares de emoção, ou acabam murchando e morrendo." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_002", "hash": "0E6884A7A1BB0876", "target": "Eu detestaria ver isso acontecer com você, então vou contar de um lugar que certamente vai fazer seu coração disparar: Amdapor Keep. É uma fortaleza em ruínas em South Shroud, dos tempos da Quinta Era Astral." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_NEDRICK_000_003", "hash": "E1A602E51D6008CC", "target": "Se a ideia de mergulhar no passado acende seu desejo, a fortaleza vai dar conta de saciá-lo. Uma Lamentadora da Mata chamada Maxinne vigia a entrada. Diga meu nome e ela vai contar tudo que você precisa saber." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_020", "hash": "79509E5984F0C5EB", "target": "Veio por recomendação de Nedrick? Então deve ter boas habilidades. Mesmo assim, é meu dever alertar você sobre os perigos que aguardam lá dentro." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_021", "hash": "68D2F7D9A878134F", "target": "Esta fortaleza foi construída pelos amdaporianos, um povo antigo que alcançou o poder com conhecimentos arcanos. No auge de sua civilização, construíram estruturas magníficas como esta." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_MAXINNE_000_022", "hash": "BD478FF350CCD2A9", "target": "Infelizmente, esse esplendor há muito virou lembrança, e a fortaleza se tornou um covil dos Cordeiros de Dalamud, um culto apocalíptico. Alguns cultistas até conseguiram invocar criaturas do vazio. Nós, Lamentadores da Mata, acolhemos aventureiros capazes e dispostos a conter seu número." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_030", "hash": "6BB508974BF506FB", "target": "Você desbloqueou o Duty Finder! Esse recurso permite participar de missões com outros jogadores sem precisar formar um grupo por conta própria." },
+    { "gameKey": "quest/011/SubFst900_01135#TEXT_SUBFST900_01135_SYSTEM_000_031", "hash": "F5CD30B225CBC1E4", "target": "Para abrir a interface do Duty Finder, selecione <colortype(500)><edgecolortype(501)>Duty Finder<edgecolortype(0)><colortype(0)> em <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> no <colortype(500)><edgecolortype(501)>menu principal<edgecolortype(0)><colortype(0)>." }
   ]
 }

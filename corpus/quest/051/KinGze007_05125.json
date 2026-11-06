@@ -2,18 +2,18 @@
   "conversation": "quest/051/KinGze007_05125",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_SEQ_00", "hash": "A3D9850E33E9D04A", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_000", "hash": "5B957904D61CF54C", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_001", "hash": "CFA9DC5E0E678369", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_002", "hash": "3B42107158A30E70", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_003", "hash": "5796444A0083E0CB", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_004", "hash": "5A602E66B503494F", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_005", "hash": "5838D3483858FA6B", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_006", "hash": "D332F07169B7900D", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_007", "hash": "F1853A65C51E71B0", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_008", "hash": "01E027EC68D2E994", "target": "" },
-    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_009", "hash": "1584746FE104DADE", "target": "" }
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_SEQ_00", "hash": "A3D9850E33E9D04A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Parece que combustíveis altamente inflamáveis e monstros explosivos não combinam." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_00", "hash": "CBA3BB6727FC7D01", "target": "Observar o local indicado e derrotar os inimigos que aparecerem" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_TODO_01", "hash": "FB282488AF592AC6", "target": "Falar com Maatso" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_000", "hash": "5B957904D61CF54C", "target": "Cadê um caçador quando a gente precisa?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_001", "hash": "CFA9DC5E0E678369", "target": "Ah, olá. Você parece ter jeito para lidar com bichos selvagens. O que acha de um pouco de trabalho honesto?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_002", "hash": "3B42107158A30E70", "target": "É que estamos com uma infestação perto das fontes de ceruleum. De cerule bombs, para ser preciso." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_003", "hash": "5796444A0083E0CB", "target": "Aqueles filhos de salamandra cospem fogo e explodem por qualquer coisinha. Se um só chegar às nossas reservas de combustível, este lugar inteiro vai pelos ares!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_004", "hash": "5A602E66B503494F", "target": "Até pouco tempo, eu tinha um amigo caçador que mantinha a população sob controle, mas ele está, ah... temporariamente incapacitado. Pensei que você pudesse substituí-lo. Se aceitar, tem um monte deles um pouco ao sul daqui. Boa caçada!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_005", "hash": "5838D3483858FA6B", "target": "Se não conseguir encontrá-los, é só esperar perto de uma das fontes de ceruleum. Eles com certeza vão encontrar <italic(1)>você<italic(0)>!" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_006", "hash": "D332F07169B7900D", "target": "Terminou? Quantos eram?" },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_007", "hash": "F1853A65C51E71B0", "target": "Está brincando? Devem ter convidado todos os bombs e os primos deles para a festa! Parece que você chegou bem na hora." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_008", "hash": "01E027EC68D2E994", "target": "Claro, abater essas coisas do jeito tradicional é arriscado, e não é fácil encontrar alguém com a habilidade necessária. Acho melhor pensarmos num plano melhor para mantê-las longe." },
+    { "gameKey": "quest/051/KinGze007_05125#TEXT_KINGZE007_05125_MAATSO_000_009", "hash": "1584746FE104DADE", "target": "De qualquer forma, você fez um grande favor a todos nós. Eu sabia que tinha escolhido <if(gnum4,a pessoa certa,o sujeito certo)> para o trabalho!" }
   ]
 }

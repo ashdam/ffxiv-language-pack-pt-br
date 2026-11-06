@@ -2,15 +2,15 @@
   "conversation": "quest/036/LucKyb006_03662",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_001", "hash": "A9D3DE78A8316BDC", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_002", "hash": "4FE0274EB8327F9D", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_003", "hash": "90A5F3AE33602DA6", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_Q1_000_000", "hash": "546E9E2113A502EC", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_A1_000_001", "hash": "91A0C67E86164318", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_A1_000_002", "hash": "B15F07D1A935307F", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_005", "hash": "1094826B5F39CC40", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006", "hash": "3ECAE3D4F2CE39C7", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_007", "hash": "44737D80BEE7BD1C", "target": "" },
-    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_008", "hash": "CCEDD55D604F50C5", "target": "" }
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_001", "hash": "A9D3DE78A8316BDC", "target": "Espere, espere. Você não é..." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_002", "hash": "4FE0274EB8327F9D", "target": "Sim, bem que pensei. <string(gstr1)>, certo? Pelo que dizem os rumores, você não tem parado um instante." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_003", "hash": "90A5F3AE33602DA6", "target": "Hum? Por que me olha com tanta intensidade? Por acaso eu disse algo que ofendeu você?" },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_Q1_000_000", "hash": "546E9E2113A502EC", "target": "O que você vai dizer?" },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_A1_000_001", "hash": "91A0C67E86164318", "target": "Como, pelos sete infernos, você veio parar neste mundo?" },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_A1_000_002", "hash": "B15F07D1A935307F", "target": "<italic(1)>Você<italic(0)> consegue atravessar a fenda. Logo você..." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_005", "hash": "1094826B5F39CC40", "target": "Pelos seus comentários enigmáticos, deduzo que me pareço com alguém que você conhece. Mas garanto que nós dois nunca nos vimos antes." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_006", "hash": "3ECAE3D4F2CE39C7", "target": "Não acredita? Então vamos ser amigos. Quanto mais souber sobre mim, mais vai perceber como sou diferente desse outro “eu”." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_007", "hash": "44737D80BEE7BD1C", "target": "Sou andarilho por ofício, mas menestrel de coração. Guardo histórias, canto canções, preservo verdades esquecidas. Mas, contrariando minha natureza errante, decidi ficar aqui por um tempo e compor novas obras." },
+    { "gameKey": "quest/036/LucKyb006_03662#TEXT_LUCKYB006_03662_PARALLELMINSTREL_000_008", "hash": "CCEDD55D604F50C5", "target": "Como <if(gnum4,pecadora viajante,pecador viajante)>, certamente viveu muitas aventuras. Histórias assim costumam ser a melhor inspiração. Posso convencer você a me contar uma ou duas?" }
   ]
 }

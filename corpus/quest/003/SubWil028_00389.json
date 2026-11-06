@@ -2,15 +2,15 @@
   "conversation": "quest/003/SubWil028_00389",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_00", "hash": "962197F7E66B6F95", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_01", "hash": "AC7969A2302D5DC4", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_02", "hash": "59265ACA17CD7E6D", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_TODO_00", "hash": "15D26BDCC800016B", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_1", "hash": "8154AAB2D64624E0", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_2", "hash": "E778F9DCB8DEF1CE", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_3", "hash": "D2178A7F12D22FF1", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_20", "hash": "BA4B7D8FC29929C2", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_21", "hash": "8EE6532E162EBCDD", "target": "" },
-    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_22", "hash": "92E01AA40EF1686C", "target": "" }
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_00", "hash": "962197F7E66B6F95", "target": "Kekezani está fugindo do serviço e precisa de um bom chamado à realidade." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_01", "hash": "AC7969A2302D5DC4", "target": "Depois de uma longa noite de farra, um exausto Kekezani perdeu a hora de novo. Em vez de chegar atrasado ao trabalho, decide voltar a dormir, mas antes pede que você entregue uma tabela de horários a Giginasu no Pátio de Manobras de Ul'dah, fora da cidade." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_SEQ_02", "hash": "59265ACA17CD7E6D", "target": "Confuso e irritado, Giginasu fica aliviado ao receber a tabela de horários. Parece que a falta de dedicação de Kekezani ao trabalho não é novidade, assim como o desprezo que Giginasu sente por ele." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_TODO_00", "hash": "15D26BDCC800016B", "target": "Entregar a tabela de horários a Giginasu no Pátio de Manobras de Ul'dah" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_1", "hash": "8154AAB2D64624E0", "target": "Mmm... Claro, querida. Pode vir dar uma voltinha..." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_2", "hash": "E778F9DCB8DEF1CE", "target": "...Hein? Onde estou? Quem é você? E, mais importante, cadê ela?<br>...Ah, droga... Meu turno já começou?" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_KEKEZANI_000_3", "hash": "D2178A7F12D22FF1", "target": "Que vá pros infernos. Tô exausto mesmo. Pode levar isto pro Giginasu no Pátio de Manobras, fora da cidade? Ele deve dar alguma coisa pelo trabalho." },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_20", "hash": "BA4B7D8FC29929C2", "target": "Alguém viu Kekezani desde ontem à noite? Alguém!?" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_21", "hash": "8EE6532E162EBCDD", "target": "Ei, o que você está fazendo com essa tabela de horários? Procurei por toda parte!" },
+    { "gameKey": "quest/003/SubWil028_00389#TEXT_SUBWIL028_00389_GIGINASU_000_22", "hash": "92E01AA40EF1686C", "target": "Pegou com Kekezani, é? Aquele bêbado inútil! Aposto que passou outra noite inteira atrás de saias! Chega... Da próxima vez que faltar ao turno, vou amarrar ele nos trilhos!" }
   ]
 }
