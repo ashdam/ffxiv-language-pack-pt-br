@@ -12,6 +12,7 @@
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TODO_01", "hash": "35DB3CBF6B040197", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Baderon em Drowning Wench.<edgecolortype(0)><colortype(0)>" },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TODO_02", "hash": "0871D531B0EE288E", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Baderon em Drowning Wench.<edgecolortype(0)><colortype(0)>" },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TODO_03", "hash": "E23E47EFCC6617E9", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Baderon em Drowning Wench.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TODO_04", "hash": "8FC505DEE9B7BE96", "target": "" },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_5", "hash": "F0A379AADC602665", "target": "Agradeço por tirar um tempo para me ajudar. Sei que você tem o que fazer, então vou direto ao assunto." },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_6", "hash": "CEF050370963B718", "target": "Dizem que uns sujeitos de aparência suspeita andam entrando e saindo sorrateiramente da Sastasha Seagrot, e preciso de alguém de confiança para ir ao norte de Aleport descobrir quem são e o que estão tramando." },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_7", "hash": "4E0993F7B25F2329", "target": "Parece pouca coisa, eu sei..." },
@@ -80,6 +81,19 @@
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_96", "hash": "1D5AE2A67BF9CA8F", "target": "Parece que o povo da floresta precisa de alguém que saiba resolver as coisas." },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_97", "hash": "D977F0D9451A7E86", "target": "Para pedirem ajuda assim, pode apostar que a tarefa não vai ser um passeio por uma clareira ensolarada. Mas, depois do jeito como você lidou com nossa infestação de peixudos, duvido que seja algo além da sua capacidade." },
     { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_BADERON_000_98", "hash": "5138BF4FD1F8BE8F", "target": "Dê um toque quando quiser, que eu explico tudo." },
-    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00008_000", "hash": "0E5A3C622BB6E63C", "target": "Provisório: O dever chama. Deseja prosseguir com<br>“It's Probably Pirates”?" }
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00002_000", "hash": "FE79958F3015B2FC", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00003_000", "hash": "741011F2487B5D1C", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00004_000", "hash": "CF7DA854A2B6A4E3", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00005_000", "hash": "0479FE4709512B54", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00006_000", "hash": "162DE486B3D93FD6", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00007_000", "hash": "1509D98C641BBCFC", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00008_000", "hash": "0E5A3C622BB6E63C", "target": "Provisório: O dever chama. Deseja prosseguir com<br>“It's Probably Pirates”?" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00009_000", "hash": "4A6A0C57C205DFA1", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00010_000", "hash": "EF0FC1920BBB3FD2", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00011_000", "hash": "245F570D4A65AA2C", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00012_000", "hash": "9CB8C412E516B27E", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00013_000", "hash": "0B0A38227951288D", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00014_000", "hash": "A9ADA42481EF02C5", "target": "" },
+    { "gameKey": "quest/006/ManFst203_00675#TEXT_MANFST203_00675_TALK_SCENE00015_000", "hash": "53BE6AFC4EFFEC44", "target": "" }
   ]
 }

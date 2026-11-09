@@ -15,6 +15,8 @@
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_000", "hash": "51DD0A591ACC5A92", "target": "Então, o que está esperando? Tem um belo ovo de adamantoise num ninho a leste daqui, prontinho para ser levado." },
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_001", "hash": "211247158F5EC773", "target": "Não que eu espere que você viva o bastante para pegá-lo! A mãe nunca se afasta muito da cria, e com certeza vai atacar no instante em que você puser as mãos no ovo." },
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_002", "hash": "DAA57BA0DB662871", "target": "...Haverá outros heróis, <split(<string(gstr1)>, ,1)>. <italic(1)>Você<italic(0)> não precisa desafiar Titan. Abandone a busca, ou seu cadáver vai apodrecer neste pântano." },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_000_010", "hash": "71E6F1E1B2FB2C4F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_TODO_000_015", "hash": "A4749A583B9AB8FF", "target": "" },
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_020", "hash": "C1FA5D3F193C3ADD", "target": "Achei que você teria o bom senso de ir embora. Como continua aqui, imagino que pretenda perseverar até o amargo fim?" },
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_025", "hash": "83CD0AD9F0913907", "target": "Ahahaha! Que coragem, que imprudência! Isso vai ser útil contra Titan." },
     { "gameKey": "quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_LANDENEL_000_026", "hash": "A0E4BCADA25C0BBC", "target": "Deixe o ovo comigo, vou garantir que chegue ao capitão. Você deve se apressar para Southern Thanalan." },
