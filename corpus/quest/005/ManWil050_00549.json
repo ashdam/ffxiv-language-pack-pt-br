@@ -2,7 +2,7 @@
   "conversation": "quest/005/ManWil050_00549",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_SEQ_02", "hash": "D20827468AC7EC83", "target": "" },
+    { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_SEQ_02", "hash": "D20827468AC7EC83", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200010_NARRATION", "hash": "14455125B3BB5E5E", "target": "Na Batalha de Carteneau, enquanto fogo caía dos céus..." },
     { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200020_NARRATION", "hash": "DFEAFA06119278E2", "target": "o Arconte Louisoix invocou o poder do Guardião e enviou seus companheiros heróis para uma fenda etérea, além do alcance da devastação." },
     { "gameKey": "quest/005/ManWil050_00549#TEXT_MANWIL050_00549_200030_NARRATION", "hash": "FEFA8AE5DCE74F27", "target": "Cinco anos depois daquele dia fatídico, desde que a Sétima Era Umbral mudou o mundo para sempre, chegou a hora de os heróis retornarem." },

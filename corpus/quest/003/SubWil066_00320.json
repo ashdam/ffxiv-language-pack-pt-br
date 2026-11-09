@@ -53,7 +53,7 @@
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_57", "hash": "0F0F258550DD231B", "target": "Achamos! Achamos o veio! Wystan, o senhor tem que vir ver!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_58", "hash": "CBD009A2B06A447C", "target": "Já!? Incrível! Partimos agora mesmo!" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_59", "hash": "C01E7CB60E6F2001", "target": "Você devia vir comigo, <if(gnum4,minha amiga,meu amigo)>! Venha testemunhar a história sendo feita!" },
-    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "O dever chama. Deseja prosseguir com<br>“Way Down in the Hole”?" },
+    { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE", "hash": "83280C17B5DBB88E", "target": "O dever chama. Deseja prosseguir com<br>“No fundo do buraco”?" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_YES", "hash": "2973C59A4F2D502D", "target": "Sim" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_NO", "hash": "8E3AF9B80C6A5020", "target": "Não" },
     { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_500", "hash": "B53B62560BA39CD0", "target": "Pelas bolas de Thal, garoto! Um veio de minério no meio das ruínas de uma <italic(1)>cidade<italic(0)>? Idiota dos infernos!" },

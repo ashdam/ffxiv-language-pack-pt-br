@@ -1,5 +1,8 @@
 {
   "entries": [
+    {"en":"golem","pt-BR":"golem","forms":["golens"],"protect":false,"note":"Creature family in prose. Keep complete untranslated enemy and item labels in English."},
+    {"en":"peiste","pt-BR":"peiste","forms":["peistes"],"protect":false,"note":"Creature family in prose. Keep complete untranslated enemy and item labels in English."},
+    {"en":"petalouda","pt-BR":"petalouda","forms":["petaloudas"],"protect":false,"note":"Butterfly creature family in prose. Keep complete untranslated enemy and item labels in English."},
     {"en":"Felyne","pt-BR":"Felyno","protect":false,"forms":["Felynos"],"note":"Monster Hunter species in prose. Palico is the companion role. Keep complete untranslated XIV NPC, enemy and Item labels in English.","sources":["https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/?l=brazilian"]},
     {"en":"Beans","pt-BR":"jujubas","protect":false,"forms":["jujuba"],"note":"Fall Guys creatures in prose; feminine agreement. Exclude edible beans, Dali beans and Mun-Tuy beans. Keep complete untranslated NPC and UI labels in English.","sources":["https://www.fallguys.com/news/fall-guys-survival-update?lang=pt-BR"]},
     {"en":"woodworm","pt-BR":"caruncho","protect":false,"forms":["carunchos"],"note":"Use for the paper- and wood-eating insect in prose. Keep complete untranslated enemy and item labels."},

@@ -2,11 +2,11 @@
   "conversation": "cut_scene/072/VoiceMan_07210",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000010_METEM", "hash": "463B6C4146962319", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000020_METEM", "hash": "EA7F9535FDBEBCBE", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000030_METEM", "hash": "507268663F5464CC", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000040_METEM", "hash": "9E5E24E8F2238B4B", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000050_REFEREE", "hash": "2CAF834EF2526953", "target": "" },
-    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000060_METEM", "hash": "BE0E553D9FEF3FEB", "target": "" }
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000010_METEM", "hash": "463B6C4146962319", "target": "Ele é jovem, cheio de estilo e domina todos os passos! A alma da festa e o rei da pista de dança: Dancing Green!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000020_METEM", "hash": "EA7F9535FDBEBCBE", "target": "O ringue é seu ateliê, e a realidade, sua tela! A rebelde com uma causa que cativa a todos com suas ilusões: Sugar Riot!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000030_METEM", "hash": "507268663F5464CC", "target": "Ele voltou por vingança, e não vai pegar leve! O lutador desprezível antes conhecido como Brute Bomber: Brute Abombinator!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000040_METEM", "hash": "9E5E24E8F2238B4B", "target": "Com sua esgrima incomparável e agilidade sobrenatural, ele é o predador supremo da divisão dos pesos-cruzadores: Howling Blade!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000050_REFEREE", "hash": "2CAF834EF2526953", "target": "K.O.!" },
+    { "gameKey": "cut_scene/072/VoiceMan_07210#TEXT_VOICEMAN_07210_000060_METEM", "hash": "BE0E553D9FEF3FEB", "target": "A luta está decidida! A vitória é <if(gnum4,da desafiante,do desafiante)>!" }
   ]
 }

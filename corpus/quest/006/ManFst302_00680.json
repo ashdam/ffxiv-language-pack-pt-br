@@ -38,7 +38,7 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_29", "hash": "23AED422B4ACE9A4", "target": "Com toda a probabilidade, a aeronave levava civis, e, se os relatos estiverem corretos, ela caiu perigosamente perto de território ocupado pelos garleanos." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_30", "hash": "4039D2521340ACDE", "target": "Vá o quanto antes à região a sudeste das Nove Heras, localize a aeronave e verifique o estado dos passageiros." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_40", "hash": "8806173B4F5314E3", "target": "Ao que consta, a aeronave caiu em algum ponto a sudeste das Nove Heras. Vá até lá sem demora e verifique o estado dos passageiros." },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "O dever chama. Deseja prosseguir com<br>“The Company You Keep (Twin Adder)”?" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_Q3_000_1", "hash": "2393E92CD203E79E", "target": "O dever chama. Deseja prosseguir com<br>“Em boa companhia (Duas Víboras)”?" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_1", "hash": "C06A547D34D43BA6", "target": "Sim" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_2", "hash": "132FD0F9629ED79D", "target": "Não" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_40", "hash": "44F4911E6FB83DDB", "target": "(-Tripulante do dirigível-)<if(gnum4,Uma aventureira,Um aventureiro)>!? O que você faz aqui? Não, espere─vamos procurar abrigo primeiro..." },

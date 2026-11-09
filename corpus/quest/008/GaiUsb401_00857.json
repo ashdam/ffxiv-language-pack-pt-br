@@ -46,7 +46,7 @@
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_057", "hash": "E4EE20112D0795BA", "target": "A vossa raça vil cobiça sem cessar a bênção da terra e assassina os meus filhos às dúzias─tudo a serviço da ganância. Tais pecados estão além do perdão." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_058", "hash": "6542300F6C4721F9", "target": "Ah... mas não sou o primeiro a padecer da vossa insolência. Fostes vós que abatestes Ifrit." },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_TITAN_000_059", "hash": "739CDCE7E94BA07E", "target": "<if(gnum4,Sobremoradora ímpia,Sobremorador ímpio)>! As vossas incontáveis heresias não ficarão impunes! Sobre vós hei de lançar uma vingança terrível!" },
-    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_DUMMY_000_020", "hash": "758609568E5553DE", "target": "" },
+    { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_DUMMY_000_020", "hash": "758609568E5553DE", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_KOBOLDS_000_070", "hash": "8B86A15929A4E857", "target": "(-Kobold-)O Senhor dos Rochedos, o Grande Pai Titan, caiu!" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_ZADA_000_071", "hash": "1E0898EDC6C77D57", "target": "Os crimes dos sobremoradores jamais serão perdoados! Jamais esquecidos! Não, não, jamais!" },
     { "gameKey": "quest/008/GaiUsb401_00857#TEXT_GAIUSB401_00857_ZADA_000_072", "hash": "726F8FE2ADF4ADA5", "target": "Foram os seus que quebraram o pacto! Nós só agimos em defesa das nossas terras!" },

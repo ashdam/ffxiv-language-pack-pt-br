@@ -2,14 +2,14 @@
   "conversation": "cut_scene/074/VoiceMan_07410",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000010_METEM", "hash": "C7906DD301648913", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000020_METEM", "hash": "18CD5829CEC8923E", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000030_REFEREE", "hash": "CA621B31BD7B123C", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000040_METEM", "hash": "34549C9993C3C643", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000050_METEM", "hash": "20871B1D49158AD4", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000060_REFEREE", "hash": "E056744575ED032C", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000070_METEM", "hash": "2A6B2D471CEEFC9E", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000080_METEM", "hash": "3289FF26C02904F3", "target": "" },
-    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000090_METEM", "hash": "E75D2C2652C4C652", "target": "" }
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000010_METEM", "hash": "C7906DD301648913", "target": "Ela acelera seu pulso e gela seu sangue! A voluptuosa Vamp Fatale!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000020_METEM", "hash": "18CD5829CEC8923E", "target": "Eles deslizam sobre ondas e chamas. A dupla mortal: os Xtremes!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000030_REFEREE", "hash": "CA621B31BD7B123C", "target": "K.O.!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000040_METEM", "hash": "34549C9993C3C643", "target": "A luta está decidida! A vitória é <if(gnum4,da desafiante,do desafiante)>!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000050_METEM", "hash": "20871B1D49158AD4", "target": "Dominando a todos com punho de ferro, o grande campeão do Arcadion: Tyrant!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000060_REFEREE", "hash": "E056744575ED032C", "target": "K.O.!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000070_METEM", "hash": "2A6B2D471CEEFC9E", "target": "A luta está decidida! Diante dos seus olhos, surge <if(gnum4,uma nova grande campeã,um novo grande campeão)>!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000080_METEM", "hash": "3289FF26C02904F3", "target": "É a chocante face verdadeira do presidente maligno! A poderosa serpente ancestral: Lindwurm!" },
+    { "gameKey": "cut_scene/074/VoiceMan_07410#TEXT_VOICEMAN_07410_000090_METEM", "hash": "E75D2C2652C4C652", "target": "Inacreditável, <if(gnum4,a campeã conseguiu,o campeão conseguiu)>! O presidente foi derrotado!" }
   ]
 }

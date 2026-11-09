@@ -2,8 +2,8 @@
   "conversation": "cut_scene/051/VoiceMan_05101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000010_2P", "hash": "29F8ECE05F45E089", "target": "" },
-    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000020_9S", "hash": "848CCACCA06F09C8", "target": "" },
-    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000030_9S", "hash": "C8D7A8C1311CC4BC", "target": "" }
+    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000010_2P", "hash": "29F8ECE05F45E089", "target": "Apareceu! É ele que está controlando as máquinas!" },
+    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000020_9S", "hash": "848CCACCA06F09C8", "target": "Encontrei você..." },
+    { "gameKey": "cut_scene/051/VoiceMan_05101#TEXT_VOICEMAN_05101_000030_9S", "hash": "C8D7A8C1311CC4BC", "target": "Desta vez... vou destruir você sem deixar vestígios!" }
   ]
 }

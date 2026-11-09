@@ -8,7 +8,7 @@
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_TODO_00", "hash": "E661F8AF5286BF10", "target": "Pescar Qor pirarucu em Karvarhur the First e entregá-los a Donuhanu" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_015", "hash": "A7A75D788CB99C97", "target": "Que bom ter você em Fish Fancies Donu─ah, <split(<string(gstr1)>, ,1)>! É bom ver você." },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_016", "hash": "3069E22A56FE2133", "target": "Tenho ajudado na Fancies de vez em quando. É o mínimo que posso fazer para retribuir sua gentileza e a de Donuhanu." },
-    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_017", "hash": "F7212A8F7B15C24B", "target": "Para aceitar a missão seguinte, primeiro você deve concluir a missão do cenário principal “The Skyruin”." },
+    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_017", "hash": "F7212A8F7B15C24B", "target": "Para aceitar a missão seguinte, primeiro você deve concluir a missão do cenário principal “A Ruína dos Céus”." },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_DONUHANU_000_000", "hash": "3224A5FA7CC58CF1", "target": "<split(<string(gstr1)>, ,1)>! Tenho boas notícias!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_DONUHANU_000_001", "hash": "92A7FD559EE930A5", "target": "A cliente que comprou o Yok Huy pleco que sobrou está contando pra todo mundo como ele é gostoso! Os negócios da Fancies estão... bem, não estão bombando, exatamente, mas estão muito melhores que de costume!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_002", "hash": "AAE2BCC16BCEBF5E", "target": "Fico feliz que minhas técnicas culinárias tenham ajudado um pouco." },
@@ -39,6 +39,6 @@
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_PASHENINE_000_048", "hash": "0E04E1AD995538AA", "target": "E, quando eu terminar... devo estar pronto para o meu rito!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_050", "hash": "FBAAD569EC878A90", "target": "Donuhanu está radiante com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma Fortitudinous Fish Finder,um Fortitudinous Fish Finder)><edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_051", "hash": "54FC00F9DF996ECD", "target": "Uma nova missão que continua a história de Fish Fancies Donuhanu já está disponível." },
-    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_060", "hash": "D8FA62BC01D84D65", "target": "Para aceitar esta missão, primeiro você deve concluir a missão do cenário principal “The Feat of the Brotherhood”." }
+    { "gameKey": "quest/049/KinGla504_04999#TEXT_KINGLA504_04999_SYSTEM_000_060", "hash": "D8FA62BC01D84D65", "target": "Para aceitar esta missão, primeiro você deve concluir a missão do cenário principal “A Proeza da Irmandade”." }
   ]
 }

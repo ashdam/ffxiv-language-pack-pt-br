@@ -76,6 +76,6 @@
     { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SHUNYE_000_092", "hash": "8C3A61D00E61A0BF", "target": "E obrigado aos dois pelo bom trabalho. Espero contar com seus serviços novamente, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SYSTEM_000_093", "hash": "7EECF56B5BADE728", "target": "Shunye está encantado com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Great Gatherer<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SYSTEM_000_100", "hash": "5D40A5BCF57A5C65", "target": "O próximo pedido de Shunye estará disponível ao atingir o nível 95 como Botanist ou Miner." },
-    { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SYSTEM_000_101", "hash": "193F40599F207E16", "target": "Para aceitar a próxima missão, você precisa primeiro concluir a missão do cenário principal “The Long Road to Xak Tural”." }
+    { "gameKey": "quest/049/KinGla403_04991#TEXT_KINGLA403_04991_SYSTEM_000_101", "hash": "193F40599F207E16", "target": "Para aceitar a próxima missão, você precisa primeiro concluir a missão do cenário principal “O longo caminho até Xak Tural”." }
   ]
 }

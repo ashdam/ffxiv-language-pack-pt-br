@@ -11,7 +11,7 @@
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_TODO_01", "hash": "73DABEDE865B8ACC", "target": "Esperar por Kyusei e Rasho" },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_TODO_02", "hash": "305DDEBAF3C74CBE", "target": "Falar com Kyusei" },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_000", "hash": "44681876FC5F5F11", "target": "Para aceitar esta missão, você precisa concluir o andar 50 de Palace of the Dead." },
-    { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_001", "hash": "F9ABE2A8D08C720F", "target": "Para ter acesso a Palace of the Dead, você precisa concluir a missão “The House That Death Built”." },
+    { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_SYSTEM_100_001", "hash": "F9ABE2A8D08C720F", "target": "Para ter acesso a Palace of the Dead, você precisa concluir a missão “A casa que a morte construiu”." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_000", "hash": "D4E7682A12468ED7", "target": "Você é <split(<string(gstr1)>, ,1)>, certo? A pessoa que Rasho está procurando, se não me engano." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_001", "hash": "42AAA8AA84C28B7F", "target": "Ele me disse que, se você aparecesse, eu devia mandar você procurar Kyusei no Torcicolo." },
     { "gameKey": "quest/031/StmBdy701_03131#TEXT_STMBDY701_03131_HAMAKAZE_000_002", "hash": "13E5185C37EDEDAF", "target": "Por quê? Sei lá, droga! Ninguém me conta nada por aqui. Melhor perguntar ao próprio Kyusei." },

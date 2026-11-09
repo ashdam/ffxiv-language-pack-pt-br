@@ -2,13 +2,13 @@
   "conversation": "cut_scene/070/VoiceMan_07010",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000010_METEM", "hash": "7C00936981F68AB8", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000020_REFEREE", "hash": "F09B7A0BC56BCA65", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000030_METEM", "hash": "9A215319F4F86F3E", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000040_METEM", "hash": "D72C67FE9DE83069", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000050_METEM", "hash": "7FBE61FA363CC2E1", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000060_METEM", "hash": "5DD5CE8CEFE804C8", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000070_WICKEDTHUNDER", "hash": "9C9627C62134D777", "target": "" },
-    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000080_METEM", "hash": "5FC90E025FA3FE80", "target": "" }
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000010_METEM", "hash": "7C00936981F68AB8", "target": "Uma novata em ascensão com garras afiadas como navalhas, a feroz felina Black Cat!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000020_REFEREE", "hash": "F09B7A0BC56BCA65", "target": "K.O.!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000030_METEM", "hash": "9A215319F4F86F3E", "target": "A luta está decidida! A vitória é <if(gnum4,da desafiante,do desafiante)>!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000040_METEM", "hash": "D72C67FE9DE83069", "target": "A estrelinha que tem ferrão, adorável e mortal, doce e venenosa: Honey B. Lovely!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000050_METEM", "hash": "7FBE61FA363CC2E1", "target": "Esta noite, ele explode no ringue mais uma vez... O homem que vocês adoram odiar com uma paixão ardente: Brute Bomber!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000060_METEM", "hash": "5DD5CE8CEFE804C8", "target": "Com magia e máquinas, ela é uma bruxa para uma nova era. A maravilhosa Wicked Thunder!" },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000070_WICKEDTHUNDER", "hash": "9C9627C62134D777", "target": "Droga... Não tenho escolha, preciso recuar." },
+    { "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000080_METEM", "hash": "5FC90E025FA3FE80", "target": "Numa reviravolta chocante, Wicked Thunder fugiu do ringue! <if(gnum4,A novata imbatível é a vencedora,O novato imbatível é o vencedor)>!" }
   ]
 }

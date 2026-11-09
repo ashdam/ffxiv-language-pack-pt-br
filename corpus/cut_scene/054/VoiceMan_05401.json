@@ -2,19 +2,19 @@
   "conversation": "cut_scene/054/VoiceMan_05401",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000010_GAIA", "hash": "378E3D05CFEFB796", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000020_RYNE", "hash": "4364868516E1DAAD", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000030_RYNE", "hash": "906AFEB60AA631C4", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000040_RYNE", "hash": "8A66BE3D0ECDCE21", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000050_RYNE", "hash": "BB2E501B4A50ECBA", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000060_RYNE", "hash": "110276C3593B06E0", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000070_RYNE", "hash": "19366ED8C2C40ADC", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000080_EDEN3BOSS3", "hash": "C5A6CB59793DA188", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000090_EDEN3BOSS4", "hash": "7534593E01460C5B", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000100_EDEN3BOSS4", "hash": "991BA113F7B501E2", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000110_RYNE", "hash": "BDF0C57278417B5D", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000120_RYNE", "hash": "DE791688CA0EFF4B", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000130_EDEN3BOSS4", "hash": "447FE07482C27677", "target": "" },
-    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000140_EDEN3BOSS5", "hash": "77C4DB2BDCFB9420", "target": "" }
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000010_GAIA", "hash": "378E3D05CFEFB796", "target": "Estou extraindo as Trevas. Preparem-se!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000020_RYNE", "hash": "4364868516E1DAAD", "target": "Deu certo, Gaia! Conseguimos!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000030_RYNE", "hash": "906AFEB60AA631C4", "target": "Então tudo isso aconteceu há cem anos..." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000040_RYNE", "hash": "8A66BE3D0ECDCE21", "target": "Mas o que isso tem a ver com a Gaia?" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000050_RYNE", "hash": "BB2E501B4A50ECBA", "target": "Eu conheço este lugar...! É a prisão de Eulmore!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000060_RYNE", "hash": "110276C3593B06E0", "target": "Não importa o que esteja no nosso caminho..." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000070_RYNE", "hash": "19366ED8C2C40ADC", "target": "...nunca perderemos a esperança!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000080_EDEN3BOSS3", "hash": "C5A6CB59793DA188", "target": "Ela merece... toda a felicidade... do mundo..." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000090_EDEN3BOSS4", "hash": "7534593E01460C5B", "target": "Eden se tornará uma utopia..." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000100_EDEN3BOSS4", "hash": "991BA113F7B501E2", "target": "Uma que poderemos compartilhar por toda a eternidade." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000110_RYNE", "hash": "BDF0C57278417B5D", "target": "Ela ainda está aí dentro, em algum lugar..." },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000120_RYNE", "hash": "DE791688CA0EFF4B", "target": "Não vou desistir do nosso futuro, Gaia! Aconteça o que acontecer!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000130_EDEN3BOSS4", "hash": "447FE07482C27677", "target": "Nossa utopia... Nosso sonho!" },
+    { "gameKey": "cut_scene/054/VoiceMan_05401#TEXT_VOICEMAN_05401_000140_EDEN3BOSS5", "hash": "77C4DB2BDCFB9420", "target": "Eu... vou... voltar..." }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "cut_scene/075/VoiceMan_07510",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000020_ALXAAL", "hash": "981C6FA045642E73", "target": "" },
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000040_PRISHE", "hash": "E5CE04BD171E19A8", "target": "" },
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000050_PRISHE", "hash": "8EACF5ABAED26F8C", "target": "" },
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000060_ALXAAL", "hash": "97FAAC502F95E30A", "target": "" },
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000070_ALXAAL", "hash": "59C27DCF1CB300BD", "target": "" },
-    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000100_SHANTOTTO", "hash": "BA9D9E1361232FB2", "target": "" }
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000020_ALXAAL", "hash": "981C6FA045642E73", "target": "Guá!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000040_PRISHE", "hash": "E5CE04BD171E19A8", "target": "Deixem para depois a pergunta de como alcancei vocês. Temos um dragão para matar!" },
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000050_PRISHE", "hash": "8EACF5ABAED26F8C", "target": "Vamos, vai dar tudo certo. Não é sempre assim?" },
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000060_ALXAAL", "hash": "97FAAC502F95E30A", "target": "Sim... sim, finalmente me lembro. De quem eu era. De quem eu sou." },
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000070_ALXAAL", "hash": "59C27DCF1CB300BD", "target": "Vamos dar um fim a Sareel Ja e seus planos. O fim da nossa jornada nos espera e, com sorte, um novo começo..." },
+    { "gameKey": "cut_scene/075/VoiceMan_07510#TEXT_VOICEMAN_07510_000100_SHANTOTTO", "hash": "BA9D9E1361232FB2", "target": "Ohohoho!" }
   ]
 }

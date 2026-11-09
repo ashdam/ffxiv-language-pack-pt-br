@@ -6,7 +6,7 @@
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SEQ_01", "hash": "BBCA449877C43916", "target": "T'laqa Tia pediu que você lhe traga Smaragdos para coletar dados.<br><br>※Smaragdos podem ser pescados no Lethe, em Elpis, usando Sky Spoon Lure como isca.<br><br>※O valor mínimo de colecionabilidade para esta entrega é 503. Entregar itens com valor igual ou superior a 1183 concede recompensas maiores." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SEQ_02", "hash": "372E54CF69CA5AB5", "target": "Você entrega os Smaragdos a T'laqa Tia. Parece que o professor associado precisa fazer uma reflexão pessoal antes de estar pronto para apresentar sua tese." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TODO_00", "hash": "29FA6982E34485B3", "target": "Pescar Smaragdos no Lethe, em Elpis, e entregá-los a T'laqa Tia" },
-    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_900", "hash": "A9595020D54AC337", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “Thou Must Live, Die, and Know”." },
+    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_900", "hash": "A9595020D54AC337", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “Deveis viver, morrer e conhecer”." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_100_001", "hash": "862D643BFC27CF24", "target": "Ah, olá. Estou quebrando a cabeça para ter novas ideias. Infelizmente, até agora não me ocorreu nada." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_001", "hash": "6D3E5317E50D750F", "target": "Por mais que eu pense, sempre volto à mesma ideia. Preciso conseguir espécimes de uma época anterior ao surgimento de Zodiark." },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_002", "hash": "530910C6FEB1920A", "target": "Simplesmente não posso aceitar que todo o trabalho que tive, que <italic(1)>tivemos<italic(0)>, para confirmar minha teoria acabe não dando em nada!" },
@@ -50,6 +50,6 @@
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_TLAQATIA_000_046", "hash": "11AD0EDF1B9F1C19", "target": "Juro, sinto que não há limites para o que posso alcançar enquanto tiver você ao meu lado!" },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_047", "hash": "3D1E77DD842F2DED", "target": "T'laqa Tia está radiante com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Fantastic Fisher<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_048", "hash": "1627946FBC03976B", "target": "O próximo pedido estará disponível com T'laqa Tia ao atingir o nível 90 como Fisher." },
-    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_049", "hash": "39B5F959F63E8878", "target": "Para iniciar a missão seguinte, você precisa primeiro concluir a missão do cenário principal “Endwalker”." }
+    { "gameKey": "quest/041/AktKla506_04165#TEXT_AKTKLA506_04165_SYSTEM_000_049", "hash": "39B5F959F63E8878", "target": "Para iniciar a missão seguinte, você precisa primeiro concluir a missão do cenário principal “Caminhante do fim”." }
   ]
 }

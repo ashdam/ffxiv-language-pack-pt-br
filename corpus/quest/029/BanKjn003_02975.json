@@ -18,7 +18,7 @@
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TODO_04", "hash": "28279C9ACA5A0E88", "target": "Procurar o arco roubado de Uchikin" },
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TODO_05", "hash": "5DD9A557899ADCC6", "target": "Entregar o arco roubado a Uchikin" },
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TODO_06", "hash": "74A99173A765316F", "target": "Falar com Kabuto em Tamamizu" },
-    { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_SYSTEM_000_000", "hash": "0EA1A5A4F0ED58CC", "target": "Para iniciar esta missão, você precisa primeiro concluir a missão do cenário principal “Here There Be Xaela”." },
+    { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_SYSTEM_000_000", "hash": "0EA1A5A4F0ED58CC", "target": "Para iniciar esta missão, você precisa primeiro concluir a missão do cenário principal “Aqui há Xaela”." },
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_KABUTO_000_001", "hash": "CD79C96464C6784C", "target": "<split(<string(gstr1)>, ,1)>. Você chega num momento oportuno, como sempre." },
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_KABUTO_000_002", "hash": "C5C1874F285BE71C", "target": "Recebemos notícias de um objeto em Azim Steppe digno da câmara. Como não conheço as terras além de Ruby Sea, gostaria que me acompanhasse." },
     { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TSUKUMO_000_003", "hash": "E4AE0252FE7A5835", "target": "Muito bem, Kabuto. Sabia que era capaz.<br>Sua ajuda seria muito bem-vinda, <split(<string(gstr1)>, ,1)>. Com tantas viagens de aventura, acho que você saberia nos guiar muito melhor." },

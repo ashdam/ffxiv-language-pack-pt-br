@@ -2,7 +2,7 @@
   "conversation": "quest/001/ClsGld001_00187",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_SEQ_00", "hash": "6DAF334F6D61D61B", "target": "" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_SEQ_00", "hash": "6DAF334F6D61D61B", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_1", "hash": "3CF19B1A27C61163", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <if(gnum4,aventureira,aventureiro)>, e boas-vindas à Guilda dos Ourives. Veio observar nossos artesãos trabalhando?" },
     { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_2", "hash": "2882E9DA784CFA8F", "target": "De fato, é uma maravilha ver ourives transformando metais brutos e gemas não lapidadas em anéis, brincos e colares reluzentes. E alguns ainda têm propriedades mágicas!" },
     { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_3", "hash": "052A8EE2AA7AEB61", "target": "Sabe, se quiser experimentar a ourivesaria, a guilda está aberta a aventureiros como você. Não precisa ter experiência prévia, pois ensinamos tudo que é necessário sobre o ofício. Tem interesse?" },

@@ -16,7 +16,7 @@
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_TODO_03", "hash": "8B6635C45DC0AC2C", "target": "Obter informações em Ala Ghiri" },
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_TODO_04", "hash": "A55BD4ADF6F5768B", "target": "Falar com Edgyth" },
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_TODO_05", "hash": "DCCA146308B030FA", "target": "<if([lnum1<lnum2],Colher Rhalgr's streak nos Terrenos de Caça Reais,Entregar as Rhalgr's streaks a Edgyth em Idyllshire)>" },
-    { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_SYSTEM_100_000", "hash": "FCDDA161417AFC33", "target": "Para iniciar esta missão, primeiro conclua a missão do cenário principal “The First of Many”." },
+    { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_SYSTEM_100_000", "hash": "FCDDA161417AFC33", "target": "Para iniciar esta missão, primeiro conclua a missão do cenário principal “O primeiro de muitos”." },
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_EDGYTH_000_000", "hash": "F3FC3A9A572D0656", "target": "<split(<string(gstr1)>, ,1)>, <split(<string(gstr1)>, ,1)>! Conseguimos! Finalmente encontramos uma solução para nosso problema com as pragas!" },
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_EDGYTH_000_001", "hash": "A3F2A210C5ECB787", "target": "Eu estava prestes a ir à guilda falar com Fufucha! Nada mais justo que você se junte a nós para ver o resultado de todo o trabalho de todos." },
     { "gameKey": "quest/026/ClsHrv700_02624#TEXT_CLSHRV700_02624_EDGYTH_000_002", "hash": "4DF0130F3AA3A4AB", "target": "Faz semanas que não me perco vindo para cá! Dá orgulho, não dá?" },

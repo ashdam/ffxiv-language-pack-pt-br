@@ -47,6 +47,6 @@
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_TLAQATIA_100_046", "hash": "575D8D02C9B28014", "target": "Excelente! Nunca me senti tão animado com minha pesquisa! Agora, por onde começar...?" },
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_047", "hash": "8D965E45366282EB", "target": "T'laqa Tia está radiante com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Formidable Fisher<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_048", "hash": "A18DEFBF6DC004AC", "target": "A próxima missão estará disponível com T'laqa Tia ao atingir o nível 85 como Fisher." },
-    { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_100", "hash": "5B5ED6015C3DC4F1", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “The Martyr”." }
+    { "gameKey": "quest/041/AktKla503_04162#TEXT_AKTKLA503_04162_SYSTEM_000_100", "hash": "5B5ED6015C3DC4F1", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “O mártir”." }
   ]
 }

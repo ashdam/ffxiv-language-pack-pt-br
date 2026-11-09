@@ -321,7 +321,7 @@
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003000_FIREMONOLITH", "hash": "C2F8ECF5B02A3379", "target": "Esperarei no cume. Venha, mortal! Venha pôr sua justiça à prova contra a minha!" },
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003010_FIREMONOLITH", "hash": "733C968FC3D42D72", "target": "Você seguiu o caminho, como eu sabia que faria. Eu também seguirei o meu. Venha!" },
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003020_MYSTERIOUSPERSON", "hash": "5FC9C226FA173034", "target": "Parece que cheguei um passo atrasada." },
-    { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003030_FIREMONOLITH", "hash": "E17EA7AFF051C8DC", "target": "" },
+    { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003030_FIREMONOLITH", "hash": "E17EA7AFF051C8DC", "target": "", "intentionalEmpty": true },
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_003040_FIREMONOLITH", "hash": "6108E71058757838", "target": "Derrotar todos nós, arquidemônios... Você é mesmo forte." },
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_Q8_000_001_NONE_VOICE", "hash": "3547045F3E4438BC", "target": "O que você vai dizer?" },
     { "gameKey": "cut_scene/063/VoiceMan_06300#TEXT_VOICEMAN_06300_A8_000_001_NONE_VOICE", "hash": "FA2FAF9D54A28F2B", "target": "O que Golbez procura?" },

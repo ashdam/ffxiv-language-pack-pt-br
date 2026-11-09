@@ -44,7 +44,7 @@
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_POP_MESSAGE", "hash": "0C0BD2F090E50D9D", "target": "Você sente uma presença hostil!" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SYSTEM_000_51", "hash": "D25450770FEB34FF", "target": "Você encontra um barril que parece ter sido arrastado para fora da carroça do fazendeiro." },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SYSTEM_000_52", "hash": "5355A79C887F26F5", "target": "Você encontra um caixote que parece ter sido arrastado para fora da carroça do fazendeiro." },
-    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4B0D0586CB70BFD6", "target": "O dever chama. Deseja prosseguir com<br>“Bringing Down the Mountain”?" },
+    { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4B0D0586CB70BFD6", "target": "O dever chama. Deseja prosseguir com<br>“Derrubando a montanha”?" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_YES", "hash": "99C53DF2CB128FAD", "target": "Sim" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_INSTANCE_BATTLE_YESNO_NO", "hash": "14D903D2A9D8EA29", "target": "Não" },
     { "gameKey": "quest/003/ClsExc300_00319#TEXT_CLSEXC300_00319_SIGHARD_000_20", "hash": "205B5545699F499F", "target": "<split(<string(gstr1)>, ,1)>!" },
