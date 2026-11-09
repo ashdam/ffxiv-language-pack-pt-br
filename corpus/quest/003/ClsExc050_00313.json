@@ -47,7 +47,7 @@
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SOLKWYB_000_85", "hash": "2EFE6B7A9CCC3E9E", "target": "Prepare a arma, <split(<string(gstr1)>, ,1)>! Precisamos agir. Agora." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SIGHARD_000_40", "hash": "FEB5950B6023BB95", "target": "Ah, puta merda! Fica longe de mim, seu desgraçado gigante!" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SIGHARD_000_43", "hash": "FB7ED756F775B72C", "target": "Hã? Ah! Ah, obrigado, <if(gnum4,moça,moço)>!" },
-    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_TITLE", "hash": "99C58864313A7D5D", "target": "O dever chama. Deseja prosseguir com<br>“Axe in the Stone”?" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_TITLE", "hash": "99C58864313A7D5D", "target": "O dever chama. Deseja prosseguir com<br>“O machado na pedra”?" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_YES", "hash": "1B319CCCF2033A4B", "target": "Sim" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SCENE00027_INSTANCE_BATTLE_YESNO_NO", "hash": "B52FDD9E1ED883CB", "target": "Não" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SIGHARD_000_90", "hash": "53A1779FE4B6480A", "target": "Obrigado, <if(gnum4,moça,moço)>! Achei que ia morrer, com certeza!" },

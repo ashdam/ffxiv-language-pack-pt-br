@@ -11,7 +11,7 @@
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_000", "hash": "DAEA0083A282FABB", "target": "Fomos enviados pela Ordem de Nald'thal para conduzir uma investigação minuciosa destas ruínas. Mal começamos a explorar a superfície, mas já está claro que elas guardam incontáveis segredos desconhecidos da época de Belah'dia." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_001", "hash": "281C19BC1E27FA85", "target": "Segredos que continuarão escondidos para sempre se não fizermos algo a respeito daqueles gaviões malditos! Desde que começaram a fazer ninhos do outro lado do abismo, passamos mais horas limpando as fezes deles dos nossos tomos do que fazendo qualquer pesquisa." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_002", "hash": "1882F638D8A5DEF0", "target": "Não peço que extermine a espécie inteira. O gavião é uma ave esperta: mate uns quatro e suspeito que o resto do bando encontrará outro lugar para se empoleirar." },
-    { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_DUMMYTODO_000_010", "hash": "D970951A8CF831C7", "target": "" },
+    { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_DUMMYTODO_000_010", "hash": "D970951A8CF831C7", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_GOGOSHU_000_020", "hash": "9EB7C3E53DF48AC4", "target": "Finalmente livres das bicadas ferozes e das fezes de gavião! Não tenho como agradecer o bastante, <if(gnum4,minha amiga,meu amigo)>. Quando eu fizer minha próxima descoberta histórica, você poderá sentir orgulho de saber que ajudou a torná-la possível!" }
   ]
 }

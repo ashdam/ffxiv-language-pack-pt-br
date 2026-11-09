@@ -37,7 +37,7 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28", "hash": "71D743DE566680B0", "target": "<split(<string(gstr1)>, ,1)>, não há tempo para formalidades! As Chamas Imortais precisam da sua ajuda <italic(1)>agora<italic(0)>!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29", "hash": "814AD192CA444A2C", "target": "Estamos no meio de uma operação de grande porte contra os Amalj'aa e não temos ninguém de sobra no oeste de Thanalan. Você precisa chegar àquela nave antes dos garleanos!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_30", "hash": "83576264EDACDF8F", "target": "Se houver sobreviventes, garanta que nenhum mal maior lhes aconteça. Agora vá!" },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "O dever chama. Deseja prosseguir com<br>“The Company You Keep (Immortal Flames)”?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "O dever chama. Deseja prosseguir com<br>“Em boa companhia (Chamas Imortais)”?" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_1", "hash": "692FD92F8B106875", "target": "Sim" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_2", "hash": "E9A23A55E3344FA8", "target": "Não" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_40", "hash": "BBCA9DA58B10591B", "target": "(-Tripulante do dirigível-)<if(gnum4,Uma aventureira,Um aventureiro)>!? O que você faz aqui? Não, espere─vamos procurar abrigo primeiro..." },

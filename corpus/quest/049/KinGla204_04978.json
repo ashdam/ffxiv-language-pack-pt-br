@@ -42,6 +42,6 @@
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_ZEMOWENI_000_128", "hash": "907C8D476B2A0DA7", "target": "Ando mais confiante com as letras e quero praticar com mais histórias. Espero que encontre o que procura." },
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_129", "hash": "31A2FB60CF03BE84", "target": "Pameka está radiante com seus esforços. Agora ela considera você <if(gnum4,uma,um)> <colortype(500)><edgecolortype(501)>Talented Talebinder<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_100_129", "hash": "46F083D65FD22784", "target": "Uma nova missão que continua a história da Epistles by Pameka está disponível. Ao concluí-la, a lista de Wachumeqimeqi Deliveries de Pameka será atualizada." },
-    { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_130", "hash": "E0BFCD57627937A7", "target": "Para concluir a próxima missão, primeiro conclua a missão do cenário principal “The Promise of Peace”." }
+    { "gameKey": "quest/049/KinGla204_04978#TEXT_KINGLA204_04978_SYSTEM_000_130", "hash": "E0BFCD57627937A7", "target": "Para concluir a próxima missão, primeiro conclua a missão do cenário principal “A promessa de paz”." }
   ]
 }

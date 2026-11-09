@@ -18,7 +18,7 @@
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_11", "hash": "4A940BF75C09FEFE", "target": "E, claro, tem a vingança de Sighard. Você não quer decepcionar o pobre menino, quer?" },
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_12", "hash": "016CA025BE9743B2", "target": "Vamos à prova, <split(<string(gstr1)>, ,1)>. Encontro você na Praia do Sal, em Lower La Noscea, onde será o treinamento. Hm? Claro que <italic(1)>eu<italic(0)> vou estar lá. Sem mim, é capaz de esquecer de cuidar das feridas e morrer sangrando!" },
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_60", "hash": "1E757FD664426816", "target": "Bom, deve ser aqui. Não vejo... Ah, sente essa aura de violência se aproximando, <split(<string(gstr1)>, ,1)>? Prepare esse seu machado." },
-    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_TITLE", "hash": "50AFFD1E822C5313", "target": "O dever chama. Deseja prosseguir com<br>“Bleeder of the Pack”?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_TITLE", "hash": "50AFFD1E822C5313", "target": "O dever chama. Deseja prosseguir com<br>“Sangrando a matilha”?" },
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_YES", "hash": "7905B11C31707E9D", "target": "Sim" },
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_NO", "hash": "2ED33149E358ED10", "target": "Não" },
     { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_20", "hash": "42ECC8AFFA37A094", "target": "Parece que acabou. Mas, comparado ao que já enfrentamos, não foi tão─" },

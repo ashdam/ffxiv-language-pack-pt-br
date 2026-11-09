@@ -2,8 +2,8 @@
   "conversation": "cut_scene/043/VoiceMan_04301",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000010_BAGGAMONAN", "hash": "54A9F8DDC0753E8D", "target": "" },
-    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000011_BAGGAMONAN", "hash": "CD0E31988467C539", "target": "" },
-    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000020_BAGGAMONAN", "hash": "EA3A4023891F4030", "target": "" }
+    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000010_BAGGAMONAN", "hash": "54A9F8DDC0753E8D", "target": "Esperei tanto por este momento, porcos garleanos!" },
+    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000011_BAGGAMONAN", "hash": "CD0E31988467C539", "target": "Venham! O sangue dos meus irmãos caídos alimenta meu ódio!" },
+    { "gameKey": "cut_scene/043/VoiceMan_04301#TEXT_VOICEMAN_04301_000020_BAGGAMONAN", "hash": "EA3A4023891F4030", "target": "Vocês podem ter me escapado nesta vida, mas eu... eu esperarei na próxima!" }
   ]
 }

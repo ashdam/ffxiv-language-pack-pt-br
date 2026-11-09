@@ -14,7 +14,7 @@
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_02", "hash": "8AB2D5CAABA3989A", "target": "Entregar uma prospero eel a Frithrik em Crystalline Mean" },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_03", "hash": "FECB4D28D53CA5E1", "target": "Falar com Frithrik em Spagyrics" },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_TODO_04", "hash": "790235F2C3091446", "target": "Falar com Frithrik em Crystalline Mean" },
-    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_900", "hash": "F7E2251FC54CAF7D", "target": "Para iniciar esta missão, você precisa primeiro concluir a missão do cenário principal “Waiting in the Depths”." },
+    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_900", "hash": "F7E2251FC54CAF7D", "target": "Para iniciar esta missão, você precisa primeiro concluir a missão do cenário principal “À espera nas profundezas”." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_000", "hash": "677796729283D76D", "target": "Se veio ouvir boas notícias, não tenho nenhuma. Ainda não estamos mais perto de encontrar uma cura para a cristalose." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_001", "hash": "F7B9147C2B95F988", "target": "Claro, só começaram a usar esse nome depois que a Torre de Cristal apareceu, e não faço ideia de como chamavam antes." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_FRITHRIK_000_002", "hash": "4FF4623A2217C3C1", "target": "Dito isso, os registros antigos falam da “Podridão dos Nobres”, cujos sintomas são muito parecidos com os da doença de Hurielle." },
@@ -109,7 +109,7 @@
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_120", "hash": "407CC3918BB932CB", "target": "Frithrik será eternamente grato por seus esforços. Agora ele considera você <if(gnum4,uma,um)> <colortype(500)><edgecolortype(501)><if(gnum4,Guerreira,Guerreiro)> da Água<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_125", "hash": "1D65FE097FE5C7C1", "target": "Talvez haja outras pessoas em Crystalline Mean que precisem da ajuda de <if(gnum4,uma artesã talentosa,um artesão talentoso)>. Pergunte por aí e veja quem precisa de suas habilidades." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_130", "hash": "21ADDC0BA7A178D5", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempo, parece que Katliss quer falar com você." },
-    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_131", "hash": "84E7ABEA78788120", "target": "Volte a visitar Crystalline Mean depois de concluir a missão do cenário principal “Shadowbringers”." },
+    { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_131", "hash": "84E7ABEA78788120", "target": "Volte a visitar Crystalline Mean depois de concluir a missão do cenário principal “Portadores das sombras”." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_135", "hash": "A895BB168280E8EE", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempo, parece que Katliss quer falar com você." },
     { "gameKey": "quest/032/LucKla503_03241#TEXT_LUCKLA503_03241_SYSTEM_000_136", "hash": "E2252C25885CECF5", "target": "Visite Katliss no balcão de atendimento principal de Crystalline Mean." }
   ]

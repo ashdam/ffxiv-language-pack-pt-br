@@ -25,7 +25,7 @@
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_EMBLYN_000_014", "hash": "DF70BC2EC4E52CAA", "target": "Mas, se vir Beds com seus próprios olhos, acho que vai concordar que vale bem o preço." },
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_EMBLYN_000_015", "hash": "8760984150F113B0", "target": "Fale com a barqueira ali adiante. Ela levará você na travessia." },
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_EMBLYN_000_016", "hash": "2F49CA898F51B227", "target": "Um recruta no píer poderá contar mais sobre Beds quando você chegar." },
-    { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_SYSTEM_000_019", "hash": "00F83B0AA92D6367", "target": "Para progredir na missão “Where the Heart Is (The Lavender Beds)”, você pode visitar qualquer setor residencial em Lavender Beds." },
+    { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_SYSTEM_000_019", "hash": "00F83B0AA92D6367", "target": "Para progredir na missão “Onde mora o coração (The Lavender Beds)”, você pode visitar qualquer setor residencial em Lavender Beds." },
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_EMBLYN_000_020", "hash": "3171FEA203B85DE0", "target": "Vocês, aventureiros, têm muita sorte. Lavender Beds é famosa por sua beleza extraordinária." },
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_EMBLYN_000_021", "hash": "DD7B05A5841A835C", "target": "Palavras não fazem justiça ao lugar. Pegue a balsa e veja por si." },
     { "gameKey": "quest/012/SubCts803_01212#TEXT_SUBCTS803_01212_FHGUIDE_000_025", "hash": "C3088BC81DA784B5", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>, e <if(gnum4,bem-vinda,bem-vindo)> a Lavender Beds." },

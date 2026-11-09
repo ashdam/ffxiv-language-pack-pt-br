@@ -2,10 +2,10 @@
   "conversation": "cut_scene/045/VoiceMan_04501",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000000_ULTIMA", "hash": "01520A5A3EE1BFA7", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000010_ULTIMA", "hash": "634C6FEABCEAB033", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000020_ULTIMA", "hash": "89FB650A65D2727E", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000100_ULTIMA", "hash": "683934996DE348CD", "target": "" },
-    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000200_SEIRYU", "hash": "62D23BD0013595EE", "target": "" }
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000000_ULTIMA", "hash": "01520A5A3EE1BFA7", "target": "É abrigo que procuram, meus filhos desgarrados?<br>Ou talvez tenham vindo em busca de poder." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000010_ULTIMA", "hash": "634C6FEABCEAB033", "target": "O que está aos seus pés, aquela joia abençoada, pode lhes conceder ambos.<br>Basta querer." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000020_ULTIMA", "hash": "89FB650A65D2727E", "target": "Agora tomem sua salvação e partam.<br>A interferência mortal nos assuntos divinos não será tolerada." },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000100_ULTIMA", "hash": "683934996DE348CD", "target": "Sou sua mãe. Sou sua criadora! Eu. Sou. Ivalice!<br>Releguem-me às trevas e sua luz se perderá para sempre!" },
+    { "gameKey": "cut_scene/045/VoiceMan_04501#TEXT_VOICEMAN_04501_000200_SEIRYU", "hash": "62D23BD0013595EE", "target": "Provem que estou errado, mortais! Me façam ceder ou morram por sua insolência!" }
   ]
 }

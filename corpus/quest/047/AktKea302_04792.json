@@ -139,6 +139,6 @@
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_310", "hash": "D4FE9BD5B17AD2CB", "target": "Você vai continuar suas próprias jornadas, não vai?" },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_DERYK_000_311", "hash": "60192B57226C1088", "target": "Então vou procurar você por aí. Vá em paz, <if(gnum4,minha amiga,meu amigo)>, e que os Doze abençoem e protejam você." },
     { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_400", "hash": "ACEA86041000747A", "target": "Agora você pode comprar pinturas dos Doze com Duremert, em The Pillars." },
-    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_405", "hash": "FBC310BBCC5B950C", "target": "Ao concluir a missão “Soaring Profits”, você poderá comprar pinturas dos Doze." }
+    { "gameKey": "quest/047/AktKea302_04792#TEXT_AKTKEA302_04792_SYSTEM_000_405", "hash": "FBC310BBCC5B950C", "target": "Ao concluir a missão “Lucros nas alturas”, você poderá comprar pinturas dos Doze." }
   ]
 }

@@ -6,7 +6,7 @@
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SEQ_01", "hash": "7BA3420FB940F499", "target": "T'laqa Tia pediu que você lhe forneça Garlean clams para a coleta de dados.<br><br>※Garlean clams podem ser pescados perto de Camp Broken Glass usando leeches como isca.<br><br>※O valor mínimo de collectability para esta entrega é 78. Entregar itens com valor igual ou superior a 184 renderá recompensas maiores." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SEQ_02", "hash": "693DAD6F92CC4F1D", "target": "Você entrega os Garlean clams a T'laqa Tia. O professor associado certamente apreciará sua ajuda quando chegar a hora de concluir a tese." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TODO_00", "hash": "AF8DD78CDA5C22E5", "target": "Pescar Garlean clams perto de Camp Broken Glass e entregá-los a T'laqa Tia" },
-    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_900", "hash": "7695909F97E4D466", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “The Martyr”." },
+    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_900", "hash": "7695909F97E4D466", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “O mártir”." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_100_001", "hash": "C111DB9BBF2BFC32", "target": "Ah, olá de novo! Nem sei como agradecer. As amostras que você trouxe permitiram avanços incríveis no meu trabalho. Por acaso, acabei de decidir qual será o próximo espécime que quero pedir." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_000_001", "hash": "A3C32A093DEAED2D", "target": "Praticamente concluí a análise das correntes ao redor de Thavnair. Foi muito esclarecedor." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_TLAQATIA_000_002", "hash": "BAA3CBAEDE847922", "target": "Agora quero pedir que viaje para um lugar sobre o qual não temos dados anteriores. Pretendo pesquisar as correntes de Garlemald." },
@@ -44,6 +44,6 @@
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_NELE_000_047", "hash": "6FD6BCDDB5B0D194", "target": "Se T'laqa chegar a um impasse, posso confiar que você lhe dará apoio quando ele mais precisar? Isso significaria tudo para ele... e para mim." },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_048", "hash": "5168C79E260F7DA7", "target": "T'laqa Tia está muito feliz com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Seasoned Fisher<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_049", "hash": "F025DA6D0DC94CB3", "target": "Uma nova missão que continua a história da Faculdade de Eterologia está disponível." },
-    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_050", "hash": "9FCC15D9599A37EB", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “At World's End”." }
+    { "gameKey": "quest/041/AktKla504_04163#TEXT_AKTKLA504_04163_SYSTEM_000_050", "hash": "9FCC15D9599A37EB", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “No fim do mundo”." }
   ]
 }

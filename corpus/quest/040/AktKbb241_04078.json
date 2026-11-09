@@ -87,6 +87,6 @@
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_081", "hash": "47FE522439691D78", "target": "Falar demais pode me deixar sentimental. Ou pior, com lágrimas nos olhos." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_082", "hash": "6977144B2B393DD7", "target": "Então vamos ficar por aqui, hein? Se um dia o peso do mundo nos seus ombros cansar você, saiba que nossas portas estarão sempre abertas." },
     { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_DRUSILLA_000_083", "hash": "D14B17AFB5CB9BC5", "target": "E, se precisar de alguém para ouvir, de um ombro para chorar ou de uma garrafa de bebida forte para mergulhar, estarei bem aqui, <if(gnum4,Irmã,Irmão)>!" },
-    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Para realizar esta missão, primeiro é preciso concluir a missão de cenário principal “Over the Wall”." }
+    { "gameKey": "quest/040/AktKbb241_04078#TEXT_AKTKBB241_04078_SYSTEM_000_100", "hash": "756B3663949435F6", "target": "Para realizar esta missão, primeiro é preciso concluir a missão de cenário principal “Além da muralha”." }
   ]
 }

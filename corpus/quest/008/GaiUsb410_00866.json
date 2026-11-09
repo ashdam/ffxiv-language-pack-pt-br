@@ -11,7 +11,7 @@
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_SEQ_06", "hash": "3A57B29F02467B19", "target": "Seu trabalho está longe de acabar. Continue desfazendo os nós dos músculos tensos de Godbert." },
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_SEQ_07", "hash": "83D8FE9F30A629B9", "target": "Godbert alcançou um elevado estado de felicidade graças aos seus cuidados especializados. Informe Rukusa Farusa sobre seu sucesso." },
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_SEQ_08", "hash": "AD9DACAABDC8AFE4", "target": "Rukusa Farusa conta que o artesão de Ul'dah está enganado. Ou talvez seja da natureza dos ricos e dos que estão à procura de algo acreditar no que bem entendem." },
-    { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_SEQ_22", "hash": "B536596BB160D2D8", "target": "" },
+    { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_SEQ_22", "hash": "B536596BB160D2D8", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_TODO_00", "hash": "11237598EB94C09F", "target": "Matar salamanders e obter óleo de salamandra" },
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_TODO_01", "hash": "BB475731ACC50D60", "target": "Mostrar o óleo de salamandra a Godbert" },
     { "gameKey": "quest/008/GaiUsb410_00866#TEXT_GAIUSB410_00866_TODO_02", "hash": "C99DBF2DDF3DB479", "target": "Usar o óleo de salamandra em Godbert" },

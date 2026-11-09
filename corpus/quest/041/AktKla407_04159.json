@@ -12,7 +12,7 @@
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_TODO_01", "hash": "D8F91A263586A3CE", "target": "Entregar a carta de Tankin a Hinageshi" },
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_TODO_02", "hash": "574CB8346DB0FAC7", "target": "Falar com Tankin" },
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_TODO_03", "hash": "205E218098A343CE", "target": "Falar com Hinageshi" },
-    { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_SYSTEM_000_001", "hash": "4C5213E7E96D707C", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “Endwalker”." },
+    { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_SYSTEM_000_001", "hash": "4C5213E7E96D707C", "target": "Para iniciar esta missão, você precisa concluir a missão do cenário principal “Caminhante do fim”." },
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_HINAGESHI_000_010", "hash": "1FF46B9033EBC072", "target": "Já reunimos tantos dados para a pesquisa do professor que nem imagino para onde voltaremos nossa atenção agora." },
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_TANKIN_000_020", "hash": "91DBA04C024EE2F8", "target": "Que bom que chegaram. Há algo que quero discutir com <if(gnum4,vocês duas,vocês dois)>." },
     { "gameKey": "quest/041/AktKla407_04159#TEXT_AKTKLA407_04159_TANKIN_000_021", "hash": "546A50984E4BBB52", "target": "Informarei a Studium que minha pesquisa chegou ao fim." },

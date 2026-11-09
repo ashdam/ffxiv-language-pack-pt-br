@@ -5,6 +5,8 @@
     "fr and ja are copied from corpus lines; empty means that language uses no fixed term."
   ],
   "terms": [
+    {"en":"aramitama","pt-BR":"aramitama","protect":false},
+    {"en":"rutabite","pt-BR":"rutabita","protect":false,"note":"Mineral usado na produção de nabaathium."},
     {"en":"Palico","pt-BR":"Amigato","protect":false,"forms":["Amigatos"],"note":"Monster Hunter companion role in prose, not the Felyne species. Keep complete untranslated NPC, minion and Item labels in English."},
     {"en":"Bearer","pt-BR":"Portador","protect":false,"forms":["Portadores"],"note":"Final Fantasy XVI magic-user designation in prose. Exclude ordinary bearers, bearers of objects and complete untranslated XIV labels."},
     {"en":"Dominant","pt-BR":"Dominante","protect":false,"forms":["Dominantes"],"note":"Final Fantasy XVI Eikon host in prose. Exclude ordinary dominant adjectives and complete untranslated XIV labels."},
@@ -1520,7 +1522,7 @@
     { "en": "wild rose", "fr": "rose sauvage", "ja": "野バラ", "pt-BR": "rosa selvagem", "protect": false, "note": "A senha dos Herdeiros, com «lírio branco» (white lily) e «edelweiss». Reaparece como opção de diálogo e tem de ser a mesma cadeia em toda a história." },
     { "en": "the Serpent Reavers", "fr": "les pillards du serpent", "ja": "海蛇の舌", "pt-BR": "os Saqueadores da Serpente", "protect": false, "note": "Os piratas que servem os Sahagin. BAIXA." },
     { "en": "Allagan", "fr": "allagois", "ja": "アラグ", "pt-BR": "alagano", "forms":["alagana","alaganos","alaganas"], "protect": false, "note": "Gentílico em minúscula e com um l: «ruínas alaganas». Allag fica." },
-    { "en": "Dravanian", "fr": "dravanien", "ja": "ドラヴァニア", "pt-BR": "dravaniano", "protect": false, "note": "«a Horda Dravaniana». Dravania fica." },
+    {"en":"Dravanian","fr":"dravanien","ja":"ドラヴァニア","pt-BR":"dravaniano","protect":false,"note":"«a Horda Dravaniana». Dravania fica.","forms":["dravanianos"]},
     { "en": "Legatus", "fr": "général", "ja": "軍団長", "pt-BR": "legado", "protect": false, "note": "«o legado Gaius van Baelsar». BAIXA." },
     { "en": "Archon", "fr": "Archon", "ja": "賢人", "pt-BR": "Arconte", "protect": false, "note": "O título sharlayano; «a Operação Arconte». BAIXA." },
     { "en": "the Fury", "fr": "la Furie", "ja": "戦神", "pt-BR": "a Fúria", "protect": false, "note": "Halone. Os epítetos dos Doze se traduzem: the Navigator «a Navegadora» (Llymlaen), the Matron «a Matriarca» (Nophica; «Matrona» é pejorativo no Brasil), the Traders «os Mercadores» (Nald'thal)." },
@@ -1699,7 +1701,7 @@
     { "en": "Ninja", "pt-BR": "ninja", "protect": false },
     { "en": "Samurai", "pt-BR": "samurai", "protect": false },
     { "en": "Reaper", "pt-BR": "ceifador", "protect": false },
-    { "en": "Viper", "pt-BR": "viper", "protect": true },
+    {"en":"Viper","pt-BR":"viper","protect":true,"forms":["vipers"]},
     { "en": "Archer", "pt-BR": "arqueiro", "protect": false },
     { "en": "Bard", "pt-BR": "bardo", "protect": false },
     { "en": "Machinist", "pt-BR": "maquinista", "protect": false },

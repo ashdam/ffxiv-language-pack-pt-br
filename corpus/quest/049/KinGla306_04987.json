@@ -6,7 +6,7 @@
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_01", "hash": "EB96B42A14365575", "target": "Xeerol Ja pediu que você preparasse prickly pear juice.<br><br>※O valor mínimo de coletabilidade para esta entrega é 260. Entregar itens com valor igual ou superior a 530 rende recompensas maiores." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SEQ_02", "hash": "A6B567B7044F1B48", "target": "Você entrega o prickly pear juice a Xeerol Ja. Como ainda falta um tempo para a degustação, você pode aproveitar para aperfeiçoar sua técnica." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_TODO_00", "hash": "27E272CA0B1804EF", "target": "Entregar prickly pear juice a Xeerol Ja" },
-    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_000", "hash": "D6D5691B87AD1360", "target": "Para aceitar esta missão, você precisa primeiro concluir a missão do cenário principal “The Long Road to Xak Tural”." },
+    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_000", "hash": "D6D5691B87AD1360", "target": "Para aceitar esta missão, você precisa primeiro concluir a missão do cenário principal “O longo caminho até Xak Tural”." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_HALNARUK_100_000", "hash": "DCA513BFF60D8CA6", "target": "Pfff... Pfffkohhh! Xeerol Ja parece de ânimo arleve! Graças à polpassuco de Halnaruk, não é?" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_010", "hash": "39BDD0039A72E73A", "target": "Você chegou na hora certa, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_011", "hash": "0703AD1DBFD1C71B", "target": "Tenho um plano para o protótipo dos Pelupelu. Tem um tempinho para conversar?" },
@@ -54,6 +54,6 @@
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_XEEROLJA_000_060", "hash": "6C0F64DCFA5A4957", "target": "Nossa própria degustação! Mal posso esperar! Ah, tem tanta coisa para fazer! Mas deixe o planejamento comigo. Logo conto os detalhes!" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_061", "hash": "9AD8CD5DC479F964", "target": "Xeerol Ja está entusiasmada com seus esforços. Agora ela considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Pelupelu Panacea Provider<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_062", "hash": "18D684C8C9006B55", "target": "A próxima missão de Xeerol Ja estará disponível ao atingir o nível 100 como Alchemist ou Culinarian." },
-    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_063", "hash": "E99845CBD135E1FD", "target": "Para aceitar a próxima missão, você precisa primeiro concluir a missão do cenário principal “The Protector and the Destroyer”." }
+    { "gameKey": "quest/049/KinGla306_04987#TEXT_KINGLA306_04987_SYSTEM_000_063", "hash": "E99845CBD135E1FD", "target": "Para aceitar a próxima missão, você precisa primeiro concluir a missão do cenário principal “O protetor e o destruidor”." }
   ]
 }

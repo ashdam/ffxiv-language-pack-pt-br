@@ -18,7 +18,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_04", "hash": "EA1FCFF38C4F9A8B", "target": "Falar com Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Sintetizar um Yok Huy cover <sheet(Addon,9,0)>,Entregar o Yok Huy cover <sheet(Addon,9,0)> a Pameka)>" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_06", "hash": "57885F9D6E8AF56D", "target": "Falar com Pameka" },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Para aceitar esta missão, primeiro conclua a missão do cenário principal “The Promise of Peace”." },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Para aceitar esta missão, primeiro conclua a missão do cenário principal “A promessa de paz”." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_001", "hash": "C483CD5287A718F9", "target": "Depois de ouvir Zemoweni falar das histórias dos antepassados, não consigo parar de pensar no que minha própria família pode ter preservado das gerações passadas." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_002", "hash": "3EBDADDD33C96A68", "target": "Quase terminei o trabalho de hoje, então vou fechar a loja e conversar com meus pais. Eles devem saber me orientar, mesmo que isso exija uma viagem para fora da cidade." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_003", "hash": "7829FF0253943783", "target": "Se for o caso, ficaria muito grata por sua companhia. É que raramente saio da cidade..." },
@@ -120,7 +120,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_100_701", "hash": "E50ADB897287605A", "target": "Afinal, foi o pedido dele que deu início a todo esse projeto. Espero mesmo que goste." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_702", "hash": "7C1CB5B54702F13D", "target": "E devo meus mais sinceros agradecimentos a você, <split(<string(gstr1)>, ,1)>. Além de me acompanhar a Worlar's Echo, você me deu talvez a capa mais deslumbrante que já fez." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_703", "hash": "3CE8C4A4CAFE16F4", "target": "Agora é hora de voltar ao trabalho. Até o próximo encontro com Zemoweni, desejo que você aproveite seu ofício." },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_704", "hash": "62D41E4530014104", "target": "Para concluir a próxima missão, primeiro conclua a missão do cenário principal “Ever Greater, Ever Brighter”." },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_704", "hash": "62D41E4530014104", "target": "Para concluir a próxima missão, primeiro conclua a missão do cenário principal “Cada vez maior, cada vez mais brilhante”." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_705", "hash": "A6824349ECFCDFC9", "target": "O próximo pedido de Pameka estará disponível quando você atingir o nível 98 como Carpenter, Leatherworker ou Weaver." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_710", "hash": "BE648B19E90B564C", "target": "Os itens de qualidade normal fabricados durante esta missão não têm utilidade e não podem ser vendidos. Recomendamos descartá-los." }
   ]

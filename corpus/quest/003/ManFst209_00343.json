@@ -31,7 +31,7 @@
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_14", "hash": "24CAB1FF5FBC1FDF", "target": "O encontro será na Cidade Invisível. Siga para lá e fique de tocaia." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_15", "hash": "6E125F63805ED198", "target": "Se a missão der certo, vamos descobrir muita coisa sobre o plano dos Amalj'aa, <split(<string(gstr1)>, ,1)>. Vamos garantir que dê." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_20", "hash": "127A3FE170673167", "target": "Se a missão der certo, vamos descobrir muita coisa sobre o plano dos Amalj'aa, <split(<string(gstr1)>, ,1)>. Vamos garantir que dê." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_Q1_000_1", "hash": "C24E1F6C6107C7E4", "target": "O dever chama. Deseja prosseguir com<br>“Lord of the Inferno”?" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_Q1_000_1", "hash": "C24E1F6C6107C7E4", "target": "O dever chama. Deseja prosseguir com<br>“Senhor do inferno”?" },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_A1_000_1", "hash": "8B4F388D34ACA7C8", "target": "Sim" },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_A1_000_2", "hash": "D80B73EF24C20911", "target": "Não" },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_40", "hash": "1D91966DC2375EA1", "target": "A isca está no lugar?" },

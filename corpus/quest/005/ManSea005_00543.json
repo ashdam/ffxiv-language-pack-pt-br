@@ -23,7 +23,7 @@
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_18", "hash": "9C3627AA14B649E7", "target": "Mas tome cuidado, <split(<string(gstr1)>, ,2)>─não sei dizer ao certo com que tipo de gente estamos lidando. Se eles <italic(1)>forem<italic(0)> os sequestradores... bom, fique de olho aberto, está bem?" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_30", "hash": "E780F099F700B1E6", "target": "Você está prestes a entrar numa batalha instanciada. Batalhas instanciadas só acontecem em certas missões e tarefas." },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_31", "hash": "8D030AEBD6ADED17", "target": "Reserve um instante para ler as informações exibidas na janela de ajuda antes de atender ao chamado do dever." },
-    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_Q1_000_1", "hash": "7AC360578641DDE8", "target": "O dever chama. Deseja prosseguir com<br>“Lurkers in the Grotto”?" },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_Q1_000_1", "hash": "7AC360578641DDE8", "target": "O dever chama. Deseja prosseguir com<br>“À espreita na gruta”?" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_1", "hash": "A7D5280EF261D5B4", "target": "Sim" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_2", "hash": "CDE7927F0D24F7A2", "target": "Não" },
     { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000010_YSHTOLA", "hash": "48F149EA240E6146", "target": "(-???-)<italic(1)>Sou as ondas que sustentam.<br>Sou os ventos que guiam.<italic(0)>" },

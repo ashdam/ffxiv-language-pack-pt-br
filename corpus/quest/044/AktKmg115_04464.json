@@ -295,7 +295,7 @@
     { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_TATARU_000_392", "hash": "73728D0CE94898D6", "target": "Com a sua permissão, então!" },
     { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_TATARU_000_393", "hash": "D36902645E26025F", "target": "Atenção, por favor! Arriscando estragar o clima, chegou a hora da partida." },
     { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_TATARU_000_394", "hash": "1EFE21E22D69027A", "target": "Como recepcionista, desejo boa viagem a todos. Até o próximo encontro...fiquem bem!" },
-    { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_SYSTEM_000_400", "hash": "FFCEBFEFB7515619", "target": "Você concluiu a missão do cenário principal “Endwalker”! Agora há missões disponíveis em Old Sharlayan para desbloquear novos conteúdos." },
+    { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_SYSTEM_000_400", "hash": "FFCEBFEFB7515619", "target": "Você concluiu a missão do cenário principal “Caminhante do fim”! Agora há missões disponíveis em Old Sharlayan para desbloquear novos conteúdos." },
     { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_SYSTEM_000_401", "hash": "BF65D5CA6FEF80EE", "target": "Além disso, agora pode entrar em Dead Ends com um grupo de avatares NPCs. Para usar esse recurso, abra a interface <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, na seção <colortype(500)><edgecolortype(501)>Duty<edgecolortype(0)><colortype(0)> do menu principal." },
     { "gameKey": "quest/044/AktKmg115_04464#TEXT_AKTKMG115_04464_SYSTEM_000_402", "hash": "49B66E4C74A0A871", "target": "Descanse bem, <if(gnum4,campeã,campeão)> de Etheirys, pois muitas aventuras esperam por você!" }
   ]

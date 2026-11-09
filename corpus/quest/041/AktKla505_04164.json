@@ -18,7 +18,7 @@
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_04", "hash": "FC6EA7CD08A00FD8", "target": "Falar com T'laqa Tia" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_05", "hash": "B52D52D2808ABE68", "target": "<if([lnum1<lnum2],Pescar um Alnairan Salmon no Ksiroda,Entregar o Alnairan Salmon a T'laqa Tia)>" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TODO_06", "hash": "ABD1A087D199F348", "target": "Falar com T'laqa Tia no Encontro dos Buscadores" },
-    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_001", "hash": "28ECDE95E852D1C7", "target": "Para avançar nesta missão, você precisa primeiro concluir a missão do cenário principal “At World's End”." },
+    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_001", "hash": "28ECDE95E852D1C7", "target": "Para avançar nesta missão, você precisa primeiro concluir a missão do cenário principal “No fim do mundo”." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_000_010", "hash": "1CA4237234B42ED6", "target": "Graças às suas contribuições tão generosas, estou cada vez mais perto de comprovar minha hipótese. Outros coletores também estão ajudando, continuando a buscar espécimes para mim em águas mais tranquilas." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_100_010", "hash": "29A0569EA2868E65", "target": "Mas quero reunir dados de lugares cada vez mais distantes. E é aí, claro, que você entra..." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_AUBRACIE_000_011", "hash": "700BB55178779650", "target": "Professor!" },
@@ -122,6 +122,6 @@
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_TLAQATIA_100_117", "hash": "93B4CB896792712E", "target": "Ah, que pouca fé! <if(gnum4,Nossa amiga está mais que preparada,Nosso amigo está mais que preparado)> para isso. Não é, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_NELE_000_119", "hash": "B636965A01442508", "target": "Hahaha! Assim que se fala, T'laqa. Um bom pesquisador deve considerar todas as opções, até as que parecem impossíveis. Continue pensando no assunto, e não duvido que logo encontrará uma resposta." },
     { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_120", "hash": "47BECDD4C006DF08", "target": "A próxima missão estará disponível com T'laqa Tia ao atingir o nível 88 como Fisher." },
-    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_121", "hash": "F45E1E281212159E", "target": "Para iniciar a missão seguinte, você precisa primeiro concluir a missão do cenário principal “Thou Must Live, Die, and Know”." }
+    { "gameKey": "quest/041/AktKla505_04164#TEXT_AKTKLA505_04164_SYSTEM_000_121", "hash": "F45E1E281212159E", "target": "Para iniciar a missão seguinte, você precisa primeiro concluir a missão do cenário principal “Deveis viver, morrer e conhecer”." }
   ]
 }

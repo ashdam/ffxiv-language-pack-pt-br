@@ -18,7 +18,7 @@
     { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_MUMUGOI_000_015", "hash": "5FA9BC52B66EAC7C", "target": "Foi maravilhoso, <if(gnum4,aventureira,aventureiro)>! Os montes cresciam a cada dia, e não imagina a <italic(1)>pouquíssima<italic(0)> vontade que eu tinha de limpar aquilo..." },
     { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_MUMUGOI_000_016", "hash": "96FAD47E61239CDE", "target": "Mas, falando em coisas que não quero fazer, você já deve ter notado a quantidade de smoke bombs em volta do canteiro. Eles não estão aqui por acaso. Vieram por causa do equipamento." },
     { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_MUMUGOI_000_017", "hash": "2681305CB4EC03C9", "target": "As máquinas esquentam para burro, e o calor atrai os bombs. Toda vez que isso acontece, temos que desligar tudo ou correr o risco de eles explodirem em cima da gente. Todo mundo agradeceria se você desse conta de quatro desses diabinhos." },
-    { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_DUMMY_000_025", "hash": "0D5B23081EBBE95F", "target": "" },
+    { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_DUMMY_000_025", "hash": "0D5B23081EBBE95F", "target": "", "intentionalEmpty": true },
     { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_MUMUGOI_000_030", "hash": "30463DC30072CDBB", "target": "Por Nald e por Thal, finalmente livre das distrações! Graças a você, talvez eu consiga me concentrar na escavação por mais de um minuto. Nada melhor que um par de mãos a mais!" },
     { "gameKey": "quest/008/GaiUsb108_00827#TEXT_GAIUSB108_00827_POP_MESSAGE_000", "hash": "9584EC1A4FD33468", "target": "Um bomb salta da areia!" }
   ]

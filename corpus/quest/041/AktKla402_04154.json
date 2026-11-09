@@ -35,6 +35,6 @@
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_HINAGESHI_000_062", "hash": "78D32C42D8636CFE", "target": "Claro que isso não seria possível sem sua ajuda. Muito obrigada!" },
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_063", "hash": "06D398D0E6FE54B9", "target": "Hinageshi está satisfeita com seus esforços. Agora ela considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Fledgling Matchmaker<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_070", "hash": "3A313E7DA7DC591B", "target": "A próxima missão estará disponível com Hinageshi ao atingir o nível 83 como Miner ou Botanist." },
-    { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_080", "hash": "1DCEB689304071C7", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “A Frosty Reception”." }
+    { "gameKey": "quest/041/AktKla402_04154#TEXT_AKTKLA402_04154_SYSTEM_000_080", "hash": "1DCEB689304071C7", "target": "Para iniciar a próxima missão, você precisa concluir a missão do cenário principal “Uma recepção gelada”." }
   ]
 }

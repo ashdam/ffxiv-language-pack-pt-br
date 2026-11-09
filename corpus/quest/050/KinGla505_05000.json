@@ -12,7 +12,7 @@
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_01", "hash": "FD87CC88EB46BA19", "target": "Procurar Donuhanu perto do Bitterbark Cenote" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_02", "hash": "D46A36264EC81FE4", "target": "<if([lnum1<lnum2],Pescar um cenote shark perto do Bitterbark Cenote,Entregar o cenote shark a Donuhanu)>" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_TODO_03", "hash": "E0495DC8B3EA14FC", "target": "Falar com Donuhanu em Tuliyollal" },
-    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_000", "hash": "0199A4B06470A2FF", "target": "Para aceitar esta missão, primeiro você precisa concluir a missão do cenário principal “The Feat of the Brotherhood”." },
+    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_000", "hash": "0199A4B06470A2FF", "target": "Para aceitar esta missão, primeiro você precisa concluir a missão do cenário principal “A Proeza da Irmandade”." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_005", "hash": "0F633724C05C98D6", "target": "O Qor pirarucu que você pescou era delicioso e poderoso. Duvido que eu sinta fome por um bom tempo..." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_DONUHANU_000_009", "hash": "78D8DD8AC34E2D63", "target": "Enfim chegou a hora, hein? Tá nervoso com as provações?" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_010", "hash": "C7DDF825150A2FBC", "target": "A perspectiva de testar minhas habilidades em batalha assusta... mas preciso fazer isso para provar meu valor como Whalaqee." },
@@ -76,6 +76,6 @@
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_PASHENINE_000_114", "hash": "5290B7F7A62BC824", "target": "Obrigado. Não vou decepcionar você!" },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_DONUHANU_000_115", "hash": "7D33B5ACF6DB8CC9", "target": "Quando estiver na hora de Pashenine voltar, eu aviso. Obrigado, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_120", "hash": "F9E9DD6A845C004A", "target": "A próxima missão estará disponível com Donuhanu ao alcançar o nível 98 na classe Fisher." },
-    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_121", "hash": "65674758A72FA285", "target": "Para aceitar a missão seguinte, primeiro você precisa concluir a missão do cenário principal “The Long Road to Xak Tural”." }
+    { "gameKey": "quest/050/KinGla505_05000#TEXT_KINGLA505_05000_SYSTEM_000_121", "hash": "65674758A72FA285", "target": "Para aceitar a missão seguinte, primeiro você precisa concluir a missão do cenário principal “O longo caminho até Xak Tural”." }
   ]
 }

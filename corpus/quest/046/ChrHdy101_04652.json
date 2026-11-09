@@ -10,7 +10,7 @@
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_TODO_00", "hash": "A25D7BABCB03C4D0", "target": "Falar com o House Manderville manservant" },
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_TODO_01", "hash": "DFB56797D94A7788", "target": "Falar com Jubrunnah" },
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_TODO_02", "hash": "1ADBC38BA831CD62", "target": "Entregar os chunks of manderium meteorite a Gerolt" },
-    { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_SYSTEM_100_000", "hash": "080D5C51EEC877A6", "target": "Ao concluir a missão “Make It a Manderville”, você receberá uma arma Manderville para <sheet(ClassJob,gnum68,0)>." },
+    { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_SYSTEM_100_000", "hash": "080D5C51EEC877A6", "target": "Ao concluir a missão “Faça uma Manderville”, você receberá uma arma Manderville para <sheet(ClassJob,gnum68,0)>." },
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_SYSTEM_110_000", "hash": "70A900BE887F6945", "target": "Certifique-se de mudar para o job desejado antes de falar com o House Manderville manservant." },
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_Q2_000_000", "hash": "F2C3A7829D49A271", "target": "O que você vai fazer?" },
     { "gameKey": "quest/046/ChrHdy101_04652#TEXT_CHRHDY101_04652_A2_000_000", "hash": "54F7F1786E058881", "target": "Aceitar esta missão com outro job" },

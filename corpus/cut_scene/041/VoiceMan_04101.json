@@ -2,8 +2,8 @@
   "conversation": "cut_scene/041/VoiceMan_04101",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000010_ALGUS", "hash": "0159AB53432A4FF1", "target": "" },
-    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000011_ALGUS", "hash": "D8706DD2FF2D68BC", "target": "" },
-    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000020_ALGUS", "hash": "A7B7EF2BA1A6E9E2", "target": "" }
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000010_ALGUS", "hash": "0159AB53432A4FF1", "target": "Quem ousa perturbar o sono de Argath Thadalfus, legítimo rei de Ivalice!?" },
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000011_ALGUS", "hash": "D8706DD2FF2D68BC", "target": "Descendentes da Casa Beoulve? Então, com minha espada, banirei suas almas para o mais profundo inferno!" },
+    { "gameKey": "cut_scene/041/VoiceMan_04101#TEXT_VOICEMAN_04101_000020_ALGUS", "hash": "A7B7EF2BA1A6E9E2", "target": "Onde... Onde estou? Este corpo... Não é meu. Ah, deuses, o que foi que eu fiz? Me salve, Ramza! Me salve!" }
   ]
 }

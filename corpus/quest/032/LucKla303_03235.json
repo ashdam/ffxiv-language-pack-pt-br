@@ -142,7 +142,7 @@
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_140", "hash": "BE16D16A11D9AC6D", "target": "Bethric admira seus esforços. Agora ele considera você <if(gnum4,a,o)> <colortype(500)><edgecolortype(501)><if(gnum4,Salvadora,Salvador)> dos Amaros<edgecolortype(0)><colortype(0)>!" },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_150", "hash": "50A95CF89CF2C2D0", "target": "Talvez haja outras pessoas em Crystalline Mean que precisem da ajuda de <if(gnum4,uma artesã talentosa,um artesão talentoso)>. Pergunte por aí e veja quem precisa de suas habilidades." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_160", "hash": "E2D915BA81ED6C06", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempo, parece que Katliss quer falar com você." },
-    { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_161", "hash": "E0BD69031576F9C1", "target": "Volte a visitar Crystalline Mean depois de concluir a missão do cenário principal “Shadowbringers”." },
+    { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_161", "hash": "E0BD69031576F9C1", "target": "Volte a visitar Crystalline Mean depois de concluir a missão do cenário principal “Portadores das sombras”." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_170", "hash": "B9E744A0B8271882", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempo, parece que Katliss quer falar com você." },
     { "gameKey": "quest/032/LucKla303_03235#TEXT_LUCKLA303_03235_SYSTEM_000_171", "hash": "5E0EE0CA94FD80F5", "target": "Visite Katliss no balcão de atendimento principal de Crystalline Mean." }
   ]

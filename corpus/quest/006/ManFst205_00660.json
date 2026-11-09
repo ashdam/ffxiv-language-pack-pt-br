@@ -63,7 +63,7 @@
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_ALIANNE_000_63", "hash": "DF86793AE7B02817", "target": "Ter objetivos é importante, mas não se pode fixar neles a ponto de esquecer todo o resto. Quem faz isso certamente paga o preço, como Dolorous Bear e os companheiros dele pagaram hoje." },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_PAINTEDMESA_000_65", "hash": "3986F9DC6F86D50F", "target": "A esperança da nação está sobre os seus ombros, amig<if(gnum4,a,o)>. Mande esses gigantes de volta para o inferno de onde escaparam!" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_STONETORCH_000_67", "hash": "744C2C705A488FEE", "target": "Boa sorte lá dentro, aventureir<if(gnum4,a,o)>. Nós, as Tochas de Pedra, continuaremos de vigília aqui, para o caso de algum inimigo passar por você." },
-    { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_Q1_000_1", "hash": "CFB4D75D8D2C2704", "target": "O dever chama. Deseja iniciar<br>“Into a Copper Hell”?" },
+    { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_Q1_000_1", "hash": "CFB4D75D8D2C2704", "target": "O dever chama. Deseja iniciar<br>“Rumo a um inferno de cobre”?" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_A1_000_1", "hash": "24A353BB8503EEB0", "target": "Sim" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_A1_000_2", "hash": "EAFF385E4CC0FFB1", "target": "Não" },
     { "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_PAINTEDMESA_000_70", "hash": "98F15BFBC72F6891", "target": "Ah, <if(gnum4,a conquistadora,o conquistador)> de Copperbell está de volta!" },
