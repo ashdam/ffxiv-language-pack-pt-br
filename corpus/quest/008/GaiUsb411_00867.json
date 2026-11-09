@@ -12,6 +12,7 @@
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_01", "hash": "D7DC86B24145F89E", "target": "Retirar as garrafas de vinho quente da fonte termal" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_02", "hash": "6E9BEC9B5F30A1F5", "target": "Dar o vinho quente aos soldados convalescentes" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_03", "hash": "604C860694566795", "target": "Informar A'rhunlika" },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_23", "hash": "C121AB80660498C1", "target": "" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Usamos vinho condimentado de Wineport para tratar os feridos de guerra. Ele restaura os humores do corpo e dá vigor aos corações cansados pela febre." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_001", "hash": "AC3FC5BC234595DD", "target": "Que tal fazer algo de bom, <if(gnum4,aventureira,aventureiro)>? Preparei um vinho condimentado mais cedo e preciso aquecê-lo para fazer vinho quente. Pode mergulhar estas garrafas na fonte termal ali e servir a quem tanto precisa?" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_000_020", "hash": "177DE7C0B77F0D5E", "target": "Interagir com a garrafa de vinho para obter 4 porções de vinho quente" },

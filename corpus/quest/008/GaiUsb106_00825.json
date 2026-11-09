@@ -11,6 +11,7 @@
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "A lei é clara: para se tornar o Nunh da tribo dos U, é preciso derrotar o Nunh atual. No meu caso, U'odh Nunh." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Mas, para conquistar o direito de desafiar U'odh, primeiro preciso vencer U'tykha. Ele está no meu caminho, e eu no dele. Assim, o Nunh fica protegido de desafios constantes." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_002", "hash": "67331EDDCA0149F5", "target": "Mas, para derrotar U'tykha, minhas armas precisam ser impecáveis. Ele pode ser tolo, mas não é fraco. Vou fazer novas pontas de flecha, e preciso de farpas de yarzon para isso. Meia dúzia deve bastar." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_DUMMY_000_020", "hash": "A7B3C1D0CEEA63ED", "target": "" },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_030", "hash": "3E108156F6489BD9", "target": "Trouxe as farpas de yarzon?" },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_035", "hash": "1F34B6B6493E03C8", "target": "Meus agradecimentos, <if(gnum4,aventureira,aventureiro)>. Talvez se surpreenda com o alvo que elas vão atingir. Observe bem Forgotten Springs hoje. Os velhos costumes estão de partida, tão rápidos quanto flechas no ar." }
   ]
