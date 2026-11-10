@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKyr003_03604",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_000", "hash": "F7735B96996EE2FF", "target": "Espere um instante, <if(gnum4,pecadora,pecador)>. Você não é daqui, é? Mais uma alma errante? Alguém que vive na estrada? Bem que pensei!" },
     { "gameKey": "quest/036/LucKyr003_03604#TEXT_LUCKYR003_03604_EIRLALTH_000_001", "hash": "0F655C385AB3E869", "target": "Meu nome é Eirlalth. Meu sonho é percorrer o mundo inteiro. Embora ele esteja bem menor do que antes, então, pensando bem, é um sonho muito mais realista do que parece." },

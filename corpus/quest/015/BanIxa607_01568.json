@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa607_01568",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa607_01568#TEXT_BANIXA607_01568_SEQ_00", "hash": "F90BEF0544E8365C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dominar os céus não basta: os Nove de Ehcatl querem fazê-lo com estilo.<br>※A parte de fabricação desta missão é recomendada para Disciples of the Hand de nível 16 ou superior, e a parte de combate para Disciples of War ou Magic de nível 49 ou superior." },
     { "gameKey": "quest/015/BanIxa607_01568#TEXT_BANIXA607_01568_SEQ_01", "hash": "33E1A7716A36C1AD", "target": "Com a conclusão do <italic(1)>Dezul Qualan<italic(0)> cada vez mais próxima, Jezul Ahuatan passa a se preocupar mais com a imagem que os Nove de Ehcatl vão transmitir com sua nova aeronave. Simplesmente voar acima dos irmãos presos à terra não basta: precisam fazê-lo numa aeronave poderosa e agradável aos olhos. Para isso, Jezul Ahuatan pede que você encontre um irmão de Ehcatl em Natalan, que se infiltrou nas fileiras inimigas e roubou os materiais necessários para fabricar Decorative Plating Component de alta qualidade. Entre na fortaleza dos Ixal e, com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digite a senha “Entre as flores” para se identificar como <if(gnum4,amiga,amigo)>.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },

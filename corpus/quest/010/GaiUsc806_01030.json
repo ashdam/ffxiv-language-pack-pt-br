@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc806_01030",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_00", "hash": "0400F7C11FDA1A75", "target": "Eilis tem um trabalho sombrio para <if(gnum4,uma aventureira experiente,um aventureiro experiente)>." },
     { "gameKey": "quest/010/GaiUsc806_01030#TEXT_GAIUSC806_01030_SEQ_01", "hash": "F8A92CA9F9954ADF", "target": "Eilis informa que os Sahagin pretendem lançar um ataque ao Tidegate. Mate quatro das criaturas que rondam as proximidades para desestimulá-los." },

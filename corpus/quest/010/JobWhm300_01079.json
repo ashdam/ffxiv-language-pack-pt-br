@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWhm300_01079",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWhm300_01079#TEXT_JOBWHM300_01079_SEQ_00", "hash": "1132BD5608189192", "target": "E<-->Sumi<-->Yan tem uma tarefa para <if(gnum4,uma aventureira habilidosa,um aventureiro habilidoso)>." },
     { "gameKey": "quest/010/JobWhm300_01079#TEXT_JOBWHM300_01079_SEQ_01", "hash": "7D3162C89FF08220", "target": "Raya<-->O<-->Senna e A<-->Ruhn<-->Senna, irmãos da Vidente-Mor, estão a caminho de Sombra Eterna, onde realizarão um ritual para acalmar a fúria do grande elemental que habita a Árvore Guardiã. O Irmão E<-->Sumi<-->Yan teme pela segurança deles e pede que você os proteja." },

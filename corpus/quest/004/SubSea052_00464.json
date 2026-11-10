@@ -1,6 +1,6 @@
 {
   "conversation": "quest/004/SubSea052_00464",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_00", "hash": "8A353F10BBE1BBBA", "target": "Gurcant está de olho em novos campos férteis para as Fazendas de Summerford, mas as pragas atrapalham seus arados." },
     { "gameKey": "quest/004/SubSea052_00464#TEXT_SUBSEA052_00464_SEQ_01", "hash": "611E6C5A60784530", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Staelwyrn ou Gurcant nas Fazendas de Summerford, dependendo do seu progresso.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo e desativá-lo em Character Configuration, na seção UI Settings." },

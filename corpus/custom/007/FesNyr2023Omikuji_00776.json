@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/FesNyr2023Omikuji_00776",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_000", "hash": "D692F6FC4D910281", "target": "" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_100_000", "hash": "1EC032E9B3B3C349", "target": "" },
@@ -23,6 +23,7 @@
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_000_023", "hash": "5D627B838DF3CED3", "target": "" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_100_023", "hash": "824647991F4FE4EB", "target": "" },
     { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_200_023", "hash": "FE40C373BF4D1269", "target": "" },
-    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_300_023", "hash": "18BB1830F5A81CC2", "target": "" }
+    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_300_023", "hash": "18BB1830F5A81CC2", "target": "" },
+    { "gameKey": "custom/007/FesNyr2023Omikuji_00776#TEXT_FESNYR2023OMIKUJI_00776_OMIKUJISHI_400_023", "hash": "7DBC27FA615C4B94", "target": "" }
   ]
 }

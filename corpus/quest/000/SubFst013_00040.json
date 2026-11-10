@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubFst013_00040",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubFst013_00040#TEXT_SUBFST013_00040_SEQ_00", "hash": "CE05297E451C26DA", "target": "Nicoliaux precisa da ajuda de <if(gnum4,uma aventureira bondosa,um aventureiro bondoso)>." },
     { "gameKey": "quest/000/SubFst013_00040#TEXT_SUBFST013_00040_SEQ_01", "hash": "AC698398701D74C2", "target": "Demonstrando uma compreensão admirável da única motivação dos aventureiros, Nicoliaux oferece uma recompensa se você fizer Aunillie rir. Apresente-se a ela com /bow." },

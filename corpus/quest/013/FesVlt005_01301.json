@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/FesVlt005_01301",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/FesVlt005_01301#TEXT_FESVLT005_01301_SEQ_00", "hash": "F72CE86F5F0106B9", "target": "Lisette quer ouvir um relato completo de seus esforços como <if(gnum4,emissária,emissário)> do amor.<br>※Esta missão só está disponível por tempo limitado." },
     { "gameKey": "quest/013/FesVlt005_01301#TEXT_FESVLT005_01301_SEQ_01", "hash": "745A767F22B3FD7B", "target": "Lisette elogia seu serviço em nome da Casa Valentione. Seus sentidos ancestrais dizem que seus feitos trouxeram grande consolo a quem está perdido no amor. Para recompensar seus esforços, ela se digna a oferecer a chance de você encontrar seu próprio amor. Faça uma troca com <if(gnum4,um cavalheiro elegante,uma bela dama)> para obter dois tipos de chocolate, bitter heart e pure heart, e entregue os dois doces a Lisette.<br><br>※Não será possível concluir esta missão após o fim do evento sazonal. Para mais detalhes, consulte o Lodestone." },

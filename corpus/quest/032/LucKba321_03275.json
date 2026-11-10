@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKba321_03275",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKba321_03275#TEXT_LUCKBA321_03275_SEQ_00", "hash": "5E4448E482714031", "target": "Como sempre, Lue-Reeq fica muito contente em ver você de novo." },
     { "gameKey": "quest/032/LucKba321_03275#TEXT_LUCKBA321_03275_SEQ_01", "hash": "AE7BC366A8A20AD6", "target": "Outra pessoa contratada por Lue-Reeq trouxe novas informações sobre um avistamento de Andreia em Kholusia. Ao que parece, a Virtude transformou mais uma presa mortal em devorador de pecados, desta vez um grande urso. E assim cabe a Reeq e <split(<string(gstr1)>, ,1)> abater mais uma criatura recém-criada." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/019/HeaVnz721_01925",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/019/HeaVnz721_01925#TEXT_HEAVNZ721_01925_SEQ_00", "hash": "607A1B5BCB0EEA16", "target": "Hervoix não ousa sujar as mãos com o próximo serviço." },
     { "gameKey": "quest/019/HeaVnz721_01925#TEXT_HEAVNZ721_01925_SEQ_01", "hash": "81E47B7918EA9221", "target": "Hervoix estremece visivelmente ao ler a próxima tarefa: recolher o lixo espalhado ao redor do acampamento a nordeste. Por sorte, nessa hora sombria, há <if(gnum4,uma aventureira bondosa,um aventureiro bondoso)> por perto, com disposição para lhe dar uma mão. Vá ao acampamento a nordeste e fale com Aimebert, que provavelmente sabe algo sobre o suposto acúmulo de lixo." },

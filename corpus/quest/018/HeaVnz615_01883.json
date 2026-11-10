@@ -1,6 +1,6 @@
 {
   "conversation": "quest/018/HeaVnz615_01883",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz615_01883#TEXT_HEAVNZ615_01883_SEQ_00", "hash": "ADA1B583AD1BD56B", "target": "Este cavaleiro dragão está preocupado com o grupo de reconhecimento no campo de batalha ao norte." },
     { "gameKey": "quest/018/HeaVnz615_01883#TEXT_HEAVNZ615_01883_SEQ_01", "hash": "05116221EC04FC6B", "target": "O cavaleiro dragão precisa esperar em seu posto até que as medições de éter terminem, então pede que você verifique como está o grupo enviado ao norte, que pode estar enfrentando os mesmos problemas. Vá ao norte e fale com a cavaleira dragão do grupo de reconhecimento para saber se ela precisa da força de <if(gnum4,uma aventureira,um aventureiro)>." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa604_01523",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa604_01523#TEXT_BANIXA604_01523_SEQ_00", "hash": "424079B8AD700D0D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O novo pedido de Jezul Ahuatan the Second lembra você de que as transações formam uma teia, não uma corrente, e toda teia tem sua aranha.<br>※A parte de fabricação desta missão é recomendada para Disciples of the Hand de nível 16 ou superior, e a parte de combate para Disciples of War ou Magic de nível 49 ou superior." },
     { "gameKey": "quest/015/BanIxa604_01523#TEXT_BANIXA604_01523_SEQ_01", "hash": "717ABE8E16680F3F", "target": "Jezul Ahuatan pediu que você fabrique isolator components para a aeronave <italic(1)>Dezul Qualan<italic(0)>, mas a notícia de uma escassez generalizada de materiais indica que uma visita rápida a um cantineiro qualquer não vai resolver o problema. Só uma conversa com Tataramu esclarecerá a situação.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },

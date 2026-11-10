@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/GaiUse210_01354",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/GaiUse210_01354#TEXT_GAIUSE210_01354_SEQ_00", "hash": "26448DE085F859BB", "target": "O sofrimento dos refugiados pesa na mente de Minfilia." },
     { "gameKey": "quest/013/GaiUse210_01354#TEXT_GAIUSE210_01354_SEQ_01", "hash": "CD46B6C9388DCC2F", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e fale com Alphinaud em Quicksand para reiniciá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

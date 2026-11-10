@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/SubWil151_00688",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_00", "hash": "6ABA344BC38C8900", "target": "Poponagu, representante local de levequests no Acampamento Osso Seco, procura <if(gnum4,uma aventureira,um aventureiro)> para realizar guildleves." },
     { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_01", "hash": "7E93A3EE8C32DF8E", "target": "Para avaliar sua capacidade de lidar com os diversos guildleves que oferece, Poponagu exige que você realize uma tarefa preliminar." },

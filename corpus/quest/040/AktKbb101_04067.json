@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb101_04067",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb101_04067#TEXT_AKTKBB101_04067_SEQ_00", "hash": "C2F3F462473069B3", "target": "A jovem sharlayana observa a paisagem com fascínio.<br><br>※Esta missão desbloqueia o job Sage." },
     { "gameKey": "quest/040/AktKbb101_04067#TEXT_AKTKBB101_04067_SEQ_01", "hash": "802E4121991C6AE9", "target": "Enquanto percorre os conveses inferiores de Limsa Lominsa, você nota uma jovem vestida de modo exótico. Com a curiosidade aguçada, aproxima-se e descobre que ela é Lalah Jinjahl, uma agente sharlayana que veio a Eorzea numa missão autorizada pelo Fórum para capturar fugitivos. Lalah procura <if(gnum4,uma aventureira,um aventureiro)> para servir de escolta, e você aceita ajudá-la. Antes de revelar os detalhes da missão, ela sugere um lugar mais reservado, e vocês seguem para fora do Portão do Zéfiro para continuar a conversa." },

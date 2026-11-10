@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst030_00173",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_00", "hash": "14D6E5FABBF04A12", "target": "Vionne procura alguém para entregar um objeto." },
     { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_01", "hash": "79317A2AA0A153EF", "target": "Vionne, uma tratadora dos Estábulos de Treespeak, pede sua ajuda com uma entrega simples. Porém, não está com o objeto em mãos e manda você falar com Gillian, que pode ser encontrada atrás dos estábulos." },

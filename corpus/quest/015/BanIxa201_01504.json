@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa201_01504",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_00", "hash": "78F46AD863DFF212", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Methuli Cattlan the Hard está de olho em você para uma tarefa difícil.<br>※A parte de fabricação desta missão é recomendada para Discípulos da Mão de nível 3 ou superior, e a parte de combate para Discípulos da Guerra ou da Magia de nível 43 ou superior." },
     { "gameKey": "quest/015/BanIxa201_01504#TEXT_BANIXA201_01504_SEQ_01", "hash": "E4DA2CF2D777F73F", "target": "Methuli Cattlan pediu que você fabricasse três gyrodrive components de alta qualidade para o <italic(1)>Dezul Qualan<italic(0)>. Infelizmente, os materiais necessários foram roubados no caminho pelos Ixal que vivem no local de extração de madeira. Vá a Alder Springs e recupere os materiais do pote de armazenamento onde estão guardados.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual." },

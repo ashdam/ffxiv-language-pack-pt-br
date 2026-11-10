@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/HeaVnr201_02249",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/HeaVnr201_02249#TEXT_HEAVNR201_02249_SEQ_00", "hash": "FAD2ED2C5E56621C", "target": "Roundrox procura <if(gnum4,uma amiga leal,um amigo leal)> a quem confiar uma tarefa importante." },
     { "gameKey": "quest/022/HeaVnr201_02249#TEXT_HEAVNR201_02249_SEQ_01", "hash": "F6A3EF9AE802A2FF", "target": "Roundrox parece pensativa e, ao falar com ela, você descobre que pretende dar sua querida pedra luminosa a Mide, para que a caçadora de tesouros compartilhe a alegria que ela trouxe à jovem goblin. Considerando você de confiança, Roundrox pede que entregue o objeto à amiga, que costuma contemplar o colosso de aço das ruínas de uma ponte próxima. Procure Mide e entregue o maior tesouro da menina goblin." },

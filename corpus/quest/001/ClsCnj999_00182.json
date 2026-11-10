@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsCnj999_00182",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_1", "hash": "C0EFE38F832EB4CC", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>. Você chegou ao Santuário da Clareira Serena, lar da Guilda dos Conjuradores." },
     { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_2", "hash": "91F2299ED79B2B4E", "target": "Nós, conjuradores, usamos os poderes da terra, do vento e da água que abundam na natureza para tecer feitiços de cura e proteção." },

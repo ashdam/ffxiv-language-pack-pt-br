@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst042_00198",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_00", "hash": "C9F7060D782F6E28", "target": "Pauline, uma conjuradora na Cabana de Gabineaux, procura alguém capaz de reduzir a população local de hoglets." },
     { "gameKey": "quest/001/SubFst042_00198#TEXT_SUBFST042_00198_SEQ_01", "hash": "AE9E1EB4FA3248F6", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Pauline na Cabana de Gabineaux para recomeçá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

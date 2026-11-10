@@ -1,6 +1,6 @@
 {
   "conversation": "quest/036/LucKbz001_03629",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/036/LucKbz001_03629#TEXT_LUCKBZ001_03629_SEQ_00", "hash": "360C5B1B99D40F93", "target": "Glynard está radiante por receber <if(gnum4,a heroína,o herói)> que retorna em triunfo." },
     { "gameKey": "quest/036/LucKbz001_03629#TEXT_LUCKBZ001_03629_SEQ_01", "hash": "36CF9C44E08CECFE", "target": "As Virtudes Cardeais não existem mais, pois você e os caçadores de recompensas das Escadas Errantes conseguiram lhes dar descanso. Após pedir que você conte os detalhes de suas aventuras, Glynard propõe reunir os clientes para celebrar seus grandes feitos. Mas as bebidas terão de esperar, pois Cyella quer recompensar seus esforços com uma história singular: a do verdadeiro mal por trás de tanto sofrimento, que ainda permanece neste mundo..." },

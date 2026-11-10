@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ManSea001_00107",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_00", "hash": "CBD58904BED31011", "target": "Para receber reconhecimento como <if(gnum4,aventureira,aventureiro)> na cidade<-->Estado de Limsa Lominsa, primeiro você precisa se registrar na Guilda dos Aventureiros." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SEQ_01", "hash": "A1FAFBD190F45C3A", "target": "O Jaqueta Amarela Ryssfloh recomenda enfaticamente que você se registre como <if(gnum4,aventureira,aventureiro)> em Drowning Wench. Fale com Grehfarr no fim da rua para pegar o Crow's Lift e subir até a taverna." },

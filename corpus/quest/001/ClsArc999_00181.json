@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsArc999_00181",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_1", "hash": "FE77CEDAE168CB68", "target": "Saudações, <if(gnum4,aventureira,aventureiro)>, e boas-vindas à Guilda dos Arqueiros." },
     { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_2", "hash": "83DFA5FBFECBBE14", "target": "É aqui que arqueiros de toda Eorzea se reúnem para dominar o arco. Enfrentamos o inimigo à distância, sempre buscando mudar o rumo da batalha com uma única flecha certeira." },

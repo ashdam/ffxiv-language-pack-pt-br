@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUse108_01182",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUse108_01182#TEXT_GAIUSE108_01182_SEQ_00", "hash": "E2E4D63213B4B84C", "target": "Quando se trata de manter seu lar aquecido, a guilda dos aventureiros não dispensa a cautela. Que combustível Slafborn pretende mandar você reunir hoje? " },
     { "gameKey": "quest/011/GaiUse108_01182#TEXT_GAIUSE108_01182_SEQ_01", "hash": "2D48EDBB62CDADB3", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e fale com Slafborn no Pedágio do Espectro para reiniciá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

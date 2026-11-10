@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza024_03366",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza024_03366#TEXT_LUCKZA024_03366_SEQ_00", "hash": "D02C3F9582734811", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Um anúncio de recrutamento chama sua atenção." },
     { "gameKey": "quest/033/LucKza024_03366#TEXT_LUCKZA024_03366_TODO_00", "hash": "02BDD8B1F3739E60", "target": "Falar com o Mord taskmaster" },

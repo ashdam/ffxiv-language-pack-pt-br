@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUse106_01180",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_00", "hash": "8069D322F212F65F", "target": "Minfilia pretende enviar você ao Pedágio do Espectro." },
     { "gameKey": "quest/011/GaiUse106_01180#TEXT_GAIUSE106_01180_SEQ_01", "hash": "5739CDDB54C9147C", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e fale com Minfilia nas Areias Despertas para reiniciá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst036_00130",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_00", "hash": "C6A161A8BE4C3B2C", "target": "Gabineaux, famoso por sua Cabana de Gabineaux, precisa de <if(gnum4,uma aventureira de confiança,um aventureiro de confiança)> para reduzir a população cada vez maior de microchus." },
     { "gameKey": "quest/001/SubFst036_00130#TEXT_SUBFST036_00130_SEQ_01", "hash": "9C212A9058AA713D", "target": "Gabineaux está fora de si de raiva enquanto explica os males dos microchus. Abata oito dessas pragas que sugam nutrientes e traga alívio à terra e à mente perturbada de Gabineaux." },

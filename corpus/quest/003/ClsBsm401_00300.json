@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/ClsBsm401_00300",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/ClsBsm401_00300#TEXT_CLSBSM401_00300_SEQ_00", "hash": "5BB126230352922C", "target": "O Mestre da Forja Brithael precisa de um exemplo do trabalho de <if(gnum4,uma ferreira habilidosa,um ferreiro habilidoso)>." },
     { "gameKey": "quest/003/ClsBsm401_00300#TEXT_CLSBSM401_00300_SEQ_01", "hash": "0E91611FD44BE8F0", "target": "Conforme sua reputação cresce, parece que até seus colegas de guilda passaram a cobiçar suas criações. Mas o mestre da forja não espera que você forneça as ferramentas que eles desejam. Em vez disso, quer que fabrique um único wrapped crowsbeak hammer de qualidade impecável para servir de modelo aos outros ferreiros. Quando estiver pronto, entregue-o a Brithael para inspeção." },

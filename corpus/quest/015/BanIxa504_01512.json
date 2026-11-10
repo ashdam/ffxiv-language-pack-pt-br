@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa504_01512",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa504_01512#TEXT_BANIXA504_01512_SEQ_00", "hash": "40D98019319F91DF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Duzal Meyean the Steady busca alguém excepcional nas artes manuais para ajudar sua equipe de artesãos... ou melhor, aves artesãs, a criar componentes delicados.<br>※A parte de fabricação desta missão é recomendada para Disciples of the Hand de nível 15 ou superior, e a parte de combate para Disciples of War ou Magic de nível 48 ou superior." },
     { "gameKey": "quest/015/BanIxa504_01512#TEXT_BANIXA504_01512_SEQ_01", "hash": "13AFB9001A8D741E", "target": "Duzal Meyean pediu que você sintetize disposal unit components de alta qualidade para que os tripulantes possam fazer suas necessidades com segurança a bordo do <italic(1)>Dezul Qualan<italic(0)>. Porém, o equipamento adequado para fabricar esses itens só pode ser encontrado em Diamond Forge, no Pedágio do Espectro. Fale com a ferreira Fyrbryda para obter permissão de usar as instalações.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/047/FesSxt101_04796",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/047/FesSxt101_04796#TEXT_FESSXT101_04796_SEQ_00", "hash": "94E195B60E282426", "target": "O aventureiro iniciante procura <if(gnum4,a Guerreira,o Guerreiro)> da Luz.<br>※Esta missão está disponível apenas por tempo limitado." },
     { "gameKey": "quest/047/FesSxt101_04796#TEXT_FESSXT101_04796_SEQ_01", "hash": "68AAF199CD9BB209", "target": "Após a abordagem de um aventureiro iniciante, você se vê diante do famigerado menestrel errante. O contador de histórias itinerante compartilha um sonho supostamente profético, que parece anunciar seu encontro com uma “estrela escarlate” metafórica em alguma paisagem flamejante. Considerando Burning Wall o lugar mais parecido com a visão, ele pede que você o acompanhe ao leste de Thanalan, onde espera testemunhar o desfecho de sua visão celestial.<br><br>※Você não poderá concluir esta missão após o fim do evento. Para mais detalhes, consulte o Lodestone." },

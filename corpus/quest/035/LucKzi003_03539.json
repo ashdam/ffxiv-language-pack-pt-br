@@ -1,6 +1,6 @@
 {
   "conversation": "quest/035/LucKzi003_03539",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi003_03539#TEXT_LUCKZI003_03539_SEQ_00", "hash": "424DFC87E776528E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Walmet sente falta de um Mystel." },
     { "gameKey": "quest/035/LucKzi003_03539#TEXT_LUCKZI003_03539_TODO_00", "hash": "56160333659E870D", "target": "Falar com o missing Mystel" },

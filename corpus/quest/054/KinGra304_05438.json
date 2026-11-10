@@ -1,6 +1,6 @@
 {
   "conversation": "quest/054/KinGra304_05438",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGra304_05438#TEXT_KINGRA304_05438_SEQ_00", "hash": "2BDE072D38F8D4C6", "target": "A satisfação está estampada no rosto de Yaana." },
     { "gameKey": "quest/054/KinGra304_05438#TEXT_KINGRA304_05438_SEQ_01", "hash": "81D24E21309FFF64", "target": "Enquanto seguem os preparativos para a disputa do título da categoria peso-pesado, Yaana propõe voltar à academia para que você descanse antes do grande evento. Mas vocês mal saem do Arcadion e são abordados pelos pesos-pesados Vamp Fatale, Deep Blue e Red Hot. A emboscada é interrompida pela chegada repentina de The Tyrant. Depois de derrotá-los com facilidade, ele exige que você conheça a história do Arcadion, já que está tão <if(gnum4,decidida,decidido)> a mudar seu futuro. Sua explicação deixa claro que ele considera o uso de almas de fera crucial para a identidade da instituição. Embora alguns fãs concordem, outros receberiam bem uma mudança. The Tyrant parte tão subitamente quanto apareceu e, com o caminho finalmente livre, Yaana quer voltar depressa para saber como foi a missão de resgate." },

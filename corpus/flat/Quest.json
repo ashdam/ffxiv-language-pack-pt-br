@@ -1,6 +1,6 @@
 {
   "sheet": "Quest",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "Quest#65537", "hash": "EE1136DCBE04E7CE", "target": "É difícil encontrar um bom aventureiro" },
     { "gameKey": "Quest#65539", "hash": "70AE3429C568B68C", "target": "O Caminho do Botânico" },
@@ -5267,6 +5267,7 @@
     { "gameKey": "Quest#70910", "hash": "E45BC74269066308", "target": "O andarilho branco" },
     { "gameKey": "Quest#70911", "hash": "843E2FCF339089A0", "target": "Sustos da imaginação" },
     { "gameKey": "Quest#70912", "hash": "C53763D474D33615", "target": "Trajes de empresário circense" },
+    { "gameKey": "Quest#70913", "hash": "0E4705B80A1802B4", "target": "" },
     { "gameKey": "Quest#70914", "hash": "6647DC022F7F30EA", "target": "Um vândalo à solta" },
     { "gameKey": "Quest#70915", "hash": "A3C559A5920A3B2F", "target": "No rastro da destruição" },
     { "gameKey": "Quest#70916", "hash": "0892A6978AD49527", "target": "Mantendo vivas as velhas tradições" },

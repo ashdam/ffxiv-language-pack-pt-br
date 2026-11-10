@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobPld501_02032",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobPld501_02032#TEXT_JOBPLD501_02032_SEQ_00", "hash": "EAC33BFE0F4C90A9", "target": "Jenlyns busca a ajuda de <if(gnum4,uma renomada paladina livre,um renomado paladino livre)>." },
     { "gameKey": "quest/020/JobPld501_02032#TEXT_JOBPLD501_02032_SEQ_01", "hash": "CD512F0E6D3A3EE3", "target": "Nestes tempos conturbados, os Juramentados precisam estar sempre prontos para servir como espada e escudo do sultanato. Felizmente, parece que seu exemplo brilhante inspirou muitos jovens a ingressar em suas fileiras. Vários desses recrutas estão treinando em Camp Bluefog, e Jenlyns acredita que suas palavras de incentivo lhes fariam bem." },

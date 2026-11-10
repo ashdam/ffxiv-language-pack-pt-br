@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza101_03371",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza101_03371#TEXT_LUCKZA101_03371_SEQ_00", "hash": "0116CD47AEB4399E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Eueliss parece ter aguardado sua chegada." },
     { "gameKey": "quest/033/LucKza101_03371#TEXT_LUCKZA101_03371_SEQ_01", "hash": "D1735D18E273079E", "target": "Ao reconhecer você como <if(gnum4,companheira,companheiro)> de viagem de Alphinaud, Eueliss pede uma escolta até Stonegazer, ali perto. Encontre-a no caminho ao norte da aldeia e prepare-se para repelir os animais agressivos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },

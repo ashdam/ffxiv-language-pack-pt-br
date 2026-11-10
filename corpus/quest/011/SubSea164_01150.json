@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/SubSea164_01150",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_00", "hash": "736A7E88A94CE2AD", "target": "Homens instruídos escrevem que quem está irado não sente <if([gnum11<12],<if([gnum11<4],a chegada da noite,o sol da manhã)>,<if([gnum11<17],o sol no alto,a chegada da noite)>)>, e Alyrloef certamente parece alheio a tudo, exceto à sua necessidade urgente dos seus serviços." },
     { "gameKey": "quest/011/SubSea164_01150#TEXT_SUBSEA164_01150_SEQ_01", "hash": "492CD590E7532658", "target": "A presença do Sargento Roehanth faz falta no Dique, e Alyrloef pede que você corra até a Cripta do Fundador para encontrá-lo. Fale com Roehanth, mas lembre que perturbar as orações de alguém é por sua conta e risco." },

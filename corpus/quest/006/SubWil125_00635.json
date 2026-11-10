@@ -1,6 +1,6 @@
 {
   "conversation": "quest/006/SubWil125_00635",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_00", "hash": "AD4852111A023718", "target": "Lululo, do Bazar Dourado, procura mais uma vez <if(gnum4,uma aventureira,um aventureiro)> para matar as feras que a atormentam." },
     { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_01", "hash": "518DCFC66CA4830B", "target": "Um ataque de earth sprites atrasou a entrega das ferramentas de mineração de Lululo. Mate três earth sprites na região para liberar a estrada e garantir uma passagem segura." },

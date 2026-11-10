@@ -1,6 +1,6 @@
 {
   "conversation": "quest/038/BanQiq042_03805",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_00", "hash": "C56F1F39E4EAD3E2", "target": "Chaqurl Qhotl quer convencer você da veracidade de sua teoria sobre o destino da misteriosa raça de homens-bagre.<br>※A dificuldade desta missão será ajustada ao seu nível atual." },
     { "gameKey": "quest/038/BanQiq042_03805#TEXT_BANQIQ042_03805_SEQ_01", "hash": "639FF3E2D5F7E50B", "target": "<if(gnum4,Convencida,Convencido)> pelos méritos do argumento de Chaqurl Qhotl, você expressa apoio à teoria de que os Qitari procuraram compartilhar seus alimentos com os sofridos homens-bagre, antes do infeliz desaparecimento desse povo da floresta. Admitindo a contragosto que seu filho pode ter razão, o teimoso Qitari concorda em ajudar na restauração da terceira estela.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job com que aceitou esta missão." },

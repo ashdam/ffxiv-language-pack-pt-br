@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/LucKbc004_03213",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKbc004_03213#TEXT_LUCKBC004_03213_SEQ_00", "hash": "8F33E097B90F9F47", "target": "Alberic está ansioso para ouvir suas aventuras." },
     { "gameKey": "quest/032/LucKbc004_03213#TEXT_LUCKBC004_03213_SEQ_01", "hash": "38653681EC8B8D56", "target": "Você encontra Alberic tentando se aquecer no Observatório. Ele recebe com alegria a chance de trocar histórias com você, que já foi <if(gnum4,sua aluna,seu aluno)>. Quando Orn Khai é mencionado, o próprio jovem dragão aparece, junta-se à conversa e ouve com entusiasmo o relato de suas aventuras no Primeiro. Sua história sobre a morte de Andreia faz lembrar Nidhogg, que também era movido apenas pelas memórias de um tempo há muito passado. Orn Khai expressa profunda tristeza ao pensar que ninguém lamentaria a morte do poderoso dragão e sugere consultar Faunehm para saber mais sobre Nidhogg." },

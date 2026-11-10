@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa501_01509",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa501_01509#TEXT_BANIXA501_01509_SEQ_00", "hash": "688D129BB8726667", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Duzal Meyean the Steady busca alguém habilidoso nas artes manuais para ajudar sua equipe de artesãos... ou melhor, aves artesãs, a criar componentes complexos.<br>※A parte de fabricação desta missão é recomendada para Disciples of the Hand de nível 15 ou superior." },
     { "gameKey": "quest/015/BanIxa501_01509#TEXT_BANIXA501_01509_SEQ_01", "hash": "300318C8AED8EB17", "target": "Duzal Meyean pediu que você sintetize componentes para o sistema de tubos acústicos que será instalado no <italic(1)>Dezul Qualan<italic(0)>. Porém, o equipamento adequado para fabricar esses itens só pode ser encontrado em Diamond Forge, no Pedágio do Espectro. Fale com a ferreira Fyrbryda para obter permissão de usar as instalações.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/FesAnx001_05015",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_SEQ_00", "hash": "6069AA37431F53A0", "target": "O menestrel errante procura <if(gnum4,uma aventureira disposta e capaz,um aventureiro disposto e capaz)> para ajudar a dar os últimos retoques nas celebrações do Renascimento deste ano.<br>※Esta missão está disponível por tempo limitado." },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_SEQ_01", "hash": "F2C5ED0BAE454D06", "target": "Uma mulher chamada Ayoyo já recrutou o menestrel errante para sua causa: planejar e executar o grand finale do espetáculo de fogos de artifício do Renascimento. Ele, por sua vez, recruta você, pois a tarefa parece exigir a ajuda de <if(gnum4,uma aventureira experiente,um aventureiro experiente)>. Para saber mais, ele pede que você se encontre com ele e Ayoyo na base da Torre de Coral, nos conveses superiores de Limsa Lominsa.<br><br>※Não será possível concluir esta missão após o término do evento sazonal. Para mais detalhes, consulte o Lodestone." },

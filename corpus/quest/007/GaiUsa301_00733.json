@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa301_00733",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa301_00733#TEXT_GAIUSA301_00733_SEQ_00", "hash": "C023927D57B498EF", "target": "O proprietário que dá nome ao Buscarron's Druthers precisa de alguém hábil em aventuras." },
     { "gameKey": "quest/007/GaiUsa301_00733#TEXT_GAIUSA301_00733_SEQ_01", "hash": "07FFE255FEC7F69D", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Buscarron no Buscarron's Druthers.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

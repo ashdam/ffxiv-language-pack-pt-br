@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzc101_03404",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzc101_03404#TEXT_LUCKZC101_03404_SEQ_00", "hash": "AC70401ABB54E416", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ul Thon tem um sonho." },
     { "gameKey": "quest/034/LucKzc101_03404#TEXT_LUCKZC101_03404_SEQ_01", "hash": "991993D19871AA66", "target": "Correm rumores de que <if(gnum4,uma mortal interessante,um mortal interessante)> chegou a Il Mheg, e Ul Thon acredita que a pessoa em questão é você. Sem perder tempo com conversa fiada, Ul Thon revela seu sonho: tornar-se a fada mais popular de todas. Como primeiro passo, pretende virar a sensação de Lydha Lran e, para isso, pede sua opinião especializada sobre a melhor maneira de conseguir. Após decidir impressionar os outros Pixie com conhecimento, Ul Thon parte para o Solar do Erudito e pede que você acompanhe para escolher tomos e lê-los em voz alta.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual." },

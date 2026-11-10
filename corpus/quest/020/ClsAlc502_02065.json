@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/ClsAlc502_02065",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_00", "hash": "FA5E3C762BBCD5C6", "target": "Há um brilho diabólico nos olhos do mestre da guilda Severian." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_01", "hash": "3CE3385CD13449C4", "target": "O mestre da guilda tem uma tarefa da maior importância para você, <if(gnum4,sua assistente favorita,seu assistente favorito)>: entregar algum tipo de relatório a alguém no Pedágio do Espectro. Como Severian forneceu poucos detalhes, fale com Deitrich para descobrir quem, o quê e por quê." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/ClsTan630_02610",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/ClsTan630_02610#TEXT_CLSTAN630_02610_SEQ_00", "hash": "FE8B7F2955A1EA8D", "target": "Atelloune está pronta para pôr <if(gnum4,sua nova assistente,seu novo assistente)> para trabalhar." },
     { "gameKey": "quest/026/ClsTan630_02610#TEXT_CLSTAN630_02610_SEQ_01", "hash": "754AFEEFA014AC39", "target": "O local para expor os animais taxidermizados está definido, e Atelloune decidiu qual será o primeiro espécime: o raro e esquivo Hengr dhalmel. O único problema é conseguir um com a pelagem em perfeito estado. Sua sugestão de falar com os Vanu Vanu surpreende Atelloune, mas ela logo aproveita a oportunidade. Sem aviso, parte para Sea of Clouds, levando Enion a reboque." },

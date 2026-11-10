@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/GaiUsc904_01039",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc904_01039#TEXT_GAIUSC904_01039_SEQ_00", "hash": "BBD84464AE33A697", "target": "O Sargento Cracked Fist precisa de <if(gnum4,uma heroína,um herói)> para preparar um ensopado." },
     { "gameKey": "quest/010/GaiUsc904_01039#TEXT_GAIUSC904_01039_SEQ_01", "hash": "8FB3B44369F1693D", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone-a e recomece falando com Cracked Fist no Camp Bluefog.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

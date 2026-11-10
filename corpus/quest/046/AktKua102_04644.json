@@ -1,6 +1,6 @@
 {
   "conversation": "quest/046/AktKua102_04644",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_SEQ_01", "hash": "A1C6B61B03E5D093", "target": "Após uma explicação breve e aparentemente relutante sobre os santuários insulares, Baldin ofereceu seus serviços. Fale com ele quando quiser visitar a ilha de um aliado." },
     { "gameKey": "quest/046/AktKua102_04644#TEXT_AKTKUA102_04644_BARDIN_000_001", "hash": "A7AEC979657CC349", "target": "Ahoy, <if(gnum4,moça,rapaz)>. Quer visitar um daqueles santuários insulares, imagino?" },

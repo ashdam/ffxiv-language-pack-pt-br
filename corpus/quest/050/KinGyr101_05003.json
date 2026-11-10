@@ -1,6 +1,6 @@
 {
   "conversation": "quest/050/KinGyr101_05003",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_000", "hash": "714B887A61B84D9E", "target": "Com licença, <if(gnum4,moça,senhor)>, por acaso trabalha com ofícios? Suas mãos são de quem tem uma carreira longa e cheia de histórias. Peço que as empreste ao bom povo de Tural." },
     { "gameKey": "quest/050/KinGyr101_05003#TEXT_KINGYR101_05003_MALIHALI_000_001", "hash": "20E9D0D42CEA1364", "target": "Aqui recebemos pedidos de ajuda em nome da Ala da Reflexão. Sejam de cidadãos comuns ou de outros artesãos, usamos todas as ferramentas de trabalho ao nosso alcance para atender às necessidades de Tural." },

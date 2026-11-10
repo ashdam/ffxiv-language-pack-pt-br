@@ -1,6 +1,6 @@
 {
   "conversation": "quest/049/KinGra104_04963",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGra104_04963#TEXT_KINGRA104_04963_SEQ_00", "hash": "FB652C3BA36695C3", "target": "Yaana está ansiosa para mudar de ares." },
     { "gameKey": "quest/049/KinGra104_04963#TEXT_KINGRA104_04963_SEQ_01", "hash": "182DF6F0C841EA54", "target": "Você mal põe os pés para fora do Arcadion quando uma multidão se reúne ao seu redor, ansiosa para elogiar e insultar <if(gnum4,a novata que rapidamente conquistou fama,o novato que rapidamente conquistou fama)>. Mas Yaana também não passa despercebida: um fã descontente a provoca por andar com quem a derrotou e, em vez disso, exalta com saudade a irmã dela, Wicked Thunder. Sem ver fim para a insistência da multidão, você e Yaana saem correndo para escapar. Por fim, chegam à entrada de Tritails Training." },

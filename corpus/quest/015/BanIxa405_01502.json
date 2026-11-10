@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa405_01502",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa405_01502#TEXT_BANIXA405_01502_SEQ_00", "hash": "E197C2D79E0308FF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Tazel Meyean the Lettered precisa de alguém versátil na aventura para recuperar materiais roubados e transformá-los em componentes de balão.<br>※A parte de fabricação desta missão é recomendada para Discípulos da Mão de nível 10 ou superior, e a parte de combate, para Discípulos da Guerra ou da Magia de nível 47 ou superior." },
     { "gameKey": "quest/015/BanIxa405_01502#TEXT_BANIXA405_01502_SEQ_01", "hash": "2A82FC8CF19E8D60", "target": "Tazel Meyean pretendia pedir que você fabricasse transmission components de alta qualidade para o <italic(1)>Dezul Qualan<italic(0)>. Infelizmente, os materiais necessários foram roubados por um bando de Qiqirn. Fale com Miah Molkot na Torre de Eugenia para descobrir aonde essas pragas desprezíveis podem ter fugido.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual." },

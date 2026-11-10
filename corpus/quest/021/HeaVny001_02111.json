@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/HeaVny001_02111",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/HeaVny001_02111#TEXT_HEAVNY001_02111_SEQ_00", "hash": "13555F7DEC482C24", "target": "Os mortos não se importam com justiça, mas Wealdtheow quer que a recebam mesmo assim." },
     { "gameKey": "quest/021/HeaVny001_02111#TEXT_HEAVNY001_02111_SEQ_01", "hash": "7322077D6E021178", "target": "Reconhecendo você como <if(gnum4,a estimada protegida,o estimado protegido)> da Casa Fortemps, Wealdtheow implora que entre nas ruínas de Dusk Vigil e recupere um tesouro inestimável: uma rondela de gelo engastada no elmo de uma estátua na capela. Embora a fortaleza esteja abandonada desde sua queda, cavaleiros agora vigiam o local para afastar saqueadores. Você precisará se identificar antes de entrar." },

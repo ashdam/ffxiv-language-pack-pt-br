@@ -1,6 +1,6 @@
 {
   "conversation": "quest/013/BanSah202_01391",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanSah202_01391#TEXT_BANSAH202_01391_SEQ_00", "hash": "CB4ACB0A41E44E3B", "target": "Parece que Sapsa Spawning Grounds está produzindo mais que filhotes Sahagin, e Houu pede uma pequena manutenção no local." },
     { "gameKey": "quest/013/BanSah202_01391#TEXT_BANSAH202_01391_SEQ_01", "hash": "DA44EB84B2E25161", "target": "Os Tridentes de Coral estabeleceram uma criação de elbst, mas há só um macho reprodutor. Como o instinto é o que é, ao matar alguns jovens Sapsa elbst, você logo <if(gnum4,será acompanhada,será acompanhado)> pelo pai furioso. Com isso em mente, entre no território dos Tridentes e comece a abater elbst. Quando o pai chegar, use o vitríolo leitoso recebido contra a criatura de pele de aço e derrube-a." },

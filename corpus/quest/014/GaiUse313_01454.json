@@ -1,6 +1,6 @@
 {
   "conversation": "quest/014/GaiUse313_01454",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/014/GaiUse313_01454#TEXT_GAIUSE313_01454_SEQ_00", "hash": "56C01E07750D0F72", "target": "Minfilia tem uma correspondência que deseja compartilhar com você." },
     { "gameKey": "quest/014/GaiUse313_01454#TEXT_GAIUSE313_01454_SEQ_01", "hash": "4BCD2066D1B2B930", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Minfilia nas Pedras Nascentes.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubSea101_00398",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubSea101_00398#TEXT_SUBSEA101_00398_SEQ_00", "hash": "0F294F36601F53A5", "target": "Wyrkrhit, um operador do Elevador Aéreo, precisa de alguém para entregar alguns pacotes esquecidos." },
     { "gameKey": "quest/003/SubSea101_00398#TEXT_SUBSEA101_00398_SEQ_01", "hash": "5288734D6BFAE3C8", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e reinicie-a falando com Wyrkrhit no Elevador Aéreo.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo e desativá-lo em Character Configuration, na seção UI Settings." },

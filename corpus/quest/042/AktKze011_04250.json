@@ -1,6 +1,6 @@
 {
   "conversation": "quest/042/AktKze011_04250",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_SEQ_00", "hash": "BF96C9397D3E671A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Guidingway tem um pedido que só <if(gnum4,uma aventureira,um aventureiro)> como você poderia atender." },
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_TODO_00", "hash": "DACFCCF08BAF965D", "target": "Derrotar uma daphnia e obter seus restos" },
