@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam601_02566",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_SEQ_00", "hash": "2B6B460283F00525", "target": "O ar sem jeito de Momozigo sugere que vem um pedido de favor por aí." },
     { "gameKey": "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_SEQ_01", "hash": "49032F909BB7629A", "target": "Momozigo informa que uma visitante de Hingashi veio procurar Musosai, mas ele não teve coragem de contar sobre sua morte. Como você foi <if(gnum4,aluna,aluno)> do ancião, ele sugere que a notícia seria melhor recebida se viesse de você e indica a dignified samurai em frente a Quicksand." },

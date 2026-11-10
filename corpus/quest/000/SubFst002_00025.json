@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/SubFst002_00025",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_00", "hash": "20A24124C5F8D57F", "target": "Boiselont, da Guilda dos Lanceiros, quer que <if(gnum4,uma aventureira iniciante,um aventureiro iniciante)> resolva um problema com esquilos." },
     { "gameKey": "quest/000/SubFst002_00025#TEXT_SUBFST002_00025_SEQ_01", "hash": "46F126C09B538895", "target": "Os pilares de sustentação da Lancers' Guild estão sendo roídos por esquilos. Vá a Central Shroud e dê uma lição em seis dessas pragas peludas." },

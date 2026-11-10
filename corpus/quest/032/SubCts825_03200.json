@@ -1,6 +1,6 @@
 {
   "conversation": "quest/032/SubCts825_03200",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/SubCts825_03200#TEXT_SUBCTS825_03200_SEQ_00", "hash": "1B5B83747C77AFF5", "target": "O news hawker demonstra um interesse preocupante por você." },
     { "gameKey": "quest/032/SubCts825_03200#TEXT_SUBCTS825_03200_SEQ_01", "hash": "403077AC59275EEB", "target": "Ao passar por Kugane, você recebe um chamado de um news hawker. Em vez de tentar vender uma publicação local, como seria de esperar, ele pergunta se você conhece alguém com o título de <if(gnum4,Encantadora de Kamuy,Encantador de Kamuy)>. Como conhece vários desses cães místicos, você desconfia que ele esteja falando de você. Ele sugere que visite seu empregador vestido de vermelho em Namai, dizendo apenas que a viagem vai “valer a pena”." },

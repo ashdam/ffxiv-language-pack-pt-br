@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/SubPst023_00243",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubPst023_00243#TEXT_SUBPST023_00243_SEQ_00", "hash": "18350859B610A3F3", "target": "O carteiro moogle adjunto quer que você entregue o que não pôde ser entregue." },
     { "gameKey": "quest/002/SubPst023_00243#TEXT_SUBPST023_00243_SEQ_01", "hash": "B2C8AC46959E8DC9", "target": "Apesar de sua tendência a delegar tarefas, o carteiro moogle adjunto tomou a rara decisão de entregar uma missiva urgente pessoalmente, mas não encontrou sinal do destinatário no endereço indicado. Aborrecido por ter de devolver a carta ao remetente, mas rápido em enxergar oportunidades na adversidade, ele concede a difícil tarefa a você, <if(gnum4,sua aprendiz de confiança,seu aprendiz de confiança)>, para que ganhe experiência valiosa lidando com a ira de um cliente decepcionado. Ele pede que você dobre a esquina até o Octante e devolva a carta a Bango Zango, o irritadiço vice-presidente do Consórcio Brugaire." },

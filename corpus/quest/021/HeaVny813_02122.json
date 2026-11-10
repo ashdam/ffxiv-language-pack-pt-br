@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/HeaVny813_02122",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_00", "hash": "D7493C3896B0FCA0", "target": "Ardolain tem boas notícias do mestre do clã Centurio para você." },
     { "gameKey": "quest/021/HeaVny813_02122#TEXT_HEAVNY813_02122_SEQ_01", "hash": "E1F4596931A4852D", "target": "Ardolain informa que o líder do clã Centurio recomendou que você seja <if(gnum4,aceita como caçadora,aceito como caçador)> de pleno direito, com permissão para caçar alvos de elite. Ele pede que você volte ao Clan Hunt board para examinar os contratos de caça de elite afixados nele." },

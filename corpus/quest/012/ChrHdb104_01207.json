@@ -1,6 +1,6 @@
 {
   "conversation": "quest/012/ChrHdb104_01207",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/ChrHdb104_01207#TEXT_CHRHDB104_01207_SEQ_00", "hash": "4DB39844B2803474", "target": "Sem outra opção, Ellie decide revelar a você a identidade da vítima." },
     { "gameKey": "quest/012/ChrHdb104_01207#TEXT_CHRHDB104_01207_SEQ_01", "hash": "B7E650F5C6866680", "target": "Considerando você <if(gnum4,uma amiga,um amigo)> do Inspetor Hildibrand, Ellie decide compartilhar a identidade da vítima do ladrão de armas. Ela menciona de passagem que o homem também é culpado de um crime, embora não diga qual; apenas está curiosa para ver como o inspetor agirá quando descobrir esse fato. Por ora, procure o aventureiro Humphrey no Bazar Dourado e torça para que o Inspetor Hildibrand consiga encontrar o caminho até você." },

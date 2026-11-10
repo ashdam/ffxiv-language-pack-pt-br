@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/SubFst039_00196",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_00", "hash": "9450A8744759E85A", "target": "Galfrid, instrutor-chefe de Bannock, quer sua ajuda no treinamento de novos recrutas." },
     { "gameKey": "quest/001/SubFst039_00196#TEXT_SUBFST039_00196_SEQ_01", "hash": "C16C4F572E80068A", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi alterada. Abandone a missão e fale com Galfrid em Bannock para recomeçá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

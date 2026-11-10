@@ -1,6 +1,6 @@
 {
   "conversation": "quest/025/JobSam500_02559",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/025/JobSam500_02559#TEXT_JOBSAM500_02559_SEQ_00", "hash": "92FAE845B0C59A21", "target": "Um cidadão de Ul'dah está prestes a explodir de empolgação e procura um transeunte indefeso com quem possa compartilhar o que sente.<br><br>※Esta missão desbloqueia o job Samurai." },
     { "gameKey": "quest/025/JobSam500_02559#TEXT_JOBSAM500_02559_SEQ_01", "hash": "A7A93E50B4EAEECE", "target": "Ao caminhar pela Emerald Avenue, você é <if(gnum4,abordada,abordado)> por um cidadão empolgado que afirma ter visto um domínio de espada verdadeiramente impressionante em Coliseum. Segundo ele, um senhor idoso do Extremo Oriente está aceitando desafios como entretenimento antes das lutas, mas, contra todas as expectativas, tem derrubado tanto os oponentes quanto os queixos da plateia com sua habilidade sublime. Com o interesse despertado por esses guerreiros do Extremo Oriente conhecidos como samurais, você pensa em procurar o silver-tongued showmaster." },

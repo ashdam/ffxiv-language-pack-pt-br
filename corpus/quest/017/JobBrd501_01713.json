@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/JobBrd501_01713",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_SEQ_00", "hash": "9D40BF41FA325586", "target": "Jehantel quer ajudar você a alcançar novos patamares em sua arte." },
     { "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_SEQ_01", "hash": "6100DD1E7C47CC74", "target": "Jehantel conta sobre suas atividades recentes, especificamente o treinamento dos integrantes da Aljava dos Deuses. Ao se interessar pelo desenvolvimento da geração mais jovem, ele sente que suas canções ganharam força e acredita que as suas também poderiam ganhar. Se quiser alcançar novos patamares como <if(gnum4,barda,bardo)>, aceite o convite de Jehantel e vá ao Reduto da Aljava, onde ele lhe apresentará um conhecido." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/029/StmBdy201_02943",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_000", "hash": "623410FFDC21AE7C", "target": "Ah, quem vejo diante de mim senão <if(gnum4,a heroína,o herói)> que rompeu os grilhões da opressão em Doma e Ala Mhigo! Apesar de sua fama crescente, sinto-me honrado por você dedicar seu precioso tempo a este humilde menestrel." },
     { "gameKey": "quest/029/StmBdy201_02943#TEXT_STMBDY201_02943_WANDERINGMINSTREL_000_001", "hash": "EDCC0647A904D1A2", "target": "Se me permite perguntar, como está gostando do Extremo Oriente? Com tantos encantos, é fácil se apaixonar por ele. Tem um lugar especial no meu coração. Quase uma segunda casa, de tanto que venho em minha busca sem fim por versos." },

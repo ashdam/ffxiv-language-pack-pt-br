@@ -1,6 +1,6 @@
 {
   "conversation": "quest/018/HeaVnz529_01864",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/018/HeaVnz529_01864#TEXT_HEAVNZ529_01864_SEQ_00", "hash": "D0AE4157AB2F5E06", "target": "Mogkul está pronto para partir rumo a Zenith na companhia de <if(gnum4,uma aventureira,um aventureiro)>." },
     { "gameKey": "quest/018/HeaVnz529_01864#TEXT_HEAVNZ529_01864_SEQ_01", "hash": "E4BF458CB6363933", "target": "Mogkul está ansioso para partir rumo a Zenith, pois os servos de Nidhogg podem decidir invadir o palácio sagrado a qualquer momento. Vá até Zenith e encontre Mogkul para descobrir o que ele planeja para você." },

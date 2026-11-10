@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/HeaVnr302_02336",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/HeaVnr302_02336#TEXT_HEAVNR302_02336_SEQ_00", "hash": "F2ECD8D8259C9A5F", "target": "Sem se intimidar com as últimas revelações, Biggs quer explicar a próxima etapa do resgate." },
     { "gameKey": "quest/023/HeaVnr302_02336#TEXT_HEAVNR302_02336_SEQ_01", "hash": "3B5C224E758696BE", "target": "Com a operação para resgatar Roundrox e frustrar os planos dos Illuminati de dominar a história prestes a começar, Biggs explica os detalhes. Sua tarefa será simples, mas exigente: entrar no colosso pela cabeça, avançar pela cavidade nasal e tomar uma plataforma móvel que levará a equipe de resgate ao Controle Central, onde Roundrox está presa. Enquanto isso, Cid e os outros vasculharão Midas, eliminando emboscadas dos Illuminati antes de encontrar você para o resgate. O destino da menina goblin e da própria história está em jogo. Mais uma vez à batalha, <if(gnum4,Guerreira,Guerreiro)> da Luz!<br><br>※Você pode acessar Breath of the Creator pelo Duty Finder." },

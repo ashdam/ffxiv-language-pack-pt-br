@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc509_00997",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc509_00997#TEXT_GAIUSC509_00997_SEQ_00", "hash": "6FF0F2265B85B8C2", "target": "Os aventureiros do Pedágio do Espectro têm um rito de iniciação que envolve criaturas vegetais fedorentas, uma tradição honrada que só Aganbold parece conhecer." },
     { "gameKey": "quest/009/GaiUsc509_00997#TEXT_GAIUSC509_00997_SEQ_01", "hash": "E38BCFC7FFA1603B", "target": "Aganbold insiste em que, para ter reconhecimento <if(gnum4,como aventureira,como aventureiro)> no Pedágio do Espectro, é preciso passar no teste. Você nunca ouviu falar disso, mas, como sua agenda permite, siga para o oeste até Tangle e mate três morbols." },

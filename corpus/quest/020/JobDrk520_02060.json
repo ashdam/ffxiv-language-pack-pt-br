@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/JobDrk520_02060",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/JobDrk520_02060#TEXT_JOBDRK520_02060_SEQ_00", "hash": "53BA55A122CDB488", "target": "Sidurgu pede ajuda a <if(gnum4,uma companheira cavaleira negra,um companheiro cavaleiro negro)>." },
     { "gameKey": "quest/020/JobDrk520_02060#TEXT_JOBDRK520_02060_SEQ_01", "hash": "ECE45EAB7494A048", "target": "Em seu leito de morte, o mestre de Sidurgu falou de uma “chama no abismo”, um conceito que Sidurgu e Fray não compreenderam. Ao seguir o credo de seus predecessores, esperavam que o significado se tornasse claro com o tempo. Infelizmente, quando intervieram para salvar a vida de uma menina, a ordem os marcou para morrer. Fray foi capturado e executado em um julgamento por combate, deixando Sidurgu para cuidar de Rielle sozinho. Temendo não dar conta da tarefa sem ajuda, ele implora que você se una à sua causa, e você concorda. Talvez agora seja uma boa hora para conhecer Rielle." },

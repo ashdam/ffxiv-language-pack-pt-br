@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/SubSea166_01152",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_00", "hash": "CE52B57122E55249", "target": "Quando a própria comandante de Skull Valley quer falar com você, <if(gnum4,uma humilde aventureira,um humilde aventureiro)>, antes da sua partida, tudo indica que há algo incomum acontecendo." },
     { "gameKey": "quest/011/SubSea166_01152#TEXT_SUBSEA166_01152_SEQ_01", "hash": "5EE5D069E0ED0C17", "target": "A Comandante Falkbryda está feliz, pois o Comando do Maelstrom dispensou seus homens da investigação da Sastasha Seagrot. Claro, o que ela descobriu nesta manhã, você já sabia havia algum tempo, pois a substituição é você. Agora é preciso encontrar o Sargento Catguistl perto da gruta e dispensá-lo." },

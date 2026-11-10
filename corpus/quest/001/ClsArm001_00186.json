@@ -1,6 +1,6 @@
 {
   "conversation": "quest/001/ClsArm001_00186",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsArm001_00186#TEXT_CLSARM001_00186_GWAHNAKO_000_1", "hash": "AB36334DA703D4BC", "target": "Foi o som das marteladas que trouxe você da rua, <if(gnum4,moça,rapaz)>? Ainda bem que gosta da barulheira, porque a Guilda dos Armeiros não é lugar para sonhar em silêncio." },
     { "gameKey": "quest/001/ClsArm001_00186#TEXT_CLSARM001_00186_GWAHNAKO_000_2", "hash": "763F551D8F3CD15C", "target": "Se o barulho do metal batendo em metal é música pros seus ouvidos, talvez você tenha alma de construtor naval." },

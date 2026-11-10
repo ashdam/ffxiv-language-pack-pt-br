@@ -1,6 +1,6 @@
 {
   "conversation": "quest/019/ClsWdk502_01997",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/019/ClsWdk502_01997#TEXT_CLSWDK502_01997_SEQ_00", "hash": "BFCF3527B95CAE9B", "target": "O mestre-madeireiro Beatin precisa <if(gnum4,da carpinteira viajante,do carpinteiro viajante)>." },
     { "gameKey": "quest/019/ClsWdk502_01997#TEXT_CLSWDK502_01997_SEQ_01", "hash": "322F324386D34935", "target": "O mestre-madeireiro Beatin apresenta uma haste de lança encontrada em North Shroud. Embora a ponta tenha se partido, ele identifica sua origem ishgardesa e se encanta com sua qualidade. Para ele, um tesouro assim deve voltar ao legítimo dono, e pede que você, com sua experiência em viagens, visite a Congregação de Nossos Cavaleiros Celestíssimos, em Ishgard. Vá até lá e encontre um cavaleiro veterano que possa dizer a quem a lança pertencia." },

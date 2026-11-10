@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/ClsCnj100_00211",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_00", "hash": "A0F3CD58FFBADEF7", "target": "O Irmão E<-->Sumi<-->Yan quer lhe dar sua primeira tarefa como <if(gnum4,conjuradora,conjurador)> do Santuário da Clareira Serena." },
     { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_01", "hash": "DE584871188A7807", "target": "O Irmão E<-->Sumi<-->Yan pede que você ajude na recuperação da Mata dos Doze eliminando três esquilos, três joaninhas e três funguars." },

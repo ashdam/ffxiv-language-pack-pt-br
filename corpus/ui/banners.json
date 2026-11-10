@@ -1,6 +1,6 @@
 {
   "conversation": "ui/banners",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "ui/icon/120000/en/120001.tex#text", "hash": "366959CD1710B78D", "target": "Missão aceita" },
     { "gameKey": "ui/icon/120000/en/120002.tex#text", "hash": "C8B0A31266AACF1D", "target": "Missão concluída" },

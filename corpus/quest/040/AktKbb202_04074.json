@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/AktKbb202_04074",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/AktKbb202_04074#TEXT_AKTKBB202_04074_SEQ_00", "hash": "0CD4B266F90754C9", "target": "Drusilla tem uma missão em mente para <if(gnum4,uma ceifadora iniciante,um ceifador iniciante)>." },
     { "gameKey": "quest/040/AktKbb202_04074#TEXT_AKTKBB202_04074_SEQ_01", "hash": "C7B50EFFB7713E66", "target": "A visão da foice em suas mãos agrada a Drusilla, e ela declara que você se familiarizará com seus novos talentos numa prova de fogo. Um dos Lemures mandou avisar que uma fera faminta ameaça suas operações em Cutter's Cry. Para ajudar um membro da família e familiarizar você com as ferramentas do ofício, Drusilla pede que a acompanhe a Cutter's Cry para combater essa ameaça." },

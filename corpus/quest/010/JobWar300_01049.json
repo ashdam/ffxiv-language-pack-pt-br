@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobWar300_01049",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobWar300_01049#TEXT_JOBWAR300_01049_SEQ_00", "hash": "22BFF6E8C39923B4", "target": "O Mestre do Machado Wyrnzoen precisa de <if(gnum4,uma aventureira,um aventureiro)> em quem confiar." },
     { "gameKey": "quest/010/JobWar300_01049#TEXT_JOBWAR300_01049_SEQ_01", "hash": "CC200B7B902EA47A", "target": "Um antigo companheiro de Wyrnzoen, agora a serviço do Mestre Gegeruju em Costa del Sol, enviou um pedido urgente de reforços, e o mestre do machado acredita que só você, entre os saqueadores, pode cumprir a tarefa. Viaje até Costa del Sol e encontre sua colega de guilda Solkwyb." },

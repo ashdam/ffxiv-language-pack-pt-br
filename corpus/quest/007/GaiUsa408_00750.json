@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa408_00750",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_SEQ_00", "hash": "EEC77D3590137398", "target": "A pesquisadora Gogoshu precisa da ajuda de <if(gnum4,uma aventureira,um aventureiro)> para se livrar de alguns gaviões incômodos." },
     { "gameKey": "quest/007/GaiUsa408_00750#TEXT_GAIUSA408_00750_SEQ_01", "hash": "8BACD40E144512A7", "target": "Chasm buzzards extremamente agressivos estão atrapalhando a investigação das ruínas perto da Ponte Alta. Mate quatro dessas pragas aladas para que Gogoshu possa retomar sua pesquisa." },

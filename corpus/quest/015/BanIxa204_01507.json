@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/BanIxa204_01507",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/BanIxa204_01507#TEXT_BANIXA204_01507_SEQ_00", "hash": "9E970D931FF7947B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Methuli Cattlan está com as penas eriçadas de raiva.<br>※A parte de fabricação desta missão é recomendada para Discípulos da Mão de nível 3 ou superior." },
     { "gameKey": "quest/015/BanIxa204_01507#TEXT_BANIXA204_01507_SEQ_01", "hash": "B33D00485C68976B", "target": "Methuli Cattlan pediu que você fabricasse um engine casing component de alta qualidade para o <italic(1)>Dezul Qualan<italic(0)>. Mas, como acontece com frequência demais, primeiro é preciso obter os materiais para prosseguir. Desta vez, o carregador encarregado de entregá-los ainda não chegou, e Methuli Cattlan suspeita que ele se perdeu em algum lugar perto da Toca dos Spriggans. Procure o Ehcatl Nine carrier em Central Shroud e, com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digite a senha “Tão alto quanto a honra” para se identificar como <if(gnum4,amiga,amigo)>.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual." },

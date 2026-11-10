@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/ComGrd101_02389",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/ComGrd101_02389#TEXT_COMGRD101_02389_SERPENTPERSONNEL_000_000", "hash": "CAD679856C75BE0E", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! Embora eu tenha certeza de que seus deveres com <if([gnum52>0],o Maelstrom,)><if([gnum53>0],a Ordem das Duas Víboras,)><if([gnum54>0],as Chamas Imortais,)> já tomam muito do seu tempo, será que podemos conversar um instante?" },
     { "gameKey": "quest/023/ComGrd101_02389#TEXT_COMGRD101_02389_SERPENTPERSONNEL_000_001", "hash": "AE0E34EEDDDF7DB3", "target": "Vou direto ao assunto, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>. Os superiores autorizaram a formação de um esquadrão especializado e procuramos uma liderança confiável. Seu nome estava no topo da lista." },

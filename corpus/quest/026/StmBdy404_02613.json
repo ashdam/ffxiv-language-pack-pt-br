@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/StmBdy404_02613",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_000_000", "hash": "D9A4168D1F2E97C8", "target": "Ah, <if(gnum4,aventureira,aventureiro)>, você chegou na melhor hora! Fico feliz em informar que os preparativos para restaurar a barreira estão prontos. E, com nossa eficiência de costume, estabelecemos um acampamento praticamente à porta da sede dos Estudantes!" },
     { "gameKey": "quest/026/StmBdy404_02613#TEXT_STMBDY404_02613_RODNEY_100_000", "hash": "BC65F0B66DA74B72", "target": "Agora, seguindo a tradição, a região onde está o acampamento recebeu um nome: Hydatos, por sua natureza aquática. Queiram os deuses que seja o último canto da ilha que a expedição precise enfrentar." },

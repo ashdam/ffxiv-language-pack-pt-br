@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/ClsWvr601_02431",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/ClsWvr601_02431#TEXT_CLSWVR601_02431_SEQ_00", "hash": "891A54AA8098590C", "target": "Redolent Rose tem uma tarefa especial para <if(gnum4,sua estimada protegida,seu estimado protegido)>." },
     { "gameKey": "quest/024/ClsWvr601_02431#TEXT_CLSWVR601_02431_SEQ_01", "hash": "70908F4420C11741", "target": "Redolent Rose mal consegue conter a empolgação com sua chegada. Segundo o mestre da guilda, ele tem um encontro marcado com um possível parceiro comercial muito promissor do Extremo Oriente. Ele acredita que a presença de quem considera seu maior talento, você, ajudaria a negociação a correr ainda melhor. Procure o jovem proprietário da Daitenya nos mercados de Ruby Road Exchange e tente causar uma boa primeira impressão." },

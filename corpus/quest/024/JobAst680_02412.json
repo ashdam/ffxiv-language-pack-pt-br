@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobAst680_02412",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobAst680_02412#TEXT_JOBAST680_02412_SEQ_00", "hash": "2B72B3A6305675E9", "target": "Kyokuho lança seu melhor olhar de “Por onde andou, <if(gnum4,mocinha,mocinho)>? Estou esperando há dias”." },
     { "gameKey": "quest/024/JobAst680_02412#TEXT_JOBAST680_02412_SEQ_01", "hash": "5D0470B258A52DEF", "target": "Sem outra pista, Kyokuho sugere uma viagem ao lugar onde seu bisavô treinou: Yanxia. Como você também não tem ideia melhor, concorda em encontrá-lo em Namai para começar a busca por... alguma coisa. Qualquer coisa." },

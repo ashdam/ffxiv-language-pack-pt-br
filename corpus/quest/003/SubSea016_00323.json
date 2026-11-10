@@ -1,6 +1,6 @@
 {
   "conversation": "quest/003/SubSea016_00323",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubSea016_00323#TEXT_SUBSEA016_00323_SEQ_00", "hash": "050F2D60AD81F589", "target": "J'nasshym, do Consórcio de Brugaire, procura <if(gnum4,uma aventureira convenientemente desocupada,um aventureiro convenientemente desocupado)>." },
     { "gameKey": "quest/003/SubSea016_00323#TEXT_SUBSEA016_00323_SEQ_01", "hash": "D709EFFA072D4F62", "target": "J'nasshym, do Consórcio de Brugaire, encarregou você de fazer uma entrega às Irmãs Devotadas de Edelweiss, um pacote de presentes em agradecimento pelos serviços prestados. Siga para o “convento” das Irmãs perto do Fisherman's Bottom e entregue o pacote diretamente a Lonwoerd." },

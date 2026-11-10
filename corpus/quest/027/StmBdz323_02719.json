@@ -1,6 +1,6 @@
 {
   "conversation": "quest/027/StmBdz323_02719",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz323_02719#TEXT_STMBDZ323_02719_SEQ_00", "hash": "7E4E918F6593C43A", "target": "Um pescador idoso procura <if(gnum4,uma mulher em boas condições físicas,um homem em boas condições físicas)> para ajudá-lo." },
     { "gameKey": "quest/027/StmBdz323_02719#TEXT_STMBDZ323_02719_SEQ_01", "hash": "D7ADA9E4F5C08AF2", "target": "Um pescador idoso aborda você e implora que resgate um jovem chamado Nayoshi. Ele foi encurralado por uma fera tão horrenda que, ao que parece, nem a força reunida dos moradores de Isari consegue afugentá-la. Mate o monstro marinho antes que algum mal aconteça a Nayoshi." },

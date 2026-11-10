@@ -1,6 +1,6 @@
 {
   "conversation": "quest/024/JobAst630_02410",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/024/JobAst630_02410#TEXT_JOBAST630_02410_SEQ_00", "hash": "9ABC1D1901169F8E", "target": "Lady Leveva tem um pedido para <if(gnum4,sua aluna favorita,seu aluno favorito)>." },
     { "gameKey": "quest/024/JobAst630_02410#TEXT_JOBAST630_02410_SEQ_01", "hash": "74571F88347935AB", "target": "Lady Leveva quer que você continue treinando Kyokuho até o fim do simpósio em Vault. Ela pede que a acompanhe até o mirante do lado de fora do Athenaeum, para informarem a decisão ao noviço hingashiano." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/HeaVny242_02395",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/023/HeaVny242_02395#TEXT_HEAVNY242_02395_SEQ_00", "hash": "0C7CECC0F2E2AD6E", "target": "Unukalhai tem algo que pode interessar a você." },
     { "gameKey": "quest/023/HeaVny242_02395#TEXT_HEAVNY242_02395_SEQ_01", "hash": "A3671B50EB87A407", "target": "Unukalhai entrega a você uma tomestone alagana que contém informações detalhadas para gerar um simulacro aprimorado do eikon Zurvan. Ele explica que só os guerreiros mais excepcionais de Allag deveriam triunfar sobre essa entidade artificial e sugere que, como <if(gnum4,Guerreira,Guerreiro)> da Luz, você poderia se beneficiar da experiência. Leve a tomestone à Nave-Capitânia e apresente o dispositivo de registro ao verification node." },

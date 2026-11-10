@@ -1,6 +1,6 @@
 {
   "conversation": "quest/020/HeaVny805_02099",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_000", "hash": "B15EE8C04EEE227D", "target": "Em nome da Casa dos Esplendores, <if(gnum4,senhora,senhor)>, permita-me apresentar as novidades do nosso estoque." },
     { "gameKey": "quest/020/HeaVny805_02099#TEXT_HEAVNY805_02099_TOBANA_000_002", "hash": "FF9C3492125A27AF", "target": "A Casa entende que até os mais experientes na coleta precisam de uma ajudinha de vez em quando. Por isso, temos orgulho de oferecer uma seleção exclusiva de talismãs imbuídos das bênçãos dos Doze." },

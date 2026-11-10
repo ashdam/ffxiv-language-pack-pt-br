@@ -1,6 +1,6 @@
 {
   "conversation": "quest/022/BanMog101_02290",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/022/BanMog101_02290#TEXT_BANMOG101_02290_SEQ_00", "hash": "2F256B05C121B42E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Mogek the Marvelous precisa de <if(gnum4,uma mestra artesã,um mestre artesão)>." },
     { "gameKey": "quest/022/BanMog101_02290#TEXT_BANMOG101_02290_SEQ_01", "hash": "92B3B0CC98879A7D", "target": "Após incorporar muitos recrutas às suas fileiras, Mogek the Marvelous está ficando sem as ferramentas e os suprimentos necessários para treiná-los devidamente. Ele pede que você fabrique esses artigos e orienta que fale com Mogwon, que tem corrido por Asah para reunir materiais para você.<br><br>※Observe que a dificuldade desta missão foi ajustada ao seu nível atual." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/JobSmn630_02626",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_SEQ_00", "hash": "E1E6B9C423AE8669", "target": "Y'mhitra pede que você escute Principia." },
     { "gameKey": "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_SEQ_01", "hash": "7BEAECBDA9CC3D88", "target": "Y'mhitra dirige sua atenção a Principia, e o familiar dentuço anuncia que você está <if(gnum4,pronta,pronto)> para enfrentar o segundo desafio. Sem saber como atender à exigência de mais invocadores para a prova, Y'mhitra se vê obrigada a aceitar a proposta de Dancing Wolf de cooperar com os novos invocadores em treinamento do seu regimento. Vá a Camp Bluefog, em Northern Thanalan, e se apresente ao capitão das Chamas." },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/033/LucKza015_03357",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_SEQ_00", "hash": "60BC2CF4E9E644CF", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Hastelot está numa situação que não consegue resolver." },
     { "gameKey": "quest/033/LucKza015_03357#TEXT_LUCKZA015_03357_TODO_00", "hash": "00F9CB38076B29B9", "target": "Investigar o rastro de scattered grain a leste de Wright" },

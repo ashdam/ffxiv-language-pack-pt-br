@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKze009_03443",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_SEQ_00", "hash": "C3D043F9AA2FCB13", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Vondia tem chá para preparar, mas não tem os ingredientes." },
     { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_TODO_00", "hash": "419D32BF966F6CD8", "target": "Usar o conservante nos cogumelos de chá" },

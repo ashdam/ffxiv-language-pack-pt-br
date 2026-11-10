@@ -1,6 +1,6 @@
 {
   "conversation": "quest/030/ChrHdb721_03020",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_SEQ_00", "hash": "086702EE5EC68E42", "target": "Se você falar com Nashu Mhakaracca, só poderá culpar a si <if(gnum4,mesma,mesmo)> ou os kami pelo que vier depois." },
     { "gameKey": "quest/030/ChrHdb721_03020#TEXT_CHRHDB721_03020_SEQ_01", "hash": "3DCBC861E0C42EB2", "target": "Sem se conformar em ficar parada, Nashu Mhakaracca perseguiu com afinco toda e qualquer pista sobre o Kugane Wolf Burglar. A partir de vários relatos de testemunhas, conseguiu criar um retrato falado do infame ladrão... embora ainda seja cedo para saber se será útil. De qualquer forma, vocês decidem que vale a pena interrogar de novo os ricos e poderosos de Kugane." },

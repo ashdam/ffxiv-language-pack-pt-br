@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzf005_03464",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_SEQ_00", "hash": "C11389ACE14E64DE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Esta lionhearted hunter quer ver do que <if(gnum4,uma aliada,um aliado)> de Ronka é capaz." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_00", "hash": "0666F902CF7DAC2E", "target": "Falar com a lionhearted hunter" },

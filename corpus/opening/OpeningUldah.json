@@ -1,6 +1,6 @@
 {
   "conversation": "opening/OpeningUldah",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "Não faz isso, <if(gnum4,amiga,amigo)>! Garanto que vai valer a pena!" },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "Ul'dah não agradou? Por que não aproveitar a hospitalidade de Quicksand antes de decidir nos deixar?" },

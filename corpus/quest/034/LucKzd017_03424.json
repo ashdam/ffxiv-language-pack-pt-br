@@ -1,6 +1,6 @@
 {
   "conversation": "quest/034/LucKzd017_03424",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_SEQ_00", "hash": "97A381779490D4A8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Iala Jul tem um pedido para <if(gnum4,uma filha,um filho)> da humanidade." },
     { "gameKey": "quest/034/LucKzd017_03424#TEXT_LUCKZD017_03424_TODO_00", "hash": "16169895E5FE6FFB", "target": "Derrotar um rabbit's tail, um tot aevis ou um phooka" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ClsAlc250_00583",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsAlc250_00583#TEXT_CLSALC250_00583_SEQ_00", "hash": "72BA94A1D191918E", "target": "O mau humor do mestre da guilda Severian sugere que outra tarefa indesejada aguarda sua ajuda." },
     { "gameKey": "quest/005/ClsAlc250_00583#TEXT_CLSALC250_00583_SEQ_01", "hash": "18ECD07850F46078", "target": "O mestre da guilda conclui que o dever que seus colegas lhe impuseram é mais adequado à formação <if(gnum4,de sua assistente,de seu assistente)>. Sintetize uma pinch of natron de alta qualidade e entregue ao seu exaltado instrutor." },

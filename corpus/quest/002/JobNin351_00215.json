@@ -1,6 +1,6 @@
 {
   "conversation": "quest/002/JobNin351_00215",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/002/JobNin351_00215#TEXT_JOBNIN351_00215_SEQ_00", "hash": "EB52E0E917214601", "target": "Oboro quer ensinar um novo mudra a <if(gnum4,sua promissora aluna,seu promissor aluno)>." },
     { "gameKey": "quest/002/JobNin351_00215#TEXT_JOBNIN351_00215_SEQ_01", "hash": "A3A8C40DD2A2A275", "target": "Depois de aprender o segundo mudra com Oboro, você já pode usar combinações de mudra. Ao fazer Ten e Chi, nessa ordem, pode canalizar o poder do céu e da terra para usar o ninjutsu Raiton, a liberação de relâmpagos. Demonstre a técnica a Oboro usando-a no mokujin fora do armazém." },

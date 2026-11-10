@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobMnk300_01061",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobMnk300_01061#TEXT_JOBMNK300_01061_SEQ_00", "hash": "E6B53FC66BDF9E14", "target": "Gagaruna tem trabalho para <if(gnum4,uma pugilista disposta,um pugilista disposto)>." },
     { "gameKey": "quest/010/JobMnk300_01061#TEXT_JOBMNK300_01061_SEQ_01", "hash": "3268F9B88DFD4389", "target": "Você recebeu a missão de garantir a segurança de um dos mais importantes historiadores militares de Eorzea. Vá à Goldsmiths' Guild e fale com o Professor Erik, a pessoa que deverá proteger." },

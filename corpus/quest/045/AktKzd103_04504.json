@@ -1,6 +1,6 @@
 {
   "conversation": "quest/045/AktKzd103_04504",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/AktKzd103_04504#TEXT_AKTKZD103_04504_SEQ_00", "hash": "7A691892FE0F53E2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Galla está numa missão para encontrar uma mãe." },
     { "gameKey": "quest/045/AktKzd103_04504#TEXT_AKTKZD103_04504_SEQ_01", "hash": "01872F4AFCCEF25E", "target": "Após conversar com Volusus, você descobre que a mãe dele provavelmente ainda está em Palatium Novum. Galla pede que você a encontre lá para ver se finalmente conseguem encontrar Vipsania.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual." },

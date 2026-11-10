@@ -1,6 +1,6 @@
 {
   "conversation": "quest/007/GaiUsa508_00760",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_00", "hash": "A425F2E6CCD00E81", "target": "Annabel, das Chamas Imortais, tem uma tarefa para <if(gnum4,uma aventureira valente,um aventureiro valente)>." },
     { "gameKey": "quest/007/GaiUsa508_00760#TEXT_GAIUSA508_00760_SEQ_01", "hash": "4FC722F60C045614", "target": "Dizem que almas perdidas da época de Belah'dia assombram as ruínas ao sul de Little Ala Mhigo. Use a água benta fornecida por Annabel para enfraquecer seus poderes e mate um tempered sword e um tempered brand." },

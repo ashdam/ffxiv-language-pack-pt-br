@@ -1,6 +1,6 @@
 {
   "conversation": "quest/037/JobAoz502_03732",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/JobAoz502_03732#TEXT_JOBAOZ502_03732_SEQ_00", "hash": "A67BEFC47F018B24", "target": "Martyn está ainda mais cheio de si que de costume." },
     { "gameKey": "quest/037/JobAoz502_03732#TEXT_JOBAOZ502_03732_SEQ_01", "hash": "1592CC964EFCFE41", "target": "Você encontra Martyn com sua roupa de Grande Azuro, ainda mais pomposo que da última vez. Ele conta que a recém-fundada Guilda dos Magos Azuis vem crescendo sem parar. Já acolheu vários alunos, incluindo Nutiba Buntiba e P'yandih, que chegam e interrompem a conversa. Para desgosto de Martyn, os dois não escondem que admiram muito mais você, <if(gnum4,Azuro Segunda,Azuro Segundo)>, do que seu mentor e mestre de guilda. Depois de mandá-los embora, indignado, ele se lembra de que tem uma apresentação no Masked Carnivale dentro de poucos instantes e convida você a assistir ao Grande Azuro em ação. Apesar de enfrentar um gigantesco kronprinz behemoth, Martyn o derrota de forma espetacular, lançando uma sequência de feitiços de magia azul que você nem sabia que ele conhecia." },

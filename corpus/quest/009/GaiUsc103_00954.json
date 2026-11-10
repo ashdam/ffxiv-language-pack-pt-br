@@ -1,6 +1,6 @@
 {
   "conversation": "quest/009/GaiUsc103_00954",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc103_00954#TEXT_GAIUSC103_00954_SEQ_00", "hash": "0FD0A7393848AB31", "target": "O Professor Lamberteint está ansioso para contar tudo o que sabe sobre cristais corrompidos." },
     { "gameKey": "quest/009/GaiUsc103_00954#TEXT_GAIUSC103_00954_SEQ_01", "hash": "D8FFB34452568302", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e fale com Lamberteint no Acampamento Osso Seco para reiniciá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },

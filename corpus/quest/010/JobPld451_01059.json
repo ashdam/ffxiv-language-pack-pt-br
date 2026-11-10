@@ -1,6 +1,6 @@
 {
   "conversation": "quest/010/JobPld451_01059",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/JobPld451_01059#TEXT_JOBPLD451_01059_SEQ_00", "hash": "8F573FAA8D626C25", "target": "Jenlyns quer saber se você está <if(gnum4,pronta,pronto)> para enfrentar Solkzagyl." },
     { "gameKey": "quest/010/JobPld451_01059#TEXT_JOBPLD451_01059_SEQ_01", "hash": "3E927B1BD479F10F", "target": "Por meio de intermediários, Jenlyns marcou um encontro com Solkzagyl para negociar a devolução de Oathkeeper. Porém, o encontro pode ser uma armadilha, e Jenlyns pediu que você o acompanhe. A negociação acontecerá ao sul de Forgotten Springs, no Deserto de Sagolii." },

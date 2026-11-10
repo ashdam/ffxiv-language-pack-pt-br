@@ -1,6 +1,6 @@
 {
   "conversation": "quest/015/FesSum002_01535",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/015/FesSum002_01535#TEXT_FESSUM002_01535_SEQ_00", "hash": "1B0C16038407F3D5", "target": "Um aventureiro sem guilda não é aventureiro de verdade, e uma organizadora do Festival do Fogo Lunar está decidida a fazer você cumprir sua parte.<br>※Esta missão só está disponível por tempo limitado." },
     { "gameKey": "quest/015/FesSum002_01535#TEXT_FESSUM002_01535_SEQ_01", "hash": "B3CE3E0D52220C0F", "target": "Segundo uma organizadora itinerante do Festival do Fogo Lunar, a Guilda dos Aventureiros procura membros dispostos a ajudar nas festividades. Como <if(gnum4,orgulhosa integrante,orgulhoso integrante)> da guilda e alguém que se aventura na moda, convém vestir um <if(gnum4,red lady's yukata,blue lord's yukata)> e ir a Aftcastle. Se o organizador-chefe Haermaga for tudo o que prometem, esse negócio será vantajoso para você.<br><br>※Você não poderá concluir esta missão após o fim do evento sazonal. Para mais informações, consulte o Lodestone." },

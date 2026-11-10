@@ -1,6 +1,6 @@
 {
   "conversation": "quest/011/GaiUse111_01185",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_00", "hash": "3881D4B9F53C0870", "target": "Quando um homem como Slafborn tem você em alta conta, uma tarefa perigosa e desagradável costuma aparecer bem depressa." },
     { "gameKey": "quest/011/GaiUse111_01185#TEXT_GAIUSE111_01185_SEQ_01", "hash": "C15505581B260BB2", "target": "<colortype(533)><edgecolortype(534)><icon(63)> Esta missão foi ajustada. Abandone a missão e fale com Slafborn no Pedágio do Espectro para reiniciá-la.<edgecolortype(0)><colortype(0)><br><br>※O Main Scenario Guide mostra a próxima missão disponível. Você pode ativá-lo ou desativá-lo em Character Configuration, na seção UI Settings." },
