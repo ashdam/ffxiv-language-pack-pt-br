@@ -1,22 +1,22 @@
 {
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "translated": 304278,
-  "total": 590615,
+  "total": 590781,
   "percent": 51.5,
-  "chars": 52748651,
-  "unresolved": 5779,
+  "chars": 52757635,
+  "unresolved": 5785,
   "groups": [
     {
       "expansion": null,
       "content": "Interface menus",
       "translated": 0,
-      "total": 67683
+      "total": 67712
     },
     {
       "expansion": null,
       "content": "Quests",
       "translated": 34925,
-      "total": 34925
+      "total": 34927
     },
     {
       "expansion": null,
@@ -34,7 +34,7 @@
       "expansion": null,
       "content": "Other",
       "translated": 18,
-      "total": 17223
+      "total": 17222
     },
     {
       "expansion": null,
@@ -46,7 +46,7 @@
       "expansion": null,
       "content": "Floating names",
       "translated": 2,
-      "total": 80744
+      "total": 80829
     },
     {
       "expansion": null,
@@ -64,19 +64,19 @@
       "expansion": null,
       "content": "Chat and system messages",
       "translated": 0,
-      "total": 12958
+      "total": 12966
     },
     {
       "expansion": null,
       "content": "Collections and customization",
       "translated": 0,
-      "total": 14841
+      "total": 14848
     },
     {
       "expansion": null,
       "content": "Dialogue and world lore",
       "translated": 0,
-      "total": 43184
+      "total": 43220
     },
     {
       "expansion": null,
@@ -132,7 +132,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 137,
-      "total": 12717
+      "total": 12710
     },
     {
       "expansion": null,
@@ -153,7 +153,7 @@
       "expansion": null,
       "content": "BNpcName",
       "translated": 0,
-      "total": 29475,
+      "total": 29477,
       "wholeSheet": true
     },
     {
@@ -188,7 +188,7 @@
       "expansion": null,
       "content": "Item",
       "translated": 0,
-      "total": 173452,
+      "total": 173464,
       "wholeSheet": true
     },
     {
@@ -235,13 +235,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 304219,
+        "total": 304221,
         "translated": 304219,
-        "pending": 0,
+        "pending": 2,
         "stale": 0,
         "excluded": 149,
         "excludedTranslated": 137,
-        "chars": 36153814,
+        "chars": 36153878,
         "percent": 100
       },
       "children": [
@@ -12071,13 +12071,13 @@
             "legacyquest"
           ],
           "counts": {
-            "total": 13252,
+            "total": 13254,
             "translated": 13252,
-            "pending": 0,
+            "pending": 2,
             "stale": 0,
             "excluded": 13,
             "excludedTranslated": 13,
-            "chars": 260546,
+            "chars": 260610,
             "percent": 100
           },
           "children": [
@@ -12090,16 +12090,91 @@
                 "quest"
               ],
               "counts": {
-                "total": 5373,
+                "total": 5374,
                 "translated": 5373,
-                "pending": 0,
+                "pending": 1,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 105008,
+                "chars": 105040,
                 "percent": 100
               },
               "children": [
+                {
+                  "id": "story/questnames/quest-titles/expansion:",
+                  "name": "Unassigned",
+                  "field": "expansion",
+                  "value": "",
+                  "sheets": [],
+                  "counts": {
+                    "total": 1,
+                    "translated": 0,
+                    "pending": 1,
+                    "stale": 0,
+                    "excluded": 0,
+                    "excludedTranslated": 0,
+                    "chars": 32,
+                    "percent": 0
+                  },
+                  "children": [
+                    {
+                      "id": "story/questnames/quest-titles/expansion:/questType:",
+                      "name": "Unassigned",
+                      "field": "questType",
+                      "value": "",
+                      "sheets": [],
+                      "counts": {
+                        "total": 1,
+                        "translated": 0,
+                        "pending": 1,
+                        "stale": 0,
+                        "excluded": 0,
+                        "excludedTranslated": 0,
+                        "chars": 32,
+                        "percent": 0
+                      },
+                      "children": [
+                        {
+                          "id": "story/questnames/quest-titles/expansion:/questType:/category:",
+                          "name": "Unassigned",
+                          "field": "category",
+                          "value": "",
+                          "sheets": [],
+                          "counts": {
+                            "total": 1,
+                            "translated": 0,
+                            "pending": 1,
+                            "stale": 0,
+                            "excluded": 0,
+                            "excludedTranslated": 0,
+                            "chars": 32,
+                            "percent": 0
+                          },
+                          "children": [
+                            {
+                              "id": "story/questnames/quest-titles/expansion:/questType:/category:/genre:",
+                              "name": "Unassigned",
+                              "field": "genre",
+                              "value": "",
+                              "sheets": [],
+                              "counts": {
+                                "total": 1,
+                                "translated": 0,
+                                "pending": 1,
+                                "stale": 0,
+                                "excluded": 0,
+                                "excludedTranslated": 0,
+                                "chars": 32,
+                                "percent": 0
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
                 {
                   "id": "story/questnames/quest-titles/expansion:A%20Realm%20Reborn",
                   "name": "A Realm Reborn",
@@ -23661,13 +23736,13 @@
                 "completejournal"
               ],
               "counts": {
-                "total": 7584,
+                "total": 7585,
                 "translated": 7584,
-                "pending": 0,
+                "pending": 1,
                 "stale": 0,
                 "excluded": 13,
                 "excludedTranslated": 13,
-                "chars": 149735,
+                "chars": 149767,
                 "percent": 100
               },
               "children": [
@@ -23678,13 +23753,13 @@
                   "value": "CompleteJournal",
                   "sheets": [],
                   "counts": {
-                    "total": 7584,
+                    "total": 7585,
                     "translated": 7584,
-                    "pending": 0,
+                    "pending": 1,
                     "stale": 0,
                     "excluded": 13,
                     "excludedTranslated": 13,
-                    "chars": 149735,
+                    "chars": 149767,
                     "percent": 100
                   },
                   "children": []
@@ -25505,13 +25580,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 43184,
+        "total": 43220,
         "translated": 0,
-        "pending": 43184,
+        "pending": 43220,
         "stale": 0,
-        "excluded": 45,
+        "excluded": 50,
         "excludedTranslated": 0,
-        "chars": 3091590,
+        "chars": 3095069,
         "percent": 0
       },
       "children": [
@@ -25530,13 +25605,13 @@
             "mkdrelicgrowth2monster"
           ],
           "counts": {
-            "total": 43027,
+            "total": 43063,
             "translated": 0,
-            "pending": 43027,
+            "pending": 43063,
             "stale": 0,
-            "excluded": 41,
+            "excluded": 46,
             "excludedTranslated": 0,
-            "chars": 3034703,
+            "chars": 3038182,
             "percent": 0
           },
           "children": [
@@ -25583,13 +25658,13 @@
               "value": "Balloon",
               "sheets": [],
               "counts": {
-                "total": 9284,
+                "total": 9288,
                 "translated": 0,
-                "pending": 9284,
+                "pending": 9288,
                 "stale": 0,
                 "excluded": 37,
                 "excludedTranslated": 0,
-                "chars": 362438,
+                "chars": 362606,
                 "percent": 0
               },
               "children": []
@@ -25601,13 +25676,13 @@
               "value": "DefaultTalk",
               "sheets": [],
               "counts": {
-                "total": 14537,
+                "total": 14568,
                 "translated": 0,
-                "pending": 14537,
+                "pending": 14568,
                 "stale": 0,
-                "excluded": 1,
+                "excluded": 6,
                 "excludedTranslated": 0,
-                "chars": 2008201,
+                "chars": 2011501,
                 "percent": 0
               },
               "children": []
@@ -25637,13 +25712,13 @@
               "value": "NpcYell",
               "sheets": [],
               "counts": {
-                "total": 19029,
+                "total": 19030,
                 "translated": 0,
-                "pending": 19029,
+                "pending": 19030,
                 "stale": 0,
                 "excluded": 3,
                 "excludedTranslated": 0,
-                "chars": 656681,
+                "chars": 656692,
                 "percent": 0
               },
               "children": []
@@ -25850,13 +25925,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 80744,
+        "total": 80829,
         "translated": 2,
-        "pending": 80742,
+        "pending": 80827,
         "stale": 0,
-        "excluded": 31791,
+        "excluded": 31793,
         "excludedTranslated": 0,
-        "chars": 938460,
+        "chars": 939491,
         "percent": 0
       },
       "children": [
@@ -25869,13 +25944,13 @@
             "enpcresident"
           ],
           "counts": {
-            "total": 62706,
+            "total": 62791,
             "translated": 0,
-            "pending": 62706,
+            "pending": 62791,
             "stale": 0,
             "excluded": 1971,
             "excludedTranslated": 0,
-            "chars": 672930,
+            "chars": 673961,
             "percent": 0
           },
           "children": [
@@ -25886,13 +25961,13 @@
               "value": "ENpcResident",
               "sheets": [],
               "counts": {
-                "total": 62706,
+                "total": 62791,
                 "translated": 0,
-                "pending": 62706,
+                "pending": 62791,
                 "stale": 0,
                 "excluded": 1971,
                 "excludedTranslated": 0,
-                "chars": 672930,
+                "chars": 673961,
                 "percent": 0
               },
               "children": []
@@ -25912,7 +25987,7 @@
             "translated": 0,
             "pending": 0,
             "stale": 0,
-            "excluded": 29543,
+            "excluded": 29545,
             "excludedTranslated": 0,
             "chars": 0,
             "percent": 0
@@ -25929,7 +26004,7 @@
                 "translated": 0,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 29543,
+                "excluded": 29545,
                 "excludedTranslated": 0,
                 "chars": 0,
                 "percent": 0
@@ -27523,7 +27598,7 @@
         "translated": 0,
         "pending": 1186,
         "stale": 0,
-        "excluded": 188329,
+        "excluded": 188326,
         "excludedTranslated": 0,
         "chars": 80104,
         "percent": 0
@@ -27551,7 +27626,7 @@
             "translated": 0,
             "pending": 962,
             "stale": 0,
-            "excluded": 188329,
+            "excluded": 188326,
             "excludedTranslated": 0,
             "chars": 71600,
             "percent": 0
@@ -27753,7 +27828,7 @@
                 "translated": 0,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 174174,
+                "excluded": 174171,
                 "excludedTranslated": 0,
                 "chars": 0,
                 "percent": 0
@@ -28040,7 +28115,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 10391,
+                    "excluded": 10388,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -28454,7 +28529,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8878,
+                    "excluded": 8875,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -28670,7 +28745,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8401,
+                    "excluded": 8398,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -28688,7 +28763,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 9929,
+                    "excluded": 9926,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -28814,7 +28889,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8918,
+                    "excluded": 8915,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -28994,7 +29069,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 2332,
+                    "excluded": 2336,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -29012,7 +29087,7 @@
                     "translated": 0,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 15724,
+                    "excluded": 15732,
                     "excludedTranslated": 0,
                     "chars": 0,
                     "percent": 0
@@ -31171,7 +31246,7 @@
         "stale": 0,
         "excluded": 73,
         "excludedTranslated": 0,
-        "chars": 715607,
+        "chars": 715654,
         "percent": 0
       },
       "children": [
@@ -31203,7 +31278,7 @@
             "stale": 0,
             "excluded": 73,
             "excludedTranslated": 0,
-            "chars": 715607,
+            "chars": 715654,
             "percent": 0
           },
           "children": [
@@ -31292,7 +31367,7 @@
                 "stale": 0,
                 "excluded": 1,
                 "excludedTranslated": 0,
-                "chars": 384624,
+                "chars": 384671,
                 "percent": 0
               },
               "children": []
@@ -31470,13 +31545,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 67683,
+        "total": 67712,
         "translated": 0,
-        "pending": 67683,
+        "pending": 67712,
         "stale": 0,
         "excluded": 1308,
         "excludedTranslated": 0,
-        "chars": 4998364,
+        "chars": 5001255,
         "percent": 0
       },
       "children": [
@@ -31932,13 +32007,13 @@
             "creditlisttext"
           ],
           "counts": {
-            "total": 65750,
+            "total": 65779,
             "translated": 0,
-            "pending": 65750,
+            "pending": 65779,
             "stale": 0,
             "excluded": 1241,
             "excludedTranslated": 0,
-            "chars": 4907043,
+            "chars": 4909934,
             "percent": 0
           },
           "children": [
@@ -31967,13 +32042,13 @@
               "value": "Addon",
               "sheets": [],
               "counts": {
-                "total": 14880,
+                "total": 14882,
                 "translated": 0,
-                "pending": 14880,
+                "pending": 14882,
                 "stale": 0,
                 "excluded": 698,
                 "excludedTranslated": 0,
-                "chars": 537909,
+                "chars": 538186,
                 "percent": 0
               },
               "children": []
@@ -32237,13 +32312,13 @@
               "value": "CabinetSubCategory",
               "sheets": [],
               "counts": {
-                "total": 198,
+                "total": 200,
                 "translated": 0,
-                "pending": 198,
+                "pending": 200,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 3352,
+                "chars": 3402,
                 "percent": 0
               },
               "children": []
@@ -33839,13 +33914,13 @@
               "value": "OmikujiGuidance",
               "sheets": [],
               "counts": {
-                "total": 216,
+                "total": 228,
                 "translated": 0,
-                "pending": 216,
+                "pending": 228,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 12164,
+                "chars": 12931,
                 "percent": 0
               },
               "children": []
@@ -39779,13 +39854,13 @@
               "value": "custom/003/CtsEtcBoosterLogin_00392",
               "sheets": [],
               "counts": {
-                "total": 22,
+                "total": 31,
                 "translated": 0,
-                "pending": 22,
+                "pending": 31,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 3115,
+                "chars": 4037,
                 "percent": 0
               },
               "children": []
@@ -43901,13 +43976,13 @@
               "value": "custom/005/CtsEtcVoyagerMoogle_00566",
               "sheets": [],
               "counts": {
-                "total": 7,
+                "total": 10,
                 "translated": 0,
-                "pending": 7,
+                "pending": 10,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 612,
+                "chars": 1213,
                 "percent": 0
               },
               "children": []
@@ -46907,13 +46982,13 @@
               "value": "custom/007/FesNyr2023Omikuji_00776",
               "sheets": [],
               "counts": {
-                "total": 22,
+                "total": 23,
                 "translated": 0,
-                "pending": 22,
+                "pending": 23,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 3033,
+                "chars": 3307,
                 "percent": 0
               },
               "children": []
@@ -51717,13 +51792,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 12958,
+        "total": 12966,
         "translated": 0,
-        "pending": 12958,
+        "pending": 12966,
         "stale": 0,
         "excluded": 912,
         "excludedTranslated": 0,
-        "chars": 942787,
+        "chars": 943527,
         "percent": 0
       },
       "children": [
@@ -51744,13 +51819,13 @@
             "xpvpgroupactivity"
           ],
           "counts": {
-            "total": 12327,
+            "total": 12335,
             "translated": 0,
-            "pending": 12327,
+            "pending": 12335,
             "stale": 0,
             "excluded": 81,
             "excludedTranslated": 0,
-            "chars": 727928,
+            "chars": 728668,
             "percent": 0
           },
           "children": [
@@ -51851,13 +51926,13 @@
               "value": "LogMessage",
               "sheets": [],
               "counts": {
-                "total": 8519,
+                "total": 8527,
                 "translated": 0,
-                "pending": 8519,
+                "pending": 8527,
                 "stale": 0,
                 "excluded": 80,
                 "excludedTranslated": 0,
-                "chars": 663208,
+                "chars": 663948,
                 "percent": 0
               },
               "children": []
@@ -51966,13 +52041,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 17223,
+        "total": 17222,
         "translated": 18,
-        "pending": 17205,
+        "pending": 17204,
         "stale": 0,
-        "excluded": 238,
+        "excluded": 241,
         "excludedTranslated": 0,
-        "chars": 1179526,
+        "chars": 1179581,
         "percent": 0.1
       },
       "children": [
@@ -52012,13 +52087,13 @@
             "racingchocoboname"
           ],
           "counts": {
-            "total": 6356,
+            "total": 6353,
             "translated": 18,
-            "pending": 6338,
+            "pending": 6335,
             "stale": 0,
-            "excluded": 237,
+            "excluded": 240,
             "excludedTranslated": 0,
-            "chars": 265127,
+            "chars": 265096,
             "percent": 0.3
           },
           "children": [
@@ -52263,13 +52338,13 @@
               "value": "KTGTypeWordTextData",
               "sheets": [],
               "counts": {
-                "total": 1641,
+                "total": 1638,
                 "translated": 0,
-                "pending": 1641,
+                "pending": 1638,
                 "stale": 0,
-                "excluded": 197,
+                "excluded": 200,
                 "excludedTranslated": 0,
-                "chars": 22764,
+                "chars": 22733,
                 "percent": 0
               },
               "children": []
@@ -52673,13 +52748,13 @@
             "achievementcategory"
           ],
           "counts": {
-            "total": 8098,
+            "total": 8100,
             "translated": 0,
-            "pending": 8098,
+            "pending": 8100,
             "stale": 0,
             "excluded": 0,
             "excludedTranslated": 0,
-            "chars": 313406,
+            "chars": 313492,
             "percent": 0
           },
           "children": [
@@ -52690,13 +52765,13 @@
               "value": "Achievement",
               "sheets": [],
               "counts": {
-                "total": 8006,
+                "total": 8008,
                 "translated": 0,
-                "pending": 8006,
+                "pending": 8008,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 312400,
+                "chars": 312486,
                 "percent": 0
               },
               "children": []
@@ -53054,13 +53129,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 14841,
+        "total": 14848,
         "translated": 0,
-        "pending": 14841,
+        "pending": 14848,
         "stale": 0,
         "excluded": 11,
         "excludedTranslated": 0,
-        "chars": 733156,
+        "chars": 733833,
         "percent": 0
       },
       "children": [
@@ -53133,13 +53208,13 @@
             "companiontransient"
           ],
           "counts": {
-            "total": 4125,
+            "total": 4132,
             "translated": 0,
-            "pending": 4125,
+            "pending": 4132,
             "stale": 0,
             "excluded": 6,
             "excludedTranslated": 0,
-            "chars": 350752,
+            "chars": 351429,
             "percent": 0
           },
           "children": [
@@ -53150,13 +53225,13 @@
               "value": "Companion",
               "sheets": [],
               "counts": {
-                "total": 1180,
+                "total": 1182,
                 "translated": 0,
-                "pending": 1180,
+                "pending": 1182,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 16229,
+                "chars": 16254,
                 "percent": 0
               },
               "children": []
@@ -53186,13 +53261,13 @@
               "value": "CompanionTransient",
               "sheets": [],
               "counts": {
-                "total": 2942,
+                "total": 2947,
                 "translated": 0,
-                "pending": 2942,
+                "pending": 2947,
                 "stale": 0,
                 "excluded": 6,
                 "excludedTranslated": 0,
-                "chars": 334494,
+                "chars": 335146,
                 "percent": 0
               },
               "children": []
@@ -53826,9 +53901,9 @@
     {
       "sheet": "BNpcName",
       "content": "Enemy names",
-      "total": 29475,
+      "total": 29477,
       "translated": 0,
-      "pending": 29475,
+      "pending": 29477,
       "pendingPercent": 100
     },
     {
@@ -53858,9 +53933,9 @@
     {
       "sheet": "Item",
       "content": "Items",
-      "total": 173452,
+      "total": 173464,
       "translated": 0,
-      "pending": 173452,
+      "pending": 173464,
       "pendingPercent": 100
     },
     {
