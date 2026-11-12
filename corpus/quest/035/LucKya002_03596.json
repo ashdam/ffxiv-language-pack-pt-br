@@ -64,6 +64,6 @@
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ONDOPEOPLE03596_000_092", "hash": "F625EA3BE5636F33", "target": "E, ainda assim, é um alívio saber que não ofendemos os Antigos, que não foram nosssos atos que invocaram esse monstro." },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ONDOPEOPLE03596_000_093", "hash": "4BD3BCEA735A6BD7", "target": "Vou nadar de volta a Cups e consssultar meus companheiros. Precisamos pensar numa essstratégia." },
     { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ONDOPEOPLE03596_000_094", "hash": "B95EB8675F6E9287", "target": "Embora de tamanho enorme, a fera é veloz. Escorregadia. Meu povo ficaria feliz com sssua ajuda para procurar seus rastros." },
-    { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ONDOPEOPLE03596_000_095", "hash": "A2CBFDBC50D8E693", "target": "Os sem barbatanas se saem melhor onde não há água... e o mar ainda não retomou nosso lar. Venha ao fundo do oceano, <if(gnum4,moradora,morador)> da terra. Venha caçar a fera!" }
+    { "gameKey": "quest/035/LucKya002_03596#TEXT_LUCKYA002_03596_ONDOPEOPLE03596_000_095", "hash": "A2CBFDBC50D8E693", "target": "Os sem-nadadeiras se saem melhor onde não há água... e o mar ainda não retomou nosso lar. Venha ao fundo do oceano, <if(gnum4,moradora,morador)> da terra. Venha caçar a fera!" }
   ]
 }
