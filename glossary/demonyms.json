@@ -1,5 +1,17 @@
 {
   "entries": [
+    {"en":"Amdapori","pt-br":"amdaporiano","forms":["amdaporiana","amdaporianos","amdaporianas"]},
+    {"en":"Ivalician","pt-br":"ivaliciano","forms":["ivaliciana","ivalicianos","ivalicianas"]},
+    {"en":"Dalmascan","pt-br":"dalmascano","forms":["dalmascana","dalmascanos","dalmascanas"]},
+    {"en":"Ronkan","pt-br":"ronkano","forms":["ronkana","ronkanos","ronkanas"]},
+    {"en":"Tuliyollan","forms":["tuliyollana","tuliyollanos","tuliyollanas"],"note":"Portuguese demonyms use lowercase and inflect for gender and number.","pt-br":"tuliyollano"},
+    {"en":"Hingan","forms":["hingana","hinganos","hinganas"],"note":"Portuguese demonyms use lowercase and inflect for gender and number.","pt-br":"hingano"},
+    {"en":"Mhachi","forms":["mhachiana","mhachianos","mhachianas"],"note":"Portuguese demonyms use lowercase and inflect for gender and number.","pt-br":"mhachiano"},
+    {"en":"Turali","pt-br":"turalense","forms":["turalenses"]},
+    {"en":"Corvosi","pt-br":"corvosiano","forms":["corvosiana","corvosianos","corvosianas"]},
+    {"en":"Eulmoran","pt-br":"eulmorano","forms":["eulmorana","eulmoranos","eulmoranas"]},
+    {"forms":["voeburtesa","voeburteses","voeburtesas"],"pt-br":"voeburtês","en":"Voeburtite"},
+    {"forms":["bozjana","bozjanos","bozjanas"],"pt-br":"bozjano","en":"Bozjan"},
     {"en":"Sharlayan","pt-br":"sharlayano","forms":["sharlayana","sharlayanos","sharlayanas"]},
     {"en":"Ishgardian","pt-br":"ishgardês","forms":["ishgardesa","ishgardeses","ishgardesas"]},
     {"en":"Othardian","pt-br":"othardiano","forms":["othardiana","othardianos","othardianas"]},
