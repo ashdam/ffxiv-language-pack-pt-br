@@ -2,12 +2,12 @@
   "conversation": "dungeon/000/DungeonWeapons_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000", "hash": "BD2F396EDC9B4B9D", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010", "hash": "D17F9FAC4150A65E", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_200_010", "hash": "E4452B530A4FBB62", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_000_010", "hash": "BF0DB42D04B22625", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "AA5067C3DCB67C0B", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "CA0E647091C961D0", "target": "" },
-    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "10D1697BCEF7E94A", "target": "" }
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_MILISANDIA_000_000", "hash": "BD2F396EDC9B4B9D", "target": "Inimigo detectado. Iniciando ataque!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_SHADOWHUNTER_100_010", "hash": "D17F9FAC4150A65E", "target": "É aqui. A Emerald Weapon..." },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_200_010", "hash": "E4452B530A4FBB62", "target": "Eu estava esperando por você, <if(gnum4,heroína,herói)> de Eorzea!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_REX_000_010", "hash": "BF0DB42D04B22625", "target": "Veja, Pai! Este é o poder que temos!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_020", "hash": "AA5067C3DCB67C0B", "target": "(-Gaius-)Alvo à vista. Imobilize-o com uma salva de mísseis!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_ALFONSE_000_020", "hash": "CA0E647091C961D0", "target": "(-Voz Masculina Familiar-)Ameaça detectada, revidando!" },
+    { "gameKey": "dungeon/000/DungeonWeapons_00000#TEXT_DUNGEONWEAPONS_00000_CID_000_021", "hash": "10D1697BCEF7E94A", "target": "(-Cid-)O campo de contenção não vai aguentar!" }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "dungeon/000/DungeonDragonsongwar_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000", "hash": "02F41F1C1BFCD918", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001", "hash": "299A81544BA17071", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001", "hash": "B131B52C852AB2C2", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002", "hash": "23D029AFE902B610", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002", "hash": "78BA1A119B8A89CA", "target": "" }
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_000", "hash": "02F41F1C1BFCD918", "target": "Assim termina um capítulo alternativo de sua história.<br>Que lições, <if(gnum4,cara ouvinte,caro ouvinte)>, podemos tirar deste Canto dos Dragões reimaginado?" },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_001", "hash": "299A81544BA17071", "target": "Seja humana ou dracônica, toda vida é preciosa,<br>e a perda de entes queridos sempre escurecerá o coração de quem fica." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_001", "hash": "B131B52C852AB2C2", "target": "Mas a morte não é o fim de tudo o que se construiu.<br>As memórias forjadas, o afeto partilhado, a esperança herdada..." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_100_002", "hash": "23D029AFE902B610", "target": "Essas coisas nos dão força para caminhar rumo ao amanhã,<br>e não há maior prova disso do que a jornada <if(gnum4,da Guerreira,do Guerreiro)> da Luz." },
+    { "gameKey": "dungeon/000/DungeonDragonsongwar_00000#TEXT_DUNGEONDRAGONSONGWAR_00000_WANDERINGMINSTREL_000_002", "hash": "78BA1A119B8A89CA", "target": "Das obras fantásticas de um menestrel errante<br><italic(1)>Heavensward: Uma Reimaginação<italic(0)>" }
   ]
 }

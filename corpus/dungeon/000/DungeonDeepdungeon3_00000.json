@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonDeepdungeon3_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_000", "hash": "B20D691D72CEA65B", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3LASTBOSS_000_010", "hash": "87DFAD1C5C35187B", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_015", "hash": "AD3950564309E93E", "target": "" }
+    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_000", "hash": "B20D691D72CEA65B", "target": "(-Voz Mecânica-)Intruso detectado. Iniciando contramedidas. Iniciando liberação emergencial de proto-Dalamud." },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3LASTBOSS_000_010", "hash": "87DFAD1C5C35187B", "target": "Eu... sou... Não... Phlegethon... perdoe-me..." },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon3_00000#TEXT_DUNGEONDEEPDUNGEON3_00000_DD3ANNOUNCE_000_015", "hash": "AD3950564309E93E", "target": "(-Voz Mecânica-)Aviso. Excalibur separada do hospedeiro orgânico. Inicializando transferência para o andar 100 para vigilância." }
   ]
 }

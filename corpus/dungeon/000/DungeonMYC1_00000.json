@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonMYC1_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_000", "hash": "8AB3C8904DD52C85", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_050", "hash": "DC5BBAC1B0CA4619", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_051", "hash": "9CBFDEDAFED0F727", "target": "" }
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_000", "hash": "8AB3C8904DD52C85", "target": "Venha, Dawon! Temos uma caça que precisa ser abatida." },
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_050", "hash": "DC5BBAC1B0CA4619", "target": "Dawon foi... derrotado? Então eles latem <italic(1)>e<italic(0)> mordem." },
+    { "gameKey": "dungeon/000/DungeonMYC1_00000#TEXT_DUNGEONMYC1_00000_RIAN_000_051", "hash": "9CBFDEDAFED0F727", "target": "Talvez eu avalie sua capacidade outra hora. Até nos encontrarmos de novo." }
   ]
 }

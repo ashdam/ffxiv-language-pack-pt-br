@@ -2,14 +2,14 @@
   "sheet": "VVDVoteRouteLabel",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "VVDVoteRouteLabel#1", "hash": "E544D028FCA3B332", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#2", "hash": "CEDB0FCB94A61899", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#3", "hash": "FA441FB44054F205", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#4", "hash": "B5BB5B3CFB9DEA70", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#5", "hash": "9CBE86526AD95C9D", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#6", "hash": "D95FD848343FC7AE", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#7", "hash": "62AB9B442B32B552", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#8", "hash": "485A5B65CF91BF8B", "target": "" },
-    { "gameKey": "VVDVoteRouteLabel#9", "hash": "F6B3332E30C7CA72", "target": "" }
+    { "gameKey": "VVDVoteRouteLabel#1", "hash": "E544D028FCA3B332", "target": "Nossa primeira bifurcação. Para onde vamos?" },
+    { "gameKey": "VVDVoteRouteLabel#2", "hash": "CEDB0FCB94A61899", "target": "Surpreenda-me!" },
+    { "gameKey": "VVDVoteRouteLabel#3", "hash": "FA441FB44054F205", "target": "Vamos pela esquerda, para a área residencial." },
+    { "gameKey": "VVDVoteRouteLabel#4", "hash": "B5BB5B3CFB9DEA70", "target": "Vamos pela direita, para o mercado." },
+    { "gameKey": "VVDVoteRouteLabel#5", "hash": "9CBE86526AD95C9D", "target": "Vamos em frente, em direção ao grande portão." },
+    { "gameKey": "VVDVoteRouteLabel#6", "hash": "D95FD848343FC7AE", "target": "The Smoldering Bedchamber. (The Pari of Plenty)" },
+    { "gameKey": "VVDVoteRouteLabel#7", "hash": "62AB9B442B32B552", "target": "The Sea-maid's Mirror. (Darya the Sea-maid)" },
+    { "gameKey": "VVDVoteRouteLabel#8", "hash": "485A5B65CF91BF8B", "target": "The Wound of the Heavens. (The Lone Swordmaster)" },
+    { "gameKey": "VVDVoteRouteLabel#9", "hash": "F6B3332E30C7CA72", "target": "Para onde você gostaria de ir?" }
   ]
 }

@@ -2,9 +2,9 @@
   "sheet": "DeepDungeon",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "DeepDungeon#1", "hash": "B0B7FDD39F27DD02", "target": "" },
-    { "gameKey": "DeepDungeon#2", "hash": "1E9158879FD022BD", "target": "" },
-    { "gameKey": "DeepDungeon#3", "hash": "0DCC74B7FB160D82", "target": "" },
-    { "gameKey": "DeepDungeon#4", "hash": "6AF00F1176D284ED", "target": "" }
+    { "gameKey": "DeepDungeon#1", "hash": "B0B7FDD39F27DD02", "target": "the Palace of the Dead" },
+    { "gameKey": "DeepDungeon#2", "hash": "1E9158879FD022BD", "target": "Heaven-on-High" },
+    { "gameKey": "DeepDungeon#3", "hash": "0DCC74B7FB160D82", "target": "Eureka Orthos" },
+    { "gameKey": "DeepDungeon#4", "hash": "6AF00F1176D284ED", "target": "Pilgrim's Traverse" }
   ]
 }

@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_00", "hash": "30F6B9F5161FD3F9", "target": "Trachtoum parece estar ignorando você." },
-    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_01", "hash": "B72E99EAEC7740C9", "target": "Trachtoum acha que falta a você força para enfrentar um primordial em combate. Se quiser provar o seu valor a ele, siga para o oeste do Grey Fleet, procure goobbues na área e abata-os caso se aproximem." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_01", "hash": "B72E99EAEC7740C9", "target": "Trachtoum acha que falta a você força para enfrentar um primordial em combate. Se quiser provar o seu valor a ele, siga para o oeste da Frota Cinzenta, procure goobbues na área e abata-os caso se aproximem." },
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_02", "hash": "FD7BE4EF197B697B", "target": "Embora as instruções de Trachtoum quase levem você direto às fauces escancaradas de um goobbue, você despacha a fera gigante com pouca dificuldade. Volte a Trachtoum e conte o feito." },
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_03", "hash": "C646343902A70183", "target": "Os seus feitos deixam o velho saqueador chocado, mas não bastam para conquistar a confiança dele. Parece que você ainda tem muito e mais a fazer..." },
-    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_00", "hash": "29B390C8767940A3", "target": "Procurar goobbues a oeste do Grey Fleet" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_00", "hash": "29B390C8767940A3", "target": "Procurar goobbues a oeste da Frota Cinzenta" },
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_01", "hash": "7E11C50DFA7D7DC7", "target": "Falar com Trachtoum" },
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_000", "hash": "D8A63B58C7FA573F", "target": "...O quê? Cê ainda tá perguntando como a gente venceu o Tidus? Sei não, <if(gnum4,aventureira,aventureiro)>... foi uma estratégia bem arriscada, dessas que só um veterano de duzentas batalhas pode usar." },
     { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_001", "hash": "AD1C6A6AF5A07A73", "target": "Eu quero ensinar, quero mesmo! Mas, enquanto cê num provar que tem o que é preciso pra encarar aquele desgraçado gordo, num posso, em sã consciência, te contar droga nenhuma!" },
