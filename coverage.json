@@ -1,8 +1,8 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 347498,
+  "translated": 370595,
   "total": 590781,
-  "percent": 58.8,
+  "percent": 62.7,
   "chars": 52757635,
   "unresolved": 5785,
   "groups": [
@@ -15,7 +15,7 @@
     {
       "expansion": null,
       "content": "Quests",
-      "translated": 34925,
+      "translated": 34927,
       "total": 34927
     },
     {
@@ -51,7 +51,7 @@
     {
       "expansion": null,
       "content": "Duties and field operations",
-      "translated": 0,
+      "translated": 23095,
       "total": 23095
     },
     {
@@ -131,13 +131,13 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 187,
+      "translated": 538,
       "total": 12710
     },
     {
       "expansion": null,
       "content": "Duty names",
-      "translated": 0,
+      "translated": 895,
       "total": 895
     }
   ],
@@ -236,8 +236,8 @@
       "sheets": [],
       "counts": {
         "total": 304221,
-        "translated": 304219,
-        "pending": 2,
+        "translated": 304221,
+        "pending": 0,
         "stale": 0,
         "excluded": 149,
         "excludedTranslated": 137,
@@ -12072,8 +12072,8 @@
           ],
           "counts": {
             "total": 13254,
-            "translated": 13252,
-            "pending": 2,
+            "translated": 13254,
+            "pending": 0,
             "stale": 0,
             "excluded": 13,
             "excludedTranslated": 13,
@@ -12091,8 +12091,8 @@
               ],
               "counts": {
                 "total": 5374,
-                "translated": 5373,
-                "pending": 1,
+                "translated": 5374,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
@@ -12108,13 +12108,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1,
-                    "translated": 0,
-                    "pending": 1,
+                    "translated": 1,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 32,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": [
                     {
@@ -12125,13 +12125,13 @@
                       "sheets": [],
                       "counts": {
                         "total": 1,
-                        "translated": 0,
-                        "pending": 1,
+                        "translated": 1,
+                        "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
                         "chars": 32,
-                        "percent": 0
+                        "percent": 100
                       },
                       "children": [
                         {
@@ -12142,13 +12142,13 @@
                           "sheets": [],
                           "counts": {
                             "total": 1,
-                            "translated": 0,
-                            "pending": 1,
+                            "translated": 1,
+                            "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
                             "chars": 32,
-                            "percent": 0
+                            "percent": 100
                           },
                           "children": [
                             {
@@ -12159,13 +12159,13 @@
                               "sheets": [],
                               "counts": {
                                 "total": 1,
-                                "translated": 0,
-                                "pending": 1,
+                                "translated": 1,
+                                "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
                                 "chars": 32,
-                                "percent": 0
+                                "percent": 100
                               },
                               "children": []
                             }
@@ -23737,8 +23737,8 @@
               ],
               "counts": {
                 "total": 7585,
-                "translated": 7584,
-                "pending": 1,
+                "translated": 7585,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 13,
                 "excludedTranslated": 13,
@@ -23754,8 +23754,8 @@
                   "sheets": [],
                   "counts": {
                     "total": 7585,
-                    "translated": 7584,
-                    "pending": 1,
+                    "translated": 7585,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 13,
                     "excludedTranslated": 13,
@@ -30126,13 +30126,13 @@
       "sheets": [],
       "counts": {
         "total": 23095,
-        "translated": 0,
-        "pending": 23095,
+        "translated": 23095,
+        "pending": 0,
         "stale": 0,
         "excluded": 1246,
-        "excludedTranslated": 0,
+        "excludedTranslated": 1246,
         "chars": 2429941,
-        "percent": 0
+        "percent": 100
       },
       "children": [
         {
@@ -30155,13 +30155,13 @@
           ],
           "counts": {
             "total": 13679,
-            "translated": 0,
-            "pending": 13679,
+            "translated": 13679,
+            "pending": 0,
             "stale": 0,
             "excluded": 264,
-            "excludedTranslated": 0,
+            "excludedTranslated": 264,
             "chars": 930072,
-            "percent": 0
+            "percent": 100
           },
           "children": [
             {
@@ -30172,13 +30172,13 @@
               "sheets": [],
               "counts": {
                 "total": 330,
-                "translated": 0,
-                "pending": 330,
+                "translated": 330,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 7,
-                "excludedTranslated": 0,
+                "excludedTranslated": 7,
                 "chars": 29838,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30190,13 +30190,13 @@
               "sheets": [],
               "counts": {
                 "total": 6,
-                "translated": 0,
-                "pending": 6,
+                "translated": 6,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 263,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30208,13 +30208,13 @@
               "sheets": [],
               "counts": {
                 "total": 1974,
-                "translated": 0,
-                "pending": 1974,
+                "translated": 1974,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 32,
-                "excludedTranslated": 0,
+                "excludedTranslated": 32,
                 "chars": 249199,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30226,13 +30226,13 @@
               "sheets": [],
               "counts": {
                 "total": 56,
-                "translated": 0,
-                "pending": 56,
+                "translated": 56,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 12193,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30244,13 +30244,13 @@
               "sheets": [],
               "counts": {
                 "total": 9934,
-                "translated": 0,
-                "pending": 9934,
+                "translated": 9934,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 181,
-                "excludedTranslated": 0,
+                "excludedTranslated": 181,
                 "chars": 508772,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30262,13 +30262,13 @@
               "sheets": [],
               "counts": {
                 "total": 34,
-                "translated": 0,
-                "pending": 34,
+                "translated": 34,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 2581,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30280,13 +30280,13 @@
               "sheets": [],
               "counts": {
                 "total": 475,
-                "translated": 0,
-                "pending": 475,
+                "translated": 475,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 28,
-                "excludedTranslated": 0,
+                "excludedTranslated": 28,
                 "chars": 71734,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30298,13 +30298,13 @@
               "sheets": [],
               "counts": {
                 "total": 40,
-                "translated": 0,
-                "pending": 40,
+                "translated": 40,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 1,
-                "excludedTranslated": 0,
+                "excludedTranslated": 1,
                 "chars": 2521,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30316,13 +30316,13 @@
               "sheets": [],
               "counts": {
                 "total": 703,
-                "translated": 0,
-                "pending": 703,
+                "translated": 703,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 15,
-                "excludedTranslated": 0,
+                "excludedTranslated": 15,
                 "chars": 43064,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30334,13 +30334,13 @@
               "sheets": [],
               "counts": {
                 "total": 9,
-                "translated": 0,
-                "pending": 9,
+                "translated": 9,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 343,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30352,13 +30352,13 @@
               "sheets": [],
               "counts": {
                 "total": 1,
-                "translated": 0,
-                "pending": 1,
+                "translated": 1,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 20,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30370,13 +30370,13 @@
               "sheets": [],
               "counts": {
                 "total": 1,
-                "translated": 0,
-                "pending": 1,
+                "translated": 1,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 61,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30388,13 +30388,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 220,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30406,13 +30406,13 @@
               "sheets": [],
               "counts": {
                 "total": 1,
-                "translated": 0,
-                "pending": 1,
+                "translated": 1,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 41,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30424,13 +30424,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 322,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30442,13 +30442,13 @@
               "sheets": [],
               "counts": {
                 "total": 2,
-                "translated": 0,
-                "pending": 2,
+                "translated": 2,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 139,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30460,13 +30460,13 @@
               "sheets": [],
               "counts": {
                 "total": 2,
-                "translated": 0,
-                "pending": 2,
+                "translated": 2,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 204,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30478,13 +30478,13 @@
               "sheets": [],
               "counts": {
                 "total": 7,
-                "translated": 0,
-                "pending": 7,
+                "translated": 7,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 737,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30496,13 +30496,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 278,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30514,13 +30514,13 @@
               "sheets": [],
               "counts": {
                 "total": 1,
-                "translated": 0,
-                "pending": 1,
+                "translated": 1,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 66,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30532,13 +30532,13 @@
               "sheets": [],
               "counts": {
                 "total": 19,
-                "translated": 0,
-                "pending": 19,
+                "translated": 19,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 1932,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30550,13 +30550,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 142,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30568,13 +30568,13 @@
               "sheets": [],
               "counts": {
                 "total": 5,
-                "translated": 0,
-                "pending": 5,
+                "translated": 5,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 606,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30586,13 +30586,13 @@
               "sheets": [],
               "counts": {
                 "total": 1,
-                "translated": 0,
-                "pending": 1,
+                "translated": 1,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 112,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30604,13 +30604,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 417,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30622,13 +30622,13 @@
               "sheets": [],
               "counts": {
                 "total": 5,
-                "translated": 0,
-                "pending": 5,
+                "translated": 5,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 311,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30640,13 +30640,13 @@
               "sheets": [],
               "counts": {
                 "total": 2,
-                "translated": 0,
-                "pending": 2,
+                "translated": 2,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 186,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30658,13 +30658,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 197,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30676,13 +30676,13 @@
               "sheets": [],
               "counts": {
                 "total": 4,
-                "translated": 0,
-                "pending": 4,
+                "translated": 4,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 361,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30694,13 +30694,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 249,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30712,13 +30712,13 @@
               "sheets": [],
               "counts": {
                 "total": 6,
-                "translated": 0,
-                "pending": 6,
+                "translated": 6,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 464,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30730,13 +30730,13 @@
               "sheets": [],
               "counts": {
                 "total": 13,
-                "translated": 0,
-                "pending": 13,
+                "translated": 13,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 1082,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30748,13 +30748,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 221,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30766,13 +30766,13 @@
               "sheets": [],
               "counts": {
                 "total": 4,
-                "translated": 0,
-                "pending": 4,
+                "translated": 4,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 178,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30784,13 +30784,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 256,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30802,13 +30802,13 @@
               "sheets": [],
               "counts": {
                 "total": 7,
-                "translated": 0,
-                "pending": 7,
+                "translated": 7,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 313,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30820,13 +30820,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 235,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30838,13 +30838,13 @@
               "sheets": [],
               "counts": {
                 "total": 3,
-                "translated": 0,
-                "pending": 3,
+                "translated": 3,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 93,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30856,13 +30856,13 @@
               "sheets": [],
               "counts": {
                 "total": 2,
-                "translated": 0,
-                "pending": 2,
+                "translated": 2,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 49,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30874,13 +30874,13 @@
               "sheets": [],
               "counts": {
                 "total": 2,
-                "translated": 0,
-                "pending": 2,
+                "translated": 2,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 72,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             }
@@ -30905,13 +30905,13 @@
           ],
           "counts": {
             "total": 9218,
-            "translated": 0,
-            "pending": 9218,
+            "translated": 9218,
+            "pending": 0,
             "stale": 0,
             "excluded": 958,
-            "excludedTranslated": 0,
+            "excludedTranslated": 958,
             "chars": 1488966,
-            "percent": 0
+            "percent": 100
           },
           "children": [
             {
@@ -30926,7 +30926,7 @@
                 "pending": 0,
                 "stale": 0,
                 "excluded": 920,
-                "excludedTranslated": 0,
+                "excludedTranslated": 920,
                 "chars": 0,
                 "percent": 0
               },
@@ -30940,13 +30940,13 @@
               "sheets": [],
               "counts": {
                 "total": 602,
-                "translated": 0,
-                "pending": 602,
+                "translated": 602,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 278009,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30958,13 +30958,13 @@
               "sheets": [],
               "counts": {
                 "total": 100,
-                "translated": 0,
-                "pending": 100,
+                "translated": 100,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 15141,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30976,13 +30976,13 @@
               "sheets": [],
               "counts": {
                 "total": 4,
-                "translated": 0,
-                "pending": 4,
+                "translated": 4,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 67,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -30994,13 +30994,13 @@
               "sheets": [],
               "counts": {
                 "total": 242,
-                "translated": 0,
-                "pending": 242,
+                "translated": 242,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 44748,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31012,13 +31012,13 @@
               "sheets": [],
               "counts": {
                 "total": 130,
-                "translated": 0,
-                "pending": 130,
+                "translated": 130,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 13902,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31030,13 +31030,13 @@
               "sheets": [],
               "counts": {
                 "total": 8,
-                "translated": 0,
-                "pending": 8,
+                "translated": 8,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 107,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31048,13 +31048,13 @@
               "sheets": [],
               "counts": {
                 "total": 4362,
-                "translated": 0,
-                "pending": 4362,
+                "translated": 4362,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 12,
-                "excludedTranslated": 0,
+                "excludedTranslated": 12,
                 "chars": 467363,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31066,13 +31066,13 @@
               "sheets": [],
               "counts": {
                 "total": 3488,
-                "translated": 0,
-                "pending": 3488,
+                "translated": 3488,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 26,
-                "excludedTranslated": 0,
+                "excludedTranslated": 26,
                 "chars": 656389,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31084,13 +31084,13 @@
               "sheets": [],
               "counts": {
                 "total": 282,
-                "translated": 0,
-                "pending": 282,
+                "translated": 282,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 13240,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             }
@@ -31107,13 +31107,13 @@
           ],
           "counts": {
             "total": 50,
-            "translated": 0,
-            "pending": 50,
+            "translated": 50,
+            "pending": 0,
             "stale": 0,
             "excluded": 0,
             "excludedTranslated": 0,
             "chars": 1725,
-            "percent": 0
+            "percent": 100
           },
           "children": [
             {
@@ -31124,13 +31124,13 @@
               "sheets": [],
               "counts": {
                 "total": 20,
-                "translated": 0,
-                "pending": 20,
+                "translated": 20,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 463,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31142,13 +31142,13 @@
               "sheets": [],
               "counts": {
                 "total": 30,
-                "translated": 0,
-                "pending": 30,
+                "translated": 30,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 1262,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             }
@@ -31166,13 +31166,13 @@
           ],
           "counts": {
             "total": 148,
-            "translated": 0,
-            "pending": 148,
+            "translated": 148,
+            "pending": 0,
             "stale": 0,
             "excluded": 24,
-            "excludedTranslated": 0,
+            "excludedTranslated": 24,
             "chars": 9178,
-            "percent": 0
+            "percent": 100
           },
           "children": [
             {
@@ -31183,13 +31183,13 @@
               "sheets": [],
               "counts": {
                 "total": 96,
-                "translated": 0,
-                "pending": 96,
+                "translated": 96,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 24,
-                "excludedTranslated": 0,
+                "excludedTranslated": 24,
                 "chars": 4002,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31201,13 +31201,13 @@
               "sheets": [],
               "counts": {
                 "total": 38,
-                "translated": 0,
-                "pending": 38,
+                "translated": 38,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 5036,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             },
@@ -31219,13 +31219,13 @@
               "sheets": [],
               "counts": {
                 "total": 14,
-                "translated": 0,
-                "pending": 14,
+                "translated": 14,
+                "pending": 0,
                 "stale": 0,
                 "excluded": 0,
                 "excludedTranslated": 0,
                 "chars": 140,
-                "percent": 0
+                "percent": 100
               },
               "children": []
             }
