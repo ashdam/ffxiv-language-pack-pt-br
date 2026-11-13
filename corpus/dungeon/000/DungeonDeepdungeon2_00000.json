@@ -2,12 +2,12 @@
   "conversation": "dungeon/000/DungeonDeepdungeon2_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_000", "hash": "74B5819EF249869C", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_001", "hash": "FA862299EB8C72FB", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_RASHO_000_002", "hash": "AF7F16071ED2170A", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_RASHO_000_003", "hash": "1332B47E3CAA918A", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_004", "hash": "009D6055A6104022", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_010", "hash": "F3901299FAE44D8B", "target": "" },
-    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_011", "hash": "7772A8751ADF995B", "target": "" }
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_000", "hash": "74B5819EF249869C", "target": "Então, os primeiros dez andares pouco dificultaram a vida de nossa intrépida visita. Ou devo dizer, <if(gnum4,da Guerreira,do Guerreiro)> da Luz?" },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_001", "hash": "FA862299EB8C72FB", "target": "Afinal, é assim que os eorzeanos chamam uma figura heroica dessas, não é? Um título digno de quem triunfou sobre o Lobo Negro de Garlemald." },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_RASHO_000_002", "hash": "AF7F16071ED2170A", "target": "Não sabia que os assuntos do Ocidente eram da sua alçada. Até onde vai sua influência?" },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_RASHO_000_003", "hash": "1332B47E3CAA918A", "target": "Hmpf. Você tem segredos demais para o meu gosto, mas tudo bem. Faça como quiser." },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_004", "hash": "009D6055A6104022", "target": "E assim farei. Pois isto é apenas o começo." },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_010", "hash": "F3901299FAE44D8B", "target": "O vigésimo andar foi vencido, e é só uma questão de tempo até <if(gnum4,ela,ele)> chegar para enfrentar você. Posso sugerir que─" },
+    { "gameKey": "dungeon/000/DungeonDeepdungeon2_00000#TEXT_DUNGEONDEEPDUNGEON2_00000_KYUSEI_000_011", "hash": "7772A8751ADF995B", "target": "Sim, claro. Nesse caso, deixarei que cuide de seus afazeres, enquanto volto aos meus. Passe bem." }
   ]
 }

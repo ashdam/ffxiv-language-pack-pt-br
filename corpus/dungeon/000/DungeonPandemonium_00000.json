@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonPandemonium_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_ERICHTHONIOS_000_000", "hash": "AA4630AB4DDCACA1", "target": "" },
-    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_THEMIS_000_001", "hash": "3686557FBF76BF33", "target": "" },
-    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_ERICHTHONIOS_000_005", "hash": "02FC6709A9DD0CA6", "target": "" }
+    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_ERICHTHONIOS_000_000", "hash": "AA4630AB4DDCACA1", "target": "Ungh... E-eu vou salvá-los! Eu... preciso..." },
+    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_THEMIS_000_001", "hash": "3686557FBF76BF33", "target": "Este parece ser um dos carcereiros que procuramos, mas receio que não esteja em condições de responder a perguntas. Talvez você consiga fazê-lo recobrar o juízo...?" },
+    { "gameKey": "dungeon/000/DungeonPandemonium_00000#TEXT_DUNGEONPANDEMONIUM_00000_ERICHTHONIOS_000_005", "hash": "02FC6709A9DD0CA6", "target": "Hesperos!? O que significa isto?" }
   ]
 }

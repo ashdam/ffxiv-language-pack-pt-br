@@ -2,7 +2,7 @@
   "conversation": "quest/004/SubSea072_00484",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_00", "hash": "A78456261C263032", "target": "Loetrswys quer verificar se há algum problema rondando os moinhos de Grey Fleet." },
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_00", "hash": "A78456261C263032", "target": "Loetrswys quer verificar se há algum problema rondando os moinhos da Frota Cinzenta." },
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_01", "hash": "FC01DC226AF9F37B", "target": "Loetrswys não deixa para amanhã o que pode fazer hoje. Descubra o que anda acontecendo nos moinhos perguntando aos moleiros." },
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_02", "hash": "978E674E4B5C39A0", "target": "A tarefa completou seu giro. Avise a Weitzaren." },
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_SEQ_03", "hash": "A290449371435E9A", "target": "Weitzaren providenciará reparos na vela de Eshushu, caso as circunstâncias deem uma volta inesperada para pior." },
@@ -20,6 +20,6 @@
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WAENTZIRN_000_31", "hash": "F2614BE9DE853E42", "target": "Seria mais sensato nos preocuparmos com os saqueadores imundos que roubam nossa produção." },
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_40", "hash": "01F0E1C501C505A2", "target": "Espero que tenha gostado do passeio pelo moinho! Impressionante, sim?" },
     { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_41", "hash": "FFF4BA51EDC6EF37", "target": "A questão da vela de Eshushu é mesmo muito preocupante! O problema será remediado imediatamente!" },
-    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_42", "hash": "CF7C7B313827DDC3", "target": "Esperar que os problemas aconteçam para agir é pedir por problemas! Grey Fleet não para por nada! A toda vela!" }
+    { "gameKey": "quest/004/SubSea072_00484#TEXT_SUBSEA072_00484_WEITZAREN_000_42", "hash": "CF7C7B313827DDC3", "target": "Esperar que os problemas aconteçam para agir é pedir por problemas! A Frota Cinzenta não para por nada! A toda vela!" }
   ]
 }

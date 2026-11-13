@@ -2,7 +2,7 @@
   "conversation": "quest/004/SubSea065_00477",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "Weitzaren, moleiro-chefe de Grey Fleet, precisa da ajuda de <if(gnum4,uma aventureira capaz,um aventureiro capaz)>." },
+    { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_00", "hash": "0645CE0BB32C15D6", "target": "Weitzaren, moleiro-chefe da Frota Cinzenta, precisa da ajuda de <if(gnum4,uma aventureira capaz,um aventureiro capaz)>." },
     { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_01", "hash": "689C9FECC1C253C3", "target": "Weitzaren pede que você se vingue dos galagos que roubaram seus grãos moídos e recupere os sacos de farinha que levaram." },
     { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_02", "hash": "53F4FAFA0DFB7402", "target": "Você puniu prontamente os galagos ladrões. Leve a farinha recuperada a Skarnmhar na Fazenda do Galo Vermelho." },
     { "gameKey": "quest/004/SubSea065_00477#TEXT_SUBSEA065_00477_SEQ_03", "hash": "737D45C63D98B22C", "target": "Skarnmhar agradece sua ajuda, mas lamenta que a fazenda não contrate guardas e que ele precise contar com a bondade de aventureiros quando as coisas dão errado." },

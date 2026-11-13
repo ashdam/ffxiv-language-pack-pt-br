@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonXbm_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000", "hash": "2DC3F6DA958678C4", "target": "" },
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100", "hash": "B605F0626B52C988", "target": "" },
-    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200", "hash": "CE0046E1F588A1EB", "target": "" }
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_LOOSEFROX_000_000", "hash": "2DC3F6DA958678C4", "target": "Pshhh... Shkohhh... O momento da verdade-verdadeira.<br>Avançar, Chewchum Popoto!" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_100", "hash": "B605F0626B52C988", "target": "Por toda a eternidade conhecereis o sofrimento.<br>Beastmaster... Entregai vossa alma!" },
+    { "gameKey": "dungeon/000/DungeonXbm_00000#TEXT_DUNGEONXBM_00000_GUTTLER_000_200", "hash": "CE0046E1F588A1EB", "target": "Sangue do meu inimigo, irmãos de sangue derramado...<br>Comigo, Lauda. Lutamos como um só! " }
   ]
 }
