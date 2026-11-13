@@ -1,5 +1,14 @@
 {
   "entries": [
+    {"en":"Hueloc","pt-br":"Hueloc","forms":[]},
+    {"en":"Ugund","pt-br":"Ugund","forms":[]},
+    {"en":"Olkund","pt-br":"Olkund","forms":[]},
+    {"en":"Seeq","pt-br":"Seeq","forms":[]},
+    {"en":"Qerel","pt-br":"Qerel","forms":[]},
+    {"en":"Uyagir","pt-br":"Uyagir"},
+    {"en":"Orben","pt-br":"Orben"},
+    {"en":"Hotgo","pt-br":"Hotgo"},
+    {"en":"Ejinn","pt-br":"Ejinn"},
     {"en":"Highlander","pt-br":"Highlander","forms":[]},
     {"en":"Matsuba","pt-br":"Matsuba"},
     {"en":"Urabe","pt-br":"Urabe"},
@@ -7,7 +16,7 @@
     {"en":"Bangaa","pt-br":"Bangaa"},
     {"en":"Adarkim","pt-br":"Adarkim"},
     {"en":"Angura","pt-br":"Angura"},
-    {"en":"Lalafell","pt-br":"Lalafell"},
+    {"en":"Lalafell","pt-br":"Lalafell","forms":["lalafell"]},
     {"en":"Qitari","pt-br":"Qitari"},
     {"en":"Chirwagur","pt-br":"Chirwagur"},
     {"en":"Mord","pt-br":"Mord"},

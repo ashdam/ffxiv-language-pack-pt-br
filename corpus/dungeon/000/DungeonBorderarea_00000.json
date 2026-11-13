@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonBorderarea_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000", "hash": "1669ECD6F7E71FFB", "target": "" },
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001", "hash": "0C0F70B40A05122F", "target": "" },
-    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010", "hash": "31A2D4C4E7C6996F", "target": "" }
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_000", "hash": "1669ECD6F7E71FFB", "target": "Estes <italic(1)>selvagens<italic(0)> derrotaram nossa vanguarda? Impressionante..." },
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDBLUE_000_001", "hash": "0C0F70B40A05122F", "target": "Mas, no fim, são apenas isso: selvagens.<br>Agora, sejamos breves. Sua Radiância nos aguarda." },
+    { "gameKey": "dungeon/000/DungeonBorderarea_00000#TEXT_DUNGEONBORDERAREA_00000_IMPERIALGUARDRED_000_010", "hash": "31A2D4C4E7C6996F", "target": "Cumprimos nosso propósito. Venham, vamos nos retirar por enquanto. " }
   ]
 }

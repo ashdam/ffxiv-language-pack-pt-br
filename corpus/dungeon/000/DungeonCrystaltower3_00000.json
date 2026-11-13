@@ -2,8 +2,8 @@
   "conversation": "dungeon/000/DungeonCrystaltower3_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "" },
-    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "" }
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_000", "hash": "E95981C0AAB4EAA6", "target": "Quem perturba as trevas?<br>Ahhh, mortais do reino da luz.<br>Vocês não vieram parar aqui sem um propósito..." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_010", "hash": "5173531C48925AA4", "target": "Sou Cloud of Darkness.<br>O que não sufoco, devoro.<br>O que não posso devorar, destruo." },
+    { "gameKey": "dungeon/000/DungeonCrystaltower3_00000#TEXT_DUNGEONCRYSTALTOWER3_00000_CLOUDOFDARKNESS_000_020", "hash": "06C3F33817296ACD", "target": "O pacto é eterno.<br>Todos os mortais diante da inundação de trevas<br>afundarão sem vida no vazio!" }
   ]
 }

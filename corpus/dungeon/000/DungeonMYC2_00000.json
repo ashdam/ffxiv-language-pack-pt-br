@@ -2,9 +2,9 @@
   "conversation": "dungeon/000/DungeonMYC2_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_050", "hash": "22E27798E6FC380F", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_051", "hash": "FCFF993869A32CE8", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MIKOTO_000_052", "hash": "850ECAD677033B47", "target": "" },
-    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_100", "hash": "7E7DFA5AE0F07B2F", "target": "" }
+    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_050", "hash": "22E27798E6FC380F", "target": "Enfim... O poder para retomar o que é meu. O que é <italic(1)>nosso<italic(0)>..." },
+    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_051", "hash": "FCFF993869A32CE8", "target": "A vontade da Rainha Gunnhildr não será negada.<br>Todos os que se opõem a Bozja devem cair." },
+    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MIKOTO_000_052", "hash": "850ECAD677033B47", "target": "Pelos deuses... Ela se tornou um receptáculo para o poder da lâmina!" },
+    { "gameKey": "dungeon/000/DungeonMYC2_00000#TEXT_DUNGEONMYC2_00000_MEESIYA_000_100", "hash": "7E7DFA5AE0F07B2F", "target": "Não... Não, sofremos por tempo demais para terminar assim.<br>Bozja é <italic(1)>nossa<italic(0)>! Se não podemos tê-la, ninguém terá!" }
   ]
 }

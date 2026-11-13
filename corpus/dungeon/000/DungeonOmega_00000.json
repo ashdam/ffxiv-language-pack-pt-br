@@ -2,18 +2,18 @@
   "conversation": "dungeon/000/DungeonOmega_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_000", "hash": "16E2FD2401DA287E", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_NERO_000_010", "hash": "BF4C42D539644321", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_HALICARNASSUS_000_020", "hash": "00F07EC96D73D69B", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_030", "hash": "3BA5A9AF1565A6A5", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_031", "hash": "F5670CF0FD205591", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_032", "hash": "784E447999A7BBEB", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_100", "hash": "4036AF529D547419", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_NERO_000_110", "hash": "A0FCCBE1B3FCF3D2", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_120", "hash": "8C06A22BB80D7334", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_129", "hash": "21C8E571E8CF5AAE", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_130", "hash": "C7E3CFCEDB258238", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_131", "hash": "78BD87F61190B8FB", "target": "" },
-    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_132", "hash": "F040E82F360F14ED", "target": "" }
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_000", "hash": "16E2FD2401DA287E", "target": "(-Cid-)<split(<string(gstr1)>, ,1)>, está me ouvindo? Seu oponente se chama Alte Roite, não faço ideia do que o nome significa, mas boa sorte!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_NERO_000_010", "hash": "BF4C42D539644321", "target": "(-Nero-)Ah, aí está. Catastrophe, um nome adequado para a devastação que sem dúvida vai causar. Divirta-se!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_HALICARNASSUS_000_020", "hash": "00F07EC96D73D69B", "target": "Quem são estes tolos que entraram no meu domínio? Não importa. Ficarão aqui para minha diversão." },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_030", "hash": "3BA5A9AF1565A6A5", "target": "Finalmente, está em minhas mãos! O poder de controlar toda a criação! O poder do vazio!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_031", "hash": "F5670CF0FD205591", "target": "Por quê!? O vazio estava sob meu comando!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_EXDEATH_000_032", "hash": "784E447999A7BBEB", "target": "Como pôde─ Arrrgh!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_100", "hash": "4036AF529D547419", "target": "(-Cid-)<split(<string(gstr1)>, ,1)>, localizamos os dados corretos! Seu oponente parece ser... um trem!? Lá vem ele!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_NERO_000_110", "hash": "A0FCCBE1B3FCF3D2", "target": "(-Nero-)Ah, que ateliê esplêndido! Olhe ao redor. Não faltam coisas onde mergulhar esse pincel!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CID_000_120", "hash": "8C06A22BB80D7334", "target": "(-Cid-)Guardian vai alternar entre uma série de programas de combate. Tente acompanhar o que cada um faz!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_129", "hash": "21C8E571E8CF5AAE", "target": "Eu empunho o maior poder que existe!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_130", "hash": "C7E3CFCEDB258238", "target": "Vocês não passam da sujeira na sola das minhas botas! Ou da sujeira grudada embaixo dessa sujeira!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_131", "hash": "78BD87F61190B8FB", "target": "Vou destruir tudo! Vou criar um monumento à inexistência!" },
+    { "gameKey": "dungeon/000/DungeonOmega_00000#TEXT_DUNGEONOMEGA_00000_CEFCA_000_132", "hash": "F040E82F360F14ED", "target": "Eu perdi!? Como posso perder!?<br>Simplesmente não acredito!" }
   ]
 }

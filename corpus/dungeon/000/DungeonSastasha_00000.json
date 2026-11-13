@@ -2,9 +2,9 @@
   "conversation": "dungeon/000/DungeonSastasha_00000",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_COLIBRI_000_000", "hash": "67C6179957DBABEE", "target": "" },
-    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_000", "hash": "00DF09DB43EC30B0", "target": "" },
-    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_001", "hash": "A31305D4DB8CC432", "target": "" },
-    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_002", "hash": "9491AB83B40E33E6", "target": "" }
+    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_COLIBRI_000_000", "hash": "67C6179957DBABEE", "target": "Intrusos imundos! Intrusos imundos! Crááá!" },
+    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_000", "hash": "00DF09DB43EC30B0", "target": "Vocês foram bem em chegar até aqui... mas vão se arrepender! Meu bichinho de confiança vai transformar vocês em isca de peixe!" },
+    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_001", "hash": "A31305D4DB8CC432", "target": "SOLTEM O KRAKEN!" },
+    { "gameKey": "dungeon/000/DungeonSastasha_00000#TEXT_DUNGEONSASTASHA_00000_MADISON_001_002", "hash": "9491AB83B40E33E6", "target": "Blaaaaaargh!" }
   ]
 }

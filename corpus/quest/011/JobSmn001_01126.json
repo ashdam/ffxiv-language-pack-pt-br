@@ -151,7 +151,7 @@
     { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_SYSTEM_000_206", "hash": "B1BD2F3E18E4F29F", "target": "Para avançar nesta missão, você precisa concluir os objetivos de Navel (Hard)." },
     { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_SYSTEM_000_207", "hash": "89894AF84A0595C6", "target": "Para acessar Navel (Hard), você precisa avançar o suficiente no cenário principal." },
     { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_GEROLT_000_210", "hash": "B87263917C736CF5", "target": "Pelos deuses, tô seco feito osso há seis badaladas. H-hidromel... Só me dê hidromel bastante pra molhar os lábios..." },
-    { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_SYSTEM_000_211", "hash": "88068DFC4ACEDDF6", "target": "Você só pode realizar uma missão “A Relic Reborn” por vez. Se quiser adquirir outra arma relíquia, precisa concluir ou abandonar a missão atual." },
+    { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_SYSTEM_000_211", "hash": "88068DFC4ACEDDF6", "target": "Você só pode realizar uma missão “O renascimento de uma relíquia” por vez. Se quiser adquirir outra arma relíquia, precisa concluir ou abandonar a missão atual." },
     { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_QIB_TODO001", "hash": "67D94CA186F6612E", "target": "Derrote a dhorme chimera" },
     { "gameKey": "quest/011/JobSmn001_01126#TEXT_JOBSMN001_01126_QIB_TODO002", "hash": "F09CFCF8E71B34CE", "target": "Derrote a hydra" }
   ]
