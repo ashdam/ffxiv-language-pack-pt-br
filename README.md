@@ -1,4 +1,4 @@
-> We currently have no Brazilian Portuguese language reviewer on the team. If you are a native Brazilian Portuguese speaker and would like to help review the translation, contact me on Discord: **miniashdam**.
+> We need a native Brazilian Portuguese speaker to review the translation. To help, contact [mini@eorzealocalized.com](mailto:mini@eorzealocalized.com).
 
 # Language pack em português do Brasil para FFXIV (não oficial)
 
