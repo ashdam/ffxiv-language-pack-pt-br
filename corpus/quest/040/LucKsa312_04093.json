@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SEQ_00", "hash": "6D3E521A0E69CF0B", "target": "A Resistência tomou mais um posto avançado, e Dmitar quer levar você até lá." },
-    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "Falar com Dmitar em Western Plateau" },
+    { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_TODO_00", "hash": "E398FD2BC7A36A2D", "target": "Falar com Dmitar no Planalto Oeste" },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_SYSTEM_100_000", "hash": "5D086B04800040AB", "target": "É necessário atingir Resistance Rank <num(lnum1)> para prosseguir nesta missão." },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_000", "hash": "6EC2016D862BD3AA", "target": "Que bom ver você, Lâmina <split(<string(gstr1)>, ,2)>. Vejo que não se acomodou desde nosso último encontro." },
     { "gameKey": "quest/040/LucKsa312_04093#TEXT_LUCKSA312_04093_DMITAR_000_001", "hash": "F57ED53BD6A5D5C3", "target": "Tomamos um novo posto avançado, e uma barreira foi erguida sobre o local há pouco tempo." },

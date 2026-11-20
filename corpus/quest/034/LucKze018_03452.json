@@ -2,9 +2,9 @@
   "conversation": "quest/034/LucKze018_03452",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Este well-meaning mentor gostaria de pedir sua ajuda para resolver uma pendência." },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_SEQ_00", "hash": "EC886AD54A89DB73", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Este mentor bem-intencionado gostaria de pedir sua ajuda para resolver uma pendência." },
     { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_00", "hash": "EEFCB138096D0FF7", "target": "Examinar as áreas indicadas e abater a anêmona se ela aparecer" },
-    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "Entregar o cadáver da anêmona ao well-meaning mentor" },
+    { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_TODO_01", "hash": "8DC129F56532ACE4", "target": "Entregar o cadáver da anêmona ao mentor bem-intencionado" },
     { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_000", "hash": "59A984543190C268", "target": "Vejo que suas viagens trouxeram você de volta a Slitherbough. Chegou em boa hora. Os preparativos para a caça à anêmona estão completos. Se quiser se juntar a mim, sua ajuda será muito bem-vinda." },
     { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_001", "hash": "B59E01B9477366FF", "target": "Ela foi vista pela última vez na região sudoeste do Clérigo. A caçada será difícil, porém, pois foi lá que os Filhos decidiram instalar seu ninho de aranhas." },
     { "gameKey": "quest/034/LucKze018_03452#TEXT_LUCKZE018_03452_MENTOR03452_000_002", "hash": "A6DEDB817A48A80A", "target": "Avance com cuidado e não hesite em abatê-la assim que a vir. Só peço que recolha o cadáver se você a encontrar primeiro." },

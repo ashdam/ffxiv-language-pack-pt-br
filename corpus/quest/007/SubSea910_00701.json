@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_00", "hash": "5B81324DAA516738", "target": "R'ashaht Rhiki sugere que você procure obter um chocobo pessoal." },
-    { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_01", "hash": "6577AAD86D7179B2", "target": "Para obter seu chocobo pessoal, você precisa apresentar uma Storm Chocobo Issuance a Fraegeim. Esse documento pode ser obtido trocando selos de companhia com a storm quartermaster. Tomara que tenha guardado seus selos..." },
+    { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_01", "hash": "6577AAD86D7179B2", "target": "Para obter seu chocobo pessoal, você precisa apresentar uma Storm Chocobo Issuance a Fraegeim. Esse documento pode ser obtido trocando selos de companhia com a intendente da Tempestade. Tomara que tenha guardado seus selos..." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_02", "hash": "C22E0DC0FC113D0D", "target": "Fraegeim traz sua ave, e é amor à primeira vista. Dê um nome ao novo companheiro para oficializar tudo." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_03", "hash": "EF72609191AA0474", "target": "Depois de muito pensar, você decide por um nome digno da mais nobre montaria. Informe Fraegeim para concluir as últimas formalidades." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_SEQ_04", "hash": "B87B36F84818AC0E", "target": "E assim começam as aventuras de <string(gstr1)> e <string(gstr55)>. Que sua amizade dure para sempre!" },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_011", "hash": "ED4F97BBBDA068D5", "target": "Um momento, por favor. Já volto com seu chocobo." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_012", "hash": "E9ACF53C060E6D89", "target": "E aqui está ele! O sujeito anda animadíssimo nas últimas badaladas. Deve ter sentido que <if(gnum4,sua dona,seu dono)> estava chegando!" },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_013", "hash": "03E79E65B1591EA7", "target": "Bem, agora, para oficializar tudo, precisa dar um nome à sua nobre montaria." },
-    { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_020", "hash": "5C7FD69E0306497B", "target": "Quer receber uma ave, é? Então preciso ver sua Storm Chocobo Issuance. Pode obter uma com a storm quartermaster, lá no Comando do Maelstrom." },
+    { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_020", "hash": "5C7FD69E0306497B", "target": "Quer receber uma ave, é? Então preciso ver sua Storm Chocobo Issuance. Pode obter uma com a intendente da Tempestade, lá no Comando do Maelstrom." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_021", "hash": "55341B13C3DBB6E5", "target": "É claro que precisará trocar Storm Seals por ela. Pode ganhá-los cumprindo tarefas para o Maelstrom, a Grande Companhia de Limsa Lominsa." },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_CHOCOBO_000", "hash": "E22E8438B3275B16", "target": "Kweh!" },
     { "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Fraegeim_030", "hash": "1B69A1035267E01F", "target": "Bem, agora, para oficializar tudo, precisa dar um nome à sua nobre montaria." },

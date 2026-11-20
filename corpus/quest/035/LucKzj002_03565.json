@@ -2,10 +2,10 @@
   "conversation": "quest/035/LucKzj002_03565",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_SEQ_00", "hash": "830D1C8C878CDBBE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Bethden costuma se preocupar com o bem-estar dos visitantes de Cabinet of Curiosity, e com você não é diferente." },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_SEQ_00", "hash": "830D1C8C878CDBBE", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Bethden costuma se preocupar com o bem-estar dos visitantes do Gabinete de Curiosidades, e com você não é diferente." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_00", "hash": "FA0CC1EE15C3794C", "target": "Falar com Fae-Hann na Spagyrics" },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_01", "hash": "611F93E661697EA9", "target": "Beber o xarope sombrio diante de Fae-Hann" },
-    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Falar com Bethden em Cabinet of Curiosity" },
+    { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_TODO_02", "hash": "E770C81A0E5F5677", "target": "Falar com Bethden no Gabinete de Curiosidades" },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_000", "hash": "40614AEAFFC5BF81", "target": "Nossa. Você está terrivelmente <if(gnum4,pálida,pálido)>, e eu conheço estudiosos que não põem o pé na rua há semanas, então sei do que estou falando. Por favor, vá à Spagyrics sem demora." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_001", "hash": "8643F85C657B7F11", "target": "Antes que proteste, saiba que já disse o mesmo ao Exarca de Cristal muitas vezes, e... basta dizer que ele aprendeu a ouvir." },
     { "gameKey": "quest/035/LucKzj002_03565#TEXT_LUCKZJ002_03565_BETHDEN_000_002", "hash": "E9CB7FBCAB5FCC13", "target": "Não pode esperar ajudar os outros se nem consegue cuidar de si. Agora, vá falar com Fae-Hann antes que eu me irrite com você." },

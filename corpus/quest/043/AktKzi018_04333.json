@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_SEQ_00", "hash": "95989566B54BE8C4", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O operador do reator está com uma expressão muito impaciente." },
-    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_TODO_00", "hash": "846FB08394A5FAE9", "target": "Encontrar o seedkin gleaner" },
-    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_TODO_01", "hash": "0694E43B193C4C5E", "target": "Falar com o elemental reactor operator" },
+    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_TODO_00", "hash": "846FB08394A5FAE9", "target": "Encontrar o coletor de seres vegetais" },
+    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_TODO_01", "hash": "0694E43B193C4C5E", "target": "Falar com o operador do reator elemental" },
     { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_000", "hash": "FB1C7A2B20C9989D", "target": "Com licença, pode me dar um instante? Estou procurando uma pessoa e esperava que pudesse ajudar." },
-    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_001", "hash": "FE4841A060938F80", "target": "Eu deveria receber duas feras capturadas em Saint Mocianne's Arboretum, mas o coletor encarregado da entrega ainda não apareceu, e já estou cansado de esperar." },
+    { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_001", "hash": "FE4841A060938F80", "target": "Eu deveria receber duas feras capturadas no Arboreto de Santa Mocianne, mas o coletor encarregado da entrega ainda não apareceu, e já estou cansado de esperar." },
     { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_002", "hash": "31913C1C22985903", "target": "Tentei falar com ele pela linkpearl, mas não consegui. Estou tentado a sair para procurá-lo, mas... e se ele chegar e eu não estiver aqui? Então, pode encontrar esse coletor por mim?" },
     { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_003", "hash": "390E8B6D2E3AF516", "target": "Obrigado. Deve ser relativamente fácil identificá-lo, imagino, já que está viajando com duas criaturas vegetais cobertas de lama." },
     { "gameKey": "quest/043/AktKzi018_04333#TEXT_AKTKZI018_04333_REACTORSTAFF04333_000_004", "hash": "862A8305ADC9F5C1", "target": "Procure primeiro a oeste daqui. Vou verificar os arredores, só para garantir que ele não está logo na esquina ou algo assim. Se o encontrar antes de mim, volte logo, sim?" },

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_SEQ_00", "hash": "ACD4186222D77067", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O velho minerador olha fixamente para você, apertando os olhos." },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_00", "hash": "1A6C3103B15A2798", "target": "Procurar os mineradores" },
-    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_01", "hash": "469AABA6C827D630", "target": "Relatar ao elderly miner" },
+    { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_TODO_01", "hash": "469AABA6C827D630", "target": "Relatar ao minerador idoso" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_000", "hash": "2E85C99BD96556F4", "target": "Ei, você! <if(gnum4,Novata,Novato)>! Onde estão os outros?" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_001", "hash": "7CD4959398E875FF", "target": "Não tente me fazer de idiota, sei o que estão aprontando. Coisa boa é que não é! Acham que vou pagar para fugirem do trabalho? Bah!" },
     { "gameKey": "quest/034/LucKzg010_03495#TEXT_LUCKZG010_03495_MINEROLD03495_000_002", "hash": "61DD4D624FD2BEC9", "target": "Vá buscar essa gente, pode ser? Está na hora de uma boa bronca!" },

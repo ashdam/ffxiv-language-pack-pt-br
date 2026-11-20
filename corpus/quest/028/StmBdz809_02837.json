@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_SEQ_00", "hash": "F53B851217F3647C", "target": "Zuzudesu precisa de <if(gnum4,uma aventureira,um aventureiro)> para fazer o que sabe de melhor." },
-    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_00", "hash": "2EC0AAD58B1D5CFF", "target": "Procurar e derrotar os Qiqirn meatcarriers perto de Specula Imperatoris" },
+    { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_00", "hash": "2EC0AAD58B1D5CFF", "target": "Procurar e derrotar os carregadores de carne Qiqirn perto de Specula Imperatoris" },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_01", "hash": "DDCBC24F97247BF4", "target": "Obter as mercadorias roubadas" },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_TODO_02", "hash": "E5AC16820FE3CCA4", "target": "Entregar as mercadorias roubadas a Zuzudesu" },
     { "gameKey": "quest/028/StmBdz809_02837#TEXT_STMBDZ809_02837_ZUZUDESU_000_000", "hash": "B8C4C57D8180F41A", "target": "Hmmm... Sim, sim, você serve muito bem." },

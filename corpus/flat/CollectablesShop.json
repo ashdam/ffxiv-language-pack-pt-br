@@ -2,12 +2,12 @@
   "sheet": "CollectablesShop",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "CollectablesShop#3866625", "hash": "6E8AAC68A00EB83F", "target": "" },
-    { "gameKey": "CollectablesShop#3866626", "hash": "626D0FA516EB4A8D", "target": "" },
-    { "gameKey": "CollectablesShop#3866627", "hash": "2416A6654E9F5D9E", "target": "" },
-    { "gameKey": "CollectablesShop#3866628", "hash": "03468F5CD90822E3", "target": "" },
-    { "gameKey": "CollectablesShop#3866629", "hash": "9C77F365B1A2A3AF", "target": "" },
-    { "gameKey": "CollectablesShop#3866630", "hash": "9C76453C152AAF11", "target": "" },
-    { "gameKey": "CollectablesShop#3866631", "hash": "589428D3737FABEC", "target": "" }
+    { "gameKey": "CollectablesShop#3866625", "hash": "6E8AAC68A00EB83F", "target": "Troca de Materiais Estranhamente Específicos (Fabricação)" },
+    { "gameKey": "CollectablesShop#3866626", "hash": "626D0FA516EB4A8D", "target": "Entrega de colecionáveis" },
+    { "gameKey": "CollectablesShop#3866627", "hash": "2416A6654E9F5D9E", "target": "●Recolhimento de colecionáveis" },
+    { "gameKey": "CollectablesShop#3866628", "hash": "03468F5CD90822E3", "target": "Troca de Materiais Estranhamente Delicados" },
+    { "gameKey": "CollectablesShop#3866629", "hash": "9C77F365B1A2A3AF", "target": "Troca de Materiais Resplandecentes Obsoletos" },
+    { "gameKey": "CollectablesShop#3866630", "hash": "9C76453C152AAF11", "target": "Troca de Materiais Resplandecentes" },
+    { "gameKey": "CollectablesShop#3866631", "hash": "589428D3737FABEC", "target": "Troca de Mercadorias" }
   ]
 }

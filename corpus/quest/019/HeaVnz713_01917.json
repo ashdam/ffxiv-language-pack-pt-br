@@ -6,7 +6,7 @@
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_01", "hash": "52455187D8D7E21B", "target": "Aanu Vanu conta sobre os totens amaldiçoados no Cromeleque. Destrua quatro antes que as trevas que anunciam recaiam sobre os Vanu Vanu de Ok' Zundu." },
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_02", "hash": "87821799F2C0BA74", "target": "Após enfrentar sua fúria, os totens amaldiçoados não passam de lascas de madeira. Volte a Aanu Vanu e conte que o serviço está feito." },
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_SEQ_03", "hash": "86501FB82DB50B63", "target": "Depois de ouvir sobre sua destruição bem-sucedida, Aanu Vanu explica que os totens eram usados em encantamentos sombrios, maculando a memória dos ancestrais Vanu Vanu que deveriam homenagear. Deixar esses atos impunes traria má sorte à tribo Zundu." },
-    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "Destruir Vundu totems" },
+    { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_00", "hash": "9FFB129778251239", "target": "Destruir totens dos Vundu" },
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_TODO_01", "hash": "D9C84C60727C6679", "target": "Informar Aanu Vanu" },
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_000", "hash": "26F1D58B82B892D3", "target": "Ventos sombrios trazem maus presságios para tribo Zundu. <if(gnum4,A de baixo,O de baixo)> precisa ajudar!" },
     { "gameKey": "quest/019/HeaVnz713_01917#TEXT_HEAVNZ713_01917_AANUVANU_000_001", "hash": "61154313E4FFE257", "target": "No Cromeleque ficam totens amaldiçoados. Destrua quatro para afastar má sorte que anunciam." },

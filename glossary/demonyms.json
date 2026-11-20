@@ -25,6 +25,19 @@
     {"en":"Doman","pt-br":"domano","forms":["domana","domanos","domanas"]},
     {"en":"Garlean","fr":"garlemaldais","ja":"ガレマール","pt-br":"garleano","forms":["garleana","garleanos","garleanas"],"note":"«o Império Garleano»; Garlemald fica."},
     {"en":"Gridanian","pt-br":"gridaniano","forms":["gridaniana","gridanianos","gridanianas"]},
-    {"en":"Ul'dahn","pt-br":"uldahno","forms":["uldahna","uldahnos","uldahnas"]}
+    {"en":"Ul'dahn","pt-br":"uldahno","forms":["uldahna","uldahnos","uldahnas"]},
+    {"pt-br":"nosceano","forms":["nosceana","nosceanos","nosceanas"],"en":"La Noscean"},
+    {"pt-br":"belahdiano","en":"Belah'dian","forms":["belahdiana","belahdianos","belahdianas"]},
+    {"en":"Amaurotine","pt-br":"amaurotino","forms":["amaurotina","amaurotinos","amaurotinas"]},
+    {"en":"Alexandrian","pt-br":"alexandrino","forms":["alexandrina","alexandrinos","alexandrinas"],"note":"Gentílico de Alexandria. Usar de Alexander para máquinas e equipamentos da incursão."},
+    {"en":"Coerthan","pt-br":"coerthano","forms":["coerthana","coerthanos","coerthanas"]},
+    {"en":"Abalathian","pt-br":"abalathiano","forms":["abalathiana","abalathianos","abalathianas"]},
+    {"en":"Nagxian","pt-br":"nagxiano","forms":["nagxiana","nagxianos","nagxianas"]},
+    {"en":"Eorzean","fr":"éorzéen","ja":"エオルゼア","pt-br":"eorzeano","forms":["eorzeana","eorzeanos","eorzeanas"],"note":"Eorzea fica; «a Aliança Eorzeana»."},
+    {"en":"Allagan","fr":"allagois","ja":"アラグ","pt-br":"alagano","forms":["alagana","alaganos","alaganas"],"note":"Gentílico em minúscula e com um l: «ruínas alaganas». Allag fica."},
+    {"en":"Dravanian","fr":"dravanien","ja":"ドラヴァニア","pt-br":"dravaniano","forms":["dravanianos","dravaniana","dravanianas","Dravaniana"],"note":"«a Horda Dravaniana». Dravania fica."},
+    {"en":"Hannish","pt-br":"hanês","forms":["hanesa","haneses","hanesas"],"note":"Feminino hanesa; manter o gentílico, sem substituir por Radz-at-Han."},
+    {"en":"Thavnairian","pt-br":"thavnairiano","forms":["thavnairiana","thavnairianos","thavnairianas"],"note":"Feminino thavnairiana; não substituir Hannish por este gentílico."},
+    {"en":"Mhigans","pt-br":"ala-mhiganos","forms":["ala-mhiganas","mhiganos"],"note":"Forma abreviada de Ala Mhigan. Usar mhiganos quando a abreviação fizer parte da fala."}
   ]
 }

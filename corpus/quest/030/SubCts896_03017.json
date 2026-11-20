@@ -25,7 +25,7 @@
     { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SWYRGEIM_000_045", "hash": "CA04F24C57087174", "target": "Lembre-se: quando quiser mudar, você não precisa continuar com a mesma ilusão. Basta aplicar outra por cima ou usar um glamour dispeller para devolver ao objeto a aparência original." },
     { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SWYRGEIM_000_046", "hash": "3C15FD0C5BF59830", "target": "Por que sacrificar o estilo por banalidades tão sem graça como “durabilidade” ou “proteção contra ferimentos”? Possibilidades infinitas de se expressar estão a apenas algumas ilusões de distância!" },
     { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SWYRGEIM_000_047", "hash": "FF90EB32A8F5C58B", "target": "Vá em frente, experimente! E faça isso depressa, <if(gnum4,querida,querido)>, por minha causa. Suas roupas sem inspiração me ofendem mais a cada instante." },
-    { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SYSTEM_000_050", "hash": "7DFD7CF47280C87E", "target": "O Glamour Dresser dos quartos das hospedarias já está disponível." },
+    { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SYSTEM_000_050", "hash": "7DFD7CF47280C87E", "target": "As penteadeiras de Glamour dos quartos das hospedarias já estão disponíveis." },
     { "gameKey": "quest/030/SubCts896_03017#TEXT_SUBCTS896_03017_SYSTEM_000_051", "hash": "89BB7E1346245137", "target": "Você pode usar essas cômodas para transformar itens em ilusões e criar conjuntos prontos para usar com rapidez e facilidade." }
   ]
 }

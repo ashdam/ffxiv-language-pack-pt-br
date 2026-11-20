@@ -3,11 +3,11 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_SEQ_00", "hash": "295F638ECDF8426C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lethenmaer está farto de ladrões sem-vergonha." },
-    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_00", "hash": "5A9313B5C72D3563", "target": "Falar com o well-armed larcener e se defender, se necessário" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_00", "hash": "5A9313B5C72D3563", "target": "Falar com o ladrão bem armado e se defender, se necessário" },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_01", "hash": "5848D3FA9F866D65", "target": "Recuperar uma arma furtada" },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_02", "hash": "226B1A182EAA5D2F", "target": "Entregar uma arma furtada a Lethenmaer" },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_000", "hash": "11CCBC88506B417B", "target": "Você deve ser a pessoa que Lyna mencionou. Ela disse que você luta muito bem. Tenho um trabalho para você, se tiver interesse." },
-    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_001", "hash": "9DD2A5F9C8A075DC", "target": "Um bando de vagabundos anda causando problemas em Dampsole. Pior ainda, estão armados com o mesmo equipamento que usamos." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_001", "hash": "9DD2A5F9C8A075DC", "target": "Um bando de vagabundos anda causando problemas em Sola Úmida. Pior ainda, estão armados com o mesmo equipamento que usamos." },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_002", "hash": "3FDDC578BF13654F", "target": "Não sabemos ao certo se foi roubado de Imperative ou se alguém dos nossos vendeu debaixo do nosso nariz. Seja qual for a causa, precisamos esclarecer isso." },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_003", "hash": "98A4EC9965DC55E8", "target": "Quero que localize as armas roubadas e me traga uma como prova. Meus homens recolherão o resto depois. E, se aqueles ladrões desgraçados tentarem alguma coisa, faça o que for necessário para se defender." },
     { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_010", "hash": "E5AEEF4B26292B1A", "target": "Só preciso ver uma delas por enquanto, já que duvido que consiga carregar um arsenal inteiro sem ajuda. Ou consegue?" },

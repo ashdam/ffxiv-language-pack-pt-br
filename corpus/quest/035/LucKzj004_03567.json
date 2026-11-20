@@ -2,9 +2,9 @@
   "conversation": "quest/035/LucKzj004_03567",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_SEQ_00", "hash": "12C5CEC151964F01", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O drill instructor está preocupado com um de seus novos recrutas." },
-    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_00", "hash": "1CE4CF2333CFF8FC", "target": "Dar o sanduíche de consolo ao novice guard na Sweetsieve" },
-    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_01", "hash": "9AC6A4E483120DE9", "target": "Falar com o drill instructor na Ballistics" },
+    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_SEQ_00", "hash": "12C5CEC151964F01", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O instrutor militar está preocupado com um de seus novos recrutas." },
+    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_00", "hash": "1CE4CF2333CFF8FC", "target": "Dar o sanduíche de consolo ao guarda novato na Sweetsieve" },
+    { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_TODO_01", "hash": "9AC6A4E483120DE9", "target": "Falar com o instrutor militar na Ballistics" },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_000", "hash": "DB051B4A9754C059", "target": "Talvez um sanduíche... Todo mundo gosta de sanduíches..." },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_001", "hash": "FA52135BFB1EB738", "target": "Ah! Mas é <if(gnum4,a Guerreira,o Guerreiro)> das Trevas! Que hora mais oportuna." },
     { "gameKey": "quest/035/LucKzj004_03567#TEXT_LUCKZJ004_03567_PLATOONLEADER03567_000_002", "hash": "711472447693E471", "target": "Estou preocupado com um dos nossos recrutas. Ele morava em Holminster Switch e, depois do ataque, decidiu se alistar para proteger melhor as pessoas que ama..." },

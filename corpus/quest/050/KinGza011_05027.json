@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_SEQ_00", "hash": "0D05FAAC7BD360A3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Faltam uma ou duas alpacas no rebanho do tratador experiente." },
-    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_00", "hash": "1FC1DAEB118E0E68", "target": "Usar /soothe nas absconding alpacas" },
-    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_01", "hash": "8C6E3AE1F14AA980", "target": "Falar com o savvy stable master" },
+    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_00", "hash": "1FC1DAEB118E0E68", "target": "Usar /soothe nas alpacas fugitivas" },
+    { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_TODO_01", "hash": "8C6E3AE1F14AA980", "target": "Falar com a mestra dos estábulos perspicaz" },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_001", "hash": "785765BFFB6DCA29", "target": "Você é <split(<string(gstr1)>, ,1)>, não é? Ouvi falar da sua afinidade com as alpacas! Meu primo trabalha no rancho de Wachunpelo e não poupou elogios." },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_002", "hash": "10F623419F41A7F2", "target": "Por acaso, preciso dos seus talentos. Parte do rebanho escapou no ataque à cidade outro dia. Consegui reunir a maioria, mas ainda faltam duas." },
     { "gameKey": "quest/050/KinGza011_05027#TEXT_KINGZA011_05027_PERUPERU05027_000_003", "hash": "B507C9866085D433", "target": "Ninguém as viu saindo pelos portões, então acho seguro supor que se escondem dentro das muralhas. O que me diz? Pode recolher essas duas desgarradas?" },

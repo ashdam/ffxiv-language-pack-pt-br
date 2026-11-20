@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_SEQ_00", "hash": "A5AFAA03BB731000", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Radiant Host captain procura alguém para ajudá-la em seus deveres." },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_TODO_00", "hash": "7C2D4741FD074C4D", "target": "Falar com a Radiant Host captain" },
-    { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_TODO_01", "hash": "CCDE835F21EAB583", "target": "Investigar a área ao sul de Palaka's Stand" },
+    { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_TODO_01", "hash": "CCDE835F21EAB583", "target": "Investigar a área ao sul do Reduto de Palaka" },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_TODO_02", "hash": "D8D21FF83743E8AC", "target": "Informar a Radiant Host captain" },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_TODO_03", "hash": "B10273EA976AF0A9", "target": "Entregar a estatueta Manusya à Radiant Host captain" },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_000", "hash": "F826A2DEFFE99838", "target": "Sei que estamos cercados de monstros, feras e coisas piores, mas, se você tiver um pingo de força para dar, peço sua ajuda. Preciso de uma alma corajosa para ajudar a patrulhar a região em busca de refugiados perdidos." },
@@ -20,7 +20,7 @@
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_RESIDENTS04259_000_014", "hash": "A0D0703105DE9177", "target": "Se a Hoste Radiante está cuidando de nós, não há o que temer." },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_015", "hash": "918454160DA7345E", "target": "Que bom que voltou. Já soube de seu nobre feito. Permita-me agradecer por proteger quem nós não conseguimos." },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_RESIDENTS04259_000_016", "hash": "8A39965560A40D44", "target": "Eu também agradeço. Sem você, eu não passaria de comida para as feras." },
-    { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_017", "hash": "9314702C86EF7B17", "target": "Você mais do que merece uma recompensa pelo seu tempo. Fale comigo de novo em Palaka's Stand, e vou garantir que a receba." },
+    { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_017", "hash": "9314702C86EF7B17", "target": "Você mais do que merece uma recompensa pelo seu tempo. Fale comigo de novo no Reduto de Palaka, e vou garantir que a receba." },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_020", "hash": "CD39813DDD224ED4", "target": "Temos muito trabalho pela frente, e cada vida que conseguimos salvar é preciosa. Só encontrei pertences abandonados e bagagens espalhadas na patrulha. Você achou mais alguma coisa digna de nota?" },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_021", "hash": "DECA94164E47B53E", "target": "Hmm, reconheço esta figura. Sem dúvida você deve estar se perguntando o que ela representa." },
     { "gameKey": "quest/042/AktKzf004_04259#TEXT_AKTKZF004_04259_CAPTAIN04259_000_022", "hash": "C778FE81F7243CBB", "target": "Uma lenda conta que uma deusa Manusya buscou a força dos Mrga, arrancou a própria cabeça e a substituiu pela cabeça bestial de um Mrga." },

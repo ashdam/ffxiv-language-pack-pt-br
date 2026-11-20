@@ -15,7 +15,7 @@
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_01", "hash": "FE087131B972D288", "target": "Resgatar Nayoshi" },
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_02", "hash": "95EC1385BBC2AF26", "target": "Falar com Nayoshi e derrotar a fera" },
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_03", "hash": "69FC9E70A50AA04C", "target": "Falar com Nayoshi" },
-    { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_04", "hash": "E06F68D0966D66C8", "target": "Falar com o veteran fisherman" },
+    { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_04", "hash": "E06F68D0966D66C8", "target": "Falar com o pescador veterano" },
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_05", "hash": "BECD89959B11B6D4", "target": "Falar com o agile fisherman" },
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_TODO_06", "hash": "420E3CE5BDFB2949", "target": "Entregar a isca artificial de madeira a Nayoshi" },
     { "gameKey": "quest/027/StmBdz324_02720#TEXT_STMBDZ324_02720_NAYOSHI_000_000", "hash": "95AA67F5A475775F", "target": "Então vai me ajudar? De verdade? Obrigado, <if(gnum4,Senhora,Mestre)> <split(<string(gstr1)>, ,2)>!" },

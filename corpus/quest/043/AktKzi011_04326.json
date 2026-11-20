@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_SEQ_00", "hash": "DDBB02798E8D4739", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Fjola procura alguém com jeito para cultivar plantas e gosto por castigá-las." },
-    { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_TODO_00", "hash": "8F63AD3DD5BBF1EB", "target": "Usar o saco grosso de estopa para capturar um stray tomato enfraquecido" },
+    { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_TODO_00", "hash": "8F63AD3DD5BBF1EB", "target": "Usar o saco grosso de estopa para capturar um tomate desgarrado enfraquecido" },
     { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_TODO_01", "hash": "AE4F2E2E3D627C66", "target": "Entregar o stray tomato a Fjola" },
     { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_FJOLA_000_000", "hash": "D59BEBD74F82EB69", "target": "Nossa, os caminhos de Thaliak são tão misteriosos quanto providenciais! Imagine, <if(gnum4,uma mulher tão robusta,um homem tão robusto)> aparecer diante de mim na hora em que mais preciso. Se isso não é intervenção divina, não sei o que é." },
     { "gameKey": "quest/043/AktKzi011_04326#TEXT_AKTKZI011_04326_FJOLA_000_001", "hash": "AE0DD56284F94764", "target": "Enfrento uma provação para a qual não estou à altura, nem jamais estarei. Ela envolve capturar meus inimigos mais temidos: \\<ânsia> tomates. Está vendo? Mal consigo dizer o nome dessas feras vis sem sentir o estômago revirar!" },

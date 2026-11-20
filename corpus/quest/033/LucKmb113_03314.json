@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_SEQ_00", "hash": "605DAEA79F0E57FA", "target": "Wyd Aenc fareja em sua direção, na expectativa." },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_TODO_00", "hash": "BD17AD9E6F1EAFBD", "target": "Falar com Marn Ose" },
-    { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_TODO_01", "hash": "35E78EC13472D911", "target": "Abater moss fungi para obter suas pernas" },
+    { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_TODO_01", "hash": "35E78EC13472D911", "target": "Abater fungos musgosos para obter suas pernas" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_TODO_02", "hash": "99CD714495B63981", "target": "Entregar as pernas de moss fungus a Marn Ose" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_THANCRED_000_000", "hash": "9752ED55D4F72E62", "target": "A ideia de receber ajuda é boa. A questão é se podemos oferecer uma recompensa à altura." },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_RYNE_000_005", "hash": "51F9CAA56D5EF5B9", "target": "Com o que preciso de ajuda? Hmmm..." },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_031", "hash": "1F1A7B7E227B1C0A", "target": "Uaaaaaah! Quem... O quê... Onde... Espere, você é... é <italic(1)>mortal<italic(0)>!? Viva! Viva!" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_032", "hash": "BA8D25133983043A", "target": "Que bom conhecer você! Sim, muito bom mesmo! Tem armas e armaduras velhas e gastas que ameaçam se desmanchar nos momentos decisivos da batalha?" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_033", "hash": "161803F2E99C58E0", "target": "Se a resposta é sim, encontrou o Nu Mou certo! Deixarei seu equipamento como novo em troca de um par de pernas de moss fungus!" },
-    { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_034", "hash": "AE03C6DE49D98917", "target": "Os moss fungi perambulam logo ali, fora da caverna. Por favor, por favor, <italic(1)>por favor<italic(0)>, traga-me as pernas deles e conceda-me seu patrocínio!" },
+    { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_034", "hash": "AE03C6DE49D98917", "target": "Os fungos musgosos perambulam logo ali, fora da caverna. Por favor, por favor, <italic(1)>por favor<italic(0)>, traga-me as pernas deles e conceda-me seu patrocínio!" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_040", "hash": "6CFA1B650C673270", "target": "Conseguiu as pernas de moss fungus? Traga-as para mim e deixarei seu equipamento como novo!" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_050", "hash": "0620FBD03356FF15", "target": "Ah, você voltou! Espero que com as pernas de moss fungus!" },
     { "gameKey": "quest/033/LucKmb113_03314#TEXT_LUCKMB113_03314_MARNOSE_000_051", "hash": "B9E344F90FD6856E", "target": "Caso esteja se perguntando, são ferramentas do meu ofício. Servem para polir tanto metal quanto couro, deixando um brilho reluzente. Agora que tenho trabalho outra vez, preciso repor meu estoque!" },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_SEQ_00", "hash": "88440B619F5ADB8A", "target": "Zukin encontrou uma nova utilidade para baús velhos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
-    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "Examinar octopus traps perto de <italic(1)>Adventure<italic(0)> e obter um polvo" },
+    { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_00", "hash": "A1DBD769ECED59B0", "target": "Examinar armadilhas para polvos perto da <italic(1)>Aventura<italic(0)> e obter um polvo" },
     { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_TODO_01", "hash": "20F6B6091EC4E3DA", "target": "Entregar o polvo koromo gigante a Zukin" },
     { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_000", "hash": "F34E40B271C836F8", "target": "Tínhamos alguns baús de tesouro velhos largados por aí, juntando poeira. Com um pouco de criatividade, consegui transformá-los em armadilhas para polvos. E funcionam muito bem, se me permite o elogio a mim mesmo." },
     { "gameKey": "quest/030/BanKjn604_03000#TEXT_BANKJN604_03000_ZUKIN_000_001", "hash": "81F47512D4FFAA0A", "target": "Agora, quero presentear o bom pessoal de Kokajiya com uma pesca fresquinha. Eu ficaria grato se você fosse examinar as armadilhas." },

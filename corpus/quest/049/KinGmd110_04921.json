@@ -6,7 +6,7 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_00", "hash": "9D02A88A95B754B1", "target": "Examinar o soldado caído" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_01", "hash": "394C449709F98B5F", "target": "Falar com Alisaie" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_02", "hash": "D65FB970EC840710", "target": "Falar com Alisaie" },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_03", "hash": "B7E7AC50637BD313", "target": "Falar com Wuk Lamat em Sunperch" },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_03", "hash": "B7E7AC50637BD313", "target": "Falar com Wuk Lamat no Poleiro do Sol" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_001", "hash": "7817E8D4B0CB4259", "target": "Claramente não é uma pessoa, mas não parece nenhum autômato ou arma magitek que já vi." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_002", "hash": "08FB00700ADA4A47", "target": "Mas, depois de viajar tanto, talvez você tenha visto algo parecido." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_003", "hash": "4E7F7A939049D011", "target": "Pode examinar melhor? Talvez revele pistas sobre os novos poderes de Zoraal Ja." },
@@ -21,13 +21,13 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_015", "hash": "3A199E410E36ED63", "target": "Agora está completamente inerte, bem diferente do inimigo implacável em batalha..." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_016", "hash": "0EC5E210D42BA37B", "target": "Até o material é um mistério. Parece mais pedra que metal... Espere. Não vimos isso em algum lugar recentemente?" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_Q1_000_000", "hash": "83614393C5E7AEC2", "target": "O que você vai dizer?" },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_000_001", "hash": "A8EE63F5B6B30634", "target": "Sim, no Skydeep Cenote." },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_000_001", "hash": "A8EE63F5B6B30634", "target": "Sim, no Cenote das Profundezas Celestes." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_000_002", "hash": "7682A7E260C33555", "target": "O palácio também é de pedra!" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_018", "hash": "24539B4E5BA26FAF", "target": "Isso! A pedra brilhante da câmara com o portão da cidade dourada!" },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_019", "hash": "A99BD6E5BECC81F8", "target": "Ah, sim, com certeza. Mas não se parece com o material desta máquina." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_020", "hash": "7776FC6F96E169C5", "target": "A pedra dela é lisa e brilha, como a que vimos na câmara do portão da cidade dourada." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_021", "hash": "7C8FD36328F1CF96", "target": "E, embora os soldados tenham outra cor, os navios são negros como a pedra do próprio portão." },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_022", "hash": "FE4B08516ADB4A59", "target": "Deve haver uma ligação. Vamos contar aos outros em Sunperch." },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_022", "hash": "FE4B08516ADB4A59", "target": "Deve haver uma ligação. Vamos contar aos outros no Poleiro do Sol." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_023", "hash": "6177BEDD8A2B445D", "target": "Quanto antes resolvermos este mistério, melhor." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_025", "hash": "D0FFF7DC4FE515B1", "target": "Primeiro achei que fossem soldados de armadura. Mas, quando os derrubei, ficou claro que não." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_030", "hash": "142D695FA7A35246", "target": "Parece que todos já chegaram." },
@@ -40,6 +40,6 @@
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ERENVILLE_000_070", "hash": "3B4F31B098CB5138", "target": "Por favor, esteja bem..." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_WUKLAMAT_000_090", "hash": "759433F5BAC64129", "target": "Agora sei o que preciso fazer." },
     { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SUNPERCHGATEKEEPER_000_100", "hash": "D0122BB961623488", "target": "O Voto Wuk Lamat e os outros esperam você. Por aqui." },
-    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_101", "hash": "550C961598AE9F70", "target": "Entrar em Sunperch?" }
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_101", "hash": "550C961598AE9F70", "target": "Entrar no Poleiro do Sol?" }
   ]
 }

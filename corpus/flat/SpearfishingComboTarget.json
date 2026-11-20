@@ -2,14 +2,14 @@
   "sheet": "SpearfishingComboTarget",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "SpearfishingComboTarget#900.0", "hash": "9243C9E544785837", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#900.1", "hash": "B40DDDE27BD600D3", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#900.2", "hash": "F71B392DA9FB6F80", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.0", "hash": "F512A07B6220BFCF", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.1", "hash": "915EEE08DD583C1E", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#917.2", "hash": "8F9AC328692E01AD", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.0", "hash": "8633C9F5FADD8DC9", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.1", "hash": "A8095B9B83A72FE4", "target": "" },
-    { "gameKey": "SpearfishingComboTarget#1013.2", "hash": "40B9A07F1608B69D", "target": "" }
+    { "gameKey": "SpearfishingComboTarget#900.0", "hash": "9243C9E544785837", "target": "Você avista um brilho de safira nas águas próximas." },
+    { "gameKey": "SpearfishingComboTarget#900.1", "hash": "B40DDDE27BD600D3", "target": "O brilho de safira tremeluz e desaparece..." },
+    { "gameKey": "SpearfishingComboTarget#900.2", "hash": "F71B392DA9FB6F80", "target": "Você vislumbra o brilho de safira mais uma vez!" },
+    { "gameKey": "SpearfishingComboTarget#917.0", "hash": "F512A07B6220BFCF", "target": "Você sente os movimentos de um predador inesperado!" },
+    { "gameKey": "SpearfishingComboTarget#917.1", "hash": "915EEE08DD583C1E", "target": "O predador parece ter ido embora..." },
+    { "gameKey": "SpearfishingComboTarget#917.2", "hash": "8F9AC328692E01AD", "target": "O predador deu a volta e retornou!" },
+    { "gameKey": "SpearfishingComboTarget#1013.0", "hash": "8633C9F5FADD8DC9", "target": "Um vulto escarlate sobe das profundezas!" },
+    { "gameKey": "SpearfishingComboTarget#1013.1", "hash": "A8095B9B83A72FE4", "target": "O vulto escarlate parece se dissipar..." },
+    { "gameKey": "SpearfishingComboTarget#1013.2", "hash": "40B9A07F1608B69D", "target": "O vulto escarlate surge mais uma vez!" }
   ]
 }

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_SEQ_00", "hash": "FF92D3D56A00996D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dickon está ocupado no Último Bastião." },
-    { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_TODO_00", "hash": "0A920CB135B851A6", "target": "Entregar os sanduíches de salada ao distinguished Lalafell" },
+    { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_TODO_00", "hash": "0A920CB135B851A6", "target": "Entregar os sanduíches de salada ao Lalafell distinto" },
     { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_TODO_01", "hash": "CEF2CB3A6A2B3529", "target": "Falar com Dickon" },
     { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_DICKON_000_000", "hash": "585D6141235510D5", "target": "Boas-vindas! O que vai querer hoje?" },
     { "gameKey": "quest/043/AktKzi004_04319#TEXT_AKTKZI004_04319_DICKON_000_001", "hash": "D93082D5C8B12495", "target": "Ah, é você, <split(<string(gstr1)>, ,1)>." },

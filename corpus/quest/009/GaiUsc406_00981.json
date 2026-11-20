@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_00", "hash": "BB99FCC030CE381E", "target": "Sor Pierremons quer contar a você o que sabe sobre os dois fugitivos." },
-    { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_01", "hash": "493BB3537A433B13", "target": "Na entrada de Aurum Vale, Sor Pierremons confirma que dois prisioneiros escaparam da aeronave quando ela fez o pouso forçado. Tudo indica que a dupla veio nesta direção. Examine a área em busca de pegadas." },
+    { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_01", "hash": "493BB3537A433B13", "target": "Na entrada do Vale de Aurum, Sor Pierremons confirma que dois prisioneiros escaparam da aeronave quando ela fez o pouso forçado. Tudo indica que a dupla veio nesta direção. Examine a área em busca de pegadas." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_02", "hash": "66993A91F7EBCA9C", "target": "Você achou um conjunto de pegadas. Examine a área em busca de outro." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_03", "hash": "F69F41BCEDC0DBE1", "target": "Você achou mais um conjunto de pegadas. Examine a área em busca de outros." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_SEQ_04", "hash": "E39A7EA96D5A2D5D", "target": "Você achou um terceiro conjunto de pegadas. Elas parecem levar você para o norte. Continue a busca." },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_025", "hash": "21367E63A42DB24E", "target": "Sou eu, Cid. Teve alguma sorte?" },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_026", "hash": "9988B19E92358C09", "target": "...Encontrou o Wedge!? Que notícia maravilhosa! E o Biggs?" },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_027", "hash": "ACF07EC6FD3EB1CA", "target": "...Entendo. Bom, não me espanta nada que o grandalhão tenha feito o que fez. Por mais que viva dando esporro no Wedge, sempre cuidou dele." },
-    { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_028", "hash": "CCF7B324F70C1D52", "target": "Vasculhei os arredores do Darkhold e não tenho nada a mostrar. De todo modo, sabemos com certeza que Biggs seguiu para oeste. Com Yda e Y'shtola ajudando, tenho certeza de que ele aparece logo." },
+    { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_028", "hash": "CCF7B324F70C1D52", "target": "Vasculhei os arredores da Fortaleza Sombria e não tenho nada a mostrar. De todo modo, sabemos com certeza que Biggs seguiu para oeste. Com Yda e Y'shtola ajudando, tenho certeza de que ele aparece logo." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_029", "hash": "49D0E3F3956E14CB", "target": "Muito bem, vou até a sua posição de olho aberto atrás do Biggs." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_CID_000_030", "hash": "F298A4CE40967A90", "target": "Se a memória não me falha, deve haver uma fortificação ishgardesa não muito longe, a oeste de você─a Torre do Monumento, se não me engano. Vamos nos encontrar lá." },
     { "gameKey": "quest/009/GaiUsc406_00981#TEXT_GAIUSC406_00981_WEDGE_000_031", "hash": "C1168A10C2A859A4", "target": "Será que posso ter esperança...? Era o... o Mestre Garlond com quem você falava!?" },

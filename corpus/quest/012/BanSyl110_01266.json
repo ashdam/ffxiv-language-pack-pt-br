@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_00", "hash": "9D90788482415D71", "target": "O nariz de Tonaxia sente algo podre em Larkscall." },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "Numa tentativa profundamente equivocada de proteger seu lar na floresta contra forasteiros, silfos malévolos soltaram uma horda de banestools venenosos em Larkscall. A pedido de Tonaxia, elimine a ameaça fúngica antes que a contaminação se espalhe." },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "Os banestools não vivem mais, e o ar da floresta voltou a ficar puro. Relate seu sucesso a Tonaxia." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_01", "hash": "85A01E1AA37E804F", "target": "Numa tentativa profundamente equivocada de proteger seu lar na floresta contra forasteiros, silfos malévolos soltaram uma horda de cogumelos-malditos venenosos no Canto da Cotovia. A pedido de Tonaxia, elimine a ameaça fúngica antes que a contaminação se espalhe." },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_02", "hash": "381ABFCA9299EBD9", "target": "Os cogumelos-malditos não vivem mais, e o ar da floresta voltou a ficar puro. Relate seu sucesso a Tonaxia." },
     { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_SEQ_03", "hash": "A007B9C05E437149", "target": "Tonaxia respira fundo o ar fresco da floresta e agradece por seus feitos. A sensível sílfide expressa pena por seus parentes desorientados, que deixaram a desconfiança de forasteiros obscurecer o amor pelo próprio lar." },
-    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "Derrotar banestools" },
+    { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_00", "hash": "3D5A3682C6704DF9", "target": "Derrotar cogumelos-malditos" },
     { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TODO_01", "hash": "9DCA0A7ECE37240C", "target": "Relatar a Tonaxia" },
     { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_000", "hash": "266DA99D74980BAB", "target": "Algo cheira a podre, e este aqui aposta que os tocados estão por trás disso!" },
     { "gameKey": "quest/012/BanSyl110_01266#TEXT_BANSYL110_01266_TONAXIA_000_001", "hash": "FC33370A8F5DC32B", "target": "Este aqui viu os tocados plantando cogumelos fedorentos em Larkscall. Os tocados querem fazer fedor para manter os que andam fora da floresta, este aqui sabe." },

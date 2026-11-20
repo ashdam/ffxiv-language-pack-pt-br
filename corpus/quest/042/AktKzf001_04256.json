@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_SEQ_00", "hash": "077C0B96E01EC3C7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Viraban torce as mãos de nervosismo." },
-    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_00", "hash": "43415E01113ACC4E", "target": "Recuperar o amuleto gasto de um hanuman langur" },
+    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_00", "hash": "43415E01113ACC4E", "target": "Recuperar o amuleto gasto de um langur hanuman" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_TODO_01", "hash": "66854FE80433AB27", "target": "Entregar o amuleto gasto a Viraban" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_000", "hash": "67F4FA550F193766", "target": "Ai, meus joelhos... A idade está me alcançando..." },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_001", "hash": "4DCD6548F9ABB0F5", "target": "Ei, viajante, pode dar um pouco de atenção a uma velha solteirona? Enquanto fugia do caos que se instalou, levei um tombo feio e deixei cair um amuleto muito importante para mim." },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_A1_000_002", "hash": "519788A5EEAC5A85", "target": "Você devia tratar seus ferimentos primeiro." },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_005", "hash": "FF2D0187705E60D1", "target": "Sério? Você faria isso por mim?" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_006", "hash": "13CD52608A35FC00", "target": "Se eu esperar os ferimentos sararem, sabe-se lá aonde aquele monstro vai chegar. Preciso recuperar o amuleto. Por favor, pode me emprestar sua força?" },
-    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_007", "hash": "16B7A69E377AEA82", "target": "O animal fugiu em direção a Font of Maya. Abata-o depressa e me devolva o amuleto, por favor. Como vou me defender das maquinações cruéis do destino sem ele?" },
+    { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_007", "hash": "16B7A69E377AEA82", "target": "O animal fugiu em direção à Fonte de Maya. Abata-o depressa e me devolva o amuleto, por favor. Como vou me defender das maquinações cruéis do destino sem ele?" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_008", "hash": "CB4FB70E88F270AB", "target": "Vá a Font of Maya e recupere meu amuleto. Por favor, depressa. Já sinto minha sorte piorando." },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_010", "hash": "A9CEFFF274F2F490", "target": "Você finalmente voltou, bem a tempo. Sinto que algo terrível está prestes a acontecer. Conseguiu abater aquele monstro?" },
     { "gameKey": "quest/042/AktKzf001_04256#TEXT_AKTKZF001_04256_VIRABAN_000_011", "hash": "6025EC286699B6B0", "target": "Sim, é ele! É ele! Já sinto minha vitalidade voltando, mesmo que seja pouca. A morte vai ter que esperar muitos anos ainda! Obrigada, viajante." },

@@ -2,7 +2,7 @@
   "conversation": "quest/049/KinGmd107_04918",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_SEQ_00", "hash": "762E25CB510FF7ED", "target": "Erenville está ansioso para partir até a Pyariyoanaan Plain." },
+    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_SEQ_00", "hash": "762E25CB510FF7ED", "target": "Erenville está ansioso para partir até a Planície de Pyariyoanaan." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_00", "hash": "B72AA4C31049FAB4", "target": "Falar com Erenville" },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_01", "hash": "99F4203BF7F4A607", "target": "Falar com Wawlika" },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_TODO_02", "hash": "E9D77B7DEF34DAC3", "target": "Falar com Hhwato" },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_ERENVILLE_000_009", "hash": "0C6D3E17B7406F37", "target": "Certo, Mehwahhetsoan deve ficar a nordeste. Vamos continuar." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_WAWLIKA_000_010", "hash": "24DCAE2959724C61", "target": "Ah, aí estão. A aldeia fica logo adiante." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_WAWLIKA_000_011", "hash": "EA5D4837E370A152", "target": "Na verdade, nunca tratei diretamente com o povo de Mehwahhetsoan. Mas sei que suas tradições importam muito, assim como a terra..." },
-    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_ERENVILLE_000_012", "hash": "C47FC4E8F72C3CDA", "target": "Ahhh, que ar puro maravilhoso... Uma delícia depois do ceruleum sufocante de Sheshenewezi Springs." },
+    { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_ERENVILLE_000_012", "hash": "C47FC4E8F72C3CDA", "target": "Ahhh, que ar puro maravilhoso... Uma delícia depois do ceruleum sufocante das Fontes de Sheshenewezi." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_ERENVILLE_000_013", "hash": "FD6B6FF153DD03CC", "target": "As águas daqui são igualmente puras. Um paraíso para pessoas e animais." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_HHWATO_000_014", "hash": "8449EFA06183964F", "target": "(-???-)Que bom apreciarem as bênçãos da natureza como nós." },
     { "gameKey": "quest/049/KinGmd107_04918#TEXT_KINGMD107_04918_HHWATO_000_015", "hash": "18E4232D2FD25F44", "target": "Saudações, viajantes. Boas-vindas." },

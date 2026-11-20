@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_SEQ_00", "hash": "F2ED516A8F167995", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ersabel olha para você com expectativa, e isso só pode significar uma coisa." },
-    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_00", "hash": "1D1C33BBF158D44F", "target": "Usar o néctar enjoativo no local indicado e abater o snapmint para obter suas folhas" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_00", "hash": "1D1C33BBF158D44F", "target": "Usar o néctar enjoativo no local indicado e abater a balsamina-menta para obter suas folhas" },
     { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_01", "hash": "1EA3F5E6A592FEDE", "target": "Entregar as folhas de snapmint a Ersabel" },
     { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_001", "hash": "39493D5959B8BC06", "target": "Com licença, <if(gnum4,senhorita,senhor)>, poderia me ajudar com os preparativos <if([gnum11<12],<if([gnum11<4],da refeição,do jantar)>,<if([gnum11<17],do jantar,da refeição)>)>?" },
     { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_002", "hash": "B91004E8B3E71D18", "target": "Obrigada. Preciso de uma erva bem peculiar, mas temo não ter condições de colhê-la sozinha." },

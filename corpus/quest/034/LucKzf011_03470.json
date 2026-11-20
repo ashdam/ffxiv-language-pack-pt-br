@@ -2,10 +2,10 @@
   "conversation": "quest/034/LucKzf011_03470",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_SEQ_00", "hash": "223AD30EF9C1CC06", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Esta subdued sentinel parece ansiosa para partir." },
-    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_00", "hash": "CA7EA72CA08692B5", "target": "Falar com a honey-blonde baker" },
+    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_SEQ_00", "hash": "223AD30EF9C1CC06", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Esta sentinela contida parece ansiosa para partir." },
+    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_00", "hash": "CA7EA72CA08692B5", "target": "Falar com a padeira de cabelos louro-mel" },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_01", "hash": "4F2CA0E5248D9370", "target": "Entregar as provisões no Arrependimento de Mjrl" },
-    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_02", "hash": "C0152005B35CFA1F", "target": "Entregar a carta sincera à honey-blonde baker" },
+    { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_TODO_02", "hash": "C0152005B35CFA1F", "target": "Entregar a carta sincera à padeira de cabelos louro-mel" },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_000", "hash": "75F091F281C8A61E", "target": "Posso pedir que entregue um pacote?" },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_001", "hash": "D5B3820D42DD63C6", "target": "Para quem? Eu... Não posso dizer. Vão preparar um pacote para você ali do outro lado. Quando o receber, leve-o ao Arrependimento de Mjrl." },
     { "gameKey": "quest/034/LucKzf011_03470#TEXT_LUCKZF011_03470_QUIETVIIS03470_000_010", "hash": "FD402F20CDFC86EC", "target": "Provisões? Ah, sim, claro. Aqui está." },

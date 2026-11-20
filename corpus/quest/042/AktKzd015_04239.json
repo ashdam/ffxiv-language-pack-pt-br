@@ -5,7 +5,7 @@
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_SEQ_00", "hash": "3C8F11A91208D114", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Um integrante da força de reconhecimento do contingente procura alguém destemido que aceite pilotar uma armadura magitek." },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_00", "hash": "5EBAD39621FF2585", "target": "Falar com o magitek pilot" },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_01", "hash": "4E8C4CE768CA6FAC", "target": "Falar novamente com o magitek pilot" },
-    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_02", "hash": "005BC795F823C316", "target": "Falar com o contingent scout" },
+    { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_TODO_02", "hash": "005BC795F823C316", "target": "Falar com o batedor do contingente" },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_000", "hash": "6A56F1ACB99B68D8", "target": "Saudações, <split(<string(gstr1)>, ,1)>. Perdoe a pergunta repentina, mas... você já pilotou uma armadura magitek?" },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_001", "hash": "17733B821973043C", "target": "Fantástico. Se alguém tivesse essa experiência, eu sabia que seria você. A razão da pergunta é simples: queremos ter uma visão aérea da cidade para avaliar os danos." },
     { "gameKey": "quest/042/AktKzd015_04239#TEXT_AKTKZD015_04239_ILSABARDSCOUT04239_000_002", "hash": "BFDC471FE4C50392", "target": "Um piloto magitek da I Legião teve a gentileza de sugerir que usássemos uma de suas unidades voadoras para realizar nossa inspeção." },

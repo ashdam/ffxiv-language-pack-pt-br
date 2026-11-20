@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_SEQ_00", "hash": "1A8452AA8DCDD884", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Wyd Lad tem outro pedido para você." },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Entregar o pacote de cogumelos ao tall Fuath" },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Entregar o pacote de cogumelos ao Fuath alto" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Entregar a mistura alquímica a Wyd Lad" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_000", "hash": "87E21339741F0886", "target": "<split(<string(gstr1)>, ,1)>, sei que você já me concedeu seu patrocínio, mas não consideraria fazer isso outra vez?" },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_001", "hash": "0C9E74510E19606A", "target": "Agradeço! Peço que entregue este pacote de cogumelos no Longmirror Lake. Quem vai receber é um Fuath, e ele deve dar uma mistura alquímica em troca." },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_001", "hash": "0C9E74510E19606A", "target": "Agradeço! Peço que entregue este pacote de cogumelos no Lago do Espelho Longo. Quem vai receber é um Fuath, e ele deve dar uma mistura alquímica em troca." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_002", "hash": "44694DD79A6E4082", "target": "Embora os Fuath sejam um povo estranho em geral, preciso avisar que esse é mais estranho que a maioria. Para começar, é muito mais alto que os outros, e não consigo deixar de ficar desconfortável na presença dele." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_003", "hash": "E2BC5D8F02241975", "target": "Ele consegue fornecer o que precisamos, por isso negociamos com ele. Mas, para falar a verdade, prefiro não tratar com ele pessoalmente. Por isso fiz esse pedido a você. Agradeço desde já." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_004", "hash": "2AC85C390CA6F145", "target": "O Fuath que você procura é muito mais alto que os outros, então não deve ser difícil reconhecê-lo. Entregue os cogumelos, e ele dará uma mistura alquímica em troca." },

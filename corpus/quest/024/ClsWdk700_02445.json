@@ -13,7 +13,7 @@
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_SEQ_08", "hash": "6569EAB6F387E8D9", "target": "O mestre-madeireiro Beatin elogia você e Cemi sem reservas. Em especial, ele observa que Cemi começou a pensar mais como você, <if(gnum4,uma mestra,um mestre)> em sua arte. Embora a mobília dela ainda deixe a desejar em qualidade, ele ressalta que a satisfação do cliente é o mais importante e a incentiva a continuar se dedicando ao ofício. Inspirada por suas palavras, Cemi sai correndo para treinar. Por fim, Beatin agradece toda a sua ajuda e espera que você continue usando os talentos que recebeu dos deuses para ajudar quem precisa." },
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_00", "hash": "6914770688649064", "target": "Falar com Beatin" },
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_01", "hash": "6D9C4794F57F022C", "target": "Falar com o Gridanian soldier" },
-    { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_02", "hash": "22B804CB518C5274", "target": "Falar com o Ala Mhigan soldier" },
+    { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_02", "hash": "22B804CB518C5274", "target": "Falar com o soldado ala-mhigano" },
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_03", "hash": "C4B46A7061702154", "target": "Falar com Beatin" },
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_04", "hash": "7AC44D7D501E9110", "target": "<if([lnum1<lnum2],Sintetizar um teahouse bench <sheet(Addon,9,0)>,Entregar o teahouse bench <sheet(Addon,9,0)> a Gairhard)>" },
     { "gameKey": "quest/024/ClsWdk700_02445#TEXT_CLSWDK700_02445_TODO_05", "hash": "E24797F6BCC3700A", "target": "Falar com Gairhard em Apkallu Falls" },

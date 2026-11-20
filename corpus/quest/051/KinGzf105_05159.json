@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_SEQ_00", "hash": "8FD6D109613D8D62", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Talvez alguém de fora como você possa resolver melhor o problema de Ui'she." },
-    { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_TODO_00", "hash": "A8CD36A3727DBE47", "target": "Falar com o graveyard visitor" },
+    { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_TODO_00", "hash": "A8CD36A3727DBE47", "target": "Falar com o visitante do cemitério" },
     { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_TODO_01", "hash": "0955A8E2562585A7", "target": "Limpar as lápides encardidas" },
-    { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_TODO_02", "hash": "6627145593B0FC38", "target": "Falar com o graveyard visitor" },
+    { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_TODO_02", "hash": "6627145593B0FC38", "target": "Falar com o visitante do cemitério" },
     { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_UISHE_000_000", "hash": "5B0A634187D0B631", "target": "Ora, um rosto que nunca vi por estas bandas. Hmmm... Posso tomar um instante do seu tempo?" },
     { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_UISHE_000_001", "hash": "5998C89F0DFDDC59", "target": "É que um membro do nosso grupo anda subindo a colina com frequência para ir ao cemitério." },
     { "gameKey": "quest/051/KinGzf105_05159#TEXT_KINGZF105_05159_UISHE_000_002", "hash": "CB8EF6AFA5285658", "target": "Desconfio que haja algum problema, mas ele não parece querer falar. Pelo menos, não conosco. Talvez uma pessoa de fora disposta a ouvir consiga fazê-lo se abrir." },

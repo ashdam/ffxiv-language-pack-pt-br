@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_SEQ_00", "hash": "38827957E140856A", "target": "Yubli está aflito com a chegada de predadores perigosos.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você deve prosseguir com a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_00", "hash": "6F6588FD8A400037", "target": "Examinar os arredores de Glostfired Bank e abater os riverside apollyons que aparecerem" },
+    { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_00", "hash": "6F6588FD8A400037", "target": "Examinar os arredores da Margem Vitrificada e abater os apollyons ribeirinhos que aparecerem" },
     { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_TODO_01", "hash": "13C90689EEE64096", "target": "Falar com Yubli" },
     { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_001", "hash": "00AB72608CC2D06C", "target": "<split(<string(gstr1)>, ,1)>, preciso da sua ajuda: avistamos um apollyon agressivo rondando as trilhas." },
     { "gameKey": "quest/052/BanPel115_05213#TEXT_BANPEL115_05213_YUBLI_000_002", "hash": "EF838F3E44F5CAD6", "target": "Essas criaturas costumam ficar longe das áreas habitadas, mas às vezes uma se aproxima de um povoado em busca de presas. Precisamos abater esses predadores oportunistas com firmeza e deixar claro aos outros que nossos territórios estão fora dos limites." },

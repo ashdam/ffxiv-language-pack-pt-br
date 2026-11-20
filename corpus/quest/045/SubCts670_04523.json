@@ -2,7 +2,7 @@
   "conversation": "quest/045/SubCts670_04523",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_SEQ_00", "hash": "897737EAA92E672D", "target": "A well-dressed attendant vem lançando olhares discretos para você desde que entrou na Ágora." },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_SEQ_00", "hash": "897737EAA92E672D", "target": "A criada bem-vestida vem lançando olhares discretos para você desde que entrou na Ágora." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_00", "hash": "C1F3BD7EEA4903DD", "target": "Esperar perto da mesa reservada pela família Leveilleur" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_01", "hash": "9A0AC4BE20D390C3", "target": "Falar com Ameliance" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_02", "hash": "64C890974711F0DD", "target": "Falar com Ameliance novamente" },
@@ -32,7 +32,7 @@
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_025", "hash": "2C8B923C2AF71780", "target": "Ah, mas é claro que estou! Se eu exigisse que os estudantes devolvessem o valor de suas mensalidades depois de se formar, uma quantia que poucos poderiam pagar, não seria diferente de um empréstimo, afinal." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_ROWENA_000_026", "hash": "D8B24A919FF0C026", "target": "Entendo... Bem, gostaria de ajudar, mas, sem perspectiva de renda, preciso recusar sua oferta respeitosamente. Não quero ser rude, mas administro um negócio, não uma instituição de caridade." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_027", "hash": "045F5ECB1E7C185A", "target": "Compreendo perfeitamente." },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_028", "hash": "3A0C5592C05B252A", "target": "Ultimamente, tenho recordado o tempo que passei em Dravanian hinterlands...Fourchenault, as crianças e eu éramos tão felizes vivendo no Emporium." },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_028", "hash": "3A0C5592C05B252A", "target": "Ultimamente, tenho recordado o tempo que passei nas terras interiores dravanianas... Fourchenault, as crianças e eu éramos tão felizes vivendo no Emporium." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_029", "hash": "FC642C41104EEE64", "target": "Embora agora esteja parada, a cidade já foi muito efervescente, repleta de almas curiosas que viajavam de todos os cantos de Eorzea em busca de conhecimento." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_030", "hash": "CBF82AF3A0936A9F", "target": "Claro que não eram só futuros alunos e pesquisadores que viajavam até lá, longe disso. Como um centro de busca pelo conhecimento, a cidade sustentava muitos comerciantes que forneciam materiais de pesquisa. Em troca, eles tinham acesso imediato a um enorme acervo de invenções de ponta." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_031", "hash": "3BE416CADF1CD7A0", "target": "Pensando bem, aposto que meu contato na Companhia Comercial do Aldenard Oriental ficará intrigado ao ouvir que nosso programa pode criar possibilidades semelhantes. Foi tão gentil da parte de Tataru nos apresentar..." },

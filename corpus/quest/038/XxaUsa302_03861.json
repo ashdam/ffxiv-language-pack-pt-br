@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_00", "hash": "09BA0FB37AB9B993", "target": "Teteroon tem lugares para você ir e coisinhas para você buscar." },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "Teteroon pediu que você o ajude a fazer aguardente Qiqirn. Para isso, abata coeurl pups e obtenha três bigodes de coeurl pup." },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_01", "hash": "A2C5A272A290D066", "target": "Teteroon pediu que você o ajude a fazer aguardente Qiqirn. Para isso, abata filhotes de coeurl e obtenha três bigodes de filhote de coeurl." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_02", "hash": "6A957518EFD926E6", "target": "Você conseguiu os ingredientes necessários. Leve-os de volta a Teteroon." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SEQ_03", "hash": "42323AF3B1BBBA5C", "target": "Teteroon começou a preparar a aguardente Qiqirn com os ingredientes que você forneceu. Mas boa aguardente leva tempo. Fale com ele mais tarde para saber como ficou a mistura." },
-    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "Abater coeurl pups e recolher bigodes de coeurl pup" },
+    { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_00", "hash": "5F3321D4C8709D4B", "target": "Abater filhotes de coeurl e recolher bigodes de filhote de coeurl" },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TODO_01", "hash": "F36A2D4C0E24D872", "target": "Entregar os bigodes de coeurl pup a Teteroon" },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_SYSTEM_100_000", "hash": "B019C69C076DDABE", "target": "Para aceitar esta missão, você precisa abandonar a missão principal em andamento. Abra a entrada correspondente no Journal ou na Duty List e selecione “Abandon”." },
     { "gameKey": "quest/038/XxaUsa302_03861#TEXT_XXAUSA302_03861_TETEROON_000_000", "hash": "1FB9E5EB2A14D3DF", "target": "Bom Buscaroon ajudar Teteroon. Teteroon morto sem bom Buscaroon. Ter de dar obrigadinhos. Muitos, muitos obrigadinhos. Teteroon fazer aguardente Qiqirn para Buscaroon! Buscaroon amar aguardente!" },

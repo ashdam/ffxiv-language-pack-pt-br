@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_00", "hash": "E649E061B2636F4E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ghun Gun mal consegue conter a empolgação com a perspectiva de continuar cavando." },
-    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_01", "hash": "BCC212C22B782FA7", "target": "Ghun Gun está impaciente só de pensar em desenterrar mais artefatos descartados pelos Nabaath. Seguindo o provável caminho deles pelo deserto, Jamial segue na frente rumo ao oeste, até Nabaath Severance, onde fica o último ponto de escavação.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },
+    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_01", "hash": "BCC212C22B782FA7", "target": "Ghun Gun está impaciente só de pensar em desenterrar mais artefatos descartados pelos Nabaath. Seguindo o provável caminho deles pelo deserto, Jamial segue na frente rumo ao oeste, até a Ruptura de Nabaath, onde fica o último ponto de escavação.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_02", "hash": "75ED84E00923D07B", "target": "Ghun Gun cava com fervor e encontra um recipiente cilíndrico sob a areia. Ele se vira para mostrar a relíquia a Jamial, mas descobre que seu velho companheiro desapareceu misteriosamente." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_03", "hash": "C6693F7427FB2A9F", "target": "Apesar de vocês estarem no meio de um deserto vasto e aberto, não há sinal de Jamial. Ghun Gun sugere que você procure de um ponto mais alto enquanto ele fica para guardar o tesouro." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_SEQ_04", "hash": "0174F77EB252E8A0", "target": "O rastro de Jamial se perdeu: o vento do deserto apagou qualquer pegada que ele possa ter deixado. Sem outra alternativa, você volta até Ghun Gun para dar a má notícia." },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_TODO_04", "hash": "A5BC9CC56A146042", "target": "Falar com Ghun Gun em Mord Souq" },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_000", "hash": "9220DB1D160118A3", "target": "Há um último lugar que desejo visitar." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_000_010", "hash": "2F1AAE981CEB76F2", "target": "Quero cavar, cavar, cavar! Onde é o próximo lugar, Jamial?" },
-    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_011", "hash": "F7E452EFD0A36EBD", "target": "A oeste daqui, perto de Nabaath Severance." },
+    { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_011", "hash": "F7E452EFD0A36EBD", "target": "A oeste daqui, perto da Ruptura de Nabaath." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_000_012", "hash": "DF5372292FE98BB7", "target": "Então o que estamos esperando? Depressa, depressa!" },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_JAMIAL_000_020", "hash": "7881E56B95692270", "target": "Sim, é aqui. Vamos ver o que encontramos." },
     { "gameKey": "quest/033/LucKza204_03378#TEXT_LUCKZA204_03378_GHUNGUN_000_021", "hash": "19538B8D5D2307ED", "target": "Hum... Esta terra tem cheiro de tesouro escondido! Hora de trabalhar, trabalhar, trabalhar!" },

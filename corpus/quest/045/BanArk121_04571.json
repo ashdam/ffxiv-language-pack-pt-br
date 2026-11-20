@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_SEQ_00", "hash": "7B28632832FA51B9", "target": "Maru mantém distância de uma caixa próxima.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a mesma classe ou job usada ao aceitar a missão." },
-    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usar os demolidores de Daemir no monte de argilito em The Shroud of the Samgha" },
+    { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_00", "hash": "8B3CF15EE8615B5B", "target": "Usar os demolidores de Daemir no monte de argilito na Mortalha dos Samgha" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_01", "hash": "5A5E7A1DFC779EDD", "target": "Obter o pedaço de argilito do Ksiroda" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_TODO_02", "hash": "E7E15A7C824C74AF", "target": "Entregar o pedaço de argilito do Ksiroda a Maru" },
     { "gameKey": "quest/045/BanArk121_04571#TEXT_BANARK121_04571_MARU_000_000", "hash": "592DABCDD99FD216", "target": "Queria pedir isso faz tempo, <split(<string(gstr1)>, ,1)>, mas, pra falar a verdade, tava nervoso. Achei que podia ser perigoso demais..." },

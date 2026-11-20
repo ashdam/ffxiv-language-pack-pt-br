@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_SEQ_00", "hash": "30E5E4B241D4E61D", "target": "Emory está se preparando para um novo empreendimento." },
-    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Examinar o local indicado e matar os migrating crag claws que aparecerem" },
+    { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_00", "hash": "8BA028D06F0F7FBE", "target": "Examinar o local indicado e matar as garras dos penhascos migrantes que aparecerem" },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_TODO_01", "hash": "224B98D9D773403E", "target": "Apresentar um relatório a Emory" },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_000", "hash": "77FBFAD758E11F31", "target": "Ei, você é <if(gnum4,aquela aventureira,aquele aventureiro)> de quem todo mundo fala. Que ajudou a Resistência. Uma força dessas me seria bem útil, se você topar, é claro." },
     { "gameKey": "quest/028/StmBdz811_02839#TEXT_STMBDZ811_02839_EMORY_000_001", "hash": "F70CFE053EB3AA21", "target": "Desde que me entendo por gente, cuido do negócio do meu pai aqui em Ala Ghiri. Mas eu não vendia para aqueles desgraçados imperiais. Não me orgulho muito das coisas que tive que fazer, mas conseguimos nos virar." },

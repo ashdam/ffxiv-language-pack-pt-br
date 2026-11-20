@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_SEQ_00", "hash": "1A84A7EBA45AE38D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Se pretende explorar os arredores, você pode aproveitar para ser útil pelo caminho." },
-    { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_TODO_00", "hash": "EEC212376C39885C", "target": "Entregar a vela de óleo de peixe à contemplative woman que reza no Cânion de Yowekwa" },
+    { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_TODO_00", "hash": "EEC212376C39885C", "target": "Entregar a vela de óleo de peixe à mulher contemplativa que reza no Cânion de Yowekwa" },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_TODO_01", "hash": "E2609BFDB1176D11", "target": "Falar com Pawmepya" },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_PAWMEPYA_000_000", "hash": "75F6A1B2E3F3C4B7", "target": "Boas-vindas, viajante. Será que, enquanto explora a região, você poderia me fazer um pequeno favor?" },
     { "gameKey": "quest/051/KinGze012_05130#TEXT_KINGZE012_05130_PAWMEPYA_000_001", "hash": "297B12B4C6AA7453", "target": "Minha filha foi rezar num conjunto de cavernas aqui perto, mas esqueceu o mais importante: a vela de óleo de peixe." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_SEQ_00", "hash": "EA2A580AE5D56B4A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Pelo visto, a vista deslumbrante de Eshceyaani Wilds basta para fazer alguém esquecer suas responsabilidades." },
-    { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_TODO_00", "hash": "D074CABE626F518B", "target": "Falar com a railroad engineer no Monte Loazensasaya" },
+    { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_TODO_00", "hash": "D074CABE626F518B", "target": "Falar com a engenheira ferroviária no Monte Loazensasaya" },
     { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_TODO_01", "hash": "DB9F5B8EFE088114", "target": "Admirar a vista" },
-    { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_TODO_02", "hash": "D0596BCB30CF68FD", "target": "Falar com o railroad foreman na Estação de Shaaloani" },
+    { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_TODO_02", "hash": "D0596BCB30CF68FD", "target": "Falar com o capataz ferroviário na Estação de Shaaloani" },
     { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_DIRECTOR05137_000_000", "hash": "99187A33F027468B", "target": "Olá, viajante. Posso pedir uma coisa? Minha colega não apareceu para o turno. Acho que está sonhando acordada no Monte Loazensasaya de novo." },
     { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_DIRECTOR05137_000_001", "hash": "6282663699E7BE15", "target": "Eu mesmo iria buscá-la, mas não posso sair do pátio com tanto trabalho para fazer. Pode ir no meu lugar?" },
     { "gameKey": "quest/051/KinGze019_05137#TEXT_KINGZE019_05137_DIRECTOR05137_000_002", "hash": "F81EAB7382F71B38", "target": "O Monte Loazensasaya fica a oeste daqui. É uma rocha enorme, não tem como errar." },

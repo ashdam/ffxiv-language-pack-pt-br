@@ -2,10 +2,10 @@
   "conversation": "quest/026/StmBdz101_02651",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SEQ_00", "hash": "287265CBBCFBCC26", "target": "Este straight-arrow sutler está com dificuldade para convencer os combatentes da Resistência." },
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_00", "hash": "275269D62021B7B6", "target": "Falar com o straight-arrow sutler" },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SEQ_00", "hash": "287265CBBCFBCC26", "target": "Este cantineiro íntegro está com dificuldade para convencer os combatentes da Resistência." },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_00", "hash": "275269D62021B7B6", "target": "Falar com o cantineiro íntegro" },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_01", "hash": "C80134F958C34279", "target": "Usar a zarabatana para acertar os alvos no local indicado" },
-    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_02", "hash": "DEDFEF85FD6AA810", "target": "Falar com o straight-arrow sutler" },
+    { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_TODO_02", "hash": "DEDFEF85FD6AA810", "target": "Falar com o cantineiro íntegro" },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_000", "hash": "939782352F744C36", "target": "Pode me dar uma mão?" },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_001", "hash": "78EEAAD6544EB6DD", "target": "Corri para cá quando soube que o Império tinha atacado Rhalgr's Reach, trazendo todas as mercadorias que consegui carregar." },
     { "gameKey": "quest/026/StmBdz101_02651#TEXT_STMBDZ101_02651_SUTLER02651_000_002", "hash": "2428D81A99EC6C72", "target": "Uma das armas que trouxe foi uma zarabatana. Acho bem útil, mas nenhum combatente da Resistência parece concordar. Pode me ajudar a mostrar como ela pode ser prática?" },

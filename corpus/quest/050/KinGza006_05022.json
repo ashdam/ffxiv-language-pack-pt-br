@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_SEQ_00", "hash": "B4C33FDC98851793", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O tambor-mor da Guarda Territorial perdeu um de seus tamborileiros de vista." },
-    { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_00", "hash": "25C7E4D61BBC2B2E", "target": "Falar com o fresh-faced drummer" },
+    { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_00", "hash": "25C7E4D61BBC2B2E", "target": "Falar com o tamborileiro novato" },
     { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_01", "hash": "4025EF559767323D", "target": "Procurar o kit de inspeção do tambor" },
-    { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_02", "hash": "BC0DBABEE79E87A0", "target": "Entregar o kit de inspeção do tambor ao fresh-faced drummer" },
+    { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_02", "hash": "BC0DBABEE79E87A0", "target": "Entregar o kit de inspeção do tambor ao tamborileiro novato" },
     { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_TODO_03", "hash": "544D413BC4088827", "target": "Falar com o Landsguard drum major" },
     { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_CAPTAIN05022_000_001", "hash": "40C3B467B51DFAA6", "target": "De tirar o fôlego, não é? Aposto que seria difícil encontrar um tambor mais majestoso em qualquer lugar." },
     { "gameKey": "quest/050/KinGza006_05022#TEXT_KINGZA006_05022_CAPTAIN05022_000_002", "hash": "196303028598DA79", "target": "Infelizmente, exposto ao tempo assim, exige muitos cuidados. É aí que entramos nós, do corpo de pífaros e tambores. Por falar nisso... por que ele está demorando tanto?" },

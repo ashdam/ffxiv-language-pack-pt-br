@@ -2,9 +2,9 @@
   "conversation": "quest/031/BanNam605_03127",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_SEQ_00", "hash": "E2A7E6A4B1DA74C9", "target": "Seigetsu the Enlightened precisa de <if(gnum4,uma aventureira,um aventureiro)> que não acredite em superstições.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
-    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_TODO_00", "hash": "9525354EB298F4CA", "target": "Usar as bombinhas para ajudar os stuporous Namazu" },
-    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_TODO_01", "hash": "57A244D44B6ABF0D", "target": "Relatar a Seigetsu the Enlightened" },
+    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_SEQ_00", "hash": "E2A7E6A4B1DA74C9", "target": "Seigetsu, o Iluminado, precisa de <if(gnum4,uma aventureira,um aventureiro)> que não acredite em superstições.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_TODO_00", "hash": "9525354EB298F4CA", "target": "Usar as bombinhas para ajudar os Namazu entorpecidos" },
+    { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_TODO_01", "hash": "57A244D44B6ABF0D", "target": "Relatar a Seigetsu, o Iluminado" },
     { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_000", "hash": "A32E461F00CE8AD0", "target": "Ainda bem que você está aqui. Não sei como, mas vários dos meus semelhantes parecem ter sido enfeitiçados. Passam o dia dizendo bobagens, com os olhos revirados." },
     { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_001", "hash": "A09E505A665A4091", "target": "Porém, ao ler <italic(1)>Trilhas Inexploradas de Yanxia<italic(0)>, acredito ter descoberto uma forma de despertá-los desse torpor inexplicável. Aparentemente, o clarão e o som repentinos de bombinhas já foram capazes de devolver as funções cognitivas a quem sofre de sintomas muito parecidos com os que vi nos outros." },
     { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_002", "hash": "79B7CFEFDBFBCDFE", "target": "Poderia realizar esse ritual e fazê-los recobrar os sentidos?" },

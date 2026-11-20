@@ -2,10 +2,10 @@
   "conversation": "quest/034/LucKzf014_03473",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_SEQ_00", "hash": "AD3DC6DAD3BA2280", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Algo na floresta chama a atenção da watchful hunter." },
-    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_00", "hash": "79E8D323EC85077A", "target": "Falar com a concerned jaculus rider" },
+    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_SEQ_00", "hash": "AD3DC6DAD3BA2280", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Algo na floresta chama a atenção da caçadora atenta." },
+    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_00", "hash": "79E8D323EC85077A", "target": "Falar com a montadora de jaculus preocupada" },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_01", "hash": "32821B1961EF5EC9", "target": "Usar as ervas curativas no jaculus" },
-    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_02", "hash": "EB35D1F8B93E9379", "target": "Falar com a watchful hunter" },
+    { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_TODO_02", "hash": "EB35D1F8B93E9379", "target": "Falar com a caçadora atenta" },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_FANOW03473_000_000", "hash": "D302A67F5CB7135C", "target": "...Ouviu isso?" },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_FANOW03473_000_001", "hash": "0528DCE17E717B8D", "target": "O grito de um jaculus. Está sentindo uma dor terrível." },
     { "gameKey": "quest/034/LucKzf014_03473#TEXT_LUCKZF014_03473_FANOW03473_000_002", "hash": "9E19F5A16181C9E4", "target": "A dona da criatura provavelmente já está a caminho, mas suspeito que precise de ajuda." },

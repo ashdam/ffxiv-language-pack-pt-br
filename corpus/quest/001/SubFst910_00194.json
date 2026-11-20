@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_SEQ_00", "hash": "ADBEE81ED7A566EB", "target": "Braya precisa de alguém de bom coração para cuidar de uma criatura ferida." },
     { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_SEQ_01", "hash": "DB273574E3023D7C", "target": "Uma criatura incomum apareceu perto da Balsa de Fallgourd, em North Shroud, e testemunhas dizem que está ferida. Braya pede que você a encontre e cuide de seus ferimentos." },
-    { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_SEQ_02", "hash": "6E6884063AE65168", "target": "Você cuidou dos ferimentos da égua. Volte à Conjurers' Guild e relate seu sucesso a Braya." },
+    { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_SEQ_02", "hash": "6E6884063AE65168", "target": "Você cuidou dos ferimentos da égua. Volte à Guilda dos Conjuradores e relate seu sucesso a Braya." },
     { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_SEQ_03", "hash": "8172E1FC5B446E96", "target": "Parece que a criatura que você curou é um unicórnio. Braya se impressiona por você ter conquistado a confiança de um animal tão arisco e sugere que há uma ligação mais profunda entre vocês." },
     { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_TODO_00", "hash": "9EACDF8FEFE467CE", "target": "Usar Cure para curar a criatura ferida nas Alder Springs" },
     { "gameKey": "quest/001/SubFst910_00194#TEXT_SUBFST910_00194_TODO_01", "hash": "D847DDB875F23BEA", "target": "Apresentar-se a Braya" },

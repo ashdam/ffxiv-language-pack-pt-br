@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_00", "hash": "2F4AB9533EF56604", "target": "Rafold precisa de alguém para montar guarda." },
-    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "A guarnição de Camp Bluefog precisa de mais olhos para vigiar os garleanos ao norte. Monte guarda nos três pontos onde tremula o estandarte das Chamas Imortais." },
+    { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_01", "hash": "CFCD662762CE3E37", "target": "A guarnição do Acampamento Névoa Azul precisa de mais olhos para vigiar os garleanos ao norte. Monte guarda nos três pontos onde tremula o estandarte das Chamas Imortais." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_02", "hash": "86DA2E82B9942F81", "target": "Você montou guarda nos três locais. Volte a Rafold e relate o que descobriu." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_SEQ_03", "hash": "443A7F4964BA993E", "target": "Rafold fica aliviado ao saber que nenhum garleano foi encontrado, mas sabe que o inimigo está pronto para atacar ao primeiro descuido do vigia." },
     { "gameKey": "quest/010/GaiUsc903_01038#TEXT_GAIUSC903_01038_TODO_00", "hash": "98DDC9C53DAF1A70", "target": "Montar guarda junto aos <ennoun(EObj,3,2002253,2,1)> e derrotar os inimigos" },

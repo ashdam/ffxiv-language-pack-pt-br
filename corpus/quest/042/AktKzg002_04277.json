@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzg002_04277",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_SEQ_00", "hash": "0A1A84AC266D01BD", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O impatient observer parece estar esperando alguém." },
+    { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_SEQ_00", "hash": "0A1A84AC266D01BD", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O observador impaciente parece estar esperando alguém." },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_00", "hash": "8E17C522E200801A", "target": "Falar com o blue-haired observer" },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_01", "hash": "409EE20887A8D250", "target": "Falar com o avian observer" },
     { "gameKey": "quest/042/AktKzg002_04277#TEXT_AKTKZG002_04277_TODO_02", "hash": "B6DB5838ABE584D5", "target": "Entregar as penas de bird of Elpis ao blue-haired observer" },

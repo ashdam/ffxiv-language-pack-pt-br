@@ -2,7 +2,7 @@
   "conversation": "quest/041/AktKyr201_04176",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SEQ_00", "hash": "4F1A845E6F432A21", "target": "O diminutive gleaner está à procura de alguém com vigor para se aventurar." },
+    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SEQ_00", "hash": "4F1A845E6F432A21", "target": "O coletor diminuto está à procura de alguém com vigor para se aventurar." },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_TODO_00", "hash": "2380EF279B34B170", "target": "Falar com Northota" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_LITTLEGLEANER04176_000_001", "hash": "99A10E5CFA5BB575", "target": "...Meus olhos estão me enganando ou você é <string(gstr1)>?" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_LITTLEGLEANER04176_000_002", "hash": "AC2BA92CA8998A94", "target": "Ora, por tudo que é sagrado, <italic(1)>é<italic(0)> você de verdade. Ha! Eu sabia que seria o primeiro a encontrar você. Quem é o melhor caçador da guilda agora, hein!?" },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_NORTHOTA_000_016", "hash": "EA6E55ECBA578ED6", "target": "...Falando em excentricidade, vale lembrar que a maioria dos nossos clientes são estudiosos. Você provavelmente nunca ouviu falar de metade das criaturas que eles querem, mas acho melhor não se preocupar muito com isso." },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_NORTHOTA_000_017", "hash": "E84571712D8A2436", "target": "Mate feras, recolha amostras, tente não pensar nos efeitos a longo prazo de tocar nessas amostras e receba seu pagamento. Simples, não?" },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_NORTHOTA_000_018", "hash": "22089553E6A4185A", "target": "Dito isso, eu jamais jogaria você no meio do perigo logo de cara. Vamos começar com alguns alvos iniciantes para você pegar o jeito." },
-    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SYSTEM_000_019", "hash": "C164759DB89CE78C", "target": "Você já pode aceitar contratos de junior marks nos guildship hunt boards de Old Sharlayan e Radz-at-Han." },
+    { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SYSTEM_000_019", "hash": "C164759DB89CE78C", "target": "Você já pode aceitar contratos de junior marks nos quadros de caçadas da guilda de Velha Sharlayan e Radz-at-Han." },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SYSTEM_000_020", "hash": "F799341325652BE1", "target": "Derrote os monstros descritos nos contratos para receber fichas que podem ser trocadas por itens exclusivos." },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SYSTEM_000_021", "hash": "1D1C9F775083D840", "target": "Para trocar fichas por itens exclusivos, fale com J'lakshai em Old Sharlayan ou com Wilmetta em Radz-at-Han." },
     { "gameKey": "quest/041/AktKyr201_04176#TEXT_AKTKYR201_04176_SYSTEM_000_017", "hash": "34DDA96BEB9E607D", "target": "Novas missões e alvos intermediários ficarão disponíveis com Northota em Old Sharlayan ao alcançar o nível 83 e cumprir certas condições do cenário principal." }

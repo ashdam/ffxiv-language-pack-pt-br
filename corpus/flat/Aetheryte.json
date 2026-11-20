@@ -2,9 +2,9 @@
   "sheet": "Aetheryte",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "Aetheryte#0.0", "hash": "1A2E43356733068E", "target": "" },
-    { "gameKey": "Aetheryte#0.2", "hash": "1E5DEB4776E29F61", "target": "" },
-    { "gameKey": "Aetheryte#1.0", "hash": "593317BB088CC8B3", "target": "" },
-    { "gameKey": "Aetheryte#1.2", "hash": "00D996A4D3995999", "target": "" }
+    { "gameKey": "Aetheryte#0.0", "hash": "1A2E43356733068E", "target": "eterita" },
+    { "gameKey": "Aetheryte#0.2", "hash": "1E5DEB4776E29F61", "target": "cristais de eterita" },
+    { "gameKey": "Aetheryte#1.0", "hash": "593317BB088CC8B3", "target": "fragmento da rede etérea" },
+    { "gameKey": "Aetheryte#1.2", "hash": "00D996A4D3995999", "target": "fragmentos da rede etérea" }
   ]
 }

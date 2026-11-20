@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_SEQ_00", "hash": "D2A4B8CF1B4DB4E2", "target": "Eshana precisa que você pegue emprestadas as asas de um grifo.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_00", "hash": "2A21A2B7DFEEB926", "target": "Falar com Giff" },
-    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_01", "hash": "E5C313EC1F63DA5E", "target": "Usar a habilidade Buffet do grifo nos enxames enfurecidos" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_01", "hash": "E5C313EC1F63DA5E", "target": "Usar a habilidade Buffet do grifo nos enxames frenéticos" },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_02", "hash": "34CDA99F05EE152F", "target": "Falar com Eshana" },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_000", "hash": "AB139AA8B35E2D18", "target": "Ah, justamente <if(gnum4,a bípede,o bípede)> que eu queria ver. Nossos soldados estão num exercício de treinamento conjunto e pediram ajuda. Sss..." },
     { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_001", "hash": "6CE4AB9127F8CB61", "target": "Pelo que sabemos, você vai precisar de um grifo para prestar a ajuda necessária. Giff vai explicar a situação. Sss..." },

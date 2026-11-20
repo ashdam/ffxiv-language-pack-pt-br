@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Cofres estranhos têm chegado à praia ao sul da Shoal Rock.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Investigar os Eorzean coffers e recolher o tesouro" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Investigar os cofres eorzeanos e recolher o tesouro" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Entregar as moedas a Zukin" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Um dos nossos membros encontrou três cofres que deram na praia na Shoal Rock. Pareciam ser de fabricação eorzeana, mas ele não conseguiu descobrir mais nada, pois estavam bem fechados por algum mecanismo que não conhecemos." },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Temos alguma experiência em abrir baús trancados, mas não os fabricados em terras ocidentais. Imagino, porém, que você conseguiria resolver esse enigma. Quer dar uma olhada?" },

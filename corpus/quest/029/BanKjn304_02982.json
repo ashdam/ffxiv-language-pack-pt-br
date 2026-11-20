@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_SEQ_00", "hash": "EF8A0DDC6AA21D66", "target": "Uma arraia feliz é uma arraia produtiva, como Zukin bem sabe.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_00", "hash": "62FBA199001FA7D3", "target": "Falar com Makura" },
-    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_01", "hash": "FF53A3488DC97092", "target": "Alimentar a striped ray nos krill swarms usando sua habilidade Inhale" },
+    { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_01", "hash": "FF53A3488DC97092", "target": "Alimentar a arraia listrada nos cardumes de krill usando sua habilidade Inhale" },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_TODO_02", "hash": "E756BA31310487E4", "target": "Relatar o ocorrido a Zukin" },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_ZUKIN_000_000", "hash": "80A454D7F7DF947F", "target": "Que tal nadar um pouco, <split(<string(gstr1)>, ,1)>? Se tiver um momento livre, Makura precisa de ajuda com as arraias. Elas cuidam de nós, então precisamos cuidar delas." },
     { "gameKey": "quest/029/BanKjn304_02982#TEXT_BANKJN304_02982_MAKURA_000_010", "hash": "A0D78FC70D2FA2CA", "target": "Ah, <split(<string(gstr1)>, ,1)>, eu estava esperando por você. Preciso que leve uma das nossas arraias para comer bem, como recompensa por todo o seu esforço." },

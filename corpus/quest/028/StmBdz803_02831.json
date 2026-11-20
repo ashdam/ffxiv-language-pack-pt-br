@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_SEQ_00", "hash": "35D1724C42442B70", "target": "Odo precisa de alguém para transmitir uma mensagem." },
-    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_00", "hash": "8BF8AC2085E37AA3", "target": "Usar /congratulate com a storm officer" },
-    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_01", "hash": "5F06EF1268CC5566", "target": "Usar /congratulate com o serpent officer" },
-    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_02", "hash": "BD67DF60A9D4BD90", "target": "Usar /congratulate com o serpent officer" },
+    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_00", "hash": "8BF8AC2085E37AA3", "target": "Usar /congratulate com a oficial da Tempestade" },
+    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_01", "hash": "5F06EF1268CC5566", "target": "Usar /congratulate com o oficial da Serpente" },
+    { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_02", "hash": "BD67DF60A9D4BD90", "target": "Usar /congratulate com o oficial da Serpente" },
     { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_03", "hash": "C70F12F56196B33B", "target": "Usar /pray pelo fallen soldier" },
     { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_TODO_04", "hash": "31FA47A6C2F0354F", "target": "Falar com Odo" },
     { "gameKey": "quest/028/StmBdz803_02831#TEXT_STMBDZ803_02831_ODO_000_000", "hash": "BE5EDAD237C939DB", "target": "Espere, eu conheço você. <string(gstr1)>! Bem, esta é uma surpresa muito bem-vinda. Se não for abusar, gostaria de pedir um favor." },

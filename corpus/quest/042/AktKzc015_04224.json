@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_SEQ_00", "hash": "9062EA05BA5299AC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ambaghai precisa da sua habilidade para resolver problemas, ou melhor, para ajudar os outros a resolvê-los." },
-    { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_TODO_00", "hash": "04AC7D887981BC5D", "target": "Falar com o perpetually perturbed Maelstrom officer" },
-    { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_TODO_01", "hash": "251273C7C61DB5B9", "target": "Reunir informações e falar com o perpetually perturbed Maelstrom officer" },
+    { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_TODO_00", "hash": "04AC7D887981BC5D", "target": "Falar com o oficial do Maelstrom sempre perturbado" },
+    { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_TODO_01", "hash": "251273C7C61DB5B9", "target": "Reunir informações e falar com o oficial do Maelstrom sempre perturbado" },
     { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_TODO_02", "hash": "98C04858B66BA8D4", "target": "Falar com Ambaghai" },
     { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_AMBAGHAI_000_000", "hash": "6DA26200534EC11E", "target": "Hã... Peço desculpas, mas ouvi dizer que você é <if(gnum4,uma mulher,um homem)> de mundo. Temos um pequeno problema, e seus conhecimentos talvez nos ajudem a resolvê-lo." },
     { "gameKey": "quest/042/AktKzc015_04224#TEXT_AKTKZC015_04224_AMBAGHAI_000_001", "hash": "1A56F83035BC4569", "target": "Na verdade, me procuraram primeiro, mas, quando se trata de algo além das artes marciais, não consigo ajudar muito. No entanto, me ofereci para encontrar alguém que possa, então espero ainda ser útil." },

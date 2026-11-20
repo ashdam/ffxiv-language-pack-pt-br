@@ -2,11 +2,11 @@
   "conversation": "quest/041/AktKza008_04187",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_SEQ_00", "hash": "ED8DBE07D2F02C42", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O burly researcher olha para você de cima a baixo." },
+    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_SEQ_00", "hash": "ED8DBE07D2F02C42", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O pesquisador robusto olha para você de cima a baixo." },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_00", "hash": "4EDA141A173D3848", "target": "Falar com o lightly built lab assistant" },
-    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_01", "hash": "015A946107A5D9D7", "target": "Pegar a ore-filled crate" },
+    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_01", "hash": "015A946107A5D9D7", "target": "Pegar o caixote cheio de minério" },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_02", "hash": "0082266DF40DC142", "target": "Falar com o lightly built lab assistant e segui-lo" },
-    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_03", "hash": "7ED0F2F76D04EC24", "target": "Falar com o burly researcher" },
+    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_TODO_03", "hash": "7ED0F2F76D04EC24", "target": "Falar com o pesquisador robusto" },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_000", "hash": "B1F570927424B54A", "target": "Você parece ter força, resistência e, mais importante, tempo livre. Que coincidência maravilhosa, pois preciso de mais um par de mãos. Vou explicar." },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_001", "hash": "33B9FC10658D3124", "target": "Mandei um dos meus colegas mais jovens ao Tolo do Esteta para organizar uma remessa de minério... mas, depois de olhar o pedido outra vez, entendi por que ele estava demorando tanto." },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_002", "hash": "082788260B4D4664", "target": "Parece que o pedido tinha mais que o triplo do tamanho com que costumamos lidar. Deve ter a ver com todos esses preparativos em grande escala. E não posso esperar que aquele novato carregue tudo sozinho." },
@@ -25,7 +25,7 @@
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_NEWRESEARCHER04187_000_032", "hash": "CCB4FC0B31B03C67", "target": "Obrigado, consigo cuidar do resto daqui em diante. O pior já passou!" },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_040", "hash": "087ABB44C23A7925", "target": "Ainda bem que você apareceu quando apareceu. Não posso passar o dia carregando minério, e meu colega não foi exatamente feito para o trabalho pesado." },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_041", "hash": "DCD4311DE2AAD19E", "target": "O Tolo do Esteta é onde guardamos nossos depósitos de minerais, sabe, e atender aos pedidos dos nossos colegas pesquisadores <italic(1)>é<italic(0)> nosso trabalho..." },
-    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_042", "hash": "F6E5B2990754FBD5", "target": "Mas não temos estrutura para processar pedidos dessa quantidade, principalmente se Central Circuit continuar enviando requisições nesse mesmo ritmo frenético." },
+    { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_042", "hash": "F6E5B2990754FBD5", "target": "Mas não temos estrutura para processar pedidos dessa quantidade, principalmente se o Circuito Central continuar enviando requisições nesse mesmo ritmo frenético." },
     { "gameKey": "quest/041/AktKza008_04187#TEXT_AKTKZA008_04187_GOODSHAPERESEARCHER04187_000_043", "hash": "960A61FE4CBDC680", "target": "Logo vamos ficar sem estoque, isso se nossas costas não cederem primeiro. Enfim, você não veio ouvir minhas reclamações. Tome seu pagamento, e bom trabalho!" }
   ]
 }

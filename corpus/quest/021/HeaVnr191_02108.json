@@ -2,8 +2,8 @@
   "conversation": "quest/021/HeaVnr191_02108",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_00", "hash": "E7A4F7B2E9F41FE4", "target": "O wandering minstrel quer ouvir tudo sobre como você se revoltou contra a máquina." },
-    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_01", "hash": "2A9B55BFA9A6EFC8", "target": "Inspirado por sua batalha contra o colosso, o menestrel volta a cantar, retratando suas provações e tribulações em Dravanian hinterlands de uma maneira previsivelmente hiperbólica. Siga pelas margens do Thaliak e converse com Redbrix sobre suas lembranças dos acontecimentos." },
+    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_00", "hash": "E7A4F7B2E9F41FE4", "target": "O menestrel errante quer ouvir tudo sobre como você se revoltou contra a máquina." },
+    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_01", "hash": "2A9B55BFA9A6EFC8", "target": "Inspirado por sua batalha contra o colosso, o menestrel volta a cantar, retratando suas provações e tribulações nas terras interiores dravanianas de uma maneira previsivelmente hiperbólica. Siga pelas margens do Thaliak e converse com Redbrix sobre suas lembranças dos acontecimentos." },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SEQ_02", "hash": "CF5BBC60E2B773ED", "target": "Seja pelo dom do Eco, pelo poder dos versos do poeta ou por uma combinação dos dois, parece que agora você pode reviver sua exploração de Gordias. Embora geralmente relute em olhar para trás, não é impossível que voltar ao passado traga benefícios no futuro.<br><br>※Gordias (Savage) pode ser acessado pelo Duty Finder." },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_TODO_00", "hash": "393871CBF7E19197", "target": "Falar com Redbrix em Makers' Quarter" },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_WANDERINGMINSTREL_000_000", "hash": "A163351677FDC916", "target": "Os ventos sussurrantes trazem histórias das ousadias de alguém de aventuras aos meus ouvidos insaciáveis." },
@@ -18,7 +18,7 @@
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_WANDERINGMINSTREL_000_008", "hash": "1ED02A55E00F22D5", "target": "Por favor, acolha meus humildes versos em seu coração. As canções dão novos olhos a quem as escuta e talvez a minha permita que você veja seus feitos de outra maneira..." },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_WANDERINGMINSTREL_000_014", "hash": "1ACBF19D96CD986D", "target": "Que maravilhas verá, que sons ouvirá, se as palavras da minha balada consigo levar...?" },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_REDBRIX_000_010", "hash": "F789EBC46453002F", "target": "Pssshkohhh... Altogente querer entrar? Curiosidade não estar saciada? Redbrix dar orientação, mas cuidado: gigante estar dormindo─não morto!" },
-    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SYSTEM_000_011", "hash": "B7166C6176457D57", "target": "Graças aos versos que brotam do wandering minstrel, agora você pode reviver sua incursão em Gordias." },
+    { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SYSTEM_000_011", "hash": "B7166C6176457D57", "target": "Graças aos versos que brotam do menestrel errante, agora você pode reviver sua incursão em Gordias." },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SYSTEM_000_012", "hash": "C4810436B04CD34F", "target": "Você pode enfrentar Gordias (Savage) falando com Redbrix em Makers' Quarter." },
     { "gameKey": "quest/021/HeaVnr191_02108#TEXT_HEAVNR191_02108_SYSTEM_000_013", "hash": "1137908395634714", "target": "Para detalhes como as condições de entrada, fale com Redbrix." }
   ]

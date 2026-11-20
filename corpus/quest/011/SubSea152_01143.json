@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SEQ_00", "hash": "0E1A27DD4E56DC62", "target": "A Soldada da Tempestade S'nairoh cheira a sal, malte e más ideias, e parece decidida a conseguir seus serviços outra vez." },
-    { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SEQ_01", "hash": "E988C9DA1DCC9017", "target": "Apesar das suas ressalvas, você aceita uma tarefa de S'nairoh. Deixe-a com seus planos duvidosos e mate cinco hedgemoles." },
+    { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SEQ_01", "hash": "E988C9DA1DCC9017", "target": "Apesar das suas ressalvas, você aceita uma tarefa de S'nairoh. Deixe-a com seus planos duvidosos e mate cinco toupeiras-ouriço." },
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SEQ_02", "hash": "59B27948295F278C", "target": "Com a graça dos Doze, você venceu essas criaturas quase inofensivas. Leve a boa notícia a S'nairoh." },
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SEQ_03", "hash": "9BD147FFCA920B8F", "target": "As hedgemoles não tinham planos contra Aleport. Merecem elogios por lutarem com tanta bravura pela própria vida. Nem tudo está perdido, pois a boa soldada agora gastará suas poucas moedas com sanguessugas em vez de cerveja." },
-    { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_TODO_00", "hash": "55AC5C542105486F", "target": "Eliminar hedgemoles" },
+    { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_TODO_00", "hash": "55AC5C542105486F", "target": "Eliminar toupeiras-ouriço" },
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_TODO_01", "hash": "C362A6C80E2D5140", "target": "Apresentar-se a S'nairoh" },
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SNAIROH_000_000", "hash": "E2530CFDE49C720B", "target": "Bem, fiz uma bela besteira outro dia. A Comandante Falkbryda disse que vai descontar do meu soldo se eu fizer algo assim de novo. Pelo menos não fui parar no xadrez como C'mell." },
     { "gameKey": "quest/011/SubSea152_01143#TEXT_SUBSEA152_01143_SNAIROH_000_001", "hash": "D6EA51087432FCE4", "target": "Pode ter certeza de que tenho tomado muito cuidado desde então. Já mal tenho dinheiro na bolsa para matar a sede. Mas desta vez, sim, Aleport está sendo atacada de verdade, e lá vou eu preparar o canhão!" },

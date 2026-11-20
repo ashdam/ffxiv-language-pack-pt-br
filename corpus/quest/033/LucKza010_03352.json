@@ -2,9 +2,9 @@
   "conversation": "quest/033/LucKza010_03352",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_SEQ_00", "hash": "0D22DC0F320AB417", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O unfulfilled forager está com vontade de comer carne." },
+    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_SEQ_00", "hash": "0D22DC0F320AB417", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O forrageador insatisfeito está com vontade de comer carne." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_TODO_00", "hash": "FC58E4E8FE851A8D", "target": "Usar a corda de captura num tragopan enfraquecido" },
-    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_TODO_01", "hash": "E9D03F8B61B10BE1", "target": "Entregar o tragopan amarrado ao unfulfilled forager" },
+    { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_TODO_01", "hash": "E9D03F8B61B10BE1", "target": "Entregar o tragopan amarrado ao forrageador insatisfeito" },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_000", "hash": "D46F2CA1BF9DDAA1", "target": "Ah, o que eu não daria por uma só bocada de carne suculenta..." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_001", "hash": "6CBC3181C3D343E1", "target": "Faz mais luas do que consigo contar que só como meol! Quer dizer, agradeço pelas doações e tudo mais, mas às vezes a gente precisa variar." },
     { "gameKey": "quest/033/LucKza010_03352#TEXT_LUCKZA010_03352_GRIMYMAN03352_000_002", "hash": "0205AEB70146E697", "target": "É, se tivesse uma ave de caça assada agora, eu deixava aquela belezinha só nos ossos!" },

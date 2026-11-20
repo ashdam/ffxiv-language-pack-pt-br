@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_SEQ_00", "hash": "9204EC81BFEB0A13", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Este lonesome lancer parece estar esperando alguém." },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_00", "hash": "FC576B34DC160DDA", "target": "Procurar o well-meaning mentor" },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_00", "hash": "FC576B34DC160DDA", "target": "Procurar o mentor bem-intencionado" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_01", "hash": "E0A1DD756DE0F6C2", "target": "Expressar sua dúvida ao belligerent broker com /doubt" },
-    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_02", "hash": "8056B73B4275565C", "target": "Falar com o well-meaning mentor" },
+    { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_TODO_02", "hash": "8056B73B4275565C", "target": "Falar com o mentor bem-intencionado" },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_000", "hash": "6F3EDA910CB370FF", "target": "Me perdoe, não vi você aí. A ausência do meu mestre me preocupa muito." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_001", "hash": "75147AC83207C606", "target": "Ele é um mago poderoso, perfeitamente capaz de se defender, mas não consigo deixar de pensar no que pode estar atrasando ele." },
     { "gameKey": "quest/034/LucKze014_03448#TEXT_LUCKZE014_03448_GUARD03448_000_002", "hash": "C9D3D350B97D4949", "target": "Vou procurá-lo e agradeceria muito sua ajuda. Se encontrar algum mago dos Abençoados na floresta, poderia verificar se está tudo bem?" },

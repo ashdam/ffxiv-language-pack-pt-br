@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SEQ_00", "hash": "5EAADDAC0B6591A8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Lad Kenn teme muito pela segurança de um amigo." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_00", "hash": "8E7D3858E12A2F8F", "target": "Falar com Kenn Gyuf" },
-    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_01", "hash": "036823EA549E7F9F", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digitar qualquer frase que contenha “Kenn Gyuf” para chamar o Pixie" },
+    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_01", "hash": "036823EA549E7F9F", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, digitar qualquer frase que contenha “Kenn Gyuf” para chamar o Pixie" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_TODO_02", "hash": "E65BF2FDFD8C9688", "target": "Apresentar um relatório a Lad Kenn" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_LADKENN_000_000", "hash": "EAD488AC5EFB41F4", "target": "Socorro! Me ajude, eu imploro! Meu amigo foi para Phisor Lran, um lugar onde nos dizem para nunca, nunca pisar..." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_LADKENN_000_001", "hash": "27A8704B03559634", "target": "Pensei em ir atrás, mas tenho medo de encontrar aquela... aquela <italic(1)>coisa<italic(0)>." },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_KENNGYUF_100_011", "hash": "CEA19A973464C593", "target": "Hi, hi, hi! Ninguém pode me impedir!" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SYSTEM_000_012", "hash": "EB2B8233CB7C938F", "target": "Ignorando seu aviso, Kenn Gyuf segue em direção a Phisor Lran. Se encontrar o Pixie de novo, talvez ainda consiga convencê-lo a voltar." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SYSTEM_000_013", "hash": "A7F08D2A80F10109", "target": "Kenn Gyuf" },
-    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SYSTEM_000_014", "hash": "66AD8F5F069462E9", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar “Kenn Gyuf” e chamar o Pixie teimoso." },
+    { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SYSTEM_000_014", "hash": "66AD8F5F069462E9", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar “Kenn Gyuf” e chamar o Pixie teimoso." },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_BEAVERA03395_100_020", "hash": "C6B6F8D81BF8FBF2", "target": "(-???-)\\<guincho> \\<guincho>" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_BEAVERA03395_000_020", "hash": "474ECC7C6EA4232C", "target": "(-Criatura parecida com um castor-)\\<guincho> \\<guincho>" },
     { "gameKey": "quest/033/LucKzc012_03395#TEXT_LUCKZC012_03395_SYSTEM_000_021", "hash": "DD4956E921EC9F3F", "target": "Embora seu castorês esteja um pouco enferrujado, a criatura parece querer leite." },

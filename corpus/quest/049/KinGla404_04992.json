@@ -55,6 +55,6 @@
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SHUNYE_000_076", "hash": "DC78206032C7CEE5", "target": "Então é melhor não deixar ela esperando, não é?" },
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SHUNYE_000_077", "hash": "C582C8A35D1EF933", "target": "Eu mesmo iria, mas já levei bronca demais por hoje. Você poderia ir no meu lugar, <split(<string(gstr1)>, ,1)>? Prometo uma boa recompensa pelo trabalho." },
     { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_078", "hash": "42489D34A03E7A88", "target": "Shunye está radiante com seus esforços. Agora ele considera você <colortype(500)><edgecolortype(501)><if(gnum4,uma,um)> Gifted Gatherer<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_079", "hash": "53476335B523215F", "target": "Uma nova missão que continua a história da Shunye's Apothecary está disponível. Ao concluí-la, a lista de Wachumeqimeqi Deliveries de Shunye será atualizada." }
+    { "gameKey": "quest/049/KinGla404_04992#TEXT_KINGLA404_04992_SYSTEM_000_079", "hash": "53476335B523215F", "target": "Uma nova missão que continua a história da Botica de Shunye está disponível. Ao concluí-la, a lista de Wachumeqimeqi Deliveries de Shunye será atualizada." }
   ]
 }

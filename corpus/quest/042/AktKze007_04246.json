@@ -2,13 +2,13 @@
   "conversation": "quest/042/AktKze007_04246",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_SEQ_00", "hash": "4BF4BDF23EBBCB48", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O vacillating Loporrit precisa de ajuda." },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_SEQ_00", "hash": "4BF4BDF23EBBCB48", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O Loporrit hesitante precisa de ajuda." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_00", "hash": "D764697BAE89BD5F", "target": "Falar com o Loporrit tailor" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_01", "hash": "81971CEDC6FCDA6A", "target": "Fazer uma pose com /pose para o Loporrit tailor" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_02", "hash": "2158A5FF273D30A3", "target": "Assumir a postura de combate com /battlestance para o Loporrit tailor" },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_03", "hash": "FBF97668C4FBD259", "target": "Falar com o vacillating Loporrit" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_TODO_03", "hash": "FBF97668C4FBD259", "target": "Falar com o Loporrit hesitante" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_000", "hash": "FF6F8F243849B745", "target": "Ah! É você! Hum... Se não for muito incômodo, eu precisava muito da sua ajuda!" },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_001", "hash": "65F693DD72A0B142", "target": "Estamos fazendo roupas para seu povo, mas, depois de conversar com Livingway, percebi que cometemos um erro grave!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_001", "hash": "65F693DD72A0B142", "target": "Estamos fazendo roupas para seu povo, mas, depois de conversar com Vivento, percebi que cometemos um erro grave!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_002", "hash": "0542823BE377E59F", "target": "Precisamos fazer grandes mudanças nos planos. Esperava que você viesse comigo falar com o Loporrit responsável pelos ajustes das roupas." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_003", "hash": "3B915572C7969541", "target": "Agradeço! Não vai ser nada fácil aceitar essa notícia..." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_004", "hash": "B1CE1901817D0108", "target": "Estou dizendo, estamos fazendo tudo errado! Precisamos consertar essas roupas antes que seja tarde demais!" },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_011", "hash": "876E2B57C8C3192A", "target": "Ah! Então é você que vai servir de modelo. Entendo... Você realmente parece uma cenourinha." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_012", "hash": "6E68A39F92074291", "target": "Talvez eu deva explicar... Queremos sua ajuda para redefinir o estilo das roupas que criamos." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_013", "hash": "C6D6F4B3D525B901", "target": "Acreditamos que conforto e familiaridade sejam essenciais para acomodar as pessoas de Etheirys... Por isso achamos que máscaras e mantos de uso geral bastariam." },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_100_013", "hash": "6E1CC1BEE8A816DF", "target": "Quando Livingway disse que a moda de Etheirys era muito diferente do que esperávamos, mal pude acreditar. Mas conhecer você deixou tudo dolorosamente claro!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_100_013", "hash": "6E1CC1BEE8A816DF", "target": "Quando Vivento disse que a moda de Etheirys era muito diferente do que esperávamos, mal pude acreditar. Mas conhecer você deixou tudo dolorosamente claro!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_014", "hash": "6D661C97443F138E", "target": "De fato. Agora vejo que nossos planos não servem. Suas roupas são tão vivas e... peculiares." },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_015", "hash": "2EE2885B1213A138", "target": "Ainda precisamos decidir quais ajustes fazer. Pode ficar mais um pouco, por favor?" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_016", "hash": "89A64B57F8F470EC", "target": "Agradeço. Agora, faça a gentileza de fazer uma <colortype(500)><edgecolortype(501)>pose<edgecolortype(0)><colortype(0)> para mim. Quero ter uma ideia de como o tecido acompanha seus movimentos." },
@@ -42,7 +42,7 @@
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSB04246_000_036", "hash": "EC914E20B4E0DD67", "target": "Você me deu tantas ideias novas que mal posso esperar para começar! Na verdade, não posso esperar nem mais um instante!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_037", "hash": "46FBB92902B953BC", "target": "Ah... Certo, então. Pode me acompanhar de volta ao meu posto?" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_040", "hash": "F6DB55E5059A90EF", "target": "Acho que agora temos uma ideia muito melhor do que fazer, e os ajustes necessários não devem dar muito trabalho." },
-    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_041", "hash": "564DF12ECDDB3B8A", "target": "Espere para ver: em breve, as pessoas de Etheirys vão implorar pelas últimas modas da Bestways Burrow!" },
+    { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_041", "hash": "564DF12ECDDB3B8A", "target": "Espere para ver: em breve, as pessoas de Etheirys vão implorar pelas últimas modas da Toca de Bestways!" },
     { "gameKey": "quest/042/AktKze007_04246#TEXT_AKTKZE007_04246_LOPORRITSA04246_000_042", "hash": "67AD6D7FD5E67327", "target": "...Se eu voltar ao trabalho, claro. Agradeço a ajuda!" }
   ]
 }

@@ -2,9 +2,9 @@
   "conversation": "quest/042/AktKzh004_04299",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O enthusiastic observer precisa de ajuda para recuperar plantas perdidas." },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_SEQ_00", "hash": "41E0B8F546CF59F7", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O observador entusiasmado precisa de ajuda para recuperar plantas perdidas." },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_00", "hash": "EB8B653D6CB4CEA0", "target": "Recuperar tufos de malva-das-nuvens" },
-    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Entregar os tufos de malva-das-nuvens ao enthusiastic observer" },
+    { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_TODO_01", "hash": "F83FB54F18D9534C", "target": "Entregar os tufos de malva-das-nuvens ao observador entusiasmado" },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_000", "hash": "048FB41A589861DD", "target": "Que cena! Um ampelos espirrou e mandou tufos de malva-das-nuvens voando para todos os lados." },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_001", "hash": "BD95A482445ABB42", "target": "Mas, por mais divertido que tenha sido, nunca vou conseguir reunir todos sem ajuda... a menos que você queira dar uma mão?" },
     { "gameKey": "quest/042/AktKzh004_04299#TEXT_AKTKZH004_04299_OBSERVER04299_000_002", "hash": "D1C307FFB9DE9464", "target": "Muito obrigado! Vamos nos separar e começar a procurá-los." },

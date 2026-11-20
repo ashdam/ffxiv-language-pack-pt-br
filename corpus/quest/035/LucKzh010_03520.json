@@ -2,9 +2,9 @@
   "conversation": "quest/035/LucKzh010_03520",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_SEQ_00", "hash": "635ED52DC3867FA1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O Eulmoran soldier precisa de ajuda para levantar o ânimo dos habitantes de sua cidade." },
+    { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_SEQ_00", "hash": "635ED52DC3867FA1", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O soldado eulmorano precisa de ajuda para levantar o ânimo dos habitantes de sua cidade." },
     { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_TODO_00", "hash": "22ED8A93E6866DC6", "target": "Anotar as preferências alimentares dos habitantes de Eulmore" },
-    { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_TODO_01", "hash": "ACDAA136C1990627", "target": "Reportar ao Eulmoran soldier no Quartel-General do Exército de Eulmore" },
+    { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_TODO_01", "hash": "ACDAA136C1990627", "target": "Reportar ao soldado eulmorano no Quartel-General do Exército de Eulmore" },
     { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_SOLDIER03520_000_000", "hash": "237B07E11C726B65", "target": "Nós já não nos encontramos em algum... Ah, é você! Eu vi sua luta! Tanta força, tanta confiança, mas tanto cuidado para não ferir nenhum civil..." },
     { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_SOLDIER03520_000_002", "hash": "3796F79BCFF78A56", "target": "Talvez queira ajudar no que estou planejando. Na verdade, cozinho até que bem, às vezes acho que é a <italic(1)>única<italic(0)> coisa em que sou bom, e pensei que as pessoas poderiam se sentir melhor sabendo que têm onde conseguir uma refeição decente." },
     { "gameKey": "quest/035/LucKzh010_03520#TEXT_LUCKZH010_03520_SOLDIER03520_000_003", "hash": "3550EFC5B2D9BAA3", "target": "O problema é que há tantas opções do que preparar, e não sou muito bom em tomar decisões. Eu sairia perguntando, mas os civis costumam ficar meio nervosos quando alguém do exército começa a fazer perguntas, e não quero causar <italic(1)>mais<italic(0)> aflição a ninguém." },

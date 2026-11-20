@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_SEQ_00", "hash": "4F3447A5DB020B2D", "target": "Eshana precisa que você encontre fugitivos da justiça.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_TODO_00", "hash": "52B80A973351F938", "target": "Falar com as pessoas suspeitas nas proximidades de East End" },
+    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_TODO_00", "hash": "52B80A973351F938", "target": "Falar com as pessoas suspeitas nas proximidades do Extremo Leste" },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_TODO_01", "hash": "8A054130402BA0F7", "target": "Falar com Eshana" },
-    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_000", "hash": "7DAAA3807E53446A", "target": "Temos um problema. A Aliança nos avisou que um bando de criminosos sanguinários escapou da prisão, cruzou a fronteira e se espalhou por Fringes. Sss..." },
+    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_000", "hash": "7DAAA3807E53446A", "target": "Temos um problema. A Aliança nos avisou que um bando de criminosos sanguinários escapou da prisão, cruzou a fronteira e se espalhou pelas Fronteiras. Sss..." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_001", "hash": "B04E124D99AAB48D", "target": "Nossas guardas começaram a vasculhar a área imediatamente, mas ainda não encontraram os fugitivos. Você pode se juntar às buscas? Sss..." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_002", "hash": "D4766ABFD0A86858", "target": "Acabei de receber relatos de algumas pessoas suspeitas passando por East End. Não sabemos se uma delas, ou todas, são os criminosos que procuramos. Aproxime-se com cautela e defenda-se, se necessário. Sss..." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_SUSPICIOUSPERSONA03051_000_010", "hash": "CC6F589605340563", "target": "Hein? O quê? O que você quer comigo?" },
@@ -36,6 +36,6 @@
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_040", "hash": "A065254C779174EA", "target": "Como foi a busca? Sss..." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_041", "hash": "CE63B598F12DE365", "target": "Há! Eles esperavam cães no seu encalço, e eu mandei um dragão! Sss..." },
     { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_042", "hash": "D914A700EDB59622", "target": "Nos últimos dias, os criminosos dos países vizinhos começaram a tratar Gyr Abania como um refúgio, um lugar para escapar do punho da justiça. Sss..." },
-    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_043", "hash": "1AC24136A26CABC1", "target": "Cabe a nós, aqui em Fringes, tirar essa ideia da cabeça deles. Ajude a manter nossas fronteiras livres dessa escória. Sss..." }
+    { "gameKey": "quest/030/BanAna402_03051#TEXT_BANANA402_03051_ESHANA_000_043", "hash": "1AC24136A26CABC1", "target": "Cabe a nós, aqui nas Fronteiras, tirar essa ideia da cabeça deles. Ajude a manter nossas fronteiras livres dessa escória. Sss..." }
   ]
 }

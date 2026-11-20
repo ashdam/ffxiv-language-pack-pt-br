@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_SEQ_00", "hash": "BD7EB8ACAE994C92", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Ao ver você, Nikawtenhe começa a maquinar uma ideia." },
-    { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_TODO_00", "hash": "8FAE0128CDFFDC0B", "target": "Falar com o unassuming merchant" },
+    { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_TODO_00", "hash": "8FAE0128CDFFDC0B", "target": "Falar com o mercador discreto" },
     { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_TODO_01", "hash": "B1D82B5C23645352", "target": "Pegar a caixa clandestina" },
     { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_TODO_02", "hash": "B1E3408B4F99C48C", "target": "Levar a caixa clandestina ao local indicado" },
     { "gameKey": "quest/051/KinGze001_05119#TEXT_KINGZE001_05119_TODO_03", "hash": "3C40E1B825BFD725", "target": "Falar com Nikawtenhe" },

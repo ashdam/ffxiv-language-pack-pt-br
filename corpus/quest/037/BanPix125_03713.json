@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_SEQ_00", "hash": "CED13279F84CEDED", "target": "Uin Nee parece ainda mais inquieta que de costume, o que já é motivo de bastante alarme.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_00", "hash": "C48BE00BF2AF9136", "target": "Derrotar os Nu Mou porxienappers no Baixio dos Sêxtuplos" },
-    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_01", "hash": "8C5D7BC55EE41B51", "target": "Ajudar o trembling porxie" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_00", "hash": "C48BE00BF2AF9136", "target": "Derrotar os sequestradores de porxies Nu Mou no Baixio dos Sêxtuplos" },
+    { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_01", "hash": "8C5D7BC55EE41B51", "target": "Ajudar o porxie trêmulo" },
     { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_TODO_02", "hash": "90A06FC0718F7DD0", "target": "Informar Uin Nee" },
     { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_000", "hash": "E66CD6F837EB2C89", "target": "Bem, <if(gnum4,minha mortal favorita,meu mortal favorito)>, nós <italic(1)>poderíamos<italic(0)> estar brincando com porxies nos sonhos agora. Mas nããão! Aqueles fora da lei horríveis e malvados tinham que roubar o que encomendei de Pla Enni! Então, tanto eu <italic(1)>quanto<italic(0)> os sonhos estamos... sem porxie!" },
     { "gameKey": "quest/037/BanPix125_03713#TEXT_BANPIX125_03713_UINNEE_000_001", "hash": "783C7CB1DF605B1E", "target": "Argh! Argh, eu digo! Oooh, quando eu puser as mãos naqueles sequestradores de porxies..." },

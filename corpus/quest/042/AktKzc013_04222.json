@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_SEQ_00", "hash": "FEB5AD7721FDAED3", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Batedores devem ser exímios em se esconder, mas, quando nem seus próprios companheiros conseguem encontrá-los, certamente há algo errado." },
-    { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_00", "hash": "492C809D2EA53244", "target": "Procurar a wounded contingent scout" },
-    { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_01", "hash": "0720FA6213489EFC", "target": "Falar com a wounded contingent scout" },
+    { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_00", "hash": "492C809D2EA53244", "target": "Procurar a batedora do contingente ferida" },
+    { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_01", "hash": "0720FA6213489EFC", "target": "Falar com a batedora do contingente ferida" },
     { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_02", "hash": "8C7DE19EF783FEFC", "target": "Ajudar o injured civilian" },
     { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TODO_03", "hash": "D57C057AD3116324", "target": "Falar com Talon" },
     { "gameKey": "quest/042/AktKzc013_04222#TEXT_AKTKZC013_04222_TALON_000_000", "hash": "4C06ECBDDA717E39", "target": "Por favor, um momento do seu tempo!" },

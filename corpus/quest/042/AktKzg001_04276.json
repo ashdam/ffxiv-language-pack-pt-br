@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_SEQ_00", "hash": "06BFE0D3A943DCB5", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Eukleides olha para você com curiosidade." },
-    { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_00", "hash": "08CA2DD9CCE796E8", "target": "Falar com a graceful observer" },
+    { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_00", "hash": "08CA2DD9CCE796E8", "target": "Falar com a observadora graciosa" },
     { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_01", "hash": "096DCA7F45825DD1", "target": "Usar as poções de Hypnos nos oreiai e capturá-los" },
-    { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_02", "hash": "D2DA597C6F7E86F4", "target": "Entregar os oreiai à graceful observer" },
+    { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_02", "hash": "D2DA597C6F7E86F4", "target": "Entregar os oreiai à observadora graciosa" },
     { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_TODO_03", "hash": "4B9E9FD91B70047B", "target": "Entregar os oreiai a Eukleides" },
     { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_EUKLEIDES_000_000", "hash": "9735D6E8382E3EC4", "target": "Hum? Veio visitar nossas instalações? Se quiser, pode nos ajudar com uma das nossas chegadas mais recentes, o oreias." },
     { "gameKey": "quest/042/AktKzg001_04276#TEXT_AKTKZG001_04276_EUKLEIDES_000_001", "hash": "D9D2E1C470A6E233", "target": "Essas criaturas são reconhecíveis pelas orelhas longas, que usam para detectar perigos. Também são muito sensíveis aos minerais e conseguem encontrar depósitos mesmo na escuridão total." },

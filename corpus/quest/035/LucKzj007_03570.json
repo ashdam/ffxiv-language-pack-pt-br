@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_SEQ_00", "hash": "A0FD5F8849E9C760", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Thafe, de Weed, parece inquieto." },
-    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_00", "hash": "DA955ADA5919F0A9", "target": "Procurar o Thafe's brother" },
+    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_00", "hash": "DA955ADA5919F0A9", "target": "Procurar o irmão de Thafe" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_01", "hash": "C618795942C16D95", "target": "Procurar relíquias nas ruínas" },
-    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_02", "hash": "39641DC809F46DC0", "target": "Entregar as relíquias ao Thafe's brother" },
+    { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_02", "hash": "39641DC809F46DC0", "target": "Entregar as relíquias ao irmão de Thafe" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_TODO_03", "hash": "DFFAB1F8ADA5988E", "target": "Falar com Thafe" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_000", "hash": "24E3AB1C5FEBFB5E", "target": "Viajante! Ei, viajante! Não quero incomodar, mas pode me ajudar a encontrar meu irmão mais velho?" },
     { "gameKey": "quest/035/LucKzj007_03570#TEXT_LUCKZJ007_03570_THAFE_000_001", "hash": "5931B386E67F651C", "target": "De repente, ele começou a falar que precisava provar sua coragem. Aí montou num amaro e voou até as ruínas acima da aldeia, sozinho! Tem fantasmas naquele lugar! E se ele não voltar? Não quero ficar sozinho..." },

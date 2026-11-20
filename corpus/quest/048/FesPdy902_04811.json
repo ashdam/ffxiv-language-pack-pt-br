@@ -10,12 +10,12 @@
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SEQ_05", "hash": "48D003486C93507D", "target": "Embora Peatie esteja assustada demais para reagir ao seu incentivo de início, algumas palavras sinceras conseguem libertá-la do medo e lhe dar uma nova determinação. Com a goobbue pronta para sua grande apresentação, você pode se juntar ao público e torcer pelo sucesso dela." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SEQ_06", "hash": "DBE799A1CE9233B2", "target": "Peatie sobe ao palco e encanta a todos com sua apresentação, recebendo aplausos calorosos que a fazem irradiar de orgulho. O senescal real parece ansioso para falar com você após esse sucesso estrondoso." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SEQ_07", "hash": "2DB38D403730C566", "target": "O espetáculo é o assunto de Ul'dah, e Peatie se deleita com a adoração do público. Percebendo que ela deve seguir esse caminho e que seus melhores dias de artista ficaram para trás, Aldemund pede que você leve sua companheira em suas aventuras. Você aceita a agora famosa goobbue sem hesitar, e o senescal real e Jihli Aliapoh incentivam vocês a aproveitar o restante das celebrações em Ul'dah e Gridania. Com tanta festa por estas terras, não faltarão sorrisos por um bom tempo." },
-    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_00", "hash": "4F1CACF169EC5981", "target": "Falar com o royal seneschal em Ul'dah" },
+    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_00", "hash": "4F1CACF169EC5981", "target": "Falar com o senescal real em Ul'dah" },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_01", "hash": "38510B963FEED864", "target": "Falar com cidadãos uldahnos em Steps of Thal" },
-    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_02", "hash": "44564E1ADAE2BADD", "target": "Falar com o royal seneschal na Avenida Esmeralda" },
+    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_02", "hash": "44564E1ADAE2BADD", "target": "Falar com o senescal real na Avenida Esmeralda" },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_03", "hash": "A2C1653DD69417C9", "target": "Animar Peatie com /rally" },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_04", "hash": "B463D304E587E9A6", "target": "Esperar no local indicado" },
-    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_05", "hash": "BA23AF0695CCB908", "target": "Falar com o royal seneschal" },
+    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_TODO_05", "hash": "BA23AF0695CCB908", "target": "Falar com o senescal real" },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_ALDEMUND_000_001", "hash": "8588CBB07A420C45", "target": "Não sobrou um ovo sequer. Você divulgou bem, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_PDYGOOBBUE04811_000_002", "hash": "D133339995AF47AB", "target": "Grrr!" },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_JIHLIALIAPOH_000_003", "hash": "45A3814B9BF46C8E", "target": "Vejo que você e Peatie se dão tão bem quanto ovos e spriggans! Acho que vai concordar que não poderia haver atração melhor para o Dia das Pequenas Damas." },
@@ -49,7 +49,7 @@
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_A2_000_001", "hash": "562067BE58D271BB", "target": "O público de Gridania a aplaudiu de pé." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_A2_000_002", "hash": "F73B188406D54775", "target": "E se for? Você ainda terá a chance de ver um goobbue de perto." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_MAN04811_000_045", "hash": "44ADAE1E6E77F588", "target": "Bem, pensando assim... Além disso, não tenho mais nada para fazer. Está bem, procure por mim na plateia!" },
-    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SYSTEM_000_046", "hash": "50BCC2DDCBDE41A3", "target": "A hora da apresentação de Peatie se aproxima. Fale com o royal seneschal antes que ela suba ao palco." },
+    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SYSTEM_000_046", "hash": "50BCC2DDCBDE41A3", "target": "A hora da apresentação de Peatie se aproxima. Fale com o senescal real antes que ela suba ao palco." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_PDYGOOBBUE04811_000_047", "hash": "AFC2A99560E0F399", "target": "Grrr..." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_ALDEMUND_000_048", "hash": "00CFE11D3E7DC0D9", "target": "Esse público faz até <italic(1)>meus<italic(0)> joelhos tremerem... Nem imagino como Peatie deve estar se sentindo." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_BUTLER_000_050", "hash": "FF72D823A60573FC", "target": "Obrigado, <split(<string(gstr1)>, ,1)>. Parece que a notícia se espalhou ainda mais do que eu esperava." },
@@ -103,6 +103,6 @@
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_BUTLER_000_092", "hash": "0A5AA818E4F63FB9", "target": "E isso inclui Peatie. Ver seu cuidado tão dedicado com ela me fez lembrar por que me ofereci para este cargo." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_BUTLER_000_093", "hash": "CE1543EF04661D93", "target": "Embora a apresentação de Peatie tenha terminado, o Dia das Pequenas Damas continua! Aproveite tudo o que preparamos." },
     { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_JIHLIALIAPOH_100_093", "hash": "23BEDE0465A59A7C", "target": "E não suma de Gridania também!" },
-    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SYSTEM_000_100", "hash": "3235BE0571DB104E", "target": "Você desbloqueou o minijogo Egg Hunter Riggy. Para jogar minijogos, abra o toy chest em qualquer quarto de hospedaria." }
+    { "gameKey": "quest/048/FesPdy902_04811#TEXT_FESPDY902_04811_SYSTEM_000_100", "hash": "3235BE0571DB104E", "target": "Você desbloqueou o minijogo Egg Hunter Riggy. Para jogar minijogos, abra o baú de brinquedos em qualquer quarto de hospedaria." }
   ]
 }

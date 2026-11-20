@@ -30,7 +30,7 @@
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_NUTS_000_067", "hash": "271F06D4820200AE", "target": "Aham! Só queria dizer que talvez você seja <if(gnum4,a nova caçadora mais promissora,o novo caçador mais promissor)> que vejo em anos! Trabalho brilhante por aí, realmente maravilhoso. Muito bom! E, por falar nisso... Adeus!" },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_068", "hash": "A423005761D4174C", "target": "Um dia vou arrancar esse pompom da sua cabeça e enfiar na sua maldita garganta, sua merdinha peluda..." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_XYLLE_000_069", "hash": "D04489B770F63C91", "target": "Enfim, agora você pode caçar alvos de elite. Tente não morrer. E, se encontrar nossa destemida líder por aí, mate-a." },
-    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_SYSTEM_000_070", "hash": "5BC3EA6526187C59", "target": "Agora você pode aceitar cartazes de alvos de elite do Clã Nutsy no Clan Hunt board." },
+    { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_SYSTEM_000_070", "hash": "5BC3EA6526187C59", "target": "Agora você pode aceitar cartazes de alvos de elite do Clã Nutsy no quadro de caçadas do Clã." },
     { "gameKey": "quest/036/LucKyb004_03600#TEXT_LUCKYB004_03600_HALLDOR_000_075", "hash": "9ACB0DC792AD6606", "target": "He, he, he! Não vou prender você aqui, <if(gnum4,matadora,matador)>! Há um mundo inteiro de alvos de elite esperando para serem mortos por você! Ande logo!" }
   ]
 }

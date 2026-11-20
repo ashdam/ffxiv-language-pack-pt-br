@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_SEQ_00", "hash": "29FF9796736797B9", "target": "Iola parece mergulhada em pensamentos." },
-    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_00", "hash": "DCA57A81A0853771", "target": "Falar com Iola em Weathering" },
+    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_00", "hash": "DCA57A81A0853771", "target": "Falar com Iola no Intemperismo" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_01", "hash": "C8446CB46C822AD7", "target": "Falar com Iola em Voeburtenburg" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_02", "hash": "BE5CB93BEA68651C", "target": "Falar com Iola em Pla Enni" },
-    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_03", "hash": "6EA025EEB5709570", "target": "Falar com Iola em Crystalline Mean" },
+    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_03", "hash": "6EA025EEB5709570", "target": "Falar com Iola na Justa Medida Cristalina" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_04", "hash": "EE7E10447D04097F", "target": "<if([lnum1<lnum2],Sintetizar intricate censer <sheet(Addon,9,0)>,Entregar intricate censer <sheet(Addon,9,0)> a Iola)>" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_SYSTEM_100_001", "hash": "579DEC10737F59E6", "target": "Para iniciar esta missão, primeiro conclua a missão do cenário principal “Acht-la Ormh Inn”." },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_IOLA_000_001", "hash": "8FA31E96D1244274", "target": "O que fazer, o que fazer..." },

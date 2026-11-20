@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_00", "hash": "6981BFB30A44720D", "target": "W'dhovaka, operadora do Skylift, procura alguém para ajudar com seus problemas com os megalocrabs." },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "Cada envelope de balão danificado reduz a quantidade de carga que o Skylift pode transportar. Abata cinco megalocrabs e ajude a manter as caixas em movimento." },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_01", "hash": "1545657C9AD6A515", "target": "Cada envelope de balão danificado reduz a quantidade de carga que o Elevador Aéreo pode transportar. Abata cinco megalocaranguejos e ajude a manter as caixas em movimento." },
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_02", "hash": "41DEEB36B3CB4458", "target": "Você abateu os megalocrabs. Volte ao Skylift e apresente-se a W'dhovaka." },
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_SEQ_03", "hash": "C0E30FDF746AF392", "target": "Graças aos seus esforços para quebrar carapaças, os envelopes dos balões estão a salvo dos megalocrabs saqueadores por algum tempo. No entanto, com a demanda por transporte de cargas sempre aumentando, parece necessária uma solução mais permanente." },
-    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "Abater megalocrabs" },
+    { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_00", "hash": "E28C8997F9808A35", "target": "Abater megalocaranguejos" },
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_TODO_01", "hash": "185BB1E68B38C755", "target": "Apresentar-se a W'dhovaka no Skylift" },
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_1", "hash": "928C85CF8C76C7A8", "target": "Ah, pelo amor de Llymlaen, de novo não! O couro tá todo esfarrrapado! Hm? Não, minha calça não tem nada de errado, <if(gnum4,sua descarada,seu descarado)>." },
     { "gameKey": "quest/003/SubSea102_00399#TEXT_SUBSEA102_00399_WDHOVAKA_000_2", "hash": "63BE9B6D1319A059", "target": "São os megalocrabs. Eles atacaram os envelopes de balão que deixei secando nas pedras. Aqueles malditos alicates acham que encontraram uma lula ou sei lá o quê e começam a mordiscar." },

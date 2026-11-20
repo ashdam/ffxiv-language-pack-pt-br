@@ -2,9 +2,9 @@
   "conversation": "quest/043/AktKzh009_04304",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_SEQ_00", "hash": "3685716EC673D4AE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Um troubled taxonomist está tendo dúvidas." },
+    { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_SEQ_00", "hash": "3685716EC673D4AE", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Um taxonomista aflito está tendo dúvidas." },
     { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_TODO_00", "hash": "F7A1A021B0C4EADD", "target": "Mostrar o conceito de amor-perfeito amarelo às pessoas em Poieten Oikos e pedir suas opiniões" },
-    { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_TODO_01", "hash": "98F314989268A225", "target": "Entregar o guia da Ktisis Hyperboreia e o conceito de amor-perfeito amarelo ao troubled taxonomist" },
+    { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_TODO_01", "hash": "98F314989268A225", "target": "Entregar o guia da Ktisis Hyperboreia e o conceito de amor-perfeito amarelo ao taxonomista aflito" },
     { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_NAMER04304_000_000", "hash": "32A9E1B25C34CAAA", "target": "Chegou na hora certa, familiar. Tenho um favor para pedir." },
     { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_NAMER04304_000_001", "hash": "00062BA591879EE9", "target": "Meu trabalho é dar nomes às criações que nos trazem, mas não consigo me decidir sobre um nome para este conceito em particular." },
     { "gameKey": "quest/043/AktKzh009_04304#TEXT_AKTKZH009_04304_NAMER04304_000_002", "hash": "967EDB92C55D0808", "target": "Talvez seja porque... fui eu quem o projetou. É uma espécie de planta que criei como presente para minha amada. Um claro conflito de interesses, infelizmente." },

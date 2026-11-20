@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_SEQ_00", "hash": "87E44218352C96CA", "target": "Fyuu quer recrutar você para um pouco de sabotagem." },
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_SEQ_01", "hash": "ED2A534400FAA6CC", "target": "Parece que os Tridentes de Coral desenvolveram um novo tipo de armamento de cerco, transformando por feitiçaria moluscos gigantes que disparam raios. Infiltre-se na Base Terrestre dos Sahagin e destrua essas balistas orgânicas antes que sejam usadas para derrubar os diques." },
-    { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_SEQ_02", "hash": "59A3C53EEBB0DC18", "target": "Você destruiu as whelk ballistas. Volte a Fyuu no Berçário de Novv e informe seu sucesso." },
+    { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_SEQ_02", "hash": "59A3C53EEBB0DC18", "target": "Você destruiu as balistas de búzio. Volte a Fyuu no Berçário de Novv e informe seu sucesso." },
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_SEQ_03", "hash": "6370802C2DE2964B", "target": "Fyuu fica aliviado ao saber que as armas de cerco dos Tridentes de Coral foram neutralizadas. O jovem Sahagin lamenta a falta de visão dos seus parentes violentos: os diques permitem que continuem preparando seus locais de desova em paz, ao impedir confrontos em grande escala com os inimigos." },
-    { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_TODO_00", "hash": "E1100584EDB8511F", "target": "Destruir whelk ballistas" },
+    { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_TODO_00", "hash": "E1100584EDB8511F", "target": "Destruir balistas de búzio" },
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_TODO_01", "hash": "EEB96B6CFD2AE5AB", "target": "Informar Fyuu" },
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_FYUU_000_000", "hash": "EC8A31EAB7EDC213", "target": "Os territórios dos Sahagin e dos caminhantes da costa são separados firmemente pelos diques norte e sul." },
     { "gameKey": "quest/013/BanSah103_01381#TEXT_BANSAH103_01381_FYUU_000_001", "hash": "075A401DD0F42AA0", "target": "Se meus parentes quiserem ampliar seu domínio nesta terra, terão que derrubar aquelas muralhas imensas. Esse é, de fato, o primeiro e mais importante objetivo dos Tridentes de Coral." },

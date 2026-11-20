@@ -2,8 +2,8 @@
   "sheet": "RideShootingTextData",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "RideShootingTextData#1", "hash": "57EE70B8946369CD", "target": "" },
-    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "" },
-    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "" }
+    { "gameKey": "RideShootingTextData#1", "hash": "57EE70B8946369CD", "target": "Disparar" },
+    { "gameKey": "RideShootingTextData#100", "hash": "4EFFCEEB31721402", "target": "Prepare o dedo no gatilho. É hora de ganhar pontos de bônus!<br>Cuidado com as bombas rubi e acerte o máximo de alvos que puder." },
+    { "gameKey": "RideShootingTextData#101", "hash": "C4D5E683E516C3B6", "target": "A fase de bônus acabou. Falta pouco para chegar ao fim, então continue assim!" }
   ]
 }

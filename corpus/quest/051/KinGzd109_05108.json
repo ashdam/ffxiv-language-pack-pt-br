@@ -2,9 +2,9 @@
   "conversation": "quest/051/KinGzd109_05108",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_SEQ_00", "hash": "49E5C7A3A34D0AA1", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O bladewise Hoobigo observa você com interesse." },
+    { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_SEQ_00", "hash": "49E5C7A3A34D0AA1", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O Hoobigo versado em lâminas observa você com interesse." },
     { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_TODO_00", "hash": "FC438E0986AE283B", "target": "Observar o local indicado e derrotar os desafiantes que aparecerem" },
-    { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_TODO_01", "hash": "E90FD2EE59321A74", "target": "Falar com o bladewise Hoobigo" },
+    { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_TODO_01", "hash": "E90FD2EE59321A74", "target": "Falar com o Hoobigo versado em lâminas" },
     { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_OLDMANHOOBIGO05108_000_000", "hash": "07534019DEF2979C", "target": "Você faz parte da comitiva da Terceira Promessa, não é? Poucos teriam alguma chance contra Gulool Ja Ja em combate, mesmo que fosse uma sombra. Estava ansioso por uma chance de medir sua força." },
     { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_OLDMANHOOBIGO05108_000_001", "hash": "6F5466136941139A", "target": "Os jovens guerreiros que treinavam aqui deixaram a floresta há muito tempo em busca de trabalho. Mas ainda sobra espírito de luta na Pedra de Amolar." },
     { "gameKey": "quest/051/KinGzd109_05108#TEXT_KINGZD109_05108_OLDMANHOOBIGO05108_000_002", "hash": "64B90F249614AF49", "target": "É, estamos todos ficando velhos, mas enfrentamos os Xbr'aal corpo a corpo na guerra. Nossas escamas são mais fortes que aço." },

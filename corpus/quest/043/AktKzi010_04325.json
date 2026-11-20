@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_SEQ_00", "hash": "DB5438E2A9160525", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Um Arquivista bastante determinado busca ajuda com uma questão de natureza acadêmica." },
     { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_TODO_00", "hash": "307F483C499686EF", "target": "Pegar a pilha de tomos e textos" },
-    { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_TODO_01", "hash": "4CDF9E174881B209", "target": "Entregar os tomos e textos à cautious Student of Baldesion" },
-    { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_TODO_02", "hash": "2050821522C7B623", "target": "Falar com o determined Bibliothec" },
+    { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_TODO_01", "hash": "4CDF9E174881B209", "target": "Entregar os tomos e textos à estudante de Baldesion cautelosa" },
+    { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_TODO_02", "hash": "2050821522C7B623", "target": "Falar com o Arquivista determinado" },
     { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_BIBLIOTHEC04325_000_000", "hash": "E864E29BD251FBF5", "target": "Você aí, <if(gnum4,aventureira,aventureiro)>. Tem o porte de <if(gnum4,uma mulher,um homem)> a quem posso tomar um pouco de tempo. Aqueles livros ali, está vendo? Gostaria que os levasse a uma integrante dos Estudantes de Baldesion por mim." },
     { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_Q1_000_000", "hash": "A6E12D5064F1EFA2", "target": "O que você vai dizer?" },
     { "gameKey": "quest/043/AktKzi010_04325#TEXT_AKTKZI010_04325_A1_000_001", "hash": "82CD4F0369E6459F", "target": "Não pode carregá-los você mesmo?" },

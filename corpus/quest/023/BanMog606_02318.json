@@ -17,7 +17,7 @@
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_03", "hash": "FDBC20C5CDE44053", "target": "Usar /slap no malingering moogle" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_04", "hash": "2C249C8AEA05B808", "target": "Falar com Mogwon" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_05", "hash": "06244C75C5263C02", "target": "<if([lnum1<lnum2],Produzir o moogle mollifier <sheet(Addon,9,0)>,Entregar o moogle mollifier <sheet(Addon,9,0)> ao malingering moogle)>" },
-    { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_06", "hash": "EB41C7DD65419147", "target": "Apresentar-se a Mogek the Marvelous" },
+    { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_06", "hash": "EB41C7DD65419147", "target": "Apresentar-se a Mogek, o Maravilhoso" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_MOGEK_000_000", "hash": "98282EFA7527ACC8", "target": "Olá, <split(<string(gstr1)>, ,1)>. Preciso da sua ajuda. É sobre Mogwon. Da última vez que o vi, parecia prestes a arrancar todos os pelos de tanta frustração." },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_MOGEK_000_001", "hash": "9CF19606FA3327B6", "target": "Se moogles pudessem ficar carecas, ele seria o primeiro, kupo! Pode ir até Asah perguntar o que o aflige?" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_MOGWON_000_010", "hash": "D848890034AC4DA0", "target": "Obrigado por vir, <split(<string(gstr1)>, ,1)>! Imagino que Mogek tenha enviado você para saber do progresso aqui em Asah? Enquanto a restauração de Bahrr Lehs está quase concluída, não posso dizer que estou satisfeito com nosso ritmo aqui." },

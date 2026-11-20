@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_SEQ_00", "hash": "F27BDF63767A535E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nonolato cumprimenta você com olhos arregalados de esperança." },
-    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_00", "hash": "E0AF3F83E3CA9C2D", "target": "Entregar o composto alquímico ao senior researcher" },
+    { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_00", "hash": "E0AF3F83E3CA9C2D", "target": "Entregar o composto alquímico ao pesquisador sênior" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_TODO_01", "hash": "31E5DF671C7EB98F", "target": "Relatar a Nonolato" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_NONOLATO_100_000", "hash": "70F5519C8D9A99A4", "target": "Hum-hum, olá, <if(gnum4,amiga,amigo)>! Que tal dar uma mão a um coletor necessitado?" },
     { "gameKey": "quest/041/AktKza006_04185#TEXT_AKTKZA006_04185_NONOLATO_100_001", "hash": "81480C7E9016CC5C", "target": "Ainda sou bem novo nesse negócio de coleta, então é justo que alguém com a devida, hã, experiência entregue este importantíssimo composto alquímico uldahno àquela instalação de pesquisa. Sabe, aquela um pouco a oeste...?" },

@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy108_02939",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SEQ_00", "hash": "48789ADF015D8EEF", "target": "Estrild, da Shiokaze Hostelry, segue firme em observar atentamente quem passa, à procura de novos recrutas." },
+    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SEQ_00", "hash": "48789ADF015D8EEF", "target": "Estrild, da Hospedaria Shiokaze, segue firme em observar atentamente quem passa, à procura de novos recrutas." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_TODO_00", "hash": "5F23ED4B9F38881A", "target": "Falar com Wlveva" },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_001", "hash": "A844EE68F8F5A0DF", "target": "Que bom ver você, <split(<string(gstr1)>, ,1)>. Tenho uma novidade que estava esperando para contar." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_002", "hash": "5C70CF854D976AA2", "target": "É aquela maldita Wlveva. Teve a cara de pau de me dar uma bronca por convidar quem passa para entrar no Clã Centurio. Eu só queria levar a emoção de The Hunt a quem quisesse conhecê-la." },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_012", "hash": "B1DF94D2FB0B73F3", "target": "<if(gnum4,Seja bem-vinda ao nosso posto mais alto,Seja bem-vindo ao nosso posto mais alto)>, <if(gnum4,irmã,irmão)>. Desejamos boa sorte nas suas próximas caçadas. E vai precisar dela, pois agora caçará as presas mais ferozes de todo o Extremo Oriente." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_013", "hash": "92B762FAAD38FDFD", "target": "Nessas caçadas, classificamos as presas de acordo com sua força. Quanto maior a classificação, maior a recompensa. Mas, é claro, maior também o perigo." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_WLVEVA_000_014", "hash": "8A2C464A245F5D3A", "target": "Estrild nunca teve tanta consideração por alguém que recrutou. Você chegou longe. Tão longe que qualquer outro aviso talvez seja inútil, mas vou dar assim mesmo. Agora, mais do que nunca, não superestime sua capacidade." },
-    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SYSTEM_000_015", "hash": "5E2CE568582641AE", "target": "Agora você pode aceitar elite Veteran Clan mark bills nos Clan Hunt boards de Kugane e Rhalgr's Reach." },
+    { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_SYSTEM_000_015", "hash": "5E2CE568582641AE", "target": "Agora você pode aceitar elite Veteran Clan mark bills nos quadros de caçadas do Clã em Kugane e no Alcance de Rhalgr." },
     { "gameKey": "quest/029/StmBdy108_02939#TEXT_STMBDY108_02939_ESTRILD_000_020", "hash": "830FF7E08495315E", "target": "O clã nos une, <if(gnum4,minha irmã,meu irmão)> de The Hunt. Não vou admitir que morra à toa agora. Vá falar com Wlveva. The Hunt chama!" }
   ]
 }

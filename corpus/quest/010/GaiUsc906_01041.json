@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_00", "hash": "8DF2CDC5DEED5294", "target": "Rafold espera transformar uma praga em remédio." },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "Rafold pediu que você obtenha uma garra de grenade. Fique de tocaia nas Garras de Dalamud e mate a criatura para obter seu apêndice." },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_01", "hash": "E050CD2FA0579766", "target": "Rafold pediu que você obtenha uma garra de granada. Fique de tocaia nas Garras de Dalamud e mate a criatura para obter seu apêndice." },
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_02", "hash": "0516B780CF36F623", "target": "Você obteve uma garra de grenade. Entregue-a a Memezofu na Usina de Ceruleum." },
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_SEQ_03", "hash": "E1AD7A22318BCB1B", "target": "Memezofu agradece sua entrega, pois acabara de esgotar seu estoque de garras de grenade." },
-    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "Esperar no local indicado e abater um grenade para obter sua garra" },
+    { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_00", "hash": "B32209ADE7F5C305", "target": "Esperar no local indicado e abater uma granada para obter sua garra" },
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_TODO_01", "hash": "7BB08A32FE8462B9", "target": "Entregar a garra de grenade a Memezofu" },
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_000", "hash": "C017D7CA790C2FBF", "target": "O perigo espreita perto das Garras de Dalamud. Os ventos sussurram a presença de grenades." },
     { "gameKey": "quest/010/GaiUsc906_01041#TEXT_GAIUSC906_01041_RAFOLD_000_001", "hash": "02D12828C5F631A1", "target": "Não é uma simples praga para eliminar, mas o risco rende uma recompensa: garras de grenade." },

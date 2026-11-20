@@ -40,7 +40,7 @@
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_A1_000_001", "hash": "5B171B4D265DD34C", "target": "Isto é divino!" },
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_A1_000_002", "hash": "94577DAA2CB77FC8", "target": "Incrível. É como se minha língua tivesse sido purificada por um néctar divino!" },
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_DEBROYE_000_034", "hash": "F127201C0F18FF57", "target": "Que bom que você gostou!" },
-    { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_DEBROYE_100_034", "hash": "8AC0CE69EEF0B50F", "target": "Você pega uma lagosta recém-pescada no Indigo Deep, retira a carne e refoga com manteiga e azeite. Depois cozinha no vapor com vinho branco, mas precisa tomar cuidado para não passar do ponto nessa etapa..." },
+    { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_DEBROYE_100_034", "hash": "8AC0CE69EEF0B50F", "target": "Você pega uma lagosta recém-pescada no Mar Índigo, retira a carne e refoga com manteiga e azeite. Depois cozinha no vapor com vinho branco, mas precisa tomar cuidado para não passar do ponto nessa etapa..." },
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_DEBROYE_101_034", "hash": "BDD83110C0C52424", "target": "...Depois coloca a carne de volta na casca, polvilha bastante tomilho, orégano e alecrim e leva ao forno em temperatura constante, não muito alta, é claro, e então..." },
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_Q2_000_000", "hash": "32A63A4634D8377E", "target": "O que você vai dizer?" },
     { "gameKey": "quest/041/AktKla301_04146#TEXT_AKTKLA301_04146_A2_000_001", "hash": "1CC00EC1E41154FA", "target": "Sim! <if(gnum4,Obrigada,Obrigado)>! Já entendi!" },

@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_00", "hash": "59AC80F5C26BDC5E", "target": "U'khuba Tia parece impaciente." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia precisa de material para pontas de flecha, e no deserto isso só pode significar uma coisa: desmembrar criaturas desprevenidas. Após uma breve explicação sobre as particularidades da ascensão na tribo dos U, ele pede que você arranque seis farpas de russet yarzons." },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_01", "hash": "72839378BA608907", "target": "U'khuba Tia precisa de material para pontas de flecha, e no deserto isso só pode significar uma coisa: desmembrar criaturas desprevenidas. Após uma breve explicação sobre as particularidades da ascensão na tribo dos U, ele pede que você arranque seis farpas de yarzons castanho-avermelhados." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_02", "hash": "A87BA422CACB21C4", "target": "Seis farpas de yarzon, ainda cobertas de sangue e fúria, repousam na sua mão. Leve-as a U'khuba Tia." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_SEQ_03", "hash": "7131BA84063F4F1C", "target": "Você entregou as partes recém-colhidas de yarzon a um agradecido U'khuba Tia, que parece cada vez mais confiante em seu futuro desafio." },
-    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Matar russet yarzons e obter farpas" },
+    { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_00", "hash": "004505E99DF65E6B", "target": "Matar yarzons castanho-avermelhados e obter farpas" },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_TODO_01", "hash": "7899E9FDE14554F6", "target": "Dar as farpas de yarzon a U'khuba Tia" },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_000", "hash": "880711EB027D5B92", "target": "A lei é clara: para se tornar o Nunh da tribo dos U, é preciso derrotar o Nunh atual. No meu caso, U'odh Nunh." },
     { "gameKey": "quest/008/GaiUsb106_00825#TEXT_GAIUSB106_00825_UKHUBATIA_000_001", "hash": "489D280832744BB1", "target": "Mas, para conquistar o direito de desafiar U'odh, primeiro preciso vencer U'tykha. Ele está no meu caminho, e eu no dele. Assim, o Nunh fica protegido de desafios constantes." },

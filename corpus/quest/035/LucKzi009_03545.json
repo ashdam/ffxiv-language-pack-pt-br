@@ -2,10 +2,10 @@
   "conversation": "quest/035/LucKzi009_03545",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_SEQ_00", "hash": "9A758A2772407F4B", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A restless hunter observa o horizonte." },
+    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_SEQ_00", "hash": "9A758A2772407F4B", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A caçadora inquieta observa o horizonte." },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_00", "hash": "9EA856B091C7E334", "target": "Procurar a lanky lass" },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_01", "hash": "2108A4739EC773AA", "target": "Ajudar a lanky lass" },
-    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_02", "hash": "63B1DAA4462CB9A9", "target": "Reportar à restless hunter" },
+    { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_TODO_02", "hash": "63B1DAA4462CB9A9", "target": "Reportar à caçadora inquieta" },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_000", "hash": "67E9E843E0B89B90", "target": "Com licença, <if(gnum4,senhorita,senhor)>, viu uma jovem Hume alta e magra em suas viagens?" },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_001", "hash": "F4363FDF2D0A59CB", "target": "...Não? Poderia ajudar a encontrá-la, então? Ela tem a péssima mania de sair andando por aí quando fica por conta própria. Não é a distração mais segura, considerando os bichos daqui." },
     { "gameKey": "quest/035/LucKzi009_03545#TEXT_LUCKZI009_03545_HUNTER03545_000_002", "hash": "8A4EED1166A5B9CA", "target": "Vou começar a procurar perto de Ladder, mas ficaria mais tranquila se soubesse que alguém está procurando junto ao penhasco ao mesmo tempo. Poderia fazer isso por mim?" },

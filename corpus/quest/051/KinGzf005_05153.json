@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_SEQ_00", "hash": "D9F26A80B5E90ED6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A apreensão de Dorian é palpável." },
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_00", "hash": "639730BF57A28B32", "target": "Encontrar o ill-fated hunter e derrotar os monstros que o ameaçarem" },
-    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_01", "hash": "81FE1D7AD53B5664", "target": "Ajudar o ill-fated hunter" },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_00", "hash": "639730BF57A28B32", "target": "Encontrar o caçador desafortunado e derrotar os monstros que o ameaçarem" },
+    { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_01", "hash": "81FE1D7AD53B5664", "target": "Ajudar o caçador desafortunado" },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_TODO_02", "hash": "D4A502BC8FDB98E3", "target": "Falar com Dorian" },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_DORIAN_000_000", "hash": "0F842EF20BE0105E", "target": "Com licença, <if(gnum4,aventureira,aventureiro)>, poderia me ajudar? Estou numa situação bastante complicada." },
     { "gameKey": "quest/051/KinGzf005_05153#TEXT_KINGZF005_05153_DORIAN_000_001", "hash": "696824E22709AF07", "target": "Hoje mais cedo, nos enviaram um soldado e pediram que testássemos suas funções de combate aprimoradas." },

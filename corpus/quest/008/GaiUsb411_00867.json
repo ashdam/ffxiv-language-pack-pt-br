@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_00", "hash": "A39F5472CA96B700", "target": "A curandeira A'rhunlika recebe você com um sorriso e uma tarefa, como de costume. Quem poderia se importar quando a causa é boa e o sorriso, tão belo?" },
-    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_01", "hash": "0963527EC19F1E04", "target": "A'rhunlika preparou um vinho condimentado, perfumado com o sol de Wineport e repleto de ervas, e precisa aquecê-lo. Leve as garrafas à fonte termal e mergulhe-as na água." },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_01", "hash": "0963527EC19F1E04", "target": "A'rhunlika preparou um vinho condimentado, perfumado com o sol do Porto do Vinho e repleto de ervas, e precisa aquecê-lo. Leve as garrafas à fonte termal e mergulhe-as na água." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_02", "hash": "A882A1E8BAD7B251", "target": "Pelo vapor suave e pelo aroma inebriante, você conclui que o vinho condimentado está bem aquecido. Recolha o vinho quente de onde o deixou." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_03", "hash": "DBCF122CFABAD12B", "target": "Você tem em mãos um néctar dos mais saudáveis, quente como o deserto do sul e profundo como o mar do norte. Entregue o vinho aos soldados que se recuperam dos ferimentos sob os cuidados de A'rhunlika." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_SEQ_04", "hash": "2D51DB29AA508B32", "target": "O vinho quente foi servido às mulheres e aos homens feridos. Fale com A'rhunlika." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_02", "hash": "6E9BEC9B5F30A1F5", "target": "Dar o vinho quente aos soldados convalescentes" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_03", "hash": "604C860694566795", "target": "Informar A'rhunlika" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_23", "hash": "C121AB80660498C1", "target": "", "intentionalEmpty": true },
-    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Usamos vinho condimentado de Wineport para tratar os feridos de guerra. Ele restaura os humores do corpo e dá vigor aos corações cansados pela febre." },
+    { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_000", "hash": "F48BE155C964013B", "target": "Usamos vinho condimentado do Porto do Vinho para tratar os feridos de guerra. Ele restaura os humores do corpo e dá vigor aos corações cansados pela febre." },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_ARHUNLIKA_000_001", "hash": "AC3FC5BC234595DD", "target": "Que tal fazer algo de bom, <if(gnum4,aventureira,aventureiro)>? Preparei um vinho condimentado mais cedo e preciso aquecê-lo para fazer vinho quente. Pode mergulhar estas garrafas na fonte termal ali e servir a quem tanto precisa?" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_TODO_000_020", "hash": "177DE7C0B77F0D5E", "target": "Interagir com a garrafa de vinho para obter 4 porções de vinho quente" },
     { "gameKey": "quest/008/GaiUsb411_00867#TEXT_GAIUSB411_00867_IMUMU_000_030", "hash": "2B42C26170E464AA", "target": "Droga... Mal consigo lembrar de um tempo em que tudo não doía. Parece que sempre estive aqui." },

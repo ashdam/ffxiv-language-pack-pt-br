@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_SEQ_00", "hash": "20A59B98C3909160", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Gonuhanu não para quieto de nervosismo." },
-    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_00", "hash": "C3337813A0E34BB5", "target": "Falar com o distracted Hanu e abater as feras que aparecerem" },
-    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_01", "hash": "E5F3D26A8ACE6E61", "target": "Falar novamente com o distracted Hanu" },
+    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_00", "hash": "C3337813A0E34BB5", "target": "Falar com a Hanu distraída e abater as feras que aparecerem" },
+    { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_01", "hash": "E5F3D26A8ACE6E61", "target": "Falar novamente com a Hanu distraída" },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_TODO_02", "hash": "2D104A4B487D190B", "target": "Apresentar um relatório a Gonuhanu" },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_GONUHANU_000_000", "hash": "9E35FD89F5795E1C", "target": "Ah... Onde ele pode estar?" },
     { "gameKey": "quest/050/KinGzc008_05067#TEXT_KINGZC008_05067_GONUHANU_000_001", "hash": "E7E246EA98CCFFD0", "target": "V-Você aí! Parece ter força para enfrentar a natureza selvagem. Por favor, preciso muito de ajuda..." },

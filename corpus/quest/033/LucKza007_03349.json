@@ -2,9 +2,9 @@
   "conversation": "quest/033/LucKza007_03349",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_SEQ_00", "hash": "99E62D8DD5532947", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O forlorn fisherman parece perdido e arrasado." },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_SEQ_00", "hash": "99E62D8DD5532947", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O pescador desolado parece perdido e arrasado." },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_00", "hash": "EDA455F47D323EB3", "target": "Procurar pertences espalhados pela Praia das Conchas Quebradas" },
-    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "Entregar os pertences ao forlorn fisherman" },
+    { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_TODO_01", "hash": "6B132D57DE20E502", "target": "Entregar os pertences ao pescador desolado" },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_100_000", "hash": "6C2DBB4FEEDD4C66", "target": "\\<suspiro>" },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_000", "hash": "C26076A8A3CC59C1", "target": "Ah, o suspiro não foi por sua causa, eu só estava... pensando num amigo." },
     { "gameKey": "quest/033/LucKza007_03349#TEXT_LUCKZA007_03349_FISHERMAN03349_000_001", "hash": "C42A7FD76852597F", "target": "O maldito idiota se cansou da vida dura, sabe, e tentou ir até o continente no nosso barquinho de pesca. Disse que voltaria para me buscar depois de fazer fortuna." },

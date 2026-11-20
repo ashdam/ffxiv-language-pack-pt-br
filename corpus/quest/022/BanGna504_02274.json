@@ -10,7 +10,7 @@
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_TODO_00", "hash": "79EA9C4F42A28ADE", "target": "Obter hortelã de Whilom" },
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_TODO_01", "hash": "565698E058DC72C5", "target": "Obter sálvia de Danner" },
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_TODO_02", "hash": "CF0B9FA35B80CF85", "target": "Entregar a hortelã e a sálvia ao Vath keeneye" },
-    { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_TODO_03", "hash": "958CD9436F885514", "target": "Entregar o pacote de ervas ao goblin herbalist" },
+    { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_TODO_03", "hash": "958CD9436F885514", "target": "Entregar o pacote de ervas ao herborista Goblin" },
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_SEARCHER_000_000", "hash": "5A5E237FD72792E7", "target": "Me diga, grande <if(gnum4,caçadora,caçador)>, o que acha das máscaras dos goblins? \\<estalo> \\<estalo> Bem engraçadas, não? Tentamos não rir quando as vemos. É muito difícil não dar risadinhas. Sim, muito difícil." },
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_SEARCHER_000_001", "hash": "861E8C82AD8ED722", "target": "Os goblins dizem que as enchem de várias ervas e as trocam com frequência conforme seu humor. Usam muitas combinações de ervas nas máscaras, e agora pedem ajuda para colhê-las." },
     { "gameKey": "quest/022/BanGna504_02274#TEXT_BANGNA504_02274_SEARCHER_000_002", "hash": "21BEC728085CBF40", "target": "Nos pediram dez variedades de ervas, mas dividimos o trabalho. \\<estalo> \\<estalo> É trabalho demais para um só. Sim, trabalho demais. Você colheria duas das ervas para nós?" },

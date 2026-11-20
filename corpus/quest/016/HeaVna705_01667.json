@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_00", "hash": "A2D9285F84312EC7", "target": "O nó de orientação está pronto para guiar você pelo Gamma Quadrant." },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_01", "hash": "51853097D3C154D3", "target": "O nó de orientação avisa que há uma grande força garleana no Gamma Quadrant. Atravesse a área com toda a cautela e reencontre seus companheiros perto do acampamento inimigo." },
-    { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_02", "hash": "2178068A2B01EF04", "target": "A força garleana é a VI Legião Imperial, que vocês encontraram na aldeia Zundu. Eles querem descobrir como capturar primordiais e, para isso, também procuram a Aetherochemical Research Facility. Embora sua presença complique tudo, mantenha o foco na missão de deter o arcebispo. Siga para o Matter Conduit VI-VII." },
+    { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_02", "hash": "2178068A2B01EF04", "target": "A força garleana é a VI Legião Imperial, que vocês encontraram na aldeia Zundu. Eles querem descobrir como capturar primordiais e, para isso, também procuram o Centro de Pesquisa Eteroquímica. Embora sua presença complique tudo, mantenha o foco na missão de deter o arcebispo. Siga para o Matter Conduit VI-VII." },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_03", "hash": "F56F305ED252F6D8", "target": "Um esquadrão imperial persegue você ao chegar ao conduto de matéria, mas você consegue repeli-lo. Fale novamente com o nó de orientação e reze para não haver mais interrupções." },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_04", "hash": "11EA8FFC099AD8FC", "target": "Regula van Hydrus, legado da VI Legião, ataca você e seus companheiros. Embora vocês consigam vencê-lo, ele manda seus subordinados atacarem e embarca em uma aeronave, certamente rumo ao centro de pesquisa. Com pouco tempo, Alphinaud pede que continue atrás do arcebispo enquanto ele e os outros contêm os inimigos. Depois de aceitar a guarda do Olho, você usa o conduto de matéria e emerge em um novo quadrante. Procure o nó de orientação próximo para receber instruções." },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_SEQ_05", "hash": "337CB015DCE3EF6A", "target": "Segundo o nó de orientação, o Delta Quadrant, onde você está agora, abriga dragões vivos." },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_BATTLETALK_ESTINIEN_007", "hash": "F2F264013D9BEDEE", "target": "Hmph, meros soldadinhos de brinquedo para derrubar." },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_YBATTLETALK_SHTOLA_008", "hash": "1E3DA99F43CDEE3B", "target": "Deixe os soldados conosco! Concentre-se no legado!" },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_BATTLETALK_BOSS_009", "hash": "E81065FF366DE3EC", "target": "Preciso de apoio aéreo! <italic(1)>Agora<italic(0)>!" },
-    { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_BATTLETALK_ALPHINAUD_050", "hash": "81137124F278D849", "target": "Obsidian Carbuncle! Venha!" },
+    { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_BATTLETALK_ALPHINAUD_050", "hash": "81137124F278D849", "target": "Carbuncle de Obsidiana! Venha!" },
     { "gameKey": "quest/016/HeaVna705_01667#TEXT_HEAVNA705_01667_QIB_BATTLETALK_ALPHINAUD_100", "hash": "85DE02205A8A506F", "target": "Não... Não aqui..." }
   ]
 }

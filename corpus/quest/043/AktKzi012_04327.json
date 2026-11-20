@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_SEQ_00", "hash": "22F5EA0E40793563", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Uma pesquisadora aflita em Sharlayan Hamlet gostaria que o dia tivesse mais horas." },
-    { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_TODO_00", "hash": "17E0D6FF02210573", "target": "Falar com o young gleaner" },
-    { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_TODO_01", "hash": "6AEEB1B8BC5FA220", "target": "Entregar o retrato à experienced researcher" },
+    { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_TODO_00", "hash": "17E0D6FF02210573", "target": "Falar com o jovem coletor" },
+    { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_TODO_01", "hash": "6AEEB1B8BC5FA220", "target": "Entregar o retrato à pesquisadora experiente" },
     { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_RESEARCHER04327_000_000", "hash": "0C9E4F5D90C093ED", "target": "Ai, ai... Que dilema. O que vou fazer?" },
     { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_Q1_000_000", "hash": "B2E64826A1039C1E", "target": "O que você vai dizer?" },
     { "gameKey": "quest/043/AktKzi012_04327#TEXT_AKTKZI012_04327_A1_000_001", "hash": "B0FA3DA97E124028", "target": "Algum problema?" },

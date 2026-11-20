@@ -2,9 +2,9 @@
   "conversation": "quest/042/AktKzg005_04280",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O earnest observer olha para todos os lados, como se procurasse algo." },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_SEQ_00", "hash": "6317A14C687F89A5", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O observador compenetrado olha para todos os lados, como se procurasse algo." },
     { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_00", "hash": "49C660ED41E095B0", "target": "Usar a corda etérea nos agavoides young para capturá-los" },
-    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "Entregar os agavoides young ao earnest observer" },
+    { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_TODO_01", "hash": "8027CCB9F4E4F917", "target": "Entregar os agavoides young ao observador compenetrado" },
     { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_000", "hash": "AABB5F67F3D83DB1", "target": "Bah, onde será que o resto foi parar...?" },
     { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_001", "hash": "C9662B5B7E5BF54B", "target": "Ah, <if(gnum4,amiga familiar,amigo familiar)>! Se tiver um momento, preciso de ajuda para reunir nossos agavoides young." },
     { "gameKey": "quest/042/AktKzg005_04280#TEXT_AKTKZG005_04280_GALLANTOBSERVER04280_000_002", "hash": "F0D4741B8EDCFE01", "target": "Ainda faltam seis, e eu ficaria muito agradecido se pudesse procurar comigo." },

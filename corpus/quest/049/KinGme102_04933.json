@@ -2,9 +2,9 @@
   "conversation": "quest/049/KinGme102_04933",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_SEQ_00", "hash": "30CC22A474D7F536", "target": "Wuk Lamat está ansiosa para ir a Everkeep." },
-    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_00", "hash": "9ED69A4DDC50FF5E", "target": "Falar com Cahciua diante de Everkeep" },
-    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_01", "hash": "D5F80D712B53903F", "target": "Falar com Cahciua diante de Everkeep" },
+    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_SEQ_00", "hash": "30CC22A474D7F536", "target": "Wuk Lamat está ansiosa para ir à Fortaleza Eterna." },
+    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_00", "hash": "9ED69A4DDC50FF5E", "target": "Falar com Cahciua diante da Fortaleza Eterna" },
+    { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_01", "hash": "D5F80D712B53903F", "target": "Falar com Cahciua diante da Fortaleza Eterna" },
     { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_02", "hash": "AD4AADD9EE67449B", "target": "Falar com Wuk Lamat" },
     { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_03", "hash": "1DD199FDC24CECC0", "target": "Falar com Wuk Lamat novamente" },
     { "gameKey": "quest/049/KinGme102_04933#TEXT_KINGME102_04933_TODO_04", "hash": "D890F16A7AF77A09", "target": "Falar com Wuk Lamat mais uma vez" },

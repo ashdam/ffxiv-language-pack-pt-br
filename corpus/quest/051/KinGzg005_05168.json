@@ -2,9 +2,9 @@
   "conversation": "quest/051/KinGzg005_05168",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_SEQ_00", "hash": "76BDAEBE16B99398", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O overwhelmed official está cercado de cidadãos preocupados." },
+    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_SEQ_00", "hash": "76BDAEBE16B99398", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O funcionário sobrecarregado está cercado de cidadãos preocupados." },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_TODO_00", "hash": "6152181F6B4DCD5C", "target": "Ouvir as preocupações dos cidadãos" },
-    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_TODO_01", "hash": "39B7F5E6A9AB7511", "target": "Relatar ao overwhelmed official" },
+    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_TODO_01", "hash": "39B7F5E6A9AB7511", "target": "Relatar ao funcionário sobrecarregado" },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_000", "hash": "7E69400D1482534E", "target": "Você é uma das visitas da Rainha Sphene, não é? Pelo que soube, ajudou a expulsar os soldados mecânicos das nossas ruas. Tem minha gratidão." },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_001", "hash": "CA548E3EF62708A4", "target": "Na verdade, talvez possa me ajudar. Após os recentes distúrbios, não estamos dando conta de atender tantos cidadãos insatisfeitos." },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_002", "hash": "D64DE54873893CDC", "target": "Estou resolvendo as reclamações acumuladas aos poucos, mas o ideal seria ouvir o máximo possível de cidadãos. E sei muito bem que há assuntos que as pessoas hesitam em abordar com um funcionário público como eu." },
@@ -24,6 +24,6 @@
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_021", "hash": "F34CCFB80288F3DC", "target": "Hummm. Parece que muitos ficaram traumatizados com o ataque. Também é alarmante saber quantos cidadãos passaram por repetidas mortes e ressurreições em tão pouco tempo. Relatos assim são... inéditos." },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_022", "hash": "3E0ABE75A0492626", "target": "As preocupações com almas e empregos também são compreensíveis. Não é preciso dizer que nossos recursos são limitados e, mesmo com a melhor das intenções, não podemos esperar atender a <italic(1)>todas<italic(0)> as reivindicações..." },
     { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_023", "hash": "7B11A713A46A3545", "target": "Ainda assim, está claro que precisamos fazer mais para apoiar os cidadãos neste momento difícil. Agradeço pela ajuda." },
-    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_024", "hash": "28E3EA8ACC6C7597", "target": "Vou compartilhar seus relatos com meus colegas do government sector e começar a planejar nossa resposta." }
+    { "gameKey": "quest/051/KinGzg005_05168#TEXT_KINGZG005_05168_BUSYFACILITATOR05168_000_024", "hash": "28E3EA8ACC6C7597", "target": "Vou compartilhar seus relatos com meus colegas do Setor Governamental e começar a planejar nossa resposta." }
   ]
 }

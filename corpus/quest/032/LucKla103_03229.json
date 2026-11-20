@@ -13,7 +13,7 @@
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_TODO_01", "hash": "266D4E781E3A42EC", "target": "<if([lnum1<lnum2],Fabricar um enchanting ring <sheet(Addon,9,0)>,Entregar o enchanting ring <sheet(Addon,9,0)> a Eismon)>" },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_TODO_02", "hash": "1772EE571624E701", "target": "Falar com Walden" },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_TODO_03", "hash": "5B29A28668FA7E2E", "target": "Falar com Eismon nas Escadas Errantes" },
-    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_TODO_04", "hash": "52D99ECEB44D390E", "target": "Falar com Iola em Crystalline Mean" },
+    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_TODO_04", "hash": "52D99ECEB44D390E", "target": "Falar com Iola na Justa Medida Cristalina" },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_IOLA_000_001", "hash": "108051131D91B3D9", "target": "Depois de sentar e somar o lucro dos nossos vários empreendimentos, eu diria que temos fundos para manter o Fole funcionando bem por bastante tempo. Seus produtos realmente renderam uma pequena fortuna." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_IOLA_000_002", "hash": "E07E0E4D5AEA9BE6", "target": "Mas ainda não pensei numa forma adequada de agradecer... Enquanto cuido disso, por que não visita Eismon? Ele disse que queria falar com você." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_IOLA_000_003", "hash": "2417F79EC305CACE", "target": "Percebi que ele anda fazendo planos escondido, tentando organizar uma festa com você e nossos clientes. Então imagino que precise da sua ajuda com os preparativos." },
@@ -107,10 +107,10 @@
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SUEREND_000_270", "hash": "8D15F9707F30D731", "target": "Colana consegue cobrir uma área nojenta de tão grande com seu vômito pútrido. Felizmente, sempre tenho várias mudas de roupa à mão..." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_EISMON_000_275", "hash": "58C5674173D423C2", "target": "Acho que nunca vi Iola chorar antes..." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_300", "hash": "98BE2DB3F1B40D3D", "target": "Iola está radiante com seus esforços. Agora, ela considera você <colortype(500)><edgecolortype(501)><if(gnum4,a Salvadora,o Salvador)> do Fole de Ferro<edgecolortype(0)><colortype(0)>!" },
-    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_301", "hash": "950B2BC8CD9D5306", "target": "Talvez outras pessoas em Crystalline Mean precisem da ajuda de <if(gnum4,uma artesã talentosa,um artesão talentoso)>. Pergunte por aí e veja quem precisa de suas habilidades." },
+    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_301", "hash": "950B2BC8CD9D5306", "target": "Talvez outras pessoas na Justa Medida Cristalina precisem da ajuda de <if(gnum4,uma artesã talentosa,um artesão talentoso)>. Pergunte por aí e veja quem precisa de suas habilidades." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_302", "hash": "F4DBCF81C2736030", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempinho, parece que Katliss gostaria de falar com você." },
-    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_303", "hash": "325AC75A2F1C57BE", "target": "Volte a visitar Crystalline Mean depois de concluir o cenário principal de Shadowbringers." },
+    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_303", "hash": "325AC75A2F1C57BE", "target": "Volte a visitar a Justa Medida Cristalina depois de concluir o cenário principal de Shadowbringers." },
     { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_304", "hash": "AD0FA8C74FC4A9E5", "target": "Você concluiu todas as entregas disponíveis no momento. Quando tiver um tempinho, parece que Katliss gostaria de falar com você." },
-    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_305", "hash": "35010EDB02213362", "target": "Visite-a no balcão principal de recepção em Crystalline Mean." }
+    { "gameKey": "quest/032/LucKla103_03229#TEXT_LUCKLA103_03229_SYSTEM_000_305", "hash": "35010EDB02213362", "target": "Visite-a no balcão principal de recepção na Justa Medida Cristalina." }
   ]
 }

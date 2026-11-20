@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_SEQ_00", "hash": "4FFAA8D0B49D3B12", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O minerador de olhar assustado teme pela própria vida." },
-    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_00", "hash": "9250D6CCDADC2E0C", "target": "Falar com o wild-eyed miner" },
+    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_00", "hash": "9250D6CCDADC2E0C", "target": "Falar com o minerador de olhar assustado" },
     { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_01", "hash": "F30DAF82869959C5", "target": "Derrotar Guthlaugur" },
-    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_02", "hash": "C19449693A34D56E", "target": "Falar com o wild-eyed miner" },
-    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_03", "hash": "8BE035506280DCAF", "target": "Falar novamente com o wild-eyed miner" },
+    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_02", "hash": "C19449693A34D56E", "target": "Falar com o minerador de olhar assustado" },
+    { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_TODO_03", "hash": "8BE035506280DCAF", "target": "Falar novamente com o minerador de olhar assustado" },
     { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_MINER03493_000_000", "hash": "AF25C5B1BC0FB6BB", "target": "Não, não me bata! Ah, espere, você não é Guthlaugur." },
     { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_MINER03493_000_001", "hash": "C8C85EE415A5EB0D", "target": "É um valentão daqui com quem cometi o erro de beber. Acabei falando coisas como: “Está se achando forte, é? Meu colega esfregava o chão com a sua cara!” Só os deuses sabem por que eu disse isso. Não tem uma palavra de verdade!" },
     { "gameKey": "quest/034/LucKzg008_03493#TEXT_LUCKZG008_03493_MINER03493_000_002", "hash": "9F21A21B283101F8", "target": "Claro que ele não achou graça. Mandou eu trazer esse meu amigo, ou ia brigar comigo!" },

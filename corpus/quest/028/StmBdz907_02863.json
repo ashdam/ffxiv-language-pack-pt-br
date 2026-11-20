@@ -2,7 +2,7 @@
   "conversation": "quest/028/StmBdz907_02863",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz907_02863#TEXT_STMBDZ907_02863_SEQ_00", "hash": "2DBDCDA6A4D2BFB1", "target": "Este golden-locked lieutenant parece ter mais alguma coisa a contar." },
+    { "gameKey": "quest/028/StmBdz907_02863#TEXT_STMBDZ907_02863_SEQ_00", "hash": "2DBDCDA6A4D2BFB1", "target": "Este tenente de cabelos dourados parece ter mais alguma coisa a contar." },
     { "gameKey": "quest/028/StmBdz907_02863#TEXT_STMBDZ907_02863_SEQ_01", "hash": "F760A1D64F1FF8CD", "target": "Embora o tenente não tenha mais informações sobre Erart, conhece alguém que pode ajudar: Guntmar, da Resistência, que sabe de praticamente tudo que acontece em Peaks." },
     { "gameKey": "quest/028/StmBdz907_02863#TEXT_STMBDZ907_02863_SEQ_02", "hash": "BBA505E1E4A1A462", "target": "Felizmente, Guntmar não só conhece Erart como também sabe a qual unidade ele foi designado. Ele conta que, neste exato momento, eles estão a caminho de Ala Mhigo. Sugere que você corra até Castrum Abania se quiser alcançá-los." },
     { "gameKey": "quest/028/StmBdz907_02863#TEXT_STMBDZ907_02863_SEQ_03", "hash": "B9351ADDEDEA1265", "target": "Você finalmente encontra o capitão da unidade de Erart. Quando menciona o nome dele, o capitão hesita, sem saber o que dizer. Você duvida que ele tenha motivo para hesitar, /doubt." },

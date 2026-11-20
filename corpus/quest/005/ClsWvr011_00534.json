@@ -2,7 +2,7 @@
   "conversation": "quest/005/ClsWvr011_00534",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_00", "hash": "4B417FFBF1B1D0D7", "target": "Maronne deseja que você reafirme sua vontade de entrar para a Weavers' Guild." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_00", "hash": "4B417FFBF1B1D0D7", "target": "Maronne deseja que você reafirme sua vontade de entrar para a Guilda dos Tecelões." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01", "hash": "E6B4BAEB90CAFC2D", "target": "Maronne pede que você se apresente ao responsável pelas operações da guilda, um Roegadyn de estatura imponente chamado Redolent Rose." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_02", "hash": "5585FA1CA1FB5EBE", "target": "Redolent Rose permite que você estude tecelagem. Depois de fornecer uma agulha de costura, ele orienta você a segurá-la como se fosse dar um ponto e se apresentar para inspeção." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_TODO_00", "hash": "04018C9FCFC74F88", "target": "Falar com Redolent Rose" },

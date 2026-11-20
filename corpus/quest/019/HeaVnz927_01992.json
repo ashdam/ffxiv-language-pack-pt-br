@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_00", "hash": "EA747AC758CD7D95", "target": "O módulo de aprimoramento alagano parece agitado." },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_01", "hash": "2D103955BC0FDC8F", "target": "O módulo de aprimoramento alagano informa que vários dragões escaparam de um experimento. Ele pede que você mate os três predadores aprimorados para eliminar o risco extremo que representam." },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "Você elimina os espécimes fugitivos. Só resta informar enhancement node." },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_02", "hash": "22CD742E2F8EE5BF", "target": "Você elimina os espécimes fugitivos. Só resta informar o nó de aprimoramento." },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_SEQ_03", "hash": "6CC3E2FAF50D6EB7", "target": "O módulo de aprimoramento agradece por você ter cuidado dos dragões e explica que analisará o incidente para tentar impedir que volte a acontecer." },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_00", "hash": "0CEB1F2ACF6C60FB", "target": "Eliminar merdragons nas áreas indicadas" },
-    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "Relatar a enhancement node" },
+    { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_TODO_01", "hash": "9E3CE0220E607EDC", "target": "Relatar ao nó de aprimoramento" },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_000", "hash": "3764FC0A786AC2E0", "target": "Recebendo pedido emergencial de assistência da divisão de segurança...\\<bzzzzzzz>...falha catastrófica...\\<bzzzzzzz>...experimento de controle comportamental de dragões." },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_001", "hash": "D326A57194CB0FCD", "target": "Vários merdragons escaparam do isolamento e...\\<bzzzzzzz>...determina-se o extermínio imediato dos três indivíduos para evitar uma possível... \\<bzzzzzzz>" },
     { "gameKey": "quest/019/HeaVnz927_01992#TEXT_HEAVNZ927_01992_IMPROVEMENTSYSTEM_000_010", "hash": "725CE5084C147C8D", "target": "\\<bzzzzzzz> ...determina-se o extermínio imediato de todos os indivíduos para evitar...\\<bzzzzzzz>...evento. Repetindo transmissão. Falha catastrófica de... \\<bzzzzzzz>" },

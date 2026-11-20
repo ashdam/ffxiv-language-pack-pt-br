@@ -13,7 +13,7 @@
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_001", "hash": "A9621A923182E861", "target": "Nosso talismã precisa de uma tinta especial, mas esgotamos o estoque de um ingrediente essencial: a erva espiritual." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_002", "hash": "991F3F5E41B400C9", "target": "Ela cresce aqui perto, e eu gostaria de colher um pouco. Mas, com os sequestros recentes, viajar sozinho é perigoso para nós, Arkasodara." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_003", "hash": "EF24A06532E765AC", "target": "Você pode me acompanhar para me proteger? Claro que vou recompensar seu trabalho." },
-    { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_004", "hash": "8930A22A666FC806", "target": "Muito obrigada! Vamos direto a Kadjaya's Footsteps. Fica na estrada a leste de Great Work." },
+    { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_004", "hash": "8930A22A666FC806", "target": "Muito obrigada! Vamos direto a Kadjaya's Footsteps. Fica na estrada a leste da Grande Obra." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_010", "hash": "2BBEE7CE761FBA25", "target": "T-Talvez seja impressão minha, mas sinto que estão nos seguindo..." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_011", "hash": "D7BCF0950047F4F0", "target": "\\<sobressalto> Cuidado, <split(<string(gstr1)>, ,1)>!" },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_BALLON_000_012", "hash": "CEDEED116E96C33C", "target": "Alvo encontrado..." },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_033", "hash": "188845BF6BB518DC", "target": "Os sequestradores não devem voltar tão cedo, mas é melhor prevenir que remediar." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_040", "hash": "12F2450603CBEBDB", "target": "Vou colher a erva o mais rápido possível. Por favor, fique de guarda." },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_050", "hash": "1B46C7283DF962BF", "target": "Já tenho erva espiritual para um bom tempo. Obrigada por vigiar!" },
-    { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_051", "hash": "35627898B4DC3BE4", "target": "Vamos voltar a Great Work?" },
+    { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_051", "hash": "35627898B4DC3BE4", "target": "Vamos voltar à Grande Obra?" },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_060", "hash": "75796D68EEBA7178", "target": "<split(<string(gstr1)>, ,1)>, obrigada mais uma vez pela ajuda. Graças a você, estamos um pouco mais perto de terminar nosso talismã!" },
     { "gameKey": "quest/043/AktKma117_04373#TEXT_AKTKMA117_04373_NIDHANA_000_061", "hash": "A904744C779F3913", "target": "Não é muito, mas aceite como sinal da minha gratidão." }
   ]

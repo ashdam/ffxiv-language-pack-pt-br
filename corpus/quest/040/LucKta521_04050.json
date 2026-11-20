@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_SEQ_00", "hash": "FA05EEA75F514E59", "target": "O anão agourento quer mandar você buscar peças de máquinas, e com certeza não rumo à perdição." },
-    { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_TODO_00", "hash": "B9F783CACF71403F", "target": "Obter sucata em The Copied Factory" },
-    { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_TODO_01", "hash": "B8000CE55824069B", "target": "Entregar a sucata ao doomsaying dwarf" },
+    { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_TODO_00", "hash": "B9F783CACF71403F", "target": "Obter sucata na Fábrica Copiada" },
+    { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_TODO_01", "hash": "B8000CE55824069B", "target": "Entregar a sucata ao anão agourento" },
     { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_VILLAGERD03954_000_001", "hash": "72BB95A6957F39BD", "target": "<if(gnum4,Pronta,Pronto)> para ir à perdição, hum... quer dizer, para trabalhar? Ótimo, ótimo." },
     { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_VILLAGERD03954_000_002", "hash": "524F9A3828BA1771", "target": "Como o chefe orientou, sua tarefa é reunir objetos deixados pelas máquinas que possam ser úteis para reconstruir nossa aldeia." },
     { "gameKey": "quest/040/LucKta521_04050#TEXT_LUCKTA521_04050_VILLAGERD03954_000_003", "hash": "977E86D6FB9C1446", "target": "Conhece algum lugar bom para isso?" },

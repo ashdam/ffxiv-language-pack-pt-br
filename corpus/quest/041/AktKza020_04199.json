@@ -2,9 +2,9 @@
   "conversation": "quest/041/AktKza020_04199",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_SEQ_00", "hash": "ED377EC0E61DB1BD", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Varpasa procura algo em Great Work." },
-    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_TODO_00", "hash": "E60D15EAC50F9E9E", "target": "Falar com o suspicious alchemist perto de Akyaali" },
-    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_TODO_01", "hash": "C369CE9B52CA2917", "target": "Investigar a stolen box" },
+    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_SEQ_00", "hash": "ED377EC0E61DB1BD", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Varpasa procura algo na Grande Obra." },
+    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_TODO_00", "hash": "E60D15EAC50F9E9E", "target": "Falar com o alquimista suspeito perto de Akyaali" },
+    { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_TODO_01", "hash": "C369CE9B52CA2917", "target": "Investigar a caixa roubada" },
     { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_TODO_02", "hash": "FDA2354FF3917FD4", "target": "Falar com Varpasa" },
     { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_VARPASA_000_001", "hash": "F9BC94EA5300E54A", "target": "Droga... Quem pode ter feito isso?" },
     { "gameKey": "quest/041/AktKza020_04199#TEXT_AKTKZA020_04199_VARPASA_000_002", "hash": "81E2F77A063E4612", "target": "Não foi você, foi? ...Não, não pode ter sido. Além disso, <if(gnum4,uma aventureira honesta,um aventureiro honesto)> como você não teria a crueldade de roubar minhas mercadorias... Será que poderia me ajudar a recuperá-las?" },

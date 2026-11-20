@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_SEQ_00", "hash": "7867B8DB57DCF22D", "target": "Eshana precisa que você cuide de um monstro no Véu da Clareza.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "Usar o colírio vermelho-sangue no formidable foper e abatê-lo" },
+    { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_00", "hash": "C3EFF8BDC99FEA3E", "target": "Usar o colírio vermelho-sangue no foper formidável e abatê-lo" },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_TODO_01", "hash": "E54A4429FB9CCDF5", "target": "Falar com Eshana" },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_000", "hash": "6200C21EE988B665", "target": "<split(<string(gstr1)>, ,1)>, há um foper de tamanho extraordinário rondando o Véu da Clareza. Sss..." },
     { "gameKey": "quest/030/BanAna407_03056#TEXT_BANANA407_03056_ESHANA_000_001", "hash": "1700080481D4FEB2", "target": "Aquela ponte é usada para transportar mercadorias da margem oeste do rio Velodyna até Rhalgr's Reach. Não podemos deixar que um monstro tome conta da área. Vá até lá e <italic(1)>convença<italic(0)> a criatura a ir embora. Sss..." },

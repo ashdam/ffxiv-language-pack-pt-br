@@ -2,10 +2,10 @@
   "conversation": "quest/043/AktKzi005_04320",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_SEQ_00", "hash": "F2180DF40603D10C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O Viera gleaner observa você com interesse." },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Falar com o elemental reactor operator" },
+    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_SEQ_00", "hash": "F2180DF40603D10C", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O coletor Viera observa você com interesse." },
+    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_00", "hash": "14C9958E1D9AB9D3", "target": "Falar com o operador do reator elemental" },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_01", "hash": "F9852C26ECFB7CDE", "target": "Usar /pray diante do cristal de lanterna" },
-    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_02", "hash": "39DF9EA326175B21", "target": "Entregar o cristal de lanterna ao Viera gleaner" },
+    { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_TODO_02", "hash": "39DF9EA326175B21", "target": "Entregar o cristal de lanterna ao coletor Viera" },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_GLEANER04320_000_000", "hash": "FEDE97EEA7FEE021", "target": "Você está visitando Sharlayan, não é? Tem o ar de quem conhece o mundo..." },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_GLEANER04320_000_001", "hash": "5756CF9B99E9C010", "target": "Como coletor, também já viajei por toda parte. Me diga, qual foi o lugar mais distante aonde você já foi?" },
     { "gameKey": "quest/043/AktKzi005_04320#TEXT_AKTKZI005_04320_Q1_000_000", "hash": "7F4C95E521C5776D", "target": "O que você vai dizer?" },

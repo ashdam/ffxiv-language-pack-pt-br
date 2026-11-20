@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_SEQ_00", "hash": "318176AA60C6153D", "target": "Francel fica contente por ver dois rostos conhecidos em tão pouco tempo." },
-    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_TODO_00", "hash": "7DAA8221C3C73081", "target": "Encontrar o suspiciously familiar man" },
+    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_TODO_00", "hash": "7DAA8221C3C73081", "target": "Encontrar o homem suspeitamente familiar" },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_TODO_01", "hash": "71934A02BE58AC54", "target": "Falar com Maurilette" },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_TODO_02", "hash": "AF2CCC7E67F01C15", "target": "Falar com Maelie" },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_TODO_03", "hash": "1A4649540E28B0E1", "target": "Falar com Maelie novamente" },
@@ -37,7 +37,7 @@
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_CHARLEMEND_000_047", "hash": "EFFD8FBBEF0223B0", "target": "Tenho. E, nessa função, peço que me veja como um ishgardês qualquer, e não como o Conde de Durendaire." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_048", "hash": "779D6B261F4CA4EC", "target": "Bem, se é o que deseja..." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_049", "hash": "E22CAF17511BFA58", "target": "Devo mencionar que há outra candidata: uma menina órfã chamada Maelie." },
-    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_050", "hash": "B4F2E82A29263754", "target": "Acho que você a conhece, <split(<string(gstr1)>, ,1)>. É a menina que caiu de Vault e foi salva por uma dragoa branca." },
+    { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_050", "hash": "B4F2E82A29263754", "target": "Acho que você a conhece, <split(<string(gstr1)>, ,1)>. É a menina que caiu da Abóbada e foi salva por uma dragoa branca." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_051", "hash": "93C0294CF3550709", "target": "Para dizer a verdade, ela é nova demais para esse trabalho. Mas, ao ver seu entusiasmo, estou disposta a dar uma chance." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_MAURILETTE_000_052", "hash": "07E6633FCA20B856", "target": "Se não for incômodo, meu lor─ ah... quer dizer, Charlemend, posso pedir que a busque no Campo de Rolanberry? Gostaria de conversar com os dois juntos." },
     { "gameKey": "quest/040/SubCts660_04079#TEXT_SUBCTS660_04079_CHARLEMEND_000_053", "hash": "F812E7F07B593EB4", "target": "É claro. Vou imediatamente." },

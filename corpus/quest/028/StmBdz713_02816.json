@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_SEQ_00", "hash": "31162CB4548148D6", "target": "Prapti teme que alguém esteja invadindo o território das Vira." },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_00", "hash": "C828579346F42E8E", "target": "Ir aos campos de caça das Vira" },
-    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_01", "hash": "93EE36CA9DE68B61", "target": "Falar com a Vira bowmaid" },
-    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_02", "hash": "28A4D14A2CE7054B", "target": "Falar com o strapping leader" },
+    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_01", "hash": "93EE36CA9DE68B61", "target": "Falar com a arqueira Vira" },
+    { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_02", "hash": "28A4D14A2CE7054B", "target": "Falar com o líder robusto" },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_TODO_03", "hash": "6D1E640CC4281D67", "target": "Informar Prapti" },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_PRAPTI_000_000", "hash": "BA1BA298CC9476FB", "target": "<if(gnum4,Aventureira,Aventureiro)>. Gostaria de pedir um favor a você. Sss..." },
     { "gameKey": "quest/028/StmBdz713_02816#TEXT_STMBDZ713_02816_PRAPTI_000_001", "hash": "C70CC6BCD1671979", "target": "Nos últimos dias, homens estranhos têm roubado presas dos nossos campos de caça. Parecem ala-mhiganos, mas não nos reconhecem como aliadasss." },

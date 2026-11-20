@@ -2,9 +2,9 @@
   "conversation": "quest/035/LucKzh014_03524",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A debonair dame perdeu algo de grande importância." },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_SEQ_00", "hash": "F210D0C28CFFB793", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A dama elegante perdeu algo de grande importância." },
     { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_00", "hash": "6287CB27E2F988EA", "target": "Procurar as joias desaparecidas" },
-    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "Devolver as joias à debonair dame" },
+    { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_TODO_01", "hash": "FF151167EB3AED87", "target": "Devolver as joias à dama elegante" },
     { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_001", "hash": "52BD43E225974D06", "target": "Perdoe o incômodo, mas preciso desesperadamente de sua ajuda. Perdi várias joias muito queridas durante a confusão e não consegui encontrá-las." },
     { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_003", "hash": "283C4B50FCEBEE4D", "target": "Procuro uma tiara com o brasão de minha casa, um colar gravado e um anel de ametista. Como deve imaginar, são todas relíquias de família." },
     { "gameKey": "quest/035/LucKzh014_03524#TEXT_LUCKZH014_03524_LADY03524_000_004", "hash": "573FE25329BD7625", "target": "Não sei onde as deixei cair, tão fora de mim estava naquele momento, mas não podem ter desaparecido no ar. Devem estar em algum lugar da cidade. Se ao menos eu tivesse alguma ideia de onde procurar..." },

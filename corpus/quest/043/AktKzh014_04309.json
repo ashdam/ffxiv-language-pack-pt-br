@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_SEQ_00", "hash": "4F7B7A0AC9C1693C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Euaion está preocupado com uma criação fugitiva." },
-    { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_TODO_00", "hash": "6A5389B21534B1BD", "target": "Usar o agente secante no overgrown bryon, subjugá-lo e capturá-lo com a corda etérea longa" },
+    { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_TODO_00", "hash": "6A5389B21534B1BD", "target": "Usar o agente secante no bryon crescido, subjugá-lo e capturá-lo com a corda etérea longa" },
     { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_TODO_01", "hash": "D2D2448C6764277A", "target": "Entregar o captured bryon a Euaion" },
     { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_EUAION_001", "hash": "C4068E56891149E9", "target": "Com licença, tem um momento? Estou procurando uma criação fugitiva e preciso de mais um par de mãos para ajudar a capturá-la." },
     { "gameKey": "quest/043/AktKzh014_04309#TEXT_AKTKZH014_04309_EUAION_002", "hash": "65A8F689D01D8DC0", "target": "Eu estava de olho nela o tempo todo, e ela se comportava tão bem que achei que podia descansar os olhos por um segundo. Mas, quando olhei de novo... <italic(1)>Puf<italic(0)>. Sumiu. Simples assim. Por favor, pode me ajudar a encontrá-la? Vou recompensar o esforço, prometo." },

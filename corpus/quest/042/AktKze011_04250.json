@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_SEQ_00", "hash": "BF96C9397D3E671A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Guidingway tem um pedido que só <if(gnum4,uma aventureira,um aventureiro)> como você poderia atender." },
-    { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_TODO_00", "hash": "DACFCCF08BAF965D", "target": "Derrotar uma daphnia e obter seus restos" },
+    { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_TODO_00", "hash": "DACFCCF08BAF965D", "target": "Derrotar uma dáfnia e obter seus restos" },
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_TODO_01", "hash": "BF8DC8F7E422509A", "target": "Entregar os restos de daphnia a Guidingway" },
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_GUIDINGWAY_000_000", "hash": "2D8F9BC82A4FA551", "target": "Ah, aí está você. Tem um momento? Ao examinar os materiais enviados pelos nossos colaboradores, encontrei uma informação muito curiosa que precisa ser verificada." },
     { "gameKey": "quest/042/AktKze011_04250#TEXT_AKTKZE011_04250_GUIDINGWAY_000_001", "hash": "CD1E2ADD711EF614", "target": "É verdade que vocês obtêm materiais de outras criaturas vivas e depois os usam para fabricar coisas <italic(1)>sem<italic(0)> usar magia da criação?" },

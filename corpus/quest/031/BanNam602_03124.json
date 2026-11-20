@@ -2,10 +2,10 @@
   "conversation": "quest/031/BanNam602_03124",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_SEQ_00", "hash": "19C858EAE1FB17DD", "target": "Seigetsu the Enlightened precisa do seu olhar atento e da sua boa pontaria.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_SEQ_00", "hash": "19C858EAE1FB17DD", "target": "Seigetsu, o Iluminado, precisa do seu olhar atento e da sua boa pontaria.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
     { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_TODO_00", "hash": "4A4534B58F6E8AAE", "target": "Falar com Gyobi e usar o arco para acertar os alvos indicados" },
     { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_TODO_01", "hash": "DF69ACCB3EBA4AD2", "target": "Falar com Gyobi" },
-    { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_TODO_02", "hash": "7FE1DB239EA9878C", "target": "Relatar a Seigetsu the Enlightened" },
+    { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_TODO_02", "hash": "7FE1DB239EA9878C", "target": "Relatar a Seigetsu, o Iluminado" },
     { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_KOFUINSEIGETSU_000_000", "hash": "5D6FEF55E70A52D4", "target": "Ah, que boa hora para chegar. Você se lembra do nosso recente ensaio do jogo de arco e flecha que os Dotharl nos ensinaram, não é? Por mais simples que seja, tomei a iniciativa de modificar suas técnicas para adaptá-las aos nossos gostos, que em breve serão refinados." },
     { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_KOFUINSEIGETSU_000_001", "hash": "793E24B8F1F155AD", "target": "De fato, fiz tudo que pude para que até alguém como Gyoshin pudesse participar sem dificuldade, mas parece que meus semelhantes são totalmente incapazes de dominar essa habilidade aparentemente fácil." },
     { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_KOFUINSEIGETSU_000_002", "hash": "8459AFE3406D603A", "target": "Para resolver esse problema, gostaria que testemunhassem mais uma vez sua pontaria excepcional. Gyobi espera por você no estande de tiro, espero que com papel e pena para fazer anotações." },

@@ -52,7 +52,7 @@
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_042", "hash": "0B39CCC65F22315A", "target": "Bom, o que estamos esperando? Vamos pra Fazenda de Greatloam!" },
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_045", "hash": "05A4C8C028A0DDBB", "target": "Oi, Tenny!" },
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_TENNY_000_050", "hash": "2B0B1B80ACE8FEEF", "target": "Q-Quem é você? Algum tipo de <if(gnum4,aventureira,aventureiro)>?" },
-    { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_051", "hash": "8A9EE95025435E14", "target": "<if(gnum4,Ela é,Ele é)>! E meu nome é Saulinne. Você estava no Mih Khetto's Amphitheatre antes, não estava?" },
+    { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_051", "hash": "8A9EE95025435E14", "target": "<if(gnum4,Ela é,Ele é)>! E meu nome é Saulinne. Você estava no Anfiteatro de Mih Khetto antes, não estava?" },
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_052", "hash": "E1AA8AD070FE44D1", "target": "Quer ir participar da Celebração da Luz Estelar comigo? Meus amigos também vão estar lá, então podemos brincar todos juntos!" },
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_TENNY_000_053", "hash": "5EDD3824134D3431", "target": "Seus amigos..." },
     { "gameKey": "quest/047/FesXms901_04781#TEXT_FESXMS901_04781_SAULINNE_000_054", "hash": "AD585D16ED58CB95", "target": "Eles são muito legais! ...Você não quer ir?" },

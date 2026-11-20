@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKzc002_04211",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_SEQ_00", "hash": "EA65CC874A784A43", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Você avista um envelope enegrecido no chão do Archons' Design." },
+    { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_SEQ_00", "hash": "EA65CC874A784A43", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Você avista um envelope enegrecido no chão do Desígnio dos Arcontes." },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_00", "hash": "509D54D401081947", "target": "Entregar o envelope coberto de cinzas ao bookish Miqo'te na Confluência" },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_01", "hash": "8F7D6B631AAAB68E", "target": "Falar com Toffwyb na Ágora" },
     { "gameKey": "quest/042/AktKzc002_04211#TEXT_AKTKZC002_04211_TODO_02", "hash": "9ADE3220D956AA60", "target": "Entregar a vela grossa ao bookish Miqo'te" },

@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKza021_04200",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_SEQ_00", "hash": "9A54575F0490DB29", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Yedjina precisa de ajuda em Great Work." },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_SEQ_00", "hash": "9A54575F0490DB29", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Yedjina precisa de ajuda na Grande Obra." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_00", "hash": "B632809ECE0B7AA0", "target": "Entregar a bolsa cheia de moedas à comerciante em Yedlihmad" },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_01", "hash": "8B4E24E225D7AC20", "target": "Entregar a bolsa cheia de cristais a Yedjina" },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_001", "hash": "5D1203BDA8C9E235", "target": "Você não é <if(gnum4,a aventureira,o aventureiro)> que salvou Matsya? Chegou na hora certa! Se tiver um tempo livre, gostaria de pedir um favor." },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_010", "hash": "7CD4C60EDF8FD603", "target": "Hmmm... Nesse caso, esmeraldas cairão muito bem. Antigamente, acreditava-se que seu brilho verde intenso podia curar tanto o coração quanto os males do corpo." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_011", "hash": "20DE4B85C14F2665", "target": "Entendo. Acredito que diamantes seriam a melhor escolha. Dizem que o brilho radiante e a dureza da gema a tornam especialmente eficaz contra os muitos males do mundo." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_012", "hash": "80FB2EFDF1434F7E", "target": "Para a riqueza, sugiro safiras amarelas. Antigamente, acreditava-se que seu brilho dourado e límpido atraía a sorte e protegia as riquezas." },
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_013", "hash": "488B3EE66D0BD78E", "target": "Vou fornecer o máximo que seu dinheiro permitir. Cuide para que cheguem em segurança aos alquimistas de Great Work." },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_013", "hash": "488B3EE66D0BD78E", "target": "Vou fornecer o máximo que seu dinheiro permitir. Cuide para que cheguem em segurança aos alquimistas da Grande Obra." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDLIHMADJEWELER_000_014", "hash": "1D2FA203107C8555", "target": "Tome cuidado ao levar os cristais ao alquimista que mandou você." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_015", "hash": "0423AC61DF5CD8D2", "target": "Ah, você voltou! Com algumas pedras preciosas para mim, suponho." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_016", "hash": "16F59C6CD947C6C8", "target": "São perfeitas. Agradeço pela ajuda! Posso perguntar que desejo você confiou a elas?" },

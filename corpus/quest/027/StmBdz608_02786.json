@@ -2,8 +2,8 @@
   "conversation": "quest/027/StmBdz608_02786",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_SEQ_00", "hash": "F59F5FFBF7B651E3", "target": "Este Dotharl sem experiência em combate precisa de ajuda com uma entrega." },
-    { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_TODO_00", "hash": "327794184DC61134", "target": "Falar com o unbloodied Dotharl" },
+    { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_SEQ_00", "hash": "F59F5FFBF7B651E3", "target": "Este Dotharl inexperiente precisa de ajuda com uma entrega." },
+    { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_TODO_00", "hash": "327794184DC61134", "target": "Falar com o Dotharl inexperiente" },
     { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_TODO_01", "hash": "94DD6D9AAFB71479", "target": "Obter o saco de couro refrigerado" },
     { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_TODO_02", "hash": "3A80533E2564C862", "target": "Entregar o saco de couro refrigerado a Sechen" },
     { "gameKey": "quest/027/StmBdz608_02786#TEXT_STMBDZ608_02786_FOREIGNER02786_000_000", "hash": "9879251C0FF44562", "target": "Você aí. Preciso da sua ajuda. Tenho que transportar algumas provisões, mas não consigo sozinho." },

@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_SEQ_00", "hash": "F0DFEE5B17088901", "target": "Vuyargur procura alguém com pés ligeiros para ajudar.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a classe ou job com que você aceitou esta missão." },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Falar com o Yok Huy Ice Harvester em Zirgorteh the Open-armed" },
-    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_01", "hash": "E2E4FD1F5B1B4FC1", "target": "Entregar o pingente de gelo de água de nascente ao Perishables Peddler" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_00", "hash": "8B5F7AB84240DB4D", "target": "Falar com o coletor de gelo Yok Huy em Zirgorteh de Braços Abertos" },
+    { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_01", "hash": "E2E4FD1F5B1B4FC1", "target": "Entregar o pingente de gelo de água de nascente ao Mascate de perecíveis" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_TODO_02", "hash": "A10A020831B2B61D", "target": "Falar com Vuyargur" },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_000", "hash": "1DB5440F3C89214C", "target": "Ah, <split(<string(gstr1)>, ,1)>, você pode ser exatamente a pessoa que eu procurava para ajudar." },
     { "gameKey": "quest/053/BanYok119_05354#TEXT_BANYOK119_05354_VUYARGUR_000_001", "hash": "3618FA298AE53C5A", "target": "A restauração exige uma quantia razoável de dinheiro. Ao analisar nossa situação, um amigo comerciante garantiu que encontraria compradores para gelo feito com água das nascentes da montanha." },

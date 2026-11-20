@@ -15,7 +15,7 @@
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_XYLLE_000_052", "hash": "B1723F9B975F7EFE", "target": "Lembre-se de que, se morrer na perseguição de um alvo, não receberá compensação alguma." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_XYLLE_000_053", "hash": "1A75C42FD4E1020C", "target": "Também estará <if(gnum4,morta,morto)>, o que seria um inconveniente para ambas as partes. Temos grandes expectativas a seu respeito, <if(gnum4,caçadora,caçador)>." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_054", "hash": "E5AFAFABB2082DC0", "target": "Contratos de alvos do Clã de duas nozes estão disponíveis." },
-    { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_055", "hash": "F5F810340BEC040E", "target": "Agora você pode retirar contratos de alvos de duas nozes no Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_055", "hash": "F5F810340BEC040E", "target": "Agora você pode retirar contratos de alvos de duas nozes no quadro de caçadas do Clã." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_SYSTEM_000_056", "hash": "FDED942FD8355734", "target": "Ao atingir o nível 76, novas missões e contratos de alvos do Clã de três nozes ficarão disponíveis com Halldor em Crystarium." },
     { "gameKey": "quest/035/LucKyb002_03598#TEXT_LUCKYB002_03598_HALLDOR_000_060", "hash": "8A4E4F64A3EEC399", "target": "Já tem preparo para os alvos de duas nozes, sinto isso nos ossos! Vá até Xylle e exija permissão para enfrentá-los!" }
   ]

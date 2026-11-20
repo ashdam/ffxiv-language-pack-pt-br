@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_SEQ_00", "hash": "000C991FA48A3D80", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Annine está aflita com o desaparecimento dos irmãos." },
-    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_00", "hash": "A7E13E7F87520517", "target": "Procurar o stocky miner" },
-    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_01", "hash": "7440E1DE4D41048B", "target": "Procurar o stout miner" },
-    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_02", "hash": "1C69928C3BAB30A5", "target": "Relatar ao stocky miner" },
+    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_00", "hash": "A7E13E7F87520517", "target": "Procurar o minerador atarracado" },
+    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_01", "hash": "7440E1DE4D41048B", "target": "Procurar o minerador robusto" },
+    { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_TODO_02", "hash": "1C69928C3BAB30A5", "target": "Relatar ao minerador atarracado" },
     { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_ANNINE_000_000", "hash": "944FFCEE6FD7806A", "target": "Posso pedir um favor?" },
     { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_ANNINE_000_001", "hash": "20E158D2CDAC8C83", "target": "Meus dois irmãos foram às Mount Biran Mines ver se havia algo para aproveitar, mas já faz muito tempo que saíram." },
     { "gameKey": "quest/034/LucKzg014_03499#TEXT_LUCKZG014_03499_ANNINE_000_002", "hash": "E99C3C30AEF4EE92", "target": "Poderia ir procurá-los? Eu mesma iria, mas dizem que o lugar está infestado de criaturas horríveis, e lutar não é meu forte. Claro que não espero que faça isso de graça." },

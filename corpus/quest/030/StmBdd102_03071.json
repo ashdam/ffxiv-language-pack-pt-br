@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_SEQ_00", "hash": "8B2F7A20D470D26E", "target": "Embora não demonstre pânico, Hien está desesperado para encontrar Yotsuyu antes que algo terrível aconteça." },
-    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_TODO_00", "hash": "F9D7E2FC276CEBEE", "target": "Interrogar os moradores de Yuzuka Manor" },
+    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_TODO_00", "hash": "F9D7E2FC276CEBEE", "target": "Interrogar os moradores da Mansão Yuzuka" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_TODO_01", "hash": "793FA9EB90E7E352", "target": "Procurar sinais de Yotsuyu" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_TODO_02", "hash": "81769A4D1D0F24C4", "target": "Procurar sinais de Yotsuyu" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_TODO_03", "hash": "2AF20A67E70F9D92", "target": "Procurar sinais de Yotsuyu" },
@@ -15,9 +15,9 @@
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_ALPHINAUD_000_012", "hash": "C6E991A6AD4068D5", "target": "Estamos a seu serviço, Lorde Hien, como antes. Vamos atravessar e começar a busca." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_ALISAIE_000_013", "hash": "D3A181484DBCB173", "target": "Vão na frente. Alguém precisa contar a Yugiri o que sabemos. Encontro vocês do outro lado." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_014", "hash": "B21F502AAB79F1E8", "target": "Não sabemos para onde Tsuyu vai, então vamos nos dividir. Ficarei com Kusakari e arredores. Alphinaud, pode seguir a estrada de Castrum Fluminis?" },
-    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_015", "hash": "FA6FBEA8A8D33515", "target": "<split(<string(gstr1)>, ,1)>, perdoe-me, mas pode interrogar os moradores de Yuzuka Manor? Algum Namazu pode tê-la visto." },
+    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_015", "hash": "FA6FBEA8A8D33515", "target": "<split(<string(gstr1)>, ,1)>, perdoe-me, mas pode interrogar os moradores da Mansão Yuzuka? Algum Namazu pode tê-la visto." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_016", "hash": "9B67F189CE7833C9", "target": "Se todos concordam, embarquemos e torçamos para que os kami sorriam aos nossos esforços!" },
-    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_GYOSAN_000_020", "hash": "B5B39C800730FFB9", "target": "Boas-vindas a Yuzuka Manor. Sim, sim. Se quiser saber algo, basta... Hm? Uma mulher de pele clara?" },
+    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_GYOSAN_000_020", "hash": "B5B39C800730FFB9", "target": "Boas-vindas à Mansão Yuzuka. Sim, sim. Se quiser saber algo, basta... Hm? Uma mulher de pele clara?" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_GYOSAN_000_021", "hash": "8781ADCFF4480A7D", "target": "Não vi viajante assim, infelizmente. Muito infelizmente. Já Namazu de pele escamosa temos de sobra!" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_GYOKU_000_022", "hash": "EF46DE3E3CEE0362", "target": "...Pele muito clara? Sim, sim! Vi essa mulher quando voltava da pescaria." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_GYOKU_000_023", "hash": "2EF726A48D33A4A8", "target": "Ela tinha cruzado os baixios a leste e seguia para nordeste... mais ou menos. Seus passos pareciam incertos. Se correr, talvez a alcance." },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_SYSTEM_000_040", "hash": "B685C1D7A52A4A0D", "target": "Basta um olhar para confirmar: é o chapéu que Yotsuyu usava quando você a encontrou em Sakazuki." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_041", "hash": "B6FC44E5262272DC", "target": "<split(<string(gstr1)>, ,1)>! Antes que pergunte, não achamos nada em Kusakari e arredores. Exceto este reencontro por acaso, suponho." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_YUGIRI_000_042", "hash": "08EBD6825432FCED", "target": "A Senhora Alisaie foi ajudar o irmão no castrum. Ela me contou a situação, e logo encontrei Lorde Hien aqui." },
-    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_043", "hash": "03ECF3CBF1DB4B79", "target": "Como foi em Yuzuka Manor? Algum sinal da nossa convidada?" },
+    { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_043", "hash": "03ECF3CBF1DB4B79", "target": "Como foi na Mansão Yuzuka? Algum sinal da nossa convidada?" },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_000_044", "hash": "8DEC2B9872239F78", "target": "...Rumo a <italic(1)>Namai<italic(0)>? Pelos kami! Se os aldeões a reconhecerem, não acabará bem." },
     { "gameKey": "quest/030/StmBdd102_03071#TEXT_STMBDD102_03071_HIEN_100_045", "hash": "2E88B7A5F75CB697", "target": "Depressa. Yugiri e eu olharemos os arrozais. A praça da vila é sua!" }
   ]
