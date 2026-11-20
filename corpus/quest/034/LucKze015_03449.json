@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_SEQ_00", "hash": "83CC16378F50040C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Davith conta, inquieto, as gemas do estoque dos Abençoados da Noite." },
-    { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_00", "hash": "AAE7D5AFA5B2435D", "target": "Falar com o traveling trader" },
+    { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_00", "hash": "AAE7D5AFA5B2435D", "target": "Falar com o negociante ambulante" },
     { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_01", "hash": "F16324D6A89945B6", "target": "Procurar gemas cintilantes" },
-    { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_02", "hash": "BA501E6FC9B060DD", "target": "Entregar as gemas cintilantes ao traveling trader" },
+    { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_02", "hash": "BA501E6FC9B060DD", "target": "Entregar as gemas cintilantes ao negociante ambulante" },
     { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_TODO_03", "hash": "87EA424BCE198465", "target": "Falar com Davith" },
     { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_DAVITH_000_001", "hash": "7B212F221A33DE92", "target": "Sim? Ah, me desculpe. Estou esperando uma entrega de mercadorias de Crystarium." },
     { "gameKey": "quest/034/LucKze015_03449#TEXT_LUCKZE015_03449_DAVITH_000_002", "hash": "981E6E093DA3EE2D", "target": "É de lá que você vem, certo? Se encontrar um mercador na estrada quando voltar para lá, diga que estamos ansiosos pela chegada dele, por favor." },

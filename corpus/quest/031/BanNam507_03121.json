@@ -2,10 +2,10 @@
   "conversation": "quest/031/BanNam507_03121",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_SEQ_00", "hash": "D902BFC75535136A", "target": "Seigetsu the Enlightened gostaria de contar com seu talento para recrutar outros.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_SEQ_00", "hash": "D902BFC75535136A", "target": "Seigetsu, o Iluminado, gostaria de contar com seu talento para recrutar outros.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_00", "hash": "B294497A527E2D14", "target": "Falar com Gyotaku" },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_01", "hash": "5BB1F24C6CACAEC1", "target": "Ir de mikoshi até os limites de Nhaama's Retreat e usar a habilidade Wasshoi para os Namazu gatherers" },
-    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_02", "hash": "A832D2C81E8D4326", "target": "Relatar a Seigetsu the Enlightened" },
+    { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_TODO_02", "hash": "A832D2C81E8D4326", "target": "Relatar a Seigetsu, o Iluminado" },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_000", "hash": "A0EA27A99B3F8123", "target": "O mikoshi que você nos ajudou a construir causou uma grande impressão em nosso povo. Estamos construindo vários outros, mas temo que seu valor seja muito reduzido se não houver carregadores para desfilar com eles..." },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_001", "hash": "3C35CA92C342B99E", "target": "Felizmente, nesse aspecto, meu povo é simples. Basta demonstrar o espetáculo majestoso do nosso mikoshi bem perto deles e logo estarão implorando pela honra de carregar o peso." },
     { "gameKey": "quest/031/BanNam507_03121#TEXT_BANNAM507_03121_KOFUINSEIGETSU_000_002", "hash": "7F24553A7B8A6C4B", "target": "Vá agora falar com Gyotaku, <split(<string(gstr1)>, ,1)>. Pegue um mikoshi e voe pela estepe até onde nossos coletores trabalham nos limites de Nhaama's Retreat. Ninguém resistirá ao encanto do seu sonoro “wasshoi”!" },

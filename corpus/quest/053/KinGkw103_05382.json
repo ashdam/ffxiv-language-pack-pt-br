@@ -23,7 +23,7 @@
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_000_030", "hash": "AC9A1960E009C7E1", "target": "Chunks of waxing arcanite podem ser obtidos com Ermina na Phantom Village." },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_DODOKKULI_000_090", "hash": "4D33E65C583FDBB8", "target": "Reuniu todo o waxing arcanite necessário? Você precisará desequipar sua arma fantasma antes de começarmos." },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_100_090", "hash": "9AEA65F1044118C0", "target": "Após a entrega do waxing arcanite necessário, sua arma fantasma será aprimorada com a técnica recém-adquirida de Gerolt." },
-    { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_200_090", "hash": "08065CE39F676251", "target": "Porém, toda materia inserida será perdida no processo." },
+    { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_200_090", "hash": "08065CE39F676251", "target": "Porém, toda matéria inserida será perdida no processo." },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_DODOKKULI_000_100", "hash": "BB6AF9338C60EBE3", "target": "Olá, <if(gnum4,aventureira,aventureiro)>. Conseguiu o waxing arcanite necessário?" },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_DODOKKULI_000_101", "hash": "22C4C10A064DE218", "target": "Um material intrigante, sem dúvida. Começarei os preparativos imediatamente. Não posso ser o único ansioso para ver Gerolt trabalhar nesse estado imbuído de éter!" },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_GEROLT_000_102", "hash": "BE337C2D5E7A00D7", "target": "Todo esse poder correndo nas minhas veias... Nunca me senti tão capaz!" },
@@ -58,6 +58,6 @@
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_ARCHIVE_000_127", "hash": "4ED9B20AE071D1AB", "target": "Hohoh, mal posso esperar para ver que espécimes gigantescos vou fisgar!" },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_GEROLT_000_128", "hash": "05B4CB4A38306125", "target": "Nesse caso, vou afiar sua faca enquanto procuro na tabuleta a próxima técnica pra acrescentar ao meu repertório!" },
     { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_000_129", "hash": "0FB6A2E4087B9A58", "target": "Agora, armas fantasmas aprimoradas de outros jobs podem ser obtidas em troca do waxing arcanite necessário com Dodokkuli na Phantom Village." },
-    { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_000_130", "hash": "0DEE5273CCD7FFA6", "target": "Agora, réplicas de armas fantasmas podem ser compradas com o expedition metallurgist." }
+    { "gameKey": "quest/053/KinGkw103_05382#TEXT_KINGKW103_05382_SYSTEM_000_130", "hash": "0DEE5273CCD7FFA6", "target": "Agora, réplicas de armas fantasmas podem ser compradas com o metalúrgico da expedição." }
   ]
 }

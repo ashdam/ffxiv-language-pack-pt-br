@@ -13,7 +13,7 @@
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_01", "hash": "6D301A6B23335A9C", "target": "Obter os Ishgardian cuisine miscellany materials com Mogwon" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_02", "hash": "00DF1F67676894E9", "target": "<if([lnum1<lnum2],Produzir Ishgardian cuisine miscellany,Entregar Ishgardian cuisine miscellany a Hildeth)>" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_03", "hash": "1290162C9E0E0B63", "target": "Entregar a comida ishgardesa aos moogles" },
-    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_04", "hash": "6180E7F0AF8F6395", "target": "Apresentar-se a Mogek the Marvelous" },
+    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_04", "hash": "6180E7F0AF8F6395", "target": "Apresentar-se a Mogek, o Maravilhoso" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_MOGEK_000_000", "hash": "7EEE21FB7083EC90", "target": "Que bom ver você de volta, <split(<string(gstr1)>, ,1)>. Hildeth pediu sua ajuda há pouco, por isso eu estava apontando para lá." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_MOGEK_000_001", "hash": "D0E742062809783B", "target": "Deve ter a ver com o trabalho dos sapadores, mas eu disse que mandaria você até ela se passasse por aqui, kupo." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_010", "hash": "E6749718AAD50B78", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <split(<string(gstr1)>, ,1)>. Prefiro que falemos baixo. Nós, sapadores, estamos preparando uma coisa para os moogles." },

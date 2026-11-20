@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_SEQ_00", "hash": "00262A54D11CC49F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Isilswys se debruça sobre um livro, mas parece estar com a cabeça em outro lugar." },
-    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_00", "hash": "D6018E1F204E2C12", "target": "Usar o pó sonífero nos vicious volumes" },
+    { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_00", "hash": "D6018E1F204E2C12", "target": "Usar o pó sonífero nos livros ferozes" },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_TODO_01", "hash": "9C49AA6169097634", "target": "Devolver os volumes a Isilswys" },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_ISILSWYS_000_000", "hash": "C7BFE898BCC51FDA", "target": "Ah, tenho visto você pelo Noumenon ultimamente. Você é <if(gnum4,a aventureira,o aventureiro)>, sim? Eu estava querendo procurar você. Acho que tenho uma tarefa bem adequada às suas habilidades." },
     { "gameKey": "quest/042/AktKzc006_04215#TEXT_AKTKZC006_04215_ISILSWYS_000_001", "hash": "55806A42B28B50ED", "target": "Acrescentamos recentemente à nossa coleção um conjunto de volumes obtidos em Great Gubal Library, mas mal os colocamos nas estantes e um estudante os manuseou sem tomar as devidas precauções." },

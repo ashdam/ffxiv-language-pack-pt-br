@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_SEQ_00", "hash": "5364FF0A3531422A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A'naidjaa mal pode esperar para exaltar as maravilhas dos skatene." },
-    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_00", "hash": "0812CFED3CA2FBBE", "target": "Falar com a familiar whisperer" },
+    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_00", "hash": "0812CFED3CA2FBBE", "target": "Falar com a encantadora de familiares" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_01", "hash": "BB6985667985A574", "target": "Usar /pet na skatene de guarda" },
-    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_02", "hash": "56F536961E50391F", "target": "Usar o colírio para skatene na watchful skatene" },
+    { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_02", "hash": "56F536961E50391F", "target": "Usar o colírio para skatene no skatene atento" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_TODO_03", "hash": "65127573269D6D10", "target": "Informar A'naidjaa" },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_ANAIDJAA_000_000", "hash": "EB59E57420D4C3FD", "target": "Um instante, por favor. Já ouviu falar dos familiares alados conhecidos como skatene? Eles têm um talento especial para enxergar no escuro, o que os tornou as aves de guarda escolhidas para algumas das instalações mais importantes do mundo." },
     { "gameKey": "quest/043/AktKzi016_04331#TEXT_AKTKZI016_04331_ANAIDJAA_000_001", "hash": "68061A5631A233B9", "target": "Nós em Labyrinthos também aproveitamos sua visão extraordinária. Dia e noite, nossos skatenes ficam de olho em malfeitores e atividades suspeitas." },

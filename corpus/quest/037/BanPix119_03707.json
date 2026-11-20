@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_SEQ_00", "hash": "8B6947B02328EFC3", "target": "Uin Nee aguarda ansiosamente uma entrega de flores e, com um pouco menos de ansiedade, a volta de uma pixie amiga que talvez tenha tido um destino terrível.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá prosseguir com a mesma classe ou job que usou ao aceitar esta missão." },
-    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_00", "hash": "E69E412A52E5D927", "target": "Falar com a flower-picking pixie a leste de Phisor Lran e lançar porxies para afastar qualquer ameaça" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_00", "hash": "E69E412A52E5D927", "target": "Falar com a Pixie colhendo flores a leste de Phisor Lran e lançar porxies para afastar qualquer ameaça" },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_01", "hash": "82DE4B8E2DC1DB80", "target": "Falar com Uin Nee" },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_001", "hash": "B6222307F49ADCBB", "target": "<split(<string(gstr1)>, ,1)>, preciso da sua ajuda! Uma pixie amiga minha saiu para colher flores faz tempo, mas ninguém viu nem sombra dela desde então!" },
     { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_002", "hash": "1DF9FB45E752552C", "target": "Suspeito que seja obra dos... Não, é cedo demais para ter certeza." },

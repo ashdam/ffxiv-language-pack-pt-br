@@ -2,7 +2,7 @@
   "conversation": "quest/042/AktKza022_04201",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_SEQ_00", "hash": "0D71640C42311E12", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Nashrifhal quer ajudar os colegas de Great Work, mas precisa de apoio." },
+    { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_SEQ_00", "hash": "0D71640C42311E12", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Nashrifhal quer ajudar os colegas da Grande Obra, mas precisa de apoio." },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_00", "hash": "1B1C6FECDEC60154", "target": "Usar /greet com os alquimistas e perguntar do que precisam" },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_TODO_01", "hash": "10C1A9201B8DFA69", "target": "Falar com Nashrifhal" },
     { "gameKey": "quest/042/AktKza022_04201#TEXT_AKTKZA022_04201_NASHRIFHAL_000_001", "hash": "1CB989DC43A69EFA", "target": "Olá, <if(gnum4,aventureira,aventureiro)>! Pode me ajudar? Preciso de alguém que vá perguntar por aí se está faltando algum suprimento." },

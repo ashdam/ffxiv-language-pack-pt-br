@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_SEQ_00", "hash": "66DAED8F08D9B412", "target": "Hayama observa o mar com ansiedade." },
-    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_00", "hash": "CBC5539BB10EBEFD", "target": "Procurar o pirate boy" },
-    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_01", "hash": "82568BE25874064D", "target": "Falar com o pirate boy" },
-    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_02", "hash": "E9467373A6F651AE", "target": "Falar com o guardian pirate" },
+    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_00", "hash": "CBC5539BB10EBEFD", "target": "Procurar o menino pirata" },
+    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_01", "hash": "82568BE25874064D", "target": "Falar com o menino pirata" },
+    { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_TODO_02", "hash": "E9467373A6F651AE", "target": "Falar com o pirata guardião" },
     { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_HAYAMA_000_000", "hash": "F78808D34D5BF0E5", "target": "Você! Sim, você! Venha aqui. Preciso falar com você." },
     { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_HAYAMA_000_001", "hash": "BEF353CCAA61B4A0", "target": "Eu estava observando estas águas agora mesmo e avistei um menino pirata sendo atacado por monstros marinhos. Ele conseguiu voltar à costa de Sakazuki, mas eles o seguiram. Receio que não vá resistir por muito tempo sem ajuda." },
     { "gameKey": "quest/026/StmBdz206_02678#TEXT_STMBDZ206_02678_HAYAMA_000_002", "hash": "40DEA44AF218921F", "target": "Sei o que está pensando. Ele é um pirata, então por que eu me importaria? De fato, normalmente não me importaria. Mas, antes de ser pirata, ele é um menino, e minha consciência não me permite fechar os olhos para uma criança em perigo." },

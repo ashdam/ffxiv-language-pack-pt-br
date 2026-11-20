@@ -3,11 +3,11 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_SEQ_00", "hash": "9F24779E2FCA3B36", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Hargra precisa que uma coisa seja entregue ao irmão com toda a pressa." },
-    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Entregar o diário surrado ao red-haired Hume" },
+    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Entregar o diário surrado ao Hume ruivo" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_01", "hash": "41FF5BA628407783", "target": "Informar Hargra" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_000", "hash": "FDE19AC3ED40028F", "target": "Por favor, <if(gnum4,senhorita,senhor)>, pode me ajudar?" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_100_000", "hash": "7E2069DDDC146813", "target": "Meu irmão partiu há pouco para Crystarium, mas esqueceu o diário. Ele ficaria arrasado se soubesse que o deixou para trás." },
-    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_001", "hash": "7B016ED572E3084F", "target": "Se você se apressar, deve conseguir encontrá-lo antes que chegue a Lakeland." },
+    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_001", "hash": "7B016ED572E3084F", "target": "Se você se apressar, deve conseguir encontrá-lo antes que chegue à Terra dos Lagos." },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_002", "hash": "F303F04CDF145416", "target": "Ele é bem alto e tem cabelo ruivo, então deve ser fácil reconhecê-lo. Por favor, vá entregar o diário, eu imploro." },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_010", "hash": "D16C181BD59F3BAD", "target": "Aquele diário é tudo para ele. Ele precisa recebê-lo." },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_BROTHER03455_000_020", "hash": "0F5738CAE7A45307", "target": "Sim? ...Uma coisa da minha irmã?" },

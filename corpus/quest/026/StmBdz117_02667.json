@@ -2,10 +2,10 @@
   "conversation": "quest/026/StmBdz117_02667",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_SEQ_00", "hash": "0599302327517846", "target": "Uma modest maiden em Kugane procura alguém que já tenha experiência em aventuras." },
+    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_SEQ_00", "hash": "0599302327517846", "target": "Uma jovem modesta em Kugane procura alguém que já tenha experiência em aventuras." },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_00", "hash": "0310128619EFEAA3", "target": "Mostrar sua raiva a Ibara com /angry" },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_01", "hash": "F82E7DD7DB56BEFD", "target": "Mostrar sua raiva a Ibara com /angry mais uma vez" },
-    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_02", "hash": "F55B32EF905C7F99", "target": "Falar com a modest maiden" },
+    { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TODO_02", "hash": "F55B32EF905C7F99", "target": "Falar com a jovem modesta" },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_000", "hash": "EAA86AC4E4775AE6", "target": "C-Com licença. Você vive de aventuras? Vive, não é? Será que poderia me ouvir por um momento? Preciso muito de ajuda." },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_001", "hash": "0CEE49043EE4D162", "target": "Estou cumprindo uma tarefa para o senhor da casa onde trabalho. Ele me mandou ao Mercado comprar um objeto, e eu comprei. Só que acabei de descobrir que o preço que me cobraram e que paguei era muito maior que o valor de mercado. Voltei para exigir a diferença, mas a comerciante nem quis falar comigo." },
     { "gameKey": "quest/026/StmBdz117_02667#TEXT_STMBDZ117_02667_TIMIDWOMAN02667_000_002", "hash": "E269C6800D25F129", "target": "Meu senhor é um homem rigoroso, e temo que desconte o prejuízo do meu pagamento. Por favor, eu imploro. Pode falar com essa comerciante? Ela precisa reparar essa injustiça." },

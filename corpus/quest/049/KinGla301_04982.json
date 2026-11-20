@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SEQ_00", "hash": "6A343412DC7C9DE4", "target": "Xeerol Ja procura alguém com experiência na arte de preparar misturas criativas." },
-    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SEQ_01", "hash": "3F3F06C507261D29", "target": "Os cofres da Xeerol Ja Juicecraft estão tão secos quanto uma uva-passa, e a proprietária precisa da sua ajuda para mudar essa situação. Vá ao Bazar da Baía e se apresente ao terceiro integrante da equipe: um coletor chamado Halnaruk." },
+    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SEQ_01", "hash": "3F3F06C507261D29", "target": "Os cofres da Sucaria de Xeerol Ja estão tão secos quanto uma uva-passa, e a proprietária precisa da sua ajuda para mudar essa situação. Vá ao Bazar da Baía e se apresente ao terceiro integrante da equipe: um coletor chamado Halnaruk." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SEQ_02", "hash": "DC27ED81A72A6856", "target": "Você conhece o Moblin de poucas palavras e se compromete a preparar sucos saudáveis e saborosos para o povo de Tuliyollal. É hora de voltar a Wachumeqimeqi e pôr a mão na massa." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SEQ_03", "hash": "9F2E86D2450F4E42", "target": "Xeerol Ja reitera sua sincera gratidão pela sua ajuda nessa empreitada conjunta. A mistura de dedicação, relutância e expectativa entre vocês já promete uma jornada pelo mundo dos sucos como você nunca viveu..." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_TODO_00", "hash": "145D0B3C091777DB", "target": "Falar com Halnaruk" },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_036", "hash": "82C5F1EF7EC0C8FC", "target": "Ou seja, sucos que promovam a saúde e o bem-estar de cada habitante de Tuliyollal!" },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_037", "hash": "BE97D2600FB889A6", "target": "Embora as frutas sejam uma ótima fonte de vitaminas, os diversos povos desta cidade têm necessidades alimentares e nutricionais próprias." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_038", "hash": "D9D522DF0E471CF7", "target": "Então, usando técnicas culinárias e alquímicas, pretendo oferecer bebidas feitas sob medida para habitantes de todos os tipos e tamanhos." },
-    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_039", "hash": "8467FBA36057BD2F", "target": "Com bebidas deliciosas e especialmente nutritivas, meus clientes com certeza vão se lembrar de por que adoram a Xeerol Ja Juicecraft!" },
+    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_039", "hash": "8467FBA36057BD2F", "target": "Com bebidas deliciosas e especialmente nutritivas, meus clientes com certeza vão se lembrar de por que adoram a Sucaria de Xeerol Ja!" },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_040", "hash": "4252D86E826E1FFC", "target": "Além disso, em tempos tão incertos, as pessoas precisam de algo que lhes anime. E o que seria melhor que uma bebida reconfortante?" },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_041", "hash": "64400DEFB35EDD90", "target": "Além disso, as pessoas ainda estão abaladas com a tragédia recente... Bebidas saudáveis podem não parecer grande coisa, mas talvez ajudem a animar algumas delas." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_042", "hash": "A29BAEC8FCA27FDA", "target": "<split(<string(gstr1)>, ,1)>, com a sua experiência em alquimia, você deve conseguir aumentar o valor nutricional das minhas bebidas com precisão científica, certo?" },
@@ -50,6 +50,6 @@
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_HALNARUK_000_055", "hash": "8746319833F0DFDE", "target": "Pfff... Pfffkohhh... O quê?" },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_060", "hash": "713D589B483FB6EF", "target": "Só quero reforçar o quanto agradeço pela ajuda de vocês." },
     { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_XEEROLJA_000_061", "hash": "9E4A1472BAD4604E", "target": "Juntos, vamos preparar sucos que sejam motivo de orgulho para Tuliyollal e gerem lucro para salvar minha loja!" },
-    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SYSTEM_000_062", "hash": "0945C1F5D359388E", "target": "Agora você pode fazer entregas para a Xeerol Ja Juicecraft em Wachumeqimeqi. Fale com Xeerol Ja para saber mais." }
+    { "gameKey": "quest/049/KinGla301_04982#TEXT_KINGLA301_04982_SYSTEM_000_062", "hash": "0945C1F5D359388E", "target": "Agora você pode fazer entregas para a Sucaria de Xeerol Ja em Wachumeqimeqi. Fale com Xeerol Ja para saber mais." }
   ]
 }

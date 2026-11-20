@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SEQ_00", "hash": "98050261511DEEBC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O Tholl tinkerer procura ajuda de alguém de fora." },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_00", "hash": "3B3D9762F87F0354", "target": "Falar com o Tholl tinkerer" },
-    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_01", "hash": "34F51F50DD75D7BB", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digitar uma frase que contenha “Lali-ho” para distrair os Gogg lookouts" },
+    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_01", "hash": "34F51F50DD75D7BB", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, digitar uma frase que contenha “Lali-ho” para distrair os Gogg lookouts" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_02", "hash": "9541A819A87DA545", "target": "Falar com o Tholl tinkerer" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_TODO_03", "hash": "BA115D0187EFC44F", "target": "Falar com o Tholl tinkerer" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_MECHANISM03550_000_000", "hash": "DD3A8494ABFCC7BC", "target": "Lali-ho! Ah, você não poderia ter escolhido hora melhor para visitar!" },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_MECHANISM03550_000_011", "hash": "53D22BB9EE506F7C", "target": "Quando tiver a atenção delas, diga... ah, não sei... que viu um Tholl fedorento se esgueirando aqui perto, ou algo assim. Isso deve fazê-las sair do lugar. Então eu entro na ponta dos pés, pego minha autômata e encontro você aqui de volta." },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_MECHANISM03550_000_012", "hash": "9C135C13A5148515", "target": "É só soltar um “lali-ho” bem alegre e dizer àquelas sentinelas que viu um Tholl por perto. Assim que saírem para investigar, eu entro, saio e encontro você aqui com minha autômata. Bom plano?" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SYSTEM_100_020", "hash": "AB7D15FF5D62D1B6", "target": "Lali-ho" },
-    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SYSTEM_110_020", "hash": "1C78D50297D84DC0", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar uma frase que contenha “Lali-ho” para distrair os Gogg lookouts." },
+    { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_SYSTEM_110_020", "hash": "1C78D50297D84DC0", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar uma frase que contenha “Lali-ho” para distrair os Gogg lookouts." },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_DWARFA03550_120_020", "hash": "D54A8C07CDCC25C3", "target": "Hm? Está procurando confusão por aqui?" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_DWARFB03550_130_020", "hash": "E2BAC98D9B356470", "target": "......" },
     { "gameKey": "quest/035/LucKzi014_03550#TEXT_LUCKZI014_03550_DWARFA03550_000_020", "hash": "4C45E38092F21C0E", "target": "Lali-ho! O que traz você a Komra?" },

@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_SEQ_00", "hash": "DFD6B8267381C57F", "target": "Auphiliot está preocupado com Buscarron após os acontecimentos recentes." },
-    { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_SEQ_01", "hash": "A0A145DD9363CBA9", "target": "Buscarron está aflito com a aparição de garleanos na Mata dos Doze. Para tranquilizá-lo, Auphiliot quer que você fale com uma Coeurlclaw poacher e um mensageiro das Vespas de Barriga Vermelha e peça que fiquem de olho em quaisquer garleanos que avistarem." },
+    { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_SEQ_01", "hash": "A0A145DD9363CBA9", "target": "Buscarron está aflito com a aparição de garleanos na Mata dos Doze. Para tranquilizá-lo, Auphiliot quer que você fale com uma caçadora furtiva das Garras de Coeurl e um mensageiro das Vespas de Barriga Vermelha e peça que fiquem de olho em quaisquer garleanos que avistarem." },
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_SEQ_02", "hash": "42FF69373923B4F7", "target": "Você pediu vigilância tanto aos caçadores ilegais quanto às Vespas. Volte a Auphiliot em Buscarron's Druthers e conte o que fez." },
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_SEQ_03", "hash": "B6CB53125C65265B", "target": "Pelo visto, Auphiliot queria mais do que garantir a Buscarron que os garleanos estão sob vigilância. Ele também fez você encontrar a caçadora ilegal e o mensageiro para que soubessem quem você é e que você não tem medo deles. Ele espera que esses encontros tornem você cada vez mais útil ao dono e aos fregueses de Buscarron's Druthers." },
-    { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_TODO_00", "hash": "BEB62925BE89337D", "target": "Falar com uma Coeurlclaw poacher" },
+    { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_TODO_00", "hash": "BEB62925BE89337D", "target": "Falar com uma caçadora furtiva das Garras de Coeurl" },
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_TODO_01", "hash": "D7D2BED0C3E34F1D", "target": "Falar com um mensageiro das Vespas de Barriga Vermelha" },
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_TODO_02", "hash": "7AF49CA3F37014E7", "target": "Apresentar-se a Auphiliot" },
     { "gameKey": "quest/007/GaiUsa307_00739#TEXT_GAIUSA307_00739_AUPHILIOT_000_000", "hash": "757681415665642E", "target": "Sua notícia dos garleanos na mata deixou o velho Buscarron fora de si de preocupação." },

@@ -2,9 +2,9 @@
   "conversation": "quest/054/KinGwz203_05413",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_SEQ_00", "hash": "6172DCB462F838FA", "target": "A vacuum suit specialist procura apenas candidatos qualificados." },
-    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_00", "hash": "FDBB4EAEE358832B", "target": "Falar com a vacuum suit specialist" },
-    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_01", "hash": "FCAC3AD1E8685EB4", "target": "Falar novamente com a vacuum suit specialist" },
+    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_SEQ_00", "hash": "6172DCB462F838FA", "target": "A especialista em mechas de vácuo procura apenas candidatos qualificados." },
+    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_00", "hash": "FDBB4EAEE358832B", "target": "Falar com a especialista em mechas de vácuo" },
+    { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_TODO_01", "hash": "FCAC3AD1E8685EB4", "target": "Falar novamente com a especialista em mechas de vácuo" },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_001", "hash": "A434E99CAB6DAF10", "target": "Ora, se não é <string(gstr1)>! Os rumores não fazem jus a você. Diga, será que teria um momento?" },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_002", "hash": "21BAB12C88362C68", "target": "Estamos planejando um voo de teste em alta altitude. Embora raramente seja necessário na operação normal, os vacuum suits são equipados para isso." },
     { "gameKey": "quest/054/KinGwz203_05413#TEXT_KINGWZ203_05413_ASSISTANT05413_000_003", "hash": "2EF7FA46FBED63E8", "target": "Até pouco tempo atrás, os voos tripulados eram proibidos, uma precaução de segurança devido à diferença nos níveis de magnetismo entre Phaenna e Sinus Ardorum." },

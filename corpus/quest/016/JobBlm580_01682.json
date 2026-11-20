@@ -11,7 +11,7 @@
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_SEQ_06", "hash": "80C18837BFA24ECB", "target": "Você encontra Zhai'a Nelhah a tempo de ajudá-lo a repelir um ataque dos Insurgentes. Ele pede desculpas pela hipocrisia de tentar enfrentar os seguidores da seita sozinho. Mas explica que temia que os magos dos Insurgentes perdessem o controle dos seus poderes se fossem obrigados a se defender de <if(gnum4,uma maga negra tão habilidosa,um mago negro tão habilidoso)> quanto você. Como mais uma vez não há Insurgentes vivos para interrogar, vocês ficam sem pistas. Volte até Lalai e transmita as desculpas de Zhai'a Nelhah." },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_SEQ_07", "hash": "AB6CBBFA76E53B50", "target": "Embora você não tenha conseguido capturar Waldeve, Lalai considera os últimos acontecimentos animadores. O fato de os Insurgentes terem sido forçados a viajar até os ermos gelados do oeste de Coerthas parece confirmar seu crescente desespero. Se as coisas continuarem assim, não demorará muito para esses magos negros renegados serem levados à justiça. Quando isso acontecer, o perigoso tomo de magia negra que roubaram, o Livro de Thal, poderá finalmente ser guardado em segurança.<br><br>※A próxima missão de Black Mage estará disponível com Lalai ao atingir o nível 60." },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_00", "hash": "F262C0EF8C0247F1", "target": "Falar com Zhai'a Nelhah em Quicksand" },
-    { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_01", "hash": "E9D95E4193508828", "target": "Falar com o well-built Temple Knight perto de Arc of the Worthy" },
+    { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_01", "hash": "E9D95E4193508828", "target": "Falar com o Cavaleiro do Templo robusto perto de Arc of the Worthy" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_02", "hash": "098BA6659262D023", "target": "Falar com Zhai'a Nelhah em Convictory" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_03", "hash": "4FD4C08005286DA7", "target": "Reunir informações sobre os Insurgentes" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_TODO_04", "hash": "55ADE7E49547A6B5", "target": "Procurar Zhai'a Nelhah a sudeste de Convictory" },
@@ -61,7 +61,7 @@
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_TODO_1", "hash": "C041E6D396CC70E4", "target": "Derrote os Insurgentes!" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_ZHAIANELHAH_BATTLETALK_01", "hash": "6D3DA91C5DF82FA3", "target": "Não podemos deixar que escapem! <split(<string(gstr1)>, ,1)>, detenha eles!" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_ZHAIANELHAH_BATTLETALK_02", "hash": "0959A1262E45926E", "target": "Cuidado! Tem mais deles!" },
-    { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_ZHAIANELHAH_BATTLETALK_03", "hash": "8F91CD3A90E900E8", "target": "Estão tentando invocar alguma coisa! Feche as planar fissures!" },
+    { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_ZHAIANELHAH_BATTLETALK_03", "hash": "8F91CD3A90E900E8", "target": "Estão tentando invocar alguma coisa! Feche as fissuras planares!" },
     { "gameKey": "quest/016/JobBlm580_01682#TEXT_JOBBLM580_01682_QIB_001_ZHAIANELHAH_BATTLETALK_04", "hash": "A7BB48174FD377F9", "target": "Tem ainda mais deles! Cuidado com as criaturas do vazio!" }
   ]
 }

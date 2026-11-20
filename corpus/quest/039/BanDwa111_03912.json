@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_SEQ_00", "hash": "A821DF56C3B6AAF8", "target": "Regitt procura um par de mãos a mais para lidar com materiais perigosos.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que você aceitou a missão." },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_00", "hash": "CC4C83BE5E83125B", "target": "Colocar o explosivo no local indicado" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Falar com o dwarven foreman" },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_01", "hash": "1E6834BF51EC820C", "target": "Falar com o capataz anão" },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_TODO_02", "hash": "FD55C4D2D9F22B4D", "target": "Informar Regitt" },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_001", "hash": "6172390E8683B9C2", "target": "Há gerações, nós, anões, ganhamos a vida arrancando da terra seus veios minerais ocultos com as próprias mãos." },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_002", "hash": "64D46EC066710B3C", "target": "Mas o número de mãos que temos aqui na Anvil é um pouco limitado. Conforme nossas operações crescem, precisamos buscar toda a ajuda disponível lá fora. E, agora, parece que essa ajuda é você!" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_012", "hash": "C55E13E57FE27095", "target": "Ufa! Se estivesse só alguns ilms mais perto, a explosão poderia ter sido um pouco mais... sangrenta. Mas tudo está bem quando acaba bem, como sempre digo. Afinal, um pouco de poeira e entulho nunca fez mal a ninguém!" },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_DAILYDWARF03912_000_020", "hash": "49FE4EFB2790E0F3", "target": "Ah, nada como uma explosão pra dar ânimo, hein? Vou separar os melhores minerais dos escombros. Você diga ao Regitt que nosso trabalho aqui terminou. Por enquanto, pelo menos." },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_030", "hash": "A26D60367C350552", "target": "Você voltou e, pela fina camada de poeira cobrindo seu corpo, cumpriu a tarefa de forma esplêndida!" },
-    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "Apesar do que viu hoje, minerar é muito mais que jogar explosivos em pedras. Nosso conhecimento é tão profundo e vasto quanto as montanhas em que entramos. Podemos farejar veios de minério que escaparam até dos narizes dos melhores mineiros de Lakeland." },
+    { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_031", "hash": "31B342051ED04BF8", "target": "Apesar do que viu hoje, minerar é muito mais que jogar explosivos em pedras. Nosso conhecimento é tão profundo e vasto quanto as montanhas em que entramos. Podemos farejar veios de minério que escaparam até dos narizes dos melhores mineiros da Terra dos Lagos." },
     { "gameKey": "quest/039/BanDwa111_03912#TEXT_BANDWA111_03912_REGITT_000_032", "hash": "4EE921DAD1D1155F", "target": "Então continue com a gente, e ninguém sabe que riquezas esperam por você! Pode ter certeza de que vou chamar de novo quando encontrarmos o filão principal." }
   ]
 }

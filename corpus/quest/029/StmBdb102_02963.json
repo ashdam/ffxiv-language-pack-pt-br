@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_SEQ_00", "hash": "599A42A8B14CC584", "target": "Você quase consegue ver as engrenagens girando na cabeça de Alphinaud." },
-    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_00", "hash": "B68CDC72A7A344F2", "target": "Falar com moradores do Ala Mhigan Quarter" },
+    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_00", "hash": "B68CDC72A7A344F2", "target": "Falar com moradores do Bairro Ala-mhigano" },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_01", "hash": "06940C52601FF2E9", "target": "Falar com Ernold" },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_TODO_02", "hash": "128F96404FEA9F46", "target": "Informar Arenvald" },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ARENVALD_000_001", "hash": "2F5A9BBE00BB746F", "target": "Se alguém pode achar esse tesouro, somos nós. Mas, mesmo sem achar, acho que a aventura já será recompensa suficiente." },
@@ -16,7 +16,7 @@
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_015", "hash": "D5128F51AEA73457", "target": "Os garleanos são meticulosos nessas coisas. Se descobriram o tesouro durante a ocupação, certamente registraram o ocorrido." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_016", "hash": "0AC4446050A2B0FB", "target": "Enquanto isso, vocês dois podem procurar quem trabalhou no palácio como criado ou funcionário na época de Theodoric." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_017", "hash": "10F0DB1795A0FBE3", "target": "Como teriam pelo menos vinte anos na época, procurem pessoas de quarenta verões ou mais. Tudo que disserem sobre o rei e seus feitos sangrentos pode ser útil. Ouçam com atenção." },
-    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_018", "hash": "1D7D9E51CC39DDDE", "target": "Arenvald, tente a sorte nos Fringes e nos Peaks, enquanto <split(<string(gstr1)>, ,1)> percorre o Ala Mhigan Quarter." },
+    { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ALPHINAUD_000_018", "hash": "1D7D9E51CC39DDDE", "target": "Arenvald, tente a sorte nas Fronteiras e nos Peaks, enquanto <split(<string(gstr1)>, ,1)> percorre o Bairro Ala-mhigano." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_ARENVALD_000_019", "hash": "D4EB5D256DBA565F", "target": "Ha! E eu achando que <italic(1)>eu<italic(0)> era o líder do grupo. Não que eu me importe! Vamos ao trabalho, hein? Nos encontramos depois em Gylbarde's Gate!" },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_030", "hash": "FC2C585AF7C815AA", "target": "...No palácio? Não, eu não, <if(gnum4,menina,menino)>." },
     { "gameKey": "quest/029/StmBdb102_02963#TEXT_STMBDB102_02963_MIDDLEAGEMAN_000_031", "hash": "CD8B929CF17F4773", "target": "Já deve ter ouvido histórias do rei louco. Fazia execuções públicas no Divine Audience. Qualquer um, e digo <italic(1)>qualquer um<italic(0)>, suspeito de conspirar contra a coroa era atirado do alto daqueles degraus." },

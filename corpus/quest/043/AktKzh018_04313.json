@@ -2,10 +2,10 @@
   "conversation": "quest/043/AktKzh018_04313",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_SEQ_00", "hash": "76B3B78796E781F6", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A Akadaemia student observa o horizonte com uma expressão preocupada." },
+    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_SEQ_00", "hash": "76B3B78796E781F6", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A estudante da Akadaemia observa o horizonte com uma expressão preocupada." },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_00", "hash": "F3E313586F10A32C", "target": "Falar com a blue-haired student e pedir que acompanhe você" },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_01", "hash": "C8A51C96B8929A4F", "target": "Acompanhar a blue-haired student até o local indicado e falar com ela" },
-    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_02", "hash": "4A23945C60D9C6A8", "target": "Falar com a Akadaemia student" },
+    { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_TODO_02", "hash": "4A23945C60D9C6A8", "target": "Falar com a estudante da Akadaemia" },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_000", "hash": "49D9D2E2853308B1", "target": "Você também está de visita, não é? Talvez possa me ajudar, então. Por acaso viu uma mulher de cabelos azuis por aqui? Ela estaria sem máscara." },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_001", "hash": "DE3ED680B186E18D", "target": "Entendo. Ela e eu somos alunas de Akadaemia Anyder e pretendíamos aproveitar nossa folga para visitar Elpis juntas." },
     { "gameKey": "quest/043/AktKzh018_04313#TEXT_AKTKZH018_04313_GRADUATESTUDENT04313_000_002", "hash": "2F27BE6BC008A3DE", "target": "Estávamos a caminho quando ela percebeu que tinha esquecido algo em Anagnorisis e voltou correndo... Foi a última vez que a vi. Ela pode ser um pouco... como posso dizer?... distraída, então é bem possível que tenha se perdido na volta." },

@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SEQ_00", "hash": "33DB067EE8A67B6D", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O olhar de Solina implora que você ajude em sua busca." },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_00", "hash": "8B41AF6C45B8859B", "target": "Procurar na Praia das Conchas Quebradas o silky-haired elf de sorriso deslumbrante" },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_01", "hash": "FA55D4149C0A0616", "target": "Resgatar o silky-haired elf" },
-    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_02", "hash": "3C82B3D3E28523A3", "target": "Falar com o silky-haired elf em Derelicts" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_00", "hash": "8B41AF6C45B8859B", "target": "Procurar na Praia das Conchas Quebradas o elfo de cabelos sedosos de sorriso deslumbrante" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_01", "hash": "FA55D4149C0A0616", "target": "Resgatar o elfo de cabelos sedosos" },
+    { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_TODO_02", "hash": "3C82B3D3E28523A3", "target": "Falar com o elfo de cabelos sedosos nos Destroços" },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_000", "hash": "D7E3CD67C48A4681", "target": "Obrigada por aceitar ajudar. Sei que ele está por aí, em algum lugar. Eu <italic(1)>sinto<italic(0)>." },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_001", "hash": "327645E5177A83FE", "target": "Devo procurar de novo abaixo do convés... Enquanto isso, poderia vasculhar a costa de Kholusia por mim? Estive pensando que ele pode ter chegado à praia, mas... Bem, aquilo está infestado de criaturas ferozes, e eu tenho <italic(1)>algum<italic(0)> instinto de sobrevivência." },
     { "gameKey": "quest/035/LucKzh007_03517#TEXT_LUCKZH007_03517_SOLINA_000_002", "hash": "EF287DD1BA21DBF9", "target": "Procure um elfo mais ou menos da minha idade. Tenho certeza de que vai reconhecê-lo quando o vir: ele tem cabelos sedosos e o sorriso mais <italic(1)>deslumbrante<italic(0)> de todos!" },

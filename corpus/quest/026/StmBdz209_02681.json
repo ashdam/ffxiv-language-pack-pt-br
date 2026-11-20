@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_SEQ_00", "hash": "209F8076CE67673A", "target": "Afumi não tem paciência para piratas enjoados." },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_00", "hash": "C23BCABA331C6267", "target": "Falar com Aokumo" },
-    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_01", "hash": "0785E5F0993A82CD", "target": "Dar o remédio ao seasick Doman recruit" },
+    { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_01", "hash": "0785E5F0993A82CD", "target": "Dar o remédio ao recruta domano enjoado" },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_TODO_02", "hash": "AED2D39D68E5A1E5", "target": "Falar com Afumi" },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_AFUMI_000_000", "hash": "BE5E14B1F60C20C3", "target": "Que os kami me levem! Que pirata não aguenta o balanço do mar!?" },
     { "gameKey": "quest/026/StmBdz209_02681#TEXT_STMBDZ209_02681_AFUMI_000_001", "hash": "FBC45CAE2813F9C9", "target": "Hm? <if(gnum4,Uma recruta nova,Um recruta novo)> de terras distantes? Ouça bem, tenho uma tarefa para você." },

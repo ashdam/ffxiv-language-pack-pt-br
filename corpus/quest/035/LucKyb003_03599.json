@@ -13,7 +13,7 @@
     { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_051", "hash": "3EC0F139BD7CD20C", "target": "Sempre que o assunto são suas façanhas, ele se enche de uma paixão ardente. É como se vivesse essas histórias por meio dos relatos... Enfim, se deseja desafios maiores, poderá tê-los." },
     { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_XYLLE_000_052", "hash": "16EBA5C1DAC97DF1", "target": "Tenha em mente os riscos maiores de perseguir esses alvos. <if(gnum4,Morta ou horrivelmente mutilada,Morto ou horrivelmente mutilado)>, não terá utilidade para nós." },
     { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_053", "hash": "9FE1DDC3158CE06C", "target": "Contratos de alvos do Clã de três nozes estão disponíveis." },
-    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "Agora você pode retirar contratos de alvos de três nozes no Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_054", "hash": "E509E0B427614209", "target": "Agora você pode retirar contratos de alvos de três nozes no quadro de caçadas do Clã." },
     { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_SYSTEM_000_055", "hash": "D39762442CB48B75", "target": "Ao atingir o nível 80, novas missões e contratos de alvos de elite do Clã ficarão disponíveis com Halldor em Crystarium." },
     { "gameKey": "quest/035/LucKyb003_03599#TEXT_LUCKYB003_03599_HALLDOR_000_060", "hash": "A66F7153589733CA", "target": "O que está esperando!? Uma aventura de desafiar a morte promete grandes emoções! Vá falar com Xylle agora mesmo!" }
   ]

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_SEQ_00", "hash": "0F525A547A799564", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Riott parece ansioso para compartilhar os costumes de Tomra." },
-    { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_TODO_00", "hash": "C0932A68D5FDEE04", "target": "Abater Scree gnomes e obter pedras da alma de gnomo" },
+    { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_TODO_00", "hash": "C0932A68D5FDEE04", "target": "Abater gnomos da Cascalheira e obter pedras da alma de gnomo" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_TODO_01", "hash": "F8038A3C110BCA21", "target": "Entregar as pedras da alma de gnomo a Riott" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_TODO_02", "hash": "CCA43DF9EE707FB0", "target": "Usar as garrafas de cerveja de pedra de Tomra na estátua de Zigutt" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_TODO_03", "hash": "58B839002DF366A9", "target": "Falar com Riott" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_001", "hash": "37572AD325C8431B", "target": "Se vou dar as boas-vindas a Tomra como se deve, é melhor ensinar nossos costumes, hein? E isso começa prestando respeito à estátua de Zigutt!" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_002", "hash": "7C792216E3D0FEB0", "target": "...Ah, você não saberia distinguir um Riott de um Ronitt, saberia? O “Zigutt” de que falo é um dos nossos chefes ancestrais, o guerreiro mais poderoso da história dos Tholl! Guarde esse nome, <if(gnum4,moça,rapaz)>." },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_004", "hash": "DE1F16EABE3CB398", "target": "Agora, primeiro precisamos preparar a oferenda. Para isso, você tem que me trazer duas pedras da alma daqueles gnomos de cabeça de pedra lá em Scree. Tente não deixar que esmaguem você, hein?" },
-    { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_005", "hash": "B05A799EF76C6629", "target": "Primeiro, precisamos de duas pedras da alma! Tem que tirá-las de Scree gnomes, e pode acreditar: eles não vão colaborar!" },
+    { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_005", "hash": "B05A799EF76C6629", "target": "Primeiro, precisamos de duas pedras da alma! Tem que tirá-las de gnomos da Cascalheira, e pode acreditar: eles não vão colaborar!" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_010", "hash": "F7205684CFC188ED", "target": "Vamos lá, me dê essas pedras da alma!" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_011", "hash": "C2F24335CEB27674", "target": "Agora, vou pegar meu martelo aqui e...\\<croc>... com toda a delicadeza...\\<crac>... transformar isto em pó!" },
     { "gameKey": "quest/035/LucKzi019_03555#TEXT_LUCKZI019_03555_RIOTT_000_012", "hash": "81B1923605FFC5BD", "target": "E pronto! Belas garrafas de cerveja de pedra, temperadas com uma pitada de pedra da alma de gnomo!" },

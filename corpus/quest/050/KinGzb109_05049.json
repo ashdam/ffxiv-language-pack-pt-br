@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_SEQ_00", "hash": "DBBE852D113303ED", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Dabargar quer que você vingue um amigo morto." },
-    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_00", "hash": "86E24E25BE6A0EF8", "target": "Falar com o Yok Huy guide" },
+    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_00", "hash": "86E24E25BE6A0EF8", "target": "Falar com o guia Yok Huy" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_01", "hash": "3E5BC879E2919A27", "target": "Matar os monstros nas Sombras do Luto" },
-    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_02", "hash": "9F35FBFA99A33C97", "target": "Falar com o Yok Huy guide" },
+    { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_02", "hash": "9F35FBFA99A33C97", "target": "Falar com o guia Yok Huy" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_TODO_03", "hash": "D4297D232B9C3EB6", "target": "Falar com Dabargar" },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_000", "hash": "CD0CACE83071998E", "target": "Ah, <if(gnum4,a heroína,o herói)> que derrotou Valigarmanda. Peço sua ajuda para exterminar uma nova ameaça que se abateu sobre os Yok Huy." },
     { "gameKey": "quest/050/KinGzb109_05049#TEXT_KINGZB109_05049_DABARGAR_000_001", "hash": "921B4CC84F6D451B", "target": "Um dos nossos desapareceu recentemente e acabou sendo encontrado nos arredores das ruínas das Sombras do Luto... reduzido a um cadáver ressecado." },

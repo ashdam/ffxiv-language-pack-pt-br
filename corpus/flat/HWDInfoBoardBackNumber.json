@@ -2,9 +2,9 @@
   "sheet": "HWDInfoBoardBackNumber",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "HWDInfoBoardBackNumber#0", "hash": "D28E82E022F868A9", "target": "" },
-    { "gameKey": "HWDInfoBoardBackNumber#1", "hash": "A27A72E5A67543F2", "target": "" },
-    { "gameKey": "HWDInfoBoardBackNumber#2", "hash": "63126CCFC9F4111C", "target": "" },
-    { "gameKey": "HWDInfoBoardBackNumber#3", "hash": "3B23BB56CE9BA7AC", "target": "" }
+    { "gameKey": "HWDInfoBoardBackNumber#0", "hash": "D28E82E022F868A9", "target": "Primeira fase da restauração" },
+    { "gameKey": "HWDInfoBoardBackNumber#1", "hash": "A27A72E5A67543F2", "target": "Segunda fase da restauração" },
+    { "gameKey": "HWDInfoBoardBackNumber#2", "hash": "63126CCFC9F4111C", "target": "Terceira fase da restauração" },
+    { "gameKey": "HWDInfoBoardBackNumber#3", "hash": "3B23BB56CE9BA7AC", "target": "Quarta fase da restauração" }
   ]
 }

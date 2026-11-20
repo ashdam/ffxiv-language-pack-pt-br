@@ -2,9 +2,9 @@
   "sheet": "WKSPlanetSelect",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "WKSPlanetSelect#0", "hash": "7D5E83854C338CA9", "target": "" },
-    { "gameKey": "WKSPlanetSelect#1", "hash": "8310BF9DC359DC4A", "target": "" },
-    { "gameKey": "WKSPlanetSelect#2", "hash": "9E91B549D71FEC59", "target": "" },
-    { "gameKey": "WKSPlanetSelect#3", "hash": "1DDB7AF05E4203B9", "target": "" }
+    { "gameKey": "WKSPlanetSelect#0", "hash": "7D5E83854C338CA9", "target": "Cercado de crateras, este setor de ambiente estável foi escolhido para abrigar o hoje próspero Centro do Portal Lunar. Com a posterior construção de seu próprio cosmoporto, a base realmente se tornou um portal para as estrelas e além." },
+    { "gameKey": "WKSPlanetSelect#1", "hash": "8310BF9DC359DC4A", "target": "Representando o próximo grande salto da iniciativa pelo cosmos, este astro exibe uma paisagem cristalina impressionante, naturalmente rica em silício. Embora as condições da superfície não sejam muito favoráveis à vida orgânica, os depósitos minerais abundantes são uma recompensa à altura de qualquer dificuldade." },
+    { "gameKey": "WKSPlanetSelect#2", "hash": "9E91B549D71FEC59", "target": "Detectado pela primeira vez pelo Estelascópio, este planeta rico em minerais fica a cinco cenouras e meia do sistema de Etheirys. Oizys é assolado por anomalias gravitacionais que destroem lentamente sua superfície, onde rochas partidas flutuam sobre ruínas estranhas, aparentemente deixadas por uma civilização desaparecida há muito tempo." },
+    { "gameKey": "WKSPlanetSelect#3", "hash": "1DDB7AF05E4203B9", "target": "Descoberto por meio da carta de navegação do Euhedron, este astro coberto por densas florestas abriga os vestígios de incontáveis cidades tomadas pela vegetação. Embora as vias sinuosas e as torres ornamentadas de Auxesia agora estejam silenciosas, seus arquitetos eram evidentemente capazes de magníficas proezas tecnológicas." }
   ]
 }

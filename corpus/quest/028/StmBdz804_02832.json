@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_SEQ_00", "hash": "6E2A3DA5777FF94B", "target": "Esta lonesome lass precisa de <if(gnum4,uma aventureira corajosa,um aventureiro corajoso)>." },
-    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Examinar o local indicado e matar a stray gazelle para obter seu chifre" },
+    { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_00", "hash": "78D0F62C12AFEBBA", "target": "Examinar o local indicado e matar a gazela desgarrada para obter seu chifre" },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_TODO_01", "hash": "22FEF698719B45FA", "target": "Entregar o chifre de gazela à lonesome lass" },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_000", "hash": "B88146CA686353B2", "target": "Pelas roupas estranhas, imagino que você seja <if(gnum4,uma aventureira,um aventureiro)>. Se tiver um tempinho, sua ajuda viria muito a calhar." },
     { "gameKey": "quest/028/StmBdz804_02832#TEXT_STMBDZ804_02832_FLOWERVENDOR02832_000_001", "hash": "52D35A10E7D81272", "target": "Eu queria fazer um amuleto para uma amiga e preciso muito de um chifre de gazela. Não é fácil encontrar um aqui em Ala Ghiri, e eu nunca conseguiria caçar uma sozinha. Para <if(gnum4,uma aventureira,um aventureiro)> como você, aposto que seria moleza." },

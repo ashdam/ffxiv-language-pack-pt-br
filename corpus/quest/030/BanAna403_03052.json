@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_SEQ_00", "hash": "4993B7E74082F004", "target": "Eshana precisa de ajuda com dois grifos encrenqueiros.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_00", "hash": "A20DE39600ED192F", "target": "Usar /soothe no juvenile griffin maior" },
-    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_01", "hash": "1DE1C7773AC33193", "target": "Usar /rally no juvenile griffin menor" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_00", "hash": "A20DE39600ED192F", "target": "Usar /soothe no grifo jovem maior" },
+    { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_01", "hash": "1DE1C7773AC33193", "target": "Usar /rally no grifo jovem menor" },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_TODO_02", "hash": "445039A869EFB410", "target": "Falar com Eshana" },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_000", "hash": "163B7341853090ED", "target": "Temos um pedido dos tratadores de grifos. Giff me contou que dois irmãos jovens brigaram durante o treinamento e depois saíram voando num turbilhão de garras e penas. Sss..." },
     { "gameKey": "quest/030/BanAna403_03052#TEXT_BANANA403_03052_ESHANA_000_001", "hash": "004106BE4B548376", "target": "Essas aves são orgulhosas, se irritam facilmente e são difíceis de domar, mas você parece ter jeito com elas. Sss..." },

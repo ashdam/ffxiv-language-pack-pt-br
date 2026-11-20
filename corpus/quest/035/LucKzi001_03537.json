@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_SEQ_00", "hash": "7601A41AA601CB41", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Zumie-Shai olha ansiosamente para a porta." },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_00", "hash": "929E9CDDF677D735", "target": "Falar com a fearful fugitive" },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_01", "hash": "AC0EA3B246F5894A", "target": "Falar com a fearful fugitive" },
-    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_02", "hash": "65774010A6E3470F", "target": "Acalmar a fearful fugitive com /soothe" },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_00", "hash": "929E9CDDF677D735", "target": "Falar com a fugitiva amedrontada" },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_01", "hash": "AC0EA3B246F5894A", "target": "Falar com a fugitiva amedrontada" },
+    { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_02", "hash": "65774010A6E3470F", "target": "Acalmar a fugitiva amedrontada com /soothe" },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_TODO_03", "hash": "E4C989B57957B3D8", "target": "Reportar a Zumie-Shai" },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_000", "hash": "604EC3BDB825EF42", "target": "Você não viu por acaso uma moça sozinha em Top Rung? Era a vez dela de vigiar Ladder, mas já passou muito da hora de voltar." },
     { "gameKey": "quest/035/LucKzi001_03537#TEXT_LUCKZI001_03537_ZUMIESHAI_000_001", "hash": "8FD33D39F52E7C5C", "target": "Não? O que será que..." },

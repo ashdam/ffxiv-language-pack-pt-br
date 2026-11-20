@@ -9,13 +9,13 @@
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_TODO_00", "hash": "D332C3697E341F76", "target": "Falar com Zemoweni" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_TODO_01", "hash": "A67900421FF3F6C5", "target": "Falar com Pameka" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_001", "hash": "B7B12596DCF45DA0", "target": "Que bom receber alguém de tão longe com tanto talento artesanal. <split(<string(gstr1)>, ,1)>, não é?" },
-    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_002", "hash": "91B04CF7B4C30806", "target": "Você está diante da Epistles by Pameka, e eu sou a própria Pameka. Fico encantada com seu interesse pela loja, mas gostaria de confirmar uma coisa." },
+    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_002", "hash": "91B04CF7B4C30806", "target": "Você está diante das Epístolas de Pameka, e eu sou a própria Pameka. Fico encantada com seu interesse pela loja, mas gostaria de confirmar uma coisa." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_003", "hash": "B626F1CF9B0FD2D5", "target": "Me diga... Você sabe ler?" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_Q1_000_000", "hash": "45DE843D151FD784", "target": "O que você vai dizer?" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_A1_000_001", "hash": "6ED7AFC09435F7D2", "target": "Vivo pela literatura!" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_A1_000_002", "hash": "BE261AB2A243D6F8", "target": "Claro. Já escrever..." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_A1_000_003", "hash": "8265D30B7DB68806", "target": "A escrita turaliana? Acho difícil." },
-    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_005", "hash": "565A53E7C53E1170", "target": "Eu também! Outro dia, estava tão imersa na leitura que sem querer saí do píer e fiquei <italic(1)>literalmente<italic(0)> imersa nas águas de High Tide Harbor. Mas estou me desviando do assunto..." },
+    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_005", "hash": "565A53E7C53E1170", "target": "Eu também! Outro dia, estava tão imersa na leitura que sem querer saí do píer e fiquei <italic(1)>literalmente<italic(0)> imersa nas águas do Porto da Maré Alta. Mas estou me desviando do assunto..." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_006", "hash": "DDA97E9B9717640D", "target": "Entendo. Não se preocupe. Perguntei por interesse pessoal, isso não interfere no trabalho que tenho a oferecer." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_007", "hash": "444546617689AA97", "target": "Quer dizer que sabe ler a escrita eorzeana?" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_100_007", "hash": "3DD5A9B98F899C3D", "target": "Então não deve ter muita dificuldade aqui. O turaliano usa o alfabeto eorzeano, e você verá que nossas línguas têm muitas semelhanças." },
@@ -53,6 +53,6 @@
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_ZEMOWENI_000_120", "hash": "61D0C54215EBED7D", "target": "Assim que meu turno acabar, vou encontrar vocês na loja da Pameka. Até lá!" },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_200", "hash": "EF4E523762B8CD59", "target": "Vamos fazer nossas sessões de transcrição aqui. Preparei bastante pergaminho e tinta, então não precisa se preocupar com isso." },
     { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_PAMEKA_000_201", "hash": "D09293BC2FCDB14A", "target": "Mas ainda faltam alguns preparativos antes da chegada de Zemoweni, e talvez você tenha outros assuntos para resolver enquanto isso. Volte quando puder começar." },
-    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_SYSTEM_000_203", "hash": "B96FA6AB07676BBE", "target": "Agora você pode fazer entregas para a Epistles by Pameka. Fale com Pameka para saber mais." }
+    { "gameKey": "quest/049/KinGla201_04975#TEXT_KINGLA201_04975_SYSTEM_000_203", "hash": "B96FA6AB07676BBE", "target": "Agora você pode fazer entregas para as Epístolas de Pameka. Fale com Pameka para saber mais." }
   ]
 }

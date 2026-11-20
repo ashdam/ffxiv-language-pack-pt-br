@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_SEQ_00", "hash": "8470CA806513061F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O Queen Bee precisa da ajuda de alguém disposto a se aventurar em partes menos respeitáveis da cidade, palavra que aqui significa “ricas”." },
-    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_00", "hash": "B2DBCB20E85B9236", "target": "Falar com Solina em Derelicts" },
+    { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_00", "hash": "B2DBCB20E85B9236", "target": "Falar com Solina nos Destroços" },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_01", "hash": "B8216A19D81B3BF8", "target": "Falar com o Queen Bee na Colmeia" },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_TODO_02", "hash": "01A9BF11681C269B", "target": "Falar com o Queen Bee" },
     { "gameKey": "quest/035/LucKzh006_03516#TEXT_LUCKZH006_03516_MANAGER03516_000_000", "hash": "920FE3C018909C1B", "target": "Perdoe a observação, <if(gnum4,senhora,senhor)>, mas você tem um ar um tanto diferente da nossa clientela habitual. Seria uma pessoa ousada e destemida, talvez?" },

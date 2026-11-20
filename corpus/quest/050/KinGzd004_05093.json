@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_SEQ_00", "hash": "B400487B8CC7B5B2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Xax Ogaw precisa de alguém para corrigir o erro de um aprendiz esquecido." },
-    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_00", "hash": "685DFA5D369E0A09", "target": "Procurar o absent-minded engineer" },
-    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_01", "hash": "4A4B4A24C6996FDA", "target": "Entregar os materiais de reparo das torres de vigia ao absent-minded engineer" },
+    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_00", "hash": "685DFA5D369E0A09", "target": "Procurar o engenheiro distraído" },
+    { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_01", "hash": "4A4B4A24C6996FDA", "target": "Entregar os materiais de reparo das torres de vigia ao engenheiro distraído" },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_TODO_02", "hash": "455BC1617239392C", "target": "Informar Xax Ogaw" },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_XAXOGAW_000_000", "hash": "EB28B3A1A57E85FF", "target": "Você aí, quer fazer uma boa ação? Preciso fazer uma entrega a um dos meus aprendizes, e ninguém da equipe está livre para cuidar disso." },
     { "gameKey": "quest/050/KinGzd004_05093#TEXT_KINGZD004_05093_XAXOGAW_000_001", "hash": "DE532C56D5299507", "target": "Nós cuidamos dos dirigíveis daqui, mas minha equipe também garante que as torres de vigia fiquem em bom estado. Desde a grande tempestade, tivemos que redobrar o cuidado para mantê-las de pé." },

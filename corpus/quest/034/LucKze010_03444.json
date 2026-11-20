@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_SEQ_00", "hash": "755BD1EF6970DF4A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Varthon está com pressa, mas não a ponto de recusar ajuda." },
-    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_00", "hash": "93A89F941B7FB0C1", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digitar “tuktu” para mostrar a Karnes que você não é uma ameaça" },
+    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_00", "hash": "93A89F941B7FB0C1", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, digitar “tuktu” para mostrar a Karnes que você não é uma ameaça" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_01", "hash": "5978873B61811F9D", "target": "Procurar o soro de Slitherbough no local indicado" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_02", "hash": "B9E0FE5E8D099B27", "target": "Entregar o soro de Slitherbough a Karnes" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_VARTHON_000_001", "hash": "EA3A9F5B1FE411D3", "target": "Você! É a visita de quem a Mestra Matoya nos falou. Por favor, você precisa me ajudar!" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_VARTHON_000_004", "hash": "685B8769537774C9", "target": "Agora está infestado de todo tipo de fera, e a Mestra Matoya proibiu expressamente qualquer um de pôr os pés lá." },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_VARTHON_000_005", "hash": "AA3CE82BD5376EB2", "target": "Não sei o que deu nele ultimamente, mas precisamos encontrá-lo antes que se machuque. Se você o encontrar primeiro, diga nossa senha: tuktu. Ele se assusta fácil, então diga logo, para ele saber que você não quer fazer mal." },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_KARNES_000_010", "hash": "53491239D735BF3C", "target": "F-Fique longe! Eu imploro!" },
-    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_SYSTEM_100_010", "hash": "6391574BAA332DB2", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, use o teclado físico ou virtual para digitar “tuktu” e tranquilizar Karnes." },
+    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_SYSTEM_100_010", "hash": "6391574BAA332DB2", "target": "Com o modo de conversa em <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, use o teclado físico ou virtual para digitar “tuktu” e tranquilizar Karnes." },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_SYSTEM_100_011", "hash": "A59106863920A934", "target": "tuktu" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_KARNES_000_011", "hash": "EC628B60741A75BD", "target": "Você... É de Slitherbough? Então Varthon deve ter mandado você." },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_KARNES_000_012", "hash": "4584390546364B82", "target": "Eu estava bem até aparecer aquele maldito besouro. É só um arranhão, mas estou começando a ficar dormente e minha visão está embaçada." },

@@ -2,10 +2,10 @@
   "conversation": "quest/041/AktKza001_04180",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_SEQ_00", "hash": "8D0769BFBBC80682", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A waiting woman suspira de impaciência." },
+    { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_SEQ_00", "hash": "8D0769BFBBC80682", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A mulher à espera suspira de impaciência." },
     { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_TODO_00", "hash": "19CCF9B67F990CE5", "target": "Procurar o brown-haired councilor perto do Mirante de Nyunkrepf" },
     { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_TODO_01", "hash": "CD51905D3F321C12", "target": "Chamar a atenção do brown-haired councilor com /poke" },
-    { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_TODO_02", "hash": "EF44963B61483E88", "target": "Falar com a waiting woman" },
+    { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_TODO_02", "hash": "EF44963B61483E88", "target": "Falar com a mulher à espera" },
     { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_WAITINGWOMEN_000_001", "hash": "9D9258944C0E8744", "target": "\\<suspiro> Quanto tempo mais vou ter que esperar...?" },
     { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_WAITINGWOMEN_000_002", "hash": "D6CD2BAB14057EF4", "target": "Ah, desculpe, eu estava só...pensando alto. Combinei de encontrar meu amado, sabe, mas a hora do nosso encontro já passou faz tempo." },
     { "gameKey": "quest/041/AktKza001_04180#TEXT_AKTKZA001_04180_WAITINGWOMEN_000_003", "hash": "342DF0E5D99E8BD5", "target": "Como membro do Fórum, ele vive ocupado com o trabalho, ainda mais que o normal nestes últimos dias. Mesmo assim, prometeu reservar um tempo para mim... Para nós." },

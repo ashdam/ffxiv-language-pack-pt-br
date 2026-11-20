@@ -2,10 +2,10 @@
   "conversation": "quest/034/LucKzf009_03468",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_SEQ_00", "hash": "B5956F07EC3D5C27", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A flustered sentinel olha para você com expectativa." },
+    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_SEQ_00", "hash": "B5956F07EC3D5C27", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A sentinela atrapalhada olha para você com expectativa." },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_00", "hash": "EC534F6F67AAC170", "target": "Falar com Olmet" },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_01", "hash": "F992F922B0A88DE8", "target": "Falar com Ciuille" },
-    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_02", "hash": "DF4C61ACB04A350B", "target": "Entregar a manta de pele e a água purificada à flustered sentinel" },
+    { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_TODO_02", "hash": "DF4C61ACB04A350B", "target": "Entregar a manta de pele e a água purificada à sentinela atrapalhada" },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_000", "hash": "CD01CE996F32D337", "target": "Normalmente, não pensaria em fazer um pedido aos aliados de Ronka, mas isto é uma emergência." },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_001", "hash": "0B846B92D620322E", "target": "Uma das nossas irmãs está em trabalho de parto. Poderia nos ajudar a preparar tudo para o nascimento?" },
     { "gameKey": "quest/034/LucKzf009_03468#TEXT_LUCKZF009_03468_KINDVIIS03468_000_002", "hash": "F4C7BBB949935270", "target": "Pedi a Olmet que preparasse uma manta para a criança, e a Ciuille, água fresca." },

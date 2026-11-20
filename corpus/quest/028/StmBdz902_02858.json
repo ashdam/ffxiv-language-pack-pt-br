@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_SEQ_00", "hash": "92FB2AE10BB0BEE2", "target": "Papin quer surpreender a família com uma coisa boa." },
-    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Abater true griffins para obter sua carne" },
+    { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_00", "hash": "36245E23EB9FB3E7", "target": "Abater grifos verdadeiros para obter sua carne" },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_TODO_01", "hash": "BFEF7B85BCA5835A", "target": "Entregar a carne de grifo a Papin" },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_000", "hash": "E65BA6D0D964A95B", "target": "Com licença, <if(gnum4,moça,moço)>? Ouvi dizer que vocês, aventureiros, são muito corajosos e fortes. Você acha que pode me ajudar? Quero dar uma coisa bem especial para a mamãe, mas não consigo sozinho." },
     { "gameKey": "quest/028/StmBdz902_02858#TEXT_STMBDZ902_02858_PAPIN_000_001", "hash": "95469047910B3E9B", "target": "Ao norte da vila tem uns bichos enormes que parecem pássaros, chamados grifos, e dizem que a carne deles é uma das melhores daqui." },

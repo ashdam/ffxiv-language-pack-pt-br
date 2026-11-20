@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_SEQ_00", "hash": "57C59F76E64ACDE2", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Algo parece estar preocupando An Sul." },
-    { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_00", "hash": "A4D7E08405E28A27", "target": "Falar com o talkative amaro" },
+    { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_00", "hash": "A4D7E08405E28A27", "target": "Falar com o amaro falante" },
     { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_01", "hash": "B7D171724BB85E03", "target": "Falar com Daen Kenn e obter um cobertor Nu Mou" },
-    { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_02", "hash": "9C56F4743AC81FD5", "target": "Entregar o cobertor Nu Mou ao talkative amaro" },
+    { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_02", "hash": "9C56F4743AC81FD5", "target": "Entregar o cobertor Nu Mou ao amaro falante" },
     { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_TODO_03", "hash": "F510A403434E041A", "target": "Relatar a An Sul" },
     { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_ANSUL_000_000", "hash": "0D6682DA8A3035A2", "target": "Viajante, por favor, ouça minha história. Algo está acontecendo que me preocupa." },
     { "gameKey": "quest/034/LucKzd016_03423#TEXT_LUCKZD016_03423_ANSUL_000_001", "hash": "E0A2EB2A6363A537", "target": "Ultimamente, um amigo meu tem se encontrado com pixies em segredo, e temo que esteja sendo vítima de suas travessuras." },

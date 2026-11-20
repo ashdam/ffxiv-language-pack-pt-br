@@ -2,9 +2,9 @@
   "conversation": "quest/028/StmBdz813_02841",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_SEQ_00", "hash": "6EEE65ACC8E7B09C", "target": "Esta well-meaning mother tentou dar conta de coisas demais." },
+    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_SEQ_00", "hash": "6EEE65ACC8E7B09C", "target": "Esta mãe bem-intencionada tentou dar conta de coisas demais." },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_00", "hash": "2A2AC5761465B37A", "target": "Usar /doubt para questionar o que as crianças andam fazendo" },
-    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_01", "hash": "57D8BFA8B76A5443", "target": "Falar com a well-meaning mother" },
+    { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_TODO_01", "hash": "57D8BFA8B76A5443", "target": "Falar com a mãe bem-intencionada" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_000", "hash": "5EA254DB6AFC1EB8", "target": "Não é possível, para onde aqueles meninos foram desta vez?" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_001", "hash": "9C75FFC90E3714F4", "target": "Com licença, <if(gnum4,senhora,senhor)>. Procurei por toda parte e não consigo encontrar meus meninos. Pode me ajudar a procurá-los?" },
     { "gameKey": "quest/028/StmBdz813_02841#TEXT_STMBDZ813_02841_WORRYMOTHER02841_000_002", "hash": "87B4CBDF94AAC232", "target": "O trabalho me ocupa tanto que não tenho conseguido passar tempo nenhum com eles. Mesmo quando tenho alguns instantes livres, eles sempre saíram para fazer sabe-se lá o quê." },

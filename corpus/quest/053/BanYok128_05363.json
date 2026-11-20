@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_SEQ_00", "hash": "87CEF0F6ED39F430", "target": "A preocupação está estampada no rosto de Vuyargur.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar com a classe ou job com que você aceitou esta missão." },
-    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_00", "hash": "DE0A9BFD1EFCE14F", "target": "Falar com a Yok Huy Supply Runner na Estalagem de Icuvlo" },
+    { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_00", "hash": "DE0A9BFD1EFCE14F", "target": "Falar com a entregadora de suprimentos Yok Huy na Estalagem de Icuvlo" },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_TODO_01", "hash": "8BEF914FD5D27821", "target": "Falar com Vuyargur" },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_UYARGUR_000_001", "hash": "CE200BDEC781DE68", "target": "<split(<string(gstr1)>, ,1)>, preciso pedir um favor. Mandei uma pessoa à Estalagem de Icuvlo para reabastecer nossa despensa, mas ela está demorando para voltar." },
     { "gameKey": "quest/053/BanYok128_05363#TEXT_BANYOK128_05363_UYARGUR_000_002", "hash": "1F89BA8A8041AD5C", "target": "Temo que ela tenha encontrado algum problema na estrada. Agradeceria se você pudesse procurá-la." },

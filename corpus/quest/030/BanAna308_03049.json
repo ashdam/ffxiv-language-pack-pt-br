@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_SEQ_00", "hash": "BB3CFAE471D988B3", "target": "Eshana está com vontade de comer algo especial.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "Examinar o local indicado e abater gallivanting gazelles para obter sua carne" },
+    { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_00", "hash": "3A0745F81ACFE3C7", "target": "Examinar o local indicado e abater gazelas andarilhas para obter sua carne" },
     { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_TODO_01", "hash": "BB0FFA3AF88DC50A", "target": "Entregar a carne de gazela a Eshana" },
     { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_000", "hash": "084D8B1B4F435F6B", "target": "Ah, que boa hora para aparecer. Precisamos de alguém com sua habilidade na caça para reabastecer nossos estoques de comida. Sss..." },
     { "gameKey": "quest/030/BanAna308_03049#TEXT_BANANA308_03049_ESHANA_000_001", "hash": "B779EDDA5F0527E7", "target": "Não corremos o risco de ficar sem comida, veja bem, mas nossas reservas de carne de gazela estão baixas demais para o meu gosto. Sss..." },

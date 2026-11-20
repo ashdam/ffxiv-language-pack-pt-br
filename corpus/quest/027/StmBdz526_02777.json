@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_SEQ_00", "hash": "847BD55BFDB5802D", "target": "O guerreiro Buduga aperta os olhos ao olhar para você." },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_00", "hash": "0C8C124DED6E9207", "target": "Falar com o Budugan warrior" },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_01", "hash": "FA2ED2F38907EA15", "target": "Falar com o Budugan warrior" },
-    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_02", "hash": "DE6EBAA7A9748671", "target": "Falar com o Budugan warrior" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_00", "hash": "0C8C124DED6E9207", "target": "Falar com o guerreiro Buduga" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_01", "hash": "FA2ED2F38907EA15", "target": "Falar com o guerreiro Buduga" },
+    { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_TODO_02", "hash": "DE6EBAA7A9748671", "target": "Falar com o guerreiro Buduga" },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_000", "hash": "4DB3872627726646", "target": "...Espere um pouco. Eu conheço você. Hoje em dia, ninguém fala de outra coisa além das suas façanhas. Se não tiver muito o que fazer, pode me acompanhar até lá embaixo? Quero mostrar uma coisa a você." },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_001", "hash": "B977E5DA4885A5C1", "target": "Hahaha! Não precisa desconfiar tanto. Garanto que não é nada muito sinistro." },
     { "gameKey": "quest/027/StmBdz526_02777#TEXT_STMBDZ526_02777_YOUNGFIGHTER02777_000_002", "hash": "B8961558306878FF", "target": "Mesmo que fosse, você tem experiência em combate, não tem? Agora vamos, antes que o dia acabe." },

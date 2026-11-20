@@ -15,7 +15,7 @@
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_01", "hash": "0F78C291BDD97C27", "target": "Falar com Zansei" },
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_02", "hash": "A5DC24C274F89EED", "target": "Falar com Stackblox" },
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_03", "hash": "0DF1A6528ABB1A3E", "target": "Falar com Stickqix" },
-    { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_04", "hash": "066C5BD43F3D6AD4", "target": "Falar com o goblin merchant" },
+    { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_04", "hash": "066C5BD43F3D6AD4", "target": "Falar com o mercador Goblin" },
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_05", "hash": "25536DA0BD06D0D2", "target": "<if([lnum1<lnum2],Extrair feather iron ore em Hells' Lid,Entregar os chunks of feather iron ore a Stickqix)>" },
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_06", "hash": "C45BFE9874B880CB", "target": "Falar com Stickqix" },
     { "gameKey": "quest/025/ClsMin650_02556#TEXT_CLSMIN650_02556_TODO_07", "hash": "BC54EBC5D50DC332", "target": "Falar com Nonowato" },

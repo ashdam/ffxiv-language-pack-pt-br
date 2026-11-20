@@ -2,9 +2,9 @@
   "conversation": "quest/028/StmBdz806_02834",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_SEQ_00", "hash": "F4CE17802F0171EA", "target": "Esta Resistance fighter está ficando impaciente." },
-    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_00", "hash": "A239BEDBDB9EFE0C", "target": "Encontrar a Resistance fighter" },
-    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_01", "hash": "BDDBD2BD9CC2B7E7", "target": "Falar com a Resistance fighter" },
+    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_SEQ_00", "hash": "F4CE17802F0171EA", "target": "Esta combatente da Resistência está ficando impaciente." },
+    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_00", "hash": "A239BEDBDB9EFE0C", "target": "Encontrar a combatente da Resistência" },
+    { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_01", "hash": "BDDBD2BD9CC2B7E7", "target": "Falar com a combatente da Resistência" },
     { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_02", "hash": "46732C67FE76E768", "target": "Pegar a caixa de suprimentos" },
     { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_TODO_03", "hash": "FB2C3FB929307895", "target": "Entregar a caixa de suprimentos a Guntmar" },
     { "gameKey": "quest/028/StmBdz806_02834#TEXT_STMBDZ806_02834_LADYSOLDIER02834_000_000", "hash": "FD848AA17C4686F9", "target": "Ah, <if(gnum4,aventureira,aventureiro)>. Preciso muito de sua ajuda. Um dos nossos homens saiu para entregar provisões num acampamento ao norte e ainda não voltou." },

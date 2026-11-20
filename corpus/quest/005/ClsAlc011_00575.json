@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_00", "hash": "CE75FA73469C7E8E", "target": "Deitrich quer confirmar que você deseja entrar na Guilda dos Alquimistas." },
-    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_01", "hash": "A8F478D801B1FCBB", "target": "Na última etapa da sua inscrição, você deve obter a aprovação do mestre da guilda. Procure Severian, que trabalha arduamente em sua bancada na Alchemists' Guild." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_01", "hash": "A8F478D801B1FCBB", "target": "Na última etapa da sua inscrição, você deve obter a aprovação do mestre da guilda. Procure Severian, que trabalha arduamente em sua bancada na Guilda dos Alquimistas." },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_02", "hash": "719DE30F60B30339", "target": "Severian aprovou sua entrada na Guilda dos Alquimistas. Equipe o weathered alembic e fale novamente com o mestre da guilda." },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_TODO_00", "hash": "E6498298A9146908", "target": "Falar com o mestre da guilda Severian" },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_DEITRICH_000", "hash": "FF9097F73430F114", "target": "Já tomou uma decisão? Está <if(gnum4,pronta,pronto)> para se deleitar nas artes da alquimia e assumir as responsabilidades que sua entrada na guilda exige?" },

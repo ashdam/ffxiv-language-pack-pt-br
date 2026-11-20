@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SEQ_00", "hash": "A64386A9639850C8", "target": "Dmitar tem boas notícias do campo de batalha para compartilhar." },
-    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Falar com Dmitar em Southern Plateau" },
+    { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_TODO_00", "hash": "E6946626BF908563", "target": "Falar com Dmitar no Planalto Sul" },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_SYSTEM_100_000", "hash": "857E8A3364BAA8FD", "target": "É necessário atingir Resistance Rank <num(lnum1)> para prosseguir nesta missão." },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_000", "hash": "AF29671C1D762968", "target": "Lâmina <split(<string(gstr1)>, ,2)>! Que bom ver você. Como sempre, as notícias das suas contribuições à Resistência chegam antes de você. Acabamos de saber que a barreira sobre nosso novo posto avançado está pronta." },
     { "gameKey": "quest/040/LucKsa311_04092#TEXT_LUCKSA311_04092_DMITAR_000_002", "hash": "A62C98044C268C69", "target": "Enfim, nossa linha de frente pode avançar. Um feito impossível sem sua ajuda e a das Forjas." },

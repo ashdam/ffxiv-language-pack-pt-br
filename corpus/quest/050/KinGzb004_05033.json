@@ -2,9 +2,9 @@
   "conversation": "quest/050/KinGzb004_05033",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O troubled craftsman precisa de uma mãozinha." },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O artesão aflito precisa de uma mãozinha." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Procurar a bolsa perdida no Retiro de Panaqpelu" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Entregar a bolsa perdida ao troubled craftsman" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Entregar a bolsa perdida ao artesão aflito" },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_000", "hash": "FD60C9D5E60CAE94", "target": "Com licença, <if(gnum4,senhorita,senhor)>, você tem um momento? Por favor, preciso de ajuda! Sou artesão e vim discutir um novo projeto com um cliente, mas parece que perdi meu amuleto da sorte pelo caminho, minha querida boneca." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_001", "hash": "B3FD6454D13D9E75", "target": "Estou com medo de como a reunião pode acabar sem ela... A última vez que a vi foi no Retiro de Panaqpelu. Talvez tenha caído quando juntei minhas coisas." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_002", "hash": "46CA3F438DF0AF6F", "target": "Vou me encontrar com meu cliente daqui a pouco, e não posso me atrasar. Sei que o pedido veio de repente, mas você poderia encontrar minha boneca? Vou adiar a reunião pelo tempo que puder." },

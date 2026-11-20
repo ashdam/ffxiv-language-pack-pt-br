@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000010_MAXIMA", "hash": "E0F61275A16AAA7E", "target": "Eles chegaram, comandante." },
-    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000020_RAUBAHN", "hash": "B13B68EC00201D78", "target": "E fico muito grato por isso. Soube que você não teve sossego desde nosso encontro no Ghimlyt Dark." },
+    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000020_RAUBAHN", "hash": "B13B68EC00201D78", "target": "E fico muito grato por isso. Soube que você não teve sossego desde nosso encontro nas Trevas de Ghimlyt." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000030_RAUBAHN", "hash": "4DDAE23F963BE1F9", "target": "Não que eu entenda metade disso. Quando os Herdeiros falaram de outros mundos, nem sei descrever o que imaginei." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000040_RAUBAHN", "hash": "85B0155B823E09BE", "target": "Talvez tudo ficasse mais claro se eu ouvisse a história de sua própria boca, mas receio que a situação não nos permita esse luxo." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000050_RAUBAHN", "hash": "B71CCDC15F64B8C0", "target": "Imagino que vocês dois dispensem apresentações." },
@@ -27,7 +27,7 @@
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000220_SHADOWHUNTER", "hash": "019789C5AFCAAF91", "target": "Sabemos, porém, que vários protótipos foram produzidos... e que um deles está a caminho de Eorzea." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000230_SHADOWHUNTER", "hash": "367F81C2712F1C17", "target": "Tentamos detê-lo, mas mal conseguimos retardar seu avanço. Então decidimos trazer o aviso a vocês." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000240_MAXIMA", "hash": "EC6D15DD98EC2DBC", "target": "E ainda bem que fizeram isso, embora tenham frustrado nossas esperanças de que as tensões enfim diminuíssem..." },
-    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000250_RAUBAHN", "hash": "6487CB75E936BE05", "target": "Já começamos a reforçar nossa presença no Ghimlyt Dark e estamos reunindo uma força para enfrentar a ameaça. Espero poder contar com você na vanguarda." },
+    { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000250_RAUBAHN", "hash": "6487CB75E936BE05", "target": "Já começamos a reforçar nossa presença nas Trevas de Ghimlyt e estamos reunindo uma força para enfrentar a ameaça. Espero poder contar com você na vanguarda." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000260_RAUBAHN", "hash": "E26D3FACF991CFB2", "target": "Antes que diga qualquer coisa, sei muito bem que você tem suas próprias urgências. Seus companheiros continuam em perigo, e não lhe pediria que os abandonasse." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000270_RAUBAHN", "hash": "BFEF797A1C56887A", "target": "Mas o fato é que só você enfrentou a Arma Ultima e venceu. Precisamos de você." },
     { "gameKey": "cut_scene/052/VoiceMan_05200#TEXT_VOICEMAN_05200_000280_RAUBAHN", "hash": "167702FFD624ABFF", "target": "Por isso, quando chegar a hora, <italic(1)>se<italic(0)> seus companheiros puderem dispensar você, peço que nos empreste sua força. Designei um oficial para aguardar sua resposta." },

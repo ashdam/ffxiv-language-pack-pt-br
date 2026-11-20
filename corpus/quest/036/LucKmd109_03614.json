@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_SEQ_00", "hash": "08BD80C559F2DCAF", "target": "Contrariando o próprio bom senso, Jeryk pensa em dar uma ajudinha a você." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_TODO_00", "hash": "B85585B3B4603DBB", "target": "Examinar o Talos defeituoso" },
-    { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_TODO_01", "hash": "991035127A45E93E", "target": "Abater debitage para obter seus fragmentos" },
+    { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_TODO_01", "hash": "991035127A45E93E", "target": "Abater debitages para obter seus fragmentos" },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_TODO_02", "hash": "E067606230D8DA8E", "target": "Entregar os fragmentos de debitage a Urianger" },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_MAGNUS_000_000", "hash": "CE76B2EB76F13C0F", "target": "Cai fora." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_THAFFE_000_005", "hash": "E3667244096249FE", "target": "Estaria mentindo se dissesse que não esperava por isso. Mas, se isso servir de alguma coisa, sinto muito." },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_URIANGER_000_042", "hash": "1297AA20D586DA65", "target": "Avistei apenas três obstruções ao fluxo de éter no Talos, portanto vos peço que tragais três pedras de debitage. Todo o resto estará pronto quando retornardes." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_URIANGER_000_050", "hash": "B68D787AA1F98C8B", "target": "Não vos preocupeis, <split(<string(gstr1)>, ,1)>. Os preparativos aqui logo estarão concluídos." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_JERYK_000_055", "hash": "825C3A6FB3340F98", "target": "Quem dera tivéssemos um mago como ele por aqui antes. Como você pode imaginar, tivemos dificuldade para convencer as pessoas a vir ajudar. Ou recusam de cara ou exigem um pagamento muito além do que poderíamos pagar." },
-    { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_JERYK_000_056", "hash": "1892697190DB7C9A", "target": "É por isso que avançamos tão pouco nos reparos do Talos. Estudamos cada pedaço de papel deixado pela Daedalus Stoneworks, esperando aprender como se faz, mas simplesmente não é suficiente." },
+    { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_JERYK_000_056", "hash": "1892697190DB7C9A", "target": "É por isso que avançamos tão pouco nos reparos do Talos. Estudamos cada pedaço de papel deixado pela Oficina de Pedra Daedalus, esperando aprender como se faz, mas simplesmente não é suficiente." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_URIANGER_000_060", "hash": "E3A5A94B043A2829", "target": "Thancred e Minfilia logo retornarão com os demais suprimentos de que precisamos." },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_URIANGER_000_061", "hash": "DDBBC20BA914D92C", "target": "Conseguistes obter pedra dos debitage?" },
     { "gameKey": "quest/036/LucKmd109_03614#TEXT_LUCKMD109_03614_URIANGER_000_062", "hash": "FEB565CA11D96394", "target": "Belos exemplares, todos eles. Tendes meus agradecimentos. Agora só precisamos esperar pelo retorno de Thancred e Minfilia." },

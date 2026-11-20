@@ -16,7 +16,7 @@
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_006", "hash": "2F2B2408056EAAAF", "target": "Com a mistura certa de ração, é possível. Mas gostaria de uma mão a mais para ajudar a espalhá-la." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_007", "hash": "0B8465FE1301E0C6", "target": "Pode acompanhá-lo, <split(<string(gstr1)>, ,1)>?" },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_008", "hash": "D6EB21991E6C3EB8", "target": "Enquanto isso, o resto de nós deve consertar os arreios. Parece que foram danificados quando soltaram o punutiy..." },
-    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ALPHINAUD_000_009", "hash": "7DA020FC7C937CF3", "target": "Com tantos vendedores no acampamento, não deve ser difícil comprar materiais de reposição. Quanto a qualquer serviço de metalurgia, os artesãos de Earthenshire estão a uma curta caminhada." },
+    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ALPHINAUD_000_009", "hash": "7DA020FC7C937CF3", "target": "Com tantos vendedores no acampamento, não deve ser difícil comprar materiais de reposição. Quanto a qualquer serviço de metalurgia, os artesãos da Vila de Barro estão a uma curta caminhada." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_010", "hash": "61AE12B74137E85F", "target": "Então vamos dividir as tarefas e começar." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_011", "hash": "9F469A8983797945", "target": "Havia um bando de punutiys selvagens especialmente agressivo rio abaixo, então nossa garota deve ter fugido na direção oposta. Vamos tentar rio acima." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_ERENVILLE_000_020", "hash": "6EAD68767D0BF812", "target": "Se nossa punutiy veio por aqui, está escondida nas águas profundas de Marsh Ligaka. Precisamos atraí-la de volta às águas rasas com a promessa de comida." },
@@ -35,7 +35,7 @@
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_PUNUTEE04885_000_051", "hash": "0E65F91A22B691DF", "target": "Miau..." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_SYSTEM_000_052", "hash": "0A6FBAB4804ABC0A", "target": "O cheiro de Erenville parece acalmar a punutiy." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_053", "hash": "A1997213A2C16C50", "target": "Erenville já está com a punutiy, então? Ótimo. Não esperava menos de um coletor certificado." },
-    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_054", "hash": "5A0FCEF0D16F19D6", "target": "Quanto aos arreios, conseguimos comprar todas as peças necessárias. Os gêmeos Leveilleur estão em Earthenshire agora, pedindo aos jurapotes que façam os reparos." },
+    { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_054", "hash": "5A0FCEF0D16F19D6", "target": "Quanto aos arreios, conseguimos comprar todas as peças necessárias. Os gêmeos Leveilleur estão na Vila de Barro agora, pedindo aos jurapotes que façam os reparos." },
     { "gameKey": "quest/048/KinGmb108_04887#TEXT_KINGMB108_04887_KOANA_000_055", "hash": "6FAA52BFD61E3CF7", "target": "Disseram que não deve demorar. Estaremos prontos para partir na missão de resgate assim que Thancred entrar em contato." }
   ]
 }

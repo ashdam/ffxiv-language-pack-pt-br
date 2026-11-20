@@ -9,8 +9,8 @@
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SEQ_04", "hash": "B7A7BBF9D1571C0C", "target": "Infelizmente, a doença que transformou Surito Carito o tornou incapaz de invocar Lily. Ele não sabe por qual providência você obteve sua Soul of the Scholar, mas fica feliz em ver sua querida companheira em boas mãos. Declarando que agora só você tem condições de usar essas magias, ele lhe lega uma scholar's gown e o conhecimento da magia Sacred Soil. Então se despede e parte em uma jornada para livrar seus compatriotas do rancor. Mantenha as tradições de seus colegas nymianos e compartilhe seus dons de erudição com o povo de Eorzea!<br><br>※A próxima missão de Scholar estará disponível com Alka Zolka após concluir a missão do cenário principal “Antes do amanhecer”." },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_00", "hash": "3DC08C412198151B", "target": "Falar com Alka Zolka em Upper La Noscea" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_01", "hash": "7B92DC39065CD09D", "target": "Falar com Alka Zolka" },
-    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_02", "hash": "04CD61765639A2F1", "target": "Falar com hardened marauder" },
-    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_03", "hash": "F3D6B71BB5B54F7D", "target": "Falar com soft marauder" },
+    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_02", "hash": "04CD61765639A2F1", "target": "Falar com o saqueador calejado" },
+    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_03", "hash": "F3D6B71BB5B54F7D", "target": "Falar com a saqueadora gentil" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_TODO_04", "hash": "A1DC03DC5E8B92C7", "target": "Falar com Surito Carito" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_ALKAZOLKA_000_000", "hash": "F951F59C63B2B485", "target": "<split(<string(gstr1)>, ,1)>, você precisa vir comigo agora! Outro tonberry saiu de Wanderer's Palace!" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_ALKAZOLKA_000_001", "hash": "DE9A0D6DE81D116C", "target": "Um mascate avistou a criatura e fugiu para o Acampamento Lago de Bronze. Mais uma vez, cabe à Guilda dos Saqueadores encontrá-la e matá-la." },
@@ -56,8 +56,8 @@
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SYSTEM_100_000", "hash": "5930CC55DB2699FB", "target": "Aqui terminam as missões de Scholar de FINAL FANTASY XIV: A Realm Reborn. Para iniciar a próxima série de missões, você precisa atender aos seguintes requisitos:" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SYSTEM_100_001", "hash": "3C48367AC067619E", "target": "※Você precisa ter concluído a missão do cenário principal “Antes do amanhecer”." },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SYSTEM_100_002", "hash": "1EC47026E8884510", "target": "Após cumprir esse requisito, a próxima missão de Scholar estará disponível com Alka Zolka." },
-    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_1", "hash": "17B67514326371A6", "target": "Derrote tonberry wanderer" },
-    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_2", "hash": "195AA8BFCB22FEBE", "target": "Cure tonberry wanderer" },
+    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_1", "hash": "17B67514326371A6", "target": "Derrote tonberry andarilho" },
+    { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_2", "hash": "195AA8BFCB22FEBE", "target": "Cure tonberry andarilho" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_ALKAZOLKA_BATTLETALK_01", "hash": "28FA08EEB88DE3BC", "target": "Não se demore, <split(<string(gstr1)>, ,1)>! Precisamos de suas magias!" },
     { "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_ALKAZOLKA_BATTLETALK_08", "hash": "93E52C3FC64CBE44", "target": "Você enlouqueceu!? Aquilo é um monstro! Precisa ser morto!" }
   ]

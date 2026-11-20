@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_SEQ_00", "hash": "7A75A89940A19033", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Marvene pensa demoradamente na melhor forma de conseguir o que precisa." },
-    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Obter cristais de gelo de center somas" },
+    { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_00", "hash": "3392CBB4A4763193", "target": "Obter cristais de gelo de somas centrais" },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_TODO_01", "hash": "88DE2825F217DE22", "target": "Entregar os cristais de gelo de soma a Marvene" },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_000", "hash": "843C5524F3AF5F8A", "target": "Ora, olá. Hum, deixe eu adivinhar... você é <if(gnum4,aventureira,aventureiro)>? <if(gnum4,Uma mercenária,Um mercenário)> que aceita enfrentar qualquer fera, desde que a recompensa esteja à altura?" },
     { "gameKey": "quest/043/AktKzi019_04334#TEXT_AKTKZI019_04334_MARVENE_000_001", "hash": "5184213AC3C83C8F", "target": "Pois bem, tenho um serviço para você e uma recompensa à altura." },

@@ -23,7 +23,7 @@
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_1", "hash": "9BCF4E8D9D2CB3E3", "target": "Boas, <if(gnum4,moça,moço)>." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_2", "hash": "CC5B43137D27C2FF", "target": "Vai querer o quê? ...Ah, mas não veio pela bebida, não é!? Veio tentar a sorte como <if(gnum4,aventureira,aventureiro)>, aposto! Bom, trabalho não falta aqui em Limsa." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_3", "hash": "B275FF79610ABFFD", "target": "Então, como é que chamam vo... Não, não diga. Tá na ponta da língua... Tá... tá... <italic(1)>sumiu<italic(0)>, maldição. Porra." },
-    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_4", "hash": "2D9F0C22135B0BD7", "target": "Dizem que esse esquecimento é uma sequela da Calamidade. <italic(1)>Eu<italic(0)> digo que é uma dor na bunda do tamanho do Leviathan. Ah, mas cadê meus modos?" },
+    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_4", "hash": "2D9F0C22135B0BD7", "target": "Dizem que esse esquecimento é uma sequela da Calamidade. <italic(1)>Eu<italic(0)> digo que é uma dor na bunda do tamanho do Leviatã. Ah, mas cadê meus modos?" },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_5", "hash": "F26D3D4D63215C21", "target": "Meu nome é Baderon, e esta hospedaria mais que hospitaleira é Drowning Wench." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_6", "hash": "8B4E2A28FE711BC8", "target": "Também é a casa da Guilda dos Aventureiros aqui em Limsa. Por isso temos um balcão só para os assuntos da guilda, e por isso parece que passo mais tempo salvando o pescoço de novatos como você do que molhando a garganta dos meus fregueses." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_7", "hash": "41DF44769B0DDB59", "target": "Aventureiro tem um dom para arrumar encrenca, sabe?" },
@@ -58,6 +58,6 @@
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_BADERON_000_36", "hash": "98C0799092469064", "target": "Agora, pare um pouco para organizar as ideias e vamos começar a ensinar como as coisas funcionam na cidade." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SYSTEM_000_40", "hash": "6E3A849EFE748712", "target": "Isso conclui o tutorial introdutório do jogo." },
     { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SYSTEM_000_41", "hash": "CDE5557D4B897C6F", "target": "Você deu seu primeiro passo como <if(gnum4,aventureira,aventureiro)> na cidade de Limsa Lominsa." },
-    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SYSTEM_000_42", "hash": "0F36D49D8AEB27D1", "target": "Ouça bem a sabedoria de Baderon Tenfingers e depois parta para descobrir as aventuras incríveis que esperam por você!" }
+    { "gameKey": "quest/001/ManSea001_00107#TEXT_MANSEA001_00107_SYSTEM_000_42", "hash": "0F36D49D8AEB27D1", "target": "Ouça bem a sabedoria de Baderon Dez-Dedos e depois parta para descobrir as aventuras incríveis que esperam por você!" }
   ]
 }

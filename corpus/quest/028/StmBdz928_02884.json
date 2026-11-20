@@ -3,9 +3,9 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_SEQ_00", "hash": "70FDDE7CEEC9BB7D", "target": "Topher procura alguém com bravura e experiência militar para uma missão urgente." },
-    { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_00", "hash": "4D1E17EEB2F53D4F", "target": "Falar com o Resistance fighter" },
+    { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_00", "hash": "4D1E17EEB2F53D4F", "target": "Falar com o combatente da Resistência" },
     { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_01", "hash": "13E470F2DF8A11E9", "target": "Subir ao topo da torre e procurar inimigos" },
-    { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_02", "hash": "ABCC30FEADBDE335", "target": "Falar com o Resistance fighter" },
+    { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_02", "hash": "ABCC30FEADBDE335", "target": "Falar com o combatente da Resistência" },
     { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TODO_03", "hash": "AD73AE04E6FA8E64", "target": "Falar com Topher" },
     { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TOPHER_000_000", "hash": "4D8B7A48B50A2405", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, tenho uma missão que exige sua atenção imediata." },
     { "gameKey": "quest/028/StmBdz928_02884#TEXT_STMBDZ928_02884_TOPHER_000_001", "hash": "F27E905A920AF633", "target": "Um esquadrão que enviei para tomar uma torre de vigia ao sul daqui mandou um pedido urgente de reforços." },

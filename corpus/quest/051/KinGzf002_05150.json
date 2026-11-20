@@ -12,10 +12,10 @@
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_003", "hash": "71DD2D80BB202C6E", "target": "Vá ao Halo de Yyupye e fale com Shepimenye. Tenho certeza de que ele vai ter algo fresquinho." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_004", "hash": "FDE13D39BFD2B87D", "target": "Não foi você quem visitou a plantação com a rainha Sphene? Posso ajudar em alguma coisa?" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_005", "hash": "BEAC741986BEBD1E", "target": "Ah, então Pawkwena pediu que você buscasse alguns legumes. Aqui eles certamente não faltam." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_006", "hash": "4D8EF81943B4B2AA", "target": "Nesta época do ano, temos milho de grãos vítreos, abóboras de Tural e popotos-doces. Pode escolher." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_007", "hash": "581F7C158890EA64", "target": "Pode escolher entre milho de grãos vítreos, abóboras de Tural e popotos-doces. Conhecendo Pawkwena, ela consegue preparar um prato delicioso com qualquer um deles." },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_006", "hash": "4D8EF81943B4B2AA", "target": "Nesta época do ano, temos milho-gema-de-vidro, abóboras de Tural e popotos-doces. Pode escolher." },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_007", "hash": "581F7C158890EA64", "target": "Pode escolher entre milho-gema-de-vidro, abóboras de Tural e popotos-doces. Conhecendo Pawkwena, ela consegue preparar um prato delicioso com qualquer um deles." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SYSTEM_110_008", "hash": "57DFCFA003FDAE8E", "target": "Grãos de milho graúdos aparecem entre as palhas secas." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_Q1_100_008", "hash": "D98C283797E6B1CB", "target": "Escolher o milho de grãos vítreos?" },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_Q1_100_008", "hash": "D98C283797E6B1CB", "target": "Escolher o milho-gema-de-vidro?" },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SHEPIMENYE_000_008", "hash": "63D4B15DF55DEAE8", "target": "O milho é um legume muito versátil. Vou colocar num saco para você. Aqui está." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_SYSTEM_110_009", "hash": "1B82087F834485C3", "target": "As abóboras de cores vivas estão pesadas de tanta polpa e sementes." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_Q2_100_009", "hash": "34B5EED1D6BB4F29", "target": "Escolher a abóbora de Tural?" },
@@ -29,7 +29,7 @@
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_014", "hash": "F241D39B549C8EFF", "target": "Perfeito! Acho que tenho todos os ingredientes para uma sopa de abóbora leve e docinha." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_015", "hash": "B9E8B24455765DD4", "target": "Excelente! Pelo visto, o jantar vai ser popoto-doce assado." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_016", "hash": "7743B936B9212F18", "target": "É um prato tradicional de Yyasulani, passado de geração em geração. Ainda hoje é bem popular." },
-    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_017", "hash": "1FCA8C52312920A4", "target": "Com os legumes fresquinhos que cultivamos, me sinto mais perto da natureza a cada mordida. Uma sensação que a comida produzida em Everkeep não proporciona." },
+    { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_017", "hash": "1FCA8C52312920A4", "target": "Com os legumes fresquinhos que cultivamos, me sinto mais perto da natureza a cada mordida. Uma sensação que a comida produzida na Fortaleza Eterna não proporciona." },
     { "gameKey": "quest/051/KinGzf002_05150#TEXT_KINGZF002_05150_PAWKWENA_000_018", "hash": "8D409CFE92DE03AB", "target": "Enfim, obrigada por entrar na minha. Aqui, aceite isto. Você não se importa se for comida pronta, não é?" }
   ]
 }

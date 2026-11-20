@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_SEQ_00", "hash": "11D18C46A00C6BA5", "target": "Alphinaud parece satisfeito por concordar com Watt." },
-    { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_TODO_00", "hash": "9780E672E78A62AB", "target": "Esperar dentro do portão do Ala Mhigan Quarter" },
+    { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_TODO_00", "hash": "9780E672E78A62AB", "target": "Esperar dentro do portão do Bairro Ala-mhigano" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_TODO_01", "hash": "70E00A3A73D2CE3F", "target": "Falar com Raubahn" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_TODO_02", "hash": "7078A40528953CFD", "target": "Falar com Lyse" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_WISCAR_000_005", "hash": "03ECAF69B6CABC8D", "target": "O vovô e os amigos já estão trabalhando duro. Não podemos fazer menos, hein?" },
@@ -12,7 +12,7 @@
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_FLAMEHERALD_000_012", "hash": "AEC048C5E68700B6", "target": "Mensagem do general Aldynn!" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_FLAMEHERALD_000_013", "hash": "8BF85B007258E1AC", "target": "Desculpe a interrupção, <if(gnum4,senhorita,senhor)>, mas o general quer falar assim que puder!" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_ALPHINAUD_000_014", "hash": "58949A5290082B6F", "target": "Não precisa esperar por mim. Ficarei para acertar os detalhes com Watt e intermediar os contatos com nossos parceiros de Ul'dah. Pode ir." },
-    { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_FLAMEHERALD_000_015", "hash": "3A110303139E7C59", "target": "O general Aldynn pede que espere no portão principal do Ala Mhigan Quarter. Mais uma vez, desculpe, <if(gnum4,senhorita,senhor)>! Vá em paz!" },
+    { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_FLAMEHERALD_000_015", "hash": "3A110303139E7C59", "target": "O general Aldynn pede que espere no portão principal do Bairro Ala-mhigano. Mais uma vez, desculpe, <if(gnum4,senhorita,senhor)>! Vá em paz!" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_WATT_000_020", "hash": "2833C7F2A62CC404", "target": "Alphinaud é um rapaz esperto, não? Contei o que precisaríamos para consertar tudo, e ele calculou o custo na hora. E não era pouco!" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_WISCAR_000_025", "hash": "6DA33EE6AB350F17", "target": "Vou pedir à comandante Hext um esquadrão para patrulhar os pontos de coleta e pesca da Saltery. E vou ensinar o que me contou!" },
     { "gameKey": "quest/029/StmBdb110_02971#TEXT_STMBDB110_02971_ALPHINAUD_000_030", "hash": "12993CCAEA7BFCFE", "target": "Deixe a administração comigo. O general Aldynn está esperando." },

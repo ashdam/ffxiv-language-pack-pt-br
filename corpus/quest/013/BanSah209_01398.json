@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_SEQ_00", "hash": "827AF40C73896715", "target": "As histórias do mar são sempre escritas com sal e sangue, e numa pequena ilha sonolenta da Baía de Galadion a trama acaba de se complicar." },
-    { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_SEQ_01", "hash": "D678DAE6FE63DC6B", "target": "Segundo Houu, os Saqueadores da Serpente tomaram a Ilha da Sombra Lunar e atormentam a Ninhada de Novv a mando dos Tridentes de Coral. Cabe a você encontrar e eliminar quatro Moonshade deckhands e steersmen, mas primeiro é preciso chegar à ilha. O domador de feras marinhas Pahh tem os melhores elbst da cidade, ou pelo menos do Berçário de Novv." },
+    { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_SEQ_01", "hash": "D678DAE6FE63DC6B", "target": "Segundo Houu, os Saqueadores da Serpente tomaram a Ilha da Sombra Lunar e atormentam a Ninhada de Novv a mando dos Tridentes de Coral. Cabe a você encontrar e eliminar quatro marinheiros e timoneiros da Sombra Lunar, mas primeiro é preciso chegar à ilha. O domador de feras marinhas Pahh tem os melhores elbst da cidade, ou pelo menos do Berçário de Novv." },
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_SEQ_02", "hash": "8E3D36E79CA7F443", "target": "Piratas mortos não tomam posse de nada, e os quatro Saqueadores da Serpente estão definitivamente mortos. Você nunca gostou muito de serpentes. Volte ao berçário e conte a Houu o resultado do seu breve passeio." },
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_SEQ_03", "hash": "2CA86CDBDBB263EF", "target": "Houu fica pensativo ao saber da libertação da ilha. Esse derramamento de sangue era mesmo necessário? Ou seria melhor ter nadado para longe? Sempre há uma escolha, e, Sahagin ou caminhante da costa, suas escolhas definem quem você é." },
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_TODO_00", "hash": "14ADDABD4CB65182", "target": "Encontrar e eliminar os Saqueadores da Serpente na Ilha da Sombra Lunar" },
@@ -22,6 +22,6 @@
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_HOUU_000_021", "hash": "184E71D507F6B021", "target": "O pai da ninhada nos aconselha a lutar só quando não podemos nadar para longe. Mas e num momento como este? Se fôssemos embora, nossos irmãos passariam fome, sem aprender a pescar. O caminho é tão turvo quanto um mar revolto..." },
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_BALLOON_000_030", "hash": "0C064B04B4B0DF03", "target": "Hoje não tem peixe! Nem amanhã!" },
     { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_BALLOON_000_031", "hash": "0A9991917EB64B35", "target": "Agora a ilha é nossa, maldita cria de terra firme!" },
-    { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_BALLOON_000_032", "hash": "66B8328300745D1A", "target": "Tudo aqui é devido ao Senhor Leviathan─a ilha, os peixes, sua cabeça fedorenta!" }
+    { "gameKey": "quest/013/BanSah209_01398#TEXT_BANSAH209_01398_BALLOON_000_032", "hash": "66B8328300745D1A", "target": "Tudo aqui é devido ao Senhor Leviatã─a ilha, os peixes, sua cabeça fedorenta!" }
   ]
 }

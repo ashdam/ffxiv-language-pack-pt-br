@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_SEQ_00", "hash": "DBC78F0BF50F4ADD", "target": "Todo guerreiro deve escolher seu caminho, como Gosetsu bem sabe." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_TODO_00", "hash": "38E070A1C2B8FA7B", "target": "Procurar Yugiri" },
-    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_TODO_01", "hash": "7BD43F44D4D0BCAD", "target": "Encontrar Yugiri em Yuzuka Manor" },
+    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_TODO_01", "hash": "7BD43F44D4D0BCAD", "target": "Encontrar Yugiri na Mansão Yuzuka" },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_GOSETSU_000_000", "hash": "3CEBEC53F234C8F0", "target": "Não irei atrás dela. Cabe a ela refletir sobre as palavras do nosso senhor e reconhecer a inutilidade do que pretende." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_GOSETSU_000_001", "hash": "39C5E4C16656C4A9", "target": "Ao menos é o que penso. Você pode pensar diferente. Se quiser segui-la, não impedirei." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_GOSETSU_000_002", "hash": "53FFEB431E747167", "target": "...Só temos uma vida, e não devemos gastá-la imprudentemente em busca de nossos objetivos. Espero que ela perceba isso logo..." },
@@ -27,7 +27,7 @@
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_035", "hash": "83A03CEE297A9A0C", "target": "...Pretende <italic(1)>se juntar a mim<italic(0)>?" },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_036", "hash": "8C26ADB246C8686C", "target": "Obrigada. Obrigada. Eu...não consigo expressar o que isso significa para mim." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_037", "hash": "D702D9BF4846939C", "target": "Temos muito a discutir, mas podemos fazer isso no caminho." },
-    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_038", "hash": "B9B8438C2A103CAA", "target": "Yuzuka Manor fica longe. Precisamos nos apressar!" },
+    { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_YUGIRI_000_038", "hash": "B9B8438C2A103CAA", "target": "A Mansão Yuzuka fica longe. Precisamos nos apressar!" },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_ISSE_000_039", "hash": "5CFE704E71ABE8FA", "target": "...Calma. Ninguém sabe que você estava aqui. Ninguém sabe que viu nada." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_ISSE_000_040", "hash": "E7A9E2BEC708A25E", "target": "Ninguém sabe que ouviu <if(gnum4,duas rebeldes,dois rebeldes)> planejando...matar o príncipe herdeiro..." },
     { "gameKey": "quest/029/StmBda326_02935#TEXT_STMBDA326_02935_ISSE_000_041", "hash": "74195A7B3FF020D7", "target": "Ah! Burro, burro, burro! Sabe como isso termina! E a culpa é só <if(gnum4,delas,deles)>! Precisa contar. Precisa..." },

@@ -2,9 +2,9 @@
   "sheet": "RelicNoteCategory",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "RelicNoteCategory#1", "hash": "20D515351009DAF9", "target": "" },
-    { "gameKey": "RelicNoteCategory#2", "hash": "B48E7E3A2C4E5B07", "target": "" },
-    { "gameKey": "RelicNoteCategory#3", "hash": "6DC08D8E29DB332B", "target": "" },
-    { "gameKey": "RelicNoteCategory#4", "hash": "7CD508914437D7F0", "target": "" }
+    { "gameKey": "RelicNoteCategory#1", "hash": "20D515351009DAF9", "target": "Inimigos" },
+    { "gameKey": "RelicNoteCategory#2", "hash": "B48E7E3A2C4E5B07", "target": "Masmorras" },
+    { "gameKey": "RelicNoteCategory#3", "hash": "6DC08D8E29DB332B", "target": "FATEs" },
+    { "gameKey": "RelicNoteCategory#4", "hash": "7CD508914437D7F0", "target": "Leves" }
   ]
 }

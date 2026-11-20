@@ -2,10 +2,10 @@
   "conversation": "quest/033/LucKzc011_03394",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_SEQ_00", "hash": "4A2A41AA93DA47C0", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O pixie flowerkeep está fervendo de raiva." },
+    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_SEQ_00", "hash": "4A2A41AA93DA47C0", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A Pixie guardiã das flores está fervendo de raiva." },
     { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_TODO_00", "hash": "D0178C1C31BABC34", "target": "Punir os mortais perversos" },
-    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_TODO_01", "hash": "D784392157862683", "target": "Apresentar um relatório ao pixie flowerkeep" },
-    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_TODO_02", "hash": "722C89CB99659318", "target": "Falar com o pixie flowerkeep" },
+    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_TODO_01", "hash": "D784392157862683", "target": "Apresentar um relatório à Pixie guardiã das flores" },
+    { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_TODO_02", "hash": "722C89CB99659318", "target": "Falar com a Pixie guardiã das flores" },
     { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_PIXIE03394_000_000", "hash": "612A27AC657EC787", "target": "Grrr, estou batendo as asas de tanta raiva! Uns mortais perversos entraram escondidos em Il Mheg e tentaram roubar nossas flores!" },
     { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_PIXIE03394_000_001", "hash": "62A29BD917A99625", "target": "Usei ilusões para mandá-los embora, mas, em vez de aprenderem a lição, foram espetar meus amigos com metal frio e pontudo!" },
     { "gameKey": "quest/033/LucKzc011_03394#TEXT_LUCKZC011_03394_PIXIE03394_000_002", "hash": "9811827243C7C304", "target": "É imperdoável! Esses desgraçados atrevidos precisam ser punidos, e você vai comigo puni-los!" },

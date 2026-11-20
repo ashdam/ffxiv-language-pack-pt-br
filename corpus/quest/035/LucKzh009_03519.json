@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_SEQ_00", "hash": "346FCF4DBA954D78", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Aarner olha tristemente para além da balaustrada." },
-    { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_TODO_00", "hash": "889C00753E2F364D", "target": "Recolher cartas manchadas de lágrimas em Derelicts" },
+    { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_TODO_00", "hash": "889C00753E2F364D", "target": "Recolher cartas manchadas de lágrimas nos Destroços" },
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_TODO_01", "hash": "65442A08D0FE8ED4", "target": "Entregar as cartas manchadas de lágrimas a Aarner perto do Salão da Grande Dama" },
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_000", "hash": "6A767CDAD77CF9C6", "target": "Minhas cartas! Espalhadas pelo vento! De quem foi a ideia de construir esta cidade com tantas passarelas expostas à ventania?" },
-    { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_001", "hash": "665550F50C0C80B9", "target": "\\<suspiro> Não. Também nisso não posso culpar ninguém além de mim mesmo. Mas elas são importantes para mim, então poderia pedir que as procurasse? São três ao todo. Provavelmente foram parar em Derelicts, como essas coisas costumam acontecer." },
+    { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_001", "hash": "665550F50C0C80B9", "target": "\\<suspiro> Não. Também nisso não posso culpar ninguém além de mim mesmo. Mas elas são importantes para mim, então poderia pedir que as procurasse? São três ao todo. Provavelmente foram parar nos Destroços, como essas coisas costumam acontecer." },
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_002", "hash": "9B07DEF43F8BEE81", "target": "Eu mesmo buscaria as cartas, mas marquei de encontrar alguém aqui e acho que não suportaria decepcionar mais uma pessoa." },
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_010", "hash": "ECD5C12842ECAF88", "target": "Ah, aí está você. Teve sorte?" },
     { "gameKey": "quest/035/LucKzh009_03519#TEXT_LUCKZH009_03519_AARNER_000_011", "hash": "E3C9C54F78B1B250", "target": "Encontrou as três! Maravilha! Não tenho como expressar o quanto seria difícil para mim reescrevê-las." },

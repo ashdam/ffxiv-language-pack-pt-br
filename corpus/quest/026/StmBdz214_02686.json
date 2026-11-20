@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_SEQ_00", "hash": "C92E713E2C2AF441", "target": "Aranami precisa da ajuda de <if(gnum4,uma mulher intimidadora,um homem intimidador)>." },
     { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_TODO_00", "hash": "EAA5894976B2A509", "target": "Falar com Umibeta" },
-    { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_TODO_01", "hash": "73F35800E2BADAA3", "target": "Usar /battlestance diante do watchguard" },
+    { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_TODO_01", "hash": "73F35800E2BADAA3", "target": "Usar /battlestance diante do vigia" },
     { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_TODO_02", "hash": "B81B6C860F039E5A", "target": "Apresentar um relatório a Umibeta" },
     { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_TODO_03", "hash": "61034BAFAFBF615C", "target": "Apresentar um relatório a Aranami" },
     { "gameKey": "quest/026/StmBdz214_02686#TEXT_STMBDZ214_02686_ARANAMI_000_000", "hash": "E0A53955135D6614", "target": "Venha aqui. Preciso que faça uma coisa por nós. Não é uma tarefa nada empolgante, mas é uma das coisas mais importantes com que poderia nos ajudar." },

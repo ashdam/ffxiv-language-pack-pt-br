@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_SEQ_00", "hash": "16EAC8A4564E10D9", "target": "Ryne parece inquieta ao olhar para você." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_TODO_00", "hash": "E924D9AC5E57FDBB", "target": "Falar com Y'shtola no Crystarium" },
-    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_TODO_01", "hash": "E44C4D9591C6206E", "target": "Falar com o gerente das suítes em Pendants" },
+    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_TODO_01", "hash": "E44C4D9591C6206E", "target": "Falar com o gerente das suítes nos Pendentes" },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_ALPHINAUD_000_000", "hash": "5BF78CF4F6264C61", "target": "O fim do domínio da Luz sobre este mundo está próximo." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_ALISAIE_000_005", "hash": "B4827C9EF4988783", "target": "Quando tudo acabar, significaria muito para mim se pudéssemos visitar o túmulo de Tesleen <if(gnum4,juntas,juntos)>. Tenho tanto para contar a ela..." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_THANCRED_000_010", "hash": "DDFF8149D40E42E4", "target": "Talvez o tratamento não tenha sido tão completo quanto pensei. Ou talvez eu tenha sido um pouco imprudente demais." },
@@ -39,7 +39,7 @@
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_065", "hash": "504E0C8D503B00EC", "target": "Não é hora de fingir coragem. Se sua condição piorar, as consequências podem ser terríveis para todos nós." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_066", "hash": "05F682585D397840", "target": "Agora, por favor, volte ao quarto e descanse." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_067", "hash": "8D15F268DCCFE464", "target": "Ha. Sem atrevimento, ou vou dar umas palmadas em você." },
-    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_068", "hash": "829088F004F6735B", "target": "Agora, vá para Pendants. Chamaremos quando chegar a hora." },
+    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_YSHTOLA_000_068", "hash": "829088F004F6735B", "target": "Agora, vá para os Pendentes. Chamaremos quando chegar a hora." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_GUIDEOFTHEPENDANTS_000_070", "hash": "5032CBB733B0C7B2", "target": "Está tudo bem, <if(gnum4,senhorita,senhor)>? Você não parece muito bem." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_GUIDEOFTHEPENDANTS_000_071", "hash": "0C39F86075953C9F", "target": "Talvez uma refeição quente e uma cama recém-arrumada ajudem. Seu quarto está pronto, se quiser se recolher." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_Q2_000_000", "hash": "51602F201A35917B", "target": "Recolher-se aos seus aposentos?" },

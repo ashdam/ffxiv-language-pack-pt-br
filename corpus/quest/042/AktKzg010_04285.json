@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_SEQ_00", "hash": "494D678BFD513CF7", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>Este criador reconhece você... ou será que não?" },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_00", "hash": "B0E75C9C1C3272B6", "target": "Entregar os frutos vermelhos sem nome aos observadores" },
-    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_01", "hash": "7D33F5D4F5DD6EB0", "target": "Falar com o pompous creator" },
+    { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_TODO_01", "hash": "7D33F5D4F5DD6EB0", "target": "Falar com o criador pomposo" },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_000", "hash": "191CF41DE1BC9D13", "target": "Azem? Que diabos está fazendo aqui?<br>Espere... Você parece... mais tênue de algum modo." },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_001", "hash": "AF1A0EE5E608F28A", "target": "Hum... Tem muito em comum com <if(gnum4,ela,ele)>, mas claramente <if(gnum4,não é uma de nós,não é um de nós)>. Talvez <if(gnum4,uma familiar,um familiar)>?" },
     { "gameKey": "quest/042/AktKzg010_04285#TEXT_AKTKZG010_04285_ELEGANCECREATOR04285_000_002", "hash": "CB3B737244C7BA80", "target": "Imagino que seja bem típico <if(gnum4,dela,dele)> mandar um de seus lacaios meter o nariz nos nossos assuntos. Mas, já que está aqui, em vez de ficar rondando como um mau cheiro, por que não faz algo útil?" },

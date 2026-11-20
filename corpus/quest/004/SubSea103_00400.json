@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "Kazai Buoyzai, um transportador de cargas do Skylift, precisa de ajuda para manter seu peixe fresco." },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "As essências geladas dos water sprites são perfeitas para manter os peixes resfriados durante o transporte. Mate water sprites até coletar três de seus núcleos." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "As essências geladas dos elementais de água são perfeitas para manter os peixes resfriados durante o transporte. Mate elementais de água até coletar três de seus núcleos." },
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "Você coletou três núcleos de elemental de água. Entregue-os a Kazai Buoyzai no Skylift." },
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "Kazai parece muito satisfeito com os núcleos e aliviado por saber que seus clientes receberão mercadorias em bom estado. A concorrência entre as transportadoras que usam o Skylift é feroz, e qualquer deslize pode significar perder um negócio para um rival." },
-    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "Derrotar water sprites e coletar seus núcleos" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "Derrotar elementais de água e coletar seus núcleos" },
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "Entregar os núcleos de elemental de água a Kazai Buoyzai no Skylift" },
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "Fique de olho, <if(gnum4,mocinha,rapaz)>, tenho um trabalho para você! Não temos muito tempo, então preste atenção." },
     { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "Hoje estou com peixe demais e núcleos de elemental de água de menos para manter tudo frio. Entende meu problema?" },

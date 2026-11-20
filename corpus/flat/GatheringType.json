@@ -2,9 +2,9 @@
   "sheet": "GatheringType",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "GatheringType#0", "hash": "8744A133364C852C", "target": "" },
-    { "gameKey": "GatheringType#1", "hash": "DA17EB2AB1F7941F", "target": "" },
-    { "gameKey": "GatheringType#2", "hash": "C109744A8D990491", "target": "" },
-    { "gameKey": "GatheringType#3", "hash": "C32345EB3B8C74F7", "target": "" }
+    { "gameKey": "GatheringType#0", "hash": "8744A133364C852C", "target": "Mineração" },
+    { "gameKey": "GatheringType#1", "hash": "DA17EB2AB1F7941F", "target": "Extração de pedra" },
+    { "gameKey": "GatheringType#2", "hash": "C109744A8D990491", "target": "Corte de madeira" },
+    { "gameKey": "GatheringType#3", "hash": "C32345EB3B8C74F7", "target": "Colheita" }
   ]
 }

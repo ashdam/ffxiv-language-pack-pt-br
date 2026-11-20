@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_SEQ_00", "hash": "44F5A79C4B151D6C", "target": "M'gizzoh mal pode esperar para sair à caça." },
-    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_00", "hash": "6716A2736A4AA5D5", "target": "Examinar o local indicado e matar os broken bhoots que aparecerem" },
+    { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_00", "hash": "6716A2736A4AA5D5", "target": "Examinar o local indicado e matar os bhoots destroçados que aparecerem" },
     { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_TODO_01", "hash": "A4E927BB558B2E50", "target": "Informar M'gizzoh" },
     { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_000", "hash": "A58D4F879C1D7963", "target": "<if([gnum11<12],<if([gnum11<4],Uma bela noite,Um bom dia)>,<if([gnum11<17],Um bom dia,Uma bela noite)>)> pra caçar, não acha? Ainda mais agora que os garleanos fugiram com o rabo entre as pernas. Antes, não dava pra pôr os pés fora de Peering Stones sem acabar numa briga entre eles e a Resistência." },
     { "gameKey": "quest/028/StmBdz720_02823#TEXT_STMBDZ720_02823_MGIZZOH_000_001", "hash": "07B5826366D27F4D", "target": "Agora que voltamos aos lugares de sempre, encontrei um probleminha. Parece que, na nossa ausência, uma horda de bhoots tomou gosto pelo meu lugar favorito pra caçar." },

@@ -14,7 +14,7 @@
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_01", "hash": "9BB9DB9C561B6F8C", "target": "Falar com Cemi Jinjahl" },
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_02", "hash": "5941451C09A358CE", "target": "Falar com os atores no Mujikoza" },
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_03", "hash": "B3F7EE849E090A49", "target": "Falar com Cemi Jinjahl na Shiokaze Hostelry" },
-    { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_04", "hash": "4B5EB094FB700E90", "target": "<if([lnum1<lnum2],Fabricar uma lavish dressing case <sheet(Addon,9,0)>,Entregar a lavish dressing case <sheet(Addon,9,0)> à withdrawn woman)>" },
+    { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_04", "hash": "4B5EB094FB700E90", "target": "<if([lnum1<lnum2],Fabricar uma lavish dressing case <sheet(Addon,9,0)>,Entregar a lavish dressing case <sheet(Addon,9,0)> à mulher retraída)>" },
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_TODO_05", "hash": "1F26F07D9980384C", "target": "Falar com Cemi" },
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_BEATINE_000_001", "hash": "A3B709B267A5F48B", "target": "<split(<string(gstr1)>, ,1)>, recebi notícias de Cemi. Ela chegou a Kugane sã e salva." },
     { "gameKey": "quest/024/ClsWdk630_02442#TEXT_CLSWDK630_02442_BEATINE_000_002", "hash": "764DC4DC20AF5E24", "target": "Ou melhor, foi o que deduzi desta carta que descreve com tantos detalhes as comidas novas que ela provou por lá..." },

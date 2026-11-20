@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_SEQ_00", "hash": "C765F56C506E0B5D", "target": "Um dos anciãos está fora há muito tempo.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
-    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_00", "hash": "CF0CA6D2DC5996E8", "target": "Falar com o wizened Kojin" },
+    { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_00", "hash": "CF0CA6D2DC5996E8", "target": "Falar com o Kojin encarquilhado" },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_01", "hash": "19198718C2B848F2", "target": "Entregar os potes de loção aos long-haired pirates" },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_TODO_02", "hash": "F42ABF0D8866BD13", "target": "Relatar o ocorrido a Zukin" },
     { "gameKey": "quest/029/BanKjn403_02987#TEXT_BANKJN403_02987_ZUKIN_000_000", "hash": "B129CB7A468DD479", "target": "<split(<string(gstr1)>, ,1)>, você pode ajudar um dos anciãos da aldeia? Ele nadou até Onokoro para negociar com os moradores, mas anda meio esquecido ultimamente." },

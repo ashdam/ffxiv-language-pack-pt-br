@@ -2,12 +2,12 @@
   "conversation": "quest/042/AktKzf009_04264",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_SEQ_00", "hash": "29BE6DE66F088498", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A fretful Arkasodara procura alguém para enfrentar a natureza selvagem." },
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_00", "hash": "71A5DEA8C2897CB4", "target": "Procurar o wizened Arkasodara ao norte de Palaka's Stand" },
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_01", "hash": "CBDBC8A36FBD349A", "target": "Falar com o wizened Arkasodara" },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_SEQ_00", "hash": "29BE6DE66F088498", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A Arkasodara inquieta procura alguém para enfrentar a natureza selvagem." },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_00", "hash": "71A5DEA8C2897CB4", "target": "Procurar o Arkasodara encarquilhado ao norte do Reduto de Palaka" },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_01", "hash": "CBDBC8A36FBD349A", "target": "Falar com o Arkasodara encarquilhado" },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_02", "hash": "925A2143E2CC03D7", "target": "Recolher os peixes" },
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_03", "hash": "1B84388C05D35C73", "target": "Entregar os peixes ao wizened Arkasodara" },
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_04", "hash": "0568EEF0A1F4A906", "target": "Falar com a fretful Arkasodara" },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_03", "hash": "1B84388C05D35C73", "target": "Entregar os peixes ao Arkasodara encarquilhado" },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_TODO_04", "hash": "0568EEF0A1F4A906", "target": "Falar com a Arkasodara inquieta" },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_000", "hash": "815B126326DDDCEF", "target": "Soube de todo o bem que você fez ao nosso vilarejo, e todos somos gratos. Detesto abusar ainda mais da sua generosidade, mas, se tiver um momento, pode me dar uma ajuda?" },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_001", "hash": "905F29B0DC22CDDC", "target": "Queria pedir que procurasse meu pai. Faz badaladas que não o vejo e, pelo que andei perguntando, parece que ele saiu do vilarejo e foi para o norte." },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_002", "hash": "E637061232B91A85", "target": "Só as divindades sabem por que ele foi sozinho. Mas, se eu fosse atrás, acabaria na barriga de alguma fera antes de andar um malm. Por favor, encontre meu pai e o traga em segurança para casa." },
@@ -22,7 +22,7 @@
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSB04264_000_016", "hash": "BB4FFA649BF2921E", "target": "Ah, é isso que gosto de ver. Gordinhos e suculentos, exatamente o que precisamos. Acho que isso vai alimentar os refugiados por mais um dia." },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSB04264_000_017", "hash": "95504281142D362A", "target": "E é assim que temos de superar tudo isso: um dia de cada vez. Certo, vamos voltar à minha filha. Tenho certeza de que ela já se preocupou demais por minha causa." },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_020", "hash": "AE793ACA444DB503", "target": "Eu estava esperando você! Meu pai voltou e contou tudo que você fez por ele e pelo vilarejo. Parece que devo agradecer por duas boas ações hoje." },
-    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_021", "hash": "5BCF168B6899BC14", "target": "Há muito tempo, Palaka's Stand abriga os guardiões dos santuários e túmulos. Ou seja, nosso foco sempre foi atender às necessidades dos mortos, não dos vivos." },
+    { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_021", "hash": "5BCF168B6899BC14", "target": "Há muito tempo, o Reduto de Palaka abriga os guardiões dos santuários e túmulos. Ou seja, nosso foco sempre foi atender às necessidades dos mortos, não dos vivos." },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_022", "hash": "7E33693C931C8979", "target": "Por isso, entendo a vontade do meu pai de reforçar nossos estoques de comida. Mas, se ele morrer tentando, vai ser pior para todos nós." },
     { "gameKey": "quest/042/AktKzf009_04264#TEXT_AKTKZF009_04264_RESIDENTSA04264_000_023", "hash": "E6E9534BD1F01E22", "target": "Felizmente, não precisamos nos preocupar com isso. Pelo menos por hoje. Aceite isto como demonstração de gratidão minha e do meu pai." }
   ]

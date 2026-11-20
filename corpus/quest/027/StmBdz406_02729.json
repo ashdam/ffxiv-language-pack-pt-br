@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_SEQ_00", "hash": "8A590E268FD60654", "target": "Aohata não gosta de doninhas." },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Vasculhar a área e matar as mad weasels" },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_00", "hash": "823CCBF6ED562B03", "target": "Vasculhar a área e matar as doninhas furiosas" },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_TODO_01", "hash": "A82C39D948F9BEB9", "target": "Relatar a Aohata" },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_000", "hash": "AF414DB58E740B4A", "target": "Ei, você. Quer ganhar uns Gil?" },
-    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Há um bambuzal aqui perto de onde os aldeões costumam tirar bambu para fazer espantalhos. Porém, algumas mad weasels apareceram na área ultimamente, e desde então ninguém conseguiu colher bambu." },
+    { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_001", "hash": "DF68F58304436050", "target": "Há um bambuzal aqui perto de onde os aldeões costumam tirar bambu para fazer espantalhos. Porém, algumas doninhas furiosas apareceram na área ultimamente, e desde então ninguém conseguiu colher bambu." },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_002", "hash": "E720BE67E43D4111", "target": "Dizem que são três. Vou recompensar você muito bem se conseguir matar todas." },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_003", "hash": "5CFFE3FCDFF37267", "target": "Dizem que são três. Vou recompensar você muito bem se conseguir matar todas." },
     { "gameKey": "quest/027/StmBdz406_02729#TEXT_STMBDZ406_02729_AOHATA_000_010", "hash": "EB3992A2DE71C526", "target": "Terminou? Fantástico!" },

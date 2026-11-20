@@ -2,10 +2,10 @@
   "conversation": "quest/028/StmBdz914_02870",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_SEQ_00", "hash": "EDE444200CC76296", "target": "Esta Ananta battlemaid quer animar o pai de um amigo." },
-    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_00", "hash": "3525D2FFD25271BF", "target": "Falar com a Ananta battlemaid" },
+    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_SEQ_00", "hash": "EDE444200CC76296", "target": "Esta guerreira Ananta quer animar o pai de um amigo." },
+    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_00", "hash": "3525D2FFD25271BF", "target": "Falar com a guerreira Ananta" },
     { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_01", "hash": "4CAD05D4E2E00674", "target": "Falar com o stonemason" },
-    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_02", "hash": "DA85CECE8C4ACAEA", "target": "Falar com a Ananta battlemaid" },
+    { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_02", "hash": "DA85CECE8C4ACAEA", "target": "Falar com a guerreira Ananta" },
     { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_03", "hash": "1C538B9836ADF61D", "target": "Procurar o martelo do artesão da pedra na área indicada" },
     { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_TODO_04", "hash": "14DD0C597B352067", "target": "Entregar o martelo do artesão da pedra ao stonemason" },
     { "gameKey": "quest/028/StmBdz914_02870#TEXT_STMBDZ914_02870_ANANTAWARRIOR02870_000_000", "hash": "858F80C3663DC405", "target": "Precissso da sua ajuda para entregar algo de valor." },

@@ -112,7 +112,7 @@
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400200_RAUBAHN", "hash": "2153BFA3BAB2FF20", "target": "Até lá." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400210_RAUBAHN", "hash": "35281F78E81E5074", "target": "Pelo bem de Sua Majestade e pela glória do sultanato, que você caminhe à luz do Cristal." },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_120", "hash": "BAEBCB2388EE15B1", "target": "Você tem a minha gratidão, <split(<string(gstr1)>, ,1)>, por ajudar a defender o bom nome de Sua Majestade e por poupar os Juramentados de mais desonra. Creio que o Mestre Papashan gostaria de agradecer pessoalmente." },
-    { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_TODO001", "hash": "5515EA4A2601A8B0", "target": "Derrote Garibald the Fargone e os seus lacaios!" },
+    { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_TODO001", "hash": "5515EA4A2601A8B0", "target": "Derrote Garibald, o Desvairado, e os seus lacaios!" },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALK01", "hash": "CF329FD39E22BF48", "target": "Lute pela sua sultana, rapaz! Lute por Ul'dah!" },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKBOSS_HP25_REACT", "hash": "3730A3A0CBB3B629", "target": "Renda-se ou morra, ladrão! Não vou pedir de novo!" },
     { "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALK01", "hash": "5820C0CCAF71E124", "target": "Às suas ordens, Mestre Papashan!<br>Comigo, <split(<string(gstr1)>, ,1)>!" },

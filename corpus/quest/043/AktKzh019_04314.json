@@ -2,10 +2,10 @@
   "conversation": "quest/043/AktKzh019_04314",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_SEQ_00", "hash": "03228F755149977F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O forbearing visitor parece estar observando você com interesse." },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_SEQ_00", "hash": "03228F755149977F", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O visitante paciente parece estar observando você com interesse." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_00", "hash": "221B6C95C8876D3E", "target": "Falar com o scrivener" },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_01", "hash": "23BABC63C16D65CF", "target": "Entregar as atas do fórum ao forbearing visitor" },
-    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_02", "hash": "480E630D9E147BCD", "target": "Falar com o forbearing visitor" },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_01", "hash": "23BABC63C16D65CF", "target": "Entregar as atas do fórum ao visitante paciente" },
+    { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_TODO_02", "hash": "480E630D9E147BCD", "target": "Falar com o visitante paciente" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_000", "hash": "CA3F67384247A647", "target": "Mas que familiar de aparência adorável. Diga-me: a quem você pertence?" },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_001", "hash": "0CB7D96C3962A757", "target": "Ah, é de Azem? Uma boa pessoa, não acha? Sempre aparece nos momentos difíceis para estender a mão a quem precisa... E, como sou uma dessas pessoas, tenho certeza de que <if(gnum4,ela,ele)> não se importaria se eu pegasse você <if(gnum4,emprestada,emprestado)> por um instante." },
     { "gameKey": "quest/043/AktKzh019_04314#TEXT_AKTKZH019_04314_FOREIGNER04314_000_002", "hash": "70C07CE382F462E0", "target": "Houve um longo debate em Ktisis Hyperboreia sobre a avaliação de criações. Foram redigidas atas minuciosas durante esse fórum, e gostaria que você as buscasse para mim." },

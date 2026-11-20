@@ -2,10 +2,10 @@
   "conversation": "quest/035/LucKzj005_03568",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_SEQ_00", "hash": "8B3AE78073F10F54", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O prospective poet está em busca da inspiração certa." },
+    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_SEQ_00", "hash": "8B3AE78073F10F54", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O aspirante a poeta está em busca da inspiração certa." },
     { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_TODO_00", "hash": "158AE4413757C829", "target": "Fazer perguntas aos moradores de Crystarium" },
-    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_TODO_01", "hash": "5CF20317851EEB5F", "target": "Falar com o prospective poet perto de Crystalline Mean" },
-    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_TODO_02", "hash": "A278450533D80C97", "target": "Falar com o prospective poet em Catenaries" },
+    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_TODO_01", "hash": "5CF20317851EEB5F", "target": "Falar com o aspirante a poeta perto da Justa Medida Cristalina" },
+    { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_TODO_02", "hash": "A278450533D80C97", "target": "Falar com o aspirante a poeta em Catenaries" },
     { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_POET03568_000_000", "hash": "F7A834AD0513E9AD", "target": "Você gosta de poesia? Isto exige uma alma sensível." },
     { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_POET03568_000_001", "hash": "FBE2A082D3D45CC0", "target": "...Desculpe, acho que devo explicar melhor. Estou compondo um presente para minha avó idosa, que perdeu a visão há algum tempo. Quero transmitir a ela a beleza infinita do céu noturno... em versos!" },
     { "gameKey": "quest/035/LucKzj005_03568#TEXT_LUCKZJ005_03568_POET03568_000_003", "hash": "4242D979B71AD752", "target": "Mas, para isso, preciso explorar as inúmeras emoções que aquela imensidão negra e cintilante desperta no coração. Tenho certeza de que entende. Por isso, peço sua ajuda para perguntar aos moradores de Crystarium o que o céu noturno significa para eles." },

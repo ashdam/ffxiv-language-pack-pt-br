@@ -2,10 +2,10 @@
   "conversation": "quest/031/BanNam504_03118",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_SEQ_00", "hash": "9F60BA7D1F03968E", "target": "Seigetsu the Enlightened tem preocupações de natureza equestre.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
+    { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_SEQ_00", "hash": "9F60BA7D1F03968E", "target": "Seigetsu, o Iluminado, tem preocupações de natureza equestre.<br><br>※A dificuldade desta missão foi sincronizada com seu nível atual. Além disso, só é possível avançar usando a mesma classe ou o mesmo job com que aceitou a missão." },
     { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_TODO_00", "hash": "CF765ABAEBFA0D5F", "target": "Encontrar Namazu horse enthusiast em Nhaama's Retreat" },
     { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_TODO_01", "hash": "D864ED111F057C75", "target": "Montar o cavalo e levá-lo até Mol horse handler" },
-    { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_TODO_02", "hash": "3A4B02811F2D934F", "target": "Apresente um relatório a Seigetsu the Enlightened." },
+    { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_TODO_02", "hash": "3A4B02811F2D934F", "target": "Reportar a Seigetsu, o Iluminado" },
     { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_KOFUINSEIGETSU_000_000", "hash": "ABAAC367181E9331", "target": "Um dos nossos entusiastas do festival se ofereceu para devolver um dos cavalos que os Mol gentilmente cederam para nossa corrida, mas receio que seu “entusiasmo” seja bem maior do que sua habilidade de montar..." },
     { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_KOFUINSEIGETSU_000_001", "hash": "08BD6141B73AE17B", "target": "Para ser perfeitamente franco, ele é um cavaleiro atroz, e existe uma possibilidade concreta de que ele ou a montaria se machuque." },
     { "gameKey": "quest/031/BanNam504_03118#TEXT_BANNAM504_03118_KOFUINSEIGETSU_000_002", "hash": "19FA60A6BE810006", "target": "Eu ficaria muito grato se você encontrasse nosso aspirante a domador de cavalos e garantisse a integridade física de ambas as partes. Comece a busca nos arredores de Dhoro Iloh. Considero <italic(1)>extremamente<italic(0)> improvável que ele tenha conseguido ir mais do que algumas dezenas de yalms além de Towering Still." },

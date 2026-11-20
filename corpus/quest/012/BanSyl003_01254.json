@@ -34,7 +34,7 @@
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYA_000_025", "hash": "6DEE8A476FADFDEC", "target": "Sim, sim... Este aqui já ia buscar... Agora, ah... onde foi que este aqui deixou mesmo?" },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYB_000_026", "hash": "3D980748B8D2981E", "target": "(-Silfo irritadiço-)..." },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYA_000_027", "hash": "7AA2DA6ADDAEF13A", "target": "Foi perto da entrada do lar destes aqui, ou...? Ah, este aqui não lembra! Ai, o que este aqui fez!? O chefe vai arrancar as asas deste aqui uma por uma!" },
-    { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYB_000_028", "hash": "DCCB0BD96884274C", "target": "(-Silfo lento-)Estes aqui precisam procurar! Se estes aqui não encontrarem a Escolhida depressa, este aqui não vai sobreviver à fúria do chefe!" },
+    { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYB_000_028", "hash": "DCCB0BD96884274C", "target": "(-Sylph lerdo-)Estes aqui precisam procurar! Se estes aqui não encontrarem a Escolhida depressa, este aqui não vai sobreviver à fúria do chefe!" },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYSTEM_100_030", "hash": "8EF532F5B6F32D7D", "target": "Um ar fresco enche seus pulmões, renovando as forças de seus braços e pernas!" },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_NOTRECOVER_000_002", "hash": "AC30931177FEB3E3", "target": "Você não está carregando o objeto indicado. Volte ao ponto de partida e tente fazer a entrega novamente." },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_DECRIPT_100_003", "hash": "1EC9D3E27B5BA6FB", "target": "Leve o bulbo ao Pequeno Consolo enquanto seus braços e pernas ainda têm forças. Cuidado com os ataques de inimigos. Se sentir cansaço, procure moitas de erva-lua para recuperar suas forças." },
@@ -56,6 +56,6 @@
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYLPHENEMYA_000_070", "hash": "32ACA5D844F85227", "target": "Ufa! Este aqui precisa de um... Hm? O que anda!? Os que andam não são bem-vindos aqui!" },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYSTEM_200_000", "hash": "2595E94D0DCE9AC0", "target": "Sua reputação com os silfos do Pequeno Consolo chegou a <colortype(500)><edgecolortype(501)>Recognized<edgecolortype(0)><colortype(0)>." },
     { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYSTEM_200_001", "hash": "B0483A8E6420EFF9", "target": "Novas missões diárias da sociedade Sylph já estão disponíveis com Ponnixia no Pequeno Consolo." },
-    { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYSTEM_200_002", "hash": "BBD779C57525B250", "target": "Além disso, o vendedor silfo agora oferece uma seleção maior de mercadorias." }
+    { "gameKey": "quest/012/BanSyl003_01254#TEXT_BANSYL003_01254_SYSTEM_200_002", "hash": "BBD779C57525B250", "target": "Além disso, o vendedor Sylph agora oferece uma seleção maior de mercadorias." }
   ]
 }

@@ -2,7 +2,7 @@
   "conversation": "quest/026/StmBdz102_02652",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "O wounded Resistance fighter está com muita coisa na cabeça." },
+    { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_SEQ_00", "hash": "462E1B16188C7862", "target": "O combatente da Resistência ferido está com muita coisa na cabeça." },
     { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_TODO_00", "hash": "46D924CCBD2B21D2", "target": "Entregar a bandana manchada de sangue à mãe do combatente da Resistência em Ala Gannha" },
     { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_000", "hash": "E5B51968E454C00A", "target": "Queria pedir uma coisa a você, <if(gnum4,moça,rapaz)>." },
     { "gameKey": "quest/026/StmBdz102_02652#TEXT_STMBDZ102_02652_INJURED02652_000_001", "hash": "2D5F365D12455270", "target": "Entrei para a Resistência contra a vontade da minha mãe. Ela me espera na minha cidade natal." },

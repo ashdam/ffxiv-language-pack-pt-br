@@ -2,8 +2,8 @@
   "conversation": "quest/042/AktKzf013_04268",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_SEQ_00", "hash": "23C80861A5628827", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O hanuman langur acena para você com intenções incertas." },
-    { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_TODO_00", "hash": "5FFC83822B3F66E2", "target": "Falar com o strange hanuman langur e segui-lo" },
+    { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_SEQ_00", "hash": "23C80861A5628827", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O langur hanuman acena para você com intenções incertas." },
+    { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_TODO_00", "hash": "5FFC83822B3F66E2", "target": "Falar com o langur hanuman estranho e segui-lo" },
     { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_TODO_01", "hash": "167198088F640C13", "target": "Ajudar a Auri woman" },
     { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_TODO_02", "hash": "55047EC1906167EF", "target": "Falar com a Auri woman" },
     { "gameKey": "quest/042/AktKzf013_04268#TEXT_AKTKZF013_04268_HANUMAN04268_000_000", "hash": "29F1AEC087DE6230", "target": "\\<guincho> \\<guincho> Hiii!" },

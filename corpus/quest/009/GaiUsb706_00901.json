@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_00", "hash": "5599CDCC86CFD57E", "target": "Nem todos os cavaleiros são indiferentes às dificuldades do povo, e Sor Yaelle, uma dessas guerreiras com os pés no chão, quer falar com você." },
-    { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_01", "hash": "5D45219A387D77AD", "target": "Sor Yaelle, de olhar frio e ponderado, parece ter a confiança do povo. A pedido deles, ela encarrega você de matar um muttonmaw ogre. A isca é seu próprio karakul, Sebastian. Mas, antes, ele precisa ser capturado com uma corda de erva-espinheira." },
+    { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_01", "hash": "5D45219A387D77AD", "target": "Sor Yaelle, de olhar frio e ponderado, parece ter a confiança do povo. A pedido deles, ela encarrega você de matar um ogro boca-de-carneiro. A isca é seu próprio karakul, Sebastian. Mas, antes, ele precisa ser capturado com uma corda de erva-espinheira." },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_02", "hash": "6C97E1DDABFE2502", "target": "Leve o karakul amarrado ao Ponto da Providência e o deixe no local da isca." },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_03", "hash": "64888A9FD50CAFA6", "target": "Com a isca posicionada, só falta a armadilha ser acionada. Esconda-se e espere a presa desavisada. Prepare-se para atacar assim que o ogro aparecer, ou Sebastian pagará o preço." },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_04", "hash": "2A14710A7856BD63", "target": "O ogro está morto, e o pobre karakul está a salvo, embora tremendo e de olhos arregalados. Desamarre-o para que possa voltar à sua dona." },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_SEQ_06", "hash": "759AC227A24232E4", "target": "Por incrível que pareça, Sebastian chegou a Sor Yaelle antes de você, pois ela informa que acabou de escovar o bravo karakul. O ogro não devorará mais o rebanho do povo, e Sor Yaelle está muito satisfeita." },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_00", "hash": "79A911BB62735BC6", "target": "Capturar Sebastian com a corda de erva-espinheira" },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_01", "hash": "B966F6445932CF3F", "target": "Amarrar Sebastian no local da isca" },
-    { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_02", "hash": "8665A17AC27E6870", "target": "Ficar à espreita e matar o muttonmaw ogre" },
+    { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_02", "hash": "8665A17AC27E6870", "target": "Ficar à espreita e matar o ogro boca-de-carneiro" },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_03", "hash": "DB89B813ECE36A86", "target": "Soltar Sebastian" },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_TODO_04", "hash": "68DE197257C86A01", "target": "Apresentar-se a Yaelle" },
     { "gameKey": "quest/009/GaiUsb706_00901#TEXT_GAIUSB706_00901_YAELLE_000_000", "hash": "4B62607BF0866E75", "target": "<if(gnum4,Aventureira,Aventureiro)>, ouvi dizer que você gosta de uma boa caçada! O povo me conta que perdeu muitos de seus animais para um ogro. Seus pedidos não deram em nada, então vieram a mim, e eu, por minha vez, venho a você." },

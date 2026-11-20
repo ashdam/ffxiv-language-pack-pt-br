@@ -2,9 +2,9 @@
   "conversation": "quest/042/AktKzg020_04295",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_SEQ_00", "hash": "93D3EBFD82F6A51E", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O mount researcher precisa de ajuda para testar as capacidades do gryps." },
-    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_TODO_00", "hash": "C0387A23104B2F70", "target": "Falar com o mount researcher" },
-    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_TODO_01", "hash": "F5118417AC0FE419", "target": "Falar com o mount researcher de novo" },
+    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_SEQ_00", "hash": "93D3EBFD82F6A51E", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O pesquisador de montarias precisa de ajuda para testar as capacidades do gryps." },
+    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_TODO_00", "hash": "C0387A23104B2F70", "target": "Falar com o pesquisador de montarias" },
+    { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_TODO_01", "hash": "F5118417AC0FE419", "target": "Falar com o pesquisador de montarias de novo" },
     { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_MOUNTOVSERVER04295_000_000", "hash": "001F146A9669206E", "target": "De... De onde você veio!? Afaste-se, depressa!" },
     { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_MOUNTOVSERVER04295_000_001", "hash": "407C152E43BDAF68", "target": "...Que estranho. Normalmente, esse gryps preferiria ferir você a sequer olhar. Por acaso seu criador lhe deu um talento especial para acalmar feras selvagens?" },
     { "gameKey": "quest/042/AktKzg020_04295#TEXT_AKTKZG020_04295_MOUNTOVSERVER04295_000_002", "hash": "1DE735725E300E24", "target": "Muito curioso... Acho que isso pede mais experiências. Será que você aceitaria tentar um voo nas costas dele?" },

@@ -2,9 +2,9 @@
   "conversation": "quest/050/KinGzd002_05091",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SEQ_00", "hash": "D05A9FFE7B4C104A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A hopeful swimmer procura alguém com um fôlego lendário." },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SEQ_00", "hash": "D05A9FFE7B4C104A", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A nadadora esperançosa procura alguém com um fôlego lendário." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_00", "hash": "379B0BB18ACD405A", "target": "Procurar a bolsa de moedas encharcada em Xd'aa Talat Tsoly" },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Entregar a bolsa de moedas encharcada à hopeful swimmer" },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Entregar a bolsa de moedas encharcada à nadadora esperançosa" },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_000", "hash": "FC401F1A33A3ECD5", "target": "Ah, oi. Também veio dar um mergulho? Se você nada tão bem quanto parece, queria sua ajuda com uma coisa." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_001", "hash": "25A7CDB0D315E7C1", "target": "Isto aqui é um tsoly, ou cenote, como são mais conhecidos. Ele é muito mais vasto do que parece na superfície. Até ouvi dizer que alguns são ligados por túneis submersos." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_002", "hash": "29F767A658B90832", "target": "Este se chama Xd'aa Talat Tsoly, e as histórias dizem que, há muito tempo, um nadador com fôlego de peixe chegou até um cenote a noroeste. Mas, desde então, ninguém conseguiu nadar tão longe..." },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SEQ_00", "hash": "1D72991EE167C631", "target": "O Hume grosseirão acha que você pode ser a pessoa certa para um trabalho duvidoso." },
-    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_00", "hash": "079B70A755A8A51C", "target": "Falar com Halldor em Temenos Rookery" },
+    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_00", "hash": "079B70A755A8A51C", "target": "Falar com Halldor no Ninhal de Temenos" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_TODO_01", "hash": "787824B9F6FA44E1", "target": "Falar com Xylle" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_STRONGHUME03597_100_001", "hash": "292B74738216F12F", "target": "Opa! Você é <if(gnum4,aquela,aquele)>... hum... aquela pessoa... É você <if(gnum4,mesma,mesmo)>, não é!?" },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_STRONGHUME03597_200_001", "hash": "F92AD90CD77C00FE", "target": "Halldor andou perguntando por você. Conhece Halldor, né? O sujeito do Clã Nutsy? Se quer caçar os alvos mais mortais pelas maiores recompensas, é melhor procurar ele." },
@@ -23,7 +23,7 @@
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_XYLLE_000_053", "hash": "DFC86013EC38B018", "target": "Consulte o quadro para ver os contratos mais recentes. Quanto mais difícil o alvo, melhor a recompensa. Cace o que quiser, ou não cace nada." },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_XYLLE_000_054", "hash": "7CCC2D0B6E96049E", "target": "Mas só poderá aceitar caçadas consideradas adequadas a um membro de sua posição atual: iniciante. O clã não tem interesse em deixar caçadores inexperientes se suicidarem nas garras de um alvo." },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_XYLLE_000_055", "hash": "535CA186702B9D20", "target": "Quando tiver obtido sucesso suficiente, terá permissão para perseguir monstros mais perigosos. Tente não morrer antes disso." },
-    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SYSTEM_000_056", "hash": "36FBC0C2CFD36153", "target": "Como novo membro do Clã Nutsy, você pode retirar contratos de alvos do Clã de uma noz no Clan Hunt board." },
+    { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SYSTEM_000_056", "hash": "36FBC0C2CFD36153", "target": "Como novo membro do Clã Nutsy, você pode retirar contratos de alvos do Clã de uma noz no quadro de caçadas do Clã." },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SYSTEM_000_057", "hash": "6E96129DF012ADBA", "target": "Derrote os monstros descritos nos contratos para receber fichas que podem ser trocadas por itens exclusivos." },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SYSTEM_000_058", "hash": "817AC99629682680", "target": "Para trocar fichas por itens exclusivos, fale com Xylle em Crystarium ou com Ilfroy em Eulmore." },
     { "gameKey": "quest/035/LucKyb001_03597#TEXT_LUCKYB001_03597_SYSTEM_000_059", "hash": "A4C24DFFD28E909B", "target": "Ao atingir o nível 73, novas missões e contratos de alvos do Clã de duas nozes ficarão disponíveis com Halldor em Crystarium." },

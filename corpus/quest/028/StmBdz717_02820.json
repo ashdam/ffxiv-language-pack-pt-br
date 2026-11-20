@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_SEQ_00", "hash": "F4CE658907597F1E", "target": "M'linhbo está entre a cruz e a espada." },
-    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Matar highland dharas e derrotar o gold dust dhara quando aparecer" },
+    { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_00", "hash": "14CB9ADBDBF3BBD7", "target": "Matar dharas das terras altas e derrotar o dhara de pó de ouro quando aparecer" },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_TODO_01", "hash": "C65470A4C15150B1", "target": "Informar M'linhbo" },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_001", "hash": "DE7A9FD56C62DEB5", "target": "Ora, veja só! Você é <if(gnum4,a aventureira,o aventureiro)> de Castellum Velodyna, não é? Deu um belo espetáculo lá embaixo. Sei que deve ouvir isso o tempo todo, mas alguém com o seu talento seria uma grande ajuda agora." },
     { "gameKey": "quest/028/StmBdz717_02820#TEXT_STMBDZ717_02820_MLINHBO_000_002", "hash": "0AC7B6DB4A831282", "target": "Dharas andam aparecendo ao sul daqui e estão dando bastante trabalho pra gente." },

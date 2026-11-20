@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_SEQ_00", "hash": "EAEB46CA865829E9", "target": "A expedição moogle encontrou um problema inesperado." },
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_SEQ_01", "hash": "5E2463F43D91ADBE", "target": "Monstros de origem desconhecida saíram dos ovos espalhados pelas ruínas de Tharl Oom Khash. Abata-os para que os moogles possam continuar a expedição sem perturbações." },
-    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_SEQ_02", "hash": "BDD548B81AD10A9B", "target": "Os corpos das criaturas agora jazem entre as ruínas. Apresente-se ao glimpsing moogle." },
+    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_SEQ_02", "hash": "BDD548B81AD10A9B", "target": "Os corpos das criaturas agora jazem entre as ruínas. Apresente-se ao moogle espiador." },
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_SEQ_03", "hash": "F988A1771EC69606", "target": "O moogle agradece sua bravura, animado por poder retomar a expedição." },
-    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_TODO_00", "hash": "9516F63D7C136D1A", "target": "Abater burrowing wamouracampae" },
-    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_TODO_01", "hash": "4A90F57AA47B4B6D", "target": "Apresentar-se ao glimpsing moogle" },
+    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_TODO_00", "hash": "9516F63D7C136D1A", "target": "Abater wamouracampas escavadoras" },
+    { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_TODO_01", "hash": "4A90F57AA47B4B6D", "target": "Apresentar-se ao moogle espiador" },
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_GUIDEMOG01855_000_000", "hash": "0ADA8154B1C36A17", "target": "Estamos todos aqui para explorar um pouco, kupo!" },
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_FIELDTRIPMOGA01856_000_001", "hash": "90550399D4B2BBED", "target": "Hmm... Que interessante! Em breve vou compartilhar minhas descobertas com os outros, kupo." },
     { "gameKey": "quest/018/HeaVnz522_01857#TEXT_HEAVNZ522_01857_FIELDTRIPMOGB01857_000_010", "hash": "F2C8175E80297D0D", "target": "Enquanto explorávamos as ruínas, uns monstros repugnantes que nunca tínhamos visto saíram dos ovos espalhados pela área. Foram vistos em três locais diferentes das ruínas. Elimine-os para que a expedição possa continuar, kupo." },

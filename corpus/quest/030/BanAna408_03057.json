@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_SEQ_00", "hash": "A16A42FB4CC9BF4D", "target": "Eshana parece mais assustada do que de costume.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode avançar usando a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "Examinar os locais indicados, subjugar impure bhoots e purificá-los com água salgada consagrada" },
+    { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_00", "hash": "8B9AFBDD40267F3D", "target": "Examinar os locais indicados, subjugar bhoots impuros e purificá-los com água salgada consagrada" },
     { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_TODO_01", "hash": "36865FB76CC0F0B1", "target": "Falar com Eshana" },
     { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_000", "hash": "F6BE74BBD38A676C", "target": "<split(<string(gstr1)>, ,1)>, você não podia ter chegado em melhor hora! Precisamos de alguém com coragem, que encare firme até um horror sem rosto! Sss..." },
     { "gameKey": "quest/030/BanAna408_03057#TEXT_BANANA408_03057_ESHANA_000_001", "hash": "8823493BA09867DF", "target": "Recebemos relatos de bhoots, <split(<string(gstr1)>, ,1)>. Minhas irmãs de Vira Nilya nos encarregaram de exorcizar esses espectros esfarrapados. Sss..." },

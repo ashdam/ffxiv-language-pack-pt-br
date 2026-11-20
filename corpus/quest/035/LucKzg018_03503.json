@@ -4,10 +4,10 @@
   "entries": [
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_SEQ_00", "hash": "276E5999197669DC", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O catador astuto está preocupado com a segurança dos amigos." },
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_00", "hash": "19CCFDAFF05E4EC6", "target": "Procurar os scavengers" },
-    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_01", "hash": "D4C8D8FD112B728C", "target": "Socorrer o seasoned scavenger" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_01", "hash": "D4C8D8FD112B728C", "target": "Socorrer o sucateiro experiente" },
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_02", "hash": "E34DE696EDD353ED", "target": "Procurar o outro scavenger" },
-    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_03", "hash": "5DB11B545E45C52E", "target": "Socorrer o fledgling scavenger" },
-    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_04", "hash": "6B475E378A424C49", "target": "Falar com o seasoned scavenger" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_03", "hash": "5DB11B545E45C52E", "target": "Socorrer o catador iniciante" },
+    { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_TODO_04", "hash": "6B475E378A424C49", "target": "Falar com o sucateiro experiente" },
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_000", "hash": "4EBB88E521408D51", "target": "Ah, meus pobres amigos! Largados para serem devorados por feras horríveis! Me sinto péssimo por ter fugido, mas que escolha eu tinha? Não adiantava morrermos todos, não é?" },
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_001", "hash": "1F8B38E95472108D", "target": "Achar alguém para ir buscar os corpos, quero dizer, resgatá-los me livraria da culpa, não é? Se puder ir às ruínas de Kelk procurar dois catadores Mord, ficarei muito grato!" },
     { "gameKey": "quest/035/LucKzg018_03503#TEXT_LUCKZG018_03503_MORDSCAVENGER03503_000_010", "hash": "AD954A8B206295EF", "target": "Se aconteceu alguma coisa com meus amigos, nunca vão me deixar esquecer!" },

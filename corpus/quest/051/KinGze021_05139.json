@@ -2,10 +2,10 @@
   "conversation": "quest/051/KinGze021_05139",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_SEQ_00", "hash": "A9650901B05D0CF8", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A stern Hhetsarro tem algo pontudo e comovente para você entregar." },
-    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_00", "hash": "CEB4769757E1A599", "target": "Entregar o chifre polido à spirited Hhetsarro" },
+    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_SEQ_00", "hash": "A9650901B05D0CF8", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A Hhetsarro severa tem algo pontudo e comovente para você entregar." },
+    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_00", "hash": "CEB4769757E1A599", "target": "Entregar o chifre polido à Hhetsarro animada" },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_01", "hash": "F340E9CB9706037E", "target": "Obter os vegetais frescos" },
-    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_02", "hash": "FF011252DB0AE42F", "target": "Entregar os vegetais frescos à stern Hhetsarro" },
+    { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_TODO_02", "hash": "FF011252DB0AE42F", "target": "Entregar os vegetais frescos à Hhetsarro severa" },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_000", "hash": "4738369AAC1D6DC1", "target": "Saudações, viajante. Se vai para Hhusatahwi, tenho um favor para pedir." },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_001", "hash": "39E1C296DA386C03", "target": "Poderia entregar este chifre polido à minha irmã?" },
     { "gameKey": "quest/051/KinGze021_05139#TEXT_KINGZE021_05139_STRICT05139_000_002", "hash": "B60E9E91B5A2C158", "target": "Vai encontrá-la cuidando da plantação na saída da cidade. Não deve ser difícil reconhecê-la: temos o cabelo da mesma cor." },

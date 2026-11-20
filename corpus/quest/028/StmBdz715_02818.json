@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_SEQ_00", "hash": "21F4D3A7F57E3614", "target": "Jayanti parece receosa com a próxima saída." },
-    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usar a cerveja sem gás no local indicado e matar Gyr Abanian mud slugs" },
+    { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_00", "hash": "46F9E73408327092", "target": "Usar a cerveja sem gás no local indicado e matar lesmas de lama de Gyr Abania" },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_TODO_01", "hash": "14BDA910BCBE8D16", "target": "Informar Jayanti" },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_000", "hash": "FBF9046A852C5350", "target": "Ah, <if(gnum4,aventureira,aventureiro)>. Estávamos nos preparando para sair à caça. É um dever do qual nos orgulhamos muito, mas receio que o risco para minhas irmãs tenha aumentado nos últimos dias. Sss..." },
     { "gameKey": "quest/028/StmBdz715_02818#TEXT_STMBDZ715_02818_JAYANTI_000_001", "hash": "3DBE993AE17B117B", "target": "Nossa maior arma é a flecha envenenada. Todos os animais sucumbem depressa aos seus efeitos. Todos, menos um: a Gyr Abanian mud slug. A quantidade delas aumentou ultimamente, o que dificulta ainda mais a caça. Sss..." },

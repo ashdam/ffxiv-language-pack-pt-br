@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_SEQ_00", "hash": "C11389ACE14E64DE", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Esta lionhearted hunter quer ver do que <if(gnum4,uma aliada,um aliado)> de Ronka é capaz." },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_00", "hash": "0666F902CF7DAC2E", "target": "Falar com a lionhearted hunter" },
-    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_01", "hash": "247A318689DE37A2", "target": "Matar as foraging does" },
+    { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_01", "hash": "247A318689DE37A2", "target": "Matar as cervas em busca de alimento" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_02", "hash": "230C3AA571C29BBF", "target": "Falar com a lionhearted hunter" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_03", "hash": "A024821176C7E395", "target": "Vasculhar Wild Fete" },
     { "gameKey": "quest/034/LucKzf005_03464#TEXT_LUCKZF005_03464_TODO_04", "hash": "FD3D81B6E83FE1CB", "target": "Falar com a lionhearted hunter" },

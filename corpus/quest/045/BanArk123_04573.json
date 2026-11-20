@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_SEQ_00", "hash": "6EC2B44028FD3997", "target": "Maru espera por você com um olhar avaliador.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só pode prosseguir com a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_00", "hash": "C92957F0789A9C88", "target": "Obter sticky moss em Font of Maya" },
+    { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_00", "hash": "C92957F0789A9C88", "target": "Obter tufos de musgo pegajoso na Fonte de Maya" },
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_TODO_01", "hash": "48547D3E9E96F238", "target": "Entregar baskets of sticky moss a Maru" },
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_000", "hash": "0976CEA641911054", "target": "Estava procurando você, <split(<string(gstr1)>, ,1)>. Preciso de alguém que nade bem, e você parece capaz de acompanhar um hipopótamo na água." },
     { "gameKey": "quest/045/BanArk123_04573#TEXT_BANARK123_04573_MARU_000_001", "hash": "D69126049D4871EE", "target": "Um amigo meu acabou de voltar de Yedlihmad, trazendo um pedido da própria Kancana..." },

@@ -20,7 +20,7 @@
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_020", "hash": "BA2BF37DB5D887D8", "target": "Os de aço saíram da floresta? Este aqui nem sabe como agradecer!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_021", "hash": "AA96509AE1F94653", "target": "O de aço trouxe um gigante espinhoso? Este aqui perdeu muitos amigos para aqueles. Este aqui tem medo." },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_022", "hash": "86A3F51F6C14FE71", "target": "Este aqui tem sorte de ter <if(gnum4,uma amiga forte,um amigo forte)> como o que anda. Que prometa a este aqui que o que tem força vai ficar e proteger estes aqui." },
-    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE", "hash": "176A49648B373785", "target": "O soldado imperial chamou um magitek vanguard!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE", "hash": "176A49648B373785", "target": "O soldado imperial chamou uma vanguarda magitek!" },
     { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE_000_000", "hash": "9F6C90C50B69FA2C", "target": "O inimigo ainda está por perto!" }
   ]
 }

@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02", "hash": "D29A2A57780A9627", "target": "Ei, aonde diabos você pensa que vai!? Eu mandei você vir aqui!" },
-    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "Pare aí, <if(gnum4,aventureira,aventureiro)>. Se está procurando Baderon e Drowning Wench, é melhor falar com Grehfarr." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "Pare aí, <if(gnum4,aventureira,aventureiro)>. Se está procurando Baderon e a Moça Afogada, é melhor falar com Grehfarr." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "Já foi longe demais, <if(gnum4,moça,rapaz)>. Se quer se aventurar em Limsa Lominsa, e sobreviver ao primeiro dia, recomendo que vá a Wench e fale primeiro com Baderon." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07", "hash": "031C152B34D88CF9", "target": "Já se inscreveu na Guilda dos Aventureiros? Imaginei que não. Dê meia-volta e vá até o Elevador do Corvo. Baderon vai querer falar com você." },
     { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09", "hash": "CD2DE8147D121910", "target": "Não quero ser grosseira, <if(gnum4,moça,moço)>, mas reconheço quem está começando a se aventurar. Pode acreditar, é melhor conversar com o pessoal daqui antes de sair pela cidade feito cria de fazendeiro deslumbrada." },

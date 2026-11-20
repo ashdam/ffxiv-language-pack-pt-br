@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_SEQ_00", "hash": "2302F9900EB5765E", "target": "Zukin é o retrato do pânico.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você só poderá avançar com a mesma classe ou job com que aceitou esta missão." },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "Resgatar o hot-headed Kojin em Isle of Zekki" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_00", "hash": "CB5DE2F8082B17DB", "target": "Resgatar o Kojin esquentado na Ilha de Zekki" },
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_TODO_01", "hash": "FE7F9F9542596E0E", "target": "Relatar o ocorrido a Zukin" },
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_000", "hash": "F2813DA8ED9F4500", "target": "<split(<string(gstr1)>, ,1)>, temos um problema! Um bando de Vermelhos roubou mercadorias que seriam entregues a Kokajiya... e isso nem é o pior." },
-    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "Para recuperar os objetos roubados, um dos nossos irmãos esquentados partiu para Isle of Zekki, mas está demorando a voltar. Temo por sua vida. Por favor, encontre-o e traga-o de volta em segurança!" },
+    { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_ZUKIN_000_001", "hash": "1A0F4D2FFB509491", "target": "Para recuperar os objetos roubados, um dos nossos irmãos esquentados partiu para a Ilha de Zekki, mas está demorando a voltar. Temo por sua vida. Por favor, encontre-o e traga-o de volta em segurança!" },
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_010", "hash": "1B5C689A8B2679CE", "target": "<if(gnum4,Outra intrusa,Outro intruso)>!" },
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_011", "hash": "FC30DB16A426F6F3", "target": "Você vai pagar por essa invasão!" },
     { "gameKey": "quest/030/BanKjn605_03001#TEXT_BANKJN605_03001_BALLOON_000_012", "hash": "257A0C6D1D34442F", "target": "Que os kami levem você!" },

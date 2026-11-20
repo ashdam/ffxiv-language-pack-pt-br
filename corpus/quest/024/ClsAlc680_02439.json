@@ -2,8 +2,8 @@
   "conversation": "quest/024/ClsAlc680_02439",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_00", "hash": "AA13F077CEE7E5DB", "target": "Greinfarr espera você com notícias em Erralig's Burial Chamber." },
-    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_01", "hash": "616A43404E9BAB67", "target": "Greinfarr lamenta os erros do passado. Para repará-los, decide encontrar Heartstrike e começar perguntando aos comerciantes de Ul'dah tudo o que puder. Vá até Erralig's Burial Chamber e fale com Greinfarr sobre o plano." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_00", "hash": "AA13F077CEE7E5DB", "target": "Greinfarr espera você com notícias na Câmara Funerária de Erralig." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_01", "hash": "616A43404E9BAB67", "target": "Greinfarr lamenta os erros do passado. Para repará-los, decide encontrar Heartstrike e começar perguntando aos comerciantes de Ul'dah tudo o que puder. Vá até a Câmara Funerária de Erralig e fale com Greinfarr sobre o plano." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_02", "hash": "271DD13DC672F046", "target": "Após conversar com Greinfarr, vocês decidem quais lojas cada um visitará. Sua parte é procurar Marcel em Eshtaime's Aesthetics." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_03", "hash": "B906BCC6CA4E1BF3", "target": "Marcel informa que vendeu Heartstrike a um comerciante chamado Ansobert. Durante a conversa, você recebe notícias de F'lhaminn. Parece que algo aconteceu a Greinfarr. Fale com F'lhaminn em Frondale's Phrontistery." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_04", "hash": "6AEEF4A925299D0B", "target": "Greinfarr foi atacado por um agressor desconhecido, que escapou, embora com um ferimento na mão. Após consultar Popokkuli sobre a melhor forma de analisar o sangue deixado no local, ele aconselha que você fale com Severian em Alchemists' Guild." },

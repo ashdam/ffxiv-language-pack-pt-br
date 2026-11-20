@@ -3,10 +3,10 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_SEQ_00", "hash": "30332CEF3F96A091", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>Pegshs Ooan teme que haja um intruso por perto..." },
-    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_00", "hash": "32483CD2D742FA7A", "target": "Falar com o veteran gateguard" },
+    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_00", "hash": "32483CD2D742FA7A", "target": "Falar com o guarda do portão veterano" },
     { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_01", "hash": "EC3D6379BFFBD42A", "target": "Falar com o Ondo elder" },
-    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_02", "hash": "FE13821E92348E8D", "target": "Falar com o youthful gateguard" },
-    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_03", "hash": "406C7533F783278F", "target": "Falar com o shifty-eyed Ondo" },
+    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_02", "hash": "FE13821E92348E8D", "target": "Falar com o jovem guarda do portão" },
+    { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_03", "hash": "406C7533F783278F", "target": "Falar com o Ondo de olhar furtivo" },
     { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_TODO_04", "hash": "1634B30301D67B30", "target": "Falar com Pegshs Ooan" },
     { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_PEGSHSOOAN_000_000", "hash": "8CDA84D27190C0DE", "target": "Diga, sem-nadadeiras: viu algum Ondo de olhar fugidio rondando por aqui?" },
     { "gameKey": "quest/035/LucKzj020_03583#TEXT_LUCKZJ020_03583_PEGSHSOOAN_000_001", "hash": "C77229D4A6E067C6", "target": "Eu vi, assim como outros. Cups abriga uma comunidade pequena, e essstranhos não passam despercebidos. Só posso supor que um daqueles forasteiros sem lei esteja tentando se passar por um de nós..." },

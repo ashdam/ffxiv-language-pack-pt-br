@@ -87,6 +87,6 @@
     { "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_CHORAZOI_000_086", "hash": "A69D4B45CFD5A6B7", "target": "Quinnana vai dividir a banca conosco e tem várias outras ferramentas à venda, se você precisar!" },
     { "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_CHORAZOI_000_087", "hash": "DD112B364A387962", "target": "Mal posso acreditar que isso está mesmo acontecendo... Eu, aprendendo com <if(gnum4,a Guerreira das Trevas,o Guerreiro das Trevas)> <italic(1)>e<italic(0)> o Mestre Grenoldt!" },
     { "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_SYSTEM_000_088", "hash": "F4BA2A2881F7BC62", "target": "O splendorous coffer fornecerá uma ferramenta principal de acordo com sua classe no momento em que for aberto." },
-    { "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_SYSTEM_000_089", "hash": "F9DDFB4477D5FCE9", "target": "Você pode obter ferramentas para outras classes falando com Quinnana na bancada de Grenoldt, logo na saída de Crystalline Mean." }
+    { "gameKey": "quest/047/AktKct101_04730#TEXT_AKTKCT101_04730_SYSTEM_000_089", "hash": "F9DDFB4477D5FCE9", "target": "Você pode obter ferramentas para outras classes falando com Quinnana na bancada de Grenoldt, logo na saída da Justa Medida Cristalina." }
   ]
 }

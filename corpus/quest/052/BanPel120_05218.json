@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_SEQ_00", "hash": "3564FFB6D3B698BC", "target": "Yubli tem planos para uma nova atividade turística.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você deve prosseguir com a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_00", "hash": "8C799FC9EA69ECEC", "target": "Falar com o punutiy keeper" },
-    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_01", "hash": "2A428702624C0D43", "target": "Dar o petisco de fubá à peckish punutiy" },
+    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_00", "hash": "8C799FC9EA69ECEC", "target": "Falar com o tratador de punutiys" },
+    { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_01", "hash": "2A428702624C0D43", "target": "Dar o petisco de fubá ao punutiy com fome" },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_TODO_02", "hash": "E23F1E0EAF2FD9C6", "target": "Falar com Yubli" },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_YUBLI_000_000", "hash": "3DB0B807235C5CFB", "target": "<split(<string(gstr1)>, ,1)>. Gostaria que você, na função de <if(gnum4,nossa consultora especial,nosso consultor especial)>, experimentasse alimentar os punutiy." },
     { "gameKey": "quest/052/BanPel120_05218#TEXT_BANPEL120_05218_YUBLI_000_001", "hash": "4AEEDC08A844F525", "target": "Além de Miisul Ja, a tratadora-chefe de animais, só alguns outros funcionários realizam essa tarefa essencial..." },

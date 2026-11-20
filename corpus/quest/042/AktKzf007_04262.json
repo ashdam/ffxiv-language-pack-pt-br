@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SEQ_00", "hash": "D0C14B5552A04FB5", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O young Arkasodara encara a selva com um olhar preocupado." },
-    { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_TODO_00", "hash": "3EAB0E2E56984EB1", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, digitar uma frase que contenha “Sushena” para chamá-lo" },
+    { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_TODO_00", "hash": "3EAB0E2E56984EB1", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, digitar uma frase que contenha “Sushena” para chamá-lo" },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_TODO_01", "hash": "89ECA302DA9C2318", "target": "Investigar os sons" },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_TODO_02", "hash": "0F47CB438472B94D", "target": "Usar a pomada curativa em Sushena" },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_TODO_03", "hash": "FF9AC2879B09BD4C", "target": "Informar o Arkasodara youth" },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_YOUTH04262_000_004", "hash": "172103CDDB84A26A", "target": "Se meus piores temores se confirmarem e ele estiver ferido, use este remédio para tratar os ferimentos. Vou recompensar seus esforços, mas suspeito que você ajudaria mesmo se eu não tivesse nada a oferecer em troca." },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_YOUTH04262_000_005", "hash": "BC4E484B6FB5AF41", "target": "Marquei no seu mapa o lugar onde Sushena mora. <colortype(500)><edgecolortype(501)>Diga<edgecolortype(0)><colortype(0)> o nome dele, e espero que ele responda." },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SYSTEM_000_010", "hash": "15663E7555F3F00F", "target": "Sushena" },
-    { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SYSTEM_000_011", "hash": "D4C36A261D1630E6", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar qualquer frase que contenha a palavra “Sushena” perto da área marcada no mapa." },
+    { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SYSTEM_000_011", "hash": "D4C36A261D1630E6", "target": "No modo de conversa <colortype(500)><edgecolortype(501)>Falar<edgecolortype(0)><colortype(0)>, use o teclado ou o teclado virtual para digitar qualquer frase que contenha a palavra “Sushena” perto da área marcada no mapa." },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SYSTEM_000_012", "hash": "D55E52EAC79B6DED", "target": "Você ouve os sons fracos de um animal com dor vindos da direção dos penhascos. Investigue de onde vêm." },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_SYSTEM_000_020", "hash": "201CBA943D456E33", "target": "O yeti parece estar ferido. Talvez o remédio que você recebeu alivie seu sofrimento." },
     { "gameKey": "quest/042/AktKzf007_04262#TEXT_AKTKZF007_04262_FRIEND04262_000_030", "hash": "9D06C56A9084AF16", "target": "\\<bufada> \\<ofegante>... Uguá... \\<ofegante>... Ungue..." },

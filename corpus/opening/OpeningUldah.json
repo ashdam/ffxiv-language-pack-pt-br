@@ -3,8 +3,8 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "Não faz isso, <if(gnum4,amiga,amigo)>! Garanto que vai valer a pena!" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "Ul'dah não agradou? Por que não aproveitar a hospitalidade de Quicksand antes de decidir nos deixar?" },
-    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "Alto! Você ainda não entrou para a guilda, entrou? Imaginei que não. Vá a Quicksand, <if(gnum4,aventureira,aventureiro)>, o registro é obrigatório." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "Ul'dah não agradou? Por que não aproveitar a hospitalidade da Areia Movediça antes de decidir nos deixar?" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "Alto! Você ainda não entrou para a guilda, entrou? Imaginei que não. Vá à Areia Movediça, <if(gnum4,aventureira,aventureiro)>, o registro é obrigatório." },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "Ei, você não estava na carruagem que acabou de chegar? Todo novo aventureiro precisa se registrar na guilda antes de sair andando pela cidade." },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "Boas-vindas a Ul'dah, o reluzente farol da prosperidade que se ergue nos desertos de Thanalan." },
     { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "Siga as instruções para mover seu personagem e ajustar a posição da câmera." },

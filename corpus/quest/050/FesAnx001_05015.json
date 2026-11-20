@@ -13,7 +13,7 @@
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_TODO_01", "hash": "B3BB17D6B3F274D0", "target": "Falar com Ayoyo na praça da eterita" },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_TODO_02", "hash": "3A3D8B3F4204B4F3", "target": "Reunir informações em Hawker's Alley" },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_TODO_03", "hash": "6D796BD680E83F4D", "target": "Encontrar Ayoyo no cais das balsas" },
-    { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_TODO_04", "hash": "E436FF6BFCE1C65F", "target": "Falar com o wandering minstrel em Aftcastle" },
+    { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_TODO_04", "hash": "E436FF6BFCE1C65F", "target": "Falar com o menestrel errante em Aftcastle" },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_WANDERINGMINSTREL_000_001", "hash": "D6EB5F435D6D4F6A", "target": "Que coincidência! Você mal vai acreditar, mas eu estava justamente recordando a ocasião em que me emprestou sua força, um ano atrás." },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_WANDERINGMINSTREL_000_002", "hash": "43EAF1CAC5364A64", "target": "Veja só, mais uma vez preciso com urgência de ajuda de quem vive de aventuras, como no último Renascimento. “Ah, se <split(<string(gstr1)>, ,1)> estivesse aqui”, pensei... e aqui está você! Pois bem, o que me diz? Vamos unir forças mais uma vez?" },
     { "gameKey": "quest/050/FesAnx001_05015#TEXT_FESANX001_05015_WANDERINGMINSTREL_000_003", "hash": "69F22BB993EB726C", "target": "Saudações, <if(gnum4,amiga,amigo)>. Sua postura destemida me faz supor que você vive de aventuras, e chega justo quando preciso de ajuda de alguém assim. Posso contar com você?" },

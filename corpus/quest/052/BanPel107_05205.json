@@ -3,11 +3,11 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_SEQ_00", "hash": "1C484427C8D4FCCA", "target": "Yubli quer que você ajude um dos guias em treinamento a praticar um pouco.<br><br>※A dificuldade desta missão foi ajustada ao seu nível atual. Além disso, você deve prosseguir com a mesma classe ou job com que aceitou a missão." },
-    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_TODO_00", "hash": "CA9E9BE2D96D7B39", "target": "Falar com o guide-in-training" },
+    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_TODO_00", "hash": "CA9E9BE2D96D7B39", "target": "Falar com o guia em treinamento" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_TODO_01", "hash": "FD0D7C74A2D2F7B5", "target": "Falar com Yubli" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_000", "hash": "141833E4F513CCB6", "target": "Um dos nossos guias recém-contratados quer ensaiar antes de assumir suas funções para valer." },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_001", "hash": "D5BD08552C44F34E", "target": "Em conhecimento da região, não poderíamos pedir um guia melhor. Infelizmente, ele tem dificuldade para falar em público... Talvez você possa dar alguns conselhos e um pouco de incentivo?" },
-    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_002", "hash": "7E513E567602BFB8", "target": "Nosso guide-in-training quer praticar mais um pouco. Posso contar com sua ajuda de novo?" },
+    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_002", "hash": "7E513E567602BFB8", "target": "Nosso guia em treinamento quer praticar mais um pouco. Posso contar com sua ajuda de novo?" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_010", "hash": "89E3F74C6EB187BA", "target": "V-você é <if(gnum4,a consultora especial,o consultor especial)> da agência! Yubli mandou você me ajudar a praticar? D-desculpe se eu estiver um pouco nervoso..." },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_011", "hash": "96CF17C3E1157076", "target": "O-olá, <if(gnum4,Consultora Especial,Consultor Especial)>! Obrigado por ajudar de novo. Vou dar o meu melhor!" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_012", "hash": "B29AEB56ECB7A9A7", "target": "A-ahem. Vamos ver. Ah, sim, este curso d'água bem à nossa frente... É um afluente do Miyakabek'zu." },
@@ -38,7 +38,7 @@
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_054", "hash": "13E968EE726AEC46", "target": "Obrigado pela atenção. Espero que você tenha aprendido bastante sobre Ok'hanu!" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_055", "hash": "9816EC2E065A9D80", "target": "Tropecei nas palavras aqui e ali, mas sei que posso conseguir se continuar praticando! Obrigado pela ajuda!" },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_GUIDETRAINING05205_000_056", "hash": "948D6A4147DB8143", "target": "Sei que posso ser um excelente guia, só preciso ganhar confiança. Obrigado de novo por todos os conselhos!" },
-    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_060", "hash": "63C1D5E8C5767628", "target": "Parece que nosso guide-in-training aproveitou o ensaio. Com um pouco mais de prática, logo estará pronto para seu primeiro cliente." },
+    { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_060", "hash": "63C1D5E8C5767628", "target": "Parece que nosso guia em treinamento aproveitou o ensaio. Com um pouco mais de prática, logo estará pronto para seu primeiro cliente." },
     { "gameKey": "quest/052/BanPel107_05205#TEXT_BANPEL107_05205_YUBLI_000_061", "hash": "7DCBCE2D00EE24A1", "target": "Obrigado. Talvez possa dar mais alguns conselhos da próxima vez que tiver um tempinho livre!" }
   ]
 }

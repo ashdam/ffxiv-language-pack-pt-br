@@ -3,11 +3,11 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_00", "hash": "1FBBC80C806CE709", "target": "Mimidoa, veterano construtor naval da Naldiq & Vymelli's, procura alguém para ir à Oschon's Torch em seu lugar." },
-    { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_01", "hash": "0FD5D504E91E59C5", "target": "Procure wild jackals nas colinas próximas e mate-os para obter suas presas. São necessárias quatro presas, e só as curvas servirão." },
+    { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_01", "hash": "0FD5D504E91E59C5", "target": "Procure chacais selvagens nas colinas próximas e mate-os para obter suas presas. São necessárias quatro presas, e só as curvas servirão." },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_02", "hash": "392BC317B2A3AC93", "target": "Entregue as quatro presas curvas de chacal a um faroleiro da Oschon's Torch chamado Rostn... alguma coisa." },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_03", "hash": "3962BF9E2DD1AE7C", "target": "Você entregou as presas de chacal a Rostnzeh. Agora volte a Mimidoa nas Moraby Drydocks e conte que teme pela sanidade do faroleiro." },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_SEQ_04", "hash": "6BA2331A8D8A52F7", "target": "Mimidoa demonstrou sincera preocupação com o estado mental de Rostnzeh e já concebeu um plano para, digamos, animá-lo." },
-    { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_TODO_00", "hash": "122B493F3AA1471D", "target": "Matar wild jackals para obter presas curvas de chacal" },
+    { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_TODO_00", "hash": "122B493F3AA1471D", "target": "Matar chacais selvagens para obter presas curvas de chacal" },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_TODO_01", "hash": "94B624E80CAD170C", "target": "Entregar as presas de chacal a Rostnzeh" },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_TODO_02", "hash": "ABBAA714D32FA6F4", "target": "Voltar a Mimidoa" },
     { "gameKey": "quest/004/SubSea114_00411#TEXT_SUBSEA114_00411_MIMIDOA_000_1", "hash": "43F8B4F8309BD793", "target": "O que disse? Mais <if(gnum4,uma iniciante,um iniciante)>, hein? Iniciante, foi o que disse? Tem chegado muita gente iniciante ultimamente. Muita gente iniciante. Que dia disse que era?" },

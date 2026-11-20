@@ -3,7 +3,7 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_SEQ_00", "hash": "6EE14BC8ECC19C92", "target": "Alphinaud deseja compartilhar sua estratégia para reunir informações." },
-    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_00", "hash": "3B5EE032BB901547", "target": "Reunir informações em Worlar's Echo" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_00", "hash": "3B5EE032BB901547", "target": "Reunir informações no Eco de Worlar" },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_01", "hash": "BB375ABBF21BA41A", "target": "Esperar no local indicado" },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_02", "hash": "69C6EF39EA5042FC", "target": "Falar com Krile" },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_03", "hash": "C2BBE24D1E7B4B9A", "target": "Falar com Erenville" },
@@ -87,7 +87,7 @@
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_212", "hash": "885322343882744E", "target": "Abençoados com tamanho e força sem igual entre os outros povos, nossos ancestrais marcharam e colocaram grande parte de Yok Tural sob seu domínio." },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_213", "hash": "D276FCBAFB7221A7", "target": "Então, quando conquistaram tudo diante deles, voltaram os olhos para o norte, buscando expandir seu território e poder." },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_214", "hash": "A8382F287B2D6A2D", "target": "Aqui vemos a expedição a Xak Tural. Incapazes de cruzar o estreito de navio, nossos antepassados começaram a construir uma ponte para as terras do norte, uma grande obra que consumiu a maior parte de um século." },
-    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_215", "hash": "1FFF5144F85BE193", "target": "Zorgor the Boundless. Ainda usamos essa ponte para viajar em Tuliyollal. Não consigo imaginar a paciência e a dedicação necessárias para terminar uma obra dessa escala." },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_215", "hash": "1FFF5144F85BE193", "target": "Zorgor, o Ilimitado. Ainda usamos essa ponte para viajar em Tuliyollal. Não consigo imaginar a paciência e a dedicação necessárias para terminar uma obra dessa escala." },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_216", "hash": "1C2DAB0226E3C09B", "target": "Mas nunca ouvi falar de Yok Huy vivendo em Xak Tural. O que aconteceu com os que foram para o norte?" },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_217", "hash": "F3C586B7E384D52D", "target": "Contemplem o próximo mural e vejam a resposta." },
     { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_218", "hash": "CFF65DA21301B597", "target": "A cena sugere que muitos gigantes morreram de uma vez. Que inimigo poderia ter repelido sua invasão?" },

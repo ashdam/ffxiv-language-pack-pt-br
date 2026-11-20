@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_SEQ_00", "hash": "858A06E23682DE85", "target": "Os olhos de Peyraquile brilham ao ver você." },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_00", "hash": "95F821B5831FEAC4", "target": "Falar com Julchiezain em frente ao balcão de Temple leves" },
-    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_01", "hash": "37175B734F320D5D", "target": "Falar com Achard em Firmament" },
+    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_01", "hash": "37175B734F320D5D", "target": "Falar com Achard no Firmamento" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_TODO_02", "hash": "4EC3048BA746871D", "target": "Entregar as sobras de madeira recuperadas a Julchiezain" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_PEYRAQUILE_000_010", "hash": "E156F6E885F671F8", "target": "Ooh! Você é <if(gnum4,a heroína,o herói)> que estava conversando com Rasequin e os outros!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_PEYRAQUILE_000_011", "hash": "9942EE60D06ED892", "target": "Nós três somos as crianças mais velhas do orfanato." },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_030", "hash": "6EF8ADBF004321BC", "target": "(-Todos-)Eba!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_031", "hash": "551BC8D6F7157B42", "target": "Dinheiro <italic(1)>e<italic(0)> carne! Rasequin e os outros vão ficar tão felizes! Vamos começar agora! Sei onde conseguir palha para fazer a corda!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_032", "hash": "F63056A8D7AD818A", "target": "Você pode dar uma mão com a lenha?" },
-    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_033", "hash": "C4C5694A9A7AF898", "target": "Em Firmament, tem um homem chamado Achard. Ele vende todo tipo de material, mas não deixa a gente pegar nada, dizendo que não é para brincar. Pode pedir umas sobras de madeira para nós?" },
+    { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_033", "hash": "C4C5694A9A7AF898", "target": "No Firmamento, tem um homem chamado Achard. Ele vende todo tipo de material, mas não deixa a gente pegar nada, dizendo que não é para brincar. Pode pedir umas sobras de madeira para nós?" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_JULCHIEZAIN_000_034", "hash": "109B70D672AEEA71", "target": "Ótimo! Depois, encontre a gente de volta no orfanato!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_ACHARD_000_040", "hash": "6E9F864E35D432DC", "target": "Espere, você não é <string(gstr1)>!? Hehe, nunca pensei em ter <if(gnum4,uma grande heroína,um grande herói)> como cliente!" },
     { "gameKey": "quest/038/LucKhz102_03840#TEXT_LUCKHZ102_03840_ACHARD_000_041", "hash": "09EE8A81C5DF9FF8", "target": "Eu recupero materiais que sobram da reconstrução e vendo baratinho para artesãos que fazem objetos do dia a dia. Está precisando de alguma coisa?" },

@@ -2,10 +2,10 @@
   "conversation": "quest/042/AktKzc008_04217",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_SEQ_00", "hash": "A0994E58CA881964", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>A commissary officer se alegra com sua disposição para ajudar mais uma vez." },
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_00", "hash": "F66404A2656C7D0C", "target": "Falar com a commissary officer" },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_SEQ_00", "hash": "A0994E58CA881964", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>A oficial de abastecimento se alegra com sua disposição para ajudar mais uma vez." },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_00", "hash": "F66404A2656C7D0C", "target": "Falar com a oficial de abastecimento" },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_01", "hash": "E0C851C9C405A4EA", "target": "Pilotar a armadura magitek até os locais indicados e destruir os drones magitek" },
-    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_02", "hash": "2A4EBC206A8A9B8C", "target": "Falar com a commissary officer" },
+    { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_TODO_02", "hash": "2A4EBC206A8A9B8C", "target": "Falar com a oficial de abastecimento" },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_JARECK_100_000", "hash": "61EA43DACE542D05", "target": "Essa caminhada não deve ter sido fácil, com os monstros, o frio e todo o resto. Não vale muito, mas você tem minha gratidão. Pelo que essa moça conta, talvez eu tenha motivo pra agradecer de novo em breve." },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_BLONDESUPPLYMEMBER04216_000_000", "hash": "9EA40601C6C2D3CB", "target": "Então resolveu ajudar uma velha amiga mais uma vez, não é? Pode ter certeza de que não vou me esquecer tão cedo de sua generosidade. Agora, ao assunto." },
     { "gameKey": "quest/042/AktKzc008_04217#TEXT_AKTKZC008_04217_BLONDESUPPLYMEMBER04216_000_001", "hash": "B774B49073251DB4", "target": "As pessoas daqui me contaram sobre as armas magitek que rondam a tundra congelada. Sem pilotos para guiá-las, elas descarregam sua fúria em quem tem o azar de cruzar seu caminho." },

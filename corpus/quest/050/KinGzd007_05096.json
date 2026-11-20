@@ -2,9 +2,9 @@
   "conversation": "quest/050/KinGzd007_05096",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SEQ_00", "hash": "06889A090C93C360", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Quest Sync<edgecolortype(0)><colortype(0)><br>O unnerved hunter parece assustado demais para se mexer." },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_SEQ_00", "hash": "06889A090C93C360", "target": "<colortype(508)><edgecolortype(509)> Quest Sync<edgecolortype(0)><colortype(0)><br>O caçador nervoso parece assustado demais para se mexer." },
     { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_00", "hash": "D2141BEF22BEBF2F", "target": "Vigiar os locais indicados e abater as feras que aparecerem" },
-    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_01", "hash": "77CA732A4FF360B1", "target": "Falar com o unnerved hunter" },
+    { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TODO_01", "hash": "77CA732A4FF360B1", "target": "Falar com o caçador nervoso" },
     { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_001", "hash": "1E084AB4764A0575", "target": "V-Você viaja com Wuk Lamat, não é? Então deve ser forte, e é de força que preciso agora!" },
     { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_002", "hash": "D4329B839EE72215", "target": "Estas ruínas costumam atrair feras, então mandamos patrulhas para conferir a situação de tempos em tempos. Mas, assim que cheguei aqui, elas me cercaram!" },
     { "gameKey": "quest/050/KinGzd007_05096#TEXT_KINGZD007_05096_TIMID05096_000_003", "hash": "70154F6CB78A5B92", "target": "Consegui me defender e fugir, mas minhas armas quebraram na luta. Não tenho como terminar a ronda agora, a menos que queira virar almoço de algum monstro..." },

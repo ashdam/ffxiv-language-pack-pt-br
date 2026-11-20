@@ -2,16 +2,16 @@
   "sheet": "CharaCardDesignCategory",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "CharaCardDesignCategory#0", "hash": "7FD5A94C4202C700", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#1", "hash": "A32C90BF0F035FE3", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#2", "hash": "DA37DE2357E6B00F", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#3", "hash": "E1FC0CB4E6F1C85B", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#4", "hash": "F403446CC0C381CE", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#5", "hash": "A12B98B442706516", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#6", "hash": "B14F9A9E1297A749", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#7", "hash": "0B5119001C8CD81B", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#8", "hash": "C55662240AA7A225", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#9", "hash": "DAC133AD5E0EEB2E", "target": "" },
-    { "gameKey": "CharaCardDesignCategory#10", "hash": "CA0775CE8D7535D9", "target": "" }
+    { "gameKey": "CharaCardDesignCategory#0", "hash": "7FD5A94C4202C700", "target": "Mostrar tudo" },
+    { "gameKey": "CharaCardDesignCategory#1", "hash": "A32C90BF0F035FE3", "target": "Padrão" },
+    { "gameKey": "CharaCardDesignCategory#2", "hash": "DA37DE2357E6B00F", "target": "Classes/Jobs" },
+    { "gameKey": "CharaCardDesignCategory#3", "hash": "E1FC0CB4E6F1C85B", "target": "Missões" },
+    { "gameKey": "CharaCardDesignCategory#4", "hash": "F403446CC0C381CE", "target": "Missões" },
+    { "gameKey": "CharaCardDesignCategory#5", "hash": "A12B98B442706516", "target": "Temporadas de PvP" },
+    { "gameKey": "CharaCardDesignCategory#6", "hash": "B14F9A9E1297A749", "target": "Mascotes" },
+    { "gameKey": "CharaCardDesignCategory#7", "hash": "0B5119001C8CD81B", "target": "Outros" },
+    { "gameKey": "CharaCardDesignCategory#8", "hash": "C55662240AA7A225", "target": "Conteúdo secundário" },
+    { "gameKey": "CharaCardDesignCategory#9", "hash": "DAC133AD5E0EEB2E", "target": "Região" },
+    { "gameKey": "CharaCardDesignCategory#10", "hash": "CA0775CE8D7535D9", "target": "Séries de PvP" }
   ]
 }

@@ -5,7 +5,7 @@
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_SEQ_00", "hash": "7B28D93F56E3A66C", "target": "Charakha encara você com admiração." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_00", "hash": "651606E613E916E6", "target": "Usar o kumis dos Oronir nos locais indicados" },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_TODO_01", "hash": "FA00F2AE0F8026A1", "target": "Falar com Charakha" },
-    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Ahá! Reconheço você! É <if(gnum4,a mulher,o homem)> que venceu Bardam's Mettle. Sua força deve ser sobre-humana." },
+    { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_000", "hash": "CE873C53DD82644D", "target": "Ahá! Reconheço você! É <if(gnum4,a mulher,o homem)> que venceu a Bravura de Bardam. Sua força deve ser sobre-humana." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_001", "hash": "9A832E74E527147B", "target": "São raros os forasteiros que conquistam o respeito dos filhos e filhas de Azim." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_002", "hash": "A5B17FA2281F3595", "target": "Precisamos celebrar sua vitória nessa prova tão árdua à maneira dos Oronir: você deve realizar um ritual sagrado." },
     { "gameKey": "quest/027/StmBdz525_02776#TEXT_STMBDZ525_02776_CHARAKHA_000_003", "hash": "453FFC4F9355545A", "target": "Não é complicado. Para completá-lo, basta visitar cinco pedras na região e borrifar um pouco de kumis nelas." },
