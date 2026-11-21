@@ -2,16 +2,16 @@
   "conversation": "custom/001/CmnDefHousingSignboard_00135",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1", "hash": "D1943C1D612CAB42", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2", "hash": "85E91CFF71FDCCF6", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED", "hash": "6B8B8752DFBC10F8", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY", "hash": "09587C4F389DB8EA", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED", "hash": "350ABA794A8B2C75", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY", "hash": "D683ED1B613F28C6", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED", "hash": "1A6CCFC15C64A58E", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2", "hash": "446A8417337461B6", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL", "hash": "0E9979F3852378B7", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE", "hash": "4FA7B018A1E69DCE", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK", "hash": "91B4759B526ED9A1", "target": "" }
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1", "hash": "D1943C1D612CAB42", "target": "Para comprar um terreno particular, você precisa ter pelo menos uma classe no nível 50." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2", "hash": "85E91CFF71FDCCF6", "target": "Além disso, você precisa ter patente de segundo-tenente ou superior em uma das Grandes Companhias." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED", "hash": "6B8B8752DFBC10F8", "target": "No momento, Shirogane está aberto apenas à visitação. A venda de terrenos começará mais adiante." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY", "hash": "09587C4F389DB8EA", "target": "Para comprar um terreno em Shirogane, conclua primeiro a missão do cenário principal “Não sem incidentes”." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED", "hash": "350ABA794A8B2C75", "target": "No momento, Empyreum está aberto apenas à visitação. A venda de terrenos começará mais adiante." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY", "hash": "D683ED1B613F28C6", "target": "Para comprar um terreno em Empyreum, conclua primeiro a missão do cenário principal “Litania da paz”." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED", "hash": "1A6CCFC15C64A58E", "target": "Você se inscreveu no sorteio do terreno <num(lnum3)>, setor <num(lnum2)>, em <sheet(PlaceName,<sheet(TerritoryType,lnum1,5)>,0)>. Seu número no sorteio é <num(lnum4)>. Os resultados estarão disponíveis a partir de <settime(lnum5)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p.m.,a.m.)> de <if([gnum77==3],<num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)>." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2", "hash": "446A8417337461B6", "target": "Consulte sua inscrição a qualquer momento na aba <colortype(500)><edgecolortype(501)>Moradia<edgecolortype(0)><colortype(0)> da janela <colortype(500)><edgecolortype(501)>Temporizadores<edgecolortype(0)><colortype(0)>, em <colortype(500)><edgecolortype(501)>Conteúdo<edgecolortype(0)><colortype(0)> no menu principal." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL", "hash": "0E9979F3852378B7", "target": "Não foi possível receber o reembolso. Você já atingiu o limite de gil que pode carregar." },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE", "hash": "4FA7B018A1E69DCE", "target": "Você se inscreveu no sorteio de outro terreno. Para consultar sua inscrição, acesse a mesma placa que usou para se inscrever.<br><br>Inscrição pendente:<br>Terreno <num(lnum3)>, setor <num(lnum2)>, <sheet(PlaceName,<sheet(TerritoryType,lnum1,5)>,0)>" },
+    { "gameKey": "custom/001/CmnDefHousingSignboard_00135#TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK", "hash": "91B4759B526ED9A1", "target": "Aceitar" }
   ]
 }

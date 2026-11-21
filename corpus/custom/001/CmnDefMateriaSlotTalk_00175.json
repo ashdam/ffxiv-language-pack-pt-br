@@ -2,9 +2,9 @@
   "conversation": "custom/001/CmnDefMateriaSlotTalk_00175",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "" }
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_000", "hash": "5B9495A716476AF2", "target": "Mistura-troca tem muita utilidade! Primeiro, pegue cinco matérias sem-uso, né? Derrete-mistura uma, mistura-derrete outra, aperta e esmaga e... olho arregalado! Cinco sem-uso renascem numa só novinha e brilhante!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_MUTAMIX_000_001", "hash": "ED40F552F5022BB9", "target": "Que matéria vai renascer? Essa resposta não passa pela caixacuca de Mutamix. Pode ser que matéria nova valha muito tilintilho, pode ser que seja mais tralha que as cinco de antes. Mistura-troca é jogo de sorte emocionante, né?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_005", "hash": "AEDE30CD7270400F", "target": "Mutamix pode transmutar matérias a qualquer momento, de graça. Entregue cinco matérias que não usa ao goblin, e ele as transformará numa matéria nova para você usar como preferir." },
+    { "gameKey": "custom/001/CmnDefMateriaSlotTalk_00175#TEXT_CMNDEFMATERIASLOTTALK_00175_SYSTEM_000_006", "hash": "B7A7D77BE678A37B", "target": "A transmutação de matérias é uma ciência inexata. Nem o próprio goblin genial sabe dizer que tipo de matéria surgirá cada vez que emprega sua técnica." }
   ]
 }

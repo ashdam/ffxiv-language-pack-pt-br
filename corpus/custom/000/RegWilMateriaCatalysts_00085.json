@@ -2,13 +2,13 @@
   "conversation": "custom/000/RegWilMateriaCatalysts_00085",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1", "hash": "CF08ADDE03D07D7F", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q", "hash": "45832DA59A1E952F", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1", "hash": "1F3B6748B0652A1D", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A3", "hash": "50793FA7B79F09C0", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_10", "hash": "FBDA0897FC809547", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_11", "hash": "4B8620C512D37F62", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_12", "hash": "5399748186DC71A6", "target": "" },
-    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_13", "hash": "EB4B2885C730D26E", "target": "" }
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_1", "hash": "CF08ADDE03D07D7F", "target": "Coletar catalisadores é minha especialidade, mas acharam um jeito de engastar matéria sem eles, e agora o troço tem tanta serventia quanto mamilo numa couraça. Se ainda quiser saber do assunto, fico feliz em contar o que sei." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000Q", "hash": "45832DA59A1E952F", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A1", "hash": "1F3B6748B0652A1D", "target": "O que é um catalisador?" },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_SCENE00000A3", "hash": "50793FA7B79F09C0", "target": "Nada." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_10", "hash": "FBDA0897FC809547", "target": "Falando de um jeito simples, catalisador é matéria escura impura. Se você não sabe o que é matéria escura, são pedaços de rocha que caíram do céu há eras. Como essa coisa se liga a tudo que toca, o pessoal costuma usar pra consertar equipamento." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_11", "hash": "4B8620C512D37F62", "target": "A matéria escura aparece na natureza, mais ou menos ligada a outras substâncias. A que já se misturou em parte com carvão é chamada de matéria carbonizada. É <italic(1)>isso<italic(0)> que a gente usa de catalisador." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_12", "hash": "5399748186DC71A6", "target": "A matéria carbonizada não serve pra conserto, mas houve um tempo em que era indispensável pra engastar matéria. Com os avanços recentes, também perdeu essa função." },
+    { "gameKey": "custom/000/RegWilMateriaCatalysts_00085#TEXT_REGWILMATERIACATALYSTS_00085_KOKOSAMU_000_13", "hash": "EB4B2885C730D26E", "target": "É, não dá pra parar a marcha do tempo. A gente tem é que acompanhar, né?" }
   ]
 }

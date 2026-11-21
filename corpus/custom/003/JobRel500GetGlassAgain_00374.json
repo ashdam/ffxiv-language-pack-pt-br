@@ -2,13 +2,13 @@
   "conversation": "custom/003/JobRel500GetGlassAgain_00374",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_000", "hash": "E84EC395A549F9D8", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_001", "hash": "96829CE276661F40", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_010", "hash": "AA7EF268E087CCB7", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_011", "hash": "91CA46CF9ADDD1EC", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_Q1_000_000", "hash": "E0F6C2E0542BFC98", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_020", "hash": "0C24707ADCCED693", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_030", "hash": "79585DB4A0D6761A", "target": "" },
-    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_031", "hash": "A9352A6B849F57E3", "target": "" }
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_000", "hash": "E84EC395A549F9D8", "target": "Outra lente anima? Eu jurava que tinha visto você usando a que lhe dei há pouco." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_001", "hash": "96829CE276661F40", "target": "Se fossem mais fáceis de fabricar, eu lhe daria outra de bom grado, mas, infelizmente, não são. Ainda assim, se realmente precisar, pode pedir uma nova." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_010", "hash": "AA7EF268E087CCB7", "target": "Perdeu sua lente anima?" },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_011", "hash": "91CA46CF9ADDD1EC", "target": "Não se preocupe. Preparei outra por precaução. Com tanta coisa em jogo, todo cuidado é pouco." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_Q1_000_000", "hash": "E0F6C2E0542BFC98", "target": "Pegar a lente anima?" },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_020", "hash": "0C24707ADCCED693", "target": "Se acontecer alguma coisa com ela, por favor, venha falar comigo. Vou providenciar outra para você." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_030", "hash": "79585DB4A0D6761A", "target": "Tem certeza? Imagino que vai ser difícil acompanhar o progresso da anima sem ela." },
+    { "gameKey": "custom/003/JobRel500GetGlassAgain_00374#TEXT_JOBREL500GETGLASSAGAIN_00374_ARDASHIR_000_031", "hash": "A9352A6B849F57E3", "target": "Bem, se mudar de ideia, me avise." }
   ]
 }

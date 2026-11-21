@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegSeaAleport_00116",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_000", "hash": "9FBE8A9F59AF20B1", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_010", "hash": "FE7FD9870098D040", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_011", "hash": "F532106B956D675F", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_012", "hash": "6DCBC9564A0ADD92", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_020", "hash": "58821F78810FC7D4", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_021", "hash": "9E89B9D03F3A05A9", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_022", "hash": "516A04E674C626E8", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_Q1_000_000", "hash": "4EDB9D209DE27807", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_001", "hash": "55D750A7099290E2", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_002", "hash": "94FD82F5F40AAFDC", "target": "" },
-    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_003", "hash": "82196E78D4B48837", "target": "" }
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_000", "hash": "9FBE8A9F59AF20B1", "target": "Você tem cara de quem vive de aventura. Tá dando uma explorada por aí?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_010", "hash": "FE7FD9870098D040", "target": "Eu? Sou só um comerciante vendendo meu grogue aqui no Porto da Cerveja." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_011", "hash": "F532106B956D675F", "target": "Com tanto navio afundado na Calamidade, achei que minha vida de comerciante tinha acabado. Mas a gente se virou e conseguiu salvar o porto da ruína." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_012", "hash": "6DCBC9564A0ADD92", "target": "Foi um tempo danado de difícil. Cheguei a pensar que ia ter que vender a velha casa da família." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_020", "hash": "58821F78810FC7D4", "target": "Porto da Cerveja? Bom, é um porto... que vende mais é cerveja." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_021", "hash": "9E89B9D03F3A05A9", "target": "A gente até vende um pouco de outras coisas. Mas como o imposto sobre o grogue no Porto da Cerveja é mais baixo, dá pra entender por que os mercadores de bebida vêm todos pra cá." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_KAIZOPORAIZO_000_022", "hash": "516A04E674C626E8", "target": "Também vem muito navio mercante encher os porões com a nossa branquinha. Água fica choca numa viagem comprida, sabe? E capitão que se preze quer uns barris da boa a bordo." },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_Q1_000_000", "hash": "4EDB9D209DE27807", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_001", "hash": "55D750A7099290E2", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_002", "hash": "94FD82F5F40AAFDC", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegSeaAleport_00116#TEXT_REGSEAALEPORT_00116_A1_000_003", "hash": "82196E78D4B48837", "target": "Nada." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegYok6WorlarsEcho_00870",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_000", "hash": "B1BE594B23D4ACE0", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_001", "hash": "85E0287F5FE7EB3F", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_002", "hash": "00B754FB3E0B887B", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_003", "hash": "8ECF5F72C31B6F1A", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_Q1_000_000", "hash": "B797BA42E37A8348", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_001", "hash": "4CF8DB04EE4432DE", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_002", "hash": "0FACAD424DBE88C6", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_003", "hash": "227BF67E0687FDF1", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_010", "hash": "D1A8EB2A414FB092", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_011", "hash": "62771EF4C96D2C89", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_012", "hash": "CCD525F5DF4174B4", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_020", "hash": "49314BC51FD131EA", "target": "" },
-    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_021", "hash": "149BCC5BC3EDE0BA", "target": "" }
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_000", "hash": "B1BE594B23D4ACE0", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>. Boas-vindas ao Eco de Worlar, lar dos Yok Huy. Mal me lembro da última vez em que esta aldeia recebeu visitantes, além de algum mercador Pelupelu." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_001", "hash": "85E0287F5FE7EB3F", "target": "Com Valigarmanda à solta, só peço que me deixe falar desta terra, para que possamos viver na sua memória." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_002", "hash": "00B754FB3E0B887B", "target": "Basta dizer que você deixou sua marca na nossa história. Graças a você, nossa memória ainda vai perdurar por algum tempo. Em retribuição, posso lhe contar sobre nossa cultura?" },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_003", "hash": "8ECF5F72C31B6F1A", "target": "A heroína que matou Valigarmanda foi coroada Servidor da Aurora, é? Que momento de alegria na história. Talvez até grave o acontecimento na minha lápide." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_Q1_000_000", "hash": "B797BA42E37A8348", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_001", "hash": "4CF8DB04EE4432DE", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_002", "hash": "0FACAD424DBE88C6", "target": "Que lugar é este?" },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_A1_000_003", "hash": "227BF67E0687FDF1", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_010", "hash": "D1A8EB2A414FB092", "target": "Eu? Bem, na maioria dos dias, garanto que todos na aldeia tenham o suficiente para comer. Também me encarregaram de acolher gente de fora, pois poucos de nós têm confiança no próprio domínio da língua comum." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_011", "hash": "62771EF4C96D2C89", "target": "Não me acho especialmente eloquente perto dos meus vizinhos daqui, mas perdoe se pronunciarmos mal uma palavra ou outra." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_012", "hash": "CCD525F5DF4174B4", "target": "Ainda que a Ruína dos Céus calcine nossa carne e nossos ossos, fico em paz sabendo que viverei na sua memória. Fuja daqui antes que partilhe do nosso destino!" },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_020", "hash": "49314BC51FD131EA", "target": "Eco de Worlar, onde o estrondo da pedra sobre pedra deu origem a uma grande montanha. Foi onde os Yok Huy começaram. E é onde um dia chegaremos ao fim." },
+    { "gameKey": "custom/008/RegYok6WorlarsEcho_00870#TEXT_REGYOK6WORLARSECHO_00870_TAHRAFAHR_000_021", "hash": "149BCC5BC3EDE0BA", "target": "Vivemos isolados do resto de Tural e, por isso, nossa comunidade é homogênea. Só buscamos viver em paz com nossos antepassados e preservar as antigas obras em pedra que nos confiaram." }
   ]
 }

@@ -2,11 +2,11 @@
   "conversation": "custom/009/CtsMkdWepTrade1_00933",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_000", "hash": "9266FC35C2DD5452", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_001", "hash": "D2E2045A09C0772A", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_002", "hash": "4AD4AF2CBD24B8B9", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_003", "hash": "4B34014EE4406077", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_004", "hash": "2404C74E8692F126", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_005", "hash": "1762FEF31DB72A9F", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_000", "hash": "9266FC35C2DD5452", "target": "Hora de pegar minhas ferramentas imbuídas de demiatma e canalizar o éter da ilha pra fazer algo realmente majestoso!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_001", "hash": "D2E2045A09C0772A", "target": "Nunca viu nada parecido, né? Uma trama de éter maleável, brilhante e cambiante, em várias camadas, canalizada com precisão de mestre..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_002", "hash": "4AD4AF2CBD24B8B9", "target": "Contemple o auge da fabricação de armas: <ennoun(Item,3,lnum1,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_003", "hash": "4B34014EE4406077", "target": "Contemple o auge da fabricação de armas e escudos: <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_004", "hash": "2404C74E8692F126", "target": "É muito bonito admirar essa maravilha, mas seu poder não passa de um sussurro ilusório, um fantasma fugaz, por assim dizer, até despertar no calor da batalha." },
+    { "gameKey": "custom/009/CtsMkdWepTrade1_00933#TEXT_CTSMKDWEPTRADE1_00933_GEROLT_000_005", "hash": "1762FEF31DB72A9F", "target": "Em outras palavras, vá lá fora e use essa porcaria!" }
   ]
 }

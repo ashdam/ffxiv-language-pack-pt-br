@@ -2,8 +2,8 @@
   "conversation": "custom/001/FesNyrAmbassador2014_00144",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "" },
-    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "" }
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_000", "hash": "E678458256868C35", "target": "Por festa e por desígnio, trazemos do Extremo Oriente a Eorzea um presente da Virada Celestial. Que por muito tempo nos corra bom sangue nas veias!" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_010", "hash": "DB04793989351197", "target": "Acaso <if(gnum4,minha senhora,meu senhor)> perdeu o presente que <if(gnum4,ela,ele)> recebeu, aquele que tanto quem dá quanto quem recebe chama de uma kabuto?" },
+    { "gameKey": "custom/001/FesNyrAmbassador2014_00144#TEXT_FESNYRAMBASSADOR2014_00144_HORSEMISSIONARY_000_011", "hash": "04780AD26B1075CA", "target": "É preciso ser <if(gnum4,mulher destemida e distraída,homem destemido e distraído)> para perder objeto de tamanha importância! Dou outro, mas não volte a perdê-lo." }
   ]
 }

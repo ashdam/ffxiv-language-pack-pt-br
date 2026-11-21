@@ -2,15 +2,15 @@
   "conversation": "custom/008/CtsDdd3Gacha_00818",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000", "hash": "9219667097855926", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010", "hash": "6363D1FD14C75093", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_Q1_000_020", "hash": "2CA2E91C0B952A90", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_021", "hash": "6ECD26601FEADF84", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_022", "hash": "8BA8D3501C9D4A6D", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_023", "hash": "9D96C341180DC30E", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030", "hash": "7DB05E91167963F4", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031", "hash": "AB77B4FF551FB64C", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032", "hash": "AE8A33E27FEFD6FE", "target": "" },
-    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033", "hash": "25F2B8E179EDD92F", "target": "" }
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_000", "hash": "9219667097855926", "target": "Encarregaram-me de identificar e avaliar os tesouros que você encontrar no laboratório alagano. É uma honra fazer parte de tão ilustre companhia. Aguardo com interesse os espólios da sua primeira expedição." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_010", "hash": "6363D1FD14C75093", "target": "Como vai a exploração de Eureka Orthos? A esta altura, sem dúvida já encontrou um ou outro artefato alagano que valesse a pena trazer à superfície. Mostre-me o que achou e terei prazer em dizer se valeu o esforço." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_Q1_000_020", "hash": "2CA2E91C0B952A90", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_021", "hash": "6ECD26601FEADF84", "target": "Avaliar uma peça do Tesouro Amaldiçoado." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_022", "hash": "8BA8D3501C9D4A6D", "target": "Perguntar sobre o Tesouro Amaldiçoado." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_A1_000_023", "hash": "9D96C341180DC30E", "target": "Nada." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_030", "hash": "7DB05E91167963F4", "target": "Eureka Orthos era o mais bem escondido dos muitos laboratórios do Império Alagano. Os objetos que você encontrar lá não revelarão seus segredos com facilidade." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_VALEROINE_000_031", "hash": "AB77B4FF551FB64C", "target": "Poucas pessoas vivas, além da própria arquimaga, conhecem artefatos alaganos melhor que eu. Foi por isso que me escolheram. Mostre-me seus achados e darei um jeito de contornar as fechaduras intrincadas e os feitiços de proteção." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_032", "hash": "AE8A33E27FEFD6FE", "target": "Ao explorar a masmorra profunda, os jogadores encontrarão peças do Tesouro Amaldiçoado, protegidas por uma tecnologia há muito esquecida." },
+    { "gameKey": "custom/008/CtsDdd3Gacha_00818#TEXT_CTSDDD3GACHA_00818_SYSTEM_000_033", "hash": "25F2B8E179EDD92F", "target": "Para saber o valor das peças encontradas em Eureka Orthos, leve-as a Valeroine para avaliação." }
   ]
 }

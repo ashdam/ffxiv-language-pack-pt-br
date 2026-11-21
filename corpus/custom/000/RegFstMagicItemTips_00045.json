@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegFstMagicItemTips_00045",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1", "hash": "4C51C525E1317AB6", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1", "hash": "F2CB317C135B84BE", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_1", "hash": "A1C506B54B9F72B3", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_2", "hash": "ED27A07FDA26643A", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_3", "hash": "94AD113C8F40BB22", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10", "hash": "FE0CFC67D6BEE807", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11", "hash": "A876A9F1CAB1D99B", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12", "hash": "45608D502808AEF9", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20", "hash": "5FE8E71357C14BC2", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21", "hash": "70034C2A9EA2BD53", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22", "hash": "3FCA29B5233A9214", "target": "" },
-    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23", "hash": "ECD9EC6EB343FA7B", "target": "" }
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_1", "hash": "4C51C525E1317AB6", "target": "Olhe que belezura. Está vendo como ela brilha? Dá quase pra <italic(1)>sentir<italic(0)> o poder correndo por ela." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_Q1_1", "hash": "F2CB317C135B84BE", "target": "Escolha uma resposta." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_1", "hash": "A1C506B54B9F72B3", "target": "O que é isso que você tem aí?" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_2", "hash": "ED27A07FDA26643A", "target": "Podemos fazer um acordo?" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_A1_3", "hash": "94AD113C8F40BB22", "target": "Acho que vou deixar você a sós com sua espada." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_10", "hash": "FE0CFC67D6BEE807", "target": "O que é? Ora, o que parece? Uma espada curta." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_11", "hash": "A876A9F1CAB1D99B", "target": "Ah, agora você deve estar se perguntando qual é o alarde por causa de uma espada curta. Fácil. Isso aqui não é uma espada qualquer, forjada aos montes e vendida na baciada. É uma autêntica espada curta <colortype(500)><edgecolortype(501)>etérea<edgecolortype(0)><colortype(0)>. Única, aliás." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_12", "hash": "45608D502808AEF9", "target": "Não está vendo o brilho? Não? Pois pode confiar, ela está brilhando. E esse brilho quer dizer que ela é especial. Que é <italic(1)>poderosa<italic(0)>... ou pelo menos um pouco mais poderosa do que se esperaria de uma simples espada curta." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_20", "hash": "5FE8E71357C14BC2", "target": "Um acordo?! Rá! Sabe quanto tempo levei pra achar isto? Quantos grupos aguentei, cheios de desgraçados gananciosos que pegavam todos os espólios etéreos mesmo com as bolsas abarrotadas? Esta espada é <italic(1)>minha<italic(0)>! Se quiser, vai ter que arrancar das minhas mãos depois de me matar!" },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_21", "hash": "70034C2A9EA2BD53", "target": "Aliás, é mais ou menos assim que surgem os equipamentos etéreos. Já ouviu falar de vínculo espiritual, né? A ligação carregada de éter entre você e o que está usando. Pois, em raros casos, quando alguém morre em combate usando um item de vínculo espiritual muito forte, a energia desse vínculo fica presa no item em vez de voltar à Corrente Vital." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_22", "hash": "3FCA29B5233A9214", "target": "A energia melhora o equipamento e pronto! Você tem uma espada curta etérea, um subligar etéreo ou até um par de luvas etéreas de ferreiro, de couro de cabra, próprias para coleta." },
+    { "gameKey": "custom/000/RegFstMagicItemTips_00045#TEXT_REGFSTMAGICITEMTIPS_00045_GARRATT_000_23", "hash": "ECD9EC6EB343FA7B", "target": "Como o dono do item precisa morrer com ele equipado pra que se torne etéreo, isso costuma aparecer em lugares perigosos onde houve batalhas sangrentas. Agora, se <italic(1)>eu<italic(0)> quisesse pôr as <italic(1)>minhas<italic(0)> mãos em <italic(1)>outra<italic(0)> arma etérea, talvez voltasse a Sastasha. \\<piscadela> \\<piscadela>" }
   ]
 }

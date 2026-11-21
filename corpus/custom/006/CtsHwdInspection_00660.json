@@ -2,19 +2,19 @@
   "conversation": "custom/006/CtsHwdInspection_00660",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000", "hash": "B143F5AA7D86E7ED", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000", "hash": "ABAF45B8E24A47FB", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_010", "hash": "76DE3A7E0BDE2AE3", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_020", "hash": "8D0D35DEE51A0B6E", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_030", "hash": "6E065124FF0F6D6F", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_040", "hash": "87E566555C4D184A", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_050", "hash": "14D44034D43F834B", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_060", "hash": "AE0BBFAFFE401E82", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_070", "hash": "10AD281F69C414EB", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_073", "hash": "D2020FE4101A074F", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_077", "hash": "1763925E5BA925C1", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_080", "hash": "CA2C9FF3916670A8", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_090", "hash": "EEE1A5D609889BE0", "target": "" },
-    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_020_000", "hash": "2ADDC04929598328", "target": "" }
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_000_000", "hash": "B143F5AA7D86E7ED", "target": "<if(gnum4,Minha senhora,Meu senhor)> <split(<string(gstr1)>, ,1)>, que honra! Tem algum assunto com lorde Aurvael?" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_000", "hash": "ABAF45B8E24A47FB", "target": "<if(gnum4,Minha senhora,Meu senhor)> <split(<string(gstr1)>, ,1)>, que honra! Em que posso servir hoje?" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_010", "hash": "76DE3A7E0BDE2AE3", "target": "Pretende usar seu talento para a coleta em benefício da reconstrução? Maravilha, maravilha! Será um prazer explicar nosso trabalho!" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_020", "hash": "8D0D35DEE51A0B6E", "target": "Como sem dúvida já sabe, reconstruir o Firmamento exige uma verdadeira montanha de materiais. Para atender a essa demanda, decidimos aproveitar os recursos abundantes do Diadema." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_030", "hash": "6E065124FF0F6D6F", "target": "Quem tem experiência em coleta, como você, pode se aventurar pelas ilhas e trazer materiais para a reconstrução do Firmamento." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_040", "hash": "87E566555C4D184A", "target": "Mas, dada a natureza das ilhas, antes de usar o que vem de lá, precisamos verificar se não está... digamos... <italic(1)>contaminado<italic(0)>." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_050", "hash": "14D44034D43F834B", "target": "Para isso, peço que traga a mim todos os itens que coletar, para que eu os inspecione." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_060", "hash": "AE0BBFAFFE401E82", "target": "Os itens considerados seguros serão devolvidos com um selo de aprovação." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_070", "hash": "10AD281F69C414EB", "target": "E, antes que pergunte, sim, inspecionamos peixes também.<br>...Pela sua expressão, vejo que não consegue imaginar para que a reconstrução precisaria de peixes." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_073", "hash": "D2020FE4101A074F", "target": "Veja bem, os peixes do Diadema costumam engolir coisas incomuns. A inspeção permite descobrir se carregam recursos na barriga. Com isso confirmado, uma dessíntese rápida basta para aproveitar o que encontrar." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_077", "hash": "1763925E5BA925C1", "target": "Deve estar querendo saber o que ganha pelo esforço. Em reconhecimento aos perigos do Diadema, oferecemos Skybuilders' Scrips como recompensa." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_080", "hash": "CA2C9FF3916670A8", "target": "Além disso, todo material que encontrar é seu. Quer decida vendê-lo a artesãos, quer use você mesmo na fabricação, no fim a reconstrução sai ganhando!" },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_010_090", "hash": "EEE1A5D609889BE0", "target": "Assim termina minha explicação. Se quiser viajar ao Diadema para ajudar, fale com lorde Aurvael, aqui ao meu lado, para mais informações." },
+    { "gameKey": "custom/006/CtsHwdInspection_00660#TEXT_CTSHWDINSPECTION_00660_FLOTPASSANT_020_000", "hash": "2ADDC04929598328", "target": "Se tiver materiais do Diadema para inspecionar, <if(gnum4,minha senhora,meu senhor)>, terei prazer em ajudar!" }
   ]
 }

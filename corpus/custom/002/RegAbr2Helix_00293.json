@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegAbr2Helix_00293",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_000", "hash": "C032794D9A0CD70A", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_Q1_000_000", "hash": "D62ADAD34503B70C", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_001", "hash": "46E43D6CC8A91428", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_002", "hash": "8A270D589E66529F", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_003", "hash": "64AFC973DBE7C066", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_010", "hash": "78375FCDBBEC156D", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_011", "hash": "0ABF1ED4DE7DD58F", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_020", "hash": "B1CD71F6E663700A", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_021", "hash": "A03BB2868EDF7570", "target": "" },
-    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_022", "hash": "49086FA480234765", "target": "" }
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_000", "hash": "C032794D9A0CD70A", "target": "\\<bipe> \\<bipe> Núcleo de controle operacional. Informe o que deseja consultar." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_Q1_000_000", "hash": "D62ADAD34503B70C", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_001", "hash": "46E43D6CC8A91428", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_002", "hash": "8A270D589E66529F", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_A1_000_003", "hash": "64AFC973DBE7C066", "target": "Nada." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_010", "hash": "78375FCDBBEC156D", "target": "Processando... \\<bipe> \\<bipe> Núcleo BB7 de gerenciamento dos sistemas da Hélice. O suporte a este núcleo foi descontinuado. Atualize para o modelo BB8 ou posterior." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_011", "hash": "0ABF1ED4DE7DD58F", "target": "Software operacional versão 3.0 instalado há...\\<bzzzzzz>... dias. Este software destina-se exclusivamente à avaliação. Para adquirir a versão completa... \\<bzzzzzz>" },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_020", "hash": "B1CD71F6E663700A", "target": "Processando... \\<bipe> \\<bipe> Localização atual: Hélice, Quadrante Alfa, Azys Lla." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_021", "hash": "A03BB2868EDF7570", "target": "O principal destino dos recém-chegados é o Centro de Pesquisa Eteroquímica, localizado na Nau Capitânia, a sudeste." },
+    { "gameKey": "custom/002/RegAbr2Helix_00293#TEXT_REGABR2HELIX_00293_CONTROLSYSTEM_000_022", "hash": "49086FA480234765", "target": "Nos termos e condições de uso, você e seu grupo assumem todos os riscos de danos ou lesões, inclusive morte, decorrentes da entrada em setores restritos." }
   ]
 }

@@ -2,12 +2,12 @@
   "conversation": "custom/003/HouFurOrchestrion_00330",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_TITLE", "hash": "750E8546C1BA6E7C", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_SEQUENCIAL", "hash": "5048E807ECE4D2EC", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_SHUFFLE", "hash": "0BF188893477CD2E", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_ONE", "hash": "8215F655C56F90E3", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_1", "hash": "3C6B83CC86A8E0AF", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_2", "hash": "7F465C633B43BA42", "target": "" },
-    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_CANCEL", "hash": "0E321CA5F66B8058", "target": "" }
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_TITLE", "hash": "750E8546C1BA6E7C", "target": "●Lista de reprodução [<string(lstr1)>]" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_SEQUENCIAL", "hash": "5048E807ECE4D2EC", "target": "●Reproduzir em sequência" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_SHUFFLE", "hash": "0BF188893477CD2E", "target": "●Reproduzir em ordem aleatória" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_MODE_ONE", "hash": "8215F655C56F90E3", "target": "●Reproduzir uma faixa" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_1", "hash": "3C6B83CC86A8E0AF", "target": "●Reproduzir da lista de reprodução" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_2", "hash": "7F465C633B43BA42", "target": "●Reproduzir do registro do orchestrion" },
+    { "gameKey": "custom/003/HouFurOrchestrion_00330#TEXT_HOUFURORCHESTRION_00330_MENU_CANCEL", "hash": "0E321CA5F66B8058", "target": "●Sair" }
   ]
 }

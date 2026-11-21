@@ -2,17 +2,17 @@
   "conversation": "custom/008/RegYok6IqBraax_00876",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_000", "hash": "DA984FEBBCC0F3F1", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_Q1_000_000", "hash": "E68C193B5EA6747A", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_001", "hash": "909D2E45A638440F", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_002", "hash": "D8EECE544208BA1D", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_003", "hash": "E4E0EB3974B905AE", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_010", "hash": "D0D369FC374A49D3", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_011", "hash": "F797272AE8C58E42", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_020", "hash": "31ED95CD13EDCCC9", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_021", "hash": "D6625F078404312A", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_030", "hash": "212318EA3C802FA1", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_040", "hash": "1AC134ED7B751EAE", "target": "" },
-    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_050", "hash": "227EB2EF09A7B209", "target": "" }
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_000", "hash": "DA984FEBBCC0F3F1", "target": "Boas-vindas! Parece ter vindo de longe. Se tiver alguma pergunta, responderei com prazer." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_Q1_000_000", "hash": "E68C193B5EA6747A", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_001", "hash": "909D2E45A638440F", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_002", "hash": "D8EECE544208BA1D", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_A1_000_003", "hash": "E4E0EB3974B905AE", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_010", "hash": "D0D369FC374A49D3", "target": "Está vendo as construções aqui em volta? Eu pintei todas. Todo mundo sabe que, para encontrar Iq Br'aax, é só procurar o vermelho no meio do verde." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_011", "hash": "F797272AE8C58E42", "target": "Assim, encontramos a aldeia por mais longe que vamos floresta adentro. Toda vez que dou uma demão nova de tinta numa construção, rezo para que ninguém se perca." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_020", "hash": "31ED95CD13EDCCC9", "target": "Ora, aqui é Iq Br'aax. É o lar dos Xbr'aal, que descendem do br'aax, o mais poderoso dos animais da floresta." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_021", "hash": "D6625F078404312A", "target": "Há quase oitenta anos, nossa longa guerra com os Mamool Ja chegou ao fim graças à intervenção do Servidor da Aurora. Desde então, vivemos em paz, aproveitando as muitas bênçãos da floresta." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_030", "hash": "212318EA3C802FA1", "target": "Acho que sei o que trouxe você aqui: o rito de sucessão, certo? Por mais breve que seja a visita, espero que guarde boas lembranças do nosso lar." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_040", "hash": "1AC134ED7B751EAE", "target": "Se nada mais ficou na memória, o xibruq pibil com certeza causou impressão. Eu podia comer todo dia, várias vezes por dia, até." },
+    { "gameKey": "custom/008/RegYok6IqBraax_00876#TEXT_REGYOK6IQBRAAX_00876_BRUKINEN_000_050", "hash": "227EB2EF09A7B209", "target": "Desde que o Voto Wuk Lamat e o Voto Koana subiram ao trono, Hunmu Rruk não para de sorrir. Eu também ando sorrindo mais e desejo aos dois um reinado longo e próspero." }
   ]
 }

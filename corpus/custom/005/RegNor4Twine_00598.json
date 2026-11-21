@@ -2,18 +2,18 @@
   "conversation": "custom/005/RegNor4Twine_00598",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_000", "hash": "26EF667DCB241BD3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_010", "hash": "3D615A165B75B3DC", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_020", "hash": "EBBF24A4F9746835", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_030", "hash": "1D877A456F524C88", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_Q1_000_000", "hash": "976D781B7DE2E08E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_001", "hash": "7DA50212636A7E63", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_002", "hash": "5A43B20F8F44E104", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_003", "hash": "869C5DEED1C6A10C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_100", "hash": "0CE0F15FEBE89B21", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_101", "hash": "6540591D645DD98E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_200", "hash": "98FAA1DF1051DA6F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_201", "hash": "2D02575EEE547127", "target": "" },
-    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_202", "hash": "B84447723B5674DF", "target": "" }
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_000", "hash": "26EF667DCB241BD3", "target": "O que traz você a Entrelaço, se não se importa que eu pergunte?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_010", "hash": "3D615A165B75B3DC", "target": "Já não temos aquela Luz maldita sempre em cima da gente, mas quase nada mais mudou por aqui. A maioria ainda vive com o que ganha no dia, por mais que trabalhe." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_020", "hash": "EBBF24A4F9746835", "target": "E lá se foi a volta do céu noturno! Foi bom enquanto durou, eu acho. De qualquer jeito, pra quem quebra pedra numa mina, tanto faz." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_030", "hash": "1D877A456F524C88", "target": "A Luz foi embora de vez desta vez? Espero pra caramba que sim." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_Q1_000_000", "hash": "976D781B7DE2E08E", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_001", "hash": "7DA50212636A7E63", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_002", "hash": "5A43B20F8F44E104", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_A1_000_003", "hash": "869C5DEED1C6A10C", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_100", "hash": "0CE0F15FEBE89B21", "target": "Como a maioria do pessoal daqui, sou mineiro." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_101", "hash": "6540591D645DD98E", "target": "É tudo que sei fazer e, pra ser bem franco, não tem muito mais o que <italic(1)>aprender<italic(0)> em Amh Araeng." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_200", "hash": "98FAA1DF1051DA6F", "target": "Pouca gente sabe disso, até entre os moradores, mas Entrelaço foi construída pelo esforço conjunto dos Ronso e dos Mystel. O nome da vila vem da imagem de suas caudas entrelaçadas." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_201", "hash": "2D02575EEE547127", "target": "Hoje em dia não se vê muita cooperação entre eles. A maioria dos Mystel se mudou pra Eulmore há anos, e agora só sobrou um ou outro." },
+    { "gameKey": "custom/005/RegNor4Twine_00598#TEXT_REGNOR4TWINE_00598_KJARTAN_000_202", "hash": "B84447723B5674DF", "target": "Já nós, Ronso, não desistimos tão fácil. Enquanto houver trabalho a fazer, vamos ficar por aqui." }
   ]
 }

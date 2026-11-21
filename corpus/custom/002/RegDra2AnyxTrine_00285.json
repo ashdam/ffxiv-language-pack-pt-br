@@ -2,16 +2,16 @@
   "conversation": "custom/002/RegDra2AnyxTrine_00285",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_Q1_000_000", "hash": "108E157B79478116", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_001", "hash": "854346B00DDC6E56", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_002", "hash": "69953E0DF9048C70", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_003", "hash": "3C0688202C67FC60", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_010", "hash": "1225630E95D97A19", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_011", "hash": "0B46EE6023B607C9", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_012", "hash": "94FFE6246807C6CE", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_021", "hash": "B151D0155DB5CDCB", "target": "" },
-    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "" }
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_000", "hash": "46BB3FBD5E019393", "target": "Alguém dos povos mortais entra em Anyx Trine... Curioso..." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_Q1_000_000", "hash": "108E157B79478116", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_001", "hash": "854346B00DDC6E56", "target": "Quem é você?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_002", "hash": "69953E0DF9048C70", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_A1_000_003", "hash": "3C0688202C67FC60", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_010", "hash": "1225630E95D97A19", "target": "Sou Sehn Y Toh. Meus irmãos e irmãs são unidos sob Hraesvelgr. Expulsamos daqui quem nos quer mal." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_011", "hash": "0B46EE6023B607C9", "target": "Buscamos paz e sossego. Quem nos privar disso conhecerá nossas presas e garras." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_012", "hash": "94FFE6246807C6CE", "target": "Escute, mortal. Se perturbar a paz do nosso lar, nós vamos saber..." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_020", "hash": "CDB2837BECFE2F32", "target": "Anyx Trine foi obra dos mortais em eras passadas." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_021", "hash": "B151D0155DB5CDCB", "target": "Há muito, porém, os mortais esqueceram o fruto do próprio trabalho." },
+    { "gameKey": "custom/002/RegDra2AnyxTrine_00285#TEXT_REGDRA2ANYXTRINE_00285_SEHNYTOH_000_022", "hash": "C2CD01CE32B86A7F", "target": "As origens de Anyx Trine não nos dizem respeito. Este lugar é silencioso e nos serve bem. Agora, Anyx Trine é nosso lar." }
   ]
 }

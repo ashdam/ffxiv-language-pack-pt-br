@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegYok6Mamook_00877",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_000", "hash": "E67E20621DEE7C0C", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_SYSTEM_000_001", "hash": "6D86534E37E5FD21", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_010", "hash": "38A9244B8299420F", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_Q1_000_000", "hash": "C6B89BD8138A8C35", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_001", "hash": "64EE97DD7B5011AB", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_002", "hash": "5E660A84872D0C12", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_003", "hash": "EFC08B6DADF9EB02", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_020", "hash": "433EC366760DD519", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_021", "hash": "3D580D00519EB0A5", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_030", "hash": "84D65E0A9F23EA96", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_040", "hash": "B5F919E1F2E8BE4A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_050", "hash": "80CBDDD5C2E07DA1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_060", "hash": "0E5A00F8CD918CD8", "target": "" }
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_000", "hash": "E67E20621DEE7C0C", "target": "..." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_SYSTEM_000_001", "hash": "6D86534E37E5FD21", "target": "Ela claramente não pretende falar com você." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_010", "hash": "38A9244B8299420F", "target": "...Sim? Quer me perguntar alguma coisa?" },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_Q1_000_000", "hash": "C6B89BD8138A8C35", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_001", "hash": "64EE97DD7B5011AB", "target": "Quem é você?" },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_002", "hash": "5E660A84872D0C12", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_A1_000_003", "hash": "EFC08B6DADF9EB02", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_020", "hash": "433EC366760DD519", "target": "Sou Beeril Ja, dos Hoobigo. Escamas de Vidro, como me chamavam, por causa da minha constituição frágil." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_021", "hash": "3D580D00519EB0A5", "target": "Eu não podia me tornar guerreira nem ajudar a gerar irmãos abençoados. Minha própria existência envergonhava meu povo. Mas agora... agora talvez eu encontre outras maneiras de levar uma vida útil e plena." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_030", "hash": "84D65E0A9F23EA96", "target": "Aqui é Mamook, a floresta afundada pelos meteoritos e lar de nós, Mamool Ja." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_040", "hash": "B5F919E1F2E8BE4A", "target": "Mesmo que tenhamos renunciado aos velhos ensinamentos, a mudança não vem de um dia para o outro. Ainda que seja um passo por vez, temos de seguir em frente." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_050", "hash": "80CBDDD5C2E07DA1", "target": "Então, a Terceira e a Segunda Promessas são nossos novos Servidores da Aurora. Sou grata por tudo que fizeram. Talvez consigam trazer mudanças de verdade." },
+    { "gameKey": "custom/008/RegYok6Mamook_00877#TEXT_REGYOK6MAMOOK_00877_BEERILJA_000_060", "hash": "0E5A00F8CD918CD8", "target": "Nosso contato com o mundo lá fora cresceu nos últimos dias, mas não quero fazer parte dele. Já quis deixar este lugar e procurar a terra ensolarada lá em cima... mas parece que estou mais apegada a esta cidade do que eu mesma sabia. Aqui é meu lar." }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "custom/007/RegElp5PoietenOikos_00757",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_000", "hash": "69803292E68ED55C", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_Q1_000_000", "hash": "7962900BB7C6F7A6", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_001", "hash": "241170A1AA9BAB66", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_002", "hash": "434B406C8E53FE6B", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_003", "hash": "03313471B3768BB4", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_010", "hash": "EB5308DDB0B666CC", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_011", "hash": "6311FFD15231A195", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_020", "hash": "C4D7C5421A700E4A", "target": "" },
-    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_021", "hash": "177655A95495BF07", "target": "" }
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_000", "hash": "69803292E68ED55C", "target": "Ora, olá. Você é um familiar, certo? E veio sem companhia examinar as instalações de Elpis? Muito bem. Se tiver alguma pergunta urgente, fique à vontade. Farei o possível para responder." },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_Q1_000_000", "hash": "7962900BB7C6F7A6", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_001", "hash": "241170A1AA9BAB66", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_002", "hash": "434B406C8E53FE6B", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_A1_000_003", "hash": "03313471B3768BB4", "target": "Nada." },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_010", "hash": "EB5308DDB0B666CC", "target": "Quer saber sobre mim? Que consideração. Trabalho aqui em Poieten Oikos com taxonomia. Minha função é dar às criações que passam por Elpis nomes lógicos, mas agradáveis ao ouvido." },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_011", "hash": "6311FFD15231A195", "target": "Meu trabalho é maravilhoso. Costumo passar os dias compondo versos inspiradores sobre a flora e a fauna. Há quem ache meus métodos estranhos, eu sei... Mas, acredite, a fonte da criatividade taxonômica seca depressa depois que você vê doze versões do mesmo conceito, cada uma com uma aparência diferente." },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_020", "hash": "C4D7C5421A700E4A", "target": "Aqui é Poieten Oikos, o lugar onde grandes mentes se reúnem para avaliar conceitos e lhes dar nomes." },
+    { "gameKey": "custom/007/RegElp5PoietenOikos_00757#TEXT_REGELP5POIETENOIKOS_00757_ERATO_000_021", "hash": "177655A95495BF07", "target": "Talvez esteja se perguntando o que o nome significa. Muitas coisas, eu diria! Mas “lar de quem tem jeito com as palavras” deve ser a tradução mais fácil para você entender. Afinal, nós taxonomistas nos expressamos pela nomenclatura." }
   ]
 }

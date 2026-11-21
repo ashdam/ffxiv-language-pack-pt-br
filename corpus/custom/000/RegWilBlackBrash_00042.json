@@ -2,16 +2,16 @@
   "conversation": "custom/000/RegWilBlackBrash_00042",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_1", "hash": "8AFE5399C947BB49", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000Q", "hash": "D000211B15E7A360", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A1", "hash": "9E94D1944246CB06", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A2", "hash": "303B947F68BABB4A", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A3", "hash": "A5D5D58471757B2D", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_10", "hash": "DD6E8E459DA30335", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_11", "hash": "C6DF82E9D7DFF10C", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_12", "hash": "0BD0FF216DC9724E", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_20", "hash": "5E5613F47771C87B", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_21", "hash": "CA28B0D65D70EA90", "target": "" },
-    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_22", "hash": "05443E5635AE47D6", "target": "" }
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_1", "hash": "8AFE5399C947BB49", "target": "Sou um homem ocupado. Diga logo o que quer ou me deixe trabalhar." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000Q", "hash": "D000211B15E7A360", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A1", "hash": "9E94D1944246CB06", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A2", "hash": "303B947F68BABB4A", "target": "Para que serve a estação?" },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_SCENE00000A3", "hash": "A5D5D58471757B2D", "target": "Nada." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_10", "hash": "DD6E8E459DA30335", "target": "Supervisiono todas as operações aqui na Estação de Black Brush. Faço isso desde que ela foi construída." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_11", "hash": "C6DF82E9D7DFF10C", "target": "Chegam carregamentos de minério todo dia. Temos de descarregar e separar tudo para as fornalhas." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_12", "hash": "0BD0FF216DC9724E", "target": "É preciso ter costas fortes e mãos firmes. Eu sei bem, já trabalhei nas fornalhas. Parei quando a Calamidade inutilizou meu braço." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_20", "hash": "5E5613F47771C87B", "target": "Extraímos metal do minério. Bronze, prata, mitril... É só dizer o metal que a gente funde." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_21", "hash": "CA28B0D65D70EA90", "target": "Está vendo toda aquela fumaça? Vem das fornalhas. Mantemos todas acesas dia e noite com um suprimento constante de cristais de fogo." },
+    { "gameKey": "custom/000/RegWilBlackBrash_00042#TEXT_REGWILBLACKBRASH_00042_ELURED_000_22", "hash": "05443E5635AE47D6", "target": "Pois é, sem mim e meus rapazes suando por aqui, os ricos e as madames não teriam com que se enfeitar." }
   ]
 }

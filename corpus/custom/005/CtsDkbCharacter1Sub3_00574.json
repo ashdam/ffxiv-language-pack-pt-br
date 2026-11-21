@@ -2,7 +2,7 @@
   "conversation": "custom/005/CtsDkbCharacter1Sub3_00574",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub3_00574#TEXT_CTSDKBCHARACTER1SUB3_00574_SUEREND_100_001", "hash": "107B3324694FB2AA", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub3_00574#TEXT_CTSDKBCHARACTER1SUB3_00574_SUEREND_000_001", "hash": "50A9B8493BF2CCB1", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub3_00574#TEXT_CTSDKBCHARACTER1SUB3_00574_SUEREND_100_001", "hash": "107B3324694FB2AA", "target": "Imagino que você andasse bem <if(gnum4,preocupada,preocupado)> com o futuro do Fole, com esses débeis mentais no comando da forja. Mas pode ficar em paz, agora que Sue-Rend está aqui!" },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub3_00574#TEXT_CTSDKBCHARACTER1SUB3_00574_SUEREND_000_001", "hash": "50A9B8493BF2CCB1", "target": "Continue mandando serviço. Mais trabalho, digo eu!" }
   ]
 }

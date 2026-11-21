@@ -2,19 +2,19 @@
   "conversation": "custom/006/RegNor4Eulmore_00607",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_000", "hash": "2D12E805F4F5866B", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_002", "hash": "9EEAB41EBA1B0FFD", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_Q1_000_000", "hash": "C1B9E18EBCDCF524", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_001", "hash": "3BB3AA36F980E5FC", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_002", "hash": "016AF3949519304C", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_003", "hash": "78B557ED26FC0897", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_010", "hash": "A11B2CF4FCB51993", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_011", "hash": "E7F0002534D32C48", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_013", "hash": "B5F410C905667E0A", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_014", "hash": "AA328D32AE091D0B", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_020", "hash": "9BA59EC62E5F4621", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_021", "hash": "D8E89020D5994DB3", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_023", "hash": "4693A3E151ED72F4", "target": "" },
-    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_024", "hash": "F78E84458FD85E22", "target": "" }
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_000", "hash": "2D12E805F4F5866B", "target": "Boas-vindas ao paraíso! Se houver algo, <italic(1)>qualquer coisa<italic(0)> de que precise, nossa bela cidade providenciará. E tenho certeza de que você vai <italic(1)>adorar<italic(0)> ficar aqui." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_002", "hash": "9EEAB41EBA1B0FFD", "target": "Ora, olá! Espero que esteja gostando da nossa cidade. Se quiser saber alguma coisa, é só perguntar." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_Q1_000_000", "hash": "C1B9E18EBCDCF524", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_001", "hash": "3BB3AA36F980E5FC", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_002", "hash": "016AF3949519304C", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_A1_000_003", "hash": "78B557ED26FC0897", "target": "Nada." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_010", "hash": "A11B2CF4FCB51993", "target": "Que gentil da sua parte perguntar! Tenho o imenso <italic(1)>prazer<italic(0)> de apresentar as maravilhas de Eulmore aos nossos hóspedes e aos novos cidadãos livres." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_011", "hash": "E7F0002534D32C48", "target": "Só posso sonhar que um dia farei parte deles, mas estou <italic(1)>tão<italic(0)> contente de estar aqui. Observando. Escutando. Esperando. E cumprindo os deveres de que tanto gosto, é claro!" },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_013", "hash": "B5F410C905667E0A", "target": "Ah. Para dizer a verdade, vim de uma aldeia pobre de pescadores aqui perto. Passei anos aprendendo a imitar a aristocracia, refinando meus modos e cultivando minha efusividade... tudo para que me deixassem entrar em Eulmore. E assim foi." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_014", "hash": "AA328D32AE091D0B", "target": "Mas receio ter... perdido um pouco de mim pelo caminho. Nem percebi que estava sob o domínio de um poder estranho até que ele me soltou, como se eu despertasse de um sonho. Agora estou reaprendendo quem sou, sem deixar de cumprir meus deveres, claro." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_020", "hash": "9BA59EC62E5F4621", "target": "Ora, este é o Dossel, a copa altaneira de Eulmore, florida o ano inteiro!" },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_021", "hash": "D8E89020D5994DB3", "target": "Aqui, nossos moradores desfrutam dos muitos luxos que o paraíso tem a oferecer, incluindo esta vista de tirar o fôlego! Espero <italic(1)>mesmo<italic(0)> que aproveite a estadia." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_023", "hash": "4693A3E151ED72F4", "target": "Este é o Dossel, a copa altaneira de Eulmore. O andar de cima, em termos mais simples." },
+    { "gameKey": "custom/006/RegNor4Eulmore_00607#TEXT_REGNOR4EULMORE_00607_CARNA_000_024", "hash": "F78E84458FD85E22", "target": "Aqui, os cidadãos ricos da cidade comem, bebem e se entregam a todo tipo de excesso. Espero que isso também mude com o tempo." }
   ]
 }

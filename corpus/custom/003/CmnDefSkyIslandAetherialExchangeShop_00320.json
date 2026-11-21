@@ -2,18 +2,18 @@
   "conversation": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A1", "hash": "4D1DFEF330F7C5C7", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A2", "hash": "604B9EF4F61D9901", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A3", "hash": "F624E1B0EF178821", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A4", "hash": "71B7F6BC382FF723", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A5", "hash": "A4BDA4572F5F6078", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A6", "hash": "62390C57D734AB11", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A7", "hash": "A3DBA956D4B9B34A", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A8", "hash": "FC31CBABB524BB18", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_001", "hash": "AEAF8DD583F464AF", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_011", "hash": "A76090BFD288D4E6", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_021", "hash": "40C9E8808AF486E8", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_031", "hash": "442B1A935DEBDBF4", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_041", "hash": "CFC204E77A397F5A", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A1", "hash": "4D1DFEF330F7C5C7", "target": "Equipamento do Diadema (Fending)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A2", "hash": "604B9EF4F61D9901", "target": "Equipamento do Diadema (Maiming)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A3", "hash": "F624E1B0EF178821", "target": "Equipamento do Diadema (Striking)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A4", "hash": "71B7F6BC382FF723", "target": "Equipamento do Diadema (Aiming)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A5", "hash": "A4BDA4572F5F6078", "target": "Equipamento do Diadema (Scouting)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A6", "hash": "62390C57D734AB11", "target": "Equipamento do Diadema (Casting)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A7", "hash": "A3DBA956D4B9B34A", "target": "Equipamento do Diadema (Healing)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_A8", "hash": "FC31CBABB524BB18", "target": "Cancelar" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_001", "hash": "AEAF8DD583F464AF", "target": "Não se incomode comigo, <if(gnum4,senhorita,senhor)>. Sou um simples negociante encarregado de comprar o equipamento que os aventureiros trazem do Diadema e não querem mais." },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_011", "hash": "A76090BFD288D4E6", "target": "Com licença, <if(gnum4,senhorita,senhor)>, por acaso você tem equipamento do Diadema? Não? Pois, se algum cair nas suas mãos, terei prazer em comprá-lo." },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_021", "hash": "40C9E8808AF486E8", "target": "Por acaso tem alguma bugiganga do Diadema com você? Bem que eu imaginei. Se conhecer alguém que tenha, avise que estou comprando, tá?" },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_031", "hash": "442B1A935DEBDBF4", "target": "Você tem jeito de quem gosta de se aventurar. Se por acaso suas aventuras levarem você ao Diadema, talvez encontre certo tipo de equipamento. Vai saber o que é quando vir, acredite. Traga pra cá que pago o que vale." },
+    { "gameKey": "custom/003/CmnDefSkyIslandAetherialExchangeShop_00320#TEXT_CMNDEFSKYISLANDAETHERIALEXCHANGESHOP_00320_041", "hash": "CFC204E77A397F5A", "target": "Saudações, <if(gnum4,minha senhora,meu senhor)>. Coleciono equipamentos raros, em especial os encontrados no Diadema. Se me trouxer essas peças, vou recompensar você à altura." }
   ]
 }

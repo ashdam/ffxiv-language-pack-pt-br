@@ -2,14 +2,14 @@
   "conversation": "custom/002/RegDra2CrafterGathererTradeFront_00274",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_Q1", "hash": "FAA344D10F76CDD7", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A1", "hash": "2191C8085F265D0C", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A2", "hash": "51272C10A700BD40", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A3", "hash": "952C9ABDFD290718", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A4", "hash": "9DEB35AA263C2EE1", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_000", "hash": "F2A1342816D7814B", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_005", "hash": "3B239BF313227FCC", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_010", "hash": "9B2880BC6FC011E0", "target": "" },
-    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_010", "hash": "350612E801D6035C", "target": "" }
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_Q1", "hash": "FAA344D10F76CDD7", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A1", "hash": "2191C8085F265D0C", "target": "O que são equipamentos esplendorosos?" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A2", "hash": "51272C10A700BD40", "target": "O que são talismãs?" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A3", "hash": "952C9ABDFD290718", "target": "O que são tomos de folclore regional?" },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TALK_A4", "hash": "9DEB35AA263C2EE1", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_000", "hash": "F2A1342816D7814B", "target": "A Casa tem orgulho de oferecer uma linha exclusiva de equipamentos esplendorosos para discípulos da Terra e da Mão. Satisfação garantida. Não fazemos reembolsos." },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_005", "hash": "3B239BF313227FCC", "target": "Talismãs? Lamento muito, <if(gnum4,senhorita,senhor)>, mas a Casa suspendeu a venda de todos os talismãs. Ainda não sabemos por quê, mas as bênçãos que depositamos neles se tornaram... ineficazes. Se ainda tiver algum, a representante aqui ao lado ficará feliz em recebê-lo." },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_TOBANA_000_010", "hash": "9B2880BC6FC011E0", "target": "A Casa tem orgulho de oferecer uma seleção exclusiva de tomos repletos de folclore regional. Vão ajudar você a encontrar árvores, ervas, peixes, gemas raras e muito mais. Garantido. Não fazemos reembolsos." },
+    { "gameKey": "custom/002/RegDra2CrafterGathererTradeFront_00274#TEXT_REGDRA2CRAFTERGATHERERTRADEFRONT_00274_SYSTEM_000_010", "hash": "350612E801D6035C", "target": "Ao ler tomos de folclore regional, você descobrirá pontos de coleta e locais de pesca antes desconhecidos. Eles serão adicionados ao Registro de coleta e ao Registro de pesca." }
   ]
 }

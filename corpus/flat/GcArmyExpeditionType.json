@@ -2,8 +2,8 @@
   "sheet": "GcArmyExpeditionType",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "GcArmyExpeditionType#1", "hash": "356A5AF6460D3F20", "target": "" },
-    { "gameKey": "GcArmyExpeditionType#2", "hash": "9D9DE9C2D881EE2A", "target": "" },
-    { "gameKey": "GcArmyExpeditionType#3", "hash": "89F863ED51CFB12D", "target": "" }
+    { "gameKey": "GcArmyExpeditionType#1", "hash": "356A5AF6460D3F20", "target": "Missão de treinamento" },
+    { "gameKey": "GcArmyExpeditionType#2", "hash": "9D9DE9C2D881EE2A", "target": "Missão de rotina" },
+    { "gameKey": "GcArmyExpeditionType#3", "hash": "89F863ED51CFB12D", "target": "Missão prioritária" }
   ]
 }

@@ -2,6 +2,6 @@
   "conversation": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandLotteryExchangeShop_00382#TEXT_CMNDEFSKYISLANDLOTTERYEXCHANGESHOP_00382_TALK_ACTOR", "hash": "89B0A200BC7ED0E7", "target": "Saudações, <if(gnum4,senhora,senhor)>! Sou chaveiro de ofício. Resolvi montar meu negócio aqui quando soube que andavam trazendo caixas trancadas do Diadema. Terei prazer em pôr minha arte a seu serviço... caso precise." }
   ]
 }

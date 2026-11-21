@@ -2,6 +2,6 @@
   "conversation": "custom/009/CtsWksFateMountRideAgain_00987",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsWksFateMountRideAgain_00987#TEXT_CTSWKSFATEMOUNTRIDEAGAIN_00987_TALK_ACTOR", "hash": "A3C396E9E937A48A", "target": "" }
+    { "gameKey": "custom/009/CtsWksFateMountRideAgain_00987#TEXT_CTSWKSFATEMOUNTRIDEAGAIN_00987_TALK_ACTOR", "hash": "A3C396E9E937A48A", "target": "Embarcar em <sheet(Mount,lnum1,0)>?" }
   ]
 }

@@ -2,14 +2,14 @@
   "conversation": "custom/006/CtsMycExorcismTrade_00679",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000", "hash": "FF2C9A3EB88E1A72", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000", "hash": "A3FA4D6DD0A9BD5C", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000", "hash": "6535D87B263E7D31", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001", "hash": "B6377CB7EDAC9E24", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002", "hash": "F4A9C6394F70DE20", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003", "hash": "FA9F61198D0F708A", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000", "hash": "413D5E7B4D7B44FF", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001", "hash": "76D271B41B5DCA17", "target": "" },
-    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002", "hash": "C7A2C61CEBC15489", "target": "" }
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000", "hash": "FF2C9A3EB88E1A72", "target": "Peço desculpas, <if(gnum4,senhorita,senhor)>, mas precisamos conferir nosso estoque antes de solicitar mais contribuições." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000", "hash": "A3FA4D6DD0A9BD5C", "target": "O que você quer fazer? (Bozjan Clusters: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000", "hash": "6535D87B263E7D31", "target": "Solicitar prioridade de mobilização para confrontos críticos.<br>(Bozjan Clusters necessários: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001", "hash": "B6377CB7EDAC9E24", "target": "Trocar Bozjan Clusters por itens." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002", "hash": "F4A9C6394F70DE20", "target": "Perguntar sobre Bozjan Clusters." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003", "hash": "FA9F61198D0F708A", "target": "Nada." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000", "hash": "413D5E7B4D7B44FF", "target": "Solicitar prioridade de mobilização para confrontos críticos?<br>(Bozjan Clusters: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001", "hash": "76D271B41B5DCA17", "target": "Peço desculpas, <if(gnum4,senhorita,senhor)>, mas é preciso contribuir com pelo menos <num(lnum1)> Bozjan Clusters para receber prioridade de mobilização." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002", "hash": "C7A2C61CEBC15489", "target": "Pois bem. Assim que identificarmos a próxima ameaça grave, vamos chamar você para o combate." }
   ]
 }

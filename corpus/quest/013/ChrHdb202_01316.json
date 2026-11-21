@@ -43,6 +43,6 @@
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_067", "hash": "BBC39A28769D6BB9", "target": "Essa... \\<ofego> \\<ofego> Essa é a dança da Casa Manderville, passada de pai para filho." },
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_068", "hash": "46AB95AC84F9A74A", "target": "Se eu a executasse à vista do homem que procuramos, ele não resistiria a se revelar." },
     { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_HILDIBRAND_000_069", "hash": "B8D7837B4FE732DD", "target": "Infelizmente, eu... \\<arquejo>... Eu não alonguei as pernas direito antes. <if(gnum4,Minha boa amiga,Meu bom amigo)>, não vejo outra solução: <italic(1)>você<italic(0)> precisa dançar no meu lugar! Embora seja uma violação grosseira... Não, <italic(1)>inadmissível<italic(0)> das tradições da minha família, preciso transmitir a você a Manderville!" },
-    { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SYSTEM_000_300", "hash": "E3E2A21C63B96744", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Manderville Dance<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/013/ChrHdb202_01316#TEXT_CHRHDB202_01316_SYSTEM_000_300", "hash": "E3E2A21C63B96744", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Dança Manderville<edgecolortype(0)><colortype(0)>!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegYok6Earthenshire_00875",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_000", "hash": "B3ADF0FD5BBFCA80", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_001", "hash": "BCDE0FF3571FA94B", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_002", "hash": "F5AA2116CCD279C1", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_Q1_000_000", "hash": "608EFBF2D6894D33", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_001", "hash": "74E445BF2AEECA8A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_002", "hash": "8B0D2B37C509300A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_003", "hash": "905B177062451780", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_010", "hash": "BBE30D7C8FD59EB7", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_011", "hash": "FF7F28598AA33DDC", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020", "hash": "59C8D9106B183898", "target": "" },
-    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_021", "hash": "7151A536A51B1850", "target": "" }
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_000", "hash": "B3ADF0FD5BBFCA80", "target": "Pfff... Pfffkohhh... Alegres boas-vindas à Vila de Barro! Como Tarnotik pode dar mãoajuda?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_001", "hash": "BCDE0FF3571FA94B", "target": "Tarnotik ouviunotícia que a amizade de Baixoterra ganhou coroabrilho de novo Servidor da Aurora. Baixoterra vai falar boas palavras sobre Vila de Barro a essa pessoa coroada? Se for, Tarnotik conta tudo <if(gnum4,para ela,para ele)>!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_002", "hash": "F5AA2116CCD279C1", "target": "Mãos-ajuda e mãos-artesãs trabalham de mãos dadas! O pactopote continua vivo! Mais um dia de pufs e sopros na Vila de Barro!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_Q1_000_000", "hash": "608EFBF2D6894D33", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_001", "hash": "74E445BF2AEECA8A", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_002", "hash": "8B0D2B37C509300A", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_A1_000_003", "hash": "905B177062451780", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_010", "hash": "BBE30D7C8FD59EB7", "target": "Tarnotik é mão-ajuda. O trabalho das mãos-ajuda é ajudar as mãos-artesãs com tudo que precisam para cumprir suas pedetarefas com toda a sua destreza." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_011", "hash": "FF7F28598AA33DDC", "target": "Tem que arranjar lugar de trabalho com confortossentimento perfeito para mãos-artesãs... mas confortossentimento demais e as mãos-artesãs não artesanam! Tem que equilibrar acalmastresse com cutucaincentivo!" },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_020", "hash": "59C8D9106B183898", "target": "Vila de Barro é pensacoisa de Moblin, erguida com moldabarro de Moblin. Agora é lar de Moblins e de jurapotes, a quem damos moradia e mãoajuda." },
+    { "gameKey": "custom/008/RegYok6Earthenshire_00875#TEXT_REGYOK6EARTHENSHIRE_00875_TARNOTIK_000_021", "hash": "7151A536A51B1850", "target": "Jurapotes são mestres da arte. Com nossa mãoajuda, fazem muitas, muitas obras-primas. E nós, pela nossa parte, ganhamos muito, muito tilintabrilho!" }
   ]
 }

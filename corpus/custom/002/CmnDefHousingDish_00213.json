@@ -2,8 +2,8 @@
   "conversation": "custom/002/CmnDefHousingDish_00213",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_TITLE", "hash": "3F0BA039AE762725", "target": "" },
-    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_YES", "hash": "704F1D47F150556B", "target": "" },
-    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_NO", "hash": "6F7E111F8593D10D", "target": "" }
+    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_TITLE", "hash": "3F0BA039AE762725", "target": "Comer <ennoun(Item,3,lnum2,1,1)>?<br>(Usos restantes: <num(lnum1)>)" },
+    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_YES", "hash": "704F1D47F150556B", "target": "Sim" },
+    { "gameKey": "custom/002/CmnDefHousingDish_00213#TEXT_CMNDEFHOUSINGDISH_00213_EAT_ASK_NO", "hash": "6F7E111F8593D10D", "target": "Não" }
   ]
 }

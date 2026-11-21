@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegWilForgottenSprings_00123",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_000", "hash": "D6AD589DB01322F8", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_010", "hash": "74EB0DBDA6381128", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_011", "hash": "A8A2F04E6570C6A9", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_020", "hash": "37B452C06DD726FE", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_021", "hash": "621EA0D2AC78D110", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_022", "hash": "B61545EF1F19F087", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_Q1_000_000", "hash": "242D781EED20538A", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_001", "hash": "7E8658E61FE22CDE", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_002", "hash": "5FBFC9D8319DFCD1", "target": "" },
-    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_003", "hash": "425586A28C437EBD", "target": "" }
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_000", "hash": "D6AD589DB01322F8", "target": "Se está atrás de água, veio falar com a pessoa errada. Ou queria outra coisa?" },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_010", "hash": "74EB0DBDA6381128", "target": "Sou uma caçadora da orgulhosa tribo U, também conhecida como Filhos das Areias. Todo dia me levanto ao raiar do sol e percorro as dunas à procura de caça." },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_011", "hash": "A8A2F04E6570C6A9", "target": "Estas fontes podem até ser um paraíso, mas o deserto não perdoa. Se não sabe caçar, serve tanto quanto um bebê de colo. É só mais uma boca pra alimentar." },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_020", "hash": "37B452C06DD726FE", "target": "Este é o único povoado do Deserto de Sagolii, e é onde moro. Já foi um centro de comércio próspero." },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_021", "hash": "621EA0D2AC78D110", "target": "Com o tempo, o povo perdeu o interesse por nós, e o comércio morreu. Foi assim que o lugar ficou conhecido lá fora como Fontes Esquecidas." },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_UMOLLPA_000_022", "hash": "B61545EF1F19F087", "target": "Mas, justo quando a gente começou a gostar do isolamento, umas ruínas resolveram aparecer logo ao sul daqui. Agora, o povo de Ul'dah voltou em peso, e temos que aguentar a ganância deles mais uma vez." },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_Q1_000_000", "hash": "242D781EED20538A", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_001", "hash": "7E8658E61FE22CDE", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_002", "hash": "5FBFC9D8319DFCD1", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegWilForgottenSprings_00123#TEXT_REGWILFORGOTTENSPRINGS_00123_A1_000_003", "hash": "425586A28C437EBD", "target": "Nada." }
   ]
 }

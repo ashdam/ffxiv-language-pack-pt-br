@@ -2,9 +2,9 @@
   "conversation": "custom/000/ComDefGCSupplyDuty_00075",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_TALK_ACTOR", "hash": "B5651C6B2A7C6034", "target": "" },
-    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_001", "hash": "2C846BF14622CB17", "target": "" },
-    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_002", "hash": "FE357771220D1CA4", "target": "" },
-    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_003", "hash": "899D53F9870A5F99", "target": "" }
+    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_TALK_ACTOR", "hash": "B5651C6B2A7C6034", "target": "Missões de suprimentos." },
+    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_001", "hash": "2C846BF14622CB17", "target": "Aceitar" },
+    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_002", "hash": "FE357771220D1CA4", "target": "Cancelar" },
+    { "gameKey": "custom/000/ComDefGCSupplyDuty_00075#TEXT_COMDEFGCSUPPLYDUTY_00075_UI_000_003", "hash": "899D53F9870A5F99", "target": "Informe a quantidade a entregar." }
   ]
 }

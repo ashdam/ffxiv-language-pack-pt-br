@@ -43,7 +43,7 @@
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_060", "hash": "C32549241CC08B69", "target": "Se virem alguém do nosso povo nesta câmara, provavelmente voltou de uma viagem para além das fronteiras de Rak'tika." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_061", "hash": "962347F6F69429AA", "target": "Usamos a água guardada aqui para nos purificar da impureza da Luz." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_062", "hash": "9A97478BD4E6A476", "target": "Um costume simples e talvez peculiar, mas um dos mais importantes para nós." },
-    { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_063", "hash": "1B2BF170E0AB26F5", "target": "<if(gnum4,Vocês duas,Vocês dois)> podem usar <colortype(500)><edgecolortype(501)>kneel<edgecolortype(0)><colortype(0)> por um instante, para que eu livre vocês da impureza da Luz?" },
+    { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_063", "hash": "1B2BF170E0AB26F5", "target": "<if(gnum4,Vocês duas,Vocês dois)> podem usar <colortype(500)><edgecolortype(501)>Se ajoelhar<edgecolortype(0)><colortype(0)> por um instante, para que eu livre vocês da impureza da Luz?" },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RYNE_000_070", "hash": "3556EC3F8C1340B6", "target": "Não podemos ser <if(gnum4,mal-educadas,mal-educados)> com nossos anfitriões." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_075", "hash": "C72F8FEF59F874E3", "target": "Por favor, só vai levar um instante." },
     { "gameKey": "quest/033/LucKmc104_03325#TEXT_LUCKMC104_03325_RUNAR_000_076", "hash": "FBC4D58B6F340A81", "target": "Só vai levar um instante, prometo." },

@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegWilMaterialize_00084",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_01", "hash": "FE63949E6EE2A7C5", "target": "" },
-    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_02", "hash": "5C40B2F2F2AD29C2", "target": "" }
+    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_01", "hash": "FE63949E6EE2A7C5", "target": "Pshhh...?<br>Altogente quer tirar matéria? É só fazer força e arrancar. Com sorte, matéria não vira pedacinho!" },
+    { "gameKey": "custom/000/RegWilMaterialize_00084#TEXT_REGWILMATERIALIZE_00084_MUTAMIX_000_02", "hash": "5C40B2F2F2AD29C2", "target": "Para remover uma matéria de um item, destaque o ícone e selecione Recuperar matéria. Há uma chance de recuperar a matéria intacta." }
   ]
 }

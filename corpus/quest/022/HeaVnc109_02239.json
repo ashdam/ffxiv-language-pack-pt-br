@@ -58,6 +58,6 @@
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_120", "hash": "10AAACC411407776", "target": "Já se despediu?" },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_121", "hash": "35A17DF71231F8A7", "target": "Em todos esses anos que conheço Raubahn, não me lembro de vê-lo tão feliz após uma derrota." },
     { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_THANCRED_000_122", "hash": "32C3A25DF77600F4", "target": "Bem! Tudo parece se encaixar, não é? Os ishgardeses conquistaram a vitória simbólica, e a Aliança Eorzeana saiu fortalecida. Sinta orgulho, <split(<string(gstr1)>, ,1)>. Você tornou isso possível." },
-    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Victory<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/022/HeaVnc109_02239#TEXT_HEAVNC109_02239_SYSTEM_000_130", "hash": "3248DDD5F9CDF20C", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Celebrar a vitória<edgecolortype(0)><colortype(0)>!" }
   ]
 }

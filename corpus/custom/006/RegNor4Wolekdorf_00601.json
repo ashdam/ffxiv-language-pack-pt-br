@@ -2,16 +2,16 @@
   "conversation": "custom/006/RegNor4Wolekdorf_00601",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "" },
-    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "" }
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_000", "hash": "4CCB4562D478F212", "target": "É raro receber pessoas de fora aqui. Se não fizer nada que perturbe nossa paz, receberemos você de asas abertas." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_Q1_000_000", "hash": "E9B0FA5C98D83ADC", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_001", "hash": "7E9B995807B90740", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_002", "hash": "C7C117E92F0AA4A4", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_A1_000_003", "hash": "A229E2987329E80F", "target": "Nada." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_100", "hash": "E7A0D21B3E03BA42", "target": "Na minha vida de antes, tinha um mestre com quem viajei até os confins do reino. De Nabaath Areng, bem ao sul, até Voeburt, aqui ao norte, voávamos ao sabor do vento." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_101", "hash": "6A52ACB2D46CE184", "target": "Meu mestre amava tanto viajar, e a maior prova disso é o nome que me deu: Viajante." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_102", "hash": "589E06A0F2086245", "target": "Faz muitos anos que não parto em viagem. Imagino como o mundo fora de Il Mheg deve ter mudado. Ainda assim, não quero revê-lo. Prefiro que os lugares por onde passei permaneçam como os guardo na memória." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_200", "hash": "70EBAFAB7708B341", "target": "Entre nós, amaro, há quem desperte habilidades há muito perdidas, entre elas a fala. O povo de Ronka nos chamava de “Tupaq Amaro”. Viemos para cá viver nossos últimos dias." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_201", "hash": "6622F39F0F5C7616", "target": "Por morte ou abandono, todos perdemos nossos mestres e conhecemos a solidão amarga. Nesta comunidade, porém, podemos encontrar acolhimento, compreensão e, não menos importante, paz." },
+    { "gameKey": "custom/006/RegNor4Wolekdorf_00601#TEXT_REGNOR4WOLEKDORF_00601_TRAVELER_000_202", "hash": "F683956E0B84CB79", "target": "Em bando, fazemos da paz o centro da nossa vida e ficamos longe de encrenca. Nossos vizinhos feéricos nem sempre respeitam nosso desejo, mas, no geral, estamos bem." }
   ]
 }

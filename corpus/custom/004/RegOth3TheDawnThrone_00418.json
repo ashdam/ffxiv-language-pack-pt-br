@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegOth3TheDawnThrone_00418",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "" },
-    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "" }
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_000", "hash": "0C123A03752A1C7C", "target": "Uma visita? Não recebemos muitas por aqui. Se tiver curiosidade sobre alguma coisa, é só perguntar." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_Q1_000_000", "hash": "5DD77BF05427BBBD", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_001", "hash": "A7973FC623E63A58", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_002", "hash": "0A8C285CD3A75E28", "target": "Que lugar é este?" },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_A1_000_003", "hash": "050BAEE8C4243F37", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_010", "hash": "5060BE1032EE984B", "target": "Quer saber sobre <italic(1)>mim<italic(0)>? Supervisiono o treino dos nossos lutadores de Azim Bökh. É um estilo de luta tradicional da Estepe, passado de geração em geração." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_011", "hash": "9510EB73E3CB950B", "target": "Posso não parecer muito intimidador, mas não se deixe enganar. Conquistei o posto de “Gigante”, título reservado a quem vence nossa grande competição." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_012", "hash": "8426B5D622964368", "target": "He he he! Dê um passo em falso contra mim e vai acabar de costas no chão, sem poder se mexer! Pergunte a qualquer um aqui. Todos podem confirmar." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_020", "hash": "B6BB1D636F39E5D1", "target": "O Trono da Alvorada é terra sagrada, esculpida pelas mãos do próprio Azim. Foi aqui que nasceu seu filho, o primeiro do nosso povo." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_021", "hash": "F2C8ED9938934B9C", "target": "O rosto do Pai da Alvorada foi gravado na base da província sagrada, que nós, seus filhos, temos o dever de proteger." },
+    { "gameKey": "custom/004/RegOth3TheDawnThrone_00418#TEXT_REGOTH3THEDAWNTHRONE_00418_BERUDE_000_022", "hash": "FA0AF49A4832FBB7", "target": "Daqui dá pra ver a imensidão da Estepe, com pastagens até onde a vista alcança. É uma visão de tirar o fôlego, e ainda permite avistar feras ou forças inimigas que se aproximem." }
   ]
 }

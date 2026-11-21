@@ -2,16 +2,16 @@
   "conversation": "custom/002/RegDra2Idyllshire_00289",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_Q1_000_000", "hash": "FF8C93BC7A11E674", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_001", "hash": "5D35725A3D451ED3", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_002", "hash": "6FB342DB25C9870E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_003", "hash": "659179FB97C45221", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_010", "hash": "AB2DAF5A9A451EC0", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_011", "hash": "1DCC4D060B2CD0C9", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_012", "hash": "DC5077E8CAF6C4D0", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_020", "hash": "D66A6750323456C5", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_021", "hash": "FFDAF4C6A44F8CFC", "target": "" },
-    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_022", "hash": "019F77A488AA0547", "target": "" }
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_000", "hash": "0DE25EB585A6751C", "target": "Pshkohhh... Altogente tem perguntas? Cheepchix tem respostas!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_Q1_000_000", "hash": "FF8C93BC7A11E674", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_001", "hash": "5D35725A3D451ED3", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_002", "hash": "6FB342DB25C9870E", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_A1_000_003", "hash": "659179FB97C45221", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_010", "hash": "AB2DAF5A9A451EC0", "target": "Garimpar, aprender, construir! A tecnologia de Sharlayan é nossa pra pegar!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_011", "hash": "1DCC4D060B2CD0C9", "target": "Todo dia o goblinbando aprende mais e mais com sucata e livros. Vamos encher caixacucas de palavras e saberes de altogentes!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_012", "hash": "DC5077E8CAF6C4D0", "target": "Mas os Illuminati querem todas as palavras e saberes só pra eles. Cheepchix não suporta isso! Cheepchix gosta de ter um vocabulário grandão!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_020", "hash": "D66A6750323456C5", "target": "O goblinbando anda por muitos anos, como manda a tradição goblin. Mas, por grande sorte, o goblinbando chega à cidade abandonada de Sharlayan!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_021", "hash": "FFDAF4C6A44F8CFC", "target": "Dá pra aprender muito estudando sucata e lendo livros. Está decidido: o goblinbando tem que ficar!" },
+    { "gameKey": "custom/002/RegDra2Idyllshire_00289#TEXT_REGDRA2IDYLLSHIRE_00289_IDYLLSHIREGUIDE_000_022", "hash": "019F77A488AA0547", "target": "Depois vêm altogentes que pensam igual pra dividir os achados. Juntos construímos o Condado Idílico, uma comunidade de gente trabalhadora e engenhosa!" }
   ]
 }

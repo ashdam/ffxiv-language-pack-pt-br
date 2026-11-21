@@ -2,19 +2,19 @@
   "conversation": "custom/008/CmnDefQstMain01_00848",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_WUKLAMAT_100_001", "hash": "3186F2060DF9199E", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_KRILE_000_001", "hash": "41059A63DF673A14", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ERENVILLE_000_005", "hash": "E4789F1B306E8B4D", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALPHINAUD_000_010", "hash": "0DC5252EAA4EDBC0", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALISAIE_000_015", "hash": "53486CBD75B3726C", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_HANUHANUCOLLABORATOR4864_000_020", "hash": "B0E36D4870B4B72E", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_PELUPELUCOLLABORATOR4864_000_025", "hash": "D722EBF135678AA1", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_WUKLAMAT_100_030", "hash": "C3F4A57B9303C4BA", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_KRILE_000_030", "hash": "987233F29E2E2E6B", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ERENVILLE_000_035", "hash": "EA6B41659486DFBE", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALPHINAUD_000_040", "hash": "40FD20FFE535FA81", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALISAIE_000_045", "hash": "58ADDC737A6DE35D", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_PELUPELUCOLLABORATOR4864_000_050", "hash": "65EFB63276E0E45D", "target": "" },
-    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_HANUHANUCOLLABORATOR4864_000_050", "hash": "5E40DC7A0794B548", "target": "" }
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_WUKLAMAT_100_001", "hash": "3186F2060DF9199E", "target": "Confio no seu instinto!" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_KRILE_000_001", "hash": "41059A63DF673A14", "target": "Com quem você acha que devemos falar primeiro?" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ERENVILLE_000_005", "hash": "E4789F1B306E8B4D", "target": "Wuk Lamat talvez não tenha tanta experiência nem tantos feitos quanto os irmãos, mas tem jeito com as pessoas. Para ela, encontrar quem queira colaborar é tão simples quanto pedir." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALPHINAUD_000_010", "hash": "0DC5252EAA4EDBC0", "target": "Mesmo de perto, os Hanu se parecem muito com os Vanu. Tirando aquelas penas brilhantes, é claro." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALISAIE_000_015", "hash": "53486CBD75B3726C", "target": "Será que tem algum motivo para todos os Pelupelu usarem essas máscaras...?" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_HANUHANUCOLLABORATOR4864_000_020", "hash": "B0E36D4870B4B72E", "target": "Então... posso pedir qualquer coisa em Xbalyav Ty'e? <italic(1)>Qualquer coisa<italic(0)>?! A Terceira Promessa é generosa demais!" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_PELUPELUCOLLABORATOR4864_000_025", "hash": "D722EBF135678AA1", "target": "Tacos à vontade em troca de alguns dias do meu tempo? Só um tolo recusaria uma proposta dessas!" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_WUKLAMAT_100_030", "hash": "C3F4A57B9303C4BA", "target": "Venha, <split(<string(gstr1)>, ,1)>! Vamos ver o que nos espera no próximo vilarejo!" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_KRILE_000_030", "hash": "987233F29E2E2E6B", "target": "Agora as regras do rito parecem claras. As cenas da saga nos indicam o caminho até os eleitores, e eles nos concedem pedras-chave quando cumprimos suas proezas. Simples!" },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ERENVILLE_000_035", "hash": "EA6B41659486DFBE", "target": "Wuk Lamat teria tido dificuldade para completar essas proezas sozinha. Pelo visto, reunir vocês foi a decisão certa." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALPHINAUD_000_040", "hash": "40FD20FFE535FA81", "target": "Com uma pedra-chave em mãos, tivemos um começo promissor no rito. Espero que nossa próxima tentativa seja tão bem-sucedida quanto esta." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_ALISAIE_000_045", "hash": "58ADDC737A6DE35D", "target": "Sem saber quanto os outros candidatos avançaram, não dá para parar mais que uns instantes para descansar." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_PELUPELUCOLLABORATOR4864_000_050", "hash": "65EFB63276E0E45D", "target": "Ai, minha barriga... Faz muito tempo que eu não comia tão bem." },
+    { "gameKey": "custom/008/CmnDefQstMain01_00848#TEXT_CMNDEFQSTMAIN01_00848_HANUHANUCOLLABORATOR4864_000_050", "hash": "5E40DC7A0794B548", "target": "Xbalyav Ty'e é mesmo uma maravilha da culinária." }
   ]
 }

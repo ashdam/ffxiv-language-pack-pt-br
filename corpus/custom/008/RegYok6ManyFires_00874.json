@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegYok6ManyFires_00874",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_000", "hash": "979BCD00C244B392", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_001", "hash": "19FB1D9AEB3E5842", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_002", "hash": "61614D9DE3B128AC", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_Q1_000_000", "hash": "C817FAE6CCB6F279", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_001", "hash": "A123B5040FA16181", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_002", "hash": "B09D1DDD4DB14AFD", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_003", "hash": "27758699161A5491", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_010", "hash": "8204BD8AB01E0844", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_011", "hash": "99CA24C0D856F358", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_020", "hash": "128AEE94FDA30C63", "target": "" },
-    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_021", "hash": "B5A9E96A11013663", "target": "" }
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_000", "hash": "979BCD00C244B392", "target": "Pfff... Pfffkohhh... Saudaçofalas, Baixoterra. Baixoterra quer pensarsaber mais sobre Muitas Fogueiras?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_001", "hash": "19FB1D9AEB3E5842", "target": "Flonichiq coraçãoespera que o novo Servidor da Aurora continue a investir em Kozama'uka. Mais rotascomércio dão mais negócio, que dá mais tilintabrilho!" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_002", "hash": "61614D9DE3B128AC", "target": "Pfff... Pfffkohhh... Quando comerciantes e viajantes dão mãoajuda uns aos outros, Tural fica forte e mais forte! Baixoterra é viajante ou comerciante? O que <if(gnum4,a,o)> traz a Muitas Fogueiras?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_Q1_000_000", "hash": "C817FAE6CCB6F279", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_001", "hash": "A123B5040FA16181", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_002", "hash": "B09D1DDD4DB14AFD", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_A1_000_003", "hash": "27758699161A5491", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_010", "hash": "8204BD8AB01E0844", "target": "Flonichiq dá alegres boas-vindas em Muitas Fogueiras. Recebe de bom grado viajantes e comerciantes e serve o churrasco que mais alegra a barriga." },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_011", "hash": "99CA24C0D856F358", "target": "Viajantes e comerciantes agradecem a gentileza de Flonichiq com tilintabrilho ou, melhor ainda, com carnesabor!" },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_020", "hash": "128AEE94FDA30C63", "target": "Muitas Fogueiras é parada de descanso para viajantes e comerciantes de longocaminho, de Tuliyollal ao extremo sul e de voltandar." },
+    { "gameKey": "custom/008/RegYok6ManyFires_00874#TEXT_REGYOK6MANYFIRES_00874_FLONICHIQ_000_021", "hash": "B5A9E96A11013663", "target": "Em geral, quem vem de longocaminho para aqui depois de subir a escadagrande, mas a escadagrande quebrou, e o fluxo de gente parou. Flonichiq espera que consertem logo a escadagrande, para que todo mobbie possa se juntar às fogueiras e comer carnechispa em companhia outra vez!" }
   ]
 }

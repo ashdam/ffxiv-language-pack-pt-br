@@ -2,7 +2,7 @@
   "conversation": "quest/050/KinGyr202_05010",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SEQ_00", "hash": "6A99C88560DAA3CB", "target": "Bol Ogaw, mestre da Dawn Hunt, quer apresentar você a alguém." },
+    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SEQ_00", "hash": "6A99C88560DAA3CB", "target": "Bol Ogaw, mestre da Caça da Alvorada, quer apresentar você a alguém." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_00", "hash": "BD7074F3BB91D5E1", "target": "Falar com Ty'at Qat" },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TODO_01", "hash": "EC5230985F375C87", "target": "Falar com Bol Ogaw" },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_001", "hash": "191076607BFC922A", "target": "Os intermediate Dawn Hunt mark bills ficarão disponíveis quando você cumprir certas condições das missões da história principal de Dawntrail." },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_010", "hash": "65FC54E55379AB4F", "target": "Você quer alguma coisa comigo, <if(gnum4,forasteira,forasteiro)>?" },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_011", "hash": "D31A780CB3904A46", "target": "...Bol Ogaw mandou você, é? Mais carne fresca para as feras." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_100_011", "hash": "45ACFFE0DEEB65A0", "target": "Mas você parece ter um pouco mais de fibra que a maioria." },
-    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_012", "hash": "CA84F026876DEC0E", "target": "Bom, se você faz mesmo questão de se dedicar à Dawn Hunt, devo contar um pouco mais a respeito. Por onde começar...?" },
+    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_012", "hash": "CA84F026876DEC0E", "target": "Bom, se você faz mesmo questão de se dedicar à Caça da Alvorada, devo contar um pouco mais a respeito. Por onde começar...?" },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_013", "hash": "AFDD66EDD6C5CA7D", "target": "Você poderia dizer “pelo começo”, mas é difícil apontar quando foi isso. Mesmo antes de Koana trazer de Eorzea o sistema de alvos e contratos, nosso povo já caçava.<br><br>Não só por comida, mas por segurança. Caçávamos aquelas monstruosidades disformes cuja própria existência ameaçava a nossa." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_014", "hash": "7A18AFBA500B8B3F", "target": "Foi justamente para isso que surgiram os vipers. Os melhores caçadores de Tural se uniram para afiar suas habilidades e lâminas, e dedicaram a vida a perseguir e abater as feras." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_TYATQAT_000_015", "hash": "73ECF7FA3EE2AA87", "target": "No começo, éramos só um grupo com o mesmo ideal, que tomava para si o dever de enfrentar qualquer perigo de que ouvisse falar. Só depois de Gulool Ja Ja unir Tural sob a coroa do Servidor da Aurora é que nosso papel de protetores do reino se tornou oficial." },
@@ -30,7 +30,7 @@
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_BOLOGAW_200_022", "hash": "FD92133C87853B2B", "target": "Que bom. Não caçamos para matar, caçamos para viver. Lembre-se disso e tudo vai dar certo." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_BOLOGAW_300_022", "hash": "BAB722D36ED9A191", "target": "Por falar nisso, aproveitei para atualizar o registro. Agora você tem autorização para caçar alvos intermediários. Boa caçada e boa sorte." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_022", "hash": "2CE5E1486966C562", "target": "Os intermediate Dawn Hunt mark bills agora estão disponíveis." },
-    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_023", "hash": "BF106E9F61BCCADB", "target": "Agora você pode aceitar intermediate Dawn Hunt mark bills no quadro de caçadas da Aurora de Tuliyollal." },
+    { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_023", "hash": "BF106E9F61BCCADB", "target": "Agora você pode aceitar intermediate Dawn Hunt mark bills no quadro da Caça da Alvorada em Tuliyollal." },
     { "gameKey": "quest/050/KinGyr202_05010#TEXT_KINGYR202_05010_SYSTEM_000_024", "hash": "61DFB922CCFBA6BE", "target": "Novas missões e advanced Dawn Hunt mark bills ficarão disponíveis com Bol Ogaw quando você atingir o nível 99 e cumprir certas condições da história principal." }
   ]
 }

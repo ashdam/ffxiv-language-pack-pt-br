@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory2_00893",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_000", "hash": "5D5DBB1FC8E6F34C", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_010", "hash": "3ED1AE20C8209459", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_011", "hash": "A7BF0A28B1547E3B", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_012", "hash": "0DE6FEB5568E0857", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_000", "hash": "5D5DBB1FC8E6F34C", "target": "O painel traz informações sobre a história dos Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_010", "hash": "3ED1AE20C8209459", "target": "(-Capítulo II-)Os Milalla guardam uma relíquia poderosa, transmitida através das eras. Embora pareça um cristal, ninguém sabe quem a criou." },
+    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_011", "hash": "A7BF0A28B1547E3B", "target": "(-Capítulo II-)Quando uma grande calamidade congelou suas ilhas, o Porta-voz, seu líder espiritual, rezou fervorosamente à relíquia em busca de salvação." },
+    { "gameKey": "custom/008/RegUlwHistory2_00893#TEXT_REGULWHISTORY2_00893_SYSTEM_000_012", "hash": "0DE6FEB5568E0857", "target": "(-Capítulo II-)Em resposta às preces, a relíquia abriu para eles um caminho dourado, brilhante como a luz da aurora. Por esse caminho, fugiram para uma nova terra." }
   ]
 }

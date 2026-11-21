@@ -2,9 +2,9 @@
   "conversation": "custom/001/FesNyrSeaShogun2014_00147",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "" },
-    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "" }
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_000", "hash": "C9EBB475886520FC", "target": "A Virada Celestial é nova oportunidade, sim? Penso que é como o jogo de pedra, seda e garra." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_001", "hash": "CDDF1D10E8884BA6", "target": "A mão se ergue, a mão faz figuras, a mão vence, perde ou empata. A cada Virada Celestial, torna a se erguer. É a sorte, <if(gnum4,minha senhora,meu senhor)>, a sorte." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_010", "hash": "BB73236FABEAF31E", "target": "Acabou perdendo o crimson uma kabuto? Às vezes penso que lhe falta juízo." },
+    { "gameKey": "custom/001/FesNyrSeaShogun2014_00147#TEXT_FESNYRSEASHOGUN2014_00147_REDGENERAL_000_011", "hash": "2CD1DB7842551825", "target": "Já está às lágrimas, <if(gnum4,minha senhora,meu senhor)>? Penso que outro desses em suas mãos há de secá-las." }
   ]
 }

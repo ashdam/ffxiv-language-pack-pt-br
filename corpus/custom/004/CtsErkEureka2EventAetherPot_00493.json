@@ -2,8 +2,8 @@
   "conversation": "custom/004/CtsErkEureka2EventAetherPot_00493",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000", "hash": "B50D1E8DB4B78B06", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010", "hash": "2BD2A547396F406E", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT", "hash": "5CDB69D422F9A9F3", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_000", "hash": "B50D1E8DB4B78B06", "target": "Uma placa de metal traz as palavras “forja de cristal”. O aparelho não parece danificado, mas não está claro para que serve ou como usá-lo..." },
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_SYSTEM_000_010", "hash": "2BD2A547396F406E", "target": "Uma placa de metal traz as palavras “forja de cristal”. O aparelho não parece danificado. Parece fácil de usar... desde que você tenha éter misto suficiente para alimentá-lo." },
+    { "gameKey": "custom/004/CtsErkEureka2EventAetherPot_00493#TEXT_CTSERKEUREKA2EVENTAETHERPOT_00493_YESNO_CONTENT", "hash": "5CDB69D422F9A9F3", "target": "Cristalizar o éter misto?" }
   ]
 }

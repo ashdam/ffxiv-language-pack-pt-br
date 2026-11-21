@@ -2,13 +2,13 @@
   "conversation": "custom/007/FesAnv2022_00774",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_000", "hash": "F65910A47CBCC79B", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_Q1_000_001", "hash": "11A8CF3B0B5375EB", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_001", "hash": "1753087E2C03F0F3", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_003", "hash": "9D2112809260B24D", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_010", "hash": "2DB13EA6B3415928", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_011", "hash": "FBE93E6C9A65AFAF", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_012", "hash": "0A0E36AE685C367B", "target": "" },
-    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_013", "hash": "251E6CCB7F746115", "target": "" }
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_000", "hash": "F65910A47CBCC79B", "target": "Ao olhar para o passado, encontramos consolo no presente e refletimos sobre o que o futuro nos reserva. Essa é a essência do Festival do Renascimento! Este ano, preparamos um espetáculo de fogos de artifício que vai encantar quem vier assistir!" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_Q1_000_001", "hash": "11A8CF3B0B5375EB", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_001", "hash": "1753087E2C03F0F3", "target": "O que é o Festival do Renascimento?" },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_A1_000_003", "hash": "9D2112809260B24D", "target": "Nada." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_010", "hash": "2DB13EA6B3415928", "target": "O Festival do Renascimento é um período de memória em que homenageamos quem perdeu a vida na grande tragédia da Calamidade. Também prestamos tributo aos heróis anônimos que arriscaram a própria vida para que outros tivessem um futuro mais promissor." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_011", "hash": "FBE93E6C9A65AFAF", "target": "Por isso, as ruas recebem enfeites sóbrios e os céus noturnos se enchem de fogos de artifício multicoloridos." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_012", "hash": "0A0E36AE685C367B", "target": "A solenidade nas ruas e as luzes no céu podem levar as pessoas a refletir sobre a ruína que Dalamud anunciava. Talvez assim agradeçam pelo presente e encontrem esperança em dias melhores." },
+    { "gameKey": "custom/007/FesAnv2022_00774#TEXT_FESANV2022_00774_NEWBORNINTERN_000_013", "hash": "251E6CCB7F746115", "target": "Caso esteja se perguntando, as homenagens acontecem em Ul'dah. Se quiser participar, convidamos você a visitar o sultanato." }
   ]
 }

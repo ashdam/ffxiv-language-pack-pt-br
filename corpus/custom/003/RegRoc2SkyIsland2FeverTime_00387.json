@@ -2,12 +2,12 @@
   "conversation": "custom/003/RegRoc2SkyIsland2FeverTime_00387",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_000", "hash": "61906BC51C45E857", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_001", "hash": "1698D4961D1F5442", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_002", "hash": "0C83C6DE5FACDB1F", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_003", "hash": "10ED3D73FA2FB253", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_000", "hash": "375E77D0BEA93F53", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_001", "hash": "C9F784B963FEEA79", "target": "" },
-    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_002", "hash": "17F3D57E19B2EC9D", "target": "" }
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_000", "hash": "61906BC51C45E857", "target": "Prossiga com cautela, por favor. As energias do Diadema ficam cada vez mais instáveis. Dizem que a causa é uma curiosa ruína flutuante que veio à deriva..." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_001", "hash": "1698D4961D1F5442", "target": "Essa ilha, essa... joia perdida, se fixou perto da Joia da Coroa. Ao que parece, ninguém consegue penetrar nas ruínas até que uma tempestade de hipereletricidade abra caminho." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_002", "hash": "0C83C6DE5FACDB1F", "target": "Esse tempo é raro, mas vou avisar você pela linkpearl se surgir uma oportunidade. Não podemos perder nenhuma chance de descobrir os segredos da ilha... nem de reivindicar os tesouros!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_110_003", "hash": "10ED3D73FA2FB253", "target": "Prossiga com cautela, por favor. As energias do Diadema ficam cada vez mais instáveis. Dizem que a causa é aquela ruína de Mhach que veio à deriva..." },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_000", "hash": "375E77D0BEA93F53", "target": "Salve, <if(gnum4,aventureira,aventureiro)>! Soube que você entrou nas ruínas da Joia Perdida e encontrou seus habitantes aterrorizantes!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_001", "hash": "C9F784B963FEEA79", "target": "Fico feliz de ver que você saiu de lá sem um arranhão. A origem da ilha ainda é um mistério, mas você provou que, com determinação, dá ao menos para firmar pé naquelas costas ameaçadoras!" },
+    { "gameKey": "custom/003/RegRoc2SkyIsland2FeverTime_00387#TEXT_REGROC2SKYISLAND2FEVERTIME_00387_PILOT_210_002", "hash": "17F3D57E19B2EC9D", "target": "Suponho que era de esperar de um vestígio da civilização de Mhach. É espantoso pensar que magias tão antigas ainda tenham poder para perturbar o próprio equilíbrio dos elementos..." }
   ]
 }

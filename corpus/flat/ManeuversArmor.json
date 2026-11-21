@@ -2,11 +2,11 @@
   "sheet": "ManeuversArmor",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "ManeuversArmor#0.10", "hash": "2110A32C3B4CA095", "target": "" },
-    { "gameKey": "ManeuversArmor#0.11", "hash": "01FAD4D00E7D3A82", "target": "" },
-    { "gameKey": "ManeuversArmor#1.10", "hash": "6B9CD43FCCAE8C00", "target": "" },
-    { "gameKey": "ManeuversArmor#1.11", "hash": "2004D4B22B0B53E1", "target": "" },
-    { "gameKey": "ManeuversArmor#2.10", "hash": "2C9A4BEA01BBEBFC", "target": "" },
-    { "gameKey": "ManeuversArmor#2.11", "hash": "7A26003DAC200624", "target": "" }
+    { "gameKey": "ManeuversArmor#0.10", "hash": "2110A32C3B4CA095", "target": "Cruise Chaser" },
+    { "gameKey": "ManeuversArmor#0.11", "hash": "01FAD4D00E7D3A82", "target": "Máquina de última geração equipada com um motor antigravitacional. Desliza para o combate. O Spin Crusher destroça blindagens espessas, enquanto a Laser Sword e o Hawk Blaster dão cabo da infantaria. Sacrifica a defesa em favor da mobilidade e perdeu a capacidade de se transformar para facilitar a fabricação." },
+    { "gameKey": "ManeuversArmor#1.10", "hash": "6B9CD43FCCAE8C00", "target": "Oppressor" },
+    { "gameKey": "ManeuversArmor#1.11", "hash": "2004D4B22B0B53E1", "target": "Máquina colossal projetada para operações de cerco. Sua especialidade é arrasar estruturas. Um exército delas pode derrubar torres e núcleos com assustadora facilidade, mas a blindagem pesada as torna lentas e difíceis de manobrar, e elas têm dificuldade para enfrentar a infantaria e outras máquinas." },
+    { "gameKey": "ManeuversArmor#2.10", "hash": "2C9A4BEA01BBEBFC", "target": "Brute Justice" },
+    { "gameKey": "ManeuversArmor#2.11", "hash": "7A26003DAC200624", "target": "Com poder incomparável, Brute Justice domina o campo de batalha com Flarethrower e Mega Beam e arrasa estruturas com Double Rocket Punch. Para reduzir os custos de fabricação, este modelo não pode se unir a outras máquinas nem se separar. É o preço da produção em massa." }
   ]
 }

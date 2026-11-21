@@ -2,9 +2,9 @@
   "sheet": "WebGuidance",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "WebGuidance#1.2", "hash": "1DADF4760FCE2977", "target": "" },
-    { "gameKey": "WebGuidance#1.4", "hash": "064B7C503B119231", "target": "" },
-    { "gameKey": "WebGuidance#2.2", "hash": "2CC88F1E694CCBFE", "target": "" },
-    { "gameKey": "WebGuidance#2.4", "hash": "8236596D50D6A383", "target": "" }
+    { "gameKey": "WebGuidance#1.2", "hash": "1DADF4760FCE2977", "target": "Localizador de comunidades" },
+    { "gameKey": "WebGuidance#1.4", "hash": "064B7C503B119231", "target": "O Localizador de comunidades reúne as informações mais recentes sobre recrutamento para Companhias Livres e linkshells.<br><br>Acesse o site para encontrar novos aliados para suas aventuras!" },
+    { "gameKey": "WebGuidance#2.2", "hash": "2CC88F1E694CCBFE", "target": "Immerse Spatial Audio" },
+    { "gameKey": "WebGuidance#2.4", "hash": "8236596D50D6A383", "target": "Uma nova dimensão sonora espera por você. O Immerse traz áudio espacial personalizado em 360 graus para o mundo de FINAL FANTASY XIV. Baixe e experimente o Immerse gratuitamente!<br><br>Após a instalação, abra o aplicativo “Immerse Gamepack FINAL FANTASY XIV Edition” para configurar seu perfil e ativar o áudio espacial em 360 graus." }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/002/CmnDefExpansionGuide1_00261",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000", "hash": "B43F6FD7367148CE", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001", "hash": "3DC41FFEE41FF26E", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "" },
-    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005", "hash": "82CC14BF3F1AE291", "target": "" }
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_TEMPLEKNIGHT01580_000_000", "hash": "B43F6FD7367148CE", "target": "Ninguém passa pelos Portões do Julgamento sem autorização." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_001", "hash": "3DC41FFEE41FF26E", "target": "Para entrar em Ishgard, você precisa cumprir os seguintes requisitos:" },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_003", "hash": "F501ECA4C5AB8ED6", "target": "※Você precisa ter concluído a missão do cenário principal “Antes do amanhecer”." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_004", "hash": "0CED73068A796FF2", "target": "※ Você precisa estar realizando a missão “Chegando a Ishgard”." },
+    { "gameKey": "custom/002/CmnDefExpansionGuide1_00261#TEXT_CMNDEFEXPANSIONGUIDE1_00261_SYSTEM_000_005", "hash": "82CC14BF3F1AE291", "target": "Para conferir o progresso das suas missões, selecione <colortype(500)><edgecolortype(501)>Conteúdos<edgecolortype(0)><colortype(0)> no menu principal e depois <colortype(500)><edgecolortype(501)>Diário<edgecolortype(0)><colortype(0)>." }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "custom/005/CtsEtcVoyagerMoogle_00566",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_00001", "hash": "010FC79982E735D1", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_Q1_000_000", "hash": "987653DE43505B5A", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_A1_000_000", "hash": "DC84C469920BFD5E", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_A2_000_000", "hash": "00BFAA60BE320D93", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00001", "hash": "4796F1CC20C77395", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00002", "hash": "2583B13F26A526A7", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003", "hash": "6EF7F5FF2E39E7A8", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "" }
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_00001", "hash": "010FC79982E735D1", "target": "Espere só até ver o que tenho para trocar, kupo! Tenho toda sorte de quinquilharias que vocês, aventureiros, vão adorar... Se eu ao menos lembrasse onde guardei tudo." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_Q1_000_000", "hash": "987653DE43505B5A", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_A1_000_000", "hash": "DC84C469920BFD5E", "target": "Trocar tomestones irregulares." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_A2_000_000", "hash": "00BFAA60BE320D93", "target": "Consultar o Mogpendium." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00001", "hash": "4796F1CC20C77395", "target": "O Mogpendium vai ser de grande ajuda durante o Moogle Treasure Trove, kupo!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00002", "hash": "2583B13F26A526A7", "target": "Leia tudo com atenção para descobrir as melhores maneiras de conseguir tomestones irregulares. Depois, use o que aprendeu para encher suas bolsas!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003", "hash": "6EF7F5FF2E39E7A8", "target": "E quando não aguentar mais o peso de tanta tomestone, traga tudo para mim. Em troca, você ganha todo tipo de artigo raro e maravilhoso!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "Ah, parece que havia uns errinhos no Mogpendium. Já marquei como concluídos <if([lnum1==1],os desafios Minimog,<if([lnum1==2],os objetivos semanais,<if([lnum1==3],os desafios Minimog e os objetivos semanais,)>)>)> da sexta semana da primeira caçada à Astronomia. Só não conte ao meu chefe, kupo!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "O prazo de conclusão de alguns conteúdos no Mogpendium estava incorreto e divergia da data de encerramento do evento." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "Para compensar quem não conseguiu tentar esses conteúdos no prazo, o moogle itinerante está dando uma patinha para ajudar a concluir os objetivos." }
   ]
 }

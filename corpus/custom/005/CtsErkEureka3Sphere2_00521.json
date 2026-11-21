@@ -2,15 +2,15 @@
   "conversation": "custom/005/CtsErkEureka3Sphere2_00521",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001", "hash": "B1D30B2229C03F4E", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002", "hash": "684D66D11F043E98", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003", "hash": "6357178AB75921DB", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004", "hash": "1D2AA6762E630B87", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005", "hash": "2F484F200D3389BD", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006", "hash": "4413E184722090D8", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007", "hash": "2505A6A284255852", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008", "hash": "B879B1455F11933B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009", "hash": "215D77CD8CED022A", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000", "hash": "93C2C71E68FCA036", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_001", "hash": "B1D30B2229C03F4E", "target": "Que surpresa encontrar você aqui. Imagino que a exploração esteja correndo sem incidentes. E o trabalho de Krile com a protoeterita, também?" },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_002", "hash": "684D66D11F043E98", "target": "... Fascinante. Não esperava que ela avançasse tanto. Esse negócio de “inverter o fluxo” também me intriga..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_003", "hash": "6357178AB75921DB", "target": "Ah, perdoe-me pelo devaneio. Devo agradecer por compartilhar suas descobertas comigo. Sinto que estou prestes a entender tudo." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_004", "hash": "1D2AA6762E630B87", "target": "Você sempre faz questão de ajudar, não é? Sempre querendo agradar, corrigir o que está errado. Como se espera de quem vive salvando os outros e libertando povos..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_005", "hash": "2F484F200D3389BD", "target": "Eu realmente lhe devo um favor. Devo ajudar com a coleta das magicitas. Além do mais, já não preciso delas." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_006", "hash": "4413E184722090D8", "target": "Ah, que cabeça a minha. Esqueci de compartilhar um detalhe mais cedo. O nome da entidade divina, o primordial ancestral que Galuf e os outros queriam aprisionar aqui." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_007", "hash": "2505A6A284255852", "target": "Chamavam-no de... Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_008", "hash": "B879B1455F11933B", "target": "O mesmo nome que demos à ilha. Uma coincidência curiosa, não é? E, pensando bem, tão apropriada..." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_EJIKATSUNJIKA_000_009", "hash": "215D77CD8CED022A", "target": "Enfim, receio que seja tudo por enquanto. Mas, se o destino me revelar mais alguma pérola de sabedoria, você será <if(gnum4,a primeira,o primeiro)> a saber." },
+    { "gameKey": "custom/005/CtsErkEureka3Sphere2_00521#TEXT_CTSERKEUREKA3SPHERE2_00521_SYSTEM_000_000", "hash": "93C2C71E68FCA036", "target": "No centro da confluência etérea, você encontra uma pedra cintilante, uma magicita. Quando a recolhe, a confluência se dissipa..." }
   ]
 }

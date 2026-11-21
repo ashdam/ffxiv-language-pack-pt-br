@@ -2,18 +2,18 @@
   "conversation": "custom/004/FesXms2017Guide_00440",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_000", "hash": "DDEF39966623F216", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_Q1_000_001", "hash": "AF5CF3B890CD3FDF", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_001", "hash": "D73F2B87A1459F69", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_002", "hash": "1E61F245EB32B95D", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_003", "hash": "662AC679AD833EF9", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_010", "hash": "601A8C7DF776959D", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_011", "hash": "DB32A71015DD3074", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_012", "hash": "4D2EC61F08D4A6CF", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_013", "hash": "7560BD0FD3065132", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_014", "hash": "369A578B96125A6B", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_020", "hash": "B5DA3F0068A47DBA", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_021", "hash": "CEC6E4763D14327A", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_022", "hash": "53F82CF228BD2EC1", "target": "" }
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_000", "hash": "DDEF39966623F216", "target": "Que a Fiandeira abençoe você! Estou aqui para divulgar a Celebração da Luz Estelar. Se tiver dúvidas, pode perguntar!" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_Q1_000_001", "hash": "AF5CF3B890CD3FDF", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_001", "hash": "D73F2B87A1459F69", "target": "O que é a Celebração da Luz Estelar?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_002", "hash": "1E61F245EB32B95D", "target": "Qual é o seu papel na festa?" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_A1_000_003", "hash": "662AC679AD833EF9", "target": "Nada." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_010", "hash": "601A8C7DF776959D", "target": "A Celebração da Luz Estelar remonta à antiga Ishgard. Há muito tempo, uma terrível batalha tirou incontáveis vidas e deixou milhares de crianças órfãs no frio impiedoso de Coerthas." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_011", "hash": "DB32A71015DD3074", "target": "Sem conseguir suportar o sofrimento delas, os cavaleiros de Ishgard passaram a oferecer comida e abrigo às crianças no quartel. Era expressamente proibido, é claro, mas eles deram um jeito de fazê-las entrar às escondidas, disfarçadas com os casacos escarlates de seus uniformes." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_012", "hash": "4D2EC61F08D4A6CF", "target": "Graças à generosidade dos cavaleiros, as crianças sobreviveram ao inverno e puderam retribuir a bondade que receberam. Quando cresceram, os antigos órfãos vestiam uniformes escarlates e entregavam presentes às crianças na semana mais fria do ano. Assim nasceu a Celebração da Luz Estelar." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_013", "hash": "7560BD0FD3065132", "target": "Com os anos, a celebração foi mudando aos poucos. O capitão de barba branca como a neve, à frente daqueles cavaleiros bondosos, passou a ser chamado de “Santo de Nymeia”. As crianças acreditam que ele leva suas esperanças e preces à própria deusa." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_014", "hash": "369A578B96125A6B", "target": "Do mesmo modo, seus cavaleiros de casaca vermelha se tornaram os “pequenos ajudantes do santo”. A criançada tem especial carinho por eles, pois cabe a eles levar presentes a toda criança que faz uma prece à Fiandeira." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_020", "hash": "B5DA3F0068A47DBA", "target": "A Guilda dos Aventureiros encarregou meus colegas de escarlate e a mim de organizar a Celebração da Luz Estelar. A festa acontece em toda Eorzea, e temos pequenos ajudantes em Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_021", "hash": "CEC6E4763D14327A", "target": "Este ano, queremos trazer os ursos treinados da Guilda dos Aventureiros para a festa. Eles aprenderam um truque da Luz Estelar que vai arrancar sorrisos de todo mundo, principalmente da criançada!" },
+    { "gameKey": "custom/004/FesXms2017Guide_00440#TEXT_FESXMS2017GUIDE_00440_GUIDEXMS2017_000_022", "hash": "53F82CF228BD2EC1", "target": "Já tivemos alguns contratempos e talvez precisemos de aventureiros como você para pôr a festa nos trilhos. Se tudo sair como planejado, tenho certeza de que a celebração deste ano será a melhor de todas!" }
   ]
 }

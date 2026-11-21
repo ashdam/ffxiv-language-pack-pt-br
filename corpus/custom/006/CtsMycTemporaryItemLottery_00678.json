@@ -2,10 +2,10 @@
   "conversation": "custom/006/CtsMycTemporaryItemLottery_00678",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_Q1_000_000", "hash": "D04EACD132D69A93", "target": "" },
-    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_000", "hash": "D4A560BFCACD5235", "target": "" },
-    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_001", "hash": "8FE439926EFB4881", "target": "" },
-    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_002", "hash": "8371C11A456B4B60", "target": "" },
-    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_003", "hash": "757EFE79F907FEDA", "target": "" }
+    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_Q1_000_000", "hash": "D04EACD132D69A93", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_000", "hash": "D4A560BFCACD5235", "target": "Avaliar fragmentos esquecidos (patente 15 ou inferior)." },
+    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_001", "hash": "8FE439926EFB4881", "target": "Perguntar sobre lost actions." },
+    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_002", "hash": "8371C11A456B4B60", "target": "Nada." },
+    { "gameKey": "custom/006/CtsMycTemporaryItemLottery_00678#TEXT_CTSMYCTEMPORARYITEMLOTTERY_00678_A1_000_003", "hash": "757EFE79F907FEDA", "target": "Avaliar fragmentos esquecidos (patente 16 ou superior)." }
   ]
 }

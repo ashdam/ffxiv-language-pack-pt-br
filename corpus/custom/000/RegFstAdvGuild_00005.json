@@ -2,15 +2,15 @@
   "conversation": "custom/000/RegFstAdvGuild_00005",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "" },
-    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "" }
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_1", "hash": "1142832E64883077", "target": "Boas-vindas ao Dossel de Carlinas. Se precisar de ajuda com qualquer coisa, é só pedir." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_2", "hash": "3778F7D857D62E46", "target": "Faço o que houver para fazer, na verdade. Mas passo a maior parte do tempo servindo ou recebendo quem visita a Guilda dos Aventureiros." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_3", "hash": "2926B07F53B702A9", "target": "Vim parar no Dossel de Carlinas depois da Calamidade. Tinha perdido minha família, meu sustento e a vontade de seguir em frente." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_4", "hash": "A9687BF08A99BBE2", "target": "Havia dias em que a dor me paralisava tanto que mal conseguia falar. Mas Mãe Miounne me deu um propósito e um lugar para me recuperar. Desde então, fiquei aqui." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_5", "hash": "1025B55905249956", "target": "Ah, já fiz a mesma pergunta à Miounne. Ela me disse que era só porque gostava da flor." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_NAOHGAMDUHLA_000_6", "hash": "860297B4012F605A", "target": "Mas o olhar dela quando disse isso... Bem, acho que todos temos nossos segredos." },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_Q1_000_1", "hash": "B9F24178B696BEC8", "target": "O que você gostaria de saber?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_1", "hash": "7EE465B4CD6465DD", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_2", "hash": "1DB3F1C324122E5C", "target": "Por que se chama “Dossel de Carlinas”?" },
+    { "gameKey": "custom/000/RegFstAdvGuild_00005#TEXT_REGFSTADVGUILD_00005_A1_000_3", "hash": "8885EA2D0B2611D8", "target": "Nada." }
   ]
 }

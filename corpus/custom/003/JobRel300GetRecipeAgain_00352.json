@@ -2,8 +2,8 @@
   "conversation": "custom/003/JobRel300GetRecipeAgain_00352",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_Q1_000_000", "hash": "C1355ACF242EE587", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_000", "hash": "718D962F051161B1", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_010", "hash": "3FA80FE4DDDA26ED", "target": "" }
+    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_Q1_000_000", "hash": "C1355ACF242EE587", "target": "Pegar outra cópia das anotações de Ulan?" },
+    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_000", "hash": "718D962F051161B1", "target": "Você já tem uma cópia das anotações de Ulan." },
+    { "gameKey": "custom/003/JobRel300GetRecipeAgain_00352#TEXT_JOBREL300GETRECIPEAGAIN_00352_RECIPEPAPER_000_010", "hash": "3FA80FE4DDDA26ED", "target": "Você pega uma cópia das anotações de Ulan na barraca dela." }
   ]
 }

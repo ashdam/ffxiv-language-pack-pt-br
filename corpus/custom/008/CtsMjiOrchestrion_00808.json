@@ -2,7 +2,7 @@
   "conversation": "custom/008/CtsMjiOrchestrion_00808",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_000", "hash": "0D166F8A90C3A293", "target": "" },
-    { "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_001", "hash": "A050DB662EF3E95A", "target": "" }
+    { "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_000", "hash": "0D166F8A90C3A293", "target": "Parece ser o orchestrion de quem cuida da ilha.<br>Tocando agora <italic(1)><sheet(Orchestrion,lnum1,0)><italic(0)>." },
+    { "gameKey": "custom/008/CtsMjiOrchestrion_00808#TEXT_CTSMJIORCHESTRION_00808_SYSTEM_000_001", "hash": "A050DB662EF3E95A", "target": "Parece ser o orchestrion de quem cuida da ilha." }
   ]
 }

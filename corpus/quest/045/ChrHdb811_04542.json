@@ -126,7 +126,7 @@
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_BRAVESOLDIER_100_101", "hash": "6C116BE9F42E7CEC", "target": "Você tem um plano, então? Longe de mim duvidar <if(gnum4,da Guerreira,do Guerreiro)> das Trevas. Mostre o que tem em mente, e daremos todo o apoio que pudermos." },
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_Q1_000_000", "hash": "17792475EF0062B8", "target": "O que você vai fazer?" },
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_A1_000_001", "hash": "CAE982EAC437B7F1", "target": "Dançar Manderville." },
-    { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_A1_000_002", "hash": "0566E92EA299BA24", "target": "Dançar Manderville Mambo." },
+    { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_A1_000_002", "hash": "0566E92EA299BA24", "target": "Dançar o Mambo Manderville." },
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_HILDIBRAND_000_101", "hash": "29948C78503618D5", "target": "(-Voz familiar-)Ora! Que requebros cavalheirescos familiares são esses!?" },
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_BRAVESOLDIER_100_102", "hash": "20242455FAC30BC2", "target": "Em guarda! É um devorador de pecados!" },
     { "gameKey": "quest/045/ChrHdb811_04542#TEXT_CHRHDB811_04542_SOLDIER03608_100_103", "hash": "5A91DCAE28273FCF", "target": "Não, espere! Isso não é um devorador de pecados!" },

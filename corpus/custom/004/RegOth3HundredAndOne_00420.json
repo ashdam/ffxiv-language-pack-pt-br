@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3HundredAndOne_00420",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_000", "hash": "5A008899B3C34151", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_Q1_000_000", "hash": "5F343DECA3CE07D9", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_001", "hash": "1ACDC6AA2D5F9D48", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_002", "hash": "C8E0D9718A46F4B9", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_003", "hash": "399C8C71077F3F13", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_010", "hash": "AD09FCD81FC51A37", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_011", "hash": "FDCB7E1FADF99F19", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_020", "hash": "1EC97913FB61A1EB", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_021", "hash": "CCE4A18FF58BCB5D", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_023", "hash": "13E5B7442BD0D089", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_024", "hash": "9CAC2F72F0C4F1E5", "target": "" },
-    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_025", "hash": "ACF9141A881798BD", "target": "" }
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_000", "hash": "5A008899B3C34151", "target": "O que traz você até aqui, viajante?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_Q1_000_000", "hash": "5F343DECA3CE07D9", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_001", "hash": "1ACDC6AA2D5F9D48", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_002", "hash": "C8E0D9718A46F4B9", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_A1_000_003", "hash": "399C8C71077F3F13", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_010", "hash": "AD09FCD81FC51A37", "target": "Cuido de todos os negócios que nós, Uyagir, fazemos com gente de fora. Tem quem tente se aproveitar da nossa boa índole para nos passar a perna. Garanto que a gente receba um preço justo nas trocas." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_011", "hash": "FDCB7E1FADF99F19", "target": "Afinal, mal podemos expiar nossa cobiça de outrora se não temos como nos alimentar. Aceitamos trocar minerais, mas precisamos receber comida em quantidade justa." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_020", "hash": "1EC97913FB61A1EB", "target": "Como o nome indica, quem entra nesta caverna pode receber revelações divinas." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_021", "hash": "CCE4A18FF58BCB5D", "target": "Vivemos aqui para reparar nossos pecados. Antigamente, embriagada pela própria cobiça, nossa tribo se lançou à conquista de tudo ao seu alcance." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_023", "hash": "13E5B7442BD0D089", "target": "Para punir a ganância insaciável dos Uyagir, os deuses soltaram sobre nossas terras besouros gigantes, parecidos com olifantes." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_024", "hash": "9CAC2F72F0C4F1E5", "target": "Os besouros deixaram devastação por onde passaram. Os rios secaram, as plantações murcharam, e os insetos abriram imensos buracos nos desertos do sul. Ao ver o resultado da própria avareza, nossos antepassados juraram expiar seus erros. Escolheram morar nas cavernas escavadas pelos besouros e abandonar a cobiça." },
+    { "gameKey": "custom/004/RegOth3HundredAndOne_00420#TEXT_REGOTH3HUNDREDANDONE_00420_BAAVGAI_000_025", "hash": "ACF9141A881798BD", "target": "Foi preciso tempo, mas recuperamos a confiança dos deuses. A prova veio quando alguns de nós começaram a receber revelações divinas." }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/006/CtsMycTranspoint_00682",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_MENUTITLE", "hash": "AD63075B038C9DF9", "target": "" },
-    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_DESTINATION", "hash": "DC9245F021A8CD34", "target": "" },
-    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_MENUCANCEL", "hash": "7E3670F0D938AF98", "target": "" },
-    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_000", "hash": "AB070C28672C0EB6", "target": "" },
-    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_001", "hash": "65C4988A2A16BFEA", "target": "" }
+    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_MENUTITLE", "hash": "AD63075B038C9DF9", "target": "Selecione um destino." },
+    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_DESTINATION", "hash": "DC9245F021A8CD34", "target": "<sheet(PlaceName,lnum1,0)>." },
+    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_MENUCANCEL", "hash": "7E3670F0D938AF98", "target": "Cancelar." },
+    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_000", "hash": "AB070C28672C0EB6", "target": "Você entrou em sintonia com um fragmento da rede etérea. Agora pode usar a rede etérea da região." },
+    { "gameKey": "custom/006/CtsMycTranspoint_00682#TEXT_CTSMYCTRANSPOINT_00682_OPEN_000_001", "hash": "65C4988A2A16BFEA", "target": "Há outros fragmentos espalhados pela região. Entre em sintonia com eles para se deslocar mais depressa pela área." }
   ]
 }

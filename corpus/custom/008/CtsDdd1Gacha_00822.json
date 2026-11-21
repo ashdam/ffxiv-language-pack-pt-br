@@ -2,17 +2,17 @@
   "conversation": "custom/008/CtsDdd1Gacha_00822",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "D200EE9F749D55FD", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "87F0E4987F701759", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "CEAA11283D17576B", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_TITLE", "hash": "B54CF766E4D6CEFB", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_GACHA", "hash": "8DE141BA3F9205F0", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_ABOUT", "hash": "E962EB63CE6BB122", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_EXIT", "hash": "B7AE56291CF8FA18", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "F8852791E229D15E", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "92FD263FABD46A21", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_060", "hash": "EBE5CEFE06576248", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_061", "hash": "E6D7CE01A68FDFE3", "target": "" },
-    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_100_061", "hash": "136F77C99F75FE04", "target": "" }
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "D200EE9F749D55FD", "target": "Os monstros nas ruínas são motivo de grande preocupação, mas deixo que vocês, aventureiros, cuidem disso. Meu interesse são os artefatos ainda por descobrir que estão enterrados lá dentro." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "87F0E4987F701759", "target": "Você explorou as ruínas, certo? Por acaso encontrou algum saco estranho selado pela magia do palácio? Se quiser saber o valor desses tesouros, traga-os para mim e quebrarei o selo que mantém os sacos fechados." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "CEAA11283D17576B", "target": "Já soube? Os Lamentadores da Mata encontraram documentos escritos pelo arquiteto do palácio! Ah, o que eu não daria para lê-los." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_TITLE", "hash": "B54CF766E4D6CEFB", "target": "O que deseja fazer?" },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_GACHA", "hash": "8DE141BA3F9205F0", "target": "Avaliar uma peça do Tesouro Amaldiçoado." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_ABOUT", "hash": "E962EB63CE6BB122", "target": "Perguntar sobre o Tesouro Amaldiçoado." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_STARTMENU_EXIT", "hash": "B7AE56291CF8FA18", "target": "Nada." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "F8852791E229D15E", "target": "Ultimamente, os Lamentadores da Mata têm voltado com artefatos peculiares. Estão embrulhados em sacos estranhos, enterrados em lugares ainda mais estranhos. Uma magia parecida com a que protege o Palace of the Dead sela esses sacos, o que torna perigoso até abri-los." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "92FD263FABD46A21", "target": "Meu dever é desfazer os feitiços que protegem esses recipientes peculiares trazidos das ruínas. Se encontrar algum, traga-o para mim, por favor. Vou abri-lo em segurança para você. " },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_060", "hash": "EBE5CEFE06576248", "target": "Ao explorar a masmorra profunda, os jogadores encontrarão peças do Tesouro Amaldiçoado, escondido e enterrado pelos mortos-vivos." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_000_061", "hash": "E6D7CE01A68FDFE3", "target": "Para descobrir o valor das peças encontradas no Palace of the Dead, leve-as à bispa da expedição para avaliação." },
+    { "gameKey": "custom/008/CtsDdd1Gacha_00822#TEXT_CTSDDD1GACHA_00822_ABOUT_SYSTEM_100_061", "hash": "136F77C99F75FE04", "target": "O capitão expedicionário dos Lamentadores da Mata pode explicar em detalhes como encontrar esses tesouros ocultos." }
   ]
 }

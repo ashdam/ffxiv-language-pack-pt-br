@@ -2,10 +2,10 @@
   "conversation": "custom/009/CmnDefLimitedDistribution_00917",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_000", "hash": "FD5B62BE46986963", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_001", "hash": "38546D4C2FEDD5A0", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_002", "hash": "D79CE77C378AC14D", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_SYSTEM_000_005", "hash": "F0282D4DC08CE0C8", "target": "" },
-    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_010", "hash": "CB4FDFC052AF2474", "target": "" }
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_000", "hash": "FD5B62BE46986963", "target": "O-O que é isso? Você consegue me ver!? Que incrível, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_001", "hash": "38546D4C2FEDD5A0", "target": "Nosso encontro só pode ser obra do destino. Por isso, para marcar a ocasião, vou presentear você com uma poção mágica. Chama-se “Fantasia”, e a lenda diz que permite mudar sua aparência. Que lhe seja útil, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_002", "hash": "D79CE77C378AC14D", "target": "Ora, nos encontramos outra vez, e justo quando meu amigo menestrel me deu outro frasco de Fantasia! É claro que o destino quer que ele seja seu. Pode levar, kupo!" },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_SYSTEM_000_005", "hash": "F0282D4DC08CE0C8", "target": "Seu inventário está cheio. Abra espaço e fale novamente com o moogle errante para receber sua recompensa." },
+    { "gameKey": "custom/009/CmnDefLimitedDistribution_00917#TEXT_CMNDEFLIMITEDDISTRIBUTION_00917_PILGRIMMOOGLE_000_010", "hash": "CB4FDFC052AF2474", "target": "Já usou a Fantasia? O sabor é meio... desafiador de propósito, mas é um preço baixo para se tornar outra pessoa! Vire de uma vez, kupo!" }
   ]
 }

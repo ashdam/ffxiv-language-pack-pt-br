@@ -2,14 +2,14 @@
   "conversation": "custom/005/CtsErkEureka4Armor_00562",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_000", "hash": "05EFCF98CB659E7B", "target": "Já trouxe tudo de que preciso para nosso acampamento em Hydatos, mas vou demorar um pouco para montar minha oficina. Infelizmente, as encomendas de armaduras vão ter que esperar." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_010", "hash": "F362E1C128C6A4CF", "target": "Quer encomendar uma armadura? Desculpe, mas as peças feitas com materiais de Pyros precisam ser encomendadas no acampamento de lá." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_Q1_000_000", "hash": "33D5A1D3122ED137", "target": "O que você quer fazer?" },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_001", "hash": "0A650A1403CEBD69", "target": "Aprimorar armadura de Eureka." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_002", "hash": "E854FBE1537C4D75", "target": "Aprimorar armadura de Eureka +1." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_003", "hash": "174774E0EDC97F28", "target": "Conversar." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_A1_000_004", "hash": "7EADFF763EF0A163", "target": "Nada." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_000_020", "hash": "04A6A9FF2674D46D", "target": "A fama de excelência do mestre Gerolt ainda fica aquém da realidade. Seu trabalho é extraordinário, ao mesmo tempo ousado e de uma delicadeza de tirar o fôlego. Ah, que privilégio ver tanto talento de tão perto..." },
+    { "gameKey": "custom/005/CtsErkEureka4Armor_00562#TEXT_CTSERKEUREKA4ARMOR_00562_CRAFSMAN00532_100_020", "hash": "A85C919AF77DAE3A", "target": "Os projetos do mestre Drake exigem materiais especiais, mas, se forem seguidos à risca, deve ser possível imbuir sua armadura de um poder elemental ainda maior. Que técnica brilhante!" }
   ]
 }

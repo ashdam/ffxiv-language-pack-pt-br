@@ -2,13 +2,13 @@
   "conversation": "custom/005/CtsErkKuganeReplica_00506",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_000", "hash": "ED1504767C07203A", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_000", "hash": "9D48E6431A7554F1", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_001", "hash": "3F681320E60DB436", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_002", "hash": "BDE7CF3DCC4115F3", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_003", "hash": "4E1153D6C17FBCD2", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_004", "hash": "76544E5AD40C20BF", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_010", "hash": "01C090B567CA8719", "target": "" },
-    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_011", "hash": "1B16B6EB0CC3424C", "target": "" }
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_000", "hash": "ED1504767C07203A", "target": "Nunca imaginei conhecer esse lado do mundo antes de entrar na companhia. Nem depois, pra falar a verdade. O destino tem das suas, né?" },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_000", "hash": "9D48E6431A7554F1", "target": "O que você quer fazer?" },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_001", "hash": "3F681320E60DB436", "target": "Comprar réplica de arma de Eureka (Guerra)." },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_002", "hash": "BDE7CF3DCC4115F3", "target": "Comprar réplica de arma de Eureka (Magia)." },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_003", "hash": "4E1153D6C17FBCD2", "target": "Perguntar sobre réplicas de armas de Eureka." },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_MENU_000_004", "hash": "76544E5AD40C20BF", "target": "Nada." },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_010", "hash": "01C090B567CA8719", "target": "Hancock chamou todo tipo de gente pra expedição. Tinha muito trabalho, qualquer que fosse a sua experiência, ele disse. E cá estou." },
+    { "gameKey": "custom/005/CtsErkKuganeReplica_00506#TEXT_CTSERKKUGANEREPLICA_00506_STAELHUNDR_000_011", "hash": "1B16B6EB0CC3424C", "target": "Sou ferreiro de profissão. Longe de ser dos melhores, mas sei o bastante pra fazer réplicas das obras de Gerolt. Se isso lhe interessa, é só dizer. Preciso praticar!" }
   ]
 }

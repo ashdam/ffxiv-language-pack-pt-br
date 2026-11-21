@@ -2,9 +2,9 @@
   "conversation": "custom/002/RegFstEternalCeremonyShop_00219",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000", "hash": "598E548F4D2E7A54", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001", "hash": "1F4A4D4007A096C7", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020", "hash": "13355C723BDD37CC", "target": "" },
-    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021", "hash": "2B83B3DC8806DE55", "target": "" }
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_000", "hash": "598E548F4D2E7A54", "target": "Se você pretende realizar uma Cerimônia do Vínculo Eterno aqui no Santuário, tenho vários artigos para deixar esse dia ainda mais especial!" },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_001", "hash": "1F4A4D4007A096C7", "target": "Os artigos à venda são exclusivos para quem está na missão “Os laços que unem” e ainda não realizou a cerimônia. Para aceitar a missão, você precisa de uma Promise Wristlet, disponível na loja on-line." },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_CEREMONYSHOP01578_000_020", "hash": "13355C723BDD37CC", "target": "Foi aqui no Santuário que vocês se uniram, certo? Desejo tudo de bom para o futuro de vocês!" },
+    { "gameKey": "custom/002/RegFstEternalCeremonyShop_00219#TEXT_REGFSTETERNALCEREMONYSHOP_00219_SYSTEM_000_021", "hash": "2B83B3DC8806DE55", "target": "Os artigos à venda são exclusivos para quem está na missão “Os laços que unem” e ainda não realizou a cerimônia. Para aceitar a missão, você precisa de uma Promise Wristlet, disponível na loja on-line." }
   ]
 }

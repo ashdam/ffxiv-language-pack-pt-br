@@ -2,17 +2,17 @@
   "conversation": "custom/008/JobDefRPM_00863",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_000", "hash": "B9A326FC31BBBD99", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_Q1_000_000", "hash": "9576A842E1166BD2", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_001", "hash": "E9209DB0530085E3", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_002", "hash": "994E394BF339113D", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_003", "hash": "622CE4289ADC6DB4", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_010", "hash": "59D5B896E94604D4", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_011", "hash": "2082DEE7C24C6F66", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_012", "hash": "A3A6FB45975FF422", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_020", "hash": "4D9F7643616153F2", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_021", "hash": "75E5B98DE17B839B", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_022", "hash": "F0EACCCAD25F6653", "target": "" },
-    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_023", "hash": "1BC10066CE43C76D", "target": "" }
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_000", "hash": "B9A326FC31BBBD99", "target": "<split(<string(gstr1)>, ,1)>! É um prazer cruzar seu caminho outra vez." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_Q1_000_000", "hash": "9576A842E1166BD2", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_001", "hash": "E9209DB0530085E3", "target": "Como você tem passado?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_002", "hash": "994E394BF339113D", "target": "O que é um pictomante?" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_A1_000_003", "hash": "622CE4289ADC6DB4", "target": "Nada." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_010", "hash": "59D5B896E94604D4", "target": "Minha jornada continua, graças a você e a Kupopo. Depois que voltei à realidade, caí na estrada em busca de novas perspectivas e encontrei muitas delas aqui em Radz-at-Han." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_011", "hash": "2082DEE7C24C6F66", "target": "Esta cidade nunca deixa de me fascinar... A vida floresce em todas as cores, e minha imaginação ficou ainda mais rica por isso!" },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_012", "hash": "A3A6FB45975FF422", "target": "Pretendo viajar por Thavnair por um tempo e ajudar quem precisar pelo caminho. Se puder usar minha pictomancia para fazer algum bem neste mundo, como você e nossos antecessores fizeram, tudo terá valido a pena." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_020", "hash": "4D9F7643616153F2", "target": "Como bem sabe, nós, pictomantes, manejamos a imaginação. Com um pincel encantado, damos vida aos nossos sonhos mais ousados." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_021", "hash": "75E5B98DE17B839B", "target": "As origens da pictomancia remontam à Quinta Era Astral, quando uma jovem chamada Relm começou a entretecer éter nas suas obras de arte." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_022", "hash": "F0EACCCAD25F6653", "target": "Relm era uma alma generosa e se recusou a ficar de braços cruzados enquanto a Guerra dos Magos assolava o mundo. Salvou muitas vidas em suas viagens e conquistou o título de Arconte pelos seus feitos." },
+    { "gameKey": "custom/008/JobDefRPM_00863#TEXT_JOBDEFRPM_00863_BERURU_000_023", "hash": "1BC10066CE43C76D", "target": "Como seus discípulos, temos o dever de percorrer este mundo e levar a luz da esperança a quem precisa." }
   ]
 }

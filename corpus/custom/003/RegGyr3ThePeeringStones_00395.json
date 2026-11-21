@@ -2,18 +2,18 @@
   "conversation": "custom/003/RegGyr3ThePeeringStones_00395",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_000", "hash": "DB0ACF1879A8EC3F", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_Q1_000_000", "hash": "8C91321C5C979D42", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_001", "hash": "CA69FCB57CDB740C", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_002", "hash": "55F0315F776A838D", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_003", "hash": "8B8E612D7E29D9CC", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_010", "hash": "BA9AC16976FE8414", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_013", "hash": "5401F18C438188A9", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_014", "hash": "31FA9F6453E5FFAF", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_015", "hash": "A7B1A68F9D3EF376", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_020", "hash": "76EADAE9F16099FA", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_021", "hash": "B9E9EBF6C2627ED9", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_022", "hash": "8450AC8789073637", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_023", "hash": "6A1453086C6DC035", "target": "" }
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_000", "hash": "DB0ACF1879A8EC3F", "target": "É você <if(gnum4,a aventureira,o aventureiro)> de quem tanto falam, não é? Quem tem trabalhado com as forças da Aliança? Se precisar de algo, é só pedir." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_Q1_000_000", "hash": "8C91321C5C979D42", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_001", "hash": "CA69FCB57CDB740C", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_002", "hash": "55F0315F776A838D", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_A1_000_003", "hash": "8B8E612D7E29D9CC", "target": "Nada." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_010", "hash": "BA9AC16976FE8414", "target": "Pode me chamar de M'zalikko. Se não me engano, você já conheceu minha irmã mais velha, Naago." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_013", "hash": "5401F18C438188A9", "target": "Nosso pai, M'rahz Nunh, é o líder da tribo M. Provavelmente vai ser um dos poucos homens que você verá entre nós." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_014", "hash": "31FA9F6453E5FFAF", "target": "Eles só ficam para desafiá-lo e tentar tomar o título de nunh. Quem perde continua como tia ou parte para tentar fundar a própria tribo." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_015", "hash": "A7B1A68F9D3EF376", "target": "Em condições normais, só pode haver um nunh em nossa tribo. Mas houve um tempo em que nossas terras eram vastas e nosso povo era liderado por dois nunhs." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_020", "hash": "76EADAE9F16099FA", "target": "Graças a você e aos seus, que expulsaram os garleanos de Castellum Velodyna, enfim podemos começar a devolver as coisas ao que eram antes." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_021", "hash": "B9E9EBF6C2627ED9", "target": "Nos dias mais sombrios da ocupação, foi M'rahz Nunh quem nos inspirou e nos deu forças para viver." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_022", "hash": "8450AC8789073637", "target": "Devemos a ele nossas vidas e as daríamos de bom grado para defendê-lo e proteger nosso lar." },
+    { "gameKey": "custom/003/RegGyr3ThePeeringStones_00395#TEXT_REGGYR3THEPEERINGSTONES_00395_MZALIKKO_000_023", "hash": "6A1453086C6DC035", "target": "Duvido que algum nunh antes dele tenha sido tão amado pelo seu povo." }
   ]
 }

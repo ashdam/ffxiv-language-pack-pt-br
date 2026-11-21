@@ -2,10 +2,10 @@
   "conversation": "custom/002/CmnGscGilToCoin_00240",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "" },
-    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "" }
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR", "hash": "F5B6711A2A1EF3C1", "target": "Boas-vindas ao Gold Saucer! Se quer trocar seu velho Gil por MGP novinhos em folha, veio ao lugar certo. O que me diz?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL", "hash": "71A37418DDE59373", "target": "Perdoe-me, mas parece que você não tem o valor necessário para a troca. Já olhou se sua bolsa está furada?" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX", "hash": "360FD2CC56BB2966", "target": "Ora, ora! Você já tem uma boa quantia de MGP, meu caro cliente. Se quiser mais, vai ter de ganhar por conta própria!" },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_000", "hash": "E9321F39DE587129", "target": "Apenas visitantes com menos de 500 MGP podem usar o serviço de câmbio." },
+    { "gameKey": "custom/002/CmnGscGilToCoin_00240#TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX_SYSTEM_001", "hash": "FA5CF3E1E947A22C", "target": "Você pode ganhar mais MGP nos vários eventos e atrações do Gold Saucer. Que a Fiandeira lhe sorria!" }
   ]
 }

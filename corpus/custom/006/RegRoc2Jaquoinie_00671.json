@@ -2,12 +2,12 @@
   "conversation": "custom/006/RegRoc2Jaquoinie_00671",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_000", "hash": "F121D5E77C4B0698", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_001", "hash": "01CCE1ED7764D064", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_002", "hash": "2F6A1902C8FF044C", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_003", "hash": "06858E24147110EE", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_010", "hash": "24C54437C800B59E", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_011", "hash": "C83DF7802ECA1320", "target": "" },
-    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_012", "hash": "8BD4D04374780507", "target": "" }
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_000", "hash": "F121D5E77C4B0698", "target": "Sou soldado a serviço do Lorde Aurvael de Haillenarte. Se procura meu senhor, receio que esteja ocupado preparando um novo empreendimento." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_001", "hash": "01CCE1ED7764D064", "target": "Sou soldado a serviço do Lorde Aurvael de Haillenarte. Se procura meu senhor, ele está no Firmamento para um novo empreendimento." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_002", "hash": "2F6A1902C8FF044C", "target": "Ainda assim, terei prazer em ajudar com quaisquer cofres que tenha, ou em negociar seus espólios de piratas dos céus." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_003", "hash": "06858E24147110EE", "target": "Devido aos acontecimentos recentes, esses itens já não são tão comuns quanto antes. Mas, caso encontre algum, sinta-se à vontade para me procurar." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_010", "hash": "24C54437C800B59E", "target": "Se procura meu senhor, Aurvael, receio que esteja ocupado preparando um novo empreendimento." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_011", "hash": "C83DF7802ECA1320", "target": "Se procura meu senhor, Aurvael, ele está no Firmamento para um novo empreendimento." },
+    { "gameKey": "custom/006/RegRoc2Jaquoinie_00671#TEXT_REGROC2JAQUOINIE_00671_JAQUOINIE_000_012", "hash": "8BD4D04374780507", "target": "Ainda assim, terei prazer em ajudar com quaisquer cofres que tenha, ou em negociar seus espólios de piratas dos céus." }
   ]
 }

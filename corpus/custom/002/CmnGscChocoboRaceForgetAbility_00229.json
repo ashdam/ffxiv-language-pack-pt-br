@@ -2,17 +2,17 @@
   "conversation": "custom/002/CmnGscChocoboRaceForgetAbility_00229",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02", "hash": "DF248D8AD87E2B3D", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1", "hash": "686FDE8903BCBD6A", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1", "hash": "E985DE77A6B03416", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2", "hash": "7F116C2FC8F6A5AB", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_DONE", "hash": "51027DC9C75ADEAC", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR", "hash": "BF203A8D8B82E5A5", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_01", "hash": "84A73AF67932EFEA", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_02", "hash": "AD7B7D6BA04C760F", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_01", "hash": "28D4646693C6E0BB", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_02", "hash": "1A6086F6EB8A548B", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_01", "hash": "6B9F2E5204DEB2A8", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_02", "hash": "FC4872C2378ED92F", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02", "hash": "DF248D8AD87E2B3D", "target": "Você quer que <string(lstr1)> esqueça uma habilidade? Pois bem, queira indicar qual habilidade deseja que seja esquecida..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1", "hash": "686FDE8903BCBD6A", "target": "Tem certeza de que deseja que seu chocobo de corrida esqueça <sheet(ChocoboRaceAbility,lnum2,0)>?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1", "hash": "E985DE77A6B03416", "target": "Sim" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2", "hash": "7F116C2FC8F6A5AB", "target": "Não" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_DONE", "hash": "51027DC9C75ADEAC", "target": "Pronto, o processo foi concluído. Espero que esteja de acordo com o que desejava." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR", "hash": "BF203A8D8B82E5A5", "target": "Você quer que seu chocobo de corrida esqueça uma habilidade? Pois bem, queira indicar qual habilidade deseja que seja esquecida..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_01", "hash": "84A73AF67932EFEA", "target": "Não, isso só pode ser um engano. Pelos meus registros, você nem sequer tem um chocobo de corrida registrado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_02", "hash": "AD7B7D6BA04C760F", "target": "Chocobos de corrida só podem esquecer habilidades depois de serem registrados oficialmente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_01", "hash": "28D4646693C6E0BB", "target": "Você se lembrou de trazer um frasco de Lethe Water, certo? Sem ele, receio que não possamos prosseguir." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_02", "hash": "1A6086F6EB8A548B", "target": "Para esquecer habilidades, é preciso usar Lethe Water. O item está à venda com o negociante de arreios e ração, no balcão de corridas." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_01", "hash": "6B9F2E5204DEB2A8", "target": "Hum. Pelo que vejo, seu chocobo de corrida não tem nenhuma habilidade que possa esquecer." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_02", "hash": "FC4872C2378ED92F", "target": "Habilidades hereditárias são permanentes. Só as habilidades adquiridas podem ser esquecidas." }
   ]
 }

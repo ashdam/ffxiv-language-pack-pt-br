@@ -2,13 +2,13 @@
   "conversation": "custom/002/RegDra2CollectableSupplyFront_00273",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_Q1", "hash": "BC2621EC273F8097", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A1", "hash": "16F5073E5C8BD208", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A2", "hash": "9A4253D7988DA857", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A3", "hash": "C2856A50DCB98CA2", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_000", "hash": "0E04A09A7348ECC8", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_001", "hash": "30BDFE47355D9B71", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_005", "hash": "D2256CE65A232CF1", "target": "" },
-    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_006", "hash": "D5231D110FDEC647", "target": "" }
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_Q1", "hash": "BC2621EC273F8097", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A1", "hash": "16F5073E5C8BD208", "target": "O que são os Esplendores?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A2", "hash": "9A4253D7988DA857", "target": "Como consigo fichas?" },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_TALK_A3", "hash": "C2856A50DCB98CA2", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_000", "hash": "0E04A09A7348ECC8", "target": "A gente chama de “Esplendores” as ferramentas, os equipamentos e outros artigos de qualidade que oferecemos como incentivo aos nossos fornecedores." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_001", "hash": "30BDFE47355D9B71", "target": "Você vai precisar de fichas... perdão, fichas <italic(1)>de Rowena<italic(0)> pra comprar esses artigos. Não aceitamos nenhuma outra forma de pagamento." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_005", "hash": "D2256CE65A232CF1", "target": "As fichas de que precisa são emitidas em troca de scrips. Se quiser, nossos representantes podem atender você aqui mesmo." },
+    { "gameKey": "custom/002/RegDra2CollectableSupplyFront_00273#TEXT_REGDRA2COLLECTABLESUPPLYFRONT_00273_GEIMLONA_000_006", "hash": "D5231D110FDEC647", "target": "Claro que, se estiver sem scrips, vai ter que nos trazer mais colecionáveis..." }
   ]
 }

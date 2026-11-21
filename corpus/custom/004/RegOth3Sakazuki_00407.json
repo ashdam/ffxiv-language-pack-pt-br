@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3Sakazuki_00407",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_000", "hash": "40EC2E5451E1B428", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_Q1_000_000", "hash": "92CA66AD904E88E1", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_001", "hash": "CEED5D2C9056F3E5", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_002", "hash": "7EB84DE6CF68ECB0", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_003", "hash": "67B931F3244845D1", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_010", "hash": "9C081BE5E4A8CAAA", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_011", "hash": "685EAE007B084A2C", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_012", "hash": "D0EB59564C85959D", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_020", "hash": "18A8E31A9B7D1E93", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_021", "hash": "78AD685004B551E4", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_022", "hash": "6AF32989628F3781", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_023", "hash": "3DA229F71C692AE8", "target": "" }
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_000", "hash": "40EC2E5451E1B428", "target": "Hum...? Você não tem cara de pirata. Bem, seja lá quem for, espero que tenha um bom motivo para estar aqui." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_Q1_000_000", "hash": "92CA66AD904E88E1", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_001", "hash": "CEED5D2C9056F3E5", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_002", "hash": "7EB84DE6CF68ECB0", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_A1_000_003", "hash": "67B931F3244845D1", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_010", "hash": "9C081BE5E4A8CAAA", "target": "Se o uniforme não deixou claro, sou da Confederação. Já se passaram quinze anos desde que entrei. Não vou dizer que sou indispensável, mas tenho lá minha importância." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_011", "hash": "685EAE007B084A2C", "target": "Sou um dos principais vigias. Dia após dia, inspeciono o mar para garantir que todos os navios que passam por aqui pagaram o que deviam." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_012", "hash": "D0EB59564C85959D", "target": "Não é exatamente um trabalho empolgante. Já perdi a conta das vezes que dormi no posto. Tem dias tão chatos que dá até vontade de ver alguém se recusar a pagar o Dízimo Rubi... Hum, hum. Não que <italic(1)>eu<italic(0)> tenha desejado isso, veja bem." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_020", "hash": "18A8E31A9B7D1E93", "target": "Aqui é Sakazuki, um dos principais postos da Confederação. Daqui observamos os navios indo e vindo e cobramos o Dízimo Rubi de quem passa." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_021", "hash": "78AD685004B551E4", "target": "Temos vários outros postos dedicados a vigiar as águas vizinhas, mas uma coisa distingue este aqui." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_022", "hash": "6AF32989628F3781", "target": "Foi aqui que os fundadores da Confederação uniram forças e brindaram ao futuro. Por isso chamamos a ilha de “Sakazuki”, que quer dizer literalmente “a taça”." },
+    { "gameKey": "custom/004/RegOth3Sakazuki_00407#TEXT_REGOTH3SAKAZUKI_00407_IHAKI_000_023", "hash": "3DA229F71C692AE8", "target": "Até hoje mantemos a tradição. Trazemos os recrutas pra cá para que bebam juntos e se unam de verdade. Se tiver interesse em fazer parte da Confederação, terei prazer em recomendar você a um dos superiores." }
   ]
 }

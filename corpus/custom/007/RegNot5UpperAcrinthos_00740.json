@@ -2,19 +2,19 @@
   "conversation": "custom/007/RegNot5UpperAcrinthos_00740",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000", "hash": "A1C7727622230775", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001", "hash": "32932480B7C00A6A", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002", "hash": "1AD23DC9DD32335D", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003", "hash": "2ED974150245F18F", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000", "hash": "FBFFD1CB4ED9C151", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001", "hash": "D14F79568675E7EE", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002", "hash": "A608242439ED3FC5", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003", "hash": "0CFEFB74550B14FC", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010", "hash": "1FF4B6DF2C69656A", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011", "hash": "A067107C2E1ABC6E", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012", "hash": "DEED4D74730E1FD8", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020", "hash": "236836FC4DE50877", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021", "hash": "C34596E6F124F103", "target": "" },
-    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022", "hash": "7D63763CA1751B8B", "target": "" }
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_000", "hash": "A1C7727622230775", "target": "Ah, um rosto novo. Coisa rara por aqui. Posso ajudar?" },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_001", "hash": "32932480B7C00A6A", "target": "Juro que essa história de êxodo ainda vai me matar antes dos Dias Finais... Se precisar de alguma coisa, por favor, vá direto ao assunto." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_002", "hash": "1AD23DC9DD32335D", "target": "Ah, ouvi falar de você e da viagem que vai fazer para além das estrelas! Duvido que eu possa fazer muito, mas, se tiver perguntas, tentarei responder da melhor forma possível." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_003", "hash": "2ED974150245F18F", "target": "Tudo voltou ao normal agora que a desgraça certa foi evitada, tudo graças a você, é claro. Como forma de agradecimento, responderei às perguntas que quiser fazer." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_Q1_000_000", "hash": "FBFFD1CB4ED9C151", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_001", "hash": "D14F79568675E7EE", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_002", "hash": "A608242439ED3FC5", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_A1_000_003", "hash": "0CFEFB74550B14FC", "target": "Nada." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_010", "hash": "1FF4B6DF2C69656A", "target": "Em poucas palavras, trabalho registrando e classificando o que os coletores trazem. Mas o trabalho de simples não tem nada." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_011", "hash": "A067107C2E1ABC6E", "target": "Reunimos todo tipo de coisa em Labyrinthos. Escritos antigos, artefatos, espécimes raros... É só dizer. É bem capaz de a gente ter. E tudo isso precisa ser inspecionado!" },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_012", "hash": "DEED4D74730E1FD8", "target": "Já é difícil num dia qualquer, mas agora temos que transportar tudo, e justo para a <italic(1)>lua<italic(0)>! \\<suspiro> Francamente, o que não pedem à gente..." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_020", "hash": "236836FC4DE50877", "target": "Aqui é Acrinthos Superior, o principal depósito de Labyrinthos para materiais que chegam pelo elevador." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_021", "hash": "C34596E6F124F103", "target": "Identificamos e separamos as entregas aqui antes de enviá-las para Archeion ou outra instalação onde possam ser guardadas em segurança. Dá para dizer que somos a entrada de serviço de Labyrinthos." },
+    { "gameKey": "custom/007/RegNot5UpperAcrinthos_00740#TEXT_REGNOT5UPPERACRINTHOS_00740_LAGONTHOTA_000_022", "hash": "7D63763CA1751B8B", "target": "Mas, com o êxodo em andamento, viramos mais uma <italic(1)>saída<italic(0)> de serviço..." }
   ]
 }

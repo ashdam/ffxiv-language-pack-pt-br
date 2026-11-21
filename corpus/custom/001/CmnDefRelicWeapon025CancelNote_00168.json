@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefRelicWeapon025CancelNote_00168",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_000", "hash": "EDB053C76720ACDA", "target": "...Hum? Como é que eu vou jogar fora uma coisa que você nem tem?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_100", "hash": "AE9FC6D4E9A803FA", "target": "...Sério? Bom, esse livro velho e mofado <italic(1)>ia<italic(0)> acabar na fornalha mesmo... Quer dizer, parte meu coração ver um pedaço da história tratado como papel sujo, mas quem sou eu pra discutir com cliente?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00010", "hash": "F45E8E62C620F90F", "target": "Todo o progresso em <ennoun(EventItem,3,lnum1,1,1)> será perdido. Tem certeza de que deseja continuar?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00011", "hash": "9EE849D47F6D3708", "target": "Sim" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_00012", "hash": "D959FF43B23F13E8", "target": "Não" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_GJUSANA_000_050", "hash": "21BDF00177514C05", "target": "Pronto. Esse pedaço da história nunca mais vai incomodar você. Espero que esteja feliz agora." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025CancelNote_00168#TEXT_CMNDEFRELICWEAPON025CANCELNOTE_00168_SYSTEM_000_055", "hash": "784C1471A452BD90", "target": "Você descartou um livro das Provações dos Bravos." }
   ]
 }

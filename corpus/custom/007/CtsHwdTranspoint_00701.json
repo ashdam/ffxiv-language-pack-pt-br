@@ -2,15 +2,15 @@
   "conversation": "custom/007/CtsHwdTranspoint_00701",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_TITLE", "hash": "98CB7C3B2EBB7DD0", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_01", "hash": "85389978A296A7D6", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_02", "hash": "6A673121BBF56606", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_03", "hash": "8C88CDB9AD15DBFE", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_04", "hash": "D92CE8C0869777B1", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_05", "hash": "D9ABB7F47B584EC0", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_06", "hash": "E5D588F6C7A6C4E3", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_07", "hash": "CBE2B5F62D925F6B", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_08", "hash": "25AF39FF402E2235", "target": "" },
-    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_CANCEL", "hash": "8FEB1DC7D9284471", "target": "" }
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_TITLE", "hash": "98CB7C3B2EBB7DD0", "target": "Selecione um destino.<br>Local atual: <string(lstr1)>" },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_01", "hash": "85389978A296A7D6", "target": "Oeste do Bairro do Canto Ressurgido." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_02", "hash": "6A673121BBF56606", "target": "Leste do Bairro do Canto Ressurgido." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_03", "hash": "8C88CDB9AD15DBFE", "target": "Enxadão." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_04", "hash": "D92CE8C0869777B1", "target": "Estrado de Santa Roelle." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_05", "hash": "D9ABB7F47B584EC0", "target": "Novo Ninho." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_06", "hash": "E5D588F6C7A6C4E3", "target": "Queda de Plumas." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_07", "hash": "CBE2B5F62D925F6B", "target": "Praça do Mendigo." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_08", "hash": "25AF39FF402E2235", "target": "Salão da Geada Branca." },
+    { "gameKey": "custom/007/CtsHwdTranspoint_00701#TEXT_CTSHWDTRANSPOINT_00701_MENU_CANCEL", "hash": "8FEB1DC7D9284471", "target": "Sair." }
   ]
 }

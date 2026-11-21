@@ -133,6 +133,6 @@
     { "gameKey": "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_LAUROVIC_000_141", "hash": "D5883D94DBF4FA1F", "target": "Você não poderia ter mandado ajuda melhor. Também ficamos lhe devendo essa, senhorita Astrid." },
     { "gameKey": "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_ASTRID_000_142", "hash": "E01EB08E17F13777", "target": "Preciso dizer: é uma verdadeira felicidade que a Driancoin tenha reunido as pessoas que a cultivaram." },
     { "gameKey": "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_ASTRID_000_143", "hash": "C6D3F73C7D843491", "target": "Elas são um belo símbolo de amor. E, se houver alguém especial no seu coração, <split(<string(gstr1)>, ,1)>, recomendo que também ofereça um buquê!" },
-    { "gameKey": "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_SYSTEM_000_144", "hash": "081CEE7EBCBD6AB9", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Bouquet<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_SYSTEM_000_144", "hash": "081CEE7EBCBD6AB9", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Oferecer um buquê<edgecolortype(0)><colortype(0)>!" }
   ]
 }

@@ -75,6 +75,6 @@
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_056", "hash": "999F2C28DF7007E8", "target": "Creio que você também já juntou as peças?" },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_057", "hash": "890C4C0FFFA27FB2", "target": "Você realmente provou ser <if(gnum4,uma colaboradora capaz,um colaborador capaz)>. Mas é daqui em diante que começa o verdadeiro trabalho. Se em algum momento sentir que sua concentração está fraquejando ou que sua atenção aos detalhes está falhando, basta fazer isto: respire fundo e concentre o olhar ao longe. Nesse instante, a solução aparecerá diante de você." },
     { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_058", "hash": "C7565724AC6477F8", "target": "A investigação está em marcha e, se quisermos triunfar, precisamos continuar vigilantes. Agora, vamos pegar nosso homem!" },
-    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_SYSTEM_000_059", "hash": "616C32FFF6A82269", "target": "Você aprendeu o gesto <colortype(500)><edgecolortype(501)>Spectacles<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_SYSTEM_000_059", "hash": "616C32FFF6A82269", "target": "Você aprendeu o gesto <colortype(500)><edgecolortype(501)>Ajustar os óculos<edgecolortype(0)><colortype(0)>!" }
   ]
 }

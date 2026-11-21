@@ -2,14 +2,14 @@
   "conversation": "custom/007/CtsMjiStockyardManagement_00786",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_SYSTEM_000_000", "hash": "C2F209CAE8F75A70", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_000", "hash": "0BD236F362579F9F", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_005", "hash": "37F2F8645D924DD4", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_010", "hash": "0C9B656E09023D95", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_000", "hash": "2ED22FEEB348906A", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_005", "hash": "FD48295513DFABB0", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_100_000", "hash": "9A1868B4498007C2", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_200_000", "hash": "9C377C8E4E1C7FEB", "target": "" },
-    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_300_000", "hash": "A84BC8BFA39DBB1A", "target": "" }
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_SYSTEM_000_000", "hash": "C2F209CAE8F75A70", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_000", "hash": "0BD236F362579F9F", "target": "Ver o estado das expedições de coleta." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_005", "hash": "37F2F8645D924DD4", "target": "Saber mais sobre o celeiro." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_Q1_000_010", "hash": "0C9B656E09023D95", "target": "Nada." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_000", "hash": "2ED22FEEB348906A", "target": "Para onde devo mandar a próxima expedição?" },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_000_005", "hash": "FD48295513DFABB0", "target": "Uma equipe acabou de voltar de uma expedição! Estou com tudo o que coletaram aqui. Não se esqueça de recolher os materiais quando tiver um tempinho." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_100_000", "hash": "9A1868B4498007C2", "target": "No celeiro, você pode enviar uma equipe dos melhores exploradores mammets para coletar materiais em uma área à sua escolha. É só dizer aonde devem ir, que boto todo mundo a caminho num instante." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_200_000", "hash": "9C377C8E4E1C7FEB", "target": "Vejo que você também gosta de explorar. Pode passear à vontade pela ilha... Hum, desde que tenha a permissão de quem é dono dela. Mas receio que as idas e vindas desta instalação sejam estritamente confidenciais." },
+    { "gameKey": "custom/007/CtsMjiStockyardManagement_00786#TEXT_CTSMJISTOCKYARDMANAGEMENT_00786_OFFICER_300_000", "hash": "A84BC8BFA39DBB1A", "target": "A nova caverna virou assunto na ilha inteira! Se quiser, posso mandar uma equipe lá para ver que materiais valiosos encontramos." }
   ]
 }

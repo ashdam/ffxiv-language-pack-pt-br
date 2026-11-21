@@ -2,18 +2,18 @@
   "conversation": "custom/007/RegIsb5Yedlihmad_00746",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_000", "hash": "74E6C06DC7A5F160", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_Q1_000_000", "hash": "22EA1E34815C2A59", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_001", "hash": "24ADC13C282157A7", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_002", "hash": "9EED3F6DAAEA1C1C", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_003", "hash": "D25265309332568A", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_010", "hash": "332E0CE02EE334B4", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_011", "hash": "6E2B98B9D6630DC7", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_020", "hash": "007486EFD11AAE51", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_021", "hash": "7B703F526FD3A0D4", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_022", "hash": "79A6470085AD0D31", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_023", "hash": "2388B4615BDA438F", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_024", "hash": "EF29855DB78899BC", "target": "" },
-    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_025", "hash": "567D6574CD1248F0", "target": "" }
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_000", "hash": "74E6C06DC7A5F160", "target": "Pela sua aparência, imagino que não seja daqui. Que interessante! O que precisa de mim?" },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_Q1_000_000", "hash": "22EA1E34815C2A59", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_001", "hash": "24ADC13C282157A7", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_002", "hash": "9EED3F6DAAEA1C1C", "target": "Que lugar é este?" },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_A1_000_003", "hash": "D25265309332568A", "target": "Nada." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_010", "hash": "332E0CE02EE334B4", "target": "Eu? Meu marido e eu vivemos de vender o que conseguimos. Nos conhecemos num navio para Limsa Lominsa, quando ainda estávamos começando no comércio, e nunca mais nos separamos." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_011", "hash": "6E2B98B9D6630DC7", "target": "Vendemos principalmente especiarias e frutas que não se encontram em nenhum outro lugar. Esta ilha conta sua história pela culinária, e queremos compartilhá-la com o mundo. Por que não experimenta? Vai valer a viagem! " },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_020", "hash": "007486EFD11AAE51", "target": "Aqui é Yedlihmad, porta de entrada para o mar thavnairiano. Na língua antiga dos povos do continente, o nome significa “porto novo”." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_021", "hash": "7B703F526FD3A0D4", "target": "As águas são rasas, por isso só embarcações pequenas chegam ao cais. Em compensação, o porto fica bem protegido de ventos fortes e ondas violentas. Navios maiores, com mais carga, costumam atracar em Alnair." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_022", "hash": "79A6470085AD0D31", "target": "Desde que aquela torre apareceu em Narunnair, cada vez menos comerciantes vêm até aqui. O comércio parou, e nossas mercadorias estão apodrecendo ao sol." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_023", "hash": "2388B4615BDA438F", "target": "Agora que a torre finalmente sumiu, espero ver mais barcos no horizonte. Com sorte, este lugar voltará a ser o porto movimentado de antes." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_024", "hash": "EF29855DB78899BC", "target": "A Hoste Radiante já está sobrecarregada, e o pouco pessoal que tem não basta para proteger este lugar. É compreensível que tanta gente tenha fugido para o interior. Seja lá o que for fazer, tome cuidado." },
+    { "gameKey": "custom/007/RegIsb5Yedlihmad_00746#TEXT_REGISB5YEDLIHMAD_00746_DAHAABA_000_025", "hash": "567D6574CD1248F0", "target": "Parece que continuamos todos aqui, sãos e salvos. Espero que logo este lugar volte a fervilhar, com gente e mercadorias de todo tipo enchendo o cais." }
   ]
 }

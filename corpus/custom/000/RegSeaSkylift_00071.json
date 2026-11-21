@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegSeaSkylift_00071",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1", "hash": "5570DCBCC94C58FD", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_2", "hash": "9DCBC8151C530B7B", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_3", "hash": "E68E5276767BFF8C", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_4", "hash": "8184BADB3382C87B", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_100_4", "hash": "A03B84C3AD08416C", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_5", "hash": "96E8CA18D48528FA", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_6", "hash": "2141C7BD9D247DA8", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_7", "hash": "9C02FF433CF5FFDD", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_Q1_000_1", "hash": "CD819822CF3C25DC", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_1", "hash": "6CCE620DC9ED9B0E", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_2", "hash": "4475EAC09FD50F7C", "target": "" },
-    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_3", "hash": "ABC90DE40E8F2617", "target": "" }
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_1", "hash": "5570DCBCC94C58FD", "target": "Que penhasco, hein? Não dava pra subir e descer carga por aí sem essa geringonça danada de madeira e roldanas." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_2", "hash": "9DCBC8151C530B7B", "target": "Um bando de transportadoras se juntou pra inventar esse Elevador Aéreo aí. Digamos que eu sou a “cara” da operação." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_3", "hash": "E68E5276767BFF8C", "target": "Mas não mando mais que ninguém, veja bem. Limsa foi fundada nos costumes dos piratas, então tudo, mas tudo mesmo, é decidido no voto." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_4", "hash": "8184BADB3382C87B", "target": "Meu trabalho é marcar as reuniões e presidir as votações. Sou o óleo que faz as engrenagens girarem, por assim dizer." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_100_4", "hash": "A03B84C3AD08416C", "target": "Tem dia em que eu preferia conduzir uma daquelas carroças e trabalhar de <italic(1)>verdade<italic(0)>." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_5", "hash": "96E8CA18D48528FA", "target": "Montamos tudo isso depois que a Calamidade rachou o chão e ergueu um penhasco de ponta a ponta de La Noscea Central." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_6", "hash": "2141C7BD9D247DA8", "target": "Navio cargueiro dá conta das entregas pelo litoral, mas quem mora no interior ainda precisa que nossas carroças passem." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_WYRKRHIT_000_7", "hash": "9C02FF433CF5FFDD", "target": "Esse andaime não aguenta uma carroça cheia. O ideal era derrubar um trecho do penhasco e fazer uma rampa. Mas quem tem tempo ou dinheiro pra uma obra dessas? Por enquanto, a gente se vira com o que tem." },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_Q1_000_1", "hash": "CD819822CF3C25DC", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_1", "hash": "6CCE620DC9ED9B0E", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_2", "hash": "4475EAC09FD50F7C", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/000/RegSeaSkylift_00071#TEXT_REGSEASKYLIFT_00071_A1_000_3", "hash": "ABC90DE40E8F2617", "target": "Nada." }
   ]
 }

@@ -2,18 +2,18 @@
   "conversation": "custom/007/RegIsb5TheGreatWork_00748",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_000", "hash": "7CCE212F9CAEFC4F", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_001", "hash": "7A6225E41E487FE3", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_002", "hash": "FA67F09357277622", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_003", "hash": "145112D206CFCE4F", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_004", "hash": "25C801267CA18466", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_Q1_000_000", "hash": "37ADD08C559CADC9", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_001", "hash": "DB707AB0C8DCFCEF", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_002", "hash": "7534F636C9125D86", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_003", "hash": "014BB8576F827AFD", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_010", "hash": "C16F3215B3E57051", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_011", "hash": "3EFBB51524969F3D", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_020", "hash": "DC011618E1CF1820", "target": "" },
-    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_021", "hash": "077713E0B818CB14", "target": "" }
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_000", "hash": "7CCE212F9CAEFC4F", "target": "Escolheu uma hora estranha para viajar, não é? Bem, se precisar saber de alguma coisa, é só perguntar." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_001", "hash": "7A6225E41E487FE3", "target": "Soube do que houve na torre. Queria poder ajudar a trazer meus colegas de volta em segurança..." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_002", "hash": "FA67F09357277622", "target": "Obrigada por salvar meus colegas da torre. Pergunte o que quiser. O mínimo que posso fazer é responder." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_003", "hash": "145112D206CFCE4F", "target": "Nós, alquimistas, estamos com as mãos ocupadas preparando remédios para os feridos. Por sorte, não preciso delas para responder às suas perguntas. Pode perguntar." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_004", "hash": "25C801267CA18466", "target": "Que bom ver que você está bem! Se tiver alguma pergunta, ficarei feliz em responder." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_Q1_000_000", "hash": "37ADD08C559CADC9", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_001", "hash": "DB707AB0C8DCFCEF", "target": "Quem é você?" },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_002", "hash": "7534F636C9125D86", "target": "Que lugar é este?" },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_A1_000_003", "hash": "014BB8576F827AFD", "target": "Nada." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_010", "hash": "C16F3215B3E57051", "target": "Sou uma das muitas alquimistas que vivem e trabalham aqui. Antes eu era botânica, mas, sempre que vinha entregar ingredientes, sentia que a alquimia me chamava." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_011", "hash": "3EFBB51524969F3D", "target": "No começo, até os compostos mais básicos me davam trabalho, mas, de algum jeito, conquistei meu lugar na Grande Obra. Mesmo assim, sempre dá para aperfeiçoar a ciência e a nós mesmos!" },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_020", "hash": "DC011618E1CF1820", "target": "Esta é a Grande Obra, fundada pela família Daemir, uma linhagem de alquimistas de renome. Hoje, pessoas de todo o país vêm estudar e praticar alquimia nestas salas." },
+    { "gameKey": "custom/007/RegIsb5TheGreatWork_00748#TEXT_REGISB5THEGREATWORK_00748_AMRA_000_021", "hash": "077713E0B818CB14", "target": "Cada preparado alquímico tem uma longa história, mas não nos contentamos em viver das glórias do passado. Estamos sempre aprimorando fórmulas e inventando outras para o bem de todos." }
   ]
 }

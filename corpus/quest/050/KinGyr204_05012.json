@@ -37,6 +37,6 @@
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_036", "hash": "5BE538C8297B2078", "target": "...Entendo. É bom saber que ela tem amigos. Eu não suportava pensar nela sozinha lá." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_037", "hash": "60D5D9B5C597EAA8", "target": "“Um viper vive para caçar, para que outros vivam e cacem mais um dia”, como diz o ditado. Parece que ela levou a mensagem a sério. Tomou para si o dever de treinar uma nova geração..." },
     { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_BOLOGAW_000_038", "hash": "571E7F6A948939C1", "target": "E parece que você é <if(gnum4,a mais nova aluna,o mais novo aluno)> dela! Que a sorte acompanhe você, <split(<string(gstr1)>, ,1)>. E lembre-se: faça o que fizer, não vá morrer." },
-    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SYSTEM_000_039", "hash": "07BB19D7D03811FA", "target": "Agora você pode aceitar elite Dawn Hunt mark bills no quadro de caçadas da Aurora de Tuliyollal." }
+    { "gameKey": "quest/050/KinGyr204_05012#TEXT_KINGYR204_05012_SYSTEM_000_039", "hash": "07BB19D7D03811FA", "target": "Agora você pode aceitar elite Dawn Hunt mark bills no quadro da Caça da Alvorada em Tuliyollal." }
   ]
 }

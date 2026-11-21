@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegAbr2CampCloudtop_00291",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "" },
-    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "" }
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_000", "hash": "A9244CEE788D6494", "target": "Precisa de alguma coisa? Se for de escolta, acho que tenho um tempinho de sobra." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_Q1_000_000", "hash": "65DCD198D36F8002", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_001", "hash": "11DE4920D15ADC81", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_002", "hash": "DAEB2447F1D92394", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_A1_000_003", "hash": "520091C2FA464F10", "target": "Nada." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_010", "hash": "2300EEEF2638B27D", "target": "Como cavaleiros a serviço da Casa Haillenarte, temos o dever de vigiar qualquer sinal de atividade dravaniana aqui no Acampamento Topo das Nuvens." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_011", "hash": "855145391670C210", "target": "Um dever bem longe de ser cumprido, receio. Parece que os dragões não querem saber deste lugar. Então a gente passa quase todo o tempo cuidando do acampamento. Os Vanu Vanu têm dado trabalho ultimamente, mas nada que não possamos resolver." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_020", "hash": "F16543CDBB427F08", "target": "É neste acampamento pacato que ficamos de olho em possíveis ataques dravanianos." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_021", "hash": "9C9620E6C7655676", "target": "Cá entre nós, só mandam pra cá quem consideram inapto pra... outras tarefas, se é que me entende. Como os dravanianos ficam do outro lado de Ishgard, o máximo que devemos ver por aqui são nuvens em forma de dragão." },
+    { "gameKey": "custom/002/RegAbr2CampCloudtop_00291#TEXT_REGABR2CAMPCLOUDTOP_00291_CAMPCLOUDTOPGUIDE_000_022", "hash": "57218215E9034FB7", "target": "Pelo menos temos os reparos do <italic(1)>Protetor<italic(0)> pra nos ocupar. Mas, com tão poucos suprimentos e sem nenhuma missão de verdade, qualquer cavaleiro que se preze faz bem em evitar uma transferência pra cá." }
   ]
 }

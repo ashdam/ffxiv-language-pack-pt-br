@@ -2,12 +2,12 @@
   "sheet": "MKDRelicGrowth2Category",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "MKDRelicGrowth2Category#0", "hash": "DEBBE251B96BC29E", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#1", "hash": "EBECCA72E12AC030", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#2", "hash": "039690B4213AB4AA", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#3", "hash": "1D554E30CC68BF71", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#4", "hash": "1627923F5FA628B9", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#5", "hash": "6F598663506D312F", "target": "" },
-    { "gameKey": "MKDRelicGrowth2Category#6", "hash": "EBE09E5FEA8ADB1B", "target": "" }
+    { "gameKey": "MKDRelicGrowth2Category#0", "hash": "DEBBE251B96BC29E", "target": "Roleta de Missões" },
+    { "gameKey": "MKDRelicGrowth2Category#1", "hash": "EBECCA72E12AC030", "target": "Operações de campo" },
+    { "gameKey": "MKDRelicGrowth2Category#2", "hash": "039690B4213AB4AA", "target": "Masmorras profundas" },
+    { "gameKey": "MKDRelicGrowth2Category#3", "hash": "1D554E30CC68BF71", "target": "Masmorras de variante e critério" },
+    { "gameKey": "MKDRelicGrowth2Category#4", "hash": "1627923F5FA628B9", "target": "Raides" },
+    { "gameKey": "MKDRelicGrowth2Category#5", "hash": "6F598663506D312F", "target": "Desafios" },
+    { "gameKey": "MKDRelicGrowth2Category#6", "hash": "EBE09E5FEA8ADB1B", "target": "FATEs" }
   ]
 }

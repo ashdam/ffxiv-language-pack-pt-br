@@ -2,10 +2,10 @@
   "conversation": "custom/004/RegOth3Sanana_00496",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_000", "hash": "86022ED7236B57FF", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_010", "hash": "B462A4357DDD0DFE", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_020", "hash": "7FBDAD6248C7F2A4", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_030", "hash": "3C01FAB8E8C4DFEE", "target": "" },
-    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_040", "hash": "73C638D42A10A3C3", "target": "" }
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_000", "hash": "86022ED7236B57FF", "target": "Pra falar a verdade, é um alívio ter alguém tão capaz a bordo. Como falei, conseguimos salvar alguns suprimentos do naufrágio. Posso arranjar o que você precisar, por uma taxinha simbólica, claro. He he." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_010", "hash": "B462A4357DDD0DFE", "target": "Bom, isso ficou complicado depressa. E eu aqui pensando em como abrir as portas de Sui<-->no<-->Sato pra Casa..." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_020", "hash": "7FBDAD6248C7F2A4", "target": "Tudo depende disso, <split(<string(gstr1)>, ,1)>. Vamos mostrar ao tal Jikkan o que ele perde fechando as portas pro mundo. Hum, talvez não fosse má ideia levar uma amostra das delícias de Sanjo Hanamachi..." },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_030", "hash": "3C01FAB8E8C4DFEE", "target": "Certo, <split(<string(gstr1)>, ,1)>. Vamos arranjar uma especialidade tão boa pra Sui<-->no<-->Sato que Jikkan não vai ter do que reclamar!" },
+    { "gameKey": "custom/004/RegOth3Sanana_00496#TEXT_REGOTH3SANANA_00496_SANANA_000_040", "hash": "73C638D42A10A3C3", "target": "Continue assim, <split(<string(gstr1)>, ,1)>. Os cofres da Casa... hum, quer dizer, Kurenai e seu povo contam com você!" }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/004/FesEst2018_00474",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_000", "hash": "4030F3F839D351C2", "target": "" },
-    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_010", "hash": "2DAD07A8FD88B4B8", "target": "" },
-    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_011", "hash": "297F956DC20A91A5", "target": "" },
-    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_012", "hash": "8C573C1D911DB687", "target": "" },
-    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_013", "hash": "4DD514E17964B37A", "target": "" }
+    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_000", "hash": "4030F3F839D351C2", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>! Gostaria de saber mais sobre as festividades do Festival da Eclosão?" },
+    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_010", "hash": "2DAD07A8FD88B4B8", "target": "O Festival da Eclosão é uma festa recente. Nasceu de um sonho profético de uma jovem gridaniana chamada Jihli Aliapoh. No sonho, apareceram os antigos Doze Arcontes, os heróis que salvaram o mundo da destruição da Sexta Calamidade Umbral." },
+    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_011", "hash": "297F956DC20A91A5", "target": "Descendo dos céus sobre ovos lindamente decorados, disseram a Jihli: “Erga-se, jovem Sonhadora, e prepare os receptáculos para o nosso retorno.” E ela assim fez. Dedicou-se a pintar e dourar ovos à imagem dos que viu em seu sonho." },
+    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_012", "hash": "8C573C1D911DB687", "target": "A notícia da profecia se espalhou, e Jihli atraiu ajudantes para dividir o trabalho. Depois da Calamidade, a festa cresceu ainda mais, pois moradores e aventureiros vieram celebrar os Arcontes de outrora, que muitos acreditam ter ajudado a salvar o mundo mais uma vez." },
+    { "gameKey": "custom/004/FesEst2018_00474#TEXT_FESEST2018_00474_EGGHUNTINGSTAFFA_000_013", "hash": "4DD514E17964B37A", "target": "Agora que já conhece o Festival da Eclosão, talvez queira participar. Se tiver interesse, venha a Gridania, onde estão acontecendo as festividades. Esperamos você lá!" }
   ]
 }

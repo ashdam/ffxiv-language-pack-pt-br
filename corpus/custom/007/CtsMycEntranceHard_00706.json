@@ -2,12 +2,12 @@
   "conversation": "custom/007/CtsMycEntranceHard_00706",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_Q1_000_000", "hash": "4000FAC6C957077B", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_MENU_CONTENT", "hash": "42A7E281CE664E55", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_001", "hash": "4387175538A56F33", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_003", "hash": "E9DD63D0885EBE71", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_002", "hash": "7E3D7FF6F87E49B4", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_000", "hash": "699C76B2BB50F261", "target": "" },
-    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_001", "hash": "1CE602274CCB7191", "target": "" }
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_Q1_000_000", "hash": "4000FAC6C957077B", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_MENU_CONTENT", "hash": "42A7E281CE664E55", "target": "Entrar em Delubrum Reginae (Savage)." },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_001", "hash": "4387175538A56F33", "target": "Perguntar sobre Delubrum Reginae (Savage)." },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_003", "hash": "E9DD63D0885EBE71", "target": "Conversar." },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_A1_000_002", "hash": "7E3D7FF6F87E49B4", "target": "Nada." },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_000", "hash": "699C76B2BB50F261", "target": "Acabei de ler o primeiro rascunho da mais nova epopeia do nosso querido amigo. Que retrato fascinante das suas aventuras, cheio de paixão, suspense, medo e emoção! Meu coração quase saltou do peito!" },
+    { "gameKey": "custom/007/CtsMycEntranceHard_00706#TEXT_CTSMYCENTRANCEHARD_00706_WAKADANNAOFMUJIKOZA_000_001", "hash": "1CE602274CCB7191", "target": "Ah, mal posso esperar para saber como termina. Mais uma vez, agradeço por inspirar o gênio dele." }
   ]
 }

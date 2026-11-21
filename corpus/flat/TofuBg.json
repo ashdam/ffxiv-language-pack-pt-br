@@ -2,12 +2,12 @@
   "sheet": "TofuBg",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "TofuBg#1", "hash": "0098DB150A96BE01", "target": "" },
-    { "gameKey": "TofuBg#2", "hash": "BC36A82B84FC6A74", "target": "" },
-    { "gameKey": "TofuBg#3", "hash": "1C60824C73DBF2B4", "target": "" },
-    { "gameKey": "TofuBg#4", "hash": "DCC4C3B1114180C5", "target": "" },
-    { "gameKey": "TofuBg#5", "hash": "C3938A1B3A923469", "target": "" },
-    { "gameKey": "TofuBg#6", "hash": "7568D19787FF3611", "target": "" },
-    { "gameKey": "TofuBg#7", "hash": "B2E5DC894BCBF455", "target": "" }
+    { "gameKey": "TofuBg#1", "hash": "0098DB150A96BE01", "target": "Nenhum" },
+    { "gameKey": "TofuBg#2", "hash": "BC36A82B84FC6A74", "target": "Quadriculado" },
+    { "gameKey": "TofuBg#3", "hash": "1C60824C73DBF2B4", "target": "Quadriculado (campo circular)" },
+    { "gameKey": "TofuBg#4", "hash": "DCC4C3B1114180C5", "target": "Quadriculado (campo quadrado)" },
+    { "gameKey": "TofuBg#5", "hash": "C3938A1B3A923469", "target": "Cinza" },
+    { "gameKey": "TofuBg#6", "hash": "7568D19787FF3611", "target": "Cinza (campo circular)" },
+    { "gameKey": "TofuBg#7", "hash": "B2E5DC894BCBF455", "target": "Cinza (campo quadrado)" }
   ]
 }

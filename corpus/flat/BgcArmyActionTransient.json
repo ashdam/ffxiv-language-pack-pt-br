@@ -2,10 +2,10 @@
   "sheet": "BgcArmyActionTransient",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "BgcArmyActionTransient#1", "hash": "E0FA3F8E5578B066", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#2", "hash": "B37C5A49A69E5EBD", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#3", "hash": "573E1B117C6CD9C9", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#4", "hash": "6E4AFBE216E88B78", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#5", "hash": "98C810A1205679B8", "target": "" }
+    { "gameKey": "BgcArmyActionTransient#1", "hash": "E0FA3F8E5578B066", "target": "Ordena que o esquadrão ataque o inimigo.<br>Só pode ser usado em uma <colortype(506)><edgecolortype(507)>missão de comando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#2", "hash": "B37C5A49A69E5EBD", "target": "Ordena que o esquadrão interrompa o combate e recue.<br>Só pode ser usado em uma <colortype(506)><edgecolortype(507)>missão de comando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#3", "hash": "573E1B117C6CD9C9", "target": "Ordena que o esquadrão volte a atacar o inimigo.<br>Só pode ser usado em uma <colortype(506)><edgecolortype(507)>missão de comando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#4", "hash": "6E4AFBE216E88B78", "target": "Ordena que o esquadrão use Limit Break contra um único alvo. Também aumenta o dano causado pelos membros do grupo em um raio de 20 yalms.<br>Só pode ser usado em uma <colortype(506)><edgecolortype(507)>missão de comando<edgecolortype(0)><colortype(0)>, com a barra de Limit Break no nível 1 e os três membros do esquadrão conscientes." },
+    { "gameKey": "BgcArmyActionTransient#5", "hash": "98C810A1205679B8", "target": "Exibe a barra de ordens.<br>Só pode ser usado em uma <colortype(506)><edgecolortype(507)>missão de comando<edgecolortype(0)><colortype(0)>." }
   ]
 }

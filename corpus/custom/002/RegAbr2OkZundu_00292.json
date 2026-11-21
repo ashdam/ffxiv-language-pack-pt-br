@@ -2,19 +2,19 @@
   "conversation": "custom/002/RegAbr2OkZundu_00292",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_100_000", "hash": "F76245C91C9A9624", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_000", "hash": "DB3539C51FC6F517", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_003", "hash": "412F571D92CF3681", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_Q1_000_000", "hash": "A7705782F0D70C0B", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_001", "hash": "BD70A8397B866FE1", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_002", "hash": "C4945ADF03F11BD1", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_003", "hash": "8EAA92052B7F0685", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_010", "hash": "10A46ACDCD1AD0C4", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_011", "hash": "8BCDEF7460723C02", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_012", "hash": "8B7FC6D52D9E8CA4", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_040", "hash": "6427CCE1DF48691B", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_020", "hash": "D91593F3B2A91683", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_021", "hash": "EFFE93F8D3DB2295", "target": "" },
-    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_022", "hash": "AFD08330AC783FFA", "target": "" }
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_100_000", "hash": "F76245C91C9A9624", "target": "Ah, <if(gnum4,a de baixo,o de baixo)> não tem penas! Uma visita assim anuncia uma tempestade de mudanças." },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_000", "hash": "DB3539C51FC6F517", "target": "<if(gnum4,A de baixo,O de baixo)> chega na hora certa. Veja os jovens Vanu Vanu dançarem com a força do trovão, como sanuwas em voo! A cultura de Ok' Zundu é rica como terra depois das chuvas de verão. <if(gnum4,A de baixo,O de baixo)> quer saber mais?" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_003", "hash": "412F571D92CF3681", "target": "Então é <if(gnum4,a de baixo que domina,o de baixo que domina)> a dança do sol? Gona está ensinando os jovens a defender Ok' Zundu. O que <if(gnum4,a de baixo,o de baixo)> quer saber?" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_Q1_000_000", "hash": "A7705782F0D70C0B", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_001", "hash": "BD70A8397B866FE1", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_002", "hash": "C4945ADF03F11BD1", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_A1_000_003", "hash": "8EAA92052B7F0685", "target": "Nada." },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_010", "hash": "10A46ACDCD1AD0C4", "target": "Gona Vanu é mestre de dança de Ok' Zundu e garante que todos conheçam a dança vibrante da tribo. Assim como sedimentos se acumulam até formar uma grande montanha, a dança só se domina com muitas luas de prática!" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_011", "hash": "8BCDEF7460723C02", "target": "Vanu Vanu movem os braços com a graça da folha que dança na brisa e batem os pés com a ferocidade do trovão. Que <if(gnum4,a de baixo,o de baixo)> veja e conheça a força de Ok' Zundu!" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_012", "hash": "8B7FC6D52D9E8CA4", "target": "Gona Vanu sente a vontade de dançar <if(gnum4,da de baixo,do de baixo)> crescer como nuvem carregada de chuva. Pois bem, que mostre a dança do seu povo. Só perdoe os jovens Vanu se caírem na risada!" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_040", "hash": "6427CCE1DF48691B", "target": "A dança <if(gnum4,da de baixo,do de baixo)> é mesmo poderosa. Poucos Vanu conseguem encará-la sem medo. Ainda assim, é nossa dança do sol que protege os Zundu da violência dos Vundu!" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_020", "hash": "D91593F3B2A91683", "target": "Aqui é Ok' Zundu. Na língua Vanu Vanu, quer dizer aldeia da tribo Zundu. Gona Vanu não sabe o nome da tribo <if(gnum4,da de baixo,do de baixo)>, mas a aldeia deve ser magnífica!" },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_021", "hash": "EFFE93F8D3DB2295", "target": "A tribo Zundu gosta de viver em paz, como nuvens paradas num dia de verão. Já a tribo Vundu prospera em meio a tempestades de caos e violência." },
+    { "gameKey": "custom/002/RegAbr2OkZundu_00292#TEXT_REGABR2OKZUNDU_00292_GONAVANU_000_022", "hash": "AFD08330AC783FFA", "target": "<if(gnum4,A de baixo,O de baixo)> já falou com Sonu Vanu? Como uma nuvem carregada de chuva purificadora, o saber de Sonu Vanu lava todas as dúvidas sobre a tribo Zundu!" }
   ]
 }

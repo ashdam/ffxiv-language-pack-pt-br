@@ -2,19 +2,19 @@
   "conversation": "custom/003/RegGyr3ViraNilya_00396",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_000", "hash": "512FF172E00C1726", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_Q1_000_000", "hash": "2C13D33B2F41B20B", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_001", "hash": "6C142EA40DD91C64", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_002", "hash": "4DF3BC494DE65E28", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_003", "hash": "D356F879F0A270F1", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_010", "hash": "3BB8FC58F365A602", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_011", "hash": "7494489174586081", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_012", "hash": "1BC88AD6DAB21A77", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_013", "hash": "5D8F3865F00FDE67", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_020", "hash": "0D9BD3AE603B6B4F", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_021", "hash": "5930CAB1D88BD01B", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_022", "hash": "789B4550C9170DC8", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_023", "hash": "DFEE931F7B623754", "target": "" },
-    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_024", "hash": "EF4AEC706AEC5EDF", "target": "" }
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_000", "hash": "512FF172E00C1726", "target": "Boas-vindas, <if(gnum4,aventureira,aventureiro)>. O que traz você a Vira Nilya?" },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_Q1_000_000", "hash": "2C13D33B2F41B20B", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_001", "hash": "6C142EA40DD91C64", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_002", "hash": "4DF3BC494DE65E28", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_A1_000_003", "hash": "D356F879F0A270F1", "target": "Nada." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_010", "hash": "3BB8FC58F365A602", "target": "Sou Nisha, das Vira, a grande tribo guerreira das Ananta." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_011", "hash": "7494489174586081", "target": "Nascemos de Sri Lakshmi, a Sssenhora da Bem-Aventurança. Ela nos criou à Sua imagem, e assim nos concedeu grandesss dons." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_012", "hash": "1BC88AD6DAB21A77", "target": "Fomos abençoadas com Sua beleza, por isso temos essscamas. Fomos abençoadas com Sua fertilidade, por isso temos muitas criasss, todas fêmeas. E fomos abençoadas com Sua vitalidade, por isso envelhecemos tão devagar." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_013", "hash": "5D8F3865F00FDE67", "target": "As Ananta nascem de ovos. Cada vez que trocamos de pele, nossasss escamas ficam mais luzidias e brilhantes. É um dos sssegredos de nossa beleza eterna." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_020", "hash": "0D9BD3AE603B6B4F", "target": "Esssta é Vira Nilya, sssantuário da tribo Vira." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_021", "hash": "5930CAB1D88BD01B", "target": "Prezamos a liberdade de nosso povo, assim como nossa grande mãe, Sri Lakshmi. É por isso que lutamos com a Resssistência contra os imperiais." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_022", "hash": "789B4550C9170DC8", "target": "Infelizmente, nossas irmãs Qalyana não compartilham desssa visão." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_023", "hash": "DFEE931F7B623754", "target": "São obsssecadas pela lapidação e se contentam em ignorar nosso sofrimento em busca de uma beleza sobrenatural. O que era um templo em honra à nossa mãe agora é uma fortaleza que querem sssó para si." },
+    { "gameKey": "custom/003/RegGyr3ViraNilya_00396#TEXT_REGGYR3VIRANILYA_00396_NISHA_000_024", "hash": "EF4AEC706AEC5EDF", "target": "Por justiça, nós é que devíamos resssguardar o templo. As Vira poderiam tomá-lo facilmente, mas nossa líder, Sarisha, insssiste que podemos resolver tudo em paz. \\<suspiro> Espero que esteja certa." }
   ]
 }

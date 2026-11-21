@@ -2,8 +2,8 @@
   "conversation": "custom/003/CmnGscTripleTriadRoomGuide_00369",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_001", "hash": "732910188ABB561A", "target": "" },
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_002", "hash": "8EB5D17D39673251", "target": "" },
-    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_003", "hash": "DA6AE5B852B630BF", "target": "" }
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_001", "hash": "732910188ABB561A", "target": "Boas-vindas ao Salão de Batalhas de Triple Triad! Dia e noite, fãs de todos os cantos de Eorzea vêm aqui se enfrentar em algumas das partidas de cartas mais empolgantes que este reino já viu!" },
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_002", "hash": "8EB5D17D39673251", "target": "Você pode desafiar outros aventureiros diretamente ou, se preferir, usar nosso serviço de pareamento de graça!" },
+    { "gameKey": "custom/003/CmnGscTripleTriadRoomGuide_00369#TEXT_CMNGSCTRIPLETRIADROOMGUIDE_00369_TTGUIDE_100_003", "hash": "DA6AE5B852B630BF", "target": "Se quiser saber mais, um dos atendentes do salão terá prazer em explicar tudo. Que suas partidas sejam acirradas e rendam bons frutos!" }
   ]
 }

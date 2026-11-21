@@ -2,13 +2,13 @@
   "conversation": "custom/002/FesPdyPlayerAltar_00254",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "" },
-    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "" }
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_000", "hash": "49716BE585FE8A71", "target": "O pedestal ao meu lado é uma das peças feitas originalmente para a elaborada exposição de figuras do mestre Nanapasi para o Dia das Pequenas Damas." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_001", "hash": "7D3F90D233C9925C", "target": "Acabamos escolhendo outro modelo, mas meu mestre achou que seria um desperdício descartar este. Ele se ofereceu para instalá-lo aqui, à disposição de quem quiser usá-lo." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_002", "hash": "163A7AB991B14539", "target": "Todos os aventureiros podem usar este pedestal de graça. Use-o para tirar fotos comemorativas ou como preferir!" },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_003", "hash": "B41CAC8DB1A5C459", "target": "Use o pedestal quantas vezes quiser, mas dê a vez a outros aventureiros se estiverem esperando." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_SYSTEM_000_100", "hash": "6A23FA9D78CB0569", "target": "Sobre o pedestal há uma figura em tamanho natural, tão bem-feita que poderia passar por uma pessoa de verdade." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_200", "hash": "9474240A9F842F83", "target": "Saudações! Como você deve ter visto, meu mestre tem grandes planos para o Dia das Pequenas Damas deste ano. Receio que ele tenha encontrado um pequeno contratempo. Sua ajuda seria muito bem-vinda, caso possa oferecê-la." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_201", "hash": "F21E5874A7D90E63", "target": "Sua ajuda fará muito para tornar este Dia das Pequenas Damas inesquecível. Em nome do mestre Nanapasi, receba nossa mais sincera gratidão." },
+    { "gameKey": "custom/002/FesPdyPlayerAltar_00254#TEXT_FESPDYPLAYERALTAR_00254_MAIDPDY2015_000_202", "hash": "EEF60CBEBEE050BE", "target": "Em todos os anos em que sirvo a esta família, jamais vi o mestre Nanapasi e a senhorita Ninimo tão felizes quanto hoje. Isso só foi possível graças a você. Agradeço de todo o coração." }
   ]
 }

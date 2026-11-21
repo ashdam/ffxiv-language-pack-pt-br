@@ -2,19 +2,19 @@
   "conversation": "custom/006/RegOth4WerlytGuide_00685",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_000", "hash": "2D8E10343B061FB4", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_Q1_000_000", "hash": "1BBDE7E7CB2AF566", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_001", "hash": "1A6EF287759F58FD", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_002", "hash": "85F4F4FF88D8708E", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_003", "hash": "9251C7DE61341310", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_001", "hash": "4274990B691978FF", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_002", "hash": "6723146C7521E49C", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_003", "hash": "7126838045A97CB4", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_004", "hash": "89C5BA9789CCE45B", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_005", "hash": "5E8EBDA33D093E91", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_006", "hash": "AC99B55963D4C3E8", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_007", "hash": "F8A99FA7CAD00D92", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_010", "hash": "42ECC749F3207249", "target": "" },
-    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_011", "hash": "1CDFCB4B09ECFE51", "target": "" }
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_000", "hash": "2D8E10343B061FB4", "target": "O que quer comigo, <if(gnum4,moça,rapaz)>?" },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_Q1_000_000", "hash": "1BBDE7E7CB2AF566", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_001", "hash": "1A6EF287759F58FD", "target": "Pode me falar sobre você?" },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_002", "hash": "85F4F4FF88D8708E", "target": "O que pode me contar sobre o Penhasco das Andorinhas-do-mar?" },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_A1_000_003", "hash": "9251C7DE61341310", "target": "Nada." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_001", "hash": "4274990B691978FF", "target": "Eu? Não há muito o que contar e menos ainda que valha a pena saber. Hoje em dia, cuido da minha vida e tento não incomodar ninguém. Só mais um velho triste, sozinho e morrendo de... Bem, duvido que se importe, mesmo se eu contar." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_002", "hash": "6723146C7521E49C", "target": "Eu me dizia médico, embora não fosse lá essas coisas. Quando veio a epidemia, há dez anos, não pude fazer nada para detê-la, apesar de todos os meus anos de experiência e remédios sofisticados. Para cada pessoa que salvei, perdi outras doze." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_003", "hash": "7126838045A97CB4", "target": "Pior, deixei aqueles desgraçados dos garleanos mandarem em mim e decidirem quem eu devia tratar e quem deixar à própria sorte. No fim, só cuidei dos imperiais, enquanto meus amigos e parentes morriam em agonia." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_004", "hash": "89C5BA9789CCE45B", "target": "Aqui no extremo sul de Werlyt, no alto dos penhascos, nunca houve muito motivo para alguém vir até aqui. É bom ficar à beira-mar, mas estamos alto demais para tirar muito proveito. As gaivotas e as andorinhas-do-mar não parecem se importar." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_005", "hash": "5E8EBDA33D093E91", "target": "A maioria dos moradores é de Hyur da região ou Au Ra que acabaram chegando com o passar dos anos. Viviam lado a lado, em paz, até os garleanos chegarem e estragarem tudo." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_006", "hash": "AC99B55963D4C3E8", "target": "Pouco podíamos fazer para impedi-los. Quem reagiu logo passou pelo fio da espada. Terminada a invasão, os imperiais cavaram a rocha e construíram um depósito para abastecer aquelas malditas aeronaves. Mas os experimentos vieram bem depois." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_007", "hash": "F8A99FA7CAD00D92", "target": "Claro que nenhum civil sabia o que andavam fazendo. Imagino que tudo venha à tona agora que aqueles desgraçados fugiram de rabo entre as pernas. Devemos isso a você e aos seus, ainda que seja só um alívio passageiro." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_010", "hash": "42ECC749F3207249", "target": "Depois de anos de ocupação, os mais jovens se juntaram e expulsaram aqueles desgraçados dos imperiais. Mas, pelo que ouvi, um grupo de órfãos criados por um legado garleano foi decisivo para conquistarmos a independência. Alfonse, acho que era o nome do líder..." },
+    { "gameKey": "custom/006/RegOth4WerlytGuide_00685#TEXT_REGOTH4WERLYTGUIDE_00685_REGRETOLDMAN00685_000_011", "hash": "1CDFCB4B09ECFE51", "target": "\\<suspiro> Tanta gente jovem perdeu a vida... Queria poder dar a minha para salvar uma delas, mas agora é tarde. Só nos resta aproveitar a liberdade que nos deram." }
   ]
 }

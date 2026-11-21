@@ -2,12 +2,12 @@
   "conversation": "custom/001/CmnDefMateriaSlot_00174",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_020", "hash": "65CAE6EDB09BAC13", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_030", "hash": "C371517367D0DEE2", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_035", "hash": "D0FC1DF82D93A000", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "" },
-    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "" }
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_000", "hash": "AB76B2073D465146", "target": "Pshhh... Shkohhh...<br>Altogente quer que Mutamix faça mistura-troca? Passe cinco matérias sem-uso pra Mutamix." },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_020", "hash": "65CAE6EDB09BAC13", "target": "Mistura-derrete, derrete-mistura, esmaga e aperta, aperta e esmaga..." },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_030", "hash": "C371517367D0DEE2", "target": "Olho arregalado! Cinco sem-uso renasceram numa só!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_035", "hash": "D0FC1DF82D93A000", "target": "Olho arregaladão! Shkohhh... Mutamix tá vendo direito?!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_040", "hash": "C20F70EE2B1A46B8", "target": "Matéria renascida tá brilhando forte! Dia feliz pra altogente!" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_050", "hash": "81502C38DBC769C4", "target": "Mistura-troca é jogo de sorte emocionante, né? Nem Mutamix sabe qual matéria vai nascer! Coração de altogente não fica pulando?" },
+    { "gameKey": "custom/001/CmnDefMateriaSlot_00174#TEXT_CMNDEFMATERIASLOT_00174_MUTAMIX_000_070", "hash": "3A908F704693309F", "target": "Shkohhh? A bolsa de altogente tá cheinha! Se altogente não pode levar matéria renascida, Mutamix não pode fazer mistura-troca!" }
   ]
 }

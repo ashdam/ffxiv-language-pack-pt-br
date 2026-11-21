@@ -2,19 +2,19 @@
   "conversation": "custom/001/CmnDefMrHousing_00140",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1Q1_100_000", "hash": "548E0FCE4D0A6C17", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A1_101_000", "hash": "187079E3B79B6D68", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A2_102_000", "hash": "A1FD088CFC7FEFE6", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A3_103_000", "hash": "55A63793B16CCA76", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_001", "hash": "A70E30EB00792D54", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_100_001", "hash": "1C582922CE55A47F", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_002", "hash": "C68907755977A171", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_003", "hash": "422476C75803B357", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_004", "hash": "CDA68E048B6A83D9", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_005", "hash": "A985A7F21F73E091", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_006", "hash": "19289420247851EC", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_000", "hash": "68443DF7AF65DF3A", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_001", "hash": "A40EF36C0E18B029", "target": "" },
-    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_002", "hash": "25467DE5C1476165", "target": "" }
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1Q1_100_000", "hash": "548E0FCE4D0A6C17", "target": "O que você gostaria de saber?" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A1_101_000", "hash": "187079E3B79B6D68", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A2_102_000", "hash": "A1FD088CFC7FEFE6", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_CHOICE1A3_103_000", "hash": "55A63793B16CCA76", "target": "Nada." },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_001", "hash": "A70E30EB00792D54", "target": "Ah, eu gosto de casas. Quer dizer, eu <italic(1)>gosto mesmo<italic(0)>. Ando por esta terra linda, lindíssima, visitando todos os bairros dos aventureiros. Pode me chamar de caçador de fachadas. Ou de bisbilhoteiro de casas." },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_100_001", "hash": "1C582922CE55A47F", "target": "Ora, então é dos nossos? Mais alguém que gosta de espiar casas! Que <italic(1)>beleza<italic(0)>! Fale com os responsáveis pelas áreas residenciais. Contatos são tudo nesse nosso... passatempo." },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_002", "hash": "C68907755977A171", "target": "Era naquela enseada ali que Rycharde Barba de Névoa se escondia. Hum, quanta história! E que maresia! Aqui é Névoa, <italic(1)>o<italic(0)> bairro dos aventureiros. E que belo pedaço de Limsa!" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_003", "hash": "422476C75803B357", "target": "Ah, o Cálice! Quem é que não gostaria de beber de um cálice <italic(1)>desses<italic(0)>? Eu planejava uma viagem a Ul'dah só para ver este lugar, mas sempre surgia alguma coisa. Enfim, aqui estou!" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_004", "hash": "CDA68E048B6A83D9", "target": "Olha, acho que este virou meu bairro favorito. Os Canteiros de Lavanda! Que sossego, você não acha? Para falar a verdade, os últimos anos foram bem estressantes. Uma vida tranquila em Gridania, entre as árvores... \\<suspiro>" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_005", "hash": "A985A7F21F73E091", "target": "Caso esteja se perguntando, Shirogane quer dizer platina. Dá para ver de onde veio o nome. Essa areia limpinha e brilhante é um deleite para os olhos e para os pés. Um pedaço do paraíso do Extremo Oriente!" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_000_006", "hash": "19289420247851EC", "target": "Eu soube que Ishgard pediu ajuda para se reerguer depois da Guerra do Canto dos Dragões, mas jamais imaginei que conseguiriam fazer tudo isso tão depressa! A arte da alvenaria no seu auge." },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_000", "hash": "68443DF7AF65DF3A", "target": "Ora, por acaso esse chocobo é seu? <italic(1)>É<italic(0)> mesmo? Que maravilha, que maravilha!" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_001", "hash": "A40EF36C0E18B029", "target": "O coitado apareceu por aqui há pouco, bem abatido por ter se perdido <if(gnum4,da dona,do dono)>. Ainda bem que você passou por aqui. Nada aquece mais o coração que um reencontro feliz!" },
+    { "gameKey": "custom/001/CmnDefMrHousing_00140#TEXT_CMNDEFMRHOUSING_00140_MRHOUSING_004_002", "hash": "25467DE5C1476165", "target": "Seu chocobo companheiro voltou para você e já pode ser chamado de novo." }
   ]
 }

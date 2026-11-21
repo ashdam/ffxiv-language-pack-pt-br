@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3Isari_00410",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_000", "hash": "4A073C534E3E3059", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_Q1_000_000", "hash": "BD2387F951C7CF98", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_001", "hash": "83155846929943DD", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_002", "hash": "193A2A2D998C7994", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_003", "hash": "5AD49D2A0A3717F3", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_010", "hash": "D0974C40A8F14F27", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_011", "hash": "0AFDC2C3C4F6C5C4", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_012", "hash": "35B23EE3E0686D61", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_020", "hash": "C6D645F39F65D51D", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_021", "hash": "6439E4C52F508C0E", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_022", "hash": "D2156FE208F1BB55", "target": "" },
-    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_023", "hash": "E387C44E325C700B", "target": "" }
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_000", "hash": "4A073C534E3E3059", "target": "Boas-vindas a Isari. Eu sou... Pelos grandes kami! V-Você é <string(gstr1)>, <if(gnum4,a mulher,o homem)> que salvou nossa aldeia! Por favor, se precisar de qualquer coisa, qualquer coisa mesmo, é só pedir." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_Q1_000_000", "hash": "BD2387F951C7CF98", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_001", "hash": "83155846929943DD", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_002", "hash": "193A2A2D998C7994", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_A1_000_003", "hash": "5AD49D2A0A3717F3", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_010", "hash": "D0974C40A8F14F27", "target": "Sou um pescador humilde, nascido nesta aldeia, assim como meus pais e meus avós antes deles." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_011", "hash": "0AFDC2C3C4F6C5C4", "target": "Ultimamente, muita gente saiu de Isari atrás de riqueza, mas ouro nenhum me faria deixar o lugar onde cresci." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_012", "hash": "35B23EE3E0686D61", "target": "Posso até ser pobre, mas sou feliz. Não há sensação melhor que entrar no barco de manhã, sentir o vento no cabelo enquanto navego e voltar com uma boa porção de peixe." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_020", "hash": "C6D645F39F65D51D", "target": "Quase todo mundo aqui vive da pesca, mas cada um tem seu jeito. Tem quem pesque os menores com vara e quem use arpão ou rede para pegar peixe grande. Eu mergulho e recolho mariscos do fundo do mar com as próprias mãos." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_021", "hash": "6439E4C52F508C0E", "target": "Como deve imaginar, nossa aldeia nunca foi rica. Desde a invasão imperial, muitas vezes não temos dinheiro nem para o mais básico." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_022", "hash": "D2156FE208F1BB55", "target": "Só agradeço por saber que, aconteça o que acontecer, sempre teremos o mar. Passamos por dias difíceis, mas, graças a ele, não vai faltar comida na mesa nem na barriga." },
+    { "gameKey": "custom/004/RegOth3Isari_00410#TEXT_REGOTH3ISARI_00410_INUOI_000_023", "hash": "E387C44E325C700B", "target": "Agora, se você não leva muito jeito pra pesca, a história pode ser outra. Sem alguma habilidade, vai trazer pouco peixe pra casa e provavelmente fazer pouquíssimos amigos." }
   ]
 }
