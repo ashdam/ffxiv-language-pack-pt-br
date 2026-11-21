@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegWilArrzanethOssuary_00043",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_1", "hash": "2508BB9D0F023865", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000Q", "hash": "717827098BFF25BA", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A1", "hash": "29607C9B77AF6883", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A2", "hash": "6A9C3868E6AA8EF4", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A3", "hash": "01D22F8C901B9C0F", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_10", "hash": "B71909B8365CF8B0", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_11", "hash": "9DE2CA6EC78B825D", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_12", "hash": "32C30CE68E38F240", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_13", "hash": "EA560266FB7BEB21", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_20", "hash": "9B5B7CB00C73C743", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_21", "hash": "21314681DB56D936", "target": "" },
-    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_22", "hash": "26DA59AFDB6FF521", "target": "" }
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_1", "hash": "2508BB9D0F023865", "target": "Saudações, viajante. Sou Yayaroku, sacerdote da Ordem de Nald'thal. O que traz você a este recinto sagrado?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000Q", "hash": "717827098BFF25BA", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A1", "hash": "29607C9B77AF6883", "target": "Quem é Nald'thal?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A2", "hash": "6A9C3868E6AA8EF4", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_SCENE00000A3", "hash": "01D22F8C901B9C0F", "target": "Nada." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_10", "hash": "B71909B8365CF8B0", "target": "Nald'thal, também conhecido como os Mercadores, rege a vida após a morte e o comércio." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_11", "hash": "9DE2CA6EC78B825D", "target": "É a manifestação única dos gêmeos Nald e Thal. Cada um rege um aspecto distinto e importante da existência." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_12", "hash": "32C30CE68E38F240", "target": "Nald zela pela fortuna dos vivos, enquanto Thal pesa o valor dos mortos." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_13", "hash": "EA560266FB7BEB21", "target": "Nossa Ordem se dedica ao culto dos Mercadores. Aqui, compartilhamos nossa sabedoria com os fiéis e os ensinamos a alcançar a virtude nesta vida para que encontrem a paz na próxima." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_20", "hash": "9B5B7CB00C73C743", "target": "Assim como os Mercadores, a Ordem de Nald'thal tem dois aspectos. O Sacrário de Milvaneth é o templo de Nald, e o Ossuário de Arrzaneth é o templo de Thal." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_21", "hash": "21314681DB56D936", "target": "Aqui no Ossuário, recebemos quem busca garantir um lugar ao lado de Thal. Os virtuosos são sepultados na Câmara Funerária de Erralig para que façam uma passagem segura ao reino dos mortos." },
+    { "gameKey": "custom/000/RegWilArrzanethOssuary_00043#TEXT_REGWILARRZANETHOSSUARY_00043_YAYAROKU_000_22", "hash": "26DA59AFDB6FF521", "target": "Os homens medem a virtude de muitas formas, mas a balança de Thal tem especial apreço pela riqueza. Se teme que ainda lhe falte mérito, pode fazer uma doação quando quiser." }
   ]
 }

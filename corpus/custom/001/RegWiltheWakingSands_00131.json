@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegWiltheWakingSands_00131",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_000", "hash": "FD56AF1EBD3304BA", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_010", "hash": "79CEC5C9E09ED5EF", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_020", "hash": "4609F07FA703B432", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_030", "hash": "AAE4FE4F3F3B5AD3", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_040", "hash": "A14C0B91B74A2D58", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_041", "hash": "C9E98D043B8AFC77", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_050", "hash": "C44820EBA737427C", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_060", "hash": "BA1F5EBBE195D247", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_070", "hash": "E42917566066EA80", "target": "" },
-    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_071", "hash": "212C5ADC84DEA4CA", "target": "" }
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_000", "hash": "FD56AF1EBD3304BA", "target": "Peço que note que esta é uma propriedade particular. Se você não tem assuntos a tratar aqui, preciso pedir que se retire." },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_010", "hash": "79CEC5C9E09ED5EF", "target": "<split(<string(gstr1)>, ,1)>! Como vai? Por aqui, tudo em ordem! ...Pelo menos na contabilidade." },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_020", "hash": "4609F07FA703B432", "target": "Tem gente a quem a fama sobe à cabeça, mas confio que a sua vai continuar do tamanho de sempre <italic(1)>e<italic(0)> bem firme no lugar!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_030", "hash": "AAE4FE4F3F3B5AD3", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <split(<string(gstr1)>, ,1)>! Espero que a investigação esteja indo bem!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_040", "hash": "A14C0B91B74A2D58", "target": "\\<Suspiro> Com tanta gente na sede, é uma <italic(1)>agonia<italic(0)> manter os registros em dia.<br>...Hi, hi, até rimou!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_041", "hash": "C9E98D043B8AFC77", "target": "Ah, espero que você não se importe, mas tomei a liberdade de desenhar uma florzinha ao lado do seu nome. Assim encontro você rapidinho!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_050", "hash": "C44820EBA737427C", "target": "A sede inteira está de prontidão! Mal consigo acompanhar tudo o que está acontecendo!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_060", "hash": "BA1F5EBBE195D247", "target": "Quando você veio nos salvar, não enxergava nem a cinco yalms de distância, de tanto chorar de alegria.<br>...Nem preciso dizer que isso fica só entre nós!" },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_070", "hash": "E42917566066EA80", "target": "A ameaça garleana pode ter recuado, mas o trabalho de nós, Herdeiros, nunca acaba." },
+    { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_071", "hash": "212C5ADC84DEA4CA", "target": "Que cada um de nós, à sua maneira, continue a se empenhar por uma Eorzea melhor!" }
   ]
 }

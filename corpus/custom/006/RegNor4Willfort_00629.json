@@ -2,17 +2,17 @@
   "conversation": "custom/006/RegNor4Willfort_00629",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_000", "hash": "D4B1EE7FDAA2E4AB", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_010", "hash": "13969EFDBA04C3EB", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_020", "hash": "04F41C4EC2CDAE91", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_030", "hash": "7073D4249B885E96", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_040", "hash": "2653DFBD52655163", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_050", "hash": "222A6FBA9658063D", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_060", "hash": "F53C5A9890981069", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_070", "hash": "99CF0A6DE7EF7A9F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_080", "hash": "B3D5661D4D33C1CA", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_090", "hash": "99314C93AE483BF5", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_100", "hash": "FEF7325B83797CBF", "target": "" },
-    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_101", "hash": "239CF2D716F5D22A", "target": "" }
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_000", "hash": "D4B1EE7FDAA2E4AB", "target": "Saudações. Este lugar não é grande coisa, mas pode compartilhar o pouco que temos." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_010", "hash": "13969EFDBA04C3EB", "target": "Mandei procurar Halric todo mundo que pude dispensar!" },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_020", "hash": "04F41C4EC2CDAE91", "target": "Sinto muito, não consigo... Preciso de um momento." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_030", "hash": "7073D4249B885E96", "target": "Vamos dar um jeito. Alguém precisa cuidar dos pacientes. Eles só têm a nós..." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_040", "hash": "2653DFBD52655163", "target": "Cada pessoa tem seu jeito de superar o luto. O meu é me concentrar e cumprir meus deveres da melhor maneira possível." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_050", "hash": "222A6FBA9658063D", "target": "Na primeira vez que vi as estrelas, fiquei com os olhos marejados. Já tinha ouvido as histórias sobre os tempos de antes do Dilúvio, mas não imaginava que o céu à noite pudesse ser tão bonito." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_060", "hash": "F53C5A9890981069", "target": "A Luz pode ter voltado, mas não podemos perder a esperança. Os pacientes ainda precisam de nós." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_070", "hash": "99CF0A6DE7EF7A9F", "target": "Ao entrarmos nesta nova era, gosto de pensar que Tesleen zela por nós." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_080", "hash": "B3D5661D4D33C1CA", "target": "Agora que os pacientes mostram sinais de melhora, precisamos ajudá-los a recuperar aos poucos a força nos braços e nas pernas. Tanto tempo sem se mexer atrofiou os músculos, sabe? Por sorte, os Mord concordaram em nos fornecer bengalas e outras coisas do tipo." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_090", "hash": "99314C93AE483BF5", "target": "Desde que os devoradores se foram, estas bandas ficaram bem mais tranquilas. Devemos tudo a você e aos seus companheiros." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_100", "hash": "FEF7325B83797CBF", "target": "Graças a Alisaie, podemos continuar com os tratamentos." },
+    { "gameKey": "custom/006/RegNor4Willfort_00629#TEXT_REGNOR4WILLFORT_00629_WILLFORT_000_101", "hash": "239CF2D716F5D22A", "target": "Ainda vai levar tempo e dar trabalho, mas não vamos descansar até que todos a nosso cuidado estejam em condições de seguir viagem e recomeçar a vida." }
   ]
 }

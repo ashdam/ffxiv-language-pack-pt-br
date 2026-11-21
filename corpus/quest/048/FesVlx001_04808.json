@@ -55,6 +55,6 @@
     { "gameKey": "quest/048/FesVlx001_04808#TEXT_FESVLX001_04808_EMILIE_000_047", "hash": "CB3573FF1B0FAAA0", "target": "Sim, senhora! Que tal nos separarmos? <if(gnum4,Nossa amiga aventureira,Nosso amigo aventureiro)> pode cuidar de Old Gridania, enquanto Lissie e eu cobrimos New Gridania." },
     { "gameKey": "quest/048/FesVlx001_04808#TEXT_FESVLX001_04808_EMILIE_000_048", "hash": "8F9593498BFF914C", "target": "Nesta época, não vai faltar quem esteja sem saber o que fazer com os próprios sentimentos. Faça nossa pose diante dessas almas perdidas e, com uma onda de amor, dê a elas coragem para contar o que há em seus corações." },
     { "gameKey": "quest/048/FesVlx001_04808#TEXT_FESVLX001_04808_ASTRID_000_049", "hash": "807931162C464CF1", "target": "Há algumas áreas em particular que eu gostaria que você visitasse quando pudesse. É só dizer e podemos começar!" },
-    { "gameKey": "quest/048/FesVlx001_04808#TEXT_FESVLX001_04808_SYSTEM_000_050", "hash": "FD2BACA21D721897", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Love Heart<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/048/FesVlx001_04808#TEXT_FESVLX001_04808_SYSTEM_000_050", "hash": "FD2BACA21D721897", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Pose de coração<edgecolortype(0)><colortype(0)>!" }
   ]
 }

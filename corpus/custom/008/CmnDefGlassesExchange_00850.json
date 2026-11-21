@@ -2,12 +2,12 @@
   "conversation": "custom/008/CmnDefGlassesExchange_00850",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_000", "hash": "0D1F0EE21F77E251", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_Q1_000_000", "hash": "262C1070E2824621", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_A1_000_001", "hash": "DF1DAE9A3815C34C", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_A1_000_002", "hash": "E8FC655B32B1E03B", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_SYSTEM_000_001", "hash": "1BB787A687EB1F70", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_002", "hash": "C8514ECAEAF7EEEA", "target": "" },
-    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_003", "hash": "0E4E9E7DB2677EE9", "target": "" }
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_000", "hash": "0D1F0EE21F77E251", "target": "Saudações. Estou recolhendo óculos antes classificados como equipamento de cabeça. Posso trocar qualquer um desses itens que você tenha por um modelo novo, mais prático." },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_Q1_000_000", "hash": "262C1070E2824621", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_A1_000_001", "hash": "DF1DAE9A3815C34C", "target": "Trocar óculos (converter em acessórios faciais)." },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_A1_000_002", "hash": "E8FC655B32B1E03B", "target": "Nada." },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_SYSTEM_000_001", "hash": "1BB787A687EB1F70", "target": "Os óculos registrados como acessórios de moda serão trocados pelos acessórios faciais equivalentes." },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_002", "hash": "C8514ECAEAF7EEEA", "target": "Ah, parece que você não tem nenhum dos óculos que estou recolhendo. Se conseguir um par, por favor, traga-o para mim." },
+    { "gameKey": "custom/008/CmnDefGlassesExchange_00850#TEXT_CMNDEFGLASSESEXCHANGE_00850_TALK_000_003", "hash": "0E4E9E7DB2677EE9", "target": "Ah, parece que você já trocou todos os seus óculos. Agradeço pela colaboração." }
   ]
 }

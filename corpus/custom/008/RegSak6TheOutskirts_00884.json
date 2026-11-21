@@ -2,16 +2,16 @@
   "conversation": "custom/008/RegSak6TheOutskirts_00884",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_000", "hash": "099225E5BF155907", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_Q1_000_000", "hash": "087FF4AE6E39A0C4", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_001", "hash": "605F458BB3BEF484", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_002", "hash": "3090DFF1C6FDE7DF", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_003", "hash": "9936FAE9E4E25C8A", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_010", "hash": "CCDB74D33892B6AF", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_011", "hash": "D157A1EF20C2CC8C", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_020", "hash": "3BC5974B704F818D", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_021", "hash": "501BEABEB53F31EB", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_022", "hash": "34501DFDF7E3BD51", "target": "" },
-    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_023", "hash": "2CD053A45C21DF2C", "target": "" }
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_000", "hash": "099225E5BF155907", "target": "Boas-vindas aos Arredores. Não temos muito pra oferecer, mas fique à vontade." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_Q1_000_000", "hash": "087FF4AE6E39A0C4", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_001", "hash": "605F458BB3BEF484", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_002", "hash": "3090DFF1C6FDE7DF", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_A1_000_003", "hash": "9936FAE9E4E25C8A", "target": "Nada." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_010", "hash": "CCDB74D33892B6AF", "target": "Me chamo Wihoakwe e moro em Yyasulani desde antes daquela confusão toda, anos atrás." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_011", "hash": "D157A1EF20C2CC8C", "target": "Vivo de criar animais, mas machuquei as costas carregando um saco de ração. Hoje passo mais tempo cuidando de mim que dos bichos." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_020", "hash": "3BC5974B704F818D", "target": "Bom, como o nome diz, Arredores é como chamamos as terras em volta da Fortaleza Eterna. Acho que só começamos a chamar assim depois que a cúpula apareceu." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_021", "hash": "501BEABEB53F31EB", "target": "Aqui mora gente que só quer tirar o sustento da terra. Gente como eu." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_022", "hash": "34501DFDF7E3BD51", "target": "Dito isso, as coisas mudaram bastante com os anos. Hoje tem tecnologia nova de todo tipo, pra bem ou pra mal." },
+    { "gameKey": "custom/008/RegSak6TheOutskirts_00884#TEXT_REGSAK6THEOUTSKIRTS_00884_WIHOAKWE_000_023", "hash": "2CD053A45C21DF2C", "target": "Hoje cada vez mais gente escolhe morar fora da cúpula. Por outro lado, muitos de nós nos comprometemos a cuidar da terra que tanto batalhamos pra cultivar. Quanto a mim, aqui é meu lar. Não daria pra ir embora nem se eu quisesse." }
   ]
 }

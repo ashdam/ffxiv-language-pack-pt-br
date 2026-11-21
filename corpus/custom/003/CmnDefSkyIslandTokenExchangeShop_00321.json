@@ -2,17 +2,17 @@
   "conversation": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A1", "hash": "9EB3ED3C768FBC73", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A2", "hash": "350EFB21C806AC2B", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A3", "hash": "995CF88666FC37B4", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A4", "hash": "B2C4E7331B68734A", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A5", "hash": "215AF613F1D94F08", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A6", "hash": "606CB3E29A840A52", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A7", "hash": "FDF1191011E92451", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_001", "hash": "5322B57589178B12", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_011", "hash": "5278CF7D0F9815CD", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_021", "hash": "FF2BB52279B155D8", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_031", "hash": "89CA9C4E7258BB84", "target": "" },
-    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_041", "hash": "3C917044CBBBF0D1", "target": "" }
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A1", "hash": "9EB3ED3C768FBC73", "target": "Trocar Brass Sky Pirate Spoil (combate)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A2", "hash": "350EFB21C806AC2B", "target": "Trocar Brass Sky Pirate Spoil (materiais e equipamentos)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A3", "hash": "995CF88666FC37B4", "target": "Trocar Steel Sky Pirate Spoil (coleta) I" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A4", "hash": "B2C4E7331B68734A", "target": "Trocar Steel Sky Pirate Spoil (coleta) II" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A5", "hash": "215AF613F1D94F08", "target": "Troca de espólios (outros)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A6", "hash": "606CB3E29A840A52", "target": "Troca de espólios (viagem de exploração)" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_A7", "hash": "FDF1191011E92451", "target": "Cancelar" },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_001", "hash": "5322B57589178B12", "target": "Perdoe-me, <if(gnum4,senhorita,senhor)>, mas só negocio com espólios de piratas do céu, e você não tem nenhum." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_011", "hash": "5278CF7D0F9815CD", "target": "Sinto muito, mas, se você não tiver espólios de piratas do céu, não podemos negociar." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_021", "hash": "FF2BB52279B155D8", "target": "Tem espólios? Não? Então não posso ajudar, <if(gnum4,moça,parceiro)>." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_031", "hash": "89CA9C4E7258BB84", "target": "Só aceitamos um tipo de moeda aqui, os espólios de piratas do céu. Pelo visto, você não tem nenhum, certo? Pois bem." },
+    { "gameKey": "custom/003/CmnDefSkyIslandTokenExchangeShop_00321#TEXT_CMNDEFSKYISLANDTOKENEXCHANGESHOP_00321_041", "hash": "3C917044CBBBF0D1", "target": "Se conseguir espólios de piratas do céu, terei prazer em negociar com você." }
   ]
 }

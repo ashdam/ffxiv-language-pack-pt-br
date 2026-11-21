@@ -2,15 +2,15 @@
   "conversation": "custom/000/RegSeaAdvGuild_00050",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1", "hash": "9BA1C9024ADC7D0A", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2", "hash": "32AE703FAC89C971", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_3", "hash": "242CD4A4B6108B4C", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_4", "hash": "8D58AAF34AB3EFCA", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_5", "hash": "09253B981AF2DE28", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_6", "hash": "E04BF1EF7E0BDAE0", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_Q1_000_1", "hash": "1EB527C4D23F6101", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_1", "hash": "512D22ECCD4B36FF", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_2", "hash": "3A16FEDD2BD56B02", "target": "" },
-    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_3", "hash": "07B8624A3D8D0CCF", "target": "" }
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_1", "hash": "9BA1C9024ADC7D0A", "target": "Boas-vindas à Moça Afogada. Se precisar de alguma coisa, é só chamar." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_2", "hash": "32AE703FAC89C971", "target": "Sirvo os valentões e bêbados que entram tropeçando pela porta. O dono, Baderon, largou a vida de mercenário pra abrir este lugar, mas ainda se sente mais à vontade com uma lâmina do que com um esfregão. Então também cuido da limpeza." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_3", "hash": "242CD4A4B6108B4C", "target": "É bem melhor do que eu fazia depois da Calamidade, pode acreditar. Perdi quase tudo que se pode perder e passava as noites vomitando cerveja barata na sarjeta. Uma manhã, Baderon me achou desacordada do lado de fora. Me acolheu, me ajudou a me recompor e a largar a pior parte da bebedeira." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_4", "hash": "8D58AAF34AB3EFCA", "target": "Não estou trabalhando pra pagar favor, entende? Um dia comecei a ajudar nas tarefas e, quando vi, tinha ficado." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_5", "hash": "09253B981AF2DE28", "target": "Mórbido? Rá, só se você achar que a moça está se afogando na água. O nome tem muito mais a ver com quantidades indecentes de cerveja, e é assim que os marinheiros e malandros daqui gostam." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_SDHODJBI_000_6", "hash": "E04BF1EF7E0BDAE0", "target": "Também aparece um bocado de aventureiros como você. Baderon vive limpando o nariz dos novatos e distribuindo conselhos. Nunca resistiu a acolher quem anda perdido por aí." },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_Q1_000_1", "hash": "1EB527C4D23F6101", "target": "O que gostaria de saber?" },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_1", "hash": "512D22ECCD4B36FF", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_2", "hash": "3A16FEDD2BD56B02", "target": "“Moça Afogada”. É um nome meio mórbido, não é?" },
+    { "gameKey": "custom/000/RegSeaAdvGuild_00050#TEXT_REGSEAADVGUILD_00050_A1_000_3", "hash": "07B8624A3D8D0CCF", "target": "Nada." }
   ]
 }

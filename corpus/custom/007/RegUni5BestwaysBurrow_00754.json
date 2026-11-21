@@ -2,16 +2,16 @@
   "conversation": "custom/007/RegUni5BestwaysBurrow_00754",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_000", "hash": "09101EC6AEFFB7C3", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_Q1_000_000", "hash": "1AEFB01E2B56E690", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_001", "hash": "6C216E0F465C10CB", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_002", "hash": "AEF067762F6D34A9", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_003", "hash": "9AE6800AA9D47D40", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_010", "hash": "47D68D2A15D9F831", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_011", "hash": "1E0263AE12D3E1A9", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_020", "hash": "7E25CA0948617636", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_021", "hash": "58FE23ADE9C4096C", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_022", "hash": "CF229F9F7399D27B", "target": "" },
-    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_023", "hash": "EF5BC2EC6F7BF9C7", "target": "" }
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_000", "hash": "09101EC6AEFFB7C3", "target": "Eu? Tá falando <italic(1)>comigo<italic(0)>? Ah, mas é claro! Vou responder a qualquer pergunta que você tiver." },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_Q1_000_000", "hash": "1AEFB01E2B56E690", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_001", "hash": "6C216E0F465C10CB", "target": "Quem é você?" },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_002", "hash": "AEF067762F6D34A9", "target": "Que lugar é este?" },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_A1_000_003", "hash": "9AE6800AA9D47D40", "target": "Nada." },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_010", "hash": "47D68D2A15D9F831", "target": "Sou responsável pela operação da esfera de controle central. Ela regula todas as instalações aqui na Toca de Bestways." },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_011", "hash": "1E0263AE12D3E1A9", "target": "Se acontecesse alguma coisa com ela, em pouco tempo tudo aqui pararia de funcionar. Ela é muito importante, e meu trabalho também!" },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_020", "hash": "7E25CA0948617636", "target": "É na Toca de Bestways que nós, Loporrit, vivemos e trabalhamos em honra a Hydaelyn." },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_021", "hash": "58FE23ADE9C4096C", "target": "Todos estamos dando o nosso melhor para transformar a lua numa nave capaz de transportar todo mundo. Logo, logo você vai poder embarcar. Não se preocupe!" },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_022", "hash": "CF229F9F7399D27B", "target": "Soube que você vai usar outra nave para viajar entre as estrelas. Depois de todo esse tempo que passamos preparando a lua pra você..." },
+    { "gameKey": "custom/007/RegUni5BestwaysBurrow_00754#TEXT_REGUNI5BESTWAYSBURROW_00754_FLOPPINGWAY_000_023", "hash": "EF5BC2EC6F7BF9C7", "target": "É uma pena que todo o nosso trabalho com a nave tenha sido em vão, mas que bom que vocês não vão mais precisar fugir de um destino terrível!" }
   ]
 }

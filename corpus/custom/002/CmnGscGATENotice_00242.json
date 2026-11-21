@@ -2,12 +2,12 @@
   "conversation": "custom/002/CmnGscGATENotice_00242",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "" },
-    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "" }
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "Saudações, <if(gnum4,senhora,senhor)>! Nosso próximo evento, “<switch(lnum2,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>”, acontece <switch(lnum3,na Praça das Maravilhas Leste,na Praça dos Eventos,na Praça Redonda,no Painel do Cactpot)>. Todos os visitantes podem participar!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "O próximo GATE acontece às <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p.m.,a.m.)> <switch(lnum3,na Praça das Maravilhas Leste,na Praça dos Eventos,na Praça Redonda,no Painel do Cactpot)>." },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "Saudações, <if(gnum4,senhora,senhor)>! Para participar de “<switch(lnum1,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>”, corra até <switch(lnum2,a Praça das Maravilhas Leste,a Praça dos Eventos,a Praça Redonda,o Painel do Cactpot)>!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "Deseja participar deste GATE?" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "Sim" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "Não" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "Saudações, <if(gnum4,senhora,senhor)>! “<switch(lnum1,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>” está acontecendo <switch(lnum2,na Praça das Maravilhas Leste,na Praça dos Eventos,na Praça Redonda,no Painel do Cactpot)>. Se quiser assistir, corra para lá antes que acabe!" }
   ]
 }

@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegDra2Asah_00288",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_000", "hash": "6C25AB9605D75CB2", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_Q1_000_000", "hash": "AB46718B6CF156DB", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_001", "hash": "9243177A967742D9", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_002", "hash": "9090E9BFDD1DAB02", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_003", "hash": "F7A43933B0829D57", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_010", "hash": "B5B757DB2BBDC95D", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_011", "hash": "152BD2E3920332E8", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_020", "hash": "3DCF5E3AE702DBA8", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_021", "hash": "0D3A622E4312F60E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_022", "hash": "5A13F7E5B306BDE6", "target": "" }
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_000", "hash": "6C25AB9605D75CB2", "target": "Você veio da superfície? Pelas flores é que não foi, kupo! Então, o que traz você a Asah?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_Q1_000_000", "hash": "AB46718B6CF156DB", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_001", "hash": "9243177A967742D9", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_002", "hash": "9090E9BFDD1DAB02", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_A1_000_003", "hash": "F7A43933B0829D57", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_010", "hash": "B5B757DB2BBDC95D", "target": "Ora, estou de guarda para defender Asah, kupo! Se algum daqueles dragões ferozes ousar atacar os moogles daqui, vou lutar com todas as minhas forças!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_011", "hash": "152BD2E3920332E8", "target": "Já sei o que está pensando: “Então por que você está voando no meio da ponte, longe do perigo, kupo?” Porque daqui posso entrar na briga, não importa por qual ponta os dragões venham!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_020", "hash": "3DCF5E3AE702DBA8", "target": "Os moogles vêm aqui descansar as asas cansadas. Asah fica bem no meio do caminho entre o Lar dos Moogles e o Zênite. Ninguém dá conta de uma viagem dessas num dia só! É o lugar perfeito para um cochilo ou para beliscar umas nozes de kupo!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_021", "hash": "0D3A622E4312F60E", "target": "Mas os moogles não construíram este lugar. Se tivessem construído, seria bem menor. Esta ponte existe há... Bem, há mais tempo do que consigo imaginar, kupo!" },
+    { "gameKey": "custom/002/RegDra2Asah_00288#TEXT_REGDRA2ASAH_00288_MOGPEP_000_022", "hash": "5A13F7E5B306BDE6", "target": "Quem <italic(1)>construiu<italic(0)> a ponte continua sendo um mistério para nós. O grande dragão Hraesvelgr vive há muito mais tempo que qualquer um de nós. Ele deve saber tudo sobre este lugar antigo!" }
   ]
 }

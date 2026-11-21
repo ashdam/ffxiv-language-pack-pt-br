@@ -2,17 +2,17 @@
   "conversation": "custom/007/FesAnv2021_00717",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "" },
-    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "" }
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_000", "hash": "8447265999572D15", "target": "Ao olhar para o passado, encontramos consolo no presente e refletimos sobre o que o futuro nos reserva. Essa é a essência do Festival do Renascimento! Este ano, preparamos um espetáculo de fogos de artifício que vai encantar quem vier assistir!" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_Q1_000_001", "hash": "F2F980F6C38B1039", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_001", "hash": "B387A39C7D09AF5A", "target": "O que é o Festival do Renascimento?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_002", "hash": "AE47A7CA264F33DF", "target": "O que pode me contar sobre o pot-pourri de Nymeia?" },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_A1_000_003", "hash": "83CF2C366783D746", "target": "Nada." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_010", "hash": "6186DA3C33F805E2", "target": "O Festival do Renascimento é um período de memória em que homenageamos quem perdeu a vida na grande tragédia da Calamidade. Também prestamos tributo aos heróis anônimos que arriscaram a própria vida para que outros tivessem um futuro mais promissor." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_011", "hash": "A5CE9C0DEE611B85", "target": "Por isso, as ruas recebem enfeites sóbrios e os céus noturnos se enchem de fogos de artifício multicoloridos." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_012", "hash": "AA4246CAB84D9D52", "target": "A solenidade nas ruas e as luzes no céu podem levar as pessoas a refletir sobre a ruína que Dalamud anunciava. Talvez assim agradeçam pelo presente e encontrem esperança em dias melhores." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_020", "hash": "50094965A52B237F", "target": "O lírio de Nymeia é mais conhecido como a flor que deixamos no túmulo de quem partiu, mas, tradicionalmente, ele representa uma prece por uma travessia segura." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_021", "hash": "C6A2E24A3E3F81A2", "target": "Dizem também que o aroma do lírio tem efeito calmante. Por isso quisemos preparar e distribuir um pot-pourri que transmitisse a mensagem do Renascimento e, com seu perfume suave, confortasse os corações de quem perdeu alguém na Calamidade." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_022", "hash": "9097C9AC36D7A573", "target": "Gostaria de levar um sachê? Creio que os nossos vendedores ainda tenham alguns pacotes em estoque..." },
+    { "gameKey": "custom/007/FesAnv2021_00717#TEXT_FESANV2021_00717_NEWBORNINTERN_000_023", "hash": "F69901A1B140AB64", "target": "Gostaria de levar um sachê? Vá a Ul'dah e procure um dos nossos vendedores no Mercado da Rua do Rubi. Ainda devem ter alguns pacotes em estoque..." }
   ]
 }

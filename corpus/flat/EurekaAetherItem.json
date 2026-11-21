@@ -2,11 +2,11 @@
   "sheet": "EurekaAetherItem",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "EurekaAetherItem#1.0", "hash": "63AB6EC0D380909F", "target": "" },
-    { "gameKey": "EurekaAetherItem#1.2", "hash": "B742DF76AE1431E7", "target": "" },
-    { "gameKey": "EurekaAetherItem#1.8", "hash": "D25E391EEA5D5558", "target": "" },
-    { "gameKey": "EurekaAetherItem#2.0", "hash": "45F9EE9974F266C1", "target": "" },
-    { "gameKey": "EurekaAetherItem#2.2", "hash": "155E69DF328A4D8D", "target": "" },
-    { "gameKey": "EurekaAetherItem#2.8", "hash": "496F593762368ABE", "target": "" }
+    { "gameKey": "EurekaAetherItem#1.0", "hash": "63AB6EC0D380909F", "target": "chaleira de Eureka" },
+    { "gameKey": "EurekaAetherItem#1.2", "hash": "B742DF76AE1431E7", "target": "chaleiras de Eureka" },
+    { "gameKey": "EurekaAetherItem#1.8", "hash": "D25E391EEA5D5558", "target": "Chaleira de Eureka" },
+    { "gameKey": "EurekaAetherItem#2.0", "hash": "45F9EE9974F266C1", "target": "chaleira de fogo de Eureka" },
+    { "gameKey": "EurekaAetherItem#2.2", "hash": "155E69DF328A4D8D", "target": "chaleiras de fogo de Eureka" },
+    { "gameKey": "EurekaAetherItem#2.8", "hash": "496F593762368ABE", "target": "Chaleira de fogo de Eureka" }
   ]
 }

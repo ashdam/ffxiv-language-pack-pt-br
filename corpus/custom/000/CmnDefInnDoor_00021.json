@@ -2,8 +2,8 @@
   "conversation": "custom/000/CmnDefInnDoor_00021",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_Q1_000_1", "hash": "1AE69192EDBBB424", "target": "" },
-    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_1", "hash": "8AFEDDC7948738E4", "target": "" },
-    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_2", "hash": "55DA2D6793198A3E", "target": "" }
+    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_Q1_000_1", "hash": "1AE69192EDBBB424", "target": "Sair do quarto?" },
+    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_1", "hash": "8AFEDDC7948738E4", "target": "Sim." },
+    { "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_2", "hash": "55DA2D6793198A3E", "target": "Não." }
   ]
 }

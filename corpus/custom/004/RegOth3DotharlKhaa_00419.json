@@ -2,15 +2,15 @@
   "conversation": "custom/004/RegOth3DotharlKhaa_00419",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_000", "hash": "48FCE716D4254E46", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_Q1_000_000", "hash": "4AB261CAE1D78949", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_001", "hash": "40D16F54EC8D6996", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_002", "hash": "507A48CD94048B65", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_003", "hash": "92D39FFF056AA5EC", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_010", "hash": "EAF974AB2B4E99FF", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_011", "hash": "3D9FEC90C7891697", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_020", "hash": "AE417DB189F54C71", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_021", "hash": "3CAA12C447841132", "target": "" },
-    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_022", "hash": "379F397D1284FC03", "target": "" }
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_000", "hash": "48FCE716D4254E46", "target": "Saudações, viajante. Aqui não há o que temer, desde que não tenha más intenções. Quer me perguntar algo?" },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_Q1_000_000", "hash": "4AB261CAE1D78949", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_001", "hash": "40D16F54EC8D6996", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_002", "hash": "507A48CD94048B65", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_A1_000_003", "hash": "92D39FFF056AA5EC", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_010", "hash": "EAF974AB2B4E99FF", "target": "Fico de vigia para avistar feras e gente de outras tribos que queira nos fazer mal. Khorijin fazia isso na vida anterior. Nada mais natural que eu continue no posto nesta vida." },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_011", "hash": "3D9FEC90C7891697", "target": "Só uma coisa me desagrada neste posto. O Trono da Alvorada. Tenho de olhar para ele dia após dia. Foram aqueles vermes Oronir que vivem lá que me mataram numa vida passada." },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_020", "hash": "AE417DB189F54C71", "target": "Nós, Dotharl, construímos o povoado ao redor de uma nascente. A água sustenta tanto a nós quanto as ovelhas que criamos." },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_021", "hash": "3CAA12C447841132", "target": "Você sem dúvida já reparou que a água é escassa no Deserto de Nhaama. É por isso que este lugar vale tanto. Não podemos entregá-lo às outras tribos." },
+    { "gameKey": "custom/004/RegOth3DotharlKhaa_00419#TEXT_REGOTH3DOTHARLKHAA_00419_KHORIJIN_000_022", "hash": "379F397D1284FC03", "target": "Duvido que alguém tenha a estupidez de tentar tomá-lo de nós. Os Dotharl não temem a morte. Estamos sempre a postos para lutar." }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_000", "hash": "740903B3BE0213A9", "target": "O engaste avançado de matérias é um processo muito instável. <italic(1)>Tem<italic(0)> de haver um jeito de aproveitar o poder das pedras sem correr o risco de destruí-las..." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_030", "hash": "521C240963FE9D16", "target": "Quando um pergaminho esférico estiver plenamente infundido com matéria, brilhará como as estrelas no céu. É o sinal de que seu poder está pronto para ser transferido a um receptáculo adequado." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_050", "hash": "CF374920BE2D71DD", "target": "Pelos deuses, você... você conseguiu! <italic(1)>Nós<italic(0)> conseguimos! Pensar que meus esforços finalmente deram frutos... Não há palavras para expressar minha alegria." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_051", "hash": "A0F8DE45FF28C272", "target": "Naturalmente, minha pesquisa está longe de terminar. Ainda há muito que verificar antes de chegar às minhas conclusões, e ficaria muito grato se pudéssemos continuar colaborando." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030ReplicaTalk_00176#TEXT_CMNDEFRELICWEAPON030REPLICATALK_00176_HUBAIRTIN_000_052", "hash": "E29D83652B1C8C0F", "target": "Se tiver intenção de aprimorar outra relíquia, traga-me a quantidade necessária de Superior Enchanted Ink e prepararei um pergaminho esférico adequado." }
   ]
 }

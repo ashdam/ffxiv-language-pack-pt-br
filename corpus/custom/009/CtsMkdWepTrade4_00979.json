@@ -2,14 +2,14 @@
   "conversation": "custom/009/CtsMkdWepTrade4_00979",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_000", "hash": "5B99BFD50D0A84C6", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_001", "hash": "15DDA9D95051F973", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_002", "hash": "D72204CB04745C75", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_003", "hash": "A759F8865BBF3BAC", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_004", "hash": "9B2F4C662A615998", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_005", "hash": "1430FED9E9C26824", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_006", "hash": "FA7A2747831ACB1D", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_007", "hash": "FC5897DA4E1C4D47", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_008", "hash": "BCD95B9ECA389511", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_000", "hash": "5B99BFD50D0A84C6", "target": "Muito bem. Refiz o núcleo da sua arma com a ecliptic arcanite que você conseguiu." },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_001", "hash": "15DDA9D95051F973", "target": "Agora é hora de sair cortando!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_002", "hash": "D72204CB04745C75", "target": "MUAHAHAHA!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_003", "hash": "A759F8865BBF3BAC", "target": "Mais um sucesso e tanto. Livrei sua arma do véu ilusório sem mexer em nenhum dos aprimoramentos." },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_004", "hash": "9B2F4C662A615998", "target": "Veja o verdadeiro poder irrestrito da minha mais nova criação: <ennoun(Item,3,lnum1,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_005", "hash": "1430FED9E9C26824", "target": "Veja o verdadeiro poder irrestrito das minhas mais novas criações: <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_006", "hash": "FA7A2747831ACB1D", "target": "Como você bem sabe, o melhor ainda está por vir. Só quando sua arma fantasma estiver transbordando de memórias marciais é que vamos poder dar esse maldito trabalho por terminado!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_007", "hash": "FC5897DA4E1C4D47", "target": "Ainda sobrou ecliptic arcanite suficiente, então logo posso começar. Mas Dodokkuli vai cuidar do trabalho braçal primeiro, viu?" },
+    { "gameKey": "custom/009/CtsMkdWepTrade4_00979#TEXT_CTSMKDWEPTRADE4_00979_GEROLT_000_008", "hash": "BCD95B9ECA389511", "target": "Por melhor que sua arma fantasma esteja agora, ainda dá pra tirar muito poder dela. Não vamos desperdiçar esse potencial, vamos?" }
   ]
 }

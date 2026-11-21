@@ -2,19 +2,19 @@
   "conversation": "custom/005/CtsErkEureka4StoryGerolt_00548",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000", "hash": "E7AFC3072A128C3D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010", "hash": "331EC4A2FCE68144", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011", "hash": "080B7D65490BDCFF", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012", "hash": "E86FA2C0ECC75944", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013", "hash": "A37D8B489D2CE411", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013", "hash": "7EEFBFA7290D627F", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013", "hash": "D36BE93C8CC44469", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013", "hash": "FBCCB08FA41E1695", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013", "hash": "EDACD4412EE47017", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014", "hash": "0E783310DC04BB71", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014", "hash": "879094F886BB1E7A", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015", "hash": "BF6176AC3031821D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015", "hash": "CB00816B70C065CE", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015", "hash": "C61C99FB37B541D1", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_000", "hash": "E7AFC3072A128C3D", "target": "Ah, tava me perguntando quando você ia aparecer todo cheio de si. Tô me matando de trabalhar pra facilitar sua vida, mas, antes de contar a parte boa, vá avisar a Krile que chegou, tá?" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_010", "hash": "331EC4A2FCE68144", "target": "Tudo resolvido com a Krile? Bom, bom. Como antes, tenho um monte de coisa pra contar. Abra bem os ouvidos e escute." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_011", "hash": "080B7D65490BDCFF", "target": "Primeiro, o manipulador de Logos. Melhoramos os frascos que guardam as memórias transubstanciadas. Agora você pode carregar mais dessa coisa. A alquimista da expedição pode explicar tudinho." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_012", "hash": "E86FA2C0ECC75944", "target": "Depois, o tabuleiro Magia. Se seis pedras de magicita já impressionavam você, pode comemorar! Agora dá pra ampliar o tabuleiro e pôr <italic(1)>sete<italic(0)> pedras. É só falar com o engenheiro da expedição que ele resolve isso pra você." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_013", "hash": "A37D8B489D2CE411", "target": "E, por último, meu assunto favorito.<br>...Não, não são minhas malditas dívidas, sua peste atrevida. São armas! Descobri um jeito de deixar suas armas ainda mais fortes. Se isso interessa, é só me dizer." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_100_013", "hash": "7EEFBFA7290D627F", "target": "Ah, e já que tá aqui..." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_110_013", "hash": "D36BE93C8CC44469", "target": "Drake! Mexa esse traseiro e venha falar dos logogramas <if(gnum4,pra moça,pro rapaz)>!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_120_013", "hash": "FBCCB08FA41E1695", "target": "<if(gnum4,Senhora,Senhor)>, é com prazer que informo que descobrimos novas variedades de logogramas aqui em Hydatos." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_130_013", "hash": "EDACD4412EE47017", "target": "Certas combinações podem produzir memórias inéditas. Recomendo que faça experiências com os logogramas que encontrar." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_014", "hash": "0E783310DC04BB71", "target": "...Então parece que chegamos à última etapa da expedição. Fiquei do seu lado até aqui, então vê se não me decepciona, hein? Termine o serviço!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_DRAKE_100_014", "hash": "879094F886BB1E7A", "target": "Eu também, <if(gnum4,minha senhora,meu senhor)>, desejo a você toda a sorte do mundo aqui!" },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_GEROLT_000_015", "hash": "BF6176AC3031821D", "target": "Pronto, falei tudo que precisava falar. Se quiser saber como melhorar as armas, podemos conversar agora. Senão, pode cair fora e voltar pra Krile." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_100_015", "hash": "CB00816B70C065CE", "target": "Ao registrar pelo menos 56 entradas diferentes no Registro de ações Logos e falar com Drake, você poderá obter novos itens." },
+    { "gameKey": "custom/005/CtsErkEureka4StoryGerolt_00548#TEXT_CTSERKEUREKA4STORYGEROLT_00548_SYSTEM_150_015", "hash": "C61C99FB37B541D1", "target": "Esses itens só ficarão disponíveis depois que você tiver acesso à armadura de Eureka oferecida pelo artesão da expedição no Ponto Norte." }
   ]
 }

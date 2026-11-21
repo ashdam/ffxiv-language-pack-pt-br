@@ -2,17 +2,17 @@
   "conversation": "custom/001/RegFstQuarrymill_00126",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000", "hash": "9C1C6C90534AE59C", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010", "hash": "8EBB73E748C2BB37", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011", "hash": "F8B42A84C1EC9052", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012", "hash": "627193FFCC0ED7AB", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020", "hash": "41806FC1E0BCE9A4", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021", "hash": "21C87BDE0C52193B", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022", "hash": "E8F85E6B76CAF07D", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023", "hash": "29FCE930C2A0788F", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_Q1_000_000", "hash": "FA9A0715A6A14685", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_001", "hash": "FE0E5645A35748AF", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_002", "hash": "2C5ECFD478D3879B", "target": "" },
-    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_003", "hash": "B8CF834EED32C11D", "target": "" }
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_000", "hash": "9C1C6C90534AE59C", "target": "Minhas saudações, <if(gnum4,aventureira,aventureiro)>. O que traz você ao Moinho da Pedreira?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_010", "hash": "8EBB73E748C2BB37", "target": "Sou uma Vidente de Gridania. O Conselho dos Videntes me encarregou de zelar por este povoado." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_011", "hash": "F8B42A84C1EC9052", "target": "Cabe a mim escutar os sussurros dos elementais, os eternos guardiões da Mata dos Doze, para transmitir sua vontade aos moradores." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_012", "hash": "627193FFCC0ED7AB", "target": "Se ficou com curiosidade, meu trabalho se parece com o de uma conselheira. Em geral, porém, os conselhos que dou vêm dos próprios elementais." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_020", "hash": "41806FC1E0BCE9A4", "target": "O Moinho da Pedreira recebeu esse nome pelas rodas-d'água que transformavam pedra bruta em material de construção." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_021", "hash": "21C87BDE0C52193B", "target": "Com o passar dos anos, o povoado se tornou ponto de encontro entre caçadores e armadilheiros, pois fica em meio a terras onde os elementais permitem caçar." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_022", "hash": "E8F85E6B76CAF07D", "target": "O Moinho da Pedreira também é lugar de julgamento. Quem vem de fora e deseja viver na Mata dos Doze precisa se apresentar aqui para que os elementais decidam se merece ficar." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_CHARLINE_000_023", "hash": "29FCE930C2A0788F", "target": "Quem tem seu pedido recusado não pode permanecer na mata nem desfrutar de seus recursos. Pode parecer severo, mas assim tem sido desde tempos imemoriais." },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_Q1_000_000", "hash": "FA9A0715A6A14685", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_001", "hash": "FE0E5645A35748AF", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_002", "hash": "2C5ECFD478D3879B", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegFstQuarrymill_00126#TEXT_REGFSTQUARRYMILL_00126_A1_000_003", "hash": "B8CF834EED32C11D", "target": "Nada." }
   ]
 }

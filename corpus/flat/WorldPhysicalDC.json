@@ -2,10 +2,10 @@
   "sheet": "WorldPhysicalDC",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "WorldPhysicalDC#1", "hash": "F45E0B294FA3AC9B", "target": "" },
-    { "gameKey": "WorldPhysicalDC#2", "hash": "E16FA62585C62EC6", "target": "" },
-    { "gameKey": "WorldPhysicalDC#3", "hash": "1035E7BA6CE76F84", "target": "" },
-    { "gameKey": "WorldPhysicalDC#4", "hash": "D9AF24E096FF7589", "target": "" },
-    { "gameKey": "WorldPhysicalDC#5", "hash": "0D336FBEADE97742", "target": "" }
+    { "gameKey": "WorldPhysicalDC#1", "hash": "F45E0B294FA3AC9B", "target": "Japão" },
+    { "gameKey": "WorldPhysicalDC#2", "hash": "E16FA62585C62EC6", "target": "América do Norte" },
+    { "gameKey": "WorldPhysicalDC#3", "hash": "1035E7BA6CE76F84", "target": "Europa" },
+    { "gameKey": "WorldPhysicalDC#4", "hash": "D9AF24E096FF7589", "target": "Oceania" },
+    { "gameKey": "WorldPhysicalDC#5", "hash": "0D336FBEADE97742", "target": "Central de dados em nuvem da América do Norte (beta)" }
   ]
 }

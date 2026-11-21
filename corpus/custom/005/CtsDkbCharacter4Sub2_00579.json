@@ -2,9 +2,9 @@
   "conversation": "custom/005/CtsDkbCharacter4Sub2_00579",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_000", "hash": "5707FD1C6FE618CA", "target": "Estou trabalhando para melhorar as variedades de frutas que cultivamos. Nada como uma fruta doce e suculenta para animar o pessoal." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_010", "hash": "0D411317F05CEBD5", "target": "<if(gnum4,Capitã,Capitão)>! Vou fazer de tudo para honrar o nome do... cof, cof, Esquadrão em Busca do Samiel!" },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_020", "hash": "1C2C6667A24EA8A7", "target": "Peço perdão mais uma vez pela confusão que causei. Prometo que não vou mais sair correndo por aí. Vou me concentrar no que sei fazer melhor, analisar espécimes." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub2_00579#TEXT_CTSDKBCHARACTER4SUB2_00579_MAOLADD_000_030", "hash": "F65CB334E69D2FB5", "target": "Yalana faz cara feia quando a chefe aparece com algum pedido, mas é mais para manter as aparências. No fundo, ela adora o trabalho." }
   ]
 }

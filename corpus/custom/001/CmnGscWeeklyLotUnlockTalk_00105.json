@@ -2,6 +2,6 @@
   "conversation": "custom/001/CmnGscWeeklyLotUnlockTalk_00105",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnGscWeeklyLotUnlockTalk_00105#TEXT_CMNGSCWEEKLYLOTUNLOCKTALK_00105_LOTTERY00105_000_000", "hash": "3860AA6612C8D317", "target": "" }
+    { "gameKey": "custom/001/CmnGscWeeklyLotUnlockTalk_00105#TEXT_CMNGSCWEEKLYLOTUNLOCKTALK_00105_LOTTERY00105_000_000", "hash": "3860AA6612C8D317", "target": "Veio tentar a sorte no Jumbo Cactpot, <if(gnum4,senhorita,senhor)>? A moça no meio daquele balcão vai explicar como participar." }
   ]
 }

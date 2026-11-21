@@ -2,16 +2,16 @@
   "conversation": "custom/005/RegNor4Amity_00593",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_000", "hash": "D71782B1E33E13FA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_Q1_000_000", "hash": "F0C8E6574A2DFC76", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_001", "hash": "C54653B6E40363B8", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_002", "hash": "A27FDB30387D1BBA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_003", "hash": "9843FF6E0B0C19FA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_010", "hash": "996813AF3224D6C1", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_011", "hash": "847AF0D2D16A85A7", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_012", "hash": "452033AE3DAA7288", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_020", "hash": "8666B9C3D5904E18", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_021", "hash": "69DE9DD9783778B8", "target": "" },
-    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_022", "hash": "44EE33FE0215F762", "target": "" }
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_000", "hash": "D71782B1E33E13FA", "target": "Saudações! Sei que Amizade não é o povoado mais conhecido, então fique à vontade para perguntar o que quiser." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_Q1_000_000", "hash": "F0C8E6574A2DFC76", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_001", "hash": "C54653B6E40363B8", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_002", "hash": "A27FDB30387D1BBA", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_A1_000_003", "hash": "9843FF6E0B0C19FA", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_010", "hash": "996813AF3224D6C1", "target": "Ah, o que precisarem. Em Eulmore, porém, eu trabalhava na cozinha... até o dia em que fiz um prato que um cidadão livre achou “sem graça e sem inspiração”." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_011", "hash": "847AF0D2D16A85A7", "target": "Quando dei por mim, já tinham me jogado lá fora junto com as sobras para apodrecer. Mas sobrevivi. E rumores de outros sobreviventes me trouxeram até Amizade." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_012", "hash": "452033AE3DAA7288", "target": "Até posso ter perdido a vida de luxo, mas nada se compara à liberdade que sinto agora. Nenhum carrasco de espada em punho à espreita cada vez que preparo uma refeição..." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_020", "hash": "8666B9C3D5904E18", "target": "Quem conhece a história diz que isto já foi um centro próspero de comércio entre Eulmore e os anões. Mas isso foi há mais de cem anos." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_021", "hash": "69DE9DD9783778B8", "target": "Os laços que sobreviveram ao Dilúvio se romperam de vez quando Lorde Vauthry assumiu o poder, e os dois lados abandonaram Amizade." },
+    { "gameKey": "custom/005/RegNor4Amity_00593#TEXT_REGNOR4AMITY_00593_JUDINE_000_022", "hash": "44EE33FE0215F762", "target": "Eu me surpreenderia se mais que um punhado de pessoas abaixo da Escada ainda soubesse que este povoado existe. Admita que era a situação perfeita para um bando de exilados e fugitivos que só queriam sossego." }
   ]
 }

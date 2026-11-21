@@ -2,19 +2,19 @@
   "conversation": "custom/009/RegYok6BreathBetween_00906",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_000", "hash": "5E725C35EDBF0256", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_001", "hash": "E542AC4D95C1C349", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_002", "hash": "46BACBA220455031", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_003", "hash": "BFA938FE1DA0D203", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_Q1_000_000", "hash": "3C789179942DA804", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_001", "hash": "151247592D6210AA", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_002", "hash": "58BE49599E765FB4", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_003", "hash": "D1CF664B5AB02166", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_010", "hash": "73105D06D3A56AA2", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_011", "hash": "97E2121E642C86B2", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_012", "hash": "E14F1C994991759C", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_013", "hash": "6F80EF06187C7D27", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_020", "hash": "3CE5680AA6E394CF", "target": "" },
-    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_021", "hash": "2FDBD636F790B1C6", "target": "" }
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_000", "hash": "5E725C35EDBF0256", "target": "Boas-vindas! Veio pescar?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_001", "hash": "E542AC4D95C1C349", "target": "Os peixes enfim começaram a morder a isca! Chegou em boa hora, desde que tenha trazido a vara, é claro!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_002", "hash": "46BACBA220455031", "target": "Até os peixes estão festejando a coroação dos novos Servidores da Aurora. Se não acredita em mim, jogue sua linha na água e veja!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_003", "hash": "BFA938FE1DA0D203", "target": "As corredeiras estão atiçando o apetite dos peixes! Melhor jogar a linha antes que <italic(1)>eu<italic(0)> pesque todos!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_Q1_000_000", "hash": "3C789179942DA804", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_001", "hash": "151247592D6210AA", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_002", "hash": "58BE49599E765FB4", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_A1_000_003", "hash": "D1CF664B5AB02166", "target": "Nada." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_010", "hash": "73105D06D3A56AA2", "target": "Ajudo quem pesca aqui com o que precisar. Se alguém precisa de vara, cesto ou reparos, é só procurar este Hanu!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_011", "hash": "97E2121E642C86B2", "target": "Só a gente mais dedicada vem até aqui, onde o temperamento dos peixes se forja nas águas turbulentas da bacia. Para fisgar alguma coisa, é preciso ter braços fortes e uma vara resistente." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_012", "hash": "E14F1C994991759C", "target": "Bem, pelo menos era assim. Ultimamente, parece que tanto os peixes quanto os pescadores perderam aquele vigor de sempre. Não sei o que fazer para reanimá-los..." },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_013", "hash": "6F80EF06187C7D27", "target": "Houve tempos difíceis em que tanto os peixes quanto os pescadores pareciam sem energia, mas fico feliz em dizer que isso já passou! Pelas disputas acirradas que se veem neste cais, é como se estivessem compensando o tempo perdido!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_020", "hash": "3CE5680AA6E394CF", "target": "O Respiro Intermediário foi construído sobre as águas do Miyakabek'zu, um dos afluentes do grande rio. Os pescadores mais ousados vêm aqui todo dia testar suas habilidades com os peixes mais ariscos da região!" },
+    { "gameKey": "custom/009/RegYok6BreathBetween_00906#TEXT_REGYOK6BREATHBETWEEN_00906_PINUHALI_000_021", "hash": "2FDBD636F790B1C6", "target": "Esta grande bacia à nossa frente se chama Ku'uxage, que significa “língua grande”. As águas que correm para ela sem parar abençoam toda a vida daqui com uma energia igualmente inesgotável." }
   ]
 }

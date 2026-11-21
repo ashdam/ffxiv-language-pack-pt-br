@@ -2,9 +2,9 @@
   "conversation": "custom/007/FesBkcRecomplete_00716",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "" },
-    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "" }
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "Por tempo limitado, você pode reviver este evento com o recurso de repetição de eventos sazonais." },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "Deseja repetir o evento?" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "Se continuar, as missões abaixo voltarão a ficar incompletas:<br>  <sheet(Quest,lnum1,0)><br><if([lnum2==0],,  <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,  <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,Você só poderá negociar com os NPCs abaixo depois de concluir a missão exigida novamente:<br>  <headall(<ennoun(ENpcResident,3,lnum4,1,1)>)><br>)><if([lnum5==0],,  <headall(<ennoun(ENpcResident,3,lnum5,1,1)>)><br>)>Reserve tempo suficiente. Este recurso não concede recompensas de missão.<br><br>" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "Prosseguir com a repetição do evento sazonal." }
   ]
 }

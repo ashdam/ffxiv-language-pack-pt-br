@@ -2,16 +2,16 @@
   "conversation": "warp/WarpInnOldSharlayan",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000", "hash": "B144E97DF78B3542", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_Q1_000_100", "hash": "25B6B3E1A17CF33D", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_101", "hash": "E0356AC45A827DCD", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_102", "hash": "51BF118EE7E06829", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_103", "hash": "AC9B303F2F634687", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_150", "hash": "7AC0226A9F7A5D13", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_200", "hash": "19BEDD7F9E694C04", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_201", "hash": "743F4FCF521E916A", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_202", "hash": "E338416B16AEEDFC", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_203", "hash": "1A19FE6B861BB2C8", "target": "" },
-    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_204", "hash": "72E8F90489405A42", "target": "" }
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_000", "hash": "B144E97DF78B3542", "target": "Que bom ver você de volta, <split(<string(gstr1)>, ,1)>! Que tal um cochilo?" },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_Q1_000_100", "hash": "25B6B3E1A17CF33D", "target": "O que você gostaria de fazer?" },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_101", "hash": "E0356AC45A827DCD", "target": "Ir para o seu quarto." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_102", "hash": "51BF118EE7E06829", "target": "Perguntar sobre o Andron." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_A1_000_103", "hash": "AC9B303F2F634687", "target": "Nada." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_150", "hash": "7AC0226A9F7A5D13", "target": "Lençóis limpos e cobertas quentinhas esperam por você. Descanse quanto quiser!" },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_200", "hash": "19BEDD7F9E694C04", "target": "Como G'raha explicou, os quartos do Andron foram montados para quem precisava de uma pausa depois de virar a noite pesquisando ou tinha acabado de voltar de uma expedição." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_201", "hash": "743F4FCF521E916A", "target": "Os Estudantes já se acostumaram a ver as paredes cobertas de artigos, diagramas e recados, mas imagino que seja uma bela surpresa para quem nunca ficou aqui..." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_202", "hash": "E338416B16AEEDFC", "target": "Por que não tiramos tudo, você pergunta? Bem, afinal, muitas vezes são as mesmas pessoas que ficam nestes quartos." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_203", "hash": "1A19FE6B861BB2C8", "target": "E, quando vejo anotações antigas de amigos que já partiram, é... Bem, de certa forma é reconfortante. Como se ainda estivessem aqui conosco." },
+    { "gameKey": "warp/WarpInnOldSharlayan#TEXT_WARPINNOLDSHARLAYAN_OJIKATSUNJIKA_000_204", "hash": "72E8F90489405A42", "target": "Ah, e só pra deixar claro, são quartos de verdade. Quando falo em “cochilo”, isso não quer dizer que você não possa dormir a noite inteira!" }
   ]
 }

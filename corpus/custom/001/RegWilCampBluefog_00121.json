@@ -2,16 +2,16 @@
   "conversation": "custom/001/RegWilCampBluefog_00121",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000", "hash": "BD2AA890991673F6", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000", "hash": "C2F38AC49DC04E5E", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001", "hash": "ACF8EA9B2D78FC1C", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002", "hash": "9CFCD983D587E841", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003", "hash": "C5F1767BD4B31AF6", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_010", "hash": "A122A46A12E41612", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_011", "hash": "70BB417F1EF3453D", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_020", "hash": "7B7FD33E54F86AAD", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_021", "hash": "12E2403D45669C35", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022", "hash": "78BCB71E1183EFEA", "target": "" },
-    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050", "hash": "2026D2D566294829", "target": "" }
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_000", "hash": "BD2AA890991673F6", "target": "Cracked Fist, sargento das Chamas, às suas ordens." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_Q1_000_000", "hash": "C2F38AC49DC04E5E", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_001", "hash": "ACF8EA9B2D78FC1C", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_002", "hash": "9CFCD983D587E841", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_A1_000_003", "hash": "C5F1767BD4B31AF6", "target": "Nada." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_010", "hash": "A122A46A12E41612", "target": "Sou o oficial das Chamas Imortais encarregado da guarnição de Névoa Azul. É uma grande responsabilidade, dada a proximidade com o território ocupado pelos garleanos." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_011", "hash": "70BB417F1EF3453D", "target": "As tropas vivem tensas. Manter o moral é uma batalha constante, e essa penumbra sem fim não ajuda em nada. Um pouco de sol faria bem a todos nós." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_020", "hash": "7B7FD33E54F86AAD", "target": "Antigamente, o Acampamento Névoa Azul mal merecia um ponto no mapa. Isso mudou quando o Império chegou e ergueu suas fortalezas de aço no extremo norte de Thanalan." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_021", "hash": "12E2403D45669C35", "target": "Saiba que o acampamento é hoje uma das guarnições mais importantes da Aliança. Se perdermos esta posição, nossas tropas na linha de frente, na Usina de Ceruleum, ficarão isoladas." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_022", "hash": "78BCB71E1183EFEA", "target": "Caso tenha curiosidade, o nome Névoa Azul vem da bruma azulada que acompanha a extração do ceruleum." },
+    { "gameKey": "custom/001/RegWilCampBluefog_00121#TEXT_REGWILCAMPBLUEFOG_00121_CRACKEDFIST_000_050", "hash": "2026D2D566294829", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tão boa quanto pode ser por estas bandas sombrias. Em que posso ajudar?" }
   ]
 }

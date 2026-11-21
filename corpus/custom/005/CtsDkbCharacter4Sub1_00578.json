@@ -2,11 +2,11 @@
   "conversation": "custom/005/CtsDkbCharacter4Sub1_00578",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_000", "hash": "C3C733D6B496D7DE", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_010", "hash": "9AF00F4D968FAE78", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_020", "hash": "BB9F89284C0BEEC3", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_030", "hash": "AE3954147B9AB3A5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_031", "hash": "64E3122C1BBFD885", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_040", "hash": "4C88C8C89F792A55", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_000", "hash": "C3C733D6B496D7DE", "target": "Saudações. Você chegou ao Hortorium, o centro de pesquisa agrícola do Crystarium. Trabalhamos para melhorar o cultivo de alimentos com novos fertilizantes e técnicas de plantio." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_010", "hash": "9AF00F4D968FAE78", "target": "Ah, saudações, <split(<string(gstr1)>, ,1)>. Espero que a chefe não tenha dado trabalho. Se deu, me avise que vou falar umas boas verdades para ela." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_020", "hash": "BB9F89284C0BEEC3", "target": "Confesso que é empolgante estudar essa criatura misteriosa. Mas pode ter certeza de que vou continuar em dia com minhas obrigações, ao contrário da chefe." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_030", "hash": "AE3954147B9AB3A5", "target": "Mao costuma ser sensato, mas o respeito que tem pela chefe falou mais alto. Espero que tenha aprendido a lição." },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_031", "hash": "64E3122C1BBFD885", "target": "Entendo o fascínio dos dois pelo samiel, mas, se morrerem, não vão encontrar criatura nenhuma. E quando saem por aí sem pensar, sobra para mim puxar as rédeas. \\<suspiro>" },
+    { "gameKey": "custom/005/CtsDkbCharacter4Sub1_00578#TEXT_CTSDKBCHARACTER4SUB1_00578_YALANA_000_040", "hash": "4C88C8C89F792A55", "target": "Ah, saudações, <split(<string(gstr1)>, ,1)>. O estudo do samiel vai de vento em popa. Outro dia mesmo, achamos cascas de ovo em Kholusia!" }
   ]
 }

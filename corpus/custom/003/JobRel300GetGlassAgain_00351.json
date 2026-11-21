@@ -2,13 +2,13 @@
   "conversation": "custom/003/JobRel300GetGlassAgain_00351",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_000", "hash": "56AD39B7C4BD141D", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_001", "hash": "F18CD353D4F0351E", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_010", "hash": "E93F72261EE3F8E1", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_011", "hash": "0A5C64832E79D6CE", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_Q1_000_000", "hash": "66D0AC82992C0323", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_020", "hash": "6BE85F69885A225B", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_030", "hash": "81DD436AE22EA07B", "target": "" },
-    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_031", "hash": "AA3356CB313E4758", "target": "" }
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_000", "hash": "56AD39B7C4BD141D", "target": "Precisa de outra lente anima? Só pode estar brincando, <if(gnum4,senhorita,senhor)>. Estou vendo uma bem aí na sua mão." },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_001", "hash": "F18CD353D4F0351E", "target": "Ficaria feliz em lhe dar outra se precisasse mesmo." },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_010", "hash": "E93F72261EE3F8E1", "target": "Você disse que perdeu a lente anima?" },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_011", "hash": "0A5C64832E79D6CE", "target": "Assim não dá. Felizmente, a pedido de Lady Ulan, preparei algumas a mais justamente para ocasiões como esta." },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_Q1_000_000", "hash": "66D0AC82992C0323", "target": "Pegar a lente anima?" },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_020", "hash": "6BE85F69885A225B", "target": "Por favor, tome cuidado para não perder esta. Prefiro não gastar tempo que poderia dedicar à pesquisa fabricando mais lentes." },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_030", "hash": "81DD436AE22EA07B", "target": "Se tem certeza de que não precisa mais da lente, respeito sua decisão." },
+    { "gameKey": "custom/003/JobRel300GetGlassAgain_00351#TEXT_JOBREL300GETGLASSAGAIN_00351_ARNOTT_000_031", "hash": "AA3356CB313E4758", "target": "Mas, se mudar de ideia, fique à vontade para pegar uma. Como Lady Ulan vive perdendo nossos suprimentos, sempre guardo mais do que precisamos." }
   ]
 }

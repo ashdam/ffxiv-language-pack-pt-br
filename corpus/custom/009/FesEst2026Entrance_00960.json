@@ -2,17 +2,17 @@
   "conversation": "custom/009/FesEst2026Entrance_00960",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_000", "hash": "6E075703A3B39EC6", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_001", "hash": "E1E012D61339EA46", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_002", "hash": "F686E42A50A91EEE", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_003", "hash": "D03644A3BC0E5FF5", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_000_000", "hash": "CA55323203D8EB0C", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_100_000", "hash": "6927163DB8E1AC00", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_001", "hash": "93B33CAA420CEAFE", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_002", "hash": "3450EAFA319C5D4B", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_003", "hash": "0B819579CCCC2A00", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_010", "hash": "842F155FD66603CA", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_015", "hash": "F876E11541BEC214", "target": "" },
-    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_INVENTORYMAX_CONFIRM", "hash": "CBA41C8D0D38E658", "target": "" }
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_000", "hash": "6E075703A3B39EC6", "target": "Com a bênção de Nonotta, levaremos você à arena num instante." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_ENTRANCEMAN0960_000_001", "hash": "E1E012D61339EA46", "target": "Quando quiser começar, levo você à arena dos ovos. Se precisar de mais alguma coisa, é só me avisar." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_002", "hash": "F686E42A50A91EEE", "target": "Para continuar esta missão, conclua quatro fases de “Faxina de spriggans”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_SYSTEM_000_003", "hash": "D03644A3BC0E5FF5", "target": "Fale com o atendente dos ovos para saber mais sobre “Faxina de spriggans”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_000_000", "hash": "CA55323203D8EB0C", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_Q1_100_000", "hash": "6927163DB8E1AC00", "target": "O que você vai fazer?<br>[<colortype(506)><edgecolortype(507)>Recorde: <kilo(lnum1,\\,)><edgecolortype(0)><colortype(0)>]" },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_001", "hash": "93B33CAA420CEAFE", "target": "Participar de “Faxina de spriggans”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_002", "hash": "3450EAFA319C5D4B", "target": "Saber mais sobre “Faxina de spriggans”." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_A1_000_003", "hash": "0B819579CCCC2A00", "target": "Nada." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_010", "hash": "842F155FD66603CA", "target": "Antes de participar de “Faxina de spriggans”, cancele qualquer inscrição pendente no Localizador de conteúdo ou recrutamento de membros. Se estiver em um grupo, saia dele." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_TALK_SYSTEM_000_015", "hash": "F876E11541BEC214", "target": "Como seu inventário está cheio, talvez você não consiga receber todas as recompensas." },
+    { "gameKey": "custom/009/FesEst2026Entrance_00960#TEXT_FESEST2026ENTRANCE_00960_INVENTORYMAX_CONFIRM", "hash": "CBA41C8D0D38E658", "target": "Participar de “Faxina de spriggans” mesmo assim?" }
   ]
 }

@@ -2,17 +2,17 @@
   "conversation": "custom/009/RegYok6AgaveJaws_00904",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "" },
-    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "" }
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_000", "hash": "2E9E9E4F5C7216B9", "target": "Ah, uma visita! Boas-vindas às Mandíbulas de Agave. Em que posso ajudar?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_001", "hash": "53082AB3232700F1", "target": "A notícia de que Valigarmanda está à solta chegou até nós aqui. E logo depois de a Terceira Promessa nos defender de uma horda de monstros... Parece que não vamos ter um segundo de sossego." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_002", "hash": "BB0CB8737C8AE1BD", "target": "Por sorte, Valigarmanda nunca veio até aqui. Agora que foi derrotado, posso voltar a cuidar da fazenda sem temer pela vida." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_003", "hash": "9302D436EF58239B", "target": "Talvez eu deva preparar nossos melhores agaves para destilação em homenagem aos novos Servidores da Aurora. Com certeza têm afazeres de sobra, mas deve chegar uma noite em que possam relaxar e tomar uns copos de mezcal." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_Q1_000_000", "hash": "0D72F4DE59545952", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_001", "hash": "69D499174023E822", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_002", "hash": "1C9844F9958A49C2", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_A1_000_003", "hash": "BF50C01B1EE152C5", "target": "Nada." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_010", "hash": "691E8AC37E7AF688", "target": "Ah, muita coisa! Examino o solo e o clima para que nossos agaves cresçam nas melhores condições, determino o ritmo do cultivo e decido quantos vão para a destilação." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_011", "hash": "9577C521652B861D", "target": "Nada me deixa mais feliz do que ver alguém se interessar pela fazenda! Eu e meus colegas passamos o dia inteiro cuidando dos agaves. Acho que é bom ter nosso trabalho reconhecido." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_020", "hash": "76C9627687C9A3DE", "target": "Ora, uma fazenda de agave, é claro! Recolhemos a seiva das plantas e a destilamos para fazer mezcal." },
+    { "gameKey": "custom/009/RegYok6AgaveJaws_00904#TEXT_REGYOK6AGAVEJAWS_00904_SOVLI_000_021", "hash": "9D1F7C995BEECC23", "target": "Quanto ao nome da fazenda, basta olhar como alinhamos bem as plantas! A paisagem não lembra a bocarra aberta de uma fera? Bem, não que eu já tenha visto uma de perto..." }
   ]
 }

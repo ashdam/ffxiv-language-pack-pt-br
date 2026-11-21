@@ -2,13 +2,13 @@
   "conversation": "shop/LotteryExchangeShopEureka3Shard",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_TITLE", "hash": "EAEA308D5162EC15", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_SUBTITLE", "hash": "A9782DFA30E1C95A", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_NOITEM", "hash": "E1D8CD09D8FBFAE3", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_TITLE", "hash": "506AEE29C142F8DF", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_SUBTITLE", "hash": "D9EAAA960D6AB1E4", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_NEXT", "hash": "63BC9982DFCCC126", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_MULTI", "hash": "723856DD504C07C3", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_TITLE", "hash": "EAEA308D5162EC15", "target": "Avaliação de logogramas" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_SUBTITLE", "hash": "A9782DFA30E1C95A", "target": "", "intentionalEmpty": true },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_UI_NOITEM", "hash": "E1D8CD09D8FBFAE3", "target": "Não há nada para exibir." },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_TITLE", "hash": "506AEE29C142F8DF", "target": "Resultados" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_SUBTITLE", "hash": "D9EAAA960D6AB1E4", "target": "", "intentionalEmpty": true },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_RESULT_UI_NEXT", "hash": "63BC9982DFCCC126", "target": "Avançar" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_SINGLE", "hash": "57C3B58E4E727BF2", "target": "Avaliar <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)>: <num(lnum3)> em estoque<br>Tentativas restantes: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka3Shard#TEXT_LOTTERYEXCHANGESHOPEUREKA3SHARD_CONFIRM_MULTI", "hash": "723856DD504C07C3", "target": "Avaliar <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)>: <num(lnum3)> em estoque<br>Tentativas restantes: <num(lnum2)>" }
   ]
 }

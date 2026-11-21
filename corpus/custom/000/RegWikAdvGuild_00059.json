@@ -2,16 +2,16 @@
   "conversation": "custom/000/RegWikAdvGuild_00059",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "" },
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "" }
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Olá, viajante! Já provou algum prato da Areia Movediça? Nada prepara melhor a gente para um dia de aventuras do que uma boa refeição!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "O que você quer saber?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "Por que o lugar se chama “Areia Movediça”?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_3", "hash": "38FCF9D1AD077202", "target": "Nada." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_010", "hash": "B731CEC43EFCFF5C", "target": "Ah, eu vou de um lado para o outro pela Areia Movediça, cuidando de tudo que nossos hóspedes precisam." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_011", "hash": "4F110AE7226E4D8E", "target": "Também dou uma mão na cozinha de vez em quando. Ninguém faz bolinhos tão amanteigados quanto os meus, viu? Da próxima vez que eu fizer uma fornada, não deixe de provar!" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_012", "hash": "9521C22799F01C99", "target": "Mas vale a pena provar todos os nossos pratos. Tudo que servimos é uma delícia! Que tal comer alguma coisa e descansar um pouquinho? Prometo que você não vai se arrepender." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_020", "hash": "D8792D69BE996EA4", "target": "Dê uma olhada em volta. A Areia Movediça atrai gente de toda espécie! O pessoal se reúne aqui para se conhecer e conversar." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_021", "hash": "B668ACF258327526", "target": "Claro que vocês, aventureiros, quase nunca ficam por muito tempo. Parecem areia mesmo. Quanto mais apertamos as mãos para segurar vocês, mais fácil escapam pelos nossos dedos..." },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_022", "hash": "6DE0E24B0F1C27BE", "target": "Ah, eu sei <italic(1)>tudo<italic(0)> sobre gente como você. Meu marido foi aventureiro, sabe? Era um herói e tanto na época. As façanhas dele hoje são só uma lembrança distante, assim como aquele porte atlético. \\<suspiro>" }
   ]
 }

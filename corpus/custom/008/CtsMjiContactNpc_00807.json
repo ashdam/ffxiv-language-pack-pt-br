@@ -2,11 +2,11 @@
   "conversation": "custom/008/CtsMjiContactNpc_00807",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_000", "hash": "E8A910CAB8D439BC", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_010", "hash": "353CB75E14E9EB3C", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_020", "hash": "F249A4BA9589ED05", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_030", "hash": "41A9D3BFF529B927", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_040", "hash": "93C8EA1CA0E0C12F", "target": "" },
-    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_050", "hash": "EC4640C86C403701", "target": "" }
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_000", "hash": "E8A910CAB8D439BC", "target": "Olá! Tenho a honra de cuidar das comunicações da ilha, sobretudo das mensagens da senhora Tataru. Avisarei assim que tiver notícias." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_010", "hash": "353CB75E14E9EB3C", "target": "Se receber outra mensagem da senhora Tataru, você saberá antes de todo mundo." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_020", "hash": "F249A4BA9589ED05", "target": "Boas-vindas à ilha! Espero que aproveite a estadia." },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_030", "hash": "41A9D3BFF529B927", "target": "Temos visitas! Adoro quando temos visitas!" },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_040", "hash": "93C8EA1CA0E0C12F", "target": "A senhora Tataru avisou que mais um grupo de visitantes viria. Vou informar assim que ela entrar em contato!" },
+    { "gameKey": "custom/008/CtsMjiContactNpc_00807#TEXT_CTSMJICONTACTNPC_00807_OPERATORMAMMET_000_050", "hash": "EC4640C86C403701", "target": "Nada de contato! Nenhum contato da senhora Tataru! ...Acho que agora vai ter que convidar seus próprios amigos!" }
   ]
 }

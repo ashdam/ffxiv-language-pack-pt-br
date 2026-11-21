@@ -2,15 +2,15 @@
   "conversation": "custom/002/RegRoc2LightfeatherProvingGrounds_00280",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_000", "hash": "54BB88541E2F0C87", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_Q1_000_000", "hash": "B9B21FEEC5AE6990", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_001", "hash": "E724A2F89110B3CF", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_002", "hash": "14C86A15FAEB94C9", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_003", "hash": "DB23D9F9D1E667EC", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_010", "hash": "6505D000C77B4A56", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_011", "hash": "C1C912FFFAE41AD2", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_020", "hash": "ADD7DA9D379ABF65", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_021", "hash": "39A14D093F8BB0A0", "target": "" },
-    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_022", "hash": "7592F5ED27833AD0", "target": "" }
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_000", "hash": "54BB88541E2F0C87", "target": "Ah! Olá! <if(gnum4,Bem-vinda,Bem-vindo)> ao Campo de Provas da Pena Leve." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_Q1_000_000", "hash": "B9B21FEEC5AE6990", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_001", "hash": "E724A2F89110B3CF", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_002", "hash": "14C86A15FAEB94C9", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_A1_000_003", "hash": "DB23D9F9D1E667EC", "target": "Nada." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_010", "hash": "6505D000C77B4A56", "target": "Oficialmente, devo mostrar o lugar e responder às perguntas de quem chega. Na prática, quase não preciso, porque é raro aparecer cara nova por aqui." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_011", "hash": "C1C912FFFAE41AD2", "target": "Por mim, tudo bem. Gosto de ficar livre pra assistir às lutas." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_020", "hash": "ADD7DA9D379ABF65", "target": "Como o nome sugere, o Campo de Provas da Pena Leve foi criado para sediar disputas entre chocobos treinados para o combate." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_021", "hash": "39A14D093F8BB0A0", "target": "Desde então, a Casa Dzemael passou a ceder o espaço para outros usos de vez em quando." },
+    { "gameKey": "custom/002/RegRoc2LightfeatherProvingGrounds_00280#TEXT_REGROC2LIGHTFEATHERPROVINGGROUNDS_00280_ALINAURE_000_022", "hash": "7592F5ED27833AD0", "target": "Algumas outras casas já montaram espetáculos, tanto abertos ao público quanto privados. Os Cavaleiros do Templo também já fizeram exibições aqui. Ah, essas são sempre uma maravilha." }
   ]
 }

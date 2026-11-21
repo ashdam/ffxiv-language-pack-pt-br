@@ -2,17 +2,17 @@
   "conversation": "custom/002/RegDra2Moghome_00287",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_000", "hash": "AEAFFC1A3A82569D", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_001", "hash": "118C3108D1561756", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_002", "hash": "5B0C92AB7DFA5B8E", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000Q", "hash": "9D0E01CCD73C6914", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A1", "hash": "B99A533E27CD4218", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A2", "hash": "F93FB96CA6213296", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A3", "hash": "32AC773B8DE67296", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_010", "hash": "758154D079A3772A", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_011", "hash": "5A2D58B083D7157B", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_012", "hash": "0C431A47ED7F8E02", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_020", "hash": "707B3AD36F50A553", "target": "" },
-    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_021", "hash": "1B80A9DFB8A28292", "target": "" }
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_000", "hash": "AEAFFC1A3A82569D", "target": "Olha só, uma visita lá de baixo! Está procurando alguma coisa? É só perguntar! Tenho orgulho de ser o segundo moogle mais bem informado daqui, kupo!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_001", "hash": "118C3108D1561756", "target": "Espero que Sid melhore logo, kupo... Pelo menos ele não parece tão sombrio e carrancudo quanto eu lembrava! Tirando quando fala em dar socos em moogles." },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_002", "hash": "5B0C92AB7DFA5B8E", "target": "Ah, sem Sid nem Rielle hoje? Só você, kupo? Que pena. Bom, continuo sendo o segundo moogle mais bem informado daqui, então, se tiver perguntas, manda ver!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000Q", "hash": "9D0E01CCD73C6914", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A1", "hash": "B99A533E27CD4218", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A2", "hash": "F93FB96CA6213296", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_SCENE00000A3", "hash": "32AC773B8DE67296", "target": "Nada." },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_010", "hash": "758154D079A3772A", "target": "Ora, eu guardo a entrada do Lar dos Moogles! Se vir algum dos tantos monstros malvados chegando perto demais, ou qualquer coisa um pouquinho fora do normal, tenho de avisar na hora o chefe Moglin ou a Guarda do Pompom, kupo!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_011", "hash": "5A2D58B083D7157B", "target": "Quando acontece algo estranho, o mais importante é avisar logo e dar todos os detalhes. Um excelente guarda precisa de atenção <italic(1)>e<italic(0)> conhecimento. É por isso que, depois do chefe Moglin, sou o moogle mais bem informado de todo o Lar dos Moogles!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_012", "hash": "0C431A47ED7F8E02", "target": "Se alguma coisa estiver preocupando você, ou se tiver perguntas, é bem provável que eu possa ajudar. Chega de se esconder ou sair correndo, kupo!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_020", "hash": "707B3AD36F50A553", "target": "Como o nome diz, o Lar dos Moogles é onde os moogles moram! Fica no cume do altíssimo Sohm Al. Qual a altura de Sohm Al, você pergunta? Bom, se faz tanta questão de saber, pode descer e conferir por conta própria!" },
+    { "gameKey": "custom/002/RegDra2Moghome_00287#TEXT_REGDRA2MOGHOME_00287_MOGGIE_021", "hash": "1B80A9DFB8A28292", "target": "Às vezes o rugido distante de um dragão acorda a gente de noite, ou um monstro mal-educado sai correndo atrás da gente. Fora isso, eu diria que a vida aqui acima das nuvens é boa demais, kupo!" }
   ]
 }

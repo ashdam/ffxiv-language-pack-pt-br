@@ -2,17 +2,17 @@
   "conversation": "content/DeepDungeonGacha",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "018EC227A041AD05", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_TITLE", "hash": "8A6D619A2283B27E", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_GACHA", "hash": "92F5ECDCF7AC1294", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_ABOUT", "hash": "BA6040D17EE90A20", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_EXIT", "hash": "E13B0B9328BF2727", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "" },
-    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "" }
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_000", "hash": "C5A69EF0431A7648", "target": "Os monstros nas ruínas são motivo de grande preocupação, mas deixo que vocês, aventureiros, cuidem disso. Meu interesse são os artefatos ainda por descobrir que estão enterrados lá dentro." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_010", "hash": "6C13B5DD9513B9CF", "target": "Você explorou as ruínas, certo? Por acaso encontrou algum saco estranho selado pela magia do palácio? Se quiser saber o valor desses tesouros, traga-os para mim e quebrarei o selo que mantém os sacos fechados." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_020", "hash": "018EC227A041AD05", "target": "Já soube? Os Lamentadores da Mata encontraram documentos escritos pelo arquiteto do palácio! Ah, o que eu não daria para lê-los." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_TITLE", "hash": "8A6D619A2283B27E", "target": "O que deseja fazer?" },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_GACHA", "hash": "92F5ECDCF7AC1294", "target": "Avaliar uma peça do Tesouro Amaldiçoado." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_ABOUT", "hash": "BA6040D17EE90A20", "target": "Perguntar sobre o Tesouro Amaldiçoado." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_STARTMENU_EXIT", "hash": "E13B0B9328BF2727", "target": "Nada." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_050", "hash": "8B771A9EBE492749", "target": "Ultimamente, os Lamentadores da Mata têm voltado com artefatos peculiares. Estão embrulhados em sacos estranhos, enterrados em lugares ainda mais estranhos. Uma magia parecida com a que protege o Palace of the Dead sela esses sacos, o que torna perigoso até abri-los." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_WOODWAILERAPPRAISERS_000_051", "hash": "0514F4D9C4EF421D", "target": "Meu dever é desfazer os feitiços que protegem esses recipientes peculiares trazidos das ruínas. Se encontrar algum, traga-o para mim, por favor. Vou abri-lo em segurança para você." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_060", "hash": "5F00FCF96B35EB56", "target": "Ao explorar a masmorra profunda, os jogadores encontrarão peças do Tesouro Amaldiçoado, escondido e enterrado pelos mortos-vivos." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_000_061", "hash": "6025ABE84D3A7146", "target": "Para descobrir o valor das peças encontradas no Palace of the Dead, leve-as à bispa da expedição para avaliação." },
+    { "gameKey": "content/DeepDungeonGacha#TEXT_DEEPDUNGEONGACHA_ABOUT_SYSTEM_100_061", "hash": "D631C9FFCBEAA322", "target": "O capitão expedicionário dos Lamentadores da Mata pode explicar em detalhes como encontrar esses tesouros ocultos." }
   ]
 }

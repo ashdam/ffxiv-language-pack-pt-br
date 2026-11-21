@@ -2,17 +2,17 @@
   "conversation": "custom/003/RegSeaBeginnerHealerGuide_00339",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_000", "hash": "D913F5716070EEE5", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_SYSTEM_000_001", "hash": "8E34505DA408704A", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_010", "hash": "8D8D93525F2E9AD6", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_020", "hash": "0316B378E0B6EBB0", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_030", "hash": "4C834235350FA8CF", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_040", "hash": "5C49BA1F39E51D2C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_Q1_000_000", "hash": "5D8BFA62763C0CBD", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_001", "hash": "7FAE7CE8EBC84799", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_002", "hash": "66DF375AB7FB6E74", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_003", "hash": "AAE360D87CC675B5", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_100", "hash": "45DAA4C9BE07C724", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_110", "hash": "51FA6F0F372F7920", "target": "" }
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_000", "hash": "D913F5716070EEE5", "target": "Saudações e boas-vindas ao Salão dos Novatos. Eu adoraria começar seu treino de combate em grupo, mas receio que você ainda esteja um tantinho... verde. Vá lá, meu brotinho, cresça até virar uma muda. Assim poderemos engrossar a casca desse tronco!" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_SYSTEM_000_001", "hash": "8E34505DA408704A", "target": "Para treinar no Salão dos Novatos, você precisa ter nível 15 ou superior como Discípulo da Guerra ou da Magia." },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_010", "hash": "8D8D93525F2E9AD6", "target": "Saudações e boas-vindas ao Salão dos Novatos. Como Mestra de Magias, vou ajudar você a aprender as técnicas básicas de que todo curandeiro precisa num grupo. Fale com o Instrutor ali para se inscrever nos meus exercícios!" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_020", "hash": "0316B378E0B6EBB0", "target": "Sinto muito, mas minha especialidade é pôr ossos no lugar. Para quebrá-los, fale com meus colegas. Pode ser que encontre alguém que ensine técnicas mais adequadas às suas aptidões..." },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_030", "hash": "4C834235350FA8CF", "target": "Veio aprender? Maravilha, porque estamos a postos para ensinar! Fale com o Instrutor e podemos dar continuidade às suas lições agora mesmo!" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_040", "hash": "5C49BA1F39E51D2C", "target": "Que prazer ver você de novo, <split(<string(gstr1)>, ,1)>! Deve estar com vontade de pôr seu treino à prova, não é? Fico sempre feliz em partilhar minha sabedoria, caso precise!" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_Q1_000_000", "hash": "5D8BFA62763C0CBD", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_001", "hash": "7FAE7CE8EBC84799", "target": "Qual a melhor forma de apoiar meus aliados na luta?" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_002", "hash": "66DF375AB7FB6E74", "target": "O que faço quando ninguém precisa de cura?" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_A1_000_003", "hash": "AAE360D87CC675B5", "target": "Nada." },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_100", "hash": "45DAA4C9BE07C724", "target": "Como curandeiro, sua prioridade é manter todo o grupo com a saúde em dia. Procure curar os ferimentos assim que a situação permitir!" },
+    { "gameKey": "custom/003/RegSeaBeginnerHealerGuide_00339#TEXT_REGSEABEGINNERHEALERGUIDE_00339_HEALERCOACH00339_000_110", "hash": "51FA6F0F372F7920", "target": "Quando já tiver curado quem precisava, talvez dê tempo de encaixar uns feitiços ofensivos. Mas fique de olho nos companheiros! Nada de explodir inimigos quando tiver aliado sangrando!" }
   ]
 }

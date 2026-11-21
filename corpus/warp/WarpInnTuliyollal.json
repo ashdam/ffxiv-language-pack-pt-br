@@ -2,18 +2,18 @@
   "conversation": "warp/WarpInnTuliyollal",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_000", "hash": "9D3412B92CBAD859", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_010", "hash": "F8AF655537544701", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_020", "hash": "D4D81959D640E28A", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_Q1_000_100", "hash": "A09B89D277598555", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_101", "hash": "730EE51E6FD49795", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_102", "hash": "6B04ACCF1C0858E0", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_103", "hash": "C911200F96305D6D", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_150", "hash": "31869587B2881C1C", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_200", "hash": "3CD534800D430B67", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_201", "hash": "713CDE67109153A7", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_202", "hash": "B14C6CDAE13BCF1C", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_205", "hash": "7297274E8196C470", "target": "" },
-    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_210", "hash": "E6E329B7D346088A", "target": "" }
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_000", "hash": "9D3412B92CBAD859", "target": "Que bom ter você de volta, <if(gnum4,senhora,senhor)>. Deseja usar seu camarote?" },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_010", "hash": "F8AF655537544701", "target": "Que bom ter você de volta, <if(gnum4,senhora,senhor)>. Deseja usar seu camarote? Por sorte, a invasão não causou danos graves por aqui..." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_020", "hash": "D4D81959D640E28A", "target": "Que bom ter você de volta, <if(gnum4,senhora,senhor)>. Como sempre, minha equipe e eu estamos à sua disposição. Deseja usar seu camarote?" },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_Q1_000_100", "hash": "A09B89D277598555", "target": "O que você gostaria de fazer?" },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_101", "hash": "730EE51E6FD49795", "target": "Ir para o seu quarto." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_102", "hash": "6B04ACCF1C0858E0", "target": "Perguntar sobre os Camarotes da Proa." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_A1_000_103", "hash": "C911200F96305D6D", "target": "Nada." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_150", "hash": "31869587B2881C1C", "target": "Certamente, <if(gnum4,senhora,senhor)>. Fique o tempo que desejar." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_200", "hash": "3CD534800D430B67", "target": "Os Camarotes da Proa foram construídos há alguns anos para acomodar melhor os visitantes que vêm de além-mar." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_201", "hash": "713CDE67109153A7", "target": "Nos primórdios de Tuliyollal, os “quartos de hóspedes” mal passavam de barcos bambos amarrados ao cais. Para dizer o mínimo, os viajantes não gostavam deles. Como os navios mercantes não paravam de chegar, foi preciso construir instalações mais modernas." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_202", "hash": "B14C6CDAE13BCF1C", "target": "Um dos companheiros do próprio Gulool Ja Ja também veio de terras distantes. Dizem que ele comparou os telhados recém-construídos a uma fileira de proas de navios, e o interior, a camarotes bem arrumados. O nome pegou." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_205", "hash": "7297274E8196C470", "target": "Hoje temos orgulho de oferecer a melhor hospedagem da cidade. Tenho certeza de que encontrará tudo a seu gosto." },
+    { "gameKey": "warp/WarpInnTuliyollal#TEXT_WARPINNTULIYOLLAL_PESHEKWA_000_210", "hash": "E6E329B7D346088A", "target": "Uma audiência pessoal com o Servidor da Aurora... Qual será o motivo?" }
   ]
 }

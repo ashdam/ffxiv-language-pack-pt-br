@@ -2,17 +2,17 @@
   "conversation": "custom/004/RegOth3Onokoro_00411",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_000", "hash": "270E2A17A8602DA0", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_Q1_000_000", "hash": "F361120786238FDE", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_001", "hash": "BC8B98C33AD576A0", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_002", "hash": "148EA92BF5E00D79", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_003", "hash": "CFD9F900D3835F19", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_010", "hash": "0D2C0A09DBED1592", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_011", "hash": "B3B05FCA2D65664B", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_012", "hash": "06DC1E13351C37D8", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_020", "hash": "024BA4D796D8A974", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_021", "hash": "DA0E7D1C97D38456", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_022", "hash": "36B55FA4D2ADDEB6", "target": "" },
-    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_023", "hash": "2DA6AC8483DFD72E", "target": "" }
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_000", "hash": "270E2A17A8602DA0", "target": "É a sua primeira vez na ilha, não é? O que traz você aqui?" },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_Q1_000_000", "hash": "F361120786238FDE", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_001", "hash": "BC8B98C33AD576A0", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_002", "hash": "148EA92BF5E00D79", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_A1_000_003", "hash": "CFD9F900D3835F19", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_010", "hash": "0D2C0A09DBED1592", "target": "Cuido da segurança da ilha e, como sou um dos homens mais fortes daqui, muitas vezes me cabe treinar os recrutas." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_011", "hash": "B3B05FCA2D65664B", "target": "A Confederação recebe gente de toda origem e de todos os cantos do mundo. Uns, como eu, vieram das montanhas. Outros vieram do mar ou de cidades grandes. Aqui, isso não importa. Basta querer aprender e trabalhar duro que a gente se entende." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_012", "hash": "06DC1E13351C37D8", "target": "Agora, se por algum motivo tentar resolver uma rixa na base da violência, prepare-se para um destino pior que a morte." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_020", "hash": "024BA4D796D8A974", "target": "Aqui é Onokoro, a sede da Confederação. A torre atrás de nós é Heaven<-->on<-->High. Tem esse nome porque quem chegou ao topo hoje está lá no céu... ou num lugar bem menos agradável." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_021", "hash": "DA0E7D1C97D38456", "target": "Ninguém sabe o que ela é ou como foi parar aqui. Segundo uma lenda antiga, foi obra dos kami." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_022", "hash": "36B55FA4D2ADDEB6", "target": "Por isso, Onokoro passou a ser considerada terra sagrada. Muita gente evita se aproximar da ilha por medo de provocar a ira divina." },
+    { "gameKey": "custom/004/RegOth3Onokoro_00411#TEXT_REGOTH3ONOKORO_00411_SAZAKI_000_023", "hash": "2DA6AC8483DFD72E", "target": "Claro que aproveitamos isso para estabelecer nossa base aqui, longe de todos os olhares curiosos." }
   ]
 }

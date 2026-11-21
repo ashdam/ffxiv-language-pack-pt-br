@@ -24,7 +24,7 @@
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_THANCRED_000_043", "hash": "D345E1959ABE8837", "target": "Posso pedir que converse com ela? Minhas tentativas de aproximação parecem ter surtido o efeito contrário. Ela foi ao Hortorium, supostamente buscar ervas para Chessamile, mas... Apenas converse com ela, pode ser?" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_THANCRED_000_050", "hash": "D25CB09E4FDC3BAB", "target": "Por favor, encontre Minfilia. Eu vou ficar bem." },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_RYNE_000_060", "hash": "037927E5DF8BA30E", "target": "..." },
-    { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_SYSTEM_000_061", "hash": "773D0B2253DE8E62", "target": "Minfilia parece estar perdida em pensamentos. Talvez um <colortype(500)><edgecolortype(501)>poke<edgecolortype(0)><colortype(0)> de leve chame sua atenção." },
+    { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_SYSTEM_000_061", "hash": "773D0B2253DE8E62", "target": "Minfilia parece estar perdida em pensamentos. Talvez usar <colortype(500)><edgecolortype(501)>Cutucar<edgecolortype(0)><colortype(0)> de leve chame sua atenção." },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_RYNE_000_070", "hash": "4DC96B2493C5A613", "target": "Ah!" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_RYNE_000_071", "hash": "3DAF775C5DFCFC85", "target": "Ah, <split(<string(gstr1)>, ,1)>. O que você está fazendo aqui?" },
     { "gameKey": "quest/036/LucKmd103_03608#TEXT_LUCKMD103_03608_RYNE_000_072", "hash": "108FDD3D9D976331", "target": "Thancred..." },

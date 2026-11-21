@@ -2,18 +2,18 @@
   "conversation": "content/DeepDungeon2Gacha",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_000", "hash": "15A8C1C636A8FAF4", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_010", "hash": "560645FA96634DDC", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_020", "hash": "AAFDBBED6748B6FD", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_TITLE", "hash": "A44D8AECD63B1C3D", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_GACHA", "hash": "229DC1EBC1603060", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_ABOUT", "hash": "088FEE9C063B9EFC", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_EXIT", "hash": "E207ECCD0D13858C", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_050", "hash": "61B6B76353F6F3F6", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_051", "hash": "EA964FB5D4BD846C", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_055", "hash": "86827CBE20E39DCF", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_056", "hash": "292936D25483475B", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_060", "hash": "C626897D3BD12BA9", "target": "" },
-    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_061", "hash": "8D16204A7F781F5C", "target": "" }
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_000", "hash": "15A8C1C636A8FAF4", "target": "O que tá farejando por aqui? Não tem nada aqui que lhe diga respeito, então pode dar o fora!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_010", "hash": "560645FA96634DDC", "target": "Trouxe um saco ou dois de bugigangas pra eu avaliar?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_020", "hash": "AAFDBBED6748B6FD", "target": "Ah, a lenda voltou! E que tesouros você tem pra me mostrar <if([gnum11<12],<if([gnum11<4],esta noite,esta manhã)>,<if([gnum11<17],hoje,esta noite)>)>?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_TITLE", "hash": "A44D8AECD63B1C3D", "target": "O que deseja fazer?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_GACHA", "hash": "229DC1EBC1603060", "target": "Avaliar uma peça do Tesouro Amaldiçoado." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_ABOUT", "hash": "088FEE9C063B9EFC", "target": "Perguntar sobre o Tesouro Amaldiçoado." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_EXIT", "hash": "E207ECCD0D13858C", "target": "Nada." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_050", "hash": "61B6B76353F6F3F6", "target": "Segundo Kyusei, Heaven<-->on<-->High guarda um monte de tesouros selados por magia." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_051", "hash": "EA964FB5D4BD846C", "target": "A questão é que não dá nem pra saber o que tem dentro sem abrir o saco, e pra isso é preciso desfazer a magia que o mantém fechado. Sorte sua que eu levo jeito pra quebrar encantamentos!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_055", "hash": "86827CBE20E39DCF", "target": "“Tesouro Amaldiçoado” é como Kyusei chama o tesouro dentro desses sacos. Não sei onde ouviu esse nome, mas ultimamente ele anda mais interessado na história do Ocidente. Talvez venha daí." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_056", "hash": "292936D25483475B", "target": "De todo modo, ainda preciso desfazer a magia que protege os sacos antes de avaliar o conteúdo. De alguma forma, o campo mágico dentro da torre fortalece os selos, por isso é bem mais fácil removê-los quando os sacos estão aqui fora." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_060", "hash": "C626897D3BD12BA9", "target": "Ao explorar a masmorra profunda, os jogadores podem encontrar peças do Tesouro Amaldiçoado, um tesouro selado por magia poderosa." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_061", "hash": "8D16204A7F781F5C", "target": "Para descobrir o valor das peças encontradas em Heaven<-->on<-->High, apresente-as à avaliadora da Confederação." }
   ]
 }

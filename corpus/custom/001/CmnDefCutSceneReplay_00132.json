@@ -2,10 +2,10 @@
   "conversation": "custom/001/CmnDefCutSceneReplay_00132",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_SYSTEM_001_000", "hash": "13995391FADDE34D", "target": "" },
-    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_Q1_000_000", "hash": "A03FC31DA62E95F1", "target": "" },
-    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_001", "hash": "0E04EE9A024CEABE", "target": "" },
-    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_002", "hash": "F18503D470310F76", "target": "" },
-    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_003", "hash": "0A83AD3B09C913F7", "target": "" }
+    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_SYSTEM_001_000", "hash": "13995391FADDE34D", "target": "Você não pode consultar <italic(1)>A Jornada Sem Fim<italic(0)> neste momento." },
+    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_Q1_000_000", "hash": "A03FC31DA62E95F1", "target": "Selecione uma cena." },
+    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_001", "hash": "0E04EE9A024CEABE", "target": "E nós a chamaremos de Eureka (cena nº 1)." },
+    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_002", "hash": "F18503D470310F76", "target": "Expedição a Eureka Anemos (cena nº 1)." },
+    { "gameKey": "custom/001/CmnDefCutSceneReplay_00132#TEXT_CMNDEFCUTSCENEREPLAY_00132_VIRTUAL_EUREKA_A1_000_003", "hash": "0A83AD3B09C913F7", "target": "Expedição a Eureka Anemos (cena nº 2)." }
   ]
 }

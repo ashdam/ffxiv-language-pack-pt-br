@@ -2,17 +2,17 @@
   "conversation": "custom/002/CmnGscChocoboRaceCoupling_00235",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR", "hash": "912D8BA6D63BAE57", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01", "hash": "FDA0BBA278FF824C", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_02", "hash": "1DB02A44BB11A292", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_01", "hash": "5F1DD9DAA5301147", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_02", "hash": "115DD9AC57DFA6E7", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_01", "hash": "AF1CCEB1F206DD40", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_02", "hash": "5B46AFFD0940FE06", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_01", "hash": "A2F8978053BFB8C6", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_02", "hash": "38C2A194249985DB", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_01", "hash": "3A06AC42E1F5CB09", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_02", "hash": "12F23800B85C705D", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_03", "hash": "01A2E219D5D50C85", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_TALK_ACTOR", "hash": "912D8BA6D63BAE57", "target": "Certo. Imagino que você tenha trazido os documentos necessários, não é?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_01", "hash": "FDA0BBA278FF824C", "target": "Deixe o resto com a gente. Só não vá perder o comprovante do cruzamento (Proof of Covering). Você vai precisar dele quando voltar para buscar o filhote." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_001_02", "hash": "1DB02A44BB11A292", "target": "Para saber a partir de que dia pode buscar o filhote, consulte a descrição do comprovante do cruzamento." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_01", "hash": "5F1DD9DAA5301147", "target": "Um instante, a gente não acabou de marcar um cruzamento para você? Receio que haja algumas restrições..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_001_02", "hash": "115DD9AC57DFA6E7", "target": "Você só pode marcar outro cruzamento depois de buscar seu filhote recém-nascido." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_01", "hash": "AF1CCEB1F206DD40", "target": "Hum? Você não tem <italic(1)>nenhum<italic(0)> formulário de registro de chocobo aposentado? Sabe que ele é indispensável, não é?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_002_02", "hash": "5B46AFFD0940FE06", "target": "Para marcar um cruzamento, você precisa ter um formulário de registro de chocobo aposentado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_01", "hash": "A2F8978053BFB8C6", "target": "Talvez seja impressão minha, mas parece que você já está carregando coisas demais..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_003_02", "hash": "38C2A194249985DB", "target": "Para marcar um cruzamento, você precisa ter espaço no inventário para guardar o comprovante do cruzamento." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_01", "hash": "3A06AC42E1F5CB09", "target": "Vejo que você trouxe um formulário de registro de chocobo aposentado. Que bom. Pena que você não parece ter o formulário de nenhum chocobo compatível. Aí complica." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_02", "hash": "12F23800B85C705D", "target": "Para marcar um cruzamento, você precisa ter os formulários de dois chocobos compatíveis." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceCoupling_00235#TEXT_CMNGSCCHOCOBORACECOUPLING_00235_ERROR_004_03", "hash": "01A2E219D5D50C85", "target": "Todo cruzamento exige um macho e uma fêmea. Os dois não podem ser chocobos reprodutores." }
   ]
 }

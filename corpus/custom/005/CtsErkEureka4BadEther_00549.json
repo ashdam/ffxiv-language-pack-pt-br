@@ -2,8 +2,8 @@
   "conversation": "custom/005/CtsErkEureka4BadEther_00549",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_000", "hash": "F3F0730A31D30A1D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_010", "hash": "B9BE641E7B1ACADA", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_020", "hash": "07F147350315DF99", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_000", "hash": "F3F0730A31D30A1D", "target": "Você instala o regulador no ponto em que o éter se acumulou. O efeito parece imediato." },
+    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_010", "hash": "B9BE641E7B1ACADA", "target": "Você instala o regulador no ponto em que o éter se acumulou. O efeito parece imediato." },
+    { "gameKey": "custom/005/CtsErkEureka4BadEther_00549#TEXT_CTSERKEUREKA4BADETHER_00549_SYSTEM_000_020", "hash": "07F147350315DF99", "target": "Você instala o regulador no ponto em que o éter se acumulou. O efeito parece imediato." }
   ]
 }

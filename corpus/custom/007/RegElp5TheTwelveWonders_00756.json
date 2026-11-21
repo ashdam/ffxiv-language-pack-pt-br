@@ -2,14 +2,14 @@
   "conversation": "custom/007/RegElp5TheTwelveWonders_00756",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_000", "hash": "248920A89C0EB76B", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_Q1_000_000", "hash": "C43BD22B388A1137", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_001", "hash": "F1FF6F66C0FC93AA", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_002", "hash": "A5166B209B8CE832", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_003", "hash": "FFE34EC2073CD3EB", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_010", "hash": "C9CCA92E2A8A8D54", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_011", "hash": "094D0F7752430D20", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_020", "hash": "A3D7AF25040F4479", "target": "" },
-    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_021", "hash": "AEF4A0A1784EF21A", "target": "" }
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_000", "hash": "248920A89C0EB76B", "target": "Que familiar encantador! Terei prazer em ajudar na sua pequena jornada de descoberta e crescimento pessoal." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_Q1_000_000", "hash": "C43BD22B388A1137", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_001", "hash": "F1FF6F66C0FC93AA", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_002", "hash": "A5166B209B8CE832", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_A1_000_003", "hash": "FFE34EC2073CD3EB", "target": "Nada." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_010", "hash": "C9CCA92E2A8A8D54", "target": "Minha função é cuidar das Maravilhas e, assim, do clima de toda Elpis. Garanto que cada ambiente atenda às necessidades da flora, da fauna... e da equipe, é claro." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_011", "hash": "094D0F7752430D20", "target": "Recriamos em Elpis ambientes de todas as partes de Etheirys para entender a fundo o potencial dos nossos conceitos. Manter o equilíbrio ideal em cada região é difícil, mas vale muito a pena." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_020", "hash": "A3D7AF25040F4479", "target": "As Doze Maravilhas são, por assim dizer, a fonte do clima de Elpis. Aqui empregamos as técnicas mágicas mais recentes de Amaurot para manter e ajustar os diversos climas em que nossas criações brincam. Tudo para fins de pesquisa." },
+    { "gameKey": "custom/007/RegElp5TheTwelveWonders_00756#TEXT_REGELP5THETWELVEWONDERS_00756_BION_000_021", "hash": "AEF4A0A1784EF21A", "target": "Claro que, como em qualquer outra parte de Elpis, também observamos os conceitos e fazemos experimentos com eles. Talvez esta conversa seja um desses experimentos..." }
   ]
 }

@@ -46,8 +46,8 @@
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_087", "hash": "7FD300671886C356", "target": "Foi uma das piores dores que já senti, e eu não abriria mão dela por nada neste mundo. Nós viajamos juntos, Chadwick e eu. Por muito menos tempo do que queríamos, mas percorremos um trecho da estrada, sim." },
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_088", "hash": "3D7395D261A6B7A7", "target": "Quem disse que os mortos não viajam? Se os Doze tivessem juízo, deixavam os pequenos longe dos seus salões imponentes, se aventurando ao sol e sob a lua. Senão iam ficar se metendo no meio, hein?" },
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_089", "hash": "45DD3A55029F1BA5", "target": "Agora vamos dançar, <if(gnum4,aventureira,aventureiro)>. Dançar e sonhar com o Extremo Oriente! Aprenda bem e dance para os outros!" },
-    { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_090", "hash": "1455A1FBAA64474F", "target": "A versátil Bomb Dance! Um rito do verão, perfeito tanto para ambientes sóbrios quanto para os mais agitados!" },
+    { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_090", "hash": "1455A1FBAA64474F", "target": "A versátil Dança da bomba! Um rito do verão, perfeito tanto para ambientes sóbrios quanto para os mais agitados!" },
     { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_HAERMAGA_000_091", "hash": "4EA6D93AE8B1406F", "target": "Você chama isso de passo, <split(<string(gstr1)>, ,1)>? Levante e pise firme! Levante e pise firme! Abaixe o quadril! Abaixe como se pesasse 18 tonzes! Agora quero ouvir essas palmas!" },
-    { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SYSTEM_000_100", "hash": "F16EE3CB57A90DB5", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Bomb Dance<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/015/FesSum010_01543#TEXT_FESSUM010_01543_SYSTEM_000_100", "hash": "F16EE3CB57A90DB5", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Dança da bomba<edgecolortype(0)><colortype(0)>!" }
   ]
 }

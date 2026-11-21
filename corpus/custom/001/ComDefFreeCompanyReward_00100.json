@@ -2,18 +2,18 @@
   "conversation": "custom/001/ComDefFreeCompanyReward_00100",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001", "hash": "80790A05C767764D", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q", "hash": "2000414CEBD8AEC1", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1", "hash": "9A07B568B5173709", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP", "hash": "C3F286382031E577", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2", "hash": "C55D0CD13FE8EA14", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3", "hash": "A63CBD1BF49DC430", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010", "hash": "9AB54D9105F5D2B3", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011", "hash": "674A720CC33626BC", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012", "hash": "D002BA92B4EDE766", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013", "hash": "603604ECB452C5E9", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014", "hash": "B0D6DE6A695D626E", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1", "hash": "209E1B8F03A861C6", "target": "" },
-    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3", "hash": "97FAA409B7E7B939", "target": "" }
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001", "hash": "80790A05C767764D", "target": "Saudações. Exerço a função de intendente da OIC a serviço <switch(lnum1,do Maelstrom,da Ordem das Duas Víboras,das Chamas Imortais)>. As Companhias Livres aliadas à nossa Grande Companhia podem adquirir comigo diversos encantamentos e itens que beneficiam seus membros." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q", "hash": "2000414CEBD8AEC1", "target": "O que deseja?" },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1", "hash": "9A07B568B5173709", "target": "Gastar créditos da companhia (ações)." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP", "hash": "C3F286382031E577", "target": "Gastar créditos da companhia (itens)." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2", "hash": "C55D0CD13FE8EA14", "target": "Saber mais sobre os créditos da companhia." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3", "hash": "A63CBD1BF49DC430", "target": "Nada." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010", "hash": "9AB54D9105F5D2B3", "target": "Os créditos são a moeda que as Companhias Livres usam no lugar do Gil ou dos selos de companhia." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011", "hash": "674A720CC33626BC", "target": "Os membros ganham créditos ao realizar atividades em nome da companhia." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012", "hash": "D002BA92B4EDE766", "target": "Você pode trocar os créditos por vários itens com um oficial da Grande Companhia à qual a sua Companhia Livre é aliada." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013", "hash": "603604ECB452C5E9", "target": "Para fazer essas trocas, a Companhia Livre precisa receber autorização da Grande Companhia à qual se aliou." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014", "hash": "B0D6DE6A695D626E", "target": "Quem ocupa o cargo de mestre da sua companhia também precisa autorizar você a gastar os créditos." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1", "hash": "209E1B8F03A861C6", "target": "Já pensou em entrar em uma Companhia Livre? Se me permite uma sugestão, experimente. Um mundo novo vai se abrir para você." },
+    { "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3", "hash": "97FAA409B7E7B939", "target": "Parece que a sua Companhia Livre é aliada de outra Grande Companhia. Receio que não possa atender você." }
   ]
 }

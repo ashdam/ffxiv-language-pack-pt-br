@@ -2,11 +2,11 @@
   "conversation": "custom/005/CtsDkbCharacter1Sub1_00572",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_001", "hash": "A434EF4744C12CBA", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_050", "hash": "149D23237C83E76D", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_100", "hash": "8087A9CE940831D5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_100_100", "hash": "70B7C4B2FC56D9E2", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_150", "hash": "62BE0AC417BA6A0C", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_200", "hash": "C32BEF4E84ECDEDE", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_001", "hash": "A434EF4744C12CBA", "target": "Nunca me ocorreu forjar nada de metal pros Zun. Sempre pareceram um povo mais de “osso e couro”..." },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_050", "hash": "149D23237C83E76D", "target": "Eu já estava quase esquecendo como era sentir o peso das moedas no bolso..." },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_100", "hash": "8087A9CE940831D5", "target": "Com Iola de um lado e Colana do outro, estou me sentindo meio espremido. Se ao menos Rend estivesse aqui, ele aceitaria de bom grado segurar um pouco da bronca." },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_100_100", "hash": "70B7C4B2FC56D9E2", "target": "Mesmo com Rend de volta, ainda sou eu que fico com o lado pesado do martelo. É, não tinha muito por que ter esperança..." },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_150", "hash": "62BE0AC417BA6A0C", "target": "Você é uma inspiração, <split(<string(gstr1)>, ,1)>. Posso não ter sua imaginação, mas vou dar o máximo pra fazer essa mercadoria nova dar certo!" },
+    { "gameKey": "custom/005/CtsDkbCharacter1Sub1_00572#TEXT_CTSDKBCHARACTER1SUB1_00572_EISMON_000_200", "hash": "C32BEF4E84ECDEDE", "target": "Certo, alguma coisa nova, alguma coisa nova... Não consigo pensar em nada." }
   ]
 }

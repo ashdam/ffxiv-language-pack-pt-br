@@ -2,15 +2,15 @@
   "conversation": "custom/005/CtsDkbCharacter3Sub2_00577",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000", "hash": "1A4D6FCB8EF4A5CF", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_050", "hash": "359D0032FC6FE625", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_100", "hash": "EE3727E6AEE9BFA8", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_150", "hash": "D2A182D38C79B83F", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_200", "hash": "DB9B7388DB796359", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_220", "hash": "6A712B34001CC7B5", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_250", "hash": "5E5393AD175E6BF7", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_300", "hash": "27D87262921D19E1", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_320", "hash": "A2C54F9DBBB3D186", "target": "" },
-    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_350", "hash": "202E265C112EC94A", "target": "" }
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_000", "hash": "1A4D6FCB8EF4A5CF", "target": "Que cena triste. Ele mal consegue respirar. Fizemos tudo que podíamos por ele, mas, sem um antídoto... Depressa, por favor." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_050", "hash": "359D0032FC6FE625", "target": "Já demos o antídoto. Agora só podemos esperar." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_100", "hash": "EE3727E6AEE9BFA8", "target": "O veneno saiu do organismo dele. Nem quero pensar no que teria acontecido se você não estivesse aqui." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_150", "hash": "D2A182D38C79B83F", "target": "Skip está se recuperando mais depressa do que eu ousava esperar. Veja, já consegue se pôr de pé sozinho." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_200", "hash": "DB9B7388DB796359", "target": "Veio ver Skip? Ultimamente, ele anda muito animado." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_220", "hash": "6A712B34001CC7B5", "target": "Skip está quase totalmente recuperado e, pelo que dizem, muito animado. Parece ficar ainda mais quando você vem visitar." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_250", "hash": "5E5393AD175E6BF7", "target": "Disseram-me que pretendia levar Skip a Wolekdorf, mas, como pode ver, ele ainda está aqui. Bethric mudou de ideia?" },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_300", "hash": "27D87262921D19E1", "target": "Já ouvi histórias de amaro que falavam nossa língua, mas ter um aqui nos nossos estábulos..." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_320", "hash": "A2C54F9DBBB3D186", "target": "Ainda bem que Skip pode dizer o que quer com as próprias palavras." },
+    { "gameKey": "custom/005/CtsDkbCharacter3Sub2_00577#TEXT_CTSDKBCHARACTER3SUB2_00577_KNEMCHELEIMIN_000_350", "hash": "202E265C112EC94A", "target": "Em nome de todos aqui no Ninhal de Temenos, agradeço. Você fez mais por nós e pelos amaro do que pode imaginar." }
   ]
 }

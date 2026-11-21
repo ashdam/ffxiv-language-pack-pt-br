@@ -2,11 +2,11 @@
   "conversation": "custom/002/CmnGscChocoboRaceGetFoal_00236",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "" },
-    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "" }
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_TALK_ACTOR", "hash": "71002DFD7D904529", "target": "Veio buscar um filhote? Preciso ver o Proof of Covering..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_001_01", "hash": "AF25EB93A4BA9C83", "target": "Ora, ora! Já vejo que alguém está pronto para correr! Aqui está o formulário de registro do seu filhote. O resto é com você." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_01", "hash": "FAD301429D9C7148", "target": "Como é? Sem o Proof of Covering? \\<suspiro> O que eu acabei de dizer?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_001_02", "hash": "68EF8C89B94928B4", "target": "Para retirar seu filhote recém-nascido, apresente o Proof of Covering a Katering." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_01", "hash": "2ADB1215095D20C2", "target": "Alguém aqui parece ansioso demais. Essas coisas levam tempo, caso tenha esquecido." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetFoal_00236#TEXT_CMNGSCCHOCOBORACEGETFOAL_00236_ERROR_002_02", "hash": "E180FC9F67621A3D", "target": "Você só pode retirar seu filhote a partir da data indicada no Proof of Covering." }
   ]
 }

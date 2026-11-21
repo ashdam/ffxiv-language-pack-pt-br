@@ -2,11 +2,11 @@
   "conversation": "custom/003/FesSum2016_00347",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_000", "hash": "67B32EED2D432D92", "target": "" },
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_010", "hash": "67CF20F2F9305E69", "target": "" },
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_Q1_000_000", "hash": "FE6B1B1E36823FFD", "target": "" },
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_A1_000_001", "hash": "071094AD2E72085D", "target": "" },
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_A1_000_002", "hash": "7568FB6D667E2AEF", "target": "" },
-    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_020", "hash": "63A64EC87FA012BE", "target": "" }
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_000", "hash": "67B32EED2D432D92", "target": "Ora, se não é <string(gstr1)>! Você deve nem lembrar de mim, mas eu lembro de você! Sim, nunca vou esquecer o rosto <if(gnum4,da mulher,do homem)> que me ajudou a dar a volta por cima! Mas chega desse papo!" },
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_010", "hash": "67CF20F2F9305E69", "target": "É por aqui que o pessoal anda vendo aqueles malditos Bombards. Trouxe meus elbsts pra ajudar os aventureiros e o pessoal da guilda que quer acabar com esses bichos incendiários. Sorte sua, hein?" },
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_Q1_000_000", "hash": "FE6B1B1E36823FFD", "target": "Montar num elbst?" },
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_A1_000_001", "hash": "071094AD2E72085D", "target": "Sim" },
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_A1_000_002", "hash": "7568FB6D667E2AEF", "target": "Não" },
+    { "gameKey": "custom/003/FesSum2016_00347#TEXT_FESSUM2016_00347_WUNTHYLL_000_020", "hash": "63A64EC87FA012BE", "target": "Ela não fez seu tipo? Que pena. Deixa eu ver se acho uma que combine melhor com você!" }
   ]
 }

@@ -2,16 +2,16 @@
   "conversation": "custom/004/CtsErkEureka1LotteryExchangeShop_00449",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_000", "hash": "212CA062555EFFF3", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_110_000", "hash": "4AEC159ADFAC89C5", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_000", "hash": "02663E3E75783BCA", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_Q1_000_000", "hash": "3FB8F94BF49BADE4", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_001", "hash": "59CEAA56B5EE1A42", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_002", "hash": "2CFAA2BDA0809339", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_003", "hash": "90F5A7263B65E8C8", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_010", "hash": "9C4AC0FDB09545F2", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_010", "hash": "7BD8A525D37FE4AB", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_011", "hash": "AD2AA1E5C96BE9FC", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_012", "hash": "9ADDAA0EE2F53EFC", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_000", "hash": "212CA062555EFFF3", "target": "Que bela ideia embarcar num navio da companhia pro outro lado do mundo. Não vai ser fácil ganhar a vida aqui..." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_110_000", "hash": "4AEC159ADFAC89C5", "target": "Você também tá na segunda expedição? Eu também! No fim das contas, Hancock tinha trabalho pra mim. Dá pra comer e ainda sobra pra passear por Kogane Dori várias vezes por semana!" },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_000", "hash": "02663E3E75783BCA", "target": "Foi você que chamaram por ser tão bom de serviço, né? Agora não posso ajudar. Ainda tô ajeitando minhas coisas..." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_Q1_000_000", "hash": "3FB8F94BF49BADE4", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_001", "hash": "59CEAA56B5EE1A42", "target": "Abrir caixas trancadas." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_002", "hash": "2CFAA2BDA0809339", "target": "Perguntar sobre as caixas trancadas." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_A1_000_003", "hash": "90F5A7263B65E8C8", "target": "Nada." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_RGHONATI_100_010", "hash": "9C4AC0FDB09545F2", "target": "Hã. Que pergunta estranha. São caixas com fechaduras. Se quiser o que tem dentro, traga as caixas pra mim que eu abro." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_EXS00449_000_010", "hash": "7BD8A525D37FE4AB", "target": "É simples. Se achar caixas trancadas enquanto explora Eureka, tenho as ferramentas e sei abrir. É só pedir." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_011", "hash": "AD2AA1E5C96BE9FC", "target": "As caixas trancadas obtidas na terra proibida de Eureka, podem ser abertas pelas chaveiras da expedição nos acampamentos ou por R'ghonati em Kugane." },
+    { "gameKey": "custom/004/CtsErkEureka1LotteryExchangeShop_00449#TEXT_CTSERKEUREKA1LOTTERYEXCHANGESHOP_00449_SYSTEM_000_012", "hash": "9ADDAA0EE2F53EFC", "target": "As caixas trancadas podem conter vários itens, entre eles montarias, mascotes e materia." }
   ]
 }

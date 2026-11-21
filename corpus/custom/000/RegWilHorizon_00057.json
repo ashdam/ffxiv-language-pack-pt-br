@@ -2,17 +2,17 @@
   "conversation": "custom/000/RegWilHorizon_00057",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_000", "hash": "D2494CAF3EACD3AC", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000Q", "hash": "F853F79EA09C6DC4", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A1", "hash": "CED1EF67C964841A", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A2", "hash": "7D34787D74DA2A33", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A3", "hash": "40358B57CD37F6C1", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_010", "hash": "A527E5B5675CFD20", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_011", "hash": "0C4E0A4B152B9657", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_012", "hash": "DFDDF71E3437D6E1", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_020", "hash": "4B8EC24F7E4E5431", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_021", "hash": "C7CDD6DF94F71C71", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_022", "hash": "0E487026985312B9", "target": "" },
-    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_023", "hash": "92BF1A184BEB55BE", "target": "" }
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_000", "hash": "D2494CAF3EACD3AC", "target": "Perdeu o rumo? Se quiser saber de alguma coisa, é só perguntar." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000Q", "hash": "F853F79EA09C6DC4", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A1", "hash": "CED1EF67C964841A", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A2", "hash": "7D34787D74DA2A33", "target": "Que tipo de lugar é Horizonte?" },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_SCENE00000A3", "hash": "40358B57CD37F6C1", "target": "Nada." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_010", "hash": "A527E5B5675CFD20", "target": "Sirvo e protejo, claro! As Lâminas de Latão da Rosa mantêm a ordem aqui em Horizonte." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_011", "hash": "0C4E0A4B152B9657", "target": "Garantimos que os mercadores possam fazer negócios em segurança. Eles pagam bem por nossas espadas." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_012", "hash": "DFDDF71E3437D6E1", "target": "A gente ganha dinheiro, e os mercadores ficam a salvo. Todo mundo sai ganhando." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_020", "hash": "4B8EC24F7E4E5431", "target": "É movimentado pra danar, isso sim! Tudo que vai de Ul'dah à Baía das Vésperas ou volta de lá passa por Horizonte. Toda carga embarcada ou desembarcada no cais vem parar aqui." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_021", "hash": "C7CDD6DF94F71C71", "target": "É por causa desse fluxo constante de mercadorias que os mercadores mandaram instalar aquela geringonça no Portão do Pôr do Sol. Subir e descer aquela rampa com carga é de quebrar as costas." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_022", "hash": "0E487026985312B9", "target": "Pois é, com todo esse comércio, Horizonte prosperou bastante com o passar dos anos. Isso atraiu muita gente, e nem todo mundo veio com boas intenções." },
+    { "gameKey": "custom/000/RegWilHorizon_00057#TEXT_REGWILHORIZON_00057_GISELBERDUS_023", "hash": "92BF1A184BEB55BE", "target": "É por isso que <italic(1)>nós<italic(0)> estamos aqui, <if(gnum4,aventureira,aventureiro)>. Sem nós, este povoado já teria sido saqueado há tempos." }
   ]
 }

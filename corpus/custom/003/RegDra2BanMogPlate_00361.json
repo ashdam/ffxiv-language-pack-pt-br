@@ -2,10 +2,10 @@
   "conversation": "custom/003/RegDra2BanMogPlate_00361",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_Q1_000_000", "hash": "F3CB6CCF031EEA1C", "target": "" },
-    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_000", "hash": "2F0B3CCCE1CB4061", "target": "" },
-    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_001", "hash": "C07DC205EDEDC6A3", "target": "" },
-    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000", "hash": "F568CC9296C54B8D", "target": "" },
-    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000", "hash": "B0CDA9D7F7843288", "target": "" }
+    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_Q1_000_000", "hash": "F3CB6CCF031EEA1C", "target": "Ler a inscrição?" },
+    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_000", "hash": "2F0B3CCCE1CB4061", "target": "Sim." },
+    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_A1_000_001", "hash": "C07DC205EDEDC6A3", "target": "Não." },
+    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_000_000", "hash": "F568CC9296C54B8D", "target": "(-Placa gravada-)<italic(1)>União e fraternidade, agora e para sempre.<italic(0)>" },
+    { "gameKey": "custom/003/RegDra2BanMogPlate_00361#TEXT_REGDRA2BANMOGPLATE_00361_VIEWTHEPLATE00361_100_000", "hash": "B0CDA9D7F7843288", "target": "(-Placa gravada-)<italic(1)>Mogzin, <string(gstr1)><br>Tarresson de Dzemael, Ohl Deeh<br>Marinche de Faurechort, Moggon, Gullinbursti<italic(0)>" }
   ]
 }

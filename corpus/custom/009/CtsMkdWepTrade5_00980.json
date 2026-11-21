@@ -2,16 +2,16 @@
   "conversation": "custom/009/CtsMkdWepTrade5_00980",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "" },
-    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "" }
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_000", "hash": "49E2CF9462D377BB", "target": "Como antes, você precisa primeiro indicar que qualidades deseja no armamento." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_001", "hash": "7C9641D708866AAE", "target": "Agora vou replicar as memórias marciais e fundi-las à sua arma fantasma..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_002", "hash": "FCAEA12FAF7D99F1", "target": "Ah, muito promissor..." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_BRIGID_000_003", "hash": "8A34826B8525F234", "target": "Tcharam! Meu trabalho está pronto!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_004", "hash": "638B8FD18AB0CC64", "target": "As memórias vívidas de um mestre no calor da batalha, unidas ao melhor trabalho artesanal deste maldito reino... E nem um pingo de magia ilusória pra limitar seu potencial!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_005", "hash": "05DADD37FDD00D1D", "target": "Seu armamento, <ennoun(Item,3,lnum1,1,1)>, é a própria perfeição da arte da guerra!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_006", "hash": "CE82C0BAAB76F942", "target": "Seu armamento, <ennoun(Item,3,lnum1,1,1)> e <ennoun(Item,3,lnum2,1,1)>, é a própria perfeição da arte da guerra!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_007", "hash": "EEB4D36F6F6D8170", "target": "Não tem muito mais que possamos fazer aqui na forja. É hora de levar sua arma lá pra fora e criar novas memórias de combate!" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_GEROLT_000_008", "hash": "2CBCD2D693C2697B", "target": "Ah, se quiser mexer nela de novo, vai custar um chunk of ecliptic arcanite. Entendeu?" },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_100_008", "hash": "BD989682396C4588", "target": "Fale com Brigid na Vila Fantasma se quiser reajustar os atributos da sua arma fantasma." },
+    { "gameKey": "custom/009/CtsMkdWepTrade5_00980#TEXT_CTSMKDWEPTRADE5_00980_SYSTEM_000_009", "hash": "F8BA11397397B924", "target": "Os chunks of ecliptic arcanite necessários para o reajuste podem ser obtidos com Ermina, que também está na Vila Fantasma." }
   ]
 }

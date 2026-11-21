@@ -2,12 +2,12 @@
   "conversation": "custom/000/CmnDefWarpNpc_00026",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "" },
-    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "" }
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR0", "hash": "662FF2FD7F516737", "target": "Estou de partida para o Píer da Flor Doce, na Mortalha Leste, do outro lado do lago." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_TALK_ACTOR1", "hash": "8432CBB78057EA4B", "target": "Estava mesmo de partida para Velha Gridania." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_QUESTION", "hash": "2F186051F4043A4F", "target": "Embarcar na balsa?" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_YES", "hash": "A3471A7FFDCB3A36", "target": "Sim" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_YESNO_NO", "hash": "492F0F925342FB99", "target": "Não" },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK", "hash": "C1BDB577375B2AD3", "target": "Faço a travessia até o Píer da Flor Doce desde antes da Calamidade. Lembro de quando a Mortalha Leste era um lugar calmo e sossegado. Hoje, está infestada de todo tipo de criatura terrível." },
+    { "gameKey": "custom/000/CmnDefWarpNpc_00026#TEXT_CMNDEFWARPNPC_00026_LOCK2", "hash": "581F54046369D4E2", "target": "Eu não conseguiria dormir se deixasse <if(gnum4,uma pobre moça,um pobre rapaz)> do outro lado do lago para acabar nas presas de algum javali faminto. Que tal ganhar um pouco mais de experiência? Aí a gente conversa sobre a travessia." }
   ]
 }

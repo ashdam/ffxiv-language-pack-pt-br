@@ -2,16 +2,16 @@
   "conversation": "custom/005/RegNor4Wright_00592",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_000", "hash": "68D1A46D59692DB7", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_Q1_000_000", "hash": "86BD2937D75AE452", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_001", "hash": "68FB3EEB879B9EC3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_002", "hash": "487BB91D9667BFDD", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_003", "hash": "8B9CAAB4919C0214", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_010", "hash": "6E0AE03B48B3F2F0", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_011", "hash": "DD5C7BBEF9347838", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_012", "hash": "F37E64873E0595D0", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_020", "hash": "518E25DFFF61885F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_021", "hash": "69AB0E10D2890425", "target": "" },
-    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_022", "hash": "640E00FB8C72AEA5", "target": "" }
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_000", "hash": "68D1A46D59692DB7", "target": "Primeira vez em Artífice? Aqui tem trabalho de sobra, mas, pelo que vejo, pouca diversão." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_Q1_000_000", "hash": "86BD2937D75AE452", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_001", "hash": "68FB3EEB879B9EC3", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_002", "hash": "487BB91D9667BFDD", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_A1_000_003", "hash": "8B9CAAB4919C0214", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_010", "hash": "6E0AE03B48B3F2F0", "target": "Planto... ou pelo menos tento. O solo daqui não é fértil o bastante pra dar uma colheita decente." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_011", "hash": "DD5C7BBEF9347838", "target": "Mesmo assim, não vou fazer as malas pra Cidade do Portão tão cedo. O Dilúvio não deixou muita terra pra plantar, e eu que me dane se vou largar os terrenos que meus antepassados cultivaram ou as casas que defenderam com sangue." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_012", "hash": "F37E64873E0595D0", "target": "É, estamos fora da proteção de Eulmore, então temos que enfrentar os devoradores e tudo mais... Mas já tomei minha decisão." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_020", "hash": "518E25DFFF61885F", "target": "Bom, o nome da vila vem das famílias de artesãos que um dia fizeram daqui seu lar." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_021", "hash": "69AB0E10D2890425", "target": "Tá vendo os Estaleiros de Venmont logo ali? Os carpinteiros navais iam trabalhar lá de manhã e voltavam pra cá à noite. Dá pra imaginar a algazarra na taverna quando escurecia..." },
+    { "gameKey": "custom/005/RegNor4Wright_00592#TEXT_REGNOR4WRIGHT_00592_BEACHORR_000_022", "hash": "640E00FB8C72AEA5", "target": "A necessidade de navios grandes, capazes de cruzar o mar, pode ter sumido com a chegada do Dilúvio, mas ainda tem quem mantenha o antigo ofício. Mesmo que ninguém queira encomendar um navio, a técnica serve pra desmontar o que restou." }
   ]
 }

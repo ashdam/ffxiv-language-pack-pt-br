@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory4_00895",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_000", "hash": "8E216670F48F9E43", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_010", "hash": "92AEFE4EB35DAAB6", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_011", "hash": "C05563E9A0EE24EA", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_012", "hash": "EFE7FE9B10D5D0D9", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_000", "hash": "8E216670F48F9E43", "target": "O painel traz informações sobre a história dos Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_010", "hash": "92AEFE4EB35DAAB6", "target": "(-Capítulo IV-)Estimados por sua excelência no estudo do electrope, os Milalla gozaram do favor dos governantes de muitas nações." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_011", "hash": "C05563E9A0EE24EA", "target": "(-Capítulo IV-)Alguns tentaram invocar o poder da antiga relíquia para voltar à terra natal, mas seus esforços foram em vão. Nunca mais se abriu o caminho dourado que permitiu a seus antepassados fugir para um lugar seguro." },
+    { "gameKey": "custom/008/RegUlwHistory4_00895#TEXT_REGULWHISTORY4_00895_SYSTEM_000_012", "hash": "EFE7FE9B10D5D0D9", "target": "(-Capítulo IV-)Por fim, a relíquia caiu no esquecimento. Hoje há quem duvide que um dia tenha existido." }
   ]
 }

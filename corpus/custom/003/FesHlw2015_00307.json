@@ -2,17 +2,17 @@
   "conversation": "custom/003/FesHlw2015_00307",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_TALK_ACTOR", "hash": "DC66A636062C49C5", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_Q1_000_000", "hash": "59AD89BC4DCD11BA", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_001", "hash": "8B68077B29FA661F", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_002", "hash": "C8962FEF43747E72", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_003", "hash": "C3AF5ED66B1938F1", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_010", "hash": "1B05895D801275DC", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_011", "hash": "4AAA09470EECB7CE", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_012", "hash": "96C6E96DDED12DD5", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_020", "hash": "D67BB7819F620759", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_021", "hash": "9E283BAE9C4BB411", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_022", "hash": "20121477EA8951AE", "target": "" },
-    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_023", "hash": "0E176E41DA99F240", "target": "" }
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_TALK_ACTOR", "hash": "DC66A636062C49C5", "target": "Olá, aboborinha! Espero que esteja curtindo a festa. Se quiser saber alguma coisa, é só perguntar!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_Q1_000_000", "hash": "59AD89BC4DCD11BA", "target": "Sobre o que você vai perguntar?" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_001", "hash": "8B68077B29FA661F", "target": "O Circo Continental." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_002", "hash": "C8962FEF43747E72", "target": "A Vigília de Todos os Santos." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_A1_000_003", "hash": "C3AF5ED66B1938F1", "target": "Nada." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_010", "hash": "1B05895D801275DC", "target": "Como o nome diz, somos uma trupe de artistas que viaja por todo o reino. Nossa missão é transformar caras fechadas em sorrisos!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_011", "hash": "4AAA09470EECB7CE", "target": "Nesta época do ano, costumamos visitar as três cidades<-->estado para ajudar o povo a celebrar a Vigília de Todos os Santos." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_012", "hash": "96C6E96DDED12DD5", "target": "Preparamos todo tipo de atração pra encantar e assustar ao mesmo tempo! Que tal dar uma folga às suas aventuras e entrar na festa?" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_020", "hash": "D67BB7819F620759", "target": "Diz a lenda que, uma vez por ano, os Doze homenageiam os santos com um banquete suntuoso nos céus. Na ausência dos santos, o reino fica sem sua proteção divina e as criaturas das trevas saem aos montes." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_021", "hash": "9E283BAE9C4BB411", "target": "Com medo de morrer, as pessoas começaram a se trancar em casa. Quem precisava sair se disfarçava de monstro, na esperança de passar sem ser visto pelos monstros de verdade." },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_022", "hash": "20121477EA8951AE", "target": "Dá medo, não dá? Mas isso é coisa do passado. Hoje temos aventureiros valentes como você para proteger as cidades enquanto os santos estão fora!" },
+    { "gameKey": "custom/003/FesHlw2015_00307#TEXT_FESHLW2015_00307_HLW2015_000_023", "hash": "0E176E41DA99F240", "target": "Sem motivo para temer, o povo fez da Vigília de Todos os Santos uma festa divertida. Uma situação detestável... quero dizer, <italic(1)>deliciosa<italic(0)>!" }
   ]
 }

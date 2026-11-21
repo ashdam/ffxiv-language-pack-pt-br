@@ -2,11 +2,11 @@
   "conversation": "custom/009/FesHlwTransform_00946",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "" },
-    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "" }
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_000", "hash": "2123A2F280ACED0E", "target": "Tramando alguma coisa? Eu? Jamais! Sou só um diabrete que adora diversão e veio ajudar os foliões a curtir a Vigília! Posso arranjar um disfarce <italic(1)>bem<italic(0)> convincente para o baile de máscaras. Ehehehe..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_001", "hash": "17722CB1476D5964", "target": "Só preciso que se lembre de uma jornada, uma daquelas que jamais se esquecem. Percorra suas memórias e me diga o que, ou melhor, <italic(1)>quem<italic(0)> você vê..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_004", "hash": "A4D0CFD2E008B7A2", "target": "Ehehehe... Vai servir muito bem. Não se preocupe, não vai doer quase nada! Só feche os olhos..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_005", "hash": "72261E0CD1E10CBC", "target": "Para desfazer a transfiguração, use a ação “Unveil” ou cancele o efeito de status “Transfiguration”." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_TRANSFORMHLX2025_000_010", "hash": "A2D50424A9B4B629", "target": "Volte quando trouxer notícias do Empresário... Ou nem volte. Ehehehe..." },
+    { "gameKey": "custom/009/FesHlwTransform_00946#TEXT_FESHLWTRANSFORM_00946_SYSTEM_000_011", "hash": "A5D65F258EE34F65", "target": "O diabrete suspeito só oferece serviços de transfiguração durante a Vigília de Todos os Santos." }
   ]
 }

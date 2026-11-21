@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegYok6PanaqpeluRetreat_00869",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_000", "hash": "54D55C1C9BD71D55", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_001", "hash": "50344AB5ACC834B6", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_002", "hash": "9B15220B1876441F", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_003", "hash": "8B4F26CE2791619E", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_Q1_000_000", "hash": "294F602693562D73", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_001", "hash": "5C44FA988094EA8F", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_002", "hash": "040F392411E95095", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_003", "hash": "0A7DE578CFD1EE35", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_010", "hash": "16DD573DFCF5DF08", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_011", "hash": "77D6CC5CE23B45F9", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_020", "hash": "9DB53EBE46F8E0AA", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_021", "hash": "389E11DEE4F8CFF3", "target": "" },
-    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_022", "hash": "0BB03801A540982F", "target": "" }
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_000", "hash": "54D55C1C9BD71D55", "target": "Boas-vindas ao Retiro de Panaqpelu! Se quiser saber alguma coisa, pode perguntar à vontade!" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_001", "hash": "50344AB5ACC834B6", "target": "Todos nós aqui sentimos aquele tremor estranho mais cedo. Estamos investigando a possível causa, mas estou a postos para levar os visitantes a um lugar seguro se for preciso." },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_002", "hash": "9B15220B1876441F", "target": "Um dos hóspedes me contou que Valigarmanda estava causando estragos do outro lado das montanhas! Mesmo assim, ninguém deu muita atenção e continuaram aproveitando as fontes como se nada estivesse acontecendo..." },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_003", "hash": "8B4F26CE2791619E", "target": "Ouvi dizer que o rito de sucessão terminou e que um novo Voto da Determinação e um novo Voto da Razão subiram ao trono! Será que um dia eles visitam estas fontes? Se vierem, será uma honra contar a eles todos os benefícios das águas!" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_Q1_000_000", "hash": "294F602693562D73", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_001", "hash": "5C44FA988094EA8F", "target": "Quem é você?" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_002", "hash": "040F392411E95095", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_A1_000_003", "hash": "0A7DE578CFD1EE35", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_010", "hash": "16DD573DFCF5DF08", "target": "Me chamo Yuplu e ajudo os visitantes a conhecer tudo o que temos a oferecer. Meu irmão Cavli está logo ali, mais acima na encosta. Se ficar tempo suficiente, com certeza vai ver o resto da minha família ajudando o pessoal por aqui." },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_011", "hash": "77D6CC5CE23B45F9", "target": "Costumo conversar com os hóspedes sobre os benefícios das águas termais e a história das fontes. Espero que um dia possamos conversar sobre isso também!" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_020", "hash": "9DB53EBE46F8E0AA", "target": "O Retiro de Panaqpelu é onde viajantes e comerciantes de terras distantes vêm aliviar as dores da viagem. Qualquer visitante pode aproveitar de graça estas fontes termais naturais." },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_021", "hash": "389E11DEE4F8CFF3", "target": "Caso esteja se perguntando como podemos bancar isso, ganhamos pel suficiente com as lembranças que vendemos e as refeições que servimos. Assim, fazemos um agrado aos clientes e eles retribuem. Um bom acordo para os dois lados, não acha?" },
+    { "gameKey": "custom/008/RegYok6PanaqpeluRetreat_00869#TEXT_REGYOK6PANAQPELURETREAT_00869_YUPLU_000_022", "hash": "0BB03801A540982F", "target": "Todo mundo ficou um pouco apreensivo depois daquele tremor estranho. Talvez eu deva ir a Wachunpelo descobrir o que o causou..." }
   ]
 }

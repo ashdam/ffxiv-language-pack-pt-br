@@ -2,15 +2,15 @@
   "conversation": "custom/001/RegSeaCampSkullValley_00119",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "" },
-    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "" }
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_000", "hash": "E5695C00C01B3C99", "target": "<if(gnum4,Aventureira,Aventureiro)>! <if(gnum4,Senhora,Senhor)>! Em que posso ajudar?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_010", "hash": "F390EBDF11ABA027", "target": "Eu, <if(gnum4,senhora,senhor)>? Sou responsável pela segurança desta base, <if(gnum4,senhora,senhor)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_011", "hash": "93EC63DCBD821C72", "target": "Faz só um ano que assumi este posto, mas pretendo defender o Vale da Caveira com a minha vida, <if(gnum4,senhora,senhor)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_020", "hash": "3DBDFF81988A9B85", "target": "Permita-me explicar, <if(gnum4,senhora,senhor)>! O Vale da Caveira é um acampamento criado para impedir incursões dos sahagins. No início, os confrontos com aqueles peixes não passavam de pequenas escaramuças, mas eles começaram a nos atacar em maior número." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_021", "hash": "578A5B6D826ED24F", "target": "Por isso, ampliamos e reforçamos as instalações para abrigar mais tropas do Maelstrom." },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_AHTMHAS_000_022", "hash": "A9F6F4DF9E572A61", "target": "Seria uma honra contar com sua ajuda nas muitas tarefas necessárias para manter o Vale da Caveira e, por consequência, Limsa Lominsa a salvo dos sahagins, <if(gnum4,senhora,senhor)>!" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_Q1_000_000", "hash": "ADC3D869D59F11B0", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_001", "hash": "B4E23FEBA3AB8D50", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_002", "hash": "7D53106767234B39", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegSeaCampSkullValley_00119#TEXT_REGSEACAMPSKULLVALLEY_00119_A1_000_003", "hash": "B685D0ECABB2CF16", "target": "Nada." }
   ]
 }

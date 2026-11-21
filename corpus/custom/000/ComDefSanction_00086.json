@@ -2,16 +2,16 @@
   "conversation": "custom/000/ComDefSanction_00086",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "" },
-    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "" }
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_001", "hash": "21C4A28ADB87F422", "target": "Sou responsável por conceder a sanção aos membros da nossa Grande Companhia. Como você não faz parte dela, temo que não possa usar este serviço." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_006", "hash": "E601D4DB1C773311", "target": "Sou responsável por conceder o efeito Sanction a quem tem patente de <switch(lnum1,Sargento-Chefe da Tempestade,Sargento-Chefe da Serpente,Sargento-Chefe das Chamas)> ou superior. Em que posso ajudar hoje?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_Q00", "hash": "5582CA84D1C16F0F", "target": "O que você quer fazer?" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A01", "hash": "8A532C559564A174", "target": "Receber Sanction." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A02", "hash": "475E3E04123705EB", "target": "Perguntar sobre a sanção." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_A03", "hash": "3E9C7ADC5123FD55", "target": "Nada." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_011", "hash": "B9E7B8E4F94A6705", "target": "Ouvi-me, ó Sábio Construtor! Concedei Vosso favor divino a esta alma que Vos serve com devoção!" },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_012", "hash": "F046F1ECB0EF14E9", "target": "Está feito. Você recebeu a sanção da nossa Grande Companhia. Rezo pelo seu sucesso em campo." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_016", "hash": "7C512FE3FB605AA8", "target": "Para oferecer equipamentos melhores às nossas tropas, os melhores especialistas <switch(lnum1,do Maelstrom,da Ordem das Duas Víboras,das Chamas Imortais)> e da Aliança Eorzeana se uniram para desenvolver uma técnica avançada de aprimoramento." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_017", "hash": "4670EABC6BB1D10C", "target": "O resultado é a “sanção”. O processo consiste em lançar um entre vários feitiços de aprimoramento sobre equipamentos feitos para receber encantamentos." },
+    { "gameKey": "custom/000/ComDefSanction_00086#TEXT_COMDEFSANCTION_00086_FLAMEMAGE_018", "hash": "226705FC92B9D302", "target": "<switch(lnum1,O Maelstrom destinou,A Ordem das Duas Víboras destinou,As Chamas Imortais destinaram)> mais recursos recentemente à fabricação dessas armas e armaduras. Quem tem patente de <switch(lnum1,Sargento-Chefe da Tempestade,Sargento-Chefe da Serpente,Sargento-Chefe das Chamas)> ou superior pode trocar selos da companhia por equipamentos próprios para receber a sanção." }
   ]
 }

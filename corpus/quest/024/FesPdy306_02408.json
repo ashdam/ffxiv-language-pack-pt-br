@@ -26,6 +26,6 @@
     { "gameKey": "quest/024/FesPdy306_02408#TEXT_FESPDY306_02408_BUTLER_000_023", "hash": "49C5398B8FF7F9FD", "target": "E, caso esteja se perguntando, Redolent Rose teve a gentileza de criar uma versão masculina do traje, para que os cavalheiros de toda Eorzea também possam festejar como as damas!" },
     { "gameKey": "quest/024/FesPdy306_02408#TEXT_FESPDY306_02408_BUTLER_000_024", "hash": "2FBA982A4A065752", "target": "Se, por algum motivo, seus vales acabarem, você sempre poderá comprar os artigos que lhe agradarem da maneira tradicional. Com Gil, é claro!" },
     { "gameKey": "quest/024/FesPdy306_02408#TEXT_FESPDY306_02408_BUTLER_000_025", "hash": "793023C267A811A8", "target": "Obrigado mais uma vez, <split(<string(gstr1)>, ,1)>! Agora, por favor, aproveite o que resta desta época tão alegre. Você fez por merecer! Ah, e não se esqueça: as Aves Canoras continuarão se apresentando durante todo o evento. Se precisar se animar, já sabe onde encontrá-las!" },
-    { "gameKey": "quest/024/FesPdy306_02408#TEXT_FESPDY306_02408_SYSTEM_000_026", "hash": "B82BF735C06C4AB7", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Songbird<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/024/FesPdy306_02408#TEXT_FESPDY306_02408_SYSTEM_000_026", "hash": "B82BF735C06C4AB7", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Pose das Aves Canoras<edgecolortype(0)><colortype(0)>!" }
   ]
 }

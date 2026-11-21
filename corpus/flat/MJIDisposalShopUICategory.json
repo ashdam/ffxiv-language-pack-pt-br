@@ -2,9 +2,9 @@
   "sheet": "MJIDisposalShopUICategory",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "MJIDisposalShopUICategory#0", "hash": "4190E2FFA5607392", "target": "" },
-    { "gameKey": "MJIDisposalShopUICategory#1", "hash": "873FB0193E6C068C", "target": "" },
-    { "gameKey": "MJIDisposalShopUICategory#2", "hash": "DBD1FDC56C191036", "target": "" },
-    { "gameKey": "MJIDisposalShopUICategory#3", "hash": "5B98214571100EB5", "target": "" }
+    { "gameKey": "MJIDisposalShopUICategory#0", "hash": "4190E2FFA5607392", "target": "Materiais" },
+    { "gameKey": "MJIDisposalShopUICategory#1", "hash": "873FB0193E6C068C", "target": "Materiais raros" },
+    { "gameKey": "MJIDisposalShopUICategory#2", "hash": "DBD1FDC56C191036", "target": "Produtos agrícolas" },
+    { "gameKey": "MJIDisposalShopUICategory#3", "hash": "5B98214571100EB5", "target": "Produtos de animais" }
   ]
 }

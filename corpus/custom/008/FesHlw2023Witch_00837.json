@@ -2,18 +2,18 @@
   "conversation": "custom/008/FesHlw2023Witch_00837",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_000", "hash": "3E20B8C300B3D59D", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_Q1_000_000", "hash": "4378C67E950D8832", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_001", "hash": "41A1CEB1278A8162", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_002", "hash": "C0530278B127AE6F", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_003", "hash": "95B4FE42B351253D", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_004", "hash": "CFFDA2C049A81131", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_010", "hash": "4140E92FB8C4C693", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_020", "hash": "660227D7129C8AF0", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_021", "hash": "207BEB5C52F3D846", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_030", "hash": "01319E8E489E6C87", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_031", "hash": "37405DBA583B76AF", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_032", "hash": "6981ECEC578DC41A", "target": "" },
-    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_033", "hash": "8CCAD9856DD5B9C5", "target": "" }
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_000", "hash": "3E20B8C300B3D59D", "target": "Quer conversar? ...Muito bem, o que deseja saber?" },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_Q1_000_000", "hash": "4378C67E950D8832", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_001", "hash": "41A1CEB1278A8162", "target": "Que lugar é este?" },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_002", "hash": "C0530278B127AE6F", "target": "Quem é você?" },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_003", "hash": "95B4FE42B351253D", "target": "O que exatamente você faz?" },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_A1_000_004", "hash": "CFFDA2C049A81131", "target": "Nada." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_010", "hash": "4140E92FB8C4C693", "target": "Sua memória é tão breve quanto sua vida, criança? Como já lhe disse, este é o meu lar. Você pode entrar e sair à vontade." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_020", "hash": "660227D7129C8AF0", "target": "Ainda precisa perguntar? Minha cabeça não está aqui só de enfeite. Sou o ser demoníaco temido e venerado desde tempos imemoriais. A Grande Abóbora, que outrora liderou legiões das trevas..." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_021", "hash": "207BEB5C52F3D846", "target": "...Na verdade, esse é apenas um título que as pessoas do meu círculo carregam. A cada geração, o conhecimento de como controlar os habitantes do vazio é transmitido junto com esse nome." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_030", "hash": "01319E8E489E6C87", "target": "Eu vigio. Outrora, meus ancestrais submeteram as criaturas do vazio à sua vontade para fazer guerra. Assim causaram um dano irreparável ao mundo." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_031", "hash": "37405DBA583B76AF", "target": "Arrependidos do que fizeram, juraram jamais voltar a tomar parte em tal tragédia. Vigiamos desde então. Nosso objetivo é poupar os servos das trevas e ensinar a eles que a paz é possível." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_032", "hash": "6981ECEC578DC41A", "target": "Mas já falei demais. Não imaginava que receber uma visita pudesse ser tão empolgante... He, he, he." },
+    { "gameKey": "custom/008/FesHlw2023Witch_00837#TEXT_FESHLW2023WITCH_00837_PUMPKIN_000_033", "hash": "8CCAD9856DD5B9C5", "target": "...Sinto que você também firmou um pacto com uma criatura do vazio. Tome muito cuidado, criança. Se baixar a guarda por um só instante, quem serve passará a mandar." }
   ]
 }

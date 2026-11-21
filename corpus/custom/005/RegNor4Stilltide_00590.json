@@ -2,16 +2,16 @@
   "conversation": "custom/005/RegNor4Stilltide_00590",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_000", "hash": "0A7B3E97C9046D4D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_Q1_000_000", "hash": "752F50D8D2FE2CB3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_001", "hash": "00705A8098654E6E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_002", "hash": "62992FDDA201BC76", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_003", "hash": "030AF409527C8EC3", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_010", "hash": "1A69489D0496A083", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_011", "hash": "34DCC4DAFFEF413F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_012", "hash": "E348CE8EF3F49C6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_020", "hash": "27D9CED77D5019A1", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_021", "hash": "A3BD676C17173F6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_022", "hash": "3CE6E6F757ECD1C1", "target": "" }
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_000", "hash": "0A7B3E97C9046D4D", "target": "Saudações. Veio pra ficar ou só tá de passagem?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_Q1_000_000", "hash": "752F50D8D2FE2CB3", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_001", "hash": "00705A8098654E6E", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_002", "hash": "62992FDDA201BC76", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_A1_000_003", "hash": "030AF409527C8EC3", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_010", "hash": "1A69489D0496A083", "target": "Até pouco tempo, eu diria que sou pescador. Agora, pelo jeito, sou quem separa o pescado pros compradores de Eulmore." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_011", "hash": "34DCC4DAFFEF413F", "target": "Os cidadãos livres são um povo exigente, sabe? Pagam bem por qualquer peixe exótico que a gente pesque, embora não sobre muito lucro no fim das contas." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_012", "hash": "E348CE8EF3F49C6D", "target": "Antes do Dilúvio, imagino que tivéssemos o oceano inteiro pra lançar as redes... E hoje? Tem dia que mal dá pra encher a própria barriga. Mesmo assim, pretendo morar aqui até o dia em que morrer." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_020", "hash": "27D9CED77D5019A1", "target": "Bem, Maré Serena é basicamente um lugar pra onde os pescadores voltam. Um canto pra dormir e beber uma bebida ruim." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_021", "hash": "A3BD676C17173F6D", "target": "O nome vem de como o Dilúvio congelou os mares distantes e deixou as marés daqui bem lentas... pelo menos é o que me contaram." },
+    { "gameKey": "custom/005/RegNor4Stilltide_00590#TEXT_REGNOR4STILLTIDE_00590_ARNAR_000_022", "hash": "3CE6E6F757ECD1C1", "target": "Muita gente foi atrás dos seus sonhos na Cidade do Portão, na esperança de conseguir um lugar em Eulmore. O resto de nós prefere passar fome a se rebaixar e pedir esmola pra lordes e damas." }
   ]
 }

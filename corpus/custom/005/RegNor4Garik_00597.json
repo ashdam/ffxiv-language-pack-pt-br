@@ -2,18 +2,18 @@
   "conversation": "custom/005/RegNor4Garik_00597",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_000", "hash": "809073392835CB1C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_010", "hash": "CCF5201E02853C8A", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_020", "hash": "04A5429CB23B663D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_030", "hash": "887FA3B31EABE857", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_Q1_000_000", "hash": "ECA3C7358C97B410", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_001", "hash": "2BD6D1552A97DB9C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_002", "hash": "E4AEFA365B1E5A2E", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_003", "hash": "ED7C4CFA42F60FFA", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_100", "hash": "51426BA0047CC5FE", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_101", "hash": "EE9E279A18387679", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_200", "hash": "512D95B69FA22D6D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_201", "hash": "CBEA8CB851BE5361", "target": "" },
-    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_202", "hash": "405C9FC659E27C47", "target": "" }
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_000", "hash": "809073392835CB1C", "target": "Quer uns vermes de rocha? Gordinhos, suculentos e cheios de vida! Não? Em que mais posso ajudar?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_010", "hash": "CCF5201E02853C8A", "target": "Bem escuras, bem frescas, são as noites. Uma boa hora para viajar, mas também uma boa hora para predadores que comem carne!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_020", "hash": "04A5429CB23B663D", "target": "Com toda essa Luz, é mais fácil ver por onde se anda, é verdade. Ainda assim, ninguém precisa de <italic(1)>tanta<italic(0)> Luz, precisa? Ainda mais com Rhen Ren para dar bons conselhos!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_030", "hash": "887FA3B31EABE857", "target": "Luz e trevas, noite e dia. Tudo em perfeito equilíbrio! Vieram dias felizes, mas ainda é preciso tomar cuidado ao atravessar o deserto." },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_Q1_000_000", "hash": "ECA3C7358C97B410", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_001", "hash": "2BD6D1552A97DB9C", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_002", "hash": "E4AEFA365B1E5A2E", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_A1_000_003", "hash": "ED7C4CFA42F60FFA", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_100", "hash": "51426BA0047CC5FE", "target": "Sou o que chamamos de “Mord mediador” entre Entrelaço e a Justa Medida Cristalina. O Crystarium fica longe demais para a maioria dos mineiros, então compro suas gemas e minérios e revendo por mais!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_101", "hash": "EE9E279A18387679", "target": "Só vendo por caixote, então, se quiser itens avulsos, procure os outros comerciantes! Eles têm muitas mercadorias para viajantes como você!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_200", "hash": "512D95B69FA22D6D", "target": "Garik já foi uma vila mineradora. Até todos os mineiros se mudarem!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_201", "hash": "CBEA8CB851BE5361", "target": "Tiveram a gentileza de deixar suas casas para nós, Mord. E, como sempre dizemos, “quem não desperdiça não passa aperto”!" },
+    { "gameKey": "custom/005/RegNor4Garik_00597#TEXT_REGNOR4GARIK_00597_RHENREN_000_202", "hash": "405C9FC659E27C47", "target": "Como pode ver, não tem muita coisa por aqui, mas muita gente que vai ou vem do Crystarium passa para descansar ou usar o poço. É o mais perto que temos de um oásis!" }
   ]
 }

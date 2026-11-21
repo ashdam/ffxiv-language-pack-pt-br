@@ -2,15 +2,15 @@
   "conversation": "custom/007/RegNor4Unukalhai_00700",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_010", "hash": "FF3F7BA4ED1CD1C6", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_020", "hash": "2E2A39F449890794", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_021", "hash": "5EBC8828AB648888", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_022", "hash": "973A1F5572C800D5", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_023", "hash": "6A6A1DD9EB73356A", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_024", "hash": "9465D80383D7F2E1", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_030", "hash": "C3EF9A1B7AAE8701", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_031", "hash": "A3EB48BC846143C4", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_032", "hash": "99BBB5A9549DFAD9", "target": "" },
-    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_033", "hash": "3C60168A2916BB1E", "target": "" }
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_010", "hash": "FF3F7BA4ED1CD1C6", "target": "Sem dúvida, posso aprender muito trabalhando como caçador de recompensas, principalmente com Taynor como guia." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_020", "hash": "2E2A39F449890794", "target": "Como? Com nossos métodos, mal conseguimos manter um vínculo tênue com o Décimo Terceiro... e você diz que foi até lá?! Incrível..." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_021", "hash": "5EBC8828AB648888", "target": "A Arconte Y'shtola deve ter se empenhado tanto para desvendar os segredos da travessia entre mundos. E pensar em criar um Atomos artificial foi uma ideia brilhante." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_022", "hash": "973A1F5572C800D5", "target": "Nada me deixaria mais feliz do que acompanhar você nas próximas incursões, mas por enquanto vou esperar. Você já tem quem saiba guiar a viagem, e eu acabaria sobrando." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_023", "hash": "6A6A1DD9EB73356A", "target": "Além disso, há certas tarefas que exigem a minha presença aqui no Primeiro." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_024", "hash": "9465D80383D7F2E1", "target": "Para começar, quero entender melhor o método usado para revitalizar o Vazio. Espero que possamos aplicá-lo no Décimo Terceiro. Para isso, já marquei um encontro com quem participou." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_030", "hash": "C3EF9A1B7AAE8701", "target": "Zeromus...? Foi um grande herói de outrora, amado por todos. Nunca imaginei que seu nome voltaria a viver depois de dez mil anos. É justo que outro com esse nome possa nos ajudar, mesmo que só por meio de um cristal de memoria." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_031", "hash": "A3EB48BC846143C4", "target": "Saber que essa tal de Zero empunhará o cristal me tranquiliza e me dá ânimo. Saber que não estamos sós nessa empreitada torna ainda mais importante o nosso trabalho aqui no Primeiro." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_032", "hash": "99BBB5A9549DFAD9", "target": "Por falar nisso, conversei há pouco com seus camaradas que voltaram do Vazio. Só Urianger poderia ter pensado numa solução tão engenhosa quanto invocar primordiais." },
+    { "gameKey": "custom/007/RegNor4Unukalhai_00700#TEXT_REGNOR4UNUKALHAI_00700_UNUKALHAI_000_033", "hash": "3C60168A2916BB1E", "target": "Ryne e Gaia formam uma dupla formidável, não é? São combatentes habilidosas que dominam a Luz e as Trevas. Se a força delas não fosse essencial para restaurar o Primeiro, eu pediria que nos acompanhassem quando voltássemos ao Décimo Terceiro." }
   ]
 }

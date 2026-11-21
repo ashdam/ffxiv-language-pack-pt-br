@@ -2,9 +2,9 @@
   "conversation": "custom/004/FesXms2017Mount_00439",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "" },
-    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "" }
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_000", "hash": "FB4ABDA92B3A9AA5", "target": "Como já deve ter notado, a Celebração da Luz Estelar está a todo vapor. Quer se juntar à festa? Amh Garanjy está em Gridania à procura de mais pequenos ajudantes!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_010", "hash": "3CA833A7B7AD5FBD", "target": "Pode deixar que a gente amarra os treants e recupera os enfeites roubados. É só montar em <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> e dar um belo Starburst na cara desses ladrões!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_COMMITTEE00439_000_020", "hash": "7312445DE8196845", "target": "Quer caçar mais uns treants ladrões de enfeites? <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)> já está a postos!" },
+    { "gameKey": "custom/004/FesXms2017Mount_00439#TEXT_FESXMS2017MOUNT_00439_Q1_000_000", "hash": "23A3DB6D2B707B13", "target": "Montar em <switch(gnum71,Kochab,<if(gnum4,Kochab,Polaris)>,Pferkad,Kochab,Polaris,<if(gnum4,Kochab,Polaris)>,Polaris,Kochab)>?" }
   ]
 }

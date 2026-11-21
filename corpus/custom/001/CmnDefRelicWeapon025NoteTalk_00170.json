@@ -2,14 +2,14 @@
   "conversation": "custom/001/CmnDefRelicWeapon025NoteTalk_00170",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_000", "hash": "61782EFFCE0A6D39", "target": "Provações dos Bravos é uma obra em nove volumes que conta os feitos heroicos dos Bravos do Zodíaco." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_GJUSANA_000_001", "hash": "E2159C834EFA1C94", "target": "Como eu disse, posso vender cada livro pelo preço promocional de 100 <ennoun(Item,3,\u300028,2,1)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_010", "hash": "624C573CA6C2923F", "target": "Ao derrotar todos os inimigos listados em um livro das Provações dos Bravos, sua arma relicária Atma ganha atributos." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_011", "hash": "29D4780DB9CBC06D", "target": "Cada relíquia tem sua própria coleção das Provações dos Bravos. Cada coleção reúne nove livros, dos quais apenas quatro estão disponíveis para troca de início." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_012", "hash": "89A5A7352EDE8B69", "target": "A coleção de Paladin reúne sete livros para Curtana e dois para Holy Shield. Apenas seis estão disponíveis para troca de início." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_013", "hash": "C598A6EB8F3BC403", "target": "Você pode comprar cada livro com G'jusana, mas só pode ter um de cada vez." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_014", "hash": "64ABCA1041A951C5", "target": "Conclua todos os objetivos de um livro antes de comprar outro." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_015", "hash": "D0F2D6979F9D1443", "target": "Você também pode descartá-lo falando com G'jusana ou pelo menu Itens-chave." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025NoteTalk_00170#TEXT_CMNDEFRELICWEAPON025NOTETALK_00170_SYSTEM_000_016", "hash": "A700EAA414E8A046", "target": "Assim termina a explicação sobre o aprimoramento. Que sua relíquia se farte das almas dos seus inimigos!" }
   ]
 }

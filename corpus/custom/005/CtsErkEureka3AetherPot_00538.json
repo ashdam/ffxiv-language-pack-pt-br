@@ -2,9 +2,9 @@
   "conversation": "custom/005/CtsErkEureka3AetherPot_00538",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_000", "hash": "BB5C618A5C826623", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_010", "hash": "39C96E47D445964D", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_020", "hash": "750FBEAF35BAAB32", "target": "" },
-    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_YESNO_CONTENT", "hash": "4F4A7CC9ACCB20CD", "target": "" }
+    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_000", "hash": "BB5C618A5C826623", "target": "Em uma placa de metal, você lê “Forja de cristal Modelo II”. O aparelho não parece danificado e é claramente inspirado na forja de Pagos, mas sua função e seu modo de uso não são evidentes..." },
+    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_010", "hash": "39C96E47D445964D", "target": "Em uma placa de metal, você lê “Forja de cristal Modelo II”. O aparelho não parece danificado e parece fácil de usar, desde que haja éter viciado suficiente para fazê-lo funcionar..." },
+    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_SYSTEM_000_020", "hash": "750FBEAF35BAAB32", "target": "Sua chaleira de Eureka parece ter éter viciado insuficiente para produzir um único cristal..." },
+    { "gameKey": "custom/005/CtsErkEureka3AetherPot_00538#TEXT_CTSERKEUREKA3AETHERPOT_00538_YESNO_CONTENT", "hash": "4F4A7CC9ACCB20CD", "target": "Converter o éter viciado em cristais?" }
   ]
 }

@@ -2,12 +2,12 @@
   "conversation": "custom/006/RegNor4Cerigg_00690",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_000", "hash": "B57D7BA685C1B733", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_010", "hash": "DF5D0C6DAC325153", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_020", "hash": "0CF7BADFD7595050", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_030", "hash": "2F0D85D9B92C560F", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_031", "hash": "389964CD2F4E483C", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_050", "hash": "346733F2BEE09D69", "target": "" },
-    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_055", "hash": "53CBBF3C75971102", "target": "" }
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_000", "hash": "B57D7BA685C1B733", "target": "Phronesis, um daqueles malditos devoradores de pecados que chamam de Virtudes, anda pelas terras desoladas, atormentando quem passa com sua magia perversa. Ah, se houvesse alguém que soubesse lidar com magia desse nível e quisesse dar uma mão pro velho Cerigg..." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_010", "hash": "DF5D0C6DAC325153", "target": "Não se preocupe. O velho Cerigg vai pagar sua parte da recompensa do próprio bolso." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_020", "hash": "0CF7BADFD7595050", "target": "Pra um garoto da idade dele, Taynor tem a cabeça no lugar. Já apertou bastante nosso orçamento, principalmente cortando o dinheiro que eu gastava com bebida." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_030", "hash": "2F0D85D9B92C560F", "target": "Bom ver você de volta sem um arranhão, <split(<string(gstr1)>, ,1)>. Não sabia o que esperar quando saí pra ver a confusão, mas com certeza não esperava ver você despencando daquele penhasco." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_031", "hash": "389964CD2F4E483C", "target": "Dizem que você foi acertar as contas com seu arqui-inimigo. Pela sua cara tranquila, acho que conseguiu. Fez muito bem. Muito bem." },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_050", "hash": "346733F2BEE09D69", "target": "Aquela anã sabe <italic(1)>beber<italic(0)>. Parece que tem um machado enfiado na minha cabeça, e ela tá ótima!" },
+    { "gameKey": "custom/006/RegNor4Cerigg_00690#TEXT_REGNOR4CERIGG_00690_CERIGG_000_055", "hash": "53CBBF3C75971102", "target": "Fico feliz que Taynor tenha feito amizade com alguém da idade dele. Meio esquisita, mas quem não é?" }
   ]
 }

@@ -2,10 +2,10 @@
   "conversation": "custom/004/CtsErkEureka1Transpoint_00473",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUTITLE", "hash": "460BCB32AD51BFE2", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_DESTINATION", "hash": "D98E719E29FB0D4A", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUCANCEL", "hash": "D0C8C40FA42B2037", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_000", "hash": "5C9DD3299DA16A09", "target": "" },
-    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_001", "hash": "DAF1256204DBC1B6", "target": "" }
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUTITLE", "hash": "460BCB32AD51BFE2", "target": "Selecione um destino." },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_DESTINATION", "hash": "D98E719E29FB0D4A", "target": "<headall(<ennoun(PlaceName,3,<sheet(EurekaAethernet,lnum1,0)>,2,1)>)>." },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_MENUCANCEL", "hash": "D0C8C40FA42B2037", "target": "Cancelar." },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_000", "hash": "5C9DD3299DA16A09", "target": "Você se sintonizou com um fragmento da rede etérea e agora tem acesso à rede da região." },
+    { "gameKey": "custom/004/CtsErkEureka1Transpoint_00473#TEXT_CTSERKEUREKA1TRANSPOINT_00473_OPEN_000_001", "hash": "DAF1256204DBC1B6", "target": "Há outros fragmentos espalhados pela Terra Proibida, Eureka. Sintonize-se com eles para viajar mais rápido pela ilha." }
   ]
 }

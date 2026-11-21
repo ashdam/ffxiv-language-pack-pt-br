@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegHin3Kugane_00404",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "" },
-    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "" }
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_000", "hash": "27B089AB56F964EC", "target": "Veio visitar Kugane, imagino? Precisa de alguma coisa?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_Q1_000_000", "hash": "366F1CB1E46D8E62", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_001", "hash": "49EE9B27FB390393", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_002", "hash": "267345E593E9163D", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_A1_000_003", "hash": "AE8218E829D90F2B", "target": "Nada." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_010", "hash": "ADEAF36900BD6CF1", "target": "Sou Tenzan, oficial da alfândega deste porto. O lorde bugyo me encarregou de impedir a entrada de artigos proibidos em nossas terras." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_011", "hash": "D75916D6162E9586", "target": "Nosso porto é aberto, mas isso não permite que se traga qualquer coisa. Se quiser fazer negócios aqui, precisará respeitar nossas leis." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_012", "hash": "3025EE49881C15E4", "target": "Quem tentar importar mercadorias consideradas uma ameaça à segurança do nosso país ficará sob a custódia da Sekiseigumi e sofrerá punições severas. Se quiser voltar à sua terra, considere-se de sobreaviso." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_020", "hash": "5FAAFAE38E98AA09", "target": "Sua presença aqui indica que já deve saber disso, mas vou explicar mesmo assim." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_021", "hash": "6D5F82BB428FA148", "target": "Kugane é uma cidade portuária da ilha de Shishu, a mais ocidental de Hingashi. Num país que adota uma política de isolamento, tem a distinção de ser o único porto aberto ao mundo lá fora." },
+    { "gameKey": "custom/004/RegHin3Kugane_00404#TEXT_REGHIN3KUGANE_00404_TENZAN_000_022", "hash": "6F6C5835AB587AEE", "target": "Como todo o comércio exterior passa por aqui, nós da alfândega vivemos ocupados. Mesmo assim, não podemos descuidar. Todo navio estrangeiro deve passar por uma inspeção aqui, no píer dois, sem exceção." }
   ]
 }

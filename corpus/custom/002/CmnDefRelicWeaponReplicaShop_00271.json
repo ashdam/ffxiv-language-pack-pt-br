@@ -2,7 +2,7 @@
   "conversation": "custom/002/CmnDefRelicWeaponReplicaShop_00271",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/CmnDefRelicWeaponReplicaShop_00271#TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_TALK_ACTOR", "hash": "8B7DEB898CDD2753", "target": "" },
-    { "gameKey": "custom/002/CmnDefRelicWeaponReplicaShop_00271#TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_MENU_TITLE", "hash": "2A314491E63928C5", "target": "" }
+    { "gameKey": "custom/002/CmnDefRelicWeaponReplicaShop_00271#TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_TALK_ACTOR", "hash": "8B7DEB898CDD2753", "target": "Perdoe-me, mas receio que não possa fazer nada sem uma arma do Zodíaco Zeta autêntica para servir de modelo. Poderia me trazer uma?" },
+    { "gameKey": "custom/002/CmnDefRelicWeaponReplicaShop_00271#TEXT_CMNDEFRELICWEAPONREPLICASHOP_00271_MENU_TITLE", "hash": "2A314491E63928C5", "target": "Selecione uma arma do Zodíaco Zeta para replicar." }
   ]
 }

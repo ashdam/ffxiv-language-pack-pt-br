@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory3_00894",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_000", "hash": "6CF9B15EFF6D71FB", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_010", "hash": "0D197711D53FD6F1", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_011", "hash": "2967D2FFEF4E99FC", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_012", "hash": "5C1DA12E3175569B", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_000", "hash": "6CF9B15EFF6D71FB", "target": "O painel traz informações sobre a história dos Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_010", "hash": "0D197711D53FD6F1", "target": "(-Capítulo III-)Desde os tempos antigos, os Milalla se destacam em cálculos. Ao representar cada fenômeno natural com fórmulas e números, conseguiram criar um sistema de magia singular." },
+    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_011", "hash": "2967D2FFEF4E99FC", "target": "(-Capítulo III-)O dom se mostrou inestimável na nova terra, onde usaram seus cálculos para gravar circuitos arcanos no minério que mais tarde viria a ser conhecido como electrope." },
+    { "gameKey": "custom/008/RegUlwHistory3_00894#TEXT_REGULWHISTORY3_00894_SYSTEM_000_012", "hash": "5C1DA12E3175569B", "target": "(-Capítulo III-)Com essa técnica engenhosa, o electrope se tornou uma ferramenta capaz de armazenar relâmpagos e convertê-los em energia de qualquer elemento." }
   ]
 }

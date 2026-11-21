@@ -2,15 +2,15 @@
   "conversation": "custom/004/RegOth3MolIloh_00417",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_000", "hash": "93D4B4E68D0DC99B", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_Q1_000_000", "hash": "DE7076663F99BBB0", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_001", "hash": "7EA8990C5301BB2A", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_002", "hash": "9D1550F4862D41E5", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_003", "hash": "8369FFF9AF259B1C", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_010", "hash": "B01F069E65928DE9", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_011", "hash": "909CFE9C0E8BFFBC", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_020", "hash": "23115DA38E8F64E7", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_021", "hash": "4D5329CBFC9CCB7D", "target": "" },
-    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_022", "hash": "1A994556872B684D", "target": "" }
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_000", "hash": "93D4B4E68D0DC99B", "target": "Você deve conhecer Cirina. Pode me perguntar o que quiser." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_Q1_000_000", "hash": "DE7076663F99BBB0", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_001", "hash": "7EA8990C5301BB2A", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_002", "hash": "9D1550F4862D41E5", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_A1_000_003", "hash": "8369FFF9AF259B1C", "target": "Nada." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_010", "hash": "B01F069E65928DE9", "target": "Ajudo os outros Mol a entender o que os deuses antigos pedem deles. Às vezes, seus pedidos são bem enigmáticos." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_011", "hash": "909CFE9C0E8BFFBC", "target": "Escolheram-me para esse papel porque eu também já levei uma vida de aventuras como a sua. O que aprendi naqueles tempos muitas vezes me ajuda a decifrar as mensagens dos deuses." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_020", "hash": "23115DA38E8F64E7", "target": "Como o nome indica, este lugar é o lar dos Mol. Por ora, pelo menos. A gente costuma se mudar quando precisa de novas terras para sustentar os rebanhos." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_021", "hash": "4D5329CBFC9CCB7D", "target": "Mas até isso, no fim das contas, depende dos deuses. Eles governam todos os aspectos da nossa vida." },
+    { "gameKey": "custom/004/RegOth3MolIloh_00417#TEXT_REGOTH3MOLILOH_00417_CARAGAI_000_022", "hash": "1A994556872B684D", "target": "Foram eles que escolheram este papel para mim. Tenho de admitir que me cai bem." }
   ]
 }

@@ -2,13 +2,13 @@
   "conversation": "custom/002/RegWilReduce_00276",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "" },
-    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "" }
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_Q1", "hash": "4530BEB8258E4420", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A1", "hash": "2108F8CE09E38351", "target": "O que é redução etérea?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A2", "hash": "CF1DF0422CDAC0B7", "target": "Quais itens podem passar por redução etérea?" },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_TALK_A3", "hash": "8BB66DBFD6D7E8D2", "target": "Nada." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_000", "hash": "CF2128C2511105A3", "target": "Como eu disse, é um jeito de reduzir certos itens aos componentes etéreos básicos. Na maioria das vezes, dá cristais, mas de vez em quando saem outros materiais raros." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_001", "hash": "D4BE825D68896289", "target": "Tem que ser colecionável, viu? Não é fácil pôr as mãos nessas raridades. Melhor consultar seus registros pra ter certeza de que tá procurando no lugar certo." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_010", "hash": "C36812A46C2A3120", "target": "Bom... Se não for colecionável, não dá pra reduzir. Pra começar, é isso." },
+    { "gameKey": "custom/002/RegWilReduce_00276#TEXT_REGWILREDUCE_00276_KOKOSAMU_000_011", "hash": "EECE6ED895D7FE7B", "target": "Além disso, dá pra reduzir qualquer colecionável, mas quanto maior o valor de coleção, melhor o rendimento. Claro que aí você vai ter de abrir mão do item. Mas nem precisava dizer, né?" }
   ]
 }

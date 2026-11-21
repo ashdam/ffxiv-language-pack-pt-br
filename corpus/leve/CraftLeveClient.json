@@ -2,14 +2,14 @@
   "conversation": "leve/CraftLeveClient",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE", "hash": "FE5385762FEC784B", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0", "hash": "183007374C89F058", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1", "hash": "12436ED4C4536E05", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2", "hash": "873FBDFFD9CC1A95", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM", "hash": "1597D00EB06A8821", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE", "hash": "0895A84ADA3A4ED4", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES", "hash": "78BA98AC15F610C4", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO", "hash": "278244BCE1E3FAF2", "target": "" },
-    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD", "hash": "DD5AC240D4196D05", "target": "" }
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE", "hash": "FE5385762FEC784B", "target": "Entregar itens adicionais?" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0", "hash": "183007374C89F058", "target": "Sim." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1", "hash": "12436ED4C4536E05", "target": "Não, concluir o pedido atual." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2", "hash": "873FBDFFD9CC1A95", "target": "Decidir depois." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM", "hash": "1597D00EB06A8821", "target": "Você não tem itens suficientes." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE", "hash": "0895A84ADA3A4ED4", "target": "Concluir o pedido atual sem entregar itens adicionais?" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES", "hash": "78BA98AC15F610C4", "target": "Sim" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO", "hash": "278244BCE1E3FAF2", "target": "Não" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD", "hash": "DD5AC240D4196D05", "target": "A entrega incluiu <if([lnum1==1],um ou mais itens HQ,<if(lnum1,<if([lnum1<=10],<switch(lnum1,um,dois,três,quatro,cinco,seis,sete,oito,nove,dez)>,<num(lnum1)>)>,<num(lnum1)>)> tipos de itens HQ)>. Sua recompensa aumentou em <num(lnum2)>%." }
   ]
 }

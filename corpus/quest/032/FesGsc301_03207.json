@@ -106,6 +106,6 @@
     { "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_NANAPHON_000_091", "hash": "BDEE3FA83B13E637", "target": "Preciso agradecer ao Mestre Manderville e ao Mestre Ririzan... e, por último, mas com igual importância, a você, <if(gnum4,aventureira,aventureiro)>! Nunca teria conseguido sem seu apoio inabalável!" },
     { "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_NANAPHON_000_092", "hash": "679153B18D0FD944", "target": "Da próxima vez que vir Senhor Cactuar, talvez seja eu naquela fantasia. Não vou sair do personagem para falar, então, por favor, não me ache mal-educado..." },
     { "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_NANAPHON_000_093", "hash": "D82E4959DA362893", "target": "Em vez disso, vou receber você com as mais autênticas travessuras de sabotender que conseguir, exatamente como o Mestre Ririzan me ensinou!" },
-    { "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_SYSTEM_000_094", "hash": "19B34D16AD2C96B4", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Senor Sabotender<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_SYSTEM_000_094", "hash": "19B34D16AD2C96B4", "target": "Você aprendeu o emote <colortype(500)><edgecolortype(501)>Senhor Cactuar<edgecolortype(0)><colortype(0)>!" }
   ]
 }

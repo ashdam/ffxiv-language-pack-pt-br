@@ -2,17 +2,17 @@
   "conversation": "custom/009/FesXmx2026Guide_00973",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_000", "hash": "3A69685ADC594A1C", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_Q1_000_001", "hash": "A9AE72D509C609A4", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_001", "hash": "2FA3D6B1F422E93B", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_002", "hash": "0404612230C42BA8", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_003", "hash": "6D5AC12F9754238D", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_010", "hash": "66986FC94D2809F9", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_011", "hash": "FB00AE199D163CCE", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_012", "hash": "54CB3B57CEAB99B5", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_013", "hash": "D24451E65BC05459", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_014", "hash": "C2762440AF021917", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_020", "hash": "07B0217E329E7F18", "target": "" },
-    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_021", "hash": "060CC346CA400915", "target": "" }
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_000", "hash": "3A69685ADC594A1C", "target": "Feliz Luz Estelar, <if(gnum4,aventureira,aventureiro)>! Estou à sua disposição se tiver perguntas sobre a Celebração da Luz Estelar." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_Q1_000_001", "hash": "A9AE72D509C609A4", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_001", "hash": "2FA3D6B1F422E93B", "target": "O que é a Celebração da Luz Estelar?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_002", "hash": "0404612230C42BA8", "target": "Qual é o seu papel na festa?" },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_A1_000_003", "hash": "6D5AC12F9754238D", "target": "Nada." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_010", "hash": "66986FC94D2809F9", "target": "A Celebração da Luz Estelar tem origem na antiga Ishgard. Há muito tempo, uma batalha terrível tirou incontáveis vidas, deixando milhares de crianças órfãs no frio rigoroso de Coerthas." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_011", "hash": "FB00AE199D163CCE", "target": "Sem suportar tamanho sofrimento, cavaleiros ishgardeses ofereciam abrigo e comida às crianças no quartel. Claro que isso era expressamente proibido, mas eles deram um jeito de fazê-las entrar às escondidas, disfarçadas nos casacos vermelhos de seus uniformes." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_012", "hash": "54CB3B57CEAB99B5", "target": "Graças à generosidade dos cavaleiros, as crianças sobreviveram ao inverno. Mais tarde, puderam retribuir a bondade que receberam. Já crescidas, vestiam uniformes escarlates e entregavam presentes às crianças na semana mais fria do ano. Assim nasceu a Celebração da Luz Estelar." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_013", "hash": "D24451E65BC05459", "target": "A celebração mudou aos poucos com o passar dos anos. O capitão de barba branca dos bondosos cavaleiros passou a ser conhecido como o “Santo de Nymeia”, e as crianças acreditam que ele leva suas esperanças e preces à própria deusa." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_014", "hash": "C2762440AF021917", "target": "Já os cavaleiros de casaco vermelho se tornaram os “ajudantes do santo”. As crianças gostam muito deles, pois cabe a eles levar presentes a toda criança que manda uma prece à Fiandeira." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_020", "hash": "07B0217E329E7F18", "target": "A Guilda dos Aventureiros encarregou a mim e aos meus colegas de casaco escarlate de organizar a Celebração da Luz Estelar. A festa acontece por toda Eorzea, com ajudantes em Gridania, Limsa Lominsa e Ul'dah." },
+    { "gameKey": "custom/009/FesXmx2026Guide_00973#TEXT_FESXMX2026GUIDE_00973_GUIDEXMS2026_000_021", "hash": "060CC346CA400915", "target": "Em Gridania, você também pode visitar as Bancas do Brilho Estelar. Com atrações para encantar crianças e adultos, esperamos que tragam a alegria da festa a todos!" }
   ]
 }

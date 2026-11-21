@@ -2,16 +2,16 @@
   "conversation": "custom/004/RegHin3ShiokazeHostelry_00405",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_000", "hash": "7087079AF0B3B0E1", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_Q1_000_000", "hash": "B707D071F5AAEF47", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_001", "hash": "41A5B7234F5F68C1", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_002", "hash": "F1420FB17A057C11", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_003", "hash": "DBB0ECA51CBC4881", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_010", "hash": "81D6945510D2C3A7", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_011", "hash": "1F8C475D9BABF886", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_012", "hash": "1FC02A640818A467", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_020", "hash": "0E389BDDC88EC86D", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_021", "hash": "DFC990FE2E4D708A", "target": "" },
-    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_022", "hash": "7A81F5B0046110E0", "target": "" }
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_000", "hash": "7087079AF0B3B0E1", "target": "<if([gnum11<12],<if([gnum11<4],Boa noite,Bom dia)>,<if([gnum11<17],Boa tarde,Boa noite)>)>, <if(gnum4,senhora,senhor)>. Posso servir uma bebida? Garanto que, seja o que for que quiser, eu tenho ou consigo arranjar rapidinho." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_Q1_000_000", "hash": "B707D071F5AAEF47", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_001", "hash": "41A5B7234F5F68C1", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_002", "hash": "F1420FB17A057C11", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_A1_000_003", "hash": "DBB0ECA51CBC4881", "target": "Nada." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_010", "hash": "81D6945510D2C3A7", "target": "Ah, não é muita coisa. Sorrio, sirvo bebidas e dou ouvidos quando é preciso. Como deve imaginar pela proximidade dos píeres, a Hospedaria Shiokaze é a primeira e a última parada de muita gente dos mais variados lugares." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_011", "hash": "1F8C475D9BABF886", "target": "Kugane está aberta a todos. Não queremos fazer inimigos declarados... por isso evitamos firmar alianças. De certo modo, aqui todos são iguais. É por isso que nossa bela cidade é rica em comércio e cultura." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_012", "hash": "1FC02A640818A467", "target": "Mesmo assim, temos nossos problemas. Marinheiro é marinheiro, afinal. Aqui dentro, claro, nunca temos confusão. Minha clientela sabe que é melhor não despertar a ira da Sekiseigumi... pelo menos espero que saiba." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_020", "hash": "0E389BDDC88EC86D", "target": "Ora, somos o principal fornecedor de bebidas alcoólicas de Kugane. Nossa relação próxima com os melhores produtores de Koshu nos permite oferecer uma seleção incomparável de junmaishu, um vinho de arroz muito puro e de sabor intenso." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_021", "hash": "DFC990FE2E4D708A", "target": "Claro que nem todo mundo vem à hospedaria para beber. Viajantes costumam se reunir aqui para falar de negócios e de assuntos pessoais. Às vezes, ambos provocam rompantes emocionais, embora os assuntos pessoais sejam um pouco mais..." },
+    { "gameKey": "custom/004/RegHin3ShiokazeHostelry_00405#TEXT_REGHIN3SHIOKAZEHOSTELRY_00405_KOTOKAZE_000_022", "hash": "7A81F5B0046110E0", "target": "Ah, por pouco! Quase falei uma bobagem. Onde eu estava? Ah, sim. Aceita uma taça de junmaishu?" }
   ]
 }

@@ -2,13 +2,13 @@
   "sheet": "QuestRedoChapterUITab",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "QuestRedoChapterUITab#1", "hash": "321FB055D03A64FE", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#2", "hash": "5E87F11A0480635C", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#3", "hash": "EAC43642D3F6A098", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#4", "hash": "AC09ABCCCD68F66F", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#5", "hash": "F6F0B70FC67747AF", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#6", "hash": "535A724151B992EE", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#7", "hash": "3DADD8C682A1B516", "target": "" },
-    { "gameKey": "QuestRedoChapterUITab#8", "hash": "3DE2ECA67D58D12D", "target": "" }
+    { "gameKey": "QuestRedoChapterUITab#1", "hash": "321FB055D03A64FE", "target": "Cenário principal" },
+    { "gameKey": "QuestRedoChapterUITab#2", "hash": "5E87F11A0480635C", "target": "Histórias secundárias" },
+    { "gameKey": "QuestRedoChapterUITab#3", "hash": "EAC43642D3F6A098", "target": "Crônicas de uma Nova Era" },
+    { "gameKey": "QuestRedoChapterUITab#4", "hash": "AC09ABCCCD68F66F", "target": "Missões de tanque" },
+    { "gameKey": "QuestRedoChapterUITab#5", "hash": "F6F0B70FC67747AF", "target": "Missões de DPS" },
+    { "gameKey": "QuestRedoChapterUITab#6", "hash": "535A724151B992EE", "target": "Missões de cura" },
+    { "gameKey": "QuestRedoChapterUITab#7", "hash": "3DADD8C682A1B516", "target": "Missões de artesãos" },
+    { "gameKey": "QuestRedoChapterUITab#8", "hash": "3DE2ECA67D58D12D", "target": "Missões de coletores" }
   ]
 }

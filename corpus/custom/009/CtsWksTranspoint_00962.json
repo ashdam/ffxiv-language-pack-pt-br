@@ -2,7 +2,7 @@
   "conversation": "custom/009/CtsWksTranspoint_00962",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_010", "hash": "D0C8DD97DDD1724B", "target": "" },
-    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_020", "hash": "53F42A861493C88D", "target": "" }
+    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_010", "hash": "D0C8DD97DDD1724B", "target": "Você se sintonizou com um fragmento da rede etérea e agora tem acesso à rede da região." },
+    { "gameKey": "custom/009/CtsWksTranspoint_00962#TEXT_CTSWKSTRANSPOINT_00962_TALK_ACTOR_000_020", "hash": "53F42A861493C88D", "target": "Há outros fragmentos espalhados pela região. Sintonize-se com eles para se deslocar mais rápido pela área." }
   ]
 }

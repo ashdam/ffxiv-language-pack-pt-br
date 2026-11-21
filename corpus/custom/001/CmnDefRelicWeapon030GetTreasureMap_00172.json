@@ -2,16 +2,16 @@
   "conversation": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_000", "hash": "750C7E5F0C78787A", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_Q1_000_000", "hash": "BB3747B71EC61BC5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_001", "hash": "D7B503CE0546EDA6", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_002", "hash": "6DFF14E31849BDE2", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_005", "hash": "FB88E45CFE6D4FED", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_010", "hash": "42BDC8E3B1E53841", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_011", "hash": "9562223EC1A153C5", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_020", "hash": "4D0360675E21D173", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_021", "hash": "91A604DD4D63536C", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_030", "hash": "FDCFFA586EAC4114", "target": "" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_050", "hash": "88F7DE6E52D2758F", "target": "" }
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_000", "hash": "750C7E5F0C78787A", "target": "Quer pôr as mãos em Alexandrite? Tenho aqui um Mysterious Map que deve levar a um tesouro enterrado. Por 75 <ennoun(Item,3,\u300028,2,1)>, ele é seu." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_Q1_000_000", "hash": "BB3747B71EC61BC5", "target": "Trocar 75 <ennoun(Item,3,\u300028,2,1)> por Mysterious Map?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_001", "hash": "D7B503CE0546EDA6", "target": "Sim" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_A1_000_002", "hash": "6DFF14E31849BDE2", "target": "Não" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_005", "hash": "FB88E45CFE6D4FED", "target": "Aqui está, lacrado pra sua tranquilidade. Pode decifrá-lo com calma." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_010", "hash": "42BDC8E3B1E53841", "target": "Está querendo conseguir Alexandrite, não é? Não tenho nenhuma, mas tenho um ou dois exemplares de Mysterious Map que podem levar a um tesouro, se você conseguir decifrá-los." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_011", "hash": "9562223EC1A153C5", "target": "...Pelo jeito que você inclinou a cabeça, não faz a menor ideia do que estou falando. Volte quando souber." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_020", "hash": "4D0360675E21D173", "target": "Para comprar exemplares de Mysterious Map, você precisa aprender a ação geral <colortype(500)><edgecolortype(501)>Decifrar<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_SYSTEM_000_021", "hash": "91A604DD4D63536C", "target": "Para isso, primeiro conclua a missão “Tesouros e tribulações”." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_030", "hash": "FDCFFA586EAC4114", "target": "Eu até gostaria de atender à sua vontade, mas não posso vender outro Mysterious Map antes que você decifre o que já tem." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon030GetTreasureMap_00172#TEXT_CMNDEFRELICWEAPON030GETTREASUREMAP_00172_AURIANA_000_050", "hash": "88F7DE6E52D2758F", "target": "O preço não é negociável. São 75 <ennoun(Item,3,\u300028,2,1)>, nem um a menos." }
   ]
 }

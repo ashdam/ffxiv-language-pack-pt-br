@@ -2,13 +2,13 @@
   "conversation": "shop/LotteryExchangeShopEureka1Crystal",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_TITLE", "hash": "5E2C67DA5AAD273D", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_SUBTITLE", "hash": "8F5B32F3D9BFE828", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_NOITEM", "hash": "3FDA3811C2335696", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_TITLE", "hash": "C65F2E1B85A55272", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_SUBTITLE", "hash": "E3AE190D4523CAA3", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_NEXT", "hash": "B015ACB1C07D3809", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_SINGLE", "hash": "ED6E54DAD69DA428", "target": "" },
-    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_MULTI", "hash": "3EE262CC95B09D98", "target": "" }
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_TITLE", "hash": "5E2C67DA5AAD273D", "target": "Troca de cristais" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_SUBTITLE", "hash": "8F5B32F3D9BFE828", "target": "", "intentionalEmpty": true },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_NOITEM", "hash": "3FDA3811C2335696", "target": "Não há nada para exibir." },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_TITLE", "hash": "C65F2E1B85A55272", "target": "Resultados" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_SUBTITLE", "hash": "E3AE190D4523CAA3", "target": "", "intentionalEmpty": true },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_NEXT", "hash": "B015ACB1C07D3809", "target": "Avançar" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_SINGLE", "hash": "ED6E54DAD69DA428", "target": "Trocar <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)>: <num(lnum3)> em estoque<br>Tentativas restantes: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_MULTI", "hash": "3EE262CC95B09D98", "target": "Trocar <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)>: <num(lnum3)> em estoque<br>Tentativas restantes: <num(lnum2)>" }
   ]
 }

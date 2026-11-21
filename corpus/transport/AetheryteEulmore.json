@@ -2,7 +2,7 @@
   "conversation": "transport/AetheryteEulmore",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_000", "hash": "8FE3A1B37D1B95C2", "target": "" },
-    { "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_010", "hash": "AB4374CB700ADDA6", "target": "" }
+    { "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_000", "hash": "8FE3A1B37D1B95C2", "target": "Segundo a mensagem gravada na base, é preciso ter uma autorização especial para usar esta eterita." },
+    { "gameKey": "transport/AetheryteEulmore#TEXT_AETHERYTEEULMORE_STOP_010", "hash": "AB4374CB700ADDA6", "target": "A eterita parou de funcionar." }
   ]
 }

@@ -2,19 +2,19 @@
   "conversation": "custom/003/RegSeaBeginnerDPSGuide_00338",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "" },
-    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "" }
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_000", "hash": "60800EF1C897D24F", "target": "Sou o Mestre de Armas, e meu dever é ensinar a aventureiros iniciantes os fundamentos do combate em grupo. Hmmm. Você, <if(gnum4,minha amiga,meu amigo)>, mal saiu do ovo. Volte quando as suas penas tiverem crescido mais um pouco!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_SYSTEM_000_000", "hash": "5F64C93BC0F9824C", "target": "Para treinar no Salão dos Novatos, você precisa ter nível 15 ou superior como Discípulo da Guerra ou da Magia." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_010", "hash": "42A588928A060333", "target": "Sou o Mestre de Armas, e meu dever é ensinar a aventureiros iniciantes os fundamentos do combate em grupo. E você, <if(gnum4,minha amiga,meu amigo)>, é exatamente o tipo de jovem que eu esperava, com vigor e vocação para feitos heroicos. Diga ao Instrutor ali que tem interesse, e podemos começar seu treino imediatamente!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_020", "hash": "95C18BC720ABEA29", "target": "Minha especialidade é causar dano e saber quando causá-lo. Se sua preocupação é evitar ferimentos ou curá-los, talvez um dos meus colegas possa ajudar melhor." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_030", "hash": "542F471FE5FDF598", "target": "Veio treinar? Fale com o Instrutor para marcar uma aula. Encontro você no campo de treino!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_040", "hash": "6A2292E872634B51", "target": "Ah, <split(<string(gstr1)>, ,1)>! <if(gnum4,Uma das nossas melhores alunas,Um dos nossos melhores alunos)>! Não duvido de que fará bom uso das nossas lições no campo de batalha. Se algum dia quiser aprender mais, é só dizer!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_Q1_000_000", "hash": "AB39F078620AB00D", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_001", "hash": "77B73571D5695634", "target": "O que devo ter em mente ao lutar com aliados?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_002", "hash": "36DB72388615BB0C", "target": "Como lido com reforços inimigos?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_003", "hash": "A1A63E11F9FBE3AC", "target": "O que faço com alavancas e coisas do tipo?" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_A1_000_004", "hash": "3290AE3620202310", "target": "Nada." },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_100", "hash": "4D12949B90A82008", "target": "Ao lutar com aliados, escolha bem o adversário. Em vez de dividir os ataques entre vários inimigos, quase sempre é mais eficaz o grupo inteiro derrotar um inimigo de cada vez!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_110", "hash": "A0A2DF6D5C15349A", "target": "Quando surgem inimigos no meio da luta, a confusão toma conta! Se você estiver enfrentando um adversário muito forte, sugiro se afastar dele para eliminar os reforços indesejados!" },
+    { "gameKey": "custom/003/RegSeaBeginnerDPSGuide_00338#TEXT_REGSEABEGINNERDPSGUIDE_00338_DPSCOACH00338_000_120", "hash": "DC6C2344192E30D3", "target": "É sensato descobrir para que servem as alavancas e outros dispositivos que encontrar no campo de batalha. Usar esses mecanismos com cuidado pode dar justamente a vantagem de que precisa para vencer." }
   ]
 }

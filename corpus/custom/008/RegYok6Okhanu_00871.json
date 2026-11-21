@@ -2,18 +2,18 @@
   "conversation": "custom/008/RegYok6Okhanu_00871",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_000", "hash": "26052E68ABD0095A", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_001", "hash": "55DAD5D58D2435D6", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_002", "hash": "935F8C09057B5F18", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_003", "hash": "7B4CC7AF283E4D93", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_Q1_000_000", "hash": "DFC7DC57FE3EB31B", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_001", "hash": "ECA559C0FF2860F8", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_002", "hash": "8E202E6CB6754A2E", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_003", "hash": "B5EA780FD38B98E0", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_010", "hash": "A7574DA75C654968", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_011", "hash": "AB0310BD14D4C4B0", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_020", "hash": "225D74DA5C0008F3", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_021", "hash": "DBFAFB0AF852D8CC", "target": "" },
-    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_022", "hash": "C5B8A8C641AAB671", "target": "" }
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_000", "hash": "26052E68ABD0095A", "target": "Ah, uma visita, aqui? Bom, se quiser saber algo sobre Ok'hanu, acho que sou a pessoa certa para perguntar." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_001", "hash": "55DAD5D58D2435D6", "target": "Você nos ajudou a trazer os juncos de volta à vida, não foi? Claro, se precisar de alguma coisa de U'ulihali, estou à disposição!" },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_002", "hash": "935F8C09057B5F18", "target": "Fico honrada de ver que continua em Ok'hanu mesmo depois do rito de sucessão! O que quer saber?" },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_003", "hash": "7B4CC7AF283E4D93", "target": "Ah, um rosto conhecido, e muito bem-vindo! Precisa de alguma coisa?" },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_Q1_000_000", "hash": "DFC7DC57FE3EB31B", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_001", "hash": "ECA559C0FF2860F8", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_002", "hash": "8E202E6CB6754A2E", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_A1_000_003", "hash": "B5EA780FD38B98E0", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_010", "hash": "A7574DA75C654968", "target": "Meu papel aqui é cuidar das construções e tomar nota de qualquer acontecimento interessante de que eu ouça falar. O ar úmido põe nossas estruturas de madeira em risco, então precisamos ficar de olho." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_011", "hash": "AB0310BD14D4C4B0", "target": "Se noto algo preocupante, conto para o meu marido, e ele conserta assim que pode. É uma alegria vê-lo trabalhar. Nessas horas, lembro por que me apaixonei por ele." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_020", "hash": "225D74DA5C0008F3", "target": "Ok'hanu quer dizer “nossa aldeia” na língua dos Hanu. Um nome simples e apropriado." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_021", "hash": "DBFAFB0AF852D8CC", "target": "A região onde fica Ok'hanu se chama Uyuyub', que quer dizer “bosque dos ovos”. Como deve ter imaginado, nós, Hanu, saímos de ovos. E, desde o momento em que rompemos a casca, somos parte da natureza." },
+    { "gameKey": "custom/008/RegYok6Okhanu_00871#TEXT_REGYOK6OKHANU_00871_UULIHALI_000_022", "hash": "C5B8A8C641AAB671", "target": "Agora que os juncos voltaram a crescer em todo o seu esplendor, precisamos trabalhar para que esta nação prospere. É o mínimo que podemos fazer pelo nosso povo." }
   ]
 }

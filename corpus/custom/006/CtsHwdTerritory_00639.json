@@ -2,10 +2,10 @@
   "conversation": "custom/006/CtsHwdTerritory_00639",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000", "hash": "4B5A21120A63A0D5", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010", "hash": "13AD2D6D90AA4CF5", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_020", "hash": "80CF3714A401EF91", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_030", "hash": "CA42096ECCF6BB3A", "target": "" },
-    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_040", "hash": "067AF4674095A19D", "target": "" }
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_000", "hash": "4B5A21120A63A0D5", "target": "Ora, se não é <split(<string(gstr1)>, ,1)>. Você não podia ter vindo em hora melhor." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_010", "hash": "13AD2D6D90AA4CF5", "target": "Como pode ver, estamos nos divertindo um pouco. Pra comemorar o fim da obra, os moradores e artesãos decidiram se juntar e dar uma festa." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_AUGEBERT_000_020", "hash": "80CF3714A401EF91", "target": "O nome é Celebração das Alturas, e tem coisa pra todo gosto. Se não estiver com outros planos, acho que vai gostar de participar de umas fêtes. Elas acontecem de tempos em tempos e rendem belas recompensas." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_030", "hash": "CA42096ECCF6BB3A", "target": "Durante a Celebração das Alturas, várias brincadeiras chamadas fêtes acontecem uma após a outra em intervalos regulares. Você pode consultar o horário das próximas fêtes enquanto estiver no Firmamento." },
+    { "gameKey": "custom/006/CtsHwdTerritory_00639#TEXT_CTSHWDTERRITORY_00639_SYSTEM_000_040", "hash": "067AF4674095A19D", "target": "Para participar e receber recompensas, você precisa estar em uma classe de Disciple of the Hand ou Disciple of the Land." }
   ]
 }

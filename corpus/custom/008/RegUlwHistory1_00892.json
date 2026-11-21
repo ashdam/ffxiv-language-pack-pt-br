@@ -2,9 +2,9 @@
   "conversation": "custom/008/RegUlwHistory1_00892",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_000", "hash": "A9AD11930D8861E3", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_010", "hash": "EFA2292C57E8BDCD", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_011", "hash": "64104DBA8C470185", "target": "" },
-    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_012", "hash": "23489F251C8BF3AC", "target": "" }
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_000", "hash": "A9AD11930D8861E3", "target": "O painel traz informações sobre a história dos Milalla." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_010", "hash": "EFA2292C57E8BDCD", "target": "(-Capítulo I-)Num passado distante, os Milalla viviam em paz em ilhas de verão eterno. O inverno jamais visitava aquela terra farta, e as flores desabrochavam em todas as cores do arco-íris." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_011", "hash": "64104DBA8C470185", "target": "(-Capítulo I-)Mas aqueles dias idílicos não duraram. Assim que o vento do oeste pareceu esfriar, os mares congelaram de repente. Dos peixes na água às aves no céu, todos os animais logo pereceram." },
+    { "gameKey": "custom/008/RegUlwHistory1_00892#TEXT_REGULWHISTORY1_00892_SYSTEM_000_012", "hash": "23489F251C8BF3AC", "target": "(-Capítulo I-)Aquele clima anormal parecia não ter fim, e os Milalla caíram um a um, até que já não se podia contar os mortos. Aos sobreviventes só restava rezar, amontoados em busca do precioso calor." }
   ]
 }

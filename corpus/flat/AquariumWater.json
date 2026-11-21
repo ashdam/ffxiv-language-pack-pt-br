@@ -2,8 +2,8 @@
   "sheet": "AquariumWater",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "AquariumWater#0", "hash": "01E1E45D87E4F3C9", "target": "" },
-    { "gameKey": "AquariumWater#1", "hash": "590266092F7ED583", "target": "" },
-    { "gameKey": "AquariumWater#2", "hash": "01B203AAB5F66B71", "target": "" }
+    { "gameKey": "AquariumWater#0", "hash": "01E1E45D87E4F3C9", "target": "não especificado" },
+    { "gameKey": "AquariumWater#1", "hash": "590266092F7ED583", "target": "Água doce" },
+    { "gameKey": "AquariumWater#2", "hash": "01B203AAB5F66B71", "target": "Água salgada" }
   ]
 }

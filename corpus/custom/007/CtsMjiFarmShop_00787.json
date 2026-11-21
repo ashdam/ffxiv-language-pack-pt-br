@@ -2,13 +2,13 @@
   "conversation": "custom/007/CtsMjiFarmShop_00787",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_000_000", "hash": "A389ECA2BCB28A1C", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_001", "hash": "9A14C66A89221EE2", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_002", "hash": "CD2A60AEE9A514FC", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_010", "hash": "4B927B6262B7D285", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_100_000", "hash": "D372AD3CC5EC1D97", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_000", "hash": "1C7BDAC5DD93CF22", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_005", "hash": "6DE235BCEF3DEFDD", "target": "" },
-    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_200_000", "hash": "57A9305C1700CE91", "target": "" }
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_000_000", "hash": "A389ECA2BCB28A1C", "target": "O que você vai fazer?" },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_001", "hash": "9A14C66A89221EE2", "target": "Exportar materiais." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_002", "hash": "CD2A60AEE9A514FC", "target": "Saber mais." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_000_010", "hash": "4B927B6262B7D285", "target": "Nada." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_100_000", "hash": "D372AD3CC5EC1D97", "target": "Q-Quer saber o que eu faço? Mas o meu nome... Achei que fosse óbvi... Cof, cof. Pois bem. É bem simples. Pego os materiais que você coletou na ilha e vendo em seu nome em troca de conchas. Não se preocupe, <italic(1)>nunca<italic(0)> fico com nada pra mim. Pode confiar." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_000", "hash": "1C7BDAC5DD93CF22", "target": "Venda materiais da Bolsa da ilha ao exportador empreendedor em troca de Islander's Cowries." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_SYSTEM_100_005", "hash": "6DE235BCEF3DEFDD", "target": "O exportador empreendedor também pode oferecer Seafarer's Cowries em troca de materiais incomuns da Bolsa da ilha." },
+    { "gameKey": "custom/007/CtsMjiFarmShop_00787#TEXT_CTSMJIFARMSHOP_00787_Q1_200_000", "hash": "57A9305C1700CE91", "target": "Ora, olá, visita da casa! (Pssiu, só entre nós, talvez eu tenha algo pra você... se tiver conchas.) \\<bipe> Ah, não tinha visto você aí, bolinha feliz! Fique em paz, só estou conversando com esta pessoa adorável. (Gato desgraçado e intrometido...)" }
   ]
 }

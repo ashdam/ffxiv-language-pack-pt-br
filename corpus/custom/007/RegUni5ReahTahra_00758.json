@@ -2,16 +2,16 @@
   "conversation": "custom/007/RegUni5ReahTahra_00758",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_000", "hash": "4EF319EC0377C078", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_Q1_000_000", "hash": "A818851C1A05B343", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_001", "hash": "039714A98773476D", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_002", "hash": "05DF2C9C62F54B9F", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_003", "hash": "2710AA1A4E02777D", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_010", "hash": "7482F8F9E12F5454", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_011", "hash": "8BCEEB7CF150761B", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_020", "hash": "472F31F90B2691E6", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_021", "hash": "96AF541268040039", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_022", "hash": "74C5A2A7DEF66970", "target": "" },
-    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_023", "hash": "9CCF816D3BF44714", "target": "" }
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_000", "hash": "4EF319EC0377C078", "target": "Hmm... Você difere dos demais. Este lugar não lhe convém. Não se demore..." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_Q1_000_000", "hash": "A818851C1A05B343", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_001", "hash": "039714A98773476D", "target": "Quem é você?" },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_002", "hash": "05DF2C9C62F54B9F", "target": "Que lugar é este?" },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_A1_000_003", "hash": "2710AA1A4E02777D", "target": "Nada." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_010", "hash": "7482F8F9E12F5454", "target": "Contar minha história não lhe altera o curso. Se souber que os meus outrora reinaram sobre estes céus, nosso reino há de voltar? Se eu me gabar de ter sido o maior dos nossos caçadores, voltarão à vida os companheiros que deixei perecer?" },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_011", "hash": "8BCEEB7CF150761B", "target": "Não. Outrora vivi, e agora aguardo o esquecimento que se avizinha. Nada mais." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_020", "hash": "472F31F90B2691E6", "target": "Isto? Isto não é o nosso lar. Ao nosso lar vieram os demônios de metal, que dele varreram toda a vida e toda a alegria." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_021", "hash": "96AF541268040039", "target": "Estes são meros ossos. Entre eles repousam nossas asas para todo o sempre." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_022", "hash": "74C5A2A7DEF66970", "target": "Deixe-nos agora em nosso luto, viajante. Aqui não encontrará consolo." },
+    { "gameKey": "custom/007/RegUni5ReahTahra_00758#TEXT_REGUNI5REAHTAHRA_00758_FOHLOLOH_000_023", "hash": "9CCF816D3BF44714", "target": "No entanto, sinto que algo desperta... Paixões que já não deveriam vicejar neste túmulo..." }
   ]
 }

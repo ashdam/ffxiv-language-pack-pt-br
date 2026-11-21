@@ -2,16 +2,16 @@
   "conversation": "custom/006/RegNor4PlaEnni_00600",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_000", "hash": "F5A1B210A5EDD8C1", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_Q1_000_000", "hash": "F515E6A9D3B31D2B", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_001", "hash": "349824D469B874D7", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_002", "hash": "1541F072299B269C", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_003", "hash": "939E6F17A9229D9F", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_100", "hash": "930177E471AE3D40", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_101", "hash": "AC30D30B093EF17F", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_102", "hash": "E05689D7E3B5EE4C", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_200", "hash": "4333D0201B33E34E", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_201", "hash": "DB50FFA726CFD91D", "target": "" },
-    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_202", "hash": "9E5A2FB7E090DECC", "target": "" }
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_000", "hash": "F5A1B210A5EDD8C1", "target": "Q-quer me fazer perguntas? Terei prazer em contar o que sei! Quanto ao pagamento justo... Ah, sim, peço que me escute!" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_Q1_000_000", "hash": "F515E6A9D3B31D2B", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_001", "hash": "349824D469B874D7", "target": "Conte-me sobre você." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_002", "hash": "1541F072299B269C", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_A1_000_003", "hash": "939E6F17A9229D9F", "target": "Nada." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_100", "hash": "930177E471AE3D40", "target": "Sou só um Nu Mou como qualquer outro. Ofereço meus serviços a quem precisa em troca de um pagamento justo." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_101", "hash": "AC30D30B093EF17F", "target": "Mas, se perguntar aos outros, vão dizer que sou péssimo para definir preços. Dizem que peço pouco em troca." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_102", "hash": "E05689D7E3B5EE4C", "target": "Eu digo que cada um sabe de si. Se a pessoa ficou satisfeita, recebeu um pagamento justo, não acha?" },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_200", "hash": "4333D0201B33E34E", "target": "Esta caverna se chama Pla Enni, e nosso povo vive aqui há gerações. Para os pixies, é um lugar úmido, sombrio e triste, mas nós, Nu Mou, gostamos exatamente assim." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_201", "hash": "DB50FFA726CFD91D", "target": "Caso esteja se perguntando, Pla Enni é o nome de um tipo de cogumelo essencial à nossa vida. Fazemos nossas casas com eles e usamos seus esporos para preparar nossas misturas mágicas." },
+    { "gameKey": "custom/006/RegNor4PlaEnni_00600#TEXT_REGNOR4PLAENNI_00600_TYRNEE_000_202", "hash": "9E5A2FB7E090DECC", "target": "Infelizmente, com o povo de Voeburt desaparecido há tanto tempo, hoje pouca gente vem em busca das nossas misturas. Ficamos sem a clientela de que tanto sentimos falta. \\<suspiro> Que tempos difíceis..." }
   ]
 }

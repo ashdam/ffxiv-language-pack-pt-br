@@ -2,19 +2,19 @@
   "conversation": "custom/001/CmnDefHousingGardeningPlant_00151",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_NONE", "hash": "CCAB9C186590BCCD", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_END_EVENT", "hash": "982DF79E51B0873D", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_SEED", "hash": "F7C8800E8B5414F5", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_FERTILIZER", "hash": "9ACA837C5E4421BF", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_CARE", "hash": "A0E8DB0523EA897B", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_DISPOSE", "hash": "A7B39923BFAE173F", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_HARVEST", "hash": "3498505EE9E39847", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEAD", "hash": "E98835BDC8DAB767", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_VIGOROUS", "hash": "FD13A6BF76927879", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEPRESSED", "hash": "47D14136C559A6BC", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_RIPE", "hash": "1D93D9BD24F8BEBD", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE", "hash": "B356B4C71D855519", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_YES", "hash": "A479BD8196E118A9", "target": "" },
-    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_NO", "hash": "85F2E622D36B2ED3", "target": "" }
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_NONE", "hash": "CCAB9C186590BCCD", "target": "Este canteiro está vazio." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_END_EVENT", "hash": "982DF79E51B0873D", "target": "Sair" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_SEED", "hash": "F7C8800E8B5414F5", "target": "Plantar sementes" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_FERTILIZER", "hash": "9ACA837C5E4421BF", "target": "Adubar a planta" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_CARE", "hash": "A0E8DB0523EA897B", "target": "Cuidar da planta" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_DISPOSE", "hash": "A7B39923BFAE173F", "target": "Remover a planta" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_HARVEST", "hash": "3498505EE9E39847", "target": "Colher a planta" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEAD", "hash": "E98835BDC8DAB767", "target": "<sheet(Item,lnum1,9)><br>Esta planta não tem mais salvação." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_VIGOROUS", "hash": "FD13A6BF76927879", "target": "<sheet(Item,lnum1,9)><br>Esta planta está crescendo bem." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEPRESSED", "hash": "47D14136C559A6BC", "target": "<sheet(Item,lnum1,9)><br>Esta planta já teve dias melhores..." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_RIPE", "hash": "1D93D9BD24F8BEBD", "target": "<sheet(Item,lnum1,9)><br>Esta planta está pronta para a colheita." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE", "hash": "B356B4C71D855519", "target": "Tem certeza de que deseja remover esta planta?" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_YES", "hash": "A479BD8196E118A9", "target": "Sim" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_NO", "hash": "85F2E622D36B2ED3", "target": "Não" }
   ]
 }

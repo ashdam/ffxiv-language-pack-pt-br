@@ -2,11 +2,11 @@
   "conversation": "custom/001/CmnDefTomestoneExchange_00153",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP", "hash": "556523DCDDDD55FE", "target": "" },
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE", "hash": "A1D0066FDBDE1342", "target": "" },
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q", "hash": "1A830301AA2BF63A", "target": "" },
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q", "hash": "D23251643528582B", "target": "" },
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES", "hash": "160A52BC56BA96C6", "target": "" },
-    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO", "hash": "A4B47C14B6C9A6A7", "target": "" }
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP", "hash": "556523DCDDDD55FE", "target": "Parece que dia sim, dia não, paramos de negociar um tipo de tomestone. Sempre chega uma hora em que Rowena acha que o trabalho não vale a pena." },
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE", "hash": "A1D0066FDBDE1342", "target": "Mas talvez eu ainda tenha uso para elas. Se tiver alguma de que não precise, traga aqui e eu dou algo melhor em troca." },
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q", "hash": "1A830301AA2BF63A", "target": "Mas talvez eu ainda tenha uso para elas. Se tiver alguma de que não precise, eu dou algo melhor em troca." },
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q", "hash": "D23251643528582B", "target": "Trocar <kilo(lnum2,\\,)> <ennoun(Item,3,lnum1,2,1)> por <kilo(lnum4,\\,)> <ennoun(Item,3,lnum3,2,1)>?" },
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES", "hash": "160A52BC56BA96C6", "target": "Sim" },
+    { "gameKey": "custom/001/CmnDefTomestoneExchange_00153#TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO", "hash": "A4B47C14B6C9A6A7", "target": "Não" }
   ]
 }

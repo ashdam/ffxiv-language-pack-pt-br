@@ -2,10 +2,10 @@
   "sheet": "MateAuthorityCategory",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "MateAuthorityCategory#1", "hash": "8C3B345F472CC4D9", "target": "" },
-    { "gameKey": "MateAuthorityCategory#2", "hash": "00ABDDCBC1F6F713", "target": "" },
-    { "gameKey": "MateAuthorityCategory#3", "hash": "9DCA76B9881A19C3", "target": "" },
-    { "gameKey": "MateAuthorityCategory#4", "hash": "265A8A0391DAC8D9", "target": "" },
-    { "gameKey": "MateAuthorityCategory#5", "hash": "27125A145DD7C9E9", "target": "" }
+    { "gameKey": "MateAuthorityCategory#1", "hash": "8C3B345F472CC4D9", "target": "Personalização da propriedade" },
+    { "gameKey": "MateAuthorityCategory#2", "hash": "00ABDDCBC1F6F713", "target": "Jardinagem" },
+    { "gameKey": "MateAuthorityCategory#3", "hash": "9DCA76B9881A19C3", "target": "Cuidados com o estábulo" },
+    { "gameKey": "MateAuthorityCategory#4", "hash": "265A8A0391DAC8D9", "target": "Orchestrion" },
+    { "gameKey": "MateAuthorityCategory#5", "hash": "27125A145DD7C9E9", "target": "Livro de visitas" }
   ]
 }

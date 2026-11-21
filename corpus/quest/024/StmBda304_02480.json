@@ -67,6 +67,6 @@
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_ALISAIE_000_151", "hash": "AB3B3FA373113EAD", "target": "E como demonstrar melhor nosso valor do que... procurar pessoas com problemas comuns e oferecer nossa ajuda especializada?" },
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_LYSE_000_152", "hash": "3D8338E55D42BF43", "target": "Não seria a primeira vez que conquistamos a confiança de alguém ajudando com uma coisa ou outra. E sabem que não será a última." },
     { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_LYSE_000_153", "hash": "F4996BE22578E4FF", "target": "Vou procurar no lado oeste de Onokoro. Vocês <if(gnum4,duas,dois)> ficam com o leste. Boa sorte!" },
-    { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_SYSTEM_000_154", "hash": "069936017F934B2F", "target": "Você aprendeu o gesto <colortype(500)><edgecolortype(501)>Eastern Bow<edgecolortype(0)><colortype(0)>!" }
+    { "gameKey": "quest/024/StmBda304_02480#TEXT_STMBDA304_02480_SYSTEM_000_154", "hash": "069936017F934B2F", "target": "Você aprendeu o gesto <colortype(500)><edgecolortype(501)>Reverência oriental<edgecolortype(0)><colortype(0)>!" }
   ]
 }

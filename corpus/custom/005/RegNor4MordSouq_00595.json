@@ -2,18 +2,18 @@
   "conversation": "custom/005/RegNor4MordSouq_00595",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_000", "hash": "663AC47470335740", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_010", "hash": "A33DEB075397B1B1", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_020", "hash": "2A982C04EA11D62F", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_030", "hash": "F10FF20B06E7A576", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_Q1_000_000", "hash": "B544111F5A21CD8B", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_001", "hash": "94906A952BAD3391", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_002", "hash": "81BEDF1909606961", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_003", "hash": "BD240CF708400D1A", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_100", "hash": "6D77C546FF372AC7", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_101", "hash": "8689DA83FD88A052", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_200", "hash": "29191F21142D04C2", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_201", "hash": "224F93D30C8F22BC", "target": "" },
-    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_202", "hash": "E515D1C4F673A359", "target": "" }
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_000", "hash": "663AC47470335740", "target": "Saudações a você! Posso ajudar em alguma coisa?" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_010", "hash": "A33DEB075397B1B1", "target": "Vivemos tempos sombrios... O que é bom! Bom, sombrios à noite, pelo menos." },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_020", "hash": "2A982C04EA11D62F", "target": "Não tem mais noite? Por quê? Acabou a escuridão? Ah, desculpe fazer tanta pergunta, quando dá para ver que você não sabe responder. Ou tem uma pergunta para mim?" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_030", "hash": "F10FF20B06E7A576", "target": "A noite voltou! E, se o dia sumir de vez, vou ficar mais feliz ainda!" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_Q1_000_000", "hash": "B544111F5A21CD8B", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_001", "hash": "94906A952BAD3391", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_002", "hash": "81BEDF1909606961", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_A1_000_003", "hash": "BD240CF708400D1A", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_100", "hash": "6D77C546FF372AC7", "target": "Eu sou catador! Parece que vivemos rondando por aí, catando restos de animais mortos, e às vezes catamos mesmo, para ser justo, mas nosso trabalho é encontrar brilhinhos perdidos! Sua gente chama de “relíquias”, se não me engano." },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_101", "hash": "8689DA83FD88A052", "target": "Temos muito orgulho do que fazemos! Os historiadores querem saber sobre o passado, e nós ajudamos! Por um preço, claro." },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_200", "hash": "29191F21142D04C2", "target": "Vem todo tipo de gente a Mord Souq! Viajantes atravessando o deserto, historiadores procurando brilhinhos, comerciantes... comerciando." },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_201", "hash": "224F93D30C8F22BC", "target": "Mas todos têm uma coisa em comum. Tilintins para gastar!" },
+    { "gameKey": "custom/005/RegNor4MordSouq_00595#TEXT_REGNOR4MORDSOUQ_00595_GHELGEL_000_202", "hash": "E515D1C4F673A359", "target": "Claro, se não fosse por nós, catadores, não haveria muito para atrair essa clientela. Desenterrar brilhinhos antigos é nossa especialidade. Se estiver procurando algo em particular, podemos achar para você!" }
   ]
 }

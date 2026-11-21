@@ -2,15 +2,15 @@
   "conversation": "custom/005/RegNor4Tomra_00594",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "" },
-    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "" }
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_000", "hash": "F3CE46CD14EDC08D", "target": "Lali-ho! Boas-vindas a Tomra. Se tiver alguma pergunta, sou o anão com quem deve falar!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_Q1_000_000", "hash": "0164FFEE4D89D726", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_001", "hash": "B0FE1A04D4FB0B13", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_002", "hash": "81960018734A973F", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_A1_000_003", "hash": "E554E77A5F750472", "target": "Nada." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_010", "hash": "F8E12F786F3FB27C", "target": "Já fui mineiro, mas meus dias de brandir picareta acabaram quando minhas costas ficaram velhas e tortas demais. Agora só aproveito a melhor idade!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_011", "hash": "FB4D72DB039BE9B9", "target": "Fico sentado aqui, tomando uma boa cerveja dos anões e passando o tempo a me gabar de quem tem a melhor barba. A minha pode ser velha, mas continua cheia de vida!" },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_020", "hash": "3CFB127E880ABA3D", "target": "Esta aldeia é o lar da família Tholl." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_021", "hash": "8F9B86E230A4A700", "target": "A gente vive principalmente do que tira das minas. Também vai ver uns caçadores e lavradores por aqui, sem falar dos autômatos. São os ajudantes de metal que construímos pra dar uma mão nas tarefas do dia a dia." },
+    { "gameKey": "custom/005/RegNor4Tomra_00594#TEXT_REGNOR4TOMRA_00594_MAGUTT_000_022", "hash": "6EC5EC247E86A9EE", "target": "Ah, um conselho se for pro leste: cuidado com os Gogg. Não dá pra confiar em anões com aquelas barbas duras e desgrenhadas! Só de ver aqueles canalhas, meus bigodes já se enrolam... \\<cuspe>" }
   ]
 }

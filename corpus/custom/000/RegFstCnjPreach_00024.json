@@ -2,19 +2,19 @@
   "conversation": "custom/000/RegFstCnjPreach_00024",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3", "hash": "B4939055A92A4A3A", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4", "hash": "BA8CD4EF42F0EDB6", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5", "hash": "3C313D891CDCECEA", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6", "hash": "4209CFBB33C44F12", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7", "hash": "6B763491441975E3", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8", "hash": "430466C475AF8B31", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9", "hash": "790FD095C50A159A", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_Q1_000_1", "hash": "1DAA6595B36F7B64", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_1", "hash": "BDE873F6EEB28D72", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_2", "hash": "0C9A513BB6663D76", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_3", "hash": "70DDE0AA3083480D", "target": "" },
-    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_4", "hash": "C468CB181F7DE51B", "target": "" }
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_1", "hash": "5B61515BA18151BD", "target": "Saudações e boas-vindas a Gridania, a nação da floresta." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_2", "hash": "4FC625A5560221EA", "target": "Deseja se aproximar mais dos elementais? Nesse caso, será um prazer ajudar." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_3", "hash": "B4939055A92A4A3A", "target": "Entre os conjuradores, alguns têm a capacidade de se comunicar com os elementais. São conhecidos como Ouvintes, e eu sou um deles." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_4", "hash": "BA8CD4EF42F0EDB6", "target": "Com meu dom de ouvir, oriento os cidadãos de Gridania segundo a vontade dos elementais. É assim que contribuo para que a harmonia sempre reine na Mata dos Doze." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_5", "hash": "3C313D891CDCECEA", "target": "Os elementais são os guardiões eternos da Mata dos Doze. Desde tempos imemoriais, zelam pela floresta e por tudo o que vive nela, preservando o equilíbrio da natureza." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_6", "hash": "4209CFBB33C44F12", "target": "Por um pacto antigo, foi permitido aos mortais viver na Mata dos Doze. Assim nasceu a nação de Gridania, há cerca de quinhentos anos." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_7", "hash": "6B763491441975E3", "target": "Infelizmente, os elementais sofreram muito com os acontecimentos calamitosos que deram início à Sétima Era Umbral. Por mais que sejamos meros mortais, agora cabe a nós proteger a floresta com corpo, mente e espírito." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_8", "hash": "430466C475AF8B31", "target": "Por mais incontáveis que sejam nossas provações, nunca devemos perder a esperança." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_OSWOLD_000_9", "hash": "790FD095C50A159A", "target": "Pois, como ensina a Vidente-Mor, os elementais sempre velam por nós. Enquanto confiarmos neles e cada um fizer sua parte, tudo ficará bem." },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_Q1_000_1", "hash": "1DAA6595B36F7B64", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_1", "hash": "BDE873F6EEB28D72", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_2", "hash": "0C9A513BB6663D76", "target": "O que são os elementais?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_3", "hash": "70DDE0AA3083480D", "target": "O que eu preciso fazer?" },
+    { "gameKey": "custom/000/RegFstCnjPreach_00024#TEXT_REGFSTCNJPREACH_00024_A1_000_4", "hash": "C468CB181F7DE51B", "target": "Nada." }
   ]
 }

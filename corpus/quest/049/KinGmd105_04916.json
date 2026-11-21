@@ -56,7 +56,7 @@
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_030", "hash": "AA1AB3DAB94424DB", "target": "Wihuwte deve aparecer logo." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_040", "hash": "82F782C9CBE6C876", "target": "Os yeheheceyaa devem ter sido coisa daquele Shetona. O que ele quer?" },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_100_040", "hash": "563F4055E50AAF3C", "target": "Hmpf. E ainda tem o moleque. Já passou da hora de cuidar dele." },
-    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_041", "hash": "1A850C675E7DDF29", "target": "Wihuwte não percebe sua presença. Talvez um <colortype(500)><edgecolortype(501)>poke<edgecolortype(0)><colortype(0)> gentil chame sua atenção." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_041", "hash": "1A850C675E7DDF29", "target": "Wihuwte não percebe sua presença. Talvez usar <colortype(500)><edgecolortype(501)>Cutucar<edgecolortype(0)><colortype(0)> de leve chame sua atenção." },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_050", "hash": "75CDFD4B7A41FF44", "target": "Hm? O que foi?" },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_051", "hash": "B1373E89770518FB", "target": "Ah, um rosto novo por aqui. Aham. Precisa da Vigília da Poeira, <if(gnum4,senhorita,senhor)>?" },
     { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_052", "hash": "560D7BFEFEBA80FA", "target": "O quê? Zekowa tentou roubar você, mas conseguiu prendê-lo!?" },

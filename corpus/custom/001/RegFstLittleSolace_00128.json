@@ -2,17 +2,17 @@
   "conversation": "custom/001/RegFstLittleSolace_00128",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_000", "hash": "01D9D31657FC4BC5", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_010", "hash": "A85E93B29CD42CFD", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_011", "hash": "2D8169FE6BDDF44A", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_012", "hash": "635A5C95FF3F71A1", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_020", "hash": "0E0827151F09EB6F", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_021", "hash": "3FF048B353C9808A", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_022", "hash": "84856D452ADEF9F3", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_023", "hash": "810709A14257F6AE", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_Q1_000_000", "hash": "666D029F87DD0AB1", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_001", "hash": "D6340ABBFEAB4FFA", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_002", "hash": "B4050036169B32D5", "target": "" },
-    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_003", "hash": "3D0E7B98329AA3EF", "target": "" }
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_000", "hash": "01D9D31657FC4BC5", "target": "Este aqui saúda o que anda. O que anda precisa de algo deste aqui?" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_010", "hash": "A85E93B29CD42CFD", "target": "Este aqui se chama Knolexia. Este aqui tece para o bem de todos estes aqui." },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_011", "hash": "2D8169FE6BDDF44A", "target": "Estes aqui sabem tecer. Com agulha e linha, estes aqui fazem quase qualquer coisa, até casas!" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_012", "hash": "635A5C95FF3F71A1", "target": "O que anda reparou nos bordados das casas? São desenhos encantados para espantar as coisas sombrias!" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_020", "hash": "0E0827151F09EB6F", "target": "Este lugar se chama Pequeno Consolo, o novo lar destes aqui." },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_021", "hash": "3FF048B353C9808A", "target": "Estes aqui viviam felizes no fundo da floresta, até que os travessos foram lá e invocaram um primordial." },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_022", "hash": "84856D452ADEF9F3", "target": "Com medo dos travessos que viraram tocados, estes aqui fugiram da sua terra. Graças à chifruda Kan<-->E, estes aqui puderam construir um novo lar aqui." },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_KNOLEXIA_000_023", "hash": "810709A14257F6AE", "target": "Este aqui não sabe quando, mas um dia estes aqui vão voltar para casa. Este aqui tem esperança!" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_Q1_000_000", "hash": "666D029F87DD0AB1", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_001", "hash": "D6340ABBFEAB4FFA", "target": "O que você faz aqui?" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_002", "hash": "B4050036169B32D5", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/001/RegFstLittleSolace_00128#TEXT_REGFSTLITTLESOLACE_00128_A1_000_003", "hash": "3D0E7B98329AA3EF", "target": "Nada." }
   ]
 }

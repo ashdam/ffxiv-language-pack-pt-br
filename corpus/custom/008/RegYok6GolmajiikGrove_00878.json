@@ -2,17 +2,17 @@
   "conversation": "custom/008/RegYok6GolmajiikGrove_00878",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_000", "hash": "6D92AF6E41AFCC60", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_010", "hash": "E49F6CA6026928F2", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_Q1_000_000", "hash": "8749C9D4E65EFCA6", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_001", "hash": "BD8470EACF3F2BA9", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_002", "hash": "8B25B60AC96A8156", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_003", "hash": "E48E2867771A4701", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_020", "hash": "F735458DC4AE274E", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_021", "hash": "E06BC18A8FCE75E8", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_030", "hash": "DC9FA0C0FA010F30", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_031", "hash": "BFE548EA9EA08FBA", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_040", "hash": "AA91A916742FB333", "target": "" },
-    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_050", "hash": "3F659CB9D17918A6", "target": "" }
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_000", "hash": "6D92AF6E41AFCC60", "target": "Não tenho nada a dizer a gente de fora." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_010", "hash": "E49F6CA6026928F2", "target": "Sim? Veio perguntar sobre najool?" },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_Q1_000_000", "hash": "8749C9D4E65EFCA6", "target": "O que você vai perguntar?" },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_001", "hash": "BD8470EACF3F2BA9", "target": "Quem é você?" },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_002", "hash": "8B25B60AC96A8156", "target": "Que tipo de lugar é este?" },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_A1_000_003", "hash": "E48E2867771A4701", "target": "Nada." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_020", "hash": "F735458DC4AE274E", "target": "Sou só uma pessoa humilde que trabalha no bosque. O najool, ou banana de Ja Tiika, como vocês chamam, pode ter uma aparência incomum, mas é bem doce." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_021", "hash": "E06BC18A8FCE75E8", "target": "Propus vários usos para as cascas brilhantes, como curtir peles de animais ou acrescentar a remédios. Infelizmente, minhas ideias não são muito populares..." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_030", "hash": "DC9FA0C0FA010F30", "target": "Este é o Bosque de Golmajiik, onde cultivamos najool. Como pode ver, é um dos lugares mais claros e abertos de Mamook." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_031", "hash": "BFE548EA9EA08FBA", "target": "Nosso povo é quem mais consome o fruto, mas as folhas... b-bem, sabe-se que gente de fora também as usa. Receio que não possa dizer mais. Segredos do ofício, sabe?" },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_040", "hash": "AA91A916742FB333", "target": "Quem diria que poderíamos plantar outras coisas aqui... Mesmo assim, pretendo continuar cultivando najool, como sempre fiz. Afinal, é uma parte preciosa da nossa cultura." },
+    { "gameKey": "custom/008/RegYok6GolmajiikGrove_00878#TEXT_REGYOK6GOLMAJIIKGROVE_00878_HAPOLLJA_000_050", "hash": "3F659CB9D17918A6", "target": "Já não são irmãos abençoados que ocupam o posto mais alto de poder. Eu sei disso, mas ainda não assimilei bem a verdade. Talvez esta floresta consiga mesmo mudar, afinal..." }
   ]
 }
