@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 814930,
-  "total": 817186,
+  "translated": 814927,
+  "total": 817183,
   "percent": 99.7,
-  "chars": 60797540,
+  "chars": 60797486,
   "unresolved": 5785,
   "groups": [
     {
@@ -81,8 +81,8 @@
     {
       "expansion": "A Realm Reborn",
       "content": "Quests",
-      "translated": 79072,
-      "total": 79072
+      "translated": 79069,
+      "total": 79069
     },
     {
       "expansion": "Heavensward",
@@ -200,13 +200,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 304221,
-        "translated": 304221,
+        "total": 304218,
+        "translated": 304218,
         "pending": 0,
         "stale": 0,
         "excluded": 149,
         "excludedTranslated": 137,
-        "chars": 36153878,
+        "chars": 36153824,
         "percent": 100
       },
       "children": [
@@ -222,13 +222,13 @@
             "mjiprogress"
           ],
           "counts": {
-            "total": 264764,
-            "translated": 264764,
+            "total": 264761,
+            "translated": 264761,
             "pending": 0,
             "stale": 0,
             "excluded": 99,
             "excludedTranslated": 99,
-            "chars": 33750100,
+            "chars": 33750046,
             "percent": 100
           },
           "children": [
@@ -241,13 +241,13 @@
                 "quest/"
               ],
               "counts": {
-                "total": 264263,
-                "translated": 264263,
+                "total": 264260,
+                "translated": 264260,
                 "pending": 0,
                 "stale": 0,
                 "excluded": 98,
                 "excludedTranslated": 98,
-                "chars": 33720664,
+                "chars": 33720610,
                 "percent": 100
               },
               "children": [
@@ -333,13 +333,13 @@
                   "value": "A Realm Reborn",
                   "sheets": [],
                   "counts": {
-                    "total": 77277,
-                    "translated": 77277,
+                    "total": 77274,
+                    "translated": 77274,
                     "pending": 0,
                     "stale": 0,
                     "excluded": 91,
                     "excludedTranslated": 91,
-                    "chars": 10784451,
+                    "chars": 10784397,
                     "percent": 100
                   },
                   "children": [
@@ -2480,13 +2480,13 @@
                       "value": "special",
                       "sheets": [],
                       "counts": {
-                        "total": 569,
-                        "translated": 569,
+                        "total": 566,
+                        "translated": 566,
                         "pending": 0,
                         "stale": 0,
                         "excluded": 0,
                         "excludedTranslated": 0,
-                        "chars": 94627,
+                        "chars": 94573,
                         "percent": 100
                       },
                       "children": [
@@ -2497,13 +2497,13 @@
                           "value": "Grand Company Quests",
                           "sheets": [],
                           "counts": {
-                            "total": 271,
-                            "translated": 271,
+                            "total": 268,
+                            "translated": 268,
                             "pending": 0,
                             "stale": 0,
                             "excluded": 0,
                             "excludedTranslated": 0,
-                            "chars": 48368,
+                            "chars": 48314,
                             "percent": 100
                           },
                           "children": [
@@ -2514,13 +2514,13 @@
                               "value": "Immortal Flames Quests",
                               "sheets": [],
                               "counts": {
-                                "total": 91,
-                                "translated": 91,
+                                "total": 90,
+                                "translated": 90,
                                 "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
-                                "chars": 16515,
+                                "chars": 16497,
                                 "percent": 100
                               },
                               "children": []
@@ -2532,13 +2532,13 @@
                               "value": "Maelstrom Quests",
                               "sheets": [],
                               "counts": {
-                                "total": 90,
-                                "translated": 90,
+                                "total": 89,
+                                "translated": 89,
                                 "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
-                                "chars": 15809,
+                                "chars": 15791,
                                 "percent": 100
                               },
                               "children": []
@@ -2550,13 +2550,13 @@
                               "value": "Order of the Twin Adder Quests",
                               "sheets": [],
                               "counts": {
-                                "total": 90,
-                                "translated": 90,
+                                "total": 89,
+                                "translated": 89,
                                 "pending": 0,
                                 "stale": 0,
                                 "excluded": 0,
                                 "excludedTranslated": 0,
-                                "chars": 16044,
+                                "chars": 16026,
                                 "percent": 100
                               },
                               "children": []
