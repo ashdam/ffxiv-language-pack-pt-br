@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 814956,
-  "total": 817216,
+  "translated": 814930,
+  "total": 817186,
   "percent": 99.7,
-  "chars": 60798704,
+  "chars": 60797540,
   "unresolved": 5785,
   "groups": [
     {
@@ -14,27 +14,9 @@
     },
     {
       "expansion": null,
-      "content": "Crafting and gathering",
-      "translated": 8560,
-      "total": 8560
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23095,
-      "total": 23095
-    },
-    {
-      "expansion": null,
-      "content": "Chat and system messages",
-      "translated": 12966,
-      "total": 12966
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
+      "content": "Tutorials and guides",
+      "translated": 3059,
+      "total": 3059
     },
     {
       "expansion": null,
@@ -44,9 +26,33 @@
     },
     {
       "expansion": null,
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
+    },
+    {
+      "expansion": null,
+      "content": "Crafting and gathering",
+      "translated": 8560,
+      "total": 8560
+    },
+    {
+      "expansion": null,
       "content": "Floating names",
       "translated": 110396,
       "total": 110396
+    },
+    {
+      "expansion": null,
+      "content": "Items",
+      "translated": 188773,
+      "total": 188773
+    },
+    {
+      "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 12966,
+      "total": 12966
     },
     {
       "expansion": null,
@@ -57,26 +63,20 @@
     {
       "expansion": null,
       "content": "Dialogue and world lore",
-      "translated": 43220,
-      "total": 43220
+      "translated": 43194,
+      "total": 43194
     },
     {
       "expansion": null,
-      "content": "Character",
-      "translated": 10321,
-      "total": 10321
+      "content": "Duties and field operations",
+      "translated": 23095,
+      "total": 23095
     },
     {
       "expansion": null,
-      "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Items",
-      "translated": 188773,
-      "total": 188773
+      "content": "Place names",
+      "translated": 10520,
+      "total": 10520
     },
     {
       "expansion": "A Realm Reborn",
@@ -116,15 +116,15 @@
     },
     {
       "expansion": null,
-      "content": "Place names",
-      "translated": 10520,
-      "total": 10520
+      "content": "Character",
+      "translated": 10321,
+      "total": 10321
     },
     {
       "expansion": null,
       "content": "Internal UI catalogs",
       "translated": 43,
-      "total": 2303
+      "total": 2299
     }
   ],
   "excludedFromLocalization": [
@@ -144,9 +144,9 @@
   "inventoryExclusions": [
     {
       "expansion": null,
-      "content": "Trait",
+      "content": "ActionTransient",
       "translated": 0,
-      "total": 682,
+      "total": 3397,
       "wholeSheet": true
     },
     {
@@ -165,6 +165,13 @@
     },
     {
       "expansion": null,
+      "content": "Trait",
+      "translated": 0,
+      "total": 682,
+      "wholeSheet": true
+    },
+    {
+      "expansion": null,
       "content": "ClassJob",
       "translated": 0,
       "total": 130,
@@ -172,16 +179,9 @@
     },
     {
       "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3397,
-      "wholeSheet": true
-    },
-    {
-      "expansion": null,
       "content": "banners",
       "translated": 0,
-      "total": 62,
+      "total": 14,
       "wholeSheet": false
     },
     {
@@ -25545,13 +25545,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 43220,
-        "translated": 43220,
+        "total": 43194,
+        "translated": 43194,
         "pending": 0,
         "stale": 0,
         "excluded": 50,
         "excludedTranslated": 50,
-        "chars": 3095069,
+        "chars": 3093998,
         "percent": 100
       },
       "children": [
@@ -25570,13 +25570,13 @@
             "mkdrelicgrowth2monster"
           ],
           "counts": {
-            "total": 43063,
-            "translated": 43063,
+            "total": 43037,
+            "translated": 43037,
             "pending": 0,
             "stale": 0,
             "excluded": 46,
             "excludedTranslated": 46,
-            "chars": 3038182,
+            "chars": 3037111,
             "percent": 100
           },
           "children": [
@@ -25641,13 +25641,13 @@
               "value": "DefaultTalk",
               "sheets": [],
               "counts": {
-                "total": 14568,
-                "translated": 14568,
+                "total": 14542,
+                "translated": 14542,
                 "pending": 0,
                 "stale": 0,
                 "excluded": 6,
                 "excludedTranslated": 6,
-                "chars": 2011501,
+                "chars": 2010430,
                 "percent": 100
               },
               "children": []
@@ -53837,13 +53837,13 @@
     }
   ],
   "internalUi": {
-    "total": 2303,
+    "total": 2299,
     "translated": 43,
-    "pending": 2260,
+    "pending": 2256,
     "stale": 0,
-    "excluded": 110,
+    "excluded": 62,
     "excludedTranslated": 0,
-    "chars": 54888,
+    "chars": 54795,
     "percent": 1.9
   },
   "futureLocalization": [
